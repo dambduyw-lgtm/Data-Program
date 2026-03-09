@@ -1,0 +1,102 @@
+indexname,gvkey,tic,companyname,primaryflag,companyid
+S&P 100,007435,MMM,3M Company,1,289194
+S&P 100,009899,T,AT&T Inc.,1,100231
+S&P 100,016101,ABBV,AbbVie Inc.,1,141885706
+S&P 100,001078,ABT,Abbott Laboratories,1,247483
+S&P 100,143357,ACN,Accenture plc,1,972190
+S&P 100,012540,ADBE,Adobe Inc.,1,24321
+S&P 100,001161,AMD,"Advanced Micro Devices, Inc.",1,168864
+S&P 100,160329,GOOG,Alphabet Inc.,0,29096
+S&P 100,160329,GOOGL,Alphabet Inc.,1,29096
+S&P 100,008543,MO,"Altria Group, Inc.",1,296308
+S&P 100,064768,AMZN,"Amazon.com, Inc.",1,18749
+S&P 100,001447,AXP,American Express Company,1,92001
+S&P 100,001487,AIG,"American International Group, Inc.",1,250388
+S&P 100,105365,AMT,American Tower Corporation,1,24766
+S&P 100,001602,AMGN,Amgen Inc.,1,24816
+S&P 100,001690,AAPL,Apple Inc.,1,24937
+S&P 100,007647,BAC,Bank of America Corporation,1,19049
+S&P 100,002176,BRK.B,Berkshire Hathaway Inc.,0,255251
+S&P 100,124434,BLK,"BlackRock, Inc.",1,403413
+S&P 100,119314,BKNG,Booking Holdings Inc.,1,33254
+S&P 100,002403,BMY,Bristol-Myers Squibb Company,1,25798
+S&P 100,180711,AVGO,Broadcom Inc.,1,25016048
+S&P 100,007241,CVS,CVS Health Corporation,1,93625
+S&P 100,030990,COF,Capital One Financial Corporation,1,336241
+S&P 100,002817,CAT,Caterpillar Inc.,1,259378
+S&P 100,002991,CVX,Chevron Corporation,1,98506
+S&P 100,020779,CSCO,"Cisco Systems, Inc.",1,19691
+S&P 100,003243,C,Citigroup Inc.,1,391687
+S&P 100,003170,CL,Colgate-Palmolive Company,1,262247
+S&P 100,003226,CMCSA,Comcast Corporation,1,173341
+S&P 100,008549,COP,ConocoPhillips,1,296527
+S&P 100,029028,COST,Costco Wholesale Corporation,1,92817
+S&P 100,003735,DHR,Danaher Corporation,1,265621
+S&P 100,003835,DE,Deere & Company,1,266112
+S&P 100,004093,DUK,Duke Energy Corporation,1,267850
+S&P 100,006730,LLY,Eli Lilly and Company,1,285467
+S&P 100,004321,EMR,Emerson Electric Co.,1,269231
+S&P 100,004503,XOM,Exxon Mobil Corporation,1,406338
+S&P 100,004598,FDX,FedEx Corporation,1,124423
+S&P 100,005046,GD,General Dynamics Corporation,1,274561
+S&P 100,005047,GE,General Electric Company,1,177031
+S&P 100,005073,GM,General Motors Company,1,61206100
+S&P 100,024856,GILD,"Gilead Sciences, Inc.",1,29002
+S&P 100,001300,HON,Honeywell International Inc.,1,1340740
+S&P 100,006008,INTC,Intel Corporation,1,21127
+S&P 100,006066,IBM,International Business Machines Corporation,1,112350
+S&P 100,027928,INTU,Intuit Inc.,1,21171
+S&P 100,136725,ISRG,"Intuitive Surgical, Inc.",1,30239
+S&P 100,002968,JPM,JPMorgan Chase & Co.,1,658776
+S&P 100,006266,JNJ,Johnson & Johnson,1,139677
+S&P 100,025124,LIN,Linde plc,1,318049
+S&P 100,006774,LMT,Lockheed Martin Corporation,1,285827
+S&P 100,006829,LOW,"Lowe's Companies, Inc.",1,180871
+S&P 100,160225,MA,Mastercard Incorporated,1,6477196
+S&P 100,007154,MCD,McDonald's Corporation,1,139488
+S&P 100,007228,MDT,Medtronic plc,1,31348
+S&P 100,007257,MRK,"Merck & Co., Inc.",1,288502
+S&P 100,133768,MET,"MetLife, Inc.",1,185648
+S&P 100,170617,META,"Meta Platforms, Inc.",1,20765463
+S&P 100,012141,MSFT,Microsoft Corporation,1,21835
+S&P 100,142953,MDLZ,"Mondelez International, Inc.",1,739693
+S&P 100,012124,MS,Morgan Stanley,1,472898
+S&P 100,007906,NKE,"NIKE, Inc.",1,291981
+S&P 100,117768,NVDA,NVIDIA Corporation,1,32307
+S&P 100,147579,NFLX,"Netflix, Inc.",1,32012
+S&P 100,004517,NEE,"NextEra Energy, Inc.",1,270586
+S&P 100,012142,ORCL,Oracle Corporation,1,22247
+S&P 100,036910,PLTR,Palantir Technologies Inc.,1,43580005
+S&P 100,024616,PYPL,"PayPal Holdings, Inc.",1,112732
+S&P 100,008479,PEP,"PepsiCo, Inc.",1,32854
+S&P 100,008530,PFE,Pfizer Inc.,1,162270
+S&P 100,179621,PM,Philip Morris International Inc.,1,6569181
+S&P 100,024800,QCOM,QUALCOMM Incorporated,1,33493
+S&P 100,010983,RTX,RTX Corporation,1,159230
+S&P 100,157855,CRM,"Salesforce, Inc.",1,122917
+S&P 100,171007,NOW,"ServiceNow, Inc.",1,22967487
+S&P 100,029389,SPG,"Simon Property Group, Inc.",1,34378
+S&P 100,025434,SBUX,Starbucks Corporation,1,34745
+S&P 100,017874,TMUS,"T-Mobile US, Inc.",1,93339
+S&P 100,003813,TGT,Target Corporation,1,174438
+S&P 100,184996,TSLA,"Tesla, Inc.",1,27444752
+S&P 100,010499,TXN,Texas Instruments Incorporated,1,140283
+S&P 100,002019,BK,The Bank of New York Mellon Corporation,1,135506
+S&P 100,002285,BA,The Boeing Company,1,370857
+S&P 100,013988,SCHW,The Charles Schwab Corporation,1,34093
+S&P 100,003144,KO,The Coca-Cola Company,1,26642
+S&P 100,114628,GS,"The Goldman Sachs Group, Inc.",1,398625
+S&P 100,005680,HD,"The Home Depot, Inc.",1,278679
+S&P 100,008762,PG,The Procter & Gamble Company,1,33328
+S&P 100,009850,SO,The Southern Company,1,120623
+S&P 100,003980,DIS,The Walt Disney Company,1,191564
+S&P 100,010530,TMO,Thermo Fisher Scientific Inc.,1,97023
+S&P 100,004723,USB,U.S. Bancorp,1,305304
+S&P 100,035077,UBER,"Uber Technologies, Inc.",1,144524848
+S&P 100,010867,UNP,Union Pacific Corporation,1,310078
+S&P 100,010920,UPS,"United Parcel Service, Inc.",1,238570
+S&P 100,010903,UNH,UnitedHealth Group Incorporated,1,104673
+S&P 100,002136,VZ,Verizon Communications Inc.,1,415798
+S&P 100,179534,V,Visa Inc.,1,38043467
+S&P 100,011259,WMT,Walmart Inc.,1,313055
+S&P 100,008007,WFC,Wells Fargo & Company,1,292891
