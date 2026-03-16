@@ -19,23 +19,16 @@ def load_lm_word_sets(dict_path: str) -> Tuple[Set[str], Set[str], Set[str]]:
 
     return positive, negative, uncertainty
 
-
+# Split text into words.
 def tokenize_alpha(text: str):
     if not isinstance(text, str):
         return []
     return WORD_RE.findall(text.lower())
 
-
+# Compute LM metrics:
+# Tone = (positive - negative) / (positive + negative)
+# Uncertainty = uncertain_words / total_words
 def lm_tone_uncertainty(text: str, dict_path: str) -> Dict[str, float]:
-    """
-    Returns LM-based tone and uncertainty.
-
-    Tone here follows your A1 notebook logic:
-    (positive - negative) / (positive + negative)
-
-    Uncertainty:
-    uncertain_words / total_words
-    """
     if not isinstance(text, str) or not text.strip():
         return {
             "lm_positive": 0,
@@ -67,6 +60,9 @@ def lm_tone_uncertainty(text: str, dict_path: str) -> Dict[str, float]:
     neg = sum(counts[w] for w in counts if w in negative)
     unc = sum(counts[w] for w in counts if w in uncertainty)
 
+    # Returns LM metrics such as tone and uncertainty based on rules:
+    # Tone = (positive - negative) / (positive + negative)
+    # Uncertainty = uncertain_words / total_words
     tone = (pos - neg) / (pos + neg) if (pos + neg) > 0 else 0.0
     unc_score = unc / total
 

@@ -3,6 +3,7 @@ from typing import Dict, List, Tuple
 
 from ai_dictionary import CORE_AI_TERMS, AI_ADJACENT_TERMS
 
+# Create helpers to split transcript into sections and count dictionary hits
 PRESENTATION_HEADER = r"^Presentation\s*$"
 QA_HEADER = r"^(Questions\s+and\s+Answers|Q-and-A)\s*$"
 SECTION_DIVIDER_LINE = r"^-{20,}\s*$"
@@ -57,12 +58,17 @@ def split_presentation_and_qa(text: str) -> Tuple[str, str]:
 
     return "", ""
 
+# Normalize words before matching by:
+# 1. Converting words to lowercase
+# 2. Replacing multiple spaces with single space
+# 3. Strip leading or trailing spaces
 def normalize_for_matching(s: str) -> str:
     return re.sub(r"\s+", " ", s.lower()).strip()
 
 def word_count(text: str) -> int:
     return len(WORD_RE.findall(text))
 
+# Convert dictionary words into compiled regex patterns
 def build_term_patterns(terms: List[str]) -> List[Tuple[str, re.Pattern]]:
     patterns = []
     for t in terms:
@@ -78,11 +84,13 @@ def build_term_patterns(terms: List[str]) -> List[Tuple[str, re.Pattern]]:
 CORE_PATTERNS = build_term_patterns(CORE_AI_TERMS)
 ADJ_PATTERNS = build_term_patterns(AI_ADJACENT_TERMS)
 
+# Counts how often dictionary terms appear
 def count_dictionary_hits(text: str, patterns: List[Tuple[str, re.Pattern]]) -> Dict[str, int]:
     counts = {}
     for term, pat in patterns:
         counts[term] = len(pat.findall(text))
     return counts
 
+# Compiling total mentions
 def sum_counts(counts: Dict[str, int]) -> int:
     return int(sum(counts.values()))

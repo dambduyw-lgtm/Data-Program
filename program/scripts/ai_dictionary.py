@@ -1,3 +1,5 @@
+# Registering the list of core AI and AI-adjacent terms that will be later on used
+
 CORE_AI_TERMS = [
 
     # ---- Generic AI ----

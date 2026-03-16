@@ -1,13 +1,15 @@
 from pathlib import Path
 from pipeline import run_corpus
 
+# Set paths:
 BASE_DIR = Path(__file__).resolve().parents[2]
 
 INPUT_ROOT = BASE_DIR / "data" / "raw" / "transcript"
-OUT_CSV = BASE_DIR / "data" / "processed" / "ai_counts.csv"
-OUT_XLSX = BASE_DIR / "data" / "processed" / "ai_counts.xlsx"
+OUT_CSV = BASE_DIR / "data" / "processed" / "textual_analysis_results.csv"
+OUT_XLSX = BASE_DIR / "data" / "processed" / "textual_analysis_results.xlsx"
 LM_DICT = BASE_DIR / "data" / "raw" / "Loughran-McDonald_MasterDictionary_1993-2024.csv"
 
+# Set a single caller script
 if __name__ == "__main__":
     df = run_corpus(
         input_root=str(INPUT_ROOT),

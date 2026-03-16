@@ -1,27 +1,65 @@
 # AI-Washing in Earnings Calls
 
-This repository contains the code and data pipeline used for my Master's thesis analyzing AI-related language in earnings call transcripts and its relationship with stock market reactions.
+This repository contains the code and data pipeline used for my Master's thesis analyzing AI disclosure in earnings calls transcripts and its relationship with stock market reactions.
 
 ## Project Structure
 
-data/  
-Raw and processed datasets.
+```
+data/
+├── raw/
+│   └── (intial raw datasets)
+│
+├── processed/
+│   └── (intermediate datasets, product of the textual analysis phase)
+│
+output/
+│   └── (generated datasets for regression & graphs)
+│
+program/
+├── notebooks/
+│   └── (Jupyter notebooks for exploration and pipeline execution)
+│
+└── scripts/
+    └── (Python scripts mainly for text processing, AI dictionary construction, and analysis)
+```
 
-program/  
-Python scripts used for text processing, dictionary construction, and analysis.
+### Folder descriptions
 
-output/  
-Generated results and intermediate outputs.
+**data/raw/**  
+Original datasets collected from WRDS and LSEG, including S&P100 constituents, financial dictionaries, and raw earnings call transcripts.
 
-## Methodology
+**data/processed/**  
+Product of the textual analysis phase, stored here to later combine textual information with companies' financials.
 
-1. Build AI-specific and AI-adjacent keyword dictionaries
-2. Parse earnings call transcripts
-3. Separate presentation and Q&A sections
-4. Measure AI intensity in corporate disclosures
-5. Link textual metrics with stock return data
+**program/notebooks/**  
+Jupyter notebooks used to run the pipeline and inspect intermediate outputs.
 
-## Author
+**program/scripts/**  
+Reusable Python scripts for text processing, AI dictionary construction, transcript parsing, and dataset generation.
 
-Duy Dam  
-Rotterdam School of Management
+**output/**  
+Generated datasets for regression & graphs
+
+
+## Methodology & Workflow
+`(program/scripts/ai_dictionary.py)`
+1. Define the AI dictionaries
+
+`(program/scripts/text_processing.py)`
+2. Define textual processing rules. Count each dictionary hits over each section of or whole transcripts.
+
+`(program/scripts/metadata.py)`
+3. Define structured metadata extraction from the transcript header text. (call date, fiscal quarters, and year).
+
+`(program/scripts/lm_sentiment.py)`
+4. Define LM sentiment/uncertainty scoring. Import `(data/raw/Loughran-McDonald_MasterDictionary_1993-2024.csv)` to compute LM metrics.
+
+`(program/scripts/pipeline.py)`
+5. Combine all of above functions into one finalized pipeline. Define results dataclass and an engine to run all the previous steps.
+
+`(program/scripts/run_ai_counts.py)`
+6. Define the execution script to run the pipeline across all company folders.
+
+`(program/notebooks/textual_analysis_2.0.ipynb)`
+8. Use the notebook to trigger execution and inspect outputs.
+

@@ -1,9 +1,10 @@
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Optional
-
+import re
 import pandas as pd
 
+# Import relevant helper functions:
 from metadata import extract_call_date, extract_fiscal_quarter_year
 from text_processing import (
     split_presentation_and_qa,
@@ -15,9 +16,11 @@ from text_processing import (
 )
 from lm_sentiment import lm_tone_uncertainty
 
+# Define structure of output row
 @dataclass
 class TranscriptResult:
     company: str
+    ticker: Optional[str]
     date: Optional[str]
     file: str
     total_words: int
@@ -52,6 +55,9 @@ class TranscriptResult:
     fiscal_year: Optional[int]
     fiscal_period: Optional[str]
 
+# Sanity check to ensure that:
+# -1 ≤ tone ≤ 1
+# 0 ≤ uncertainty ≤ 1
 def validate_lm_scores(section_name: str, scores: dict, file_name: str) -> None:
     tone = scores.get("lm_tone", 0.0)
     uncertainty = scores.get("lm_uncertainty", 0.0)
@@ -74,12 +80,25 @@ def validate_lm_scores(section_name: str, scores: dict, file_name: str) -> None:
             f"total_tokens={scores.get('lm_total_tokens')}"
         )
 
+# Extract ticker from Refinitiv/LSEG transcript filename.
+# Example:
+# 2022-Apr-26-GOOGL.OQ-138254363287-Transcript.txt -> GOOGL
+# 2022-Apr-26-BRK.B.N-123456-Transcript.txt -> BRK
+def extract_ticker_from_filename(filename: str) -> Optional[str]:
+    m = re.search(r"^\d{4}-[A-Za-z]{3}-\d{2}-([A-Z]+)", filename)
+    if m:
+        return m.group(1)
+    return None
+
+
+# Implementing one process pipeline for one single file:
 def process_transcript(path: Path, company: str, lm_dict_path: str) -> TranscriptResult:
     raw = path.read_text(encoding="utf-8", errors="ignore")
 
     fiscal_quarter, fiscal_year, fiscal_period = extract_fiscal_quarter_year(raw)
     pres, qa = split_presentation_and_qa(raw)
 
+    ticker = extract_ticker_from_filename(path.name)
     total_words = word_count(raw)
     pres_words = word_count(pres) if pres else 0
     qa_words = word_count(qa) if qa else 0
@@ -110,6 +129,7 @@ def process_transcript(path: Path, company: str, lm_dict_path: str) -> Transcrip
 
     return TranscriptResult(
         company=company,
+        ticker=ticker,
         date=call_date,
         file=path.name,
         total_words=total_words,
@@ -148,6 +168,7 @@ def process_transcript(path: Path, company: str, lm_dict_path: str) -> Transcrip
 def per_1000(n, denom):
     return (n / denom * 1000.0) if denom and denom > 0 else 0.0
 
+# Loop through all transcripts to process all
 def run_corpus(input_root: str, out_csv: str, out_xlsx: str, lm_dict_path: str) -> pd.DataFrame:
     input_root = Path(input_root)
     rows = []
