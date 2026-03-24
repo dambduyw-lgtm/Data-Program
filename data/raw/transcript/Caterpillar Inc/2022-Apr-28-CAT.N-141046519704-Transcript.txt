@@ -1,0 +1,484 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2022 Caterpillar Inc Earnings Call
+APRIL 28, 2022 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrew R. J. Bonfield
+   Caterpillar Inc. - CFO
+ * Unidentified Company Representative
+    - 
+ * D. James Umpleby
+   Caterpillar Inc. - Chairman of the Board & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * John Phillip Joyner
+   BMO Capital Markets Equity Research - Senior Associate
+ * Steven Fisher
+   UBS Investment Bank, Research Division - Executive Director and Senior Analyst
+ * Ross Paul Gilardi
+   BofA Securities, Research Division - MD in Equity Research
+ * Stephen Edward Volkmann
+   Jefferies LLC, Research Division - Equity Analyst
+ * Charles Albert Edward Dillard
+   Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst
+ * Tami Zakaria
+   JPMorgan Chase & Co, Research Division - Analyst
+ * Timothy W. Thein
+   Citigroup Inc., Research Division - Director & U.S. Machinery Analyst
+ * Jamie Lyn Cook
+   Crédit Suisse AG, Research Division - MD, Sector Head of United States Capital Goods Research and Analyst
+ * Seth Robert Weber
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Courtney Yakavonis
+   Morgan Stanley, Research Division - Research Associate
+ * David Michael Raso
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Industrial Research Team
+ * Jerry David Revich
+   Goldman Sachs Group, Inc., Research Division - VP
+ * Robert Cameron Wertheimer
+   Melius Research LLC - Founding Partner, Director of Research & Research Analyst
+ * Matthew Youssef Elkott
+   Cowen and Company, LLC, Research Division - Director
+ * Mircea Dobre
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Nicole Sheree DeBlase
+   Deutsche Bank AG, Research Division - Director & Lead Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to the First Quarter 2022 Caterpillar Earnings Conference Call. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Ryan Fiedler. Thank you. Please go ahead.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [2]
+--------------------------------------------------------------------------------
+Thank you, Emma. Good morning, everyone, and welcome to Caterpillar's First Quarter of 2022 Earnings Call. I'm Ryan Fiedler, Director of Investor Relations. Joining me today are Jim Umpleby, Chairman and CEO; Andrew Bonfield, Chief Financial Officer; Kyle Epley, Vice President of the Global Finance Services Division; and Rob Rengel, Senior IR Manager. .
+During our call today, we'll be discussing the first quarter earnings release we issued earlier today. You can find our slides, the news release and a video recap at investors.caterpillar.com under Events and Presentations. 
+I would also like to remind everyone that we are hosting Caterpillar's Investor Day on May 17 from 10:30 a.m. to 3 p.m. Central Time at the Hilton DFW Lakes Executive Conference Center in Grapevine, Texas. Our theme is services, technology and sustainability, helping our customers build a better world. Please check out the details on our investor website. Caterpillar has copyrighted this call, and we prohibit use of any portion of it without our prior written approval. 
+Moving to Slide 2. During our call today, we'll make forward-looking statements, which are subject to risks and uncertainties. We'll also make assumptions that could cause our actual results to differ materially on the information we're sharing with you on this call. Please refer to our recent SEC filings, and the forward-looking statements reminder in the news release for details on factors that individually or in aggregate could cause our actual results to vary materially from our forecast. 
+On today's call, we'll also refer to non-GAAP numbers. For a reconciliation of any non-GAAP numbers to the appropriate U.S. GAAP numbers, please see the appendix of the earnings call slides. 
+Today, we reported profit per share of $2.86 for the first quarter of 2022 compared with $2.77 of profit per share in the first quarter of 2021. We're including adjusted profit per share in addition to our U.S. GAAP results. Our adjusted profit per share was $2.88 for the first quarter of 2022 compared with adjusted profit per share of $2.87 for the first quarter of 2021. Adjusted profit per share for both quarters excluded restructuring costs. Now let's flip to Slide 3 and turn the call over to our Chairman and CEO, Jim Umpleby.
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Ryan. Good morning, everyone. Thank you for joining us. I'd like to start by thanking our global team for their contributions to another good quarter. We continue to execute our strategy for long-term profitable growth as demonstrated by our first quarter results. I'll begin with my perspectives on our performance in the quarter, and then I'll provide some insight on our end markets. 
+Before discussing our results, I'd like to take a moment to say we remain deeply saddened by the tragic events continuing to occur in Ukraine and hope for a peaceful resolution. Through the Caterpillar Foundation, we have donated more than $1 million to support both urgent and long-term needs of the Ukraine humanitarian crisis. I'm proud of our employees for their generous contributions through the Foundation Matching Gifts program, which added nearly an additional $1 million of support for Ukrainian refugees. On the operations front, we suspended production in our Russian manufacturing facilities and will continue to comply with all applicable laws and evolving sanctions. 
+Moving on to our quarterly results. Sales rose in all 3 of our primary segments due to volume gains and favorable price. Sales and margins were both slightly better than we expected. And similar to the second half of 2021, our top line would have been even stronger without the continuing supply chain constraints. 
+Overall, we remain encouraged by the strong demand for our products and services. The first quarter of 2022 marked the fifth consecutive quarter of higher end-user demand compared to the prior year. Services remained strong in the quarter. We continue to make progress on our service initiatives, including customer value agreements, e-commerce, connected assets and prioritized service events. 
+Moving to Slide 4. Sales and revenues increased by 14%, slightly better than we expected. The increase was primarily driven by higher end-user demand and the impact of changes in dealer inventories as well as strengthening price realization. The impact of our price actions started to accelerate in the second half of 2021. 
+We generated double-digit sales growth in all primary segments, and sales rose in North America, Latin America and EAME. Asia Pacific was down by 4%. Compared with the first quarter of 2021, sales to users rose 2%, which was about as we expected. For machines, including Construction Industries and Resource Industries, sales to users increased by 3%, while Energy & Transportation decreased 1%. Sales to users in Construction Industries were about flat overall with good growth globally in the first quarter, except for China. North America grew by double digits as residential construction remained strong and nonresidential contributed -- showed signs of improvement. Latin America saw higher end user demand supported by construction and strong commodity prices. End-user demand increased in the EAME due to residential growth and support of commodity prices. 
+I'll briefly discuss China. In the first quarter of 2021, China's greater than 10-ton excavator industry was at an all-time high, which resulted in a difficult comparable in the quarter. In the first quarter of 2022, China was lower than we expected due to weaker residential construction and COVID-19-related shutdowns. Overall, sales in China were about half of what we saw in the prior year's quarter. Keep in mind, China sales are typically 5% to 10% of our enterprise sales. Outside of China, Asia Pacific sales to users grew as we continue to see strong demand in the region. 
+In Resource Industries, the overall environment remained positive with sales to users up 13%, an improvement from the fourth quarter. Mining increased at a measured pace, which is in line with the expectations that we've been communicating to you for the last couple of years. Strong commodity prices supported a high utilization and a low number of parked trucks. In heavy construction and quarry and aggregates, sales to users increased versus the prior year for the fourth straight quarter as end-user demand continues to improve. 
+In Energy & Transportation, sales to users declined 1% versus the prior year. Solar turbines declined as expected due to the timing of projects. Excluding solar, sales to users were strong. Oil and gas sales to users were down in the first quarter with improvement in reciprocating engines more than offset by solar. Despite continued data center and rental demand strength, power generation sales to users were down overall due to timing of some larger projects. Industrial end-user demand strengthened across all regions. Lastly, transportation benefited from growth off a low base, primarily in marine applications. 
+Now I'll spend a moment on dealer inventory. Dealers who are independent businesses increased their inventories by about $1.3 billion in the first quarter. This compares to a $700 million increase in the first quarter of last year. While dealer inventories remain near the low end of the typical range, we continue to work closely with dealers to satisfy higher end-user demand. Andrew will provide additional color about dealer inventory later in the call. 
+Regarding ongoing supply constraints, we experienced similar challenges to what we highlighted in the fourth quarter, which was in line with our expectations. We continue to experience constraints with semiconductors and certain other components. 
+Our team continues to implement solutions to help mitigate the overall situation. For example, we executed engineering redesigns to provide customers with alternative options. We also increased dual sourcing of components and placed specialized Caterpillar resources at suppliers to help ease constraints. 
+I remain proud of our global team's ability to deliver double-digit sales growth despite supply chain challenges. Similar to previous quarters, absent the supply chain constraints, our top line would have been even stronger. When the supply chain conditions ease, we expect to be well positioned to fully meet demand and gain operating leverage from higher volumes. 
+Operating profit increased 2% in the quarter to $1.9 billion driven by strong volume and favorable price realization across all segments, which was partially offset by higher manufacturing costs and SG&A and R&D expenses. The higher manufacturing costs primarily reflected increased material and freight costs in the quarter. While we did see some labor inefficiencies, these were not as significant as they were in the fourth quarter. 
+Operating profit margins were 13.7% in the first quarter, which was lower than the first quarter of 2021. We expect that comparisons would be difficult as inflationary impacts to manufacturing costs accelerated in the back half of 2021 and remain at a similar level in the first quarter of 2022. On a sequential basis, our margins improved versus the fourth quarter as we expected. Our profit per share was $2.86 versus $2.77 in the first quarter of 2021. The adjusted profit per share was $2.88 versus $2.87 in the first quarter of last year. 
+On Slide 5, we had an ME&T free cash outflow of about $400 million in the quarter, which Andrew will discuss in a few moments. To remind you, our Investor Day target is to deliver ME&T free cash flow of between $4 billion and $8 billion per year. We expect to be within that range for the full year 2022. Regarding capital deployment, we completed $800 million of share repurchases and returned $600 million in dividends to shareholders. We remain proud of our dividend aristocrat status. We continue to expect to return substantially all of our ME&T free cash flow to shareholders over time through dividends and share repurchases. 
+Now I'll share some high-level assumptions on our expectations for the full year. We expect to achieve our Investor Day targets for adjusted operating profit margins and, as I've just mentioned, deliver ME&T free cash flow within our targeted range in 2022. As I previously indicated, we continue to be encouraged by strong order demand across our segments. In the first quarter of 2022, our total backlog increased by $3.4 billion as we experienced continued strong demand and supply chain challenges. Backlog increased in all segments with the largest increase in Energy & Transportation. The environment continues to be challenging due to supply chain constraints and the more recent COVID-19-related shutdowns in China. Although manufacturing costs are expected to remain elevated, we expect price to more than offset these cost increases for the full year. 
+Turning to Slide 6. I'll discuss our expectations for key end markets this year. In Construction Industries in North America, residential construction remained strong with nonresidential continuing to improve. Despite rising interest rates, infrastructure investment is expected to improve in late 2022 and beyond supported by the U.S. Infrastructure Investment and Jobs Act. 
+The 10-ton and above excavator market in China was very strong in 2020 and 2021. We now anticipate this market will be slightly lower than 2019 levels. The rest of Asia Pacific region is expected to grow due to higher infrastructure spending. 
+In the EAME, despite the broader geopolitical concerns, we remain cautiously optimistic due to housing growth in the EU investment package that is expected to drive construction demand. Construction and mining activity in Latin America are supportive of growth. It could be impacted by inflation and interest rate policy decisions. 
+In Resource Industries, we believe commodity prices will continue to drive higher production and utilization levels, which support more investments in equipment and services in 2022 and beyond. Within heavy construction and quarry and aggregates, we also anticipate continued growth in 2022. Lastly, we are seeing increased quoting for our autonomous solutions, which includes large mining trucks, drills, track-type tractors, water trucks and underground machines. 
+In Energy & Transportation, we expect improving momentum in 2022 with strong order rates in most applications. In oil and gas, although customers remain disciplined, we are encouraged by continued strength in reciprocated engine orders, especially for large engine replacements as asset utilization increases.  Power generation orders remain healthy due to positive economic growth and continued data center strength. In 2022, while solar services are expected to remain steady, we continue to expect new equipment shipments to be lower than last year due to the lead time of solar products. Solar's new equipment orders strengthened significantly in the first quarter, and shipments are expected to improve in late 2022 or early 2023. 
+Industrial remains healthy with continued momentum in construction, agriculture and electric power. In rail, North American locomotive sales are expected to remain muted, but international locomotives are more promising. We also anticipate growth in high-speed marine as customers upgrade aging fleets. 
+Now on to Slide 7. In 2021 and into the first quarter of 2022 Caterpillar and our customers announced a number of projects that will contribute to a reduced carbon future. We recently entered into an agreement with ioneer, a U.S.-based lithium Boron miner. This will be the first greenfield site in the U.S. to use autonomous haul trucks. Lithium is a key component for electric -- for battery electric vehicles and the minerals from this Nevada mine will help contribute to a more sustainable future. 
+Our autonomous technology is a competitive advantage as it delivers significant benefits to our customers, including improved safety, productivity and efficiency while lowering greenhouse gas emissions per tonne of material moved. Our commitment to [sustainable innovation] remains strong as we continue to execute our strategy for long-term profitable growth. I look forward to hosting you at our Investor Day on May 17, where we will be talking more services, technology and sustainability. With that, I'll turn the call over to Andrew.
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Jim, and good morning, everyone. I'll begin with a recap of our first quarter results, including the performance of our segments. Then I'll comment on the balance sheet and free cash flow before concluding with a few comments on our expectations as we move into the second quarter of 2022. 
+Beginning on Slide 8, sales and revenues for the first quarter increased by 14% or $1.7 billion to $13.6 billion. Volume, including higher dealer inventory build and price, drove the increase in sales and revenues, which, as Jim mentioned, was slightly better than we had expected. Operating profit increased by 2% to $1.9 billion as price realization and volume growth were partially offset by higher manufacturing and period costs. 
+Our adjusted operating profit margin of 13.7% was slightly better than we had anticipated primarily due to the stronger-than-expected volumes and favorable price realization. First quarter profit per share was $2.86 compared to $2.77 in the prior year. Adjusted profit per share was $2.88 in the first quarter compared to $2.87 last year. Adjusted profit per share for both quarters excludes restructuring costs. 
+Our global tax rate in the quarter was about 24%, slightly lower than we had guided you in January. However, on a comparable basis, the lower tax rate was offset by lower favorable discrete tax benefits compared to the prior year. 
+Now on Slide 9. As we anticipated, the top line improved on stronger volume and price realization. End-user demand increased versus the prior year but the growth rate accelerated on a sequential basis due to tougher comparisons, especially in China. Dealer inventory rose by about $1.3 billion. Services revenues remained strong in the quarter. Price realization strengthened, while currency was a bit of a headwind. 
+Let me provide some color on dealer inventory. The $1.3 billion increase versus year-end 2021 was nearly double what we had anticipated and about $600 million more than the increase we saw in the same quarter last year. About half of that $600 million increase year-on-year came from Resource Industries due to the timing of shipments from our dealers to their customers, which can be lumpy. These units are backed by firm customer orders but were not recognized in our reported retail sales for the quarter. This is in part due to variations in on-site assembly times. The other half of the deal inventory increase was mainly due to the timing of shipments in Construction Industries late in the quarter. 
+We anticipate that dealers will start to sell down the inventories in the second quarter following their normal seasonable pattern on strong sales to users. Our expectations for the full year haven't changed, and we do not expect to see a significant benefit from dealer restocking in 2022 as end-user demand remains strong. 
+First quarter sales and revenues increased by double-digit percentages in all regions except Asia Pacific. Sales in North America rose by 23% with continued growth in the 3 primary segments. In EAME, sales increased by 15%, while Latin America sales grew by 26%. A 4% decrease in Asia Pacific sales was primarily due to softening in China. Sales in the remainder of that region were positive. 
+Moving to Slide 10. As I mentioned, first quarter operating profit increased by 2% on favorable price and volume. Price realization was slightly better than we had anticipated. Manufacturing costs remain elevated but in line with our expectations primarily due to continued material and freight cost headwinds. SG&A and R&D costs increased partly due to investments in services and technologies such as digital, autonomy and electrification. 
+Our first quarter adjusted operating profit margin was 13.7%, a 210 basis point decrease versus the prior year. As we said in our fourth quarter 2021 earnings call, we expected the largest margin headwinds to occur in the first quarter. First quarter margins were lower than the prior year. Favorable price realization did not offset higher manufacturing costs but did improve compared to the fourth quarter of 2021. Margins were slightly better than we had anticipated on stronger price and volume partially offset by higher-than-expected short-term incentive compensation. I will discuss our expectations for the second quarter and full year margins in a bit more detail later. 
+Moving to Slide 11. Let's review segment performance starting with Construction Industries. Sales increased by 12% in the first quarter to $6.1 billion primarily driven by favorable price realization and strong sales volume. End-user demand improved in 3 of the 4 regions. North America had the highest sales growth in sales dollars, a 28% increase, as nonresidential demand improved and residential construction remains strong. Sales in Latin America increased by 60% as construction activity supported higher demand. EAME sales increased by 18% primarily due to growth in residential construction demand. However, Asia Pacific sales decreased by 21% due to a reduction in sales in China, which had a very strong quarter a year ago. 
+The segment's first quarter profit increased by 1% versus the prior year to $1.1 billion. Price realization and higher sales volume drove the increase more than offsetting increases in manufacturing costs. Price realization was stronger than we had anticipated but lagged manufacturing costs in the quarter. The segment's operating margin decreased by 180 basis points to 17.3%. 
+Turning to Slide 12. Resource Industries sales increased by 30% in the first quarter to $2.8 billion. The improvement was mostly due to higher end-user demand, the impact from changes in dealer inventories and favorable price. End-user demand increased in heavy construction and quarrying aggregates as well as mining. 
+First quarter profit for Resource Industries increased by 16% to $361 million. Higher sales volume and favorable price realization were partially offset by higher manufacturing costs and increases in SG&A and R&D expenses. Manufacturing cost increases were primarily due to freight and material. The segment's operating margin decreased by 150 basis points versus last year to 12.8%. 
+Now on Slide 13. Energy & Transportation sales increased by 12% to approximately $5 billion with sales up across all applications. This included a 4% sales increase in oil and gas, including aftermarket parts for reciprocating engines. Power generation sales increased by 5%. Small reciprocating engine sales improved. Solar turbine sales were lower in the quarter for oil and gas and power generation applications, impacted by a higher-than-usual first quarter in 2021. Industrial sales rose by 25%, with strength across all regions. Finally, transportation increased by 9% on reciprocating engine cells for both aftermarket parts and marine applications. 
+Profit for Energy & Transportation decreased by 20% to $538 million. Higher sales volume and price realization were more than offset by higher manufacturing costs, reflecting continued headwinds from freighter material. In addition, SG&A and R&D expenses increased. The segment's operating margin decreased by 430 basis points versus last year to 10.7%. 
+Let me take a moment to provide a bit more color on Energy & Transportation margins. Seasonally, first quarter margins are typically lower compared to the rest of the year in this segment. However, the first quarter of 2022 proved a bit more challenging due to continued supply chain constraints, including elevated freight and material costs. 
+I'll discuss very generally, but note that increased freight costs have impacted this segment more than others. Also, Energy & Transportation took price increases later in the year 2021 given the different marketing dynamics as compared to the other primary segments. However, similar to the other segments, we expect margins to improve through 2022 as the benefit of higher price realization starts to pull through. 
+Moving to Slide 14. Financial Products had another good quarter. Revenue increased by 3% to $783 million. Segment profit decreased by 2% to [$238 million]. Whilst profit was down, this represents our second highest first quarter profit in 8 years. The decrease was mainly due to a higher provision for credit losses at Cat Financial related to reserves associated with Russia and Ukraine. 
+Note, the Russian-Ukraine generally accounts for about 2% of Caterpillar's enterprise sales and less than 1% of the Cat Financial portfolio. Demand for used equipment remained very strong in the quarter, and that helped mitigate the impact of higher provisions. 
+Moving to our credit portfolio. It remains high quality as customers and dealers continue to perform well in the quarter. Past dues were 2.05%, the best first quarter performance we've seen in 15 years. That's down 85 basis points year-over-year and up just 10 basis points compared to the fourth quarter, which had marked a 15-year low. While new business volume typically decreased versus the fourth quarter, this is typical seasonality. New business volume was our second highest first quarter performance in 8 years, second only to the prior year, which benefited from pent-up demand following COVID-related shutdowns. 
+Regarding interest rate changes, we are in a good position as our matched funding strategy serves to mitigate that risk. We also maintained healthy spreads on new business. 
+Now on Slide 15. We had an ME&T free cash outflow of about $400 million, a decrease of $2.1 billion versus the first quarter of 2021. Let me take a moment to discuss the changes. In a typical year, the first quarter is our weakest from a cash generation perspective, primarily due to the payment of our incentives. We paid approximately $1.3 billion in short-term incentive compensation during the first quarter compared to 0 in the prior year. This accounts for the majority of the difference year-over-year. In addition, we continue to build production inventory in the quarter by about $1 billion, which contributed to a negative net working capital impact of approximately $600 million. Despite these first quarter impacts, we continue to expect to achieve our Investor Day free cash flow target of between $4 billion and $8 billion for the full year. 
+Moving to shareholder return. We paid around $600 million in dividends during the first quarter. We also repurchased about $800 million worth of common stock supporting our objective to be in the market on a more consistent basis. Enterprise cash was $6.5 billion, a $2.7 billion decrease compared to the year-end. The $400 million free cash outflow and the $1.4 billion in shareholder returns accounted for the majority of the decrease in our cash position. In addition, we have moved some of our cash balances into slightly longer-dated liquid marketable securities in order to improve the yield on that cash. This amounted to about $800 million in the quarter. 
+Now on Slide 16. In light of the current environment, including supply chain constraints, we continue to refrain from providing annual profit per share guidance. However, I do want to share some thoughts on the second quarter and the full year. The first quarter played out slightly better than we had anticipated on the top line, resulting from higher volume and better-than-expected price tailwinds. Supply chain challenges remained steady, which we expect to continue into the second quarter. Despite these challenges, we anticipate the top line will increase compared to the first quarter and continued strong end user demand and favorable price realization. 
+Looking to the remainder of the year,  our order books and backlog remain robust. We expect continued strong end-user demand and pricing, although supply chain challenges will impact the extent to which we'll be able to fully meet demand. As I mentioned, we do not expect to see a significant benefit from dealer restocking in 2022. 
+On margins, as we discussed in January, we do not expect a typical year. In a normal year, we'd see strong margins in the first quarter with margins decreasing sequentially through the fourth quarter. However, this year, we expect margins to improve in the second half of the year compared to both the first half and the comparable period of 2021 as the impact of price actions accelerate. Comparisons ease in the back half of the year as well as we let the manufacturing cost increases from the prior year. As Jim mentioned, we continue to expect price to more than offset manufacturing costs for the full year. Specific to the second quarter, we expect similar margins to the prior year as additional price actions should offset manufacturing cost increases. 
+Looking at the second quarter by segment. We do expect margins in both Construction Industries and Resource Industries to be close to or higher than the prior year as price improves and manufacturing cost headwinds are in line with the first quarter. Margin in Energy & Transportation still lag the prior year as the timing of price actions is late as compared to the other segments. However, we expect the lag in the second quarter was not -- will not be as significant as it was in the first quarter. 
+As we move into the second half of the year in Energy & Transportation, we expect a reduction in expediting costs and an improvement in efficiencies. Increases in large engine and turbine volumes versus 2021 should also positively contribute to margins in the second half of the year. However, it's important to note that the majority of our core investments related to the energy transition will impact this segment. 
+Finally, to assist with more modeling, we currently expect to add accrual for short-term incentive compensation expense to be around $1.3 billion this year. We anticipate a global effective tax rate of around 24% and restructuring costs of approximately $600 million for the full year. 
+Turning to Slide 17. In summary, we performed well in a challenging environment. End-user demand remains strong, and we realized $1.7 billion more in revenues. Sales and margins were slightly better than we expected. Looking ahead, comparisons ease in the second half of the year, and we expect to achieve our Investor Day targets of adjusted operating profit margins and ME&T free cash flow. And with that, we'll take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)Your first question comes from the line of Rob Wertheimer with Melius Research.
+
+--------------------------------------------------------------------------------
+Robert Cameron Wertheimer,  Melius Research LLC - Founding Partner, Director of Research & Research Analyst    [2]
+--------------------------------------------------------------------------------
+If I have it right, I think your backlog increased by the most in a decade, maybe one of the couple of best order quarters -- implied order quarters you've had. And obviously, there's some moving parts you guys addressed the fact that you'd like to ship a little bit more. I don't know if you can quantify that. I know you've done a lot of work with dealers, helping them forecast to get the right levels of inventory rather than too much or too little. I don't know whether you can sort of give context around that backlog increase, how much more you would have liked to ship. Does dealer optimism drive a lot of it? Or is it really end user demand? Anything you can say to help us out?
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks for your question, Rob. So just in terms of the backlog, the largest backlog increase was actually in Energy & Transportation. And as orders continue to strengthen for both solar and for recip oil and gas. And as you know, those products tend to have longer lead times. Having said that, we are certainly working with our dealers to  help them satisfy end-user demand. We do have a new S&OP process, and we do feel good about the quality of the orders that we're getting in E&T and RI, again, which tend to have some of those longer lead times. So again, just a real positive backdrop moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Jamie Cook with Credit Suisse. .
+
+--------------------------------------------------------------------------------
+Jamie Lyn Cook,  Crédit Suisse AG, Research Division - MD, Sector Head of United States Capital Goods Research and Analyst    [5]
+--------------------------------------------------------------------------------
+Jim, I guess my question, I'll direct it towards you because it's with regards to the E&T and you used to run that business. So can you help me understand -- the top line was a little lighter than I would have thought. What are you hearing from your oil and gas customers? And how does that impact the trajectory of growth for E&T this year? 
+And then I guess, on the margin side, I understand the puts and takes with solar and pricing having to come through an investment. But is there any way you can help us with how to think about sort of E&T margins as we exit the year? I don't know if it's investment -- some of the investments you're making will sort of create pressure on margins, I guess, over the longer term. So...
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [6]
+--------------------------------------------------------------------------------
+You bet. Oil and gas customers do continue to display capital discipline. However, we are encouraged by the improvement in orders for both recip and solar. As I mentioned earlier, those products tend to have longer lead times. Higher oil prices are leading to increased utilization and refurbishment of frac assets, and it's an improved opportunity for pump and flow iron as well. .
+Then in terms of your question around margins, as you can imagine, as volume increases in solar and oil and gas, that will help. Also, we've mentioned previously that we took price action in Energy & Transportation around engines later than we did machines. And as those price actions continue to take effect, that will also help margins as we move throughout the year.
+
+--------------------------------------------------------------------------------
+Jamie Lyn Cook,  Crédit Suisse AG, Research Division - MD, Sector Head of United States Capital Goods Research and Analyst    [7]
+--------------------------------------------------------------------------------
+So no structural headwind to margins.
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [8]
+--------------------------------------------------------------------------------
+Again, certainly, we're making investments in sustainability and some of the things we're doing there around alternative drivetrains. So we're making those investments. But again, the other side of it is, of course, improving volume and price.
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [9]
+--------------------------------------------------------------------------------
+And as I indicated, Jamie, we would expect just the same for the other segment's margins to improve in the second half of the year in Energy & Transportation.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Mick Dobre with Baird.
+
+--------------------------------------------------------------------------------
+Mircea Dobre,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [11]
+--------------------------------------------------------------------------------
+I guess maybe a question for Andrew. Looking to kind of clarify some of your comments. In terms of price realization, I guess you were pretty clear that this continues to build momentum. You talked about E&P. I'm curious as to how you're thinking about variable manufacturing costs sequentially, second quarter and the back half of the year, recognizing that the comps are a little bit different, but obviously, input costs have changed a little bit versus previous assumptions given all that's been happening in the world. So how should we think about that framework?
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [12]
+--------------------------------------------------------------------------------
+Yes. So if you'll recall, I think, fourth quarter, we had about $600 million of price and about $800 million increase in manufacturing costs. Obviously, this quarter was a similar level in manufacturing. Cost increases and price was a little bit better at $700 million. We thought we would probably be about around the same in the first quarter as we have been in the fourth quarter. We also indicated that we would expect manufacturing cost increases to continue at this sort of level for the -- at least Q1 and Q2 and then moderate as we get into Q3, Q4, because of the impact of lapping the increases that have occurred in Q3, Q4 of the previous year. .
+Yes, it is likely that those costs will be slightly higher than we had originally anticipated back in January because, obviously, the input costs are continuing to grow. However, we have taken extra price actions. So that's why we're still more than comfortable that price will more than offset manufacturing cost increases for the year. So that will be probably the way I would look at it as we go out for the remainder of 2022.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Steve Volkmann with Jefferies.
+
+--------------------------------------------------------------------------------
+Stephen Edward Volkmann,  Jefferies LLC, Research Division - Equity Analyst    [14]
+--------------------------------------------------------------------------------
+Jim, I think in your prepared comments, when you were speaking about Construction Industries, you mentioned a couple of times support of commodity prices was helping demand there. And I'm curious for a little more detail. Can you just talk about how much of CI you think is kind of driven by commodity prices and sort of how that unfolds going forward?
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [15]
+--------------------------------------------------------------------------------
+Yes, Steve, I believe I mentioned commodity prices being supportive of RI as opposed to CI. But just to talk about CI a bit. Again, we talked about residential, nonresidential improving infrastructure investments being made by various governments around the world. So those are all tailwinds for CI. The commodity prices certainly are supportive of investment in RI and of course, E&T as well with oil prices.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Your next question comes from the line of David Raso with Evercore.
+
+--------------------------------------------------------------------------------
+David Michael Raso,  Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Industrial Research Team    [17]
+--------------------------------------------------------------------------------
+Given the last 3 months, it seems like a theme that maybe people would have expected 3 months ago was sort of a rebirth of old energy, let's call it. You mentioned a bit about oil and gas picking up on the recip side and maybe the turbine activity and the order book at least. I'm curious on the mining side. Can you give us a little more color on any change in tone? And obviously, coal comes to mind. But even more broadly, what are you hearing in the last 3 months? Any tone change, in particular on some of the old energy customers? .
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [18]
+--------------------------------------------------------------------------------
+Well, thanks for your question, David. And as we've been talking about for a couple of years, we've been expecting moderate increase over time in mining, and that's really how it's played out. Our customers are continue to display capital discipline. But in fact, we're seeing investments we're seeing new orders for trucks. Parked trucks remain at low levels as utilization increases. .
+In terms of coal, certainly, coal prices have been up for the last year or so remains to be seen exactly how this plays out. If there are prolonged restrictions on natural gas, we're seeing in Europe and other places, there, in fact, could be increased demand for coal. But having said that, again, we've seen improved coal prices over the last year. And so commodities in the mining sector have been supportive of investment across a wide range of commodities, and I put coal in that bucket as well.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Tami Zakaria with JPMorgan.  .
+
+--------------------------------------------------------------------------------
+Tami Zakaria,  JPMorgan Chase & Co, Research Division - Analyst    [20]
+--------------------------------------------------------------------------------
+Can you update us on your services business? What was the growth in that segment in the quarter? What's the total dollar size of the services segment now versus your Investor Day targets? And what are you expecting for services in 2Q and the rest of the year?
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [21]
+--------------------------------------------------------------------------------
+You bet. Well, we're pleased with services growth in the quarter. We released the annual services sales and revenues once a year. And so we'll do that in January for full year 2022. Having said that we continue to make progress with our various initiatives. We're pleased at the way things are going, and we're still driving towards that target of doubling services sales between 2016 and 2026.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Chad Dillard with Bernstein.
+
+--------------------------------------------------------------------------------
+Charles Albert Edward Dillard,  Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst    [23]
+--------------------------------------------------------------------------------
+So I just want to go back to your comments about improving orders on the recip and solar side. And I was just hoping you could talk about how Cat is set up for this upcoming oil and gas CapEx cycle versus prior years. Maybe you can talk about just from a product standpoint or even just like how much extra wallet share you can capture now that you have -- we are under the fold. And just any interesting like productivity-enhancing technology that you have now that you didn't before that would set you apart versus your competition? .
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [24]
+--------------------------------------------------------------------------------
+Well, thanks for your question, and we do feel good about our competitive position. Just starting quickly with solar, they have a strong -- they have strong leadership in the market. and we're very pleased at the way they're positioned moving forward. On the recip side, we made a number of changes. As you know, we made the acquisition of -- from Weir, and we now have a more complete product line, which really does put us in a we believe in a strong competitive position as our customers work to reduce their carbon footprint as they increase oil and gas production. And as you can imagine, particularly in North America, there's a real strong focus by our oil and gas customers to do that. So again, we feel good about the way we're positioned there with our portfolio now. 
+E-fracking, we have gas engines being purchased by our oil and gas customers for e-frac. So again, a whole variety of things going on there. Customers are buying our DGB engine, which allows them to substitute up to 85% diesel fuel with natural gas. So again, we believe we are quite well positioned.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Nicole DeBlase with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Nicole Sheree DeBlase,  Deutsche Bank AG, Research Division - Director & Lead Analyst    [26]
+--------------------------------------------------------------------------------
+Just maybe to look at the 2Q outlook and elaborate a little bit. I guess, you guys said sales up Q-on-Q and 2Q and that's kind of consistent with what's normal in the business. I guess, if you were to think about that increase, is there any reason why the magnitude of the increase in 2Q would not reflect typical seasonality?
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [27]
+--------------------------------------------------------------------------------
+I mean the one -- the only small factor that I would raise, and it's a very small factor, is that, obviously, there is $300 million of extra inventories put out by CI very late in the quarter end, which would otherwise not be a normal seasonal impact. So that will impact a little bit of their reported revenues in Q2. Aside from that, we expect normal seasonality. 
+As you know, demand is very strong for our product. The biggest challenge is actually being able to supply the market. We would be able to -- if we have to put more products into the channel, we would sell more. So that would be the really key factor there.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Ross Gilardi with Bank of America.
+
+--------------------------------------------------------------------------------
+Ross Paul Gilardi,  BofA Securities, Research Division - MD in Equity Research    [29]
+--------------------------------------------------------------------------------
+So Jim, your North American construction, the retail sales growth, it improved quite a bit from Q4 to Q1, but it continues to significantly lag the growth for the national rental companies, particularly if you look at what United Rentals put up for rental revenue growth last night. I mean is there an accelerating structural change to rental over equipment ownership in this world we live in right now with all these supply chain issues? And anything you're working on with your dealers to  better position cat for the (inaudible)? Rental channel that's been going on for an (inaudible) long time. But if anything, it seems like it's accelerating right now. 
+And just with that, your overall dealer sales decelerated to plus 3% versus plus 5% last quarter. Does that number get worse and potentially go negative again before it gets better? Or do we see a reacceleration in Q2?
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [30]
+--------------------------------------------------------------------------------
+Well, thanks for your question. Firstly, in terms of demand for CI in North America is quite strong. And as I mentioned earlier, supply chain challenges prevented us from having even higher sales in the quarter. Having said that, Caterpillar has a strong rental business. If you add up Cat dealers across North America, it is a strong business and something that our dealers are very focused on. And we have a relatively new rental leader, so we're working on improving our capabilities there. Having said that, the real issue is supply chain. So if we had, in fact, more product, we could have more product in the rental fleets, and our dealers have to make decisions between putting units in the rental fleet and selling to customers because demand is strong everywhere. 
+And so really, this is a function of our ability to produce more product due to supply chain constraints as opposed to anything structural. Certainly, build is important. It's a growing part of the business, but it's one that we believe we're very well positioned to participate in. The big issue we have at the moment is, again, the ongoing supply chain challenges, which we've been discussing.
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [31]
+--------------------------------------------------------------------------------
+And then, Ross, on your question around on (inaudible) momentum, obviously, there were a couple of factors in Q1, which did cause a deceleration. I know you're looking at machines, not Energy & Transportation. Obviously, solar was the impact in E&T. And then, obviously, China was disproportionately -- it was a very strong quarter in the Cat Comps last year, and that has a disproportionate impact, and we'll need to see how that pans out in Q2. Overall, though, we do expect actually to see a very positive (inaudible) again in Q2 versus the comparable period. .
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Courtney Yakavonis with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Courtney Yakavonis,  Morgan Stanley, Research Division - Research Associate    [33]
+--------------------------------------------------------------------------------
+I was hoping if we can dig into resources a little bit more. Obviously, sales were much better than we were expecting this quarter. But in the slide deck, you called out heavy construction and caring aggregates ahead of mining. So just wanted to understand on the OE side. Is mining reflective of these numbers that we saw? Or is that still a story that's on the come? 
+And then the incremental flow-through was also a little bit lower than we would have expected. And is that really just a reflection of these supply chain issues that we're seeing? Or is that part of this also OE versus aftermarket mix happening? And finally, just -- since much of the build this quarter that you mentioned in dealer inventories occurred in resources, just wanted to confirm that the 2Q comment that sales will be up also is applying to that segment as well.
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [34]
+--------------------------------------------------------------------------------
+Well, we remain positive about mining and continue to see increases in user demand. And again, it's playing out much as we've been predicting the last couple of years with improving market conditions, improving orders and improving sales. So we feel good about that. Minor CapEx is up. Commodity prices remain certainly supportive of investment, and we're seeing demand for both services, parts and new machines. Parked trucks remain at low levels. Utilization has been increasing and a lot of interest in our -- in zero emissions as well. So we've seen a lot of announcements there, things that we're doing with customers. Machine average age continues to increase. And so parts rebuilt in aftermarket services are expected to benefit from those aged fleets. So again, mining is playing out much as we had anticipated.
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [35]
+--------------------------------------------------------------------------------
+Yes. I mean just in the quarter, obviously, we did see slightly faster growth in heavy construction and quarry (inaudible) versus mining, but they were still both up very strongly. As regards the retail stats, obviously, the dealer inventory, the 300 -- the approximately $300 million of units that are out there which are being reassembled by the dealers before being sold to the customer, those will be reflected in retail units in Q2. So that will help the overall retail stats for RI in the second quarter.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Seth Weber with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Seth Robert Weber,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [37]
+--------------------------------------------------------------------------------
+I just wanted to ask a question on pricing. I'm really just trying to understand how dynamic is the pricing environment. I think pricing was up about 6% here in the first quarter. In the segment, you've said you've talked about E&T pricing getting better through the year here. I mean is -- could pricing in aggregate be up more than the 6% that you put -- that you showed in the first quarter? I'm just trying to understand how much flexibility you have to change pricing real time here through the second and third quarter.
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [38]
+--------------------------------------------------------------------------------
+Yes. The way we characterized it here, yes, we do expect price to more than offset manufacturing cost increases in 2022, and we expect more of an impact of pricing in the second half versus the first half. We continually monitor the marketplace in terms of what's going on from a competitive situation. We obviously take into account what's happening from a cost perspective as well. And we have the flexibility to do what we need to do, but we have taken pricing action. And again, the pricing actions that we've taken will have a larger impact in the second half of the year versus the first. But certainly, we always have the flexibility to do more if we believe that's appropriate.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Steven Fisher with UBS.
+
+--------------------------------------------------------------------------------
+Steven Fisher,  UBS Investment Bank, Research Division - Executive Director and Senior Analyst    [40]
+--------------------------------------------------------------------------------
+So it seems like you've raised your incentive compensation expectation for 2022. I think that will be kind of flat year-over-year. I think previously, it was expected to be a tailwind. But I guess the positive in that is now you must be expecting something better than your prior expectations. Wondering if you can just give us a bit of color on what the biggest things are that -- are contributing to that improvement in incentive comp payout for this year? I know you said kind of sales were better than expected in Q1, but it sounds like maybe that was a seasonal inventory build. So what -- are there other operational things that are now running better than you expected for the balance of the year?
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [41]
+--------------------------------------------------------------------------------
+Yes. So obviously, as you know, our incentive compensation schemes use a variety of measures, not just operating profit, OPEC, services revenues, and there are other nonfinancial metrics that are out there. .
+As we said, the performance for the first quarter was actually a little bit better than we expected not just from a revenue perspective but also a little bit better on margins. And so that is reflective of where that's feeding through into some of that incentive compensation change.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Your next question comes from the line of Tim Thein with Citigroup.
+
+--------------------------------------------------------------------------------
+Timothy W. Thein,  Citigroup Inc., Research Division - Director & U.S. Machinery Analyst    [43]
+--------------------------------------------------------------------------------
+So a lot of good color on the dealer inventories. But I just wanted to ask Andrew, just about Cat inventories, which have continued to increase here. And obviously, the complexity of the supply chain is certainly having some impact. But I'm just curious how should we think about that as we go through the balance of the year. And I'm especially interested in how that the potential implications that have to the extent that's not projected to grow further, what implications that will have just in terms of absorption and, ultimately, incremental margins.
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [44]
+--------------------------------------------------------------------------------
+Yes. So Tim, I mean, obviously, what we have been very clear on is in the situation where we are with the supply chain challenges switching off supply is not probably the best -- it's not a sensible thing because while you're waiting for individual components to arrive is better to make sure that you don't end up with a shortage of something else as a result of switching off. So we've built a little bit more production stores inventory than we would normally have. We did that at the end of 2020 as well, and that was a deliberate action reflecting the fact that we expected an upturn. Obviously, that has continued. We know that the demand is out there. So we know we'll be able to burn it off pretty quickly as and when we are able to work through all the other supply chain challenges that are out there. 
+Our expectation is, obviously, we saw a build in Q1, aim is probably to be more neutral on working capital for the full year. And obviously, we start to work some of that inventory down as we go through the remainder of the year. And obviously, then that can (inaudible) through into positive cash momentum as we move into '23 and beyond.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Your next question comes from Matt Elkott with Cowen.
+
+--------------------------------------------------------------------------------
+Matthew Youssef Elkott,  Cowen and Company, LLC, Research Division - Director    [46]
+--------------------------------------------------------------------------------
+If I may switch it up a little bit and ask you guys about the locomotive market. Clearly, the new build market in North America has been largely nonexistent for the last couple of years here. As we look forward to the next 2 or 3 years, do you think the railroads might continue to hold off on new builds until they make up their mind on whether they want to go battery electric, hydrogen or even cleaner diesel? And any updates on the upgrade market, which I think is like a services revenue for you guys would be helpful.
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [47]
+--------------------------------------------------------------------------------
+Yes. As you mentioned, certainly, the North American freight locomotive market is  depressed. There's no question about it. We do have a services business that is doing well. We have hope for international this year as well. Hard to answer your question. It's very difficult to predict what the railroads would do over the next couple of years. I mean we can -- anyone on the call can build competing cases there for what's happening. So there's still parked locomotives. 
+On the other hand, everyone knows what's going on with some of the freight constraints in the U.S. as well. So we'll have to see how it all plays out. We are seeing interest in our battery electric locomotives that are used in central switching applications. And we're pleased with that, and you probably have read about an agreement that we have to work on longer-term solution for hydrogen-based locomotive as well. So again, very difficult to predict what the railroads would do, but I certainly concur that currently, the market for freight locomotives in North America is quite depressed.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+Your next question comes from the line of John Joyner with BMO.
+
+--------------------------------------------------------------------------------
+John Phillip Joyner,  BMO Capital Markets Equity Research - Senior Associate    [49]
+--------------------------------------------------------------------------------
+Maybe this is not a fair question in today's environment. So I appreciate some of the additional assumptions that you provided for the full year. But given that you have internal projections, do you anticipate eventually getting back to offering full year EPS guidance, maybe to help give investors some goalposts for the year and possibly avoid what can, at times, be a wide range of EPS estimates?
+
+--------------------------------------------------------------------------------
+Andrew R. J. Bonfield,  Caterpillar Inc. - CFO    [50]
+--------------------------------------------------------------------------------
+Yes. I mean I think -- as you know, the challenge in the environment we're in at the moment is predicting what the likely outcome is going to be within a range that's probably narrow enough for people to do. I mean unfortunately, part of the reason why your estimates are wide is because our estimates are wide as well because of the uncertainty. So you have to take those into account. So that's part of the reason why we haven't reinstated guidance. But I think it is one thing that we will come back to in due course as and when things stabilize in the external environment but not at this stage. 
+There is -- I've just had a written question and somebody just asked a question about retail stats and whether pricing is included in retail stats. Just to be clear, retail stats are dollar neutralized, price neutralized. Pricing is not in the retail stats. So that is a pure volume number on a comparable basis.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+Your final question today comes from the line of Jerry Revich with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Jerry David Revich,  Goldman Sachs Group, Inc., Research Division - VP    [52]
+--------------------------------------------------------------------------------
+You've spoken about a steady recovery in resources. I'm wondering if you could just update us on where lead times stand for large mining trucks today and the revenue level in the business is 50%, 60% below prior cycle highs. I'm wondering if it's fair to think about backlogs at comparable levels versus the last cycle as well. .
+
+--------------------------------------------------------------------------------
+D. James Umpleby,  Caterpillar Inc. - Chairman of the Board & CEO    [53]
+--------------------------------------------------------------------------------
+As we say, as I mentioned earlier, certainly, mining is playing out the way we expected in terms of increased orders. Our lead times are not extended as anywhere near as much as they were during the prior peak a number of years ago, but we're working with our customers and are working very hard to meet their lead time requirements. And I think we're quite close to that.
+Go ahead, I'm sorry.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+That concludes today's Q&A. I turn the call back over to Jim.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [55]
+--------------------------------------------------------------------------------
+Thank you, Jim, Andrew and everyone who joined us today. A replay of our call will be available online later this morning. We'll also post a transcript on our Investor Relations website as soon as it is available. You'll also find the first quarter results video with our CFO and an SEC filing with our sales to use data. Click on investors.caterpillar.com and then click on Financials to view those materials. If you have any questions, please reach out to Rob or me. You can reach Rob at rengel_rob@cat.com and me at fiedler_ryan_@cat.com. The Investor Relations general phone number is (309) 675-4549. We hope you enjoy the rest of your day. Now let's turn it back to Emma to conclude our call.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+Thank you for attending today's conference call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

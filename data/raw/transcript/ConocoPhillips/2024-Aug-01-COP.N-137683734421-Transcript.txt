@@ -1,0 +1,534 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 ConocoPhillips Earnings Call
+AUGUST 01, 2024 / 4:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Phil Gresh
+   ConocoPhillips - VP of IR
+ * Andy O'Brien
+   ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology
+ * Nicholas Olds
+   ConocoPhillips Co - Executive Vice President, Lower 48
+ * Kirk Johnson
+   ConocoPhillips - SVP of Global Operations
+ * William Bullock
+   ConocoPhillips - Chief Financial Officer, Executive Vice President
+ * Ryan Lance
+   ConocoPhillips - Chairman of the Board, Chief Executive Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Neil Mehta
+   Goldman Sachs Group Inc - Analyst
+ * Betty Xu
+   Barclays Bank PLC - Analyst
+ * Kevin MacCurdy
+   Pickering Energy Partners Insights - Analyst
+ * John Royall
+   JPMorgan Securities LLC - Analyst
+ * Kalei Akamine
+   Bank of America - Analyst
+ * Ryan Todd
+   Piper Sandler & Co - Analyst
+ * Neal Dingmann
+   Truist Securities Inc - Analyst
+ * Steve Richardson
+   Evercore ISI - Analyst
+ * Nick Olds
+    - 
+ * Leo Mariani
+   ROTH MKM Partners LLC - Analyst
+ * Bob Brackett
+   Bernstein Research - Analyst
+ * Paul Cheng
+   Scotiabank Global Banking and Markets - Analyst
+ * Josh Silverstein
+   UBS - Analyst
+ * Scott Hanold
+   RBC Capital Markets - Analyst
+ * Roger Read
+   Wells Fargo Securities LLC - Analyst
+ * Doug Leggate
+   Wolfe Research - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the second quarter 2024 ConocoPhillips earnings conference call. My name is Liz, and I will be your operator for today's call. (Operator Instructions)
+I will now turn the call over to Phil Gresh, Vice President, Investor Relations. Sir, you may begin.
+
+--------------------------------------------------------------------------------
+Phil Gresh,  ConocoPhillips - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Liz, and welcome, everyone, to our second quarter 2024 earnings conference call. On the call today are several members of the ConocoPhillips leadership team, including Ryan Lance, Chairman and CEO; Bill Bullock, Executive Vice President and Chief Financial Officer; Andy O'Brien, Senior Vice President of Strategy, Commercial, Sustainability and Technology; Nick Olds, Executive Vice President Lower 48; and Kirk Johnson, Senior Vice President of Global Operations. Ryan and Bill will kick it off with opening remarks, after which the team will be available for your questions.
+A few quick reminders. First, along with today's release, we published supplemental financial materials and a slide presentation which you can find on the Investor Relations website.
+Second, during this call, we will make forward-looking statements based on current expectations. Actual results may differ due to factors noted in today's release and in our periodic SEC filings, we will make reference to some non-GAAP financial measures. Reconciliations to the nearest corresponding GAAP measure can be found in today's release and on our website.
+Third, when we move to Q&A, we will take one question per caller.
+With that, I'll turn the call over to Ryan.
+
+--------------------------------------------------------------------------------
+Ryan Lance,  ConocoPhillips - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, everyone, for joining our second quarter 2024 earnings conference call. It was another busy quarter for the company. We continue to execute on our returns-focused value proposition. We announced a 34% increase in our ordinary dividend starting in the fourth quarter, we announced the planned acquisition of Marathon Oil, and we further progressed our global commercial LNG strategy.
+Now starting with results, we delivered record production in the second quarter with strong contributions from the entire portfolio. In the Lower 48, we still expect to deliver low single-digit production growth in 2024 at a lower level of capital spending relative to 2023. Internationally, production continued to ramp up at Surmont Pad 267 and the Montney in Canada, Bohai Phase 4B in China and four subsea tiebacks in Norway. And we continue to make strong progress in Willow and on our LNG projects at Port Arthur and Qatar.
+Shifting to commercial LNG, we recently signed two additional long-term regasification and sales agreements to deliver volumes into Europe and Asia, both of which will start in 2027. With these agreements, we have now secured just under 6 million tonnes per annum of volume placement for our offtake commitments. And we continue to work new offtake and placement opportunities as we look to expand our commercial LNG portfolio up to 10 million to 15 million tonnes per annum in the coming years.
+Now regarding our planned acquisition of Marathon Oil, we remain very excited about this transaction and integration planning activities are underway to ensure a seamless transition upon close. The Marathon Oil shareholder vote has been set for August 29, and we are working through the FTC's second request that we received in mid-July. We still expect to close the transaction late in the fourth quarter.
+On return of capital, we remain committed to distributing at least $9 billion to shareholders this year on a standalone basis. As we said back in May, we will be incorporating our VROC into our base dividend starting in the fourth quarter, representing a 34% increase in the ordinary dividend, and consistent with our long-term track record, we are confident that we can grow this dividend at a top quartile rate relative to the S&P 500.
+Finally, as we've previously announced with the Marathon acquisition, we will be increasing our annualized buyback run rate by $2 billion upon closing, with a plan to retire the equivalent amount of newly issued equity in two to three years.
+So to wrap up, we're pleased with our operational execution, and we are looking forward to closing the Marathon transaction later this year.
+Now let me turn the call over to Bill to cover our second quarter performance and 2024 guidance in more detail.
+
+--------------------------------------------------------------------------------
+William Bullock,  ConocoPhillips - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Well, thanks, Ryan. In the second quarter, we generated $1.98 per share in adjusted earnings. We produced 1,945,000 barrels of oil equivalent per day, representing 4% underlying growth year over year. And this includes the impact of 18,000 barrels per day of turnarounds. Lower 48 production averaged 1,105,000 barrels of oil equivalent per day with 748,000 in the Permian, 238,000 in the Eagle Ford, and 105,000 in the Bakken.
+Alaska and International production averaged 839,000 barrels of oil equivalent per day, also representing roughly 4% underlying growth year over year, excluding the Surmont acquisition effects. Now, this highlights the benefits of our diversified, global portfolio.
+Moving to cash flows, second quarter CFO was $5.1 billion, which included over $300 million of APLNG distributions. Working capital was a $100 million headwind, which was lower than our guidance of $600 million. As expected, timing of some of our tax payments shifted into the third quarter. Capital expenditures were just under $3 billion. We returned $1.9 billion to shareholders in the quarter, including $1.0 billion in buybacks and $900 million in ordinary dividends and VROC payments. And we ended the quarter with cash and short-term investments of $6.3 billion and $1.0 billion in longer-term liquid investments.
+Now turning to guidance. For the third quarter, we expect production to be in a range of 1.87 million to 1.91 million barrels of oil equivalent per day. And this is inclusive of the 90,000 barrels per day of turnaround impacts that we discussed last quarter. The primary driver in that is our once every five year turnaround at Surmont, which will impact production by about 50,000 barrels per day during the quarter.
+For the full year, we have raised the midpoint of our production outlook, reflecting strong second quarter results. Our new range is 1.93 million to 1.94 million barrels of oil equivalent per day, which implies roughly 3% underlying growth year over year. Our full year turnaround forecast continues to be about 30,000 barrels per day.
+On income statement guidance items, we have lowered our DD&A guidance to a range of $9.3 billion to $9.4 billion, and we have lowered our annual after-tax adjusted corporate segment net loss to a range of $800 million to $900 million. Of these decreases are partially offset by higher forecasted adjusted operating costs, which we now anticipate to be in a range of $9.2 billion to $9.3 billion, primarily due to increased transportation and processing costs and inflationary pressures in the Lower 48.
+For CapEx we expect to spend approximately $11.5 billion. This reflects strong progress on our Willow scope for the year as well as some additional capital allocated to Lower 48 partner-operated activity that has highly competitive returns. On cash flow we are increasing full year guidance for APLNG distributions by $100 million to $1.4 billion, and we expect $400 million of these distributions in the third quarter. Additionally, we're going to have a $100 million pension contribution in the third quarter.
+Finally, regarding working capital, we anticipate a $500 million outflow based on a tax payment shift I mentioned from the second quarter to the third quarter. And as a reminder, guidance excludes the impact of pending acquisitions. So, in conclusion, we continue to deliver on our strategic initiatives. We remain focused on executing our plan for 2024. We are committed to staying highly competitive on our shareholder distributions and are progressing towards closing the Marathon transaction.
+That concludes our prepared remarks. I'll now turn it back over to the operator to start the Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Neil Mehta, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Neil Mehta,  Goldman Sachs Group Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, Ryan, and team. Thank you for taking the time. My question is just around everything buybacks. So if you could just talk about the share repurchase strategy and remind us between now and August 29, probably you are going to be out of the market, but your commitment to come back in the back half of the year and get to that over $9 billion at or above the $9 billion capital return numbers are your perspective on taking advantage of the volatility in as you plan for the back half as it relates to share repurchases?
+
+--------------------------------------------------------------------------------
+William Bullock,  ConocoPhillips - Chief Financial Officer, Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Yeah, Neil, we're very confident in at least $9 billion of distributions for the year. And if you look at things we paid out about 40% of CFO in the first half of the year, and that's despite having some restrictions on open market repurchases that are related to the Marathon transaction that we have had in place since May. And so as you look at things as a result of those restrictions our $4.2 billion of distributions in the first half.
+That's a bit below a $9 billion annualized run rate. But as you know, the proxy is now mailed out and with regulatory requirements that we have in place, we're restricted from buying back any of our shares until that Marathon shareholder vote. But that is just right around the corner, that's August 29.
+And so to answer your question, once the Marathon shareholder vote is complete, you should expect us to be leaning into buybacks. And we think that's really important because we've consistently been one of our largest buyers of stock every quarter and you can run the math on that. It's pretty straightforward. That's at least $3 billion of buybacks that you should expect through the third and fourth quarter and that would put us really right in line with our long-term track record of retiring about 5% of our shares on an annualized basis that we've had since the strategy reset. Then, as Ryan reiterated in his comments, once we close Marathon, we expect to be increasing our annualized buyback rate by $2 billion.
+That would put total annualized distributions at a run rate above $11 billion, inclusive of the base dividend increase slated for the fourth quarter. So yeah, leaning into buybacks as we go through the remainder of the year and really quite a bit of things to be looking forward to, pretty excited about.
+
+--------------------------------------------------------------------------------
+Ryan Lance,  ConocoPhillips - Chairman of the Board, Chief Executive Officer    [4]
+--------------------------------------------------------------------------------
+
+          And Neil, I would add that, look, the share price has been frustrating to watch, you know, through the first half of the year. And we get it, and we've been out of the market, due to the Marathon transaction. I would just remind everybody that the shareholders come first in our value proposition, and that's been consistent since we reset in 2016. We retired over $400 million of our shares over that period of time. And I think the average price per share that we purchased is somewhere in the $70 per share price. The program has been managed really well, if you look at cumulatively our return of capital over that period of time from 2017 through what we expect to do the end of this year, that's nearly $57 billion of capital has gone back to our shareholder over that period of time, representing about 45% of our market cap today.
+So with the -- and why we're excited about the Marathon transaction is there's just going to be we're going to be bigger, but we're going to be better and we're going to have more free cash flow. And we're going to have more funds to distribute back to our shareholders. And we'll retire the shares, as I said in my opening comments in two to three years, just based on our plans as we see it today.
+So this is the important question. It's probably got some undercurrent around the share price performance, which we're not pleased with as well. But we're determined to be back in the market as soon as we can and buy back the shares to hit our return on capital target for 2024.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Doug Leggate, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Doug Leggate,  Wolfe Research - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          How's everybody doing? Ryan, it was good seeing you are a couple of weeks ago.
+Thanks for taking my questions. I don't have a question last time. So I'm going to stick to one, but I want to make one comment very quickly, and that is that market recognition of value, Ryan, flows through the dividend to companies of your size, so I commend you on your decision on the dividend decision. And I think you only have to look at CNQ to see what I'm talking about. So congratulations on making that decision. My question, however, is on the deal you announced while I was out and more importantly, the tax benefits that I don't think were really fleshed out on the Q&A.
+Marathon has a lot of legacy NOLs. And what I'm trying to understand is how you use that and whether or not some that was incorporated into your risked view of synergies and if not, what that could look like ultimately in terms of value.
+
+--------------------------------------------------------------------------------
+William Bullock,  ConocoPhillips - Chief Financial Officer, Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          Sure. Hi, Doug. This is Bill. Yeah, Marathon had $2.8 billion of NOLs as of the end of year last year at December 31, 2023. That's a tax-affected value of about $600 million. And we certainly expect that Marathon will be using a portion of those losses in 2024 prior to closing. But as you point out that this isn't a stock transaction.
+As such, we'd be assuming Marathon's tax basis in its assets as well as any of those net operating losses that they have or NOLs. And so just as a reminder, we're in a full tax cash paying position right now. And at today's pricing, we would expect to be able to use any remaining NOLs within the first three years or so. And so what I think is important about this is that we don't consider NOLs as synergies.
+We tend to think about synergies as things that we're going to be taking action on. So we didn't bring the NOLs up as part of the deal announcement. But yeah, tax benefits are certainly something we consider as part of the transaction. They are real value.
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [8]
+--------------------------------------------------------------------------------
+
+          And Doug, this is Andy. And, as Bill mentioned, we didn't include the NOLs as part of our synergies, but in terms of the synergy, things are progressing really well there, too. We remain very confident of achieving that $500 million synergy run rate within a year of closing, and we see upside to that number. So our activities are now progressing well.
+As we mentioned previously, we expect it to be a pretty seamless integration. We've stood up our integration teams. They're focused on reviewing the organizational structures and systems so that we can be ready to close as soon as we get the go. There are some obvious, you know, G&A synergies, primarily focused on the back-office support, the corporate function duplication as well as system integrations. Now, the other synergies that we're looking at are on the operating cost side of things. So there's clear adjacency of the operating areas that are going to lead to efficiencies, such as improved productive time of our field staff and we're also going to be able to rationalize the field office.
+And on the capital side, we've been really digging in here, too. We work the cost-saving opportunities, you know from several angles here. A couple of examples would be know our ability to run a consistent program of scale is going to drive savings. As we look deeper, we see opportunities to bring the use of our super zippers and remote frac operations to the Marathon Eagle Ford position. So you know, on the synergy side of things, we're progressing really well. We're going to be ready to go day one as soon as the transaction closes.
+
+--------------------------------------------------------------------------------
+Ryan Lance,  ConocoPhillips - Chairman of the Board, Chief Executive Officer    [9]
+--------------------------------------------------------------------------------
+
+          And I would say, Doug, that we appreciate your comments on the dividend. Look,I'm probably the holdout on the team, given the history and having to make the decision back in 2016. But look the company has gotten a lot bigger. We've gotten a lot better, and we've gotten a lot ... we've lowered our cost of supply, have dramatically more resource, more free cash flow, more cash flow, at lower prices, lower as we've lowered our sustaining capital as well. Balance sheet's in great shape. So it all lends itself to doing the dividend action that we're going to do in the fourth quarter, consistent with the close of the Marathon transaction to your earlier comment.
+And lastly, on the we do this integration really well, just look at our Concho experience, Shell experience, we'll do this one really well, and we will overdeliver on the synergies.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Scott Hanold, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Scott Hanold,  RBC Capital Markets - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Thanks. My question is around LNG and I'd be interested to hear about how your strategy is evolving specifically your recent re-gas agreement at Zeebrugge and the Asia agreement, how are you thinking about regional targeting and contracting on the future takeaway if you get to that 10 to 15 [MTPA] that you have stated out there.
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [12]
+--------------------------------------------------------------------------------
+
+          Hey, Scott, this is Andy. I can take that one. As you mentioned, yeah, we have made further progress on marketing our LNG. We did secure 0.75 MTPA of re-gas capacity at the Zeebrugge Terminal in Belgium. And then we also entered into a long-term sales contract with an Asian buyer for approximately 0.5 MTPA. So these recent placements take our total now from the 4.5 we previously communicated to 6.0 MTPA.
+As a reminder, two of that is in support of the SPAs we have with Qatar. And for competitive reasons, we don't talk too much about in advance where we're developing offtake, sources or re-gas capacity. So, you know, as you can see from this quarter, we're making really good progress on both fronts. And as we've previously communicated , over the long term, 10 to 15 MTPA would be a good range of capacity for us. At that size, we can achieve the full benefits of scale really across our organization. So no, I think we're really happy with the progress we've made this quarter and I think everything's on track what we're trying to achieve here.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          [Betty Xu], Barclays.
+
+--------------------------------------------------------------------------------
+Betty Xu,  Barclays Bank PLC - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Good morning. Thank you for taking my question. So I wanted to ask about the upward movement in CapEx to the upper end of the guidance range, which was specifically attributed to Willow? And then the non-operated activity. Can you give us an update on how Willow is tracking versus your plan? And is that responsible for most of the increase in the budget?
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [15]
+--------------------------------------------------------------------------------
+
+          So Betty, this is Andy. Maybe I'll start by just sort of clearing sort of the total guidance, then Kirk can take your Willow question directly. So we initially set a guidance range of $11.0 billion to $11.5 billion at the beginning of the year. And that included a number of uncertainties, including Willow, so we now have wrapped up a successful winter construction season and we're halfway through the year, and we now have line of sight of achieving a scope of work at Willow of around $1.5 billion to $1.7 billion this year. For any large project such as Willow, achieving scope of milestones on time or early in the first two years is really quite critical to set the foundation for success and derisks our project execution.
+And then the other area we specifically called out is the Lower 48. Now there are a couple of moving parts here. We see an increase in our partner-operated scope. And, specifically here, when we are balancing our attractive low cost of supply opportunities by partners, we're going to participate. And then also on the operating side of things, we are seeing more wells as a result of our efficiencies.
+So both the partner-operated activity and the efficiencies, they’re going to provide a production benefit in 2025. So when we think about it, we're pleased with the scope of work we've achieved so far this year and then the scope we've locked in for the second half. Now given we're halfway through the year, we're now comfortable guiding the capital for the total year, it's going to about $11.5 billion.
+
+--------------------------------------------------------------------------------
+Kirk Johnson,  ConocoPhillips - SVP of Global Operations    [16]
+--------------------------------------------------------------------------------
+
+          And Betty, this is Kirk, and I can give a little bit more color here on Willow specifically, certainly, as Andy spoke to our strong execution. And the accomplishments that we've realized here in the first part of this year just continues to give us a strong view of Willow capital will be here in 2024. And that's why we're moving into this $1.5 billion to $1.7 billion range.
+Again, it is just a function of really strong execution across our workflows. And that is, of course, factored into our total company guidance on any large project such as Willow, achieving our scope and our milestones across the full suite of workflows, from engineering through fabrication and construction all the way through supply chain in the first few years, especially having just taken FID here late last year, is just critical and this sets the foundation for our success going forward on the project.
+And certainly, as you heard from me last quarter, our winter construction season here in 2024 wrapped up and we were able to achieve all the critical scope that we had planned here despite some pretty challenging weather that caused some early delays. But ultimately, we were able to get all of that critical scope completed.
+On fabrication, the largest of our operation center modules we completed ahead of schedule. Those modules shipped, and they've now actually arrived in Alaska. And we have plans to take offload from barge to shore here this month in August. Engineering is also on track. And when we couple up the fact that we're just doing really well on engineering as well as wrapping up these operations center modules a bit early.
+It's allowed us and our contractors to roll directly from fab of the ops center modules into the central processing facility modules. And we're able to do that actually a couple of months better than planned, which just puts us in a strong position as we set this foundation for the large project. In fact, we cut steel here just this last month in July.
+So I'll wrap it up by again, just reinforcing this first year post-FID is important and it's also important in procurement. All of our major facility contracts have been landed in equipment orders. And in fact, we're now at a place where we can say 80% of our total facility spend is wrapped up within contracts, and we continue to make progress on that here as we move into the second half of the year.
+So again, across all the workflows, just really hitting the milestones early is really important and gives us a lot of confidence to reinforce our prior guide on total project capital. And we're still on track for 2029 first oil.
+
+--------------------------------------------------------------------------------
+Ryan Lance,  ConocoPhillips - Chairman of the Board, Chief Executive Officer    [17]
+--------------------------------------------------------------------------------
+
+          And, Betty I would step back to sort of very high level. A couple of comments from my side to you. Shareholders should want us doing this. This is derisking the big project, as Kirk described and on the extra OBO work that Andy talked about, look our choice is to cut back our operated program to hit some capital number for the year, and that's not a good decision either. So rather than cut back on our operating program just to cover for additional ballots we're getting from other operators doesn't make a lot of sense to us, given the cost of supply of those opportunities. So we're wanting to fund both of them at this stage.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Steve Richardson, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Steve Richardson,  Evercore ISI - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Thank you. I wonder if I could just follow up on that last comment, Ryan, in terms of activity in the Lower 48, so it sounds like a combination of more OBO and also maintaining your program. Can you talk a little bit about what you're seeing on the leading edge of service cost and appreciate that that probably doesn't show up in the high-level numbers in terms of the second half of this year, but if you can foreshadow kind of what you're seeing on the leading edge and what that could mean for 2025.
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [20]
+--------------------------------------------------------------------------------
+
+          Maybe I'll just start that and Nick can talk to the details of Lower 48. So in terms of inflation and deflation, as we previously communicated now we're seeing a bit of a bifurcation this year with Lower 48 seeing deflation while A&I is experiencing some inflation. And I'd say right at the margin, we're seeing slightly more deflation than we expected in the Lower 48, while A&I is slightly higher than expected, but that's right at the margin.
+You know, overall our full-year expectation is still in the low single-digit annual average deflation company-wide, as we previously guided. So I'll let Nick provide more color on the Lower 48. But industry-wide what we're seeing, we've seen a 20% drop in rig and frac activity over the last 12 months, driven by efficiency gains and activity reductions and those efficiency improvements are still resulting in higher production. Specifically to the Lower 48, we are seeing high single to low double-digit deflation in our key spend categories.
+
+--------------------------------------------------------------------------------
+Nicholas Olds,  ConocoPhillips Co - Executive Vice President, Lower 48    [21]
+--------------------------------------------------------------------------------
+
+          Yeah, Steve, this is Nick. Just a little more commentary you know, for the first half, we have seen continued deflation around pumping services, the proppant and there's an oversupply of proppant out in the Permian. So we're seeing some price reduction there. And there we think that will continue into the second half. And we spoke about OCTG as well, and we see that will probably continue in the second half as well.
+We'll probably see a little bit of a curtailment or decrease in deflation in the second half going into 2025 because we've seen fairly large gains over the first half of 2024. But overall, we're capturing that. And when you look at Lower 48 in general we'll have a full run rate. If you look from July through December, we'll capture that deflation. That's where we see the fact that our 2024 budget is modestly lower than 2023, primarily driven by that market deflation capture.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          John Royall, JPMorgan.
+
+--------------------------------------------------------------------------------
+John Royall,  JPMorgan Securities LLC - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Thanks for taking my questions. So my question is on production and just looking at your guidance for 3Q and then backing into the guidance for 4Q from your full year guide, it looks like a pretty steadily increasing profile throughout the year if I add back the turnaround impact in 3Q, and I think that's in line with how you've talked about the year generally. But maybe you could just give a little color on the moving pieces in production between the different regions as we progress the back half of the year outside of the turnaround impact you've already called out?
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [24]
+--------------------------------------------------------------------------------
+
+          Sure. I can take that one. And I think the short answer is yes. Yes, it is pretty steady when you adjust for the turnarounds. So we're expecting organic production to grow 2% to 4% in 2024 and it’s actually pretty consistent across the Lower 48 and Alaska and International. And as Bill said in his prepared remarks, organic production was up roughly 4% year over year in the second quarter, which is towards the top end of our guidance, again, with a balance across Lower 48 and A&I.
+Now if you look at our production profile this year, I think is what you're alluding to, is that if you exclude the turnarounds, we're basically growing up 1% each quarter, it's pretty straightforward. The profile is being masked a bit in the third quarter as that's one of our heaviest turnaround quarters in some time with a 90,000 barrels a day of turnaround impacts that Bill mentioned in the prepared remarks.
+Maybe, to give a little bit more color on that, know that 90,000 barrels is split, 50 in Canada, 20 in the Lower 48, six in Alaska, five in Norway, and four in Malaysia and Qatar. And in the Lower 48 specifically, our second quarter actually outperformed our expectations, and we are expecting production to be fairly flat in the third quarter, and that's due to the turnaround I just mentioned, the 20,000 barrels a day that we have in Eagle Ford, then we'll be up in the fourth quarter versus the third quarter. So bottom line, we're tracking right in line with our guidance. Just the quarter to quarters are somewhat masked a bit with the turnaround activity that you're seeing.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Roger Read, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Roger Read,  Wells Fargo Securities LLC - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Good morning. And maybe come back on the guidance side on the OpEx front, obviously, you're talking about costs going up a little bit. You've talked about some the things on the CapEx side. I didn't know if those were tied together like higher activity, higher costs, what part of this is kind of internal versus external? Broadly speaking, what are the inflationary pressures?
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [27]
+--------------------------------------------------------------------------------
+
+          Sure, Roger, this is Andy. I can take that one. As Bill mentioned in the prepared remarks, we have raised the guidance to $9.2 to $9.3 billion for the full year and about half of this is from our Lower 48 non-operated position. And then the other half is our own lifting cost primarily a result of the higher transportation and processing costs and some higher utilities and some additional workover activity and we have been experiencing some of these impacts in the second quarter, and we're now incorporating those into the full year guidance.
+Probably another point I would make is that, the third quarter is going to be our largest, our large turnarounds I just referred to. So with that, we will actually see the third quarter be the high point of the controllable costs for this year.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Ryan Todd, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Ryan Todd,  Piper Sandler & Co - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Maybe if I could follow up on LNG topics from earlier, congrats on the two announced offtake deals that you had in the LNG business. Maybe can you speak more broadly in terms of what you're seeing on as you go on to market the gas, what you're seeing more broadly on appetite and market dynamics for LNG sales contracts and maybe how you think about global supply and demand dynamics over the next couple of years in those markets?
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [30]
+--------------------------------------------------------------------------------
+
+          Yeah, I can take that one too, in terms of what we're seeing. In terms of the offtake side of things. From the offtake and the marketing. In terms of the offtake side of it, you know, we're happy with our position and we know, we continue to look for further opportunities that we know have competitive pricing and a high likelihood of FID.
+So the LNG pause is causing some questions from potential buyers on the timing of things. But again, against this backdrop, we've been able to sign two deals this quarter. And I think that clearly highlights the benefits of our permitted project.
+So in terms of the marketing of the LNG, we remain happy with the demand we continue to see both in Europe and Asia for new LNG and we continue to work opportunities across the globe and there'll be more to come on that, which we addressed them. We don't talk too much about them in advance. But I think big picture, we remain very constructive on LNG and the role it's going to play. And we're quite pleased with the progress that we're making to grow our position out to the 10 to 15 MTPA that we've previously communicated.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Neal Dingmann, Truist.
+
+--------------------------------------------------------------------------------
+Neal Dingmann,  Truist Securities Inc - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Morning. Thanks for the time. My question is on your Permian gas takeaway and maybe Lower 48 realization expectations. I'm just wondering you all suggest you expect the Permian gas pricing to remain depressed until more third-party pipeline capacity is added. My question is, are you all thinking the pressure could be for several quarters ahead? And would you all consider curtailing anything until gas rebounds? I know you have mostly oil, so just to know if there was anything to potentially curtail?
+
+--------------------------------------------------------------------------------
+William Bullock,  ConocoPhillips - Chief Financial Officer, Executive Vice President    [33]
+--------------------------------------------------------------------------------
+
+          Yeah, Neal. As we indicated on our first quarter earnings call, we expected Lower 48 gas realizations in the second quarter to be particularly low. You'll recall at that time, Permian Basin pricing was printing negative. That is, in fact how things played out for the quarter. You saw a negative Waha first of month and gas daily pricing through the quarter.
+So yeah, first of month, Lower 48 realizations were just under 20% of Henry Hub in the quarter. Now we've got a significant portion of our production is Permian Basin that we said we ship to multiple markets out of the Permian, including the Gulf Coast and West Coast, but a sizable portion of our production does receive in-basin pricing.
+And, as we went through the second quarter, there was increased maintenance activity in the Permian Basin that put downward pressure on pricing. The basin is pretty constrained right now, takeaway is fully utilized, outages are an issue, and we would expect that trend to continue into the third quarter. Relief is really coming up later in the third quarter with Matterhorn pipeline coming on adding some significant takeaway. We think that's going to be really helpful for Permian Basin pricing as we look towards the end of the third quarter and end of the fourth quarter. It should improve overall Lower 48 capture rate as we go forward.
+The other thing I'd just note, as you look at second quarter and you think about the remainder of the year is that in the second quarter, not only was Permian Basin pricing low, but a lot of the premium markets were impacted. California border pricing traded at a discount to Henry Hub, which is a bit unusual. Inventory levels were high, milder weather was going on, I would expect as we go out of the shoulder months and into the fall that will resolve itself too.
+But the big thing we're looking for is additional takeaway capacity coming out of the Permian Basin with Matterhorn picking up. And we've got a little bit of capacity on that. And to your point about would you think about curtailing. Well, as we've said repeatedly, for ConocoPhillips, this is a pricing issue not a flow assurance issue. And that's really important because we're primarily investing in oil producing opportunities in the Permian Basin, and we do not routinely flare. So being able to move that production is important. So we're a long way away from looking at curtailing oil production, but we are looking forward to additional capacity coming out of the Permian Basin.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Leo Mariani, ROTH.
+
+--------------------------------------------------------------------------------
+Leo Mariani,  ROTH MKM Partners LLC - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I wanted to just touch base on a couple of your different operating areas from a production perspective. Eagle Ford volumes were up very, very sharply, you know, this quarter, and you also saw a pretty nice rise in your Canadian Montney volumes as well. So I was hoping you can give a little color around those.
+I mean, is some of the jump in Eagle Ford production somewhat temporary? Maybe there was a lot of turn-in lines and expect production there to moderate later this year. And also just on the Montney stuff, is that just going to kind of steadily grow? Just trying to get a sense of trajectory on that asset also? Thanks.
+
+--------------------------------------------------------------------------------
+Nick Olds,   -     [36]
+--------------------------------------------------------------------------------
+
+          Yeah, Leo, I'll start here. So on Eagle Ford, you're right, we are really encouraged with the production. We had 238,000 barrels of oil equivalent per day versus 197,000 from Q1. And to take the group back, we had that frac gap that we had in the second half of 2023. And then we reinstated that frac crew. And so you're really seeing the benefit in Q2 as we work through that inventory.
+So really encouraged with the wells that we placed online end of Q1 and inQ2. So we've seen a strong bump in the production there. Wells are performing very strong throughout. Now, as Andy mentioned, on the turnarounds we're currently going through as we speak, a large turnaround in Eagle Ford that's going as planned, as expected. So we'll be slightly down on that 20,000 barrels per day impact equivalent per day for Q3 and you'll expect to have Q4 back up and running. So really strong performance on Eagle Ford overall.
+
+--------------------------------------------------------------------------------
+Kirk Johnson,  ConocoPhillips - SVP of Global Operations    [37]
+--------------------------------------------------------------------------------
+
+          And Leo, you asked about Montney as well. We had a really strong start here in 2024, where in second quarter here this last quarter we averaged 43,000 barrels equivalent a day and I too can take you back a bit. That's more than double relative to the same quarter last year and then we're up quarter over quarter as well, roughly 3,000 barrels a day.
+And all that just being driven by us bringing additional wells online as we seek to fill this new CPF2 capacity, obviously that we that we commissioned here late last year. Also for Montney, our production rates have been in line with our type curve. So really pleased with how we're seeing those wells come online. And we do, in fact, continue to expect to modestly grow our production throughout 2024.
+Albeit as you know, and you've witnessed from us in the Lower 48 unconventional profiles, they can be a bit lumpy quarter to quarter, so I'll guide you here a little bit. We do expect third quarter to be pretty flat to second quarter, but then we'll start to see an uptick again here in the last quarter of the year. So of course, internationally, we're seeking to make sure our production remains in sync with this new processing facility and offtake capacity that, that having just added last year again of 100 million cubic feet a day of gas processing capacity, an additional 30 in both crude and condensate handling capacity with this new phase.
+And so having brought on the second rig earlier this year, we're just slowly ramping into that new capacity, and we expect that to continue here modestly and into the future. So I'm just, again pleased with how we're making some progress on our wells activities, their performance and then obviously, everything that we're gaining from the experience we have in the Lower 48.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Kalei Akamine, Bank of America.
+
+--------------------------------------------------------------------------------
+Kalei Akamine,  Bank of America - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Morning, guys. I'd like to follow up on the gas discussion. You talked a little bit about how your Permian is well set up through year end. To the extent you can, I'd like to expand on that and talk about how the macro is shaping up through the end of 2025 and longer term, maybe that macro gets a little bit more interesting due to power and exports. So as you sort of assess that change. Wondering if you think your portfolio is appropriately positioned to exploit that kind of macro?
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [40]
+--------------------------------------------------------------------------------
+
+          Hi, Kalei, I can take that Andy here. Maybe I'll start with the demand side of that and then we can talk about sort of how you might respond to that. So I think you set up the narrative pretty well there in terms of sort of you know, we are expecting to see tailwinds, I mean, in sort of gas demand for gas on the LNG side, you know, our data center size and transportation needs. So is it just the under construction LNG plants, you know, are going to add 10 to 15 BCF a day over the next several years.
+And that's alongside the broader electrification trends. So that, there has been a lot of forecasts. We've all seen them on AI driven power demand, and they are constructive for natural gas demand. But I do want to point out, it's important, there are lots of different factors at play here such as the pace of those data center build-outs, constraints on the power expansion, the expected improvement in efficiency. So we're still carefully working through back that piece of the equation in terms of just seeing how material this is going to be over time. But you're absolutely right. We do see it driving demand. Then we'll go to the second half of the question, what does that mean for us? So in terms of our portfolio, you know we have a lot of gas opportunities in our portfolio that we're not currently developing today, a lot of dry gas opportunities. And you know, also we have a lot of associated gas in our unconventionals, and we could know we could choose to basically target gassier parts of the unconventionals.
+But for us, the bottom line is it's got to compete on a cost of supply basis where we are today to make the cut for our annual capital program. And the really nice thing about the gas opportunities is, you know, if the demand is there and the support is there, we can pivot very quickly to the gas in our portfolio if it makes sense, and it's competing on the cost of supply basis.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Bob Brackett, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Bob Brackett,  Bernstein Research - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Good morning, and I'll return to the Willow project. It's perhaps $7 billion of CapEx. It's the biggest project on the North Slope of the last 20 years. And so I'll ask some questions that are a little nitpicky to get comfort around the doability of the project. And I guess on the facility side of spend, you mentioned that the arrival of the operation center.The other pieces of the facility, I guess, the drill pads and then the central processing facility. What's the design philosophy around those? And how do you get comfort that you're in strong control of those?
+
+--------------------------------------------------------------------------------
+Kirk Johnson,  ConocoPhillips - SVP of Global Operations    [43]
+--------------------------------------------------------------------------------
+
+          Hi, Bob, this is Kirk. Yeah, certainly, yeah, good questions. We've been very proactive in how we plan this project out over the coming years. And certainly what you're hearing from me is how that's playing out for us, which is it's a combination. Of course, naturally, we're seeking to build as much of these modules outside of the Alaskan North Slope, where we have pretty challenging weather conditions.
+It's remote and it takes a lot of effort and a lot of planning to do what we can do each winter within those winter construction seasons. And so we've been very purposeful in how we identify areas in which we can aggregate and build these large modules offsite, whether it be in Alaska or in other regions globally and build those certainly with preferred contractors and partners that can progress those with us. You've heard how I've described we've locked up a bulk of our spend, upwards of 80% of our total facility spend in the fabrication as well as in the construction of all of this, whether it be off-site through the modules. Obviously, we have to work on the transportation, sealifting those into Alaska, but we're still making a few truckables in and pieces of work that are appropriate that we can do there in Alaska and exploit the talent and the labor markets that we have in Alaska. And then of course, we're transporting all of that to the North Slope.
+And these are across multiple winter construction seasons, which is why you hear me describe the good work that we had this year. We do actually have expectations of even more work next year in 2025 on the North Slope. And again, that's all weather dependent. And this is why it's so important for us when we have good weather to knock that scope out when we have that opportunity.
+And so we've purposely staged and created this project so that we can get that scope done. We expect to have our peak activity both in fabrication and construction in Alaska across 2024 and the 2025 years and expect that to stair-step down. But again, that's premised on good weather, strong line of sight to our contractors. And so we just feel like we've got a really strong foundation to how this project’s starting just immediately post FID. So we are really happy with how all this is working for us, Bob.
+
+--------------------------------------------------------------------------------
+Ryan Lance,  ConocoPhillips - Chairman of the Board, Chief Executive Officer    [44]
+--------------------------------------------------------------------------------
+
+          Bob, I'd add a couple of things just from my long-term experience on the North Slope, you know, this is, I don't know, 25th or more drill sites that we've built on the North Slope. They're all trunk and lateral design. They're the same design that we've done on drill sites, you know, for the last 10 or 15 years. So we know how to do them and we've done a lot of them and this isn't any incremental scope. And then on the central facilities, to your question, we've done both: We’ve stick-built facilities on the North Slope during our winter construction seasons, and we’ve built them off site and sea-lifted them up. And the important part for Willow was the size of the opportunity there for us, and the size and scope of the facility lent themselves to offsite fabrication. And I think the team did a great job hitting the window pretty well on the Gulf Coast when there was a ramping down of activity, we could slot our project in pretty quickly to get good productivity. And then, as we've already demonstrated, our ability to sea-lift the facilities up to the North Slope. And it's gone really well with the first set of facilities showing up. So that's an important distinction because a lot of stick built on the North Slope of the size of Willow, as you know, to us demonstrated the need to go off-site and build it.
+Build it on the Gulf Coast to take advantage of better productivity and year-round building and then ship to the North Slope. So that, and so that should give some comfort. We know we're doing, we've done this before, and these are just repeats of stuff we've done in the past.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Kevin MacCurdy, Pickering Energy Partners.
+
+--------------------------------------------------------------------------------
+Kevin MacCurdy,  Pickering Energy Partners Insights - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Good morning.To build on the earlier question about CapEx. Your first half CapEx was in line but now you're pointing to that kind of the high end of the range for the year. We would assume that the Willow spend is more geared towards fourth quarter. But when do you see or when do you expect to see the higher activity and CapEx from the partner operated activity? And how material is the production impact for that activity?
+
+--------------------------------------------------------------------------------
+Nick Olds,   -     [47]
+--------------------------------------------------------------------------------
+
+          Yes. Let me jump in here, Kevin. And then, Kirk, you want to add anything on this as well here. I'll take you back to the total capital for Lower 48. As Ryan mentioned, we expect capital to be modestly lower compared to 2023, mainly driven by that market deflation.
+Now on the operated side, we, as we've mentioned before, we are fairly flat on rig and frac crew counts. And that's driven by that improved operating capital efficiencies that we continue to realize through 2024. And we'll have deflation capture. Now on the non-operated side to your point, capital is higher as we've seen higher amount of Permian non-operated ballots than anticipated relative to the 2024 guidance given.
+So that's higher activity and as Andy mentioned, we'll continue to participate in those. These investments are attractive within our cost by framework and are competitive compared to our operated program. We've seen that through 2Q, especially. That's why we've raised guidance, and we do detailed analysis on all of these as we go through our cost of supply framework.
+Now if I look in the second half of this year, we'll continue to realize the benefit of the deflation. And like we've seen in previous years that non-op activity typically tails off kind of the back end of Q3 and then Q4. So we expect that as well. So again, this, kind of circling back, our capital for the year is just modestly lower than 2023.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Paul Cheng, Scotiabank.
+
+--------------------------------------------------------------------------------
+Paul Cheng,  Scotiabank Global Banking and Markets - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Thank you, guys. Good morning. Maybe this is for Ryan or maybe just for Bill, if we're looking at for 2025 and '26 in terms of CapEx, can you share with us some of the moving parts up and down comparing to 2024? I would imagine part of the spending will be weighed down, but that looked like Alaska may actually be up in spendingtoo. So maybe you can give us some idea there on the key moving parts that we should take into consideration?
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [50]
+--------------------------------------------------------------------------------
+
+          Yes, Paul, I know you highlighted a few of the moving parts that we'll have in 2025. But at this point, it's a bit early for us to be talking about what the 2025 capital spend is going to be, particularly prior to closing the Marathon transaction. So I think that's going to have to wait until we get through later in the year and get the Marathon transaction closed before we're going to be wanting to talk in detail about '25 CapEx.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Josh Silverstein, UBS.
+
+--------------------------------------------------------------------------------
+Josh Silverstein,  UBS - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          I just wanted to get an update on some of the LNG product development. I was curious if the permitting slowdown in the US has actually helped the pace of development at Port Arthur. And then it's I think it's been about a year since the Saguaro LNG announcement. I just wanted to get an update on that project too.
+
+--------------------------------------------------------------------------------
+Andy O'Brien,  ConocoPhillips - SVP of Strategy, Commercial, Sustainability & Technology    [53]
+--------------------------------------------------------------------------------
+
+          Yes, it's Andy, I can take that one. You know on Port Arthur, specifically as you mentioned, that is our Phase 1, that is a fully permitted project. We started construction, or the operator started construction there with the contractor. So at this stage, I'd just say things are on track. Not much else to say in terms of the construction of the project at this point. It's on track and going as planned.
+And then I think your second question was it was really on MPL. Now this one, so this has impacted new projects in US and Mexico. These are impacted by the pause that is impacting the FID there. But I don't know. I'd probably point you to go ... those questions are probably better asked by MPL in terms of sort of the pace of the project and where they're at.
+We see, like you see, sort of critical milestones being progressed, but they know that they face the same regulatory hurdles that the rest of the industry does. You mentioned, you're correct that we have, we've agreed to take 2.2 MTPA of offtake at MPL. So we're keenly watching the progress there, too, with that. But that one’s contingent on the LNG pause.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          We have no further questions at this time. Thank you. Ladies and gentlemen, this concludes today's conference thank you for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

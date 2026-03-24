@@ -1,0 +1,561 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 CVS Health Corp Earnings Call
+AUGUST 07, 2024 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Thomas Cowhey
+   CVS Health Corp - Chief Financial Officer, Executive Vice President
+ * Karen Lynch
+   CVS Health Corp - President, Chief Executive Officer, Director
+ * J. Joyner
+   CVS Health Corp - Executive Vice President, President - Pharmacy Services
+ * Larry Mcgrath
+   CVS Health Corp - Senior Vice President, Business Development and Investor Relations
+ * Brian Kane
+   CVS Health Corp - Executive Vice President and President of Aetna
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Lance Wilkes
+   Bernstein - Analyst
+ * Elizabeth Anderson
+   Evercore ISI Institutional Equities - Analyst
+ * Eric Percher
+   Nephron Research LLC - Analyst
+ * Justin Lake
+   Wolfe Research, LLC - Analyst
+ * Michael Cherny
+   Leerink Partners LLC - Analyst
+ * Brian Tanquilut
+   Jefferies LLC - Analyst
+ * Lisa Gill
+   JPMorgan Chase & Co - Analyst
+ * Ann Hynes
+   Mizuho Securities USA LLC - Analyst
+ * Charles Rhyee
+   TD Cowen - Analyst
+ * Kevin Caliendo
+   UBS - Analyst
+ * Stephen Baxter
+   Wells Fargo Securities, LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) I'm now going to hand over to Larry McGrath to begin. Larry, please go ahead, when you're ready.
+
+--------------------------------------------------------------------------------
+Larry Mcgrath,  CVS Health Corp - Senior Vice President, Business Development and Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to the CVS Health Second-Quarter 2024 Earnings Call and Webcast. I'm Larry McGrath, Senior Vice President of Business Development and Investor Relations for CVS Health. I'm joined this morning by Karen Lynch, President and Chief Executive Officer; and Tom Cowhey, Chief Financial Officer.
+Following our prepared remarks, we'll host a question-and-answer session that will include additional members of our leadership team. Our press release and slide presentation have been posted to our website, along with our Form 10-Q filed this morning with the SEC. Today's call is also being broadcast on our website where it will be archived for 1 year.
+During this call, we'll make certain forward-looking statements. Our forward-looking statements are subject to significant risks and uncertainties that could cause actual results to differ materially from currently projected results. We strongly encourage you to review the reports we file with the SEC regarding these risks and uncertainties, in particular, those that are described in the cautionary statement concerning forward-looking statements and risk factors in our most recent annual report filed on Form 10-K, our quarterly report on Form 10-Q filed this morning and our recent filings on Form 8-K, including this morning's earnings press release.
+During this call, we'll use non-GAAP measures when talking about the company's financial performance and financial condition. And you can find a reconciliation of these non-GAAP measures in this morning's press release and in the reconciliation document posted to the Investor Relations portion of our website.
+With that, I'd like to turn the call over to Karen. Karen?
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Larry. Good morning, everyone, and thanks for joining our call today. Today, we reported adjusted earnings per share of $1.83 and adjusted operating income of $3.7 billion for the quarter. Our total revenues were more than $91 billion and we generated $8 billion of operating cash flow in the first half of the year.
+We are also updating our full year 2024 our adjusted EPS guidance to a range of $6.40 to $6.65 based on the continued pressure in our Health Care Benefits business, offset by strong performance in health services and the pharmacy and consumer wellness business.
+So majority of our businesses are performing well, and we continue to drive the integrated value of our company by executing on our strategy to connect people to the care and the coverage they need. However, we are disappointed by the current performance and outlook for the Health Care Benefits segment, and I have decided to make leadership changes.
+Effective immediately, Brian Kane is leaving the company. In the interim, I will assume direct leadership of the Health Care Benefits segment. As you know, managed care has been an integral part of both mine and Tom Cowhey's professional careers, and we will be overseeing the day-to-day management of this business.
+In addition, Katerina Guerraz, our Chief Strategy Officer, will become the Chief Operating Officer of the Health Care Benefits segment. Katrina is a 20-year Aetna veteran with extensive commercial and Medicare experience and has a track record of operational excellence.
+We are committed to returning health care benefits to its rightful place and will drive execution and address the challenges facing this business. Looking across the enterprise today, CVS Health, there's more than 186 million people, and we are making continued progress improving that our integrated model, create value.
+When individuals engage with two or more offering, we can deliver better health experiences and outcomes. Over the first half of the year, we expanded the number of consumers accessing two or more CVS Health offerings to 57.7 million, an increase of nearly 2.5 million consumer.
+We grew the number of Aetna medical members utilizing CVS pharmacies to 9 million, an increase of 8% from the prior year. We also now have $13.8 million Aetna medical members who are covered by Caremark, an increase of 13% compared to last year.
+We extended our digital reach with nearly 16 million unique digital customers utilizing our platform to schedule health services appointments, fill prescriptions and purchase wellness products, all contributing to the growth in our business.
+We are committed to transforming the industry with innovative pharmacy model that create greater transparency reflect the TrueCost of drugs and align incentives across stakeholder. We are driving significant progress on the adoption of CVS CostVantage and CVS Caremark TrueCost.
+To date, we signed CVS cost advantage agreements with eight pharmacy benefit managers, including CVS Caremark, who combined make up more than 50% of our commercial scrip. Discussions with our large PBM partners are active and constructive as we move forward with full implementation for our commercial contracts on January first, 2025.
+Our two class offering is resonating with commercial clients as they strive to ensure pricing, simplicity and transparency for their members.
+We firmly believe that TrueCost will reshape the future pricing for every drug, every condition and every member. Additionally, we implemented this model for CVS Health, more than 300,000 colleagues.
+Biosimilars create a meaningful opportunity to deliver additional pharmacy savings to our clients. Through Cordavis, we introduced our biosimilar products at a price more than 80% lower than a reference brand and we are the only company to move biosimilar share.
+We have processed approximately 100,000 Cordavis bosimilar prescriptions since we launched our formulary change on April 1, which has contributed to nearly $400 million in net savings for our clients and their members. Cordavis and its success in the biosimilar market was possible because of the combined assets of CVS Health.
+We will continue to expand our offerings and drive greater access and savings for our customers. Before I share updates on performance in each of our segments, I wanted to provide an update on the enterprise productivity initiatives we discussed on our last call.
+We identified a multiyear opportunity to deliver $2 billion in savings. These savings will be driven by further streamlining and optimizing our operations and processes, continuing to rationalize our business portfolio and accelerating the use of artificial intelligence and automation across the enterprise as we consolidate and integrate platform.
+We will be thoughtful and deliberate as we execute these actions to ensure we continue to meet consumer needs. These savings will create bulk capacity to invest in our businesses and opportunities for our performance.
+Now let's look at our businesses in detail. In healthcare benefits revenues for the quarter grew to over $32 billion and we delivered nearly $1 billion and adjusted operating income. Medical membership was nearly $27 million, primarily reflecting growth in our Medicare and individual exchange business.
+Our medical benefit ratio for the quarter was 89.6%. Utilization in our Medicare business remained at elevated levels but was largely in line with expectations. Following the close of the second quarter, we saw indications of potential trend acceleration, which we have contemplated in our revised guidance range.
+Similar to others in the industry, we saw an increase in the dislocation between Medicaid acuity level and rate. We will continue working closely with our state partners to advocate for rate that more closely align with changes in acuity.
+Within the quarte, our MBR also reflected the impact of the final 2023 risk adjustment for our individual exchange business. Tom will provide additional details on utilization and the risk adjustment update. In June, we submitted our bid for the 2025 Medicare Advantage plans. Our bids, went through a rigorous internal review, and we are confident in our pricing for 2025, which reflects prudent assumptions for utilization trends.
+The actions we took are expected to drive 100 basis points to 200 basis points of margin recovery in 2025 off of our current baseline and start them multiyear pathway to achieving target margins of 4% to 5%. As we have previously discussed, we expect to see a decline in Medicare membership in 2025, driven by our margin recovery efforts.
+In our commercial business, we expect membership growth in 2025, driven by new business wins and strong retention, both of which are running ahead of where we were at this time last year. Our retention rate is in the high 90s with our national accounts business.
+In our pharmacy and consumer wellness business, we effectively navigated the changing consumer environment and delivered another strong quarter that exceeded our expectations.
+We grew revenues for the segment to approximately $30 billion of nearly 4% versus the prior year and generated $1.2 billion of adjusted operating income in the quarter. Our growing pharmacy share now at a record high of approximately 27.2% was a meaning contributor to these results.
+We continue playing a key role in delivering important community health services as demonstrated by the approximately 2 million immunizations we administered in the quarter. We are on track to achieve our three-year goal of closing 900 stores by the end of this year with 851 stores closed to date.
+We continued to exceed our goals for both [colleague] and scrip retention. As we look at the standalone stores, we have remaining across our national footprint, substantially all of profitable.
+This measure highlights our leadership in this business and our ability to operate nationally while delivering unmatched level of consumer service. Our position will only improve as we we continue to optimize our footprint and implement innovations like CVS CostVantage.
+In our Health Services segment, we generated revenues of more than $42 billion and deliver $1.9 billion in adjusted operating income. Our Pharmacy Services business, the largest component of Health Services segment delivered strong results, driven by execution on core principles of this business, lowering drug costs, creating savings for our clients.
+We have retained approximately 99% of employer clients in the 2025 selling season. I wanted to take a moment to address the interim 60 study released by the FTC. We fundamentally disagree with the FTC position. When you look at the data, there's clear evidence that PBM play a crucial role in reducing drug costs.
+We have a decade-long track record of protecting American businesses, unions and patients rising prices on prescription drugs. We use competition among manufacturers to help keep drug costs affordable for our members.
+The FTC's report focuses on issues of the past. We are leading the industry as we innovate our business model with our TrueCost offering. We believe our model helps ensure greater transparency in the pricing and help consumers to be confident in their pharmacy benefit that is providing the best possible price.
+Additionally, our programs help patients affordably access critical drug like insulin, our members on average pay less than $25 for insulin. Through our reduced Rx program, we provide access to $25 insulin to every customer whether insured, underinsured or uninsured.
+We are committed to delivering value every day to our clients and our members. In our Health Care delivery business, we are driving meaningful progress connecting patients to health services across all of our channels, primary and acute care, health services in the home and clinical program.
+Signify exceeded expectations, delivering another quarter of record volume. We also continue to grow our patient base among Medicare Advantage members with our primary care clinics. Oak Street at-risk patient grew to 235,000 of nearly 30% over the same quarter last year.
+We are accelerating opportunities that drive integrated value by connecting Signify and Oak Street to CVS Health assets such as Aetna MinuteClinic and CVS Pharmacy. Since we closed our health care delivery acquisitions Signify now serves nearly twice as many Aetna members. And to date, the number of Aetna members at Oak Street clinics has more than tripled. We expect this number to further expand as we introduce co-branded Aetna and Oak Street plants in the 2025 annual enrollment period.
+We continue to use the powerful relationship we have with patients at the pharmacy counter. This quarter, we saw a 7 times increase in a number of pharmacies scheduled IHEs compare to last quarter. We have many points of differentiation that physicians CVS Health to win.
+Our biggest differentiator is how we are running our assets together to deliver integrated solutions for our customers. We are working effectively to address the challenges we faced in 2024, the steps we are taking include our disciplined approach to Medicare Advantage pricing, progress on our innovative pharmacy model and our biosimilar strategy, early wins in both Caremark and Aetna selling season and accelerating the integration of healthcare delivery assets.
+These actions, combined with our multiyear productivity initiatives and improved operational performance in our Health Care Benefits segment give us the confidence that we are building positive momentum as we look to 2025 and beyond.
+I will now pass it over to Tom for a more detailed view of our second quarter results. Tom?
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Karen, and thanks to everyone for joining us this morning. I'll start with a few highlights on total company performance. Second quarter revenues were approximately $91.2 billion, an increase of approximately 2.6% over the prior year quarter, reflecting growth in our health care benefits and pharmacy and consumer wellness segments.
+We delivered adjusted operating income of over $3.7 billion and adjusted EPS of $1.83. We also generated year-to-date cash flow from operations of approximately $8 billion, lower results as compared to the same period last year, primarily due to timing of Medicare payments from the impact of Medicare utilization.
+Let's look at some of the performance of our segments. In our Health Care Benefits segment, we delivered strong revenue growth versus the prior year. Second quarter revenues of approximately $32.5 billion increased by over 21% year over year, reflecting growth across all product lines.
+Medical membership grew to nearly 27 million members, an increase of 200,000 members sequentially, reflecting growth in Medicare and Medicaid products, including the Oklahoma Medicaid contract, which went live on April 1.
+Adjusted operating income for the quarter was approximately $938 million, down here over year due to higher medical benefit ratio, partially offset by an increase in net investment income. Our medical benefit ratio of 89.6% increased 340 basis points from the prior year quarter, primarily reflecting higher Medicare Advantage utilization for premium impact of lower Stars ratings for the payment year 2024 the impact of higher acuity in Medicaid and a change in estimate for individual extreme change risk adjustment accrual for the 2023 plan year. These increases were partially offset by the favorable year-over-year impact of prior period development.
+In Medicare Advantage strong prior period reserve development improved our first quarter medical cost trend estimates, but we continue to see elevated trends in the second quarter, largely in the same category as we previously discussed, including inpatient supplemental benefits such as dental and also in pharmacy.
+Following the close of the quarter, we have seen some evidence of an acceleration of trends in these same categories, which informed our view of risks for the remainder of 2024. We also experienced medical cost pressures in our Medicaid business.
+This pressure is largely driven by higher acuity resulting from member redeterminations. We believe this dislocation will self-correct over time as we continue to work closely with our state partners to ensure the underlying trends are reflected in our rates, but we have not assumed material improvement in our 2024 outlook.
+During the quarter, we received final 2023 risk adjustment data or individual exchange business. As a result, we increased our risk adjustment accrual for the 2023 plan year by approximately $225 million. We were disappointed to see such a large change in the final update.
+We believe this change was in part driven by the significant growth and disruption in the market, particularly 2023. For 2024 population contains a significantly higher proportion of renewing members, and we continue to enhance our revenue integrity efforts to ensure we are appropriate recapturing there acuity.
+As a result of this update, we now expect margins for individual exchange business to be below breakeven this year. However, we are confident that our 2025 submitted rate filings, which we further enhanced following the 2023 risk adjustment update will place us back on our multiyear margin trajectory.
+Medical cost trends in our commercial business remain elevated, but are broadly in line with our expectations and pricing. These claims payable at the end of the quarter were 43.1 days, down 1.4 days sequentially and 3.8 days from the prior year quarter.
+The decrease versus the prior quarter was primarily driven by elevated reserves held in the first quarter of 2024, including the impact of the change healthcare cyber attack. The year-over-year change in DCP was primarily driven by growth in our Medicare business and the impact of increased pharmacy trends. We remain confident in the adequacy of our reserves.
+Our Health Services segment generated revenue of approximately $42.2 billion, a decrease of approximately 9% year over year, primarily driven by the previously announced loss of a large client and continued pharmacy client price improvements.
+These decreases were partially offset by pharmacy drug mix, increased contributions from a health care delivery assets and growth in specialty pharmacy. Adjusted operating income of approximately $1.9 billion, increased over 1% from the prior year quarter, reflecting improved purchasing economics, partially offset by continued pharmacy client price improvements and the previously announced loss of a large client.
+Total pharmacy claims process in the quarter were approximately 471 million, and total membership as of the end of the quarter was approximately 90 million members. We continue to be encouraged by the performance and growth of our health care delivery assets.
+Signify completed its second consecutive quarter of record volume generated revenue growth of 27% over the prior year. Oak Street also significantly increased revenue in the quarter, growing approximately 32% compared to the same quarter last year, reflecting strong membership and clinic growth.
+Oak Street ended the quarter was 207 centers, an increase of 30 centers year over year. Despite the challenging and dynamic operating environment and Medicare, we continue to see strong profitability of newer clinics and a consistent ramp in profitability of our newer clinics.
+We are encouraged by Oak Street's performance, which remains in line with our prior outlook and remain committed to growing our center footprint and expanding access to this leading care model. Our pharmacy and consumer wellness segment generated revenue of approximately $29.8 billion, reflecting an increase of 3.7% versus the prior year and 6.4% on a same-store basis.
+The primary drivers of this revenue growth were increased prescription volume and pharmacy drugs mix, partially offset by continued pharmacy room person pressure, the impact of recent generic introductions and lower front store volumes.
+Adjusted operating income was approximately $1.2 billion. This result is lower than the prior year quarter due to continued pharmacy reimbursement pressure, decreased front store volume and the timing of certain Medicare payments related to a CMS request.
+These impacts were partially offset by increased prescription volume, improved drug purchasing and pharmacy drugs. This quarter, same-store pharmacy sales were up over 9% versus the prior year, and same-store prescription volumes increased by 6.5%.
+We continue to increase our scripture during the quarter, achieving a 27.2% retail pharmacy share. Our results continue to demonstrate we are the best run national pharmacy chain in the country. Same store front, store sales were down by about 4% versus the same quarter last year.
+Excluding OTC test kits, same store front, store sales were down about 2%, reflective of general softening of consumer demand. As a reminder, the public health emergency was active through mid-May last year.
+Shifting now to liquidity and our capital position. Through the second quarter, we generated year-to-date cash flow from operations of approximately $8 billion. During the quarter, we returned $858 million to shareholders through our quarterly dividend and ended the quarter with approximately $2.9 billion of cash at the parent and unrestricted subsidiaries. We remain committed to maintaining our current investment grade ratings.
+Turning now to our full year outlook for 2024, as Karen mentioned, we are lowering our 2024 adjusted EPS guidance to a range of $6.40 to $6.65 per share. This revision reflects our performance through the second quarter and our latest expectations for the remainder of the year.
+Let me walk you through the major drivers of change. In our Health Care Benefits segment, we now expect adjusted operating income and a range of $2.25 billion to $2.55 billion. We expect HCBs full year medical benefit ratio to be in a range of 90.6% to 90.8%, an increase of 80 basis points to 100 basis points versus our prior guidance.
+At the midpoint for MBR shows a 150 basis points increase from the first half for the second half of 2024, consistent with historical patterns. In our Medicare Advantage block first half results remain largely in line with our prior expectation, although they have developed differently than we previously projected.
+Medical cost trends remained elevated in the second quarter at levels consistent with our restated first quarter experience, which benefited from strong prior period development. However, early indicators for July suggests we may see incremental pressure, particularly in inpatient.
+As a result, our updated guidance range now reflects the trends in the second half of 2024 could be higher than levels seen in the first half. It is worth noting that of trends persist at elevated levels we may be required to taken in year 2024 premium deficiency reserve in our Medicare business.
+While this premium deficiency reserve should now not having impact on our revised full year expectations for the Health Care Benefits segment, it could change the cadence of earnings between third and fourth quarters.
+At this time, we have no expectation that we will need a premium deficiency reserve related to our Medicare Advantage block for 2025. Our updated guidance also reflects a continuation of the Medicaid acuity pressure we saw in the second quarter. Our teams are working closely with state partners to align Medicaid rates with higher acuity.
+However, we are assuming no material improvement in the dislocation between rates and acuity through the second half of 2024.
+In our individual exchange business, given the magnitude of the negative surprise we experienced in our 2023 update, our outlook now reflects the provision for potential variability in our 2024 risk-adjusted position as our data matures over the remainder of the calendar year.
+As noted, we believe this variability has been appropriately reflected in our recently updated pricing for 2025. Our Health Services segment, we're increasing our estimate for 2024 adjusted operating income by a range of $200 million to $250 million or $7.2 billion to $7.25 billion.
+This increase reflects the return to strong performance in our pharmacy services business in the second quarter as well as the continuation of this exceptional execution for the remainder of the year. There is no change to the outlook for our health care delivery of assets as these businesses continue to perform in line with our expectations.
+In our pharmacy and consumer wellness segment, we now project adjusted operating income to increase by $100 million to $150 million for up to $5.7 billion to $5.75 billion. While we recognize that there has been macro shifts and economic and consumer dynamics, our pharmacy and consumer wellness segment continues to highlight the importance of our Community Health locations to the consumers we serve reflected in our growing pharmacy market share.
+As a result, we are pulling some of the strong first half performance into our expectations for the full year.
+Finally, we updated our expectation for cash flows from operations to approximately $9 billion in 2024. This decrease was primarily driven by the timing of reinsurance payments from CMS, primarily related to our stand-alone prescription drug products and the impact of lower HCB earnings. The [Part D] receivable increase will be repaid by CMS during the fourth quarter of 2025.
+You can find additional details on the components of our updated 2024 guidance on our Investor Relations webpage.
+We plan to share more detail in 2025 guidance later this year, but I want to provide some updates to our previous expectations for 2025. In Medicare Advantage, we remain committed to driving meaningful improvements in our margins in 2025.
+As we look at the sources to pressure we discussed in our updated 2024 guidance. Not all of these sources will translate into pressure on our 2025 bits. Notably, within our 2025 bids, we made meaningful adjust payments to our offerings, including supplemental benefits and Part D, both sources of incremental pressure in 2024.
+We currently project that we will improve Medicare Advantage margins between 100 basis points and 200 basis points in 2025. This will be a significant first step to achieving our target margins of 4% to 5% over the next several years. For individual exchange business, we had the opportunity to refile our bids to reflect the latest risk adjustment data and prudently reflected those updates in our 2025 bids.
+As a result, we continue to expect profit improvement in that business in 2025. In Medicaid, we believe the dislocation between acuity in rates is temporary and will be largely resolved through the next pricing cycle.
+In Karen's remarks, she highlighted the work our team has underway to deliver on a multiyear enterprise productivity initiatives. In 2025. We expect savings from this initiative to drive at least $500 million of adjusted operating earnings.
+We are encouraged by our deliberate efforts to strengthen our outlook and generate meaningful positive momentum for 2025 and beyond. As is our customary practice, we will give more formal guidance later this year.
+With that, we will now open the call to your questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Lisa Gill, JP Morgan.
+
+--------------------------------------------------------------------------------
+Lisa Gill,  JPMorgan Chase & Co - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks very much, and good morning, Karen and Tom. I just wanted to start on EBITDA health benefits business. So if I go back to last quarter and we talked about the level of visibility that you had around cost trend and then I heard your comments, Karen, that as it closed Q2, the trend accelerated. There's really two questions here one, can you talk about the level of visibility that you have when they think about the trend going into the back half of the year?
+And then secondly, can you talk about what was included in the 2025 bid? You talked about your level of confidence that you have, they are prudent in those bids. But if you are seeing that trend accelerate coming out of Q2, were you able to capture that in a bid for 2025?
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes, Lisa, I'll start with a 25 bids. I feel like we have a high degree of confidence that we cut the trend for 2025 bids. We took a very prudent approach. We talked about that last quarter relative to our elevated trends and that we expect that elevated trends for the rest of the year and into next year.
+So we feel very confident had across enterprise team, looking at the bids and throughout the entire bid cycle. And we feel good that we'll achieve the 100 basis points to 200 basis points of margin recovery. And that's what we expect and are relative to utilization in the quarter. I'll ask Tom to comment on that.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Hey, Lisa. So as you look at the trends on, there's a lot of things going on inside the quarter. So the first quarter we stated quite positively. A lot of that we think was a function of change. We actually saw some strong restatement and inpatient and first quarter trend.
+But then as we looked at what happened in the second quarter, we actually -- the Medicare trends quarter over quarter they were roughly flat, but at a lower level than what we experienced or thought we have experienced in the first quarter. So inpatient trends were consistent, but at an elevated level.
+And then we continued to see some elevated trends in outpatient. We saw some pressure in supplemental benefits such as dental and also in pharmacy. We also saw some categories such as we talked a little bit about some of the outpatient pharmacy that we had seen that pressure in the first quarter. We saw some positive restatement there and actually some acceleration of trends, which was -- which was a nice offset
+From our current outlook, we think prudently incorporates where we are for the remainder of the year. But as you think about the bids, part of the the question here is where exactly does this manifest? We had a substantial amount of contingency as we look at our 2024 baseline for those bids.
+And remember, for 2025, we assumed that same level of trend persists for respectively, a third year in 2025 at -- essentially a double digit rate -- a very, very high abnormal trends. And so when you step back and look at where we've seen some of the pressure this quarter, dental, for example, has been completely restructured in our 2025 bids.
+And so if we see pressure there throughout the remainder of the year, it's unlikely to translate. Part D, as we all know, has been completely restructured for 2025. And so we're not -- we don't believe that some of the pressure that we're seeing there is also in a carryover because those bids have been rebuilt from the ground up.
+I would also highlight, you saw because in some of the changes and CMS star ratings, we did actually get a nice tailwind, in that one of our important our HMO contracts done in Florida, flipped over to four stars, which will also create an incremental tailwind.
+And so we feel good about, over the range of outcomes that we've talked about, 100 basis points to 200 basis points of margin improvement. And, there are many scenarios where we think the high end of that range is entirely achievable.
+
+--------------------------------------------------------------------------------
+Lisa Gill,  JPMorgan Chase & Co - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Can you talk about membership decline? I think Karen mentioned that today about that. When you said in the public form of to 10%, should that be our assumption for '25 that you can move up to 10% of their membership in MA?
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [6]
+--------------------------------------------------------------------------------
+
+          I think we were out earlier last quarte, we talked about a range of 5% to 10%. That's a good baseline. But I also wanted to just highlight why is it that we expect to lose that membership? It's because there weer some county exit. So it's a small portion of what we think the loss membership will be.
+As you think about, though, where our assumptions have made some significant dislocation, -- is where we've had, we didn't have a product that we thought we could get back to target margins over the time period we have. And so we pulled those products. And then we refiled a new product with a different set of benefits that we would not have been able to achieve by just changing our existing benefit structure.
+And so we believe we've been fairly prudent given the level of disruption that is likely in the marketplace next year in assuming that those terms and resells are going, those results are going to happen at a much lower rate than what we have historically experienced, but should we see some upside from that?
+It is likely going to be in terms of membership relative to that range of 5% to 10% down? It's going to be in products where we restructure the benefits. So we don't necessarily feel that's a bad thing. In other words, I don't know that losing membership as part of the path to profitability. We think that a lot of that has been incorporated just simply into the bid pricing.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Justin Lake, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Justin Lake,  Wolfe Research, LLC - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning. First question is on the 2025. You've previously talked about double digit EPS growth next year. Is that still the target of your updated estimate? And what are some of the key headwinds tailwinds there beyond the 100 basis points to 200 basis points of M&A improvement you're talking about?
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [9]
+--------------------------------------------------------------------------------
+
+          Yes, Justin. Thanks for the question. Yes, our goal obviously is double digit, and we're striving to achieve that. That's the goal will provide more detailed guidance later on in the year. But let me have Tom walked you through the half the headwinds and tailwinds as we think about 2025.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [10]
+--------------------------------------------------------------------------------
+
+          I talked a little bit about this in the prepared remarks, Justin. But I think just highlighting again, our goal is to grow double digit on, but we want to see how the remainder of the year plays out, and we'll provide guidance as we normally do officially later this year.
+I would say, as you look across the businesses, I just would remind investors that we've seen strong performance in health, safety and health services. We've seen strong performance in pharmacy and consumer wellness on it, and we are encouraged by the momentum in both of those businesses. The real question then, of course, become that now.
+So let me break down a couple of the big pieces in there that I think you would like to focus on. First, the individual business, we made significant price increases in our baseline for 2025. That is likely to yield a slightly lower membership base, but with a much higher profit margins and where we are this year.
+When we then learned about how 2023 risk adjustment had backed up on us, we actually, as part of the process, when that happens, you actually have the opportunity to reopening our bids. And so we work with our state partners and we put incremental rate into certain key states after receiving the 2023 risk adjustment update. So we feel good about our ability to make progress there.
+In Medicaid, there are price increases that will go into effect on nearly half of our book on January first, 2025. And we're also I would say there are some isolated pockets on some very specific issues in certain states where we're seeing some isolated pressure on and we're working with those states to see what we can do to enhance some of our medical management to tried to improve the trend outlook there as well.
+So we feel good about our ability to improve the outlook for that business. Now I will also just note, we do a large win in Texas that will have some startup costs associated with that next year. In Medicare Advantage I talked about this. We did make meaningful adjustments to our offerings. We feel good about our ability to get 100 basis points to 200 basis points improved margin in 2025.
+And then if medical costs were strictly and where to subside from our current outlook, which effectively carries this very high level of trend and then a little more more based on what we saw in early July throughout the remainder of the year, if some of that were to subside, there's obviously upside from that because we've been very explicit about what our trend assumptions are.
+We have line of sight to over $500 million of incremental cost savings in 2025. And we believe that we have the opportunity to drive $2 billion worth of cost savings over time. Those efficiencies are going to allow us to drive results both for shareholders, but also invest in our products, processes and infrastructure.
+We think these are the right things to do. A lot of them were underway, but we really accelerated our focus on delivering near-term value to help improve our outlook. So when you pull all that together again, we feel like we have a lot of positive momentum, our goal is to grow double digits, and we're going to update investors later this year.
+
+--------------------------------------------------------------------------------
+Justin Lake,  Wolfe Research, LLC - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          And then, just a quick follow up on the question around Medicare Advantage. You mentioned cost trends elevated, you saw more in July. Where is medical cost trend running? Coming out of July, what are you assuming for the back half of the year and remind us what you reported your certain next year relative to that number? Lastly, can you share with us what percentage of members in 2025 and MA? We'll see their products pulled, the same products? Thanks.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [12]
+--------------------------------------------------------------------------------
+
+          So I'll answer the first -- the last one first. So we -- you'all have some better insights into that when we see the open enrollment period in the landscape filed later this year. Obviously how our membership is impacted is going to be highly dependent upon competitor actions. And so we'll give you a better sense on what that looks like later this year.
+As you think about medical cost trends, remember there are certain things this year that are specific to some of the pressures this year? And so when you think about trends in the bid, we think about some of the core trends on. And then we look at some of the things like supplemental benefits separately, but we are experiencing on all in, including pharmacy double digit trends this year.
+And when you look at the core trends associated with the baseline in the bids and then the baseline that we carried into 2025, it's consistent with the experience that we are seeing year to date that we've carried through for the next 18 months.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Stephen Baxter, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Stephen Baxter,  Wells Fargo Securities, LLC - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you very much for the question. I just wanted to ask about the expected EBITDA margin improvement of 100 basis points to 200 basis points, obviously had expected that closer to the 200 basis points range on the last call. So can you talk about now -- seeing where utilization is has exiting the quarter? What do you think would get you to the low end of that range or you think would be required to drive you towards the higher end of the range? Thank you.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [15]
+--------------------------------------------------------------------------------
+
+          So I think there's a wide range on the the remaining results for the year. And it's really a function of how much credibility one was signed into some of the early indicators we saw in July on the Medicare business. So at the low end of that range, I think 200 has pressure, at the higher end of that range, I think 200 is very achievable.
+And really, Stephen, it is a function where some of the trends over the remainder of the year manifest. So to the extent that they occur in areas where we are going to reset and off of that of that is not going to carry forward into 2025.
+I just again highlight, though, we believe we've been very conservative in both the baseline and the trend that way we assumed in 2025. And so even at low end of that range, depending upon how it manifests itself, we still might be able to get 200 basis points improvement next year, we need to see just how the baseline matures over the course of the next couple of months to give you more firm guidance on them?
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Ann Hyne, Mizuho.
+
+--------------------------------------------------------------------------------
+Ann Hynes,  Mizuho Securities USA LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Hi, I'm great, thank you. So in your prepared remarks you talked about the retail cost plus we are gaining traction with about 2% and a claims, I think you said renegotiated. Can you just given lower an update on negotiations with the last two PBM it's like maybe handicap if you think you'll be able to strike a deal with them? Just any update on negotiations that would be great.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+
+          Yes, Ann. Just a reminder on cost advantage, and it would be really introduce this to simplify and address the pharmacy reimbursement mile and Brain and the team have been working with PBMs to really reach contract and address those pharmacy reimbursement has had success.
+As I mentioned in my prepared remarks, we had eight PBM contracts already signed and underway, but I'll let Brain talk more specifically about those contracts and where we're headed.
+
+--------------------------------------------------------------------------------
+Brian Kane,  CVS Health Corp - Executive Vice President and President of Aetna    [19]
+--------------------------------------------------------------------------------
+
+          I appreciate the question, Ann. So look, we continue to have active productive discussions with our large PBM partners and continuing progress in transitioning all of our commercial contracts for January 1, 2025. At the end of the day if you think about the retail pharmacy reimbursement landscape and what kind of how it works, what we're doing with CVS CostVantage allows pharmacies to be reasonably compensated for the care of the value that they provide and the local communities.
+So I would say more to come in the next couple of quarters, but we do remain positive about where we stand at this point with CVS cost advantage and how it resonate in the marketplace.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Eric Percher, Nephron Research.
+
+--------------------------------------------------------------------------------
+Eric Percher,  Nephron Research LLC - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thank you. I'd like to us from a little bit more on the Part D marketplace, given the initial bid direct direct subsidy exposure and the demo program, can you give us an idea for your response to that program? Is the Part D demo help to derisk this marketplace?
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          Eric, we're really pleased that and CMS phas offered on this Part D program to really stabilize on the Part D premiums. We are -- we have applied for the demonstration and are looking forward to working out the details. But we I really do think that this was the right answer, and we're very pleased with that. We're talking with CMS over the course of the last several months. And we felt like we had influence over that and feel good about what we are able to accomplish.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Michael Cherny, Leerink Partners.
+
+--------------------------------------------------------------------------------
+Michael Cherny,  Leerink Partners LLC - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking the question. Maybe to go back to Ann's question asked a different direction. Seeing nice traction, obviously at a CostVantage, the logic behind that fairly sound. Is your intention if you don't get full compliance from the remaining 50% of the plans in place that you're going to have a dual reimbursement structure on the commercial side? And how exactly will that work functionally for the organization in terms of your pricing mechanism, your sourcing, et cetera?
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [25]
+--------------------------------------------------------------------------------
+
+          So today, we have multiple reference price models in the marketplace with payers. Our intention is to move all of our commercial hundreds of, as stated previously to our CostVantage model, it benefits both payers and us The predictability in the way cost of goods are passed through and provides predictable. What I would say is reasonable margin for the farmers as it relates to that.
+So our expectation is that we will move the commercial market over to this. We will still have a dual market, right, because of Medicare and Medicaid contracts still exist on another platform and as we said prior, we're going to move the commercial marketplace over [1125] and follow that with the Medicare and Medicaid markets that sometime in the future. So from my perspective, we'll handle that. But our expectation is ever moving the commercial marketplace over for [1125].
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Elizabeth Anderson, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Elizabeth Anderson,  Evercore ISI Institutional Equities - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Hi, guys. Good morning and thanks for that question. Maybe just to piggyback on my math of what maybe let's just say. Is your expectation for those contracts -- the commercial contracts that you moved over so one [1125], that dose would have liked flat margins versus 2024?
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [28]
+--------------------------------------------------------------------------------
+
+          Yes. But we have are not providing a guidance at this point. So our expectation is to -- as we've said, over the long term, if you think about what's happened with reimbursement pressure going all the way back to our Analyst Day, we've talked about how it's been a headwind for retail for very long times industry.
+What CVS CostVantage will do, is over time it will flatten that out to basically allow payers to have the benefits of our industry-leading cost of goods to get passed through and a more transparent fashion and flatten out the reimbursement pressures over time. So they will provide a 2025 guidance yet. But the expectation of CVS CostVantages to really we do that over time and provide a floor in retail.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [29]
+--------------------------------------------------------------------------------
+
+          I'm going to ask David to talk a little bit about how that's translating on the PBM and TrueCost and how that's flowing all the way through. So David, why don't you take it?
+
+--------------------------------------------------------------------------------
+J. Joyner,  CVS Health Corp - Executive Vice President, President - Pharmacy Services    [30]
+--------------------------------------------------------------------------------
+
+          Yes, so I think it's important that you see both sides of the equation, and there's clearly recognition that their pain points and two, today's price model. So you have this average market basket pricing and what we see is and cross subsidization. So both what premise solving for on the retail side is exactly what we're solving for our TrueCost model with our clients.
+So the fact is that we're hitting what I believe are the issues head on by trying to drive a new price model that both serves our customers and creating, eliminating the price variability -- creating more simplicity and transparency at the at the member or the consumer level.
+So the good news is that we've launched TrueCost for our own employees on [6-1]. We'd launch of what we believe it very successfully and helps create one is a platform and a demonstration that the at the product will actually work effectively for for members and a high deductible plan.
+And we're also beginning to evolve this enroll this model out to add to the rest of our book. So we're looking obviously, at waves are attributes of the model. And we suspect that we will have close to two-thirds of our customers on at least a couple of the attributes as we tried to rebalance and create more transparency at the member level.
+So we feel really good about the fact that we're aligning both what's happening at retail and how it then connects with how we're basically driving the model in the payer community.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Kevin Caliendo, UBS.
+
+--------------------------------------------------------------------------------
+Kevin Caliendo,  UBS - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Hey, guys, thanks for taking my question. I'm just thinking through some of these -- some of what we learned today, right? We have $500 million and operating savings that will flow through next year. We're going to have 100 basis points to 200 basis points of margin in MA, in cash flow you also have some benefits potentially from picks.
+All of those combined are well in excess of what would be 10% earnings growth of this new base. And that's not even including stars. And I'm just wondering, is your expectation for star still the same as it had been the star benefit in 2025. Is there anything that does anything that was changed there? That's my first question.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [33]
+--------------------------------------------------------------------------------
+
+          Yes. Nothing has changed on relative to our star that actually have given some of the end of the changes that occurred earlier this quarter. And Kevin, you described and what we feel is very positive momentum going into 2025.
+As both Tom and I talked about, we feel good about 2025 outlet relative to that positive momentum. In addition, we have very strong retention in our Aetna book and in our Caremark book, but relative to on client account. So generally speaking that they feel good about about 2025.
+But as Tom said, we want to see how the rest of the year plays out before we give formal guidance for 2025, which is typical of what we do anyway.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [34]
+--------------------------------------------------------------------------------
+
+          Kevin, one one just point of minor clarification. So the 100 basis points to 200 basis points has always been inclusive of the stores tailwind next year. But as you think about some of the pressures that we've seen, you know in or could see based on what we've heard in some of our early reads in July, really as we think about what's happened in June and get more data there. One of the positive offsets to that potential trend inside that range is further momentum on Stars because of that change, particularly to our Florida HMO contract.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Lance Wilkes, Bernstein.
+
+--------------------------------------------------------------------------------
+Lance Wilkes,  Bernstein - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Chris, can you talk a little bit about the leadership changes for Aetna? In particular with you taking control of it, what are the changes and priorities are going to be establishing there? And what do you sort of the changes in the management process and any sort of or changes. And how much of the $500 million of incremental costs things that will fall to the bottom line would come through Atena? Thanks.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [37]
+--------------------------------------------------------------------------------
+
+          Thanks. As you ask me, the financial performance of this business was not meeting expectations and I decided to make a change relative to the priorities there. And I know I will be establishing a very strong management process, driving execution of improved on financial and operational performance. And that would be my key priorities.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [38]
+--------------------------------------------------------------------------------
+
+          Lance, just one quick follow-up. We're not parsing out where some of the $500 million in synergies comes from. That's all on bottom line. Reminder, though, as you think about 2025, we do have some expenses that are deferring that will come back in 2025, and this will, at that level helped to offset that. And we're not done yet. We're still working through what other opportunities we have this year. So I think of data for that will help to improve the outlook for next year.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Charles Rhyee, TD Cowen.
+
+--------------------------------------------------------------------------------
+Charles Rhyee,  TD Cowen - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Yes, thanks for taking the question. karen, I wanted to ask, you mentioned earlier about, you know, the way the commercial save money and the role that PBMs play and really lowering drug prices for both employers and consumers.
+I get all that and obviously we can debate the issues within the FTC interim report. But what does include those that that message though, doesn't seem to be resonating, particularly on the Hill? And certainly when it when you look at sort of the leading further portrays the PBM industry. Can you talk about sort what I see this is doing maybe in conjunction with PCMA to really kind of amplify the message of the PBM industry?
+And why is that not what does that not resonated? Or or is that not gotten through to folks, particularly if you see, let's say, ahead of this interim report to trying to understand the role that PBMs play? And what can we do about that? Thanks.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [41]
+--------------------------------------------------------------------------------
+
+          Yes, I think a couple of things. We've taken a very aggressive approach to us educating congress on the role of the PBM, we've been doing a lot relative to communications. One of the things that both David and I have spent a lot of time on the Hill and what we realize it is education thing and leave and amplifying our message.
+And you can do that. What I what I would I'd say is that we have demonstrated and proven over time that we are saving money and the results to reflect that. I think the FTC and was very much targeted and they took on certain data and not the whole holistic data to really amplify their story versus the real story. And we feel confident that we continue to have discussions.
+As you can see, nothing has happened in Congress because there's a lot of discussion going on around the PBMs I do think that if anything ever does happen, it will be on transparency. But yes, we continue to drive and educate Congress, and that's what we're doing and continue to add David, I'll ask David to see if there's anything else you want to comment on here.
+
+--------------------------------------------------------------------------------
+J. Joyner,  CVS Health Corp - Executive Vice President, President - Pharmacy Services    [42]
+--------------------------------------------------------------------------------
+
+          Maybe just to reinforce, Charles, the this has been an industry that continues to innovate, adapt and evolve. And I think we're listening to the critiques and or the the concerns and just look specifically what we're seeing in DC, the focuses for the most part, what they out of pocket cost or for members that is the consumer.
+And when you look at now 80% plus generic dispensing rates and average out-of-pocket cost of $8 and actually that cost is actually less than what it was in years past. I think we're doing our job. And to your point, the messages that has not resonated as effectively because everybody is focusing on the high cost of brands, which is what we're solving for specifically with our customers.
+And so that last 10%. And if you look specifically what we did with the with them with the biosimilars, we were the only PBM and we've actually got a lot of credit and recognition for this in both DC and among our customers.
+And that we say $400-plus million by converting a higher list price Humira brand to a lower list price product, too, the opposite, save our customers monitoring. And then the members will ultimately ended up paying close to $0 out of pocket.
+So if you demonstrate the fact that we are evolving and continuing to create value for our customers, which results in a high retention rate and high growth rate and our customers will ultimately be we can begin the to create the voice for making sure sure that we're protecting and actually a continuing into, what I think is reinvest in the things that the PBM tools and programs that we've delivered in the past.
+I think the last piece I'll just say, which I mentioned earlier is that the price models need to evolve with premise recognize that at retail, I think within the Caremark on the PBM side, we recognize the need to continue to evolve the price model, which is why we believe TrueCost is critical for the future of success.
+And what I believe is big is kind of the transformation of how pricing ultimately is delivered to the customer and ultimately down to the consumer. So I think the facts remain clear, the PBM industry and specifically CVS Caremark create significant value.
+I think once the actual empirical evidence is there and actually begins to get passed into those that are I actually got the legislative branch and ultimately, those are those that are actually writing about this industry that the numbers speak for itself.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [43]
+--------------------------------------------------------------------------------
+
+          And I just want to emphasize on the point David made. We are leading the industry and changing the way pricing is done on both at the retail counter and CVS Caremark. And I think that we set the standard first care innovations. And I think that's an important part to changing the dialogue and a landscape in this business.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Brian Tanquilut, Jefferies.
+
+--------------------------------------------------------------------------------
+Brian Tanquilut,  Jefferies LLC - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Thank you. Tom, maybe because as I think about the revised guidance, obviously adjust that at a few times already. So how would you give investors confidence that this is the right number at this point that you've baked enough Tread and prudent conservatism? And maybe any color you could share what bucket inpatient you saw the trend uptick in July? Thanks.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [46]
+--------------------------------------------------------------------------------
+
+          Sure, Brian, thanks for the question. So maybe just let me just take a step back and just talk about the quarter because I think as you look at the quarter, it looks stronger than I think it is. We had $150 million worth of prior year reserve development, strong prior period reserve development off the first quarter, particularly as claims normalized after the change of the change cyber attack we had revenue pick up in Medicare, we had some positive settlement. Going the other way, we had to increase the risk and risk adjustments payable. But there's more positive than negatives as you look the quarter which I think I got us to there which I think got us to the printed result inside the quarter, but really masked some underlying pressure.
+And so we took the opportunity to really step back and reevaluate what we saw in the second quarter and really over the whole first half now that we have a more complete period and really tried to pull that forward into the remainder of the year. So if you look at the last five years at the very highest level, you say the MDR tends to tick up in the back half, how much of that pickup?
+And so while for printed first half, you tend to see four out of the last five years, the one exception being 2020, when COVID really masked the underlying trends, you see 150 basis points of pickup in the MBR in the back half in deterioration it goes up the MBR and at the midpoint, that's exactly where this guidance is right that at the very highest level, I hope that that should give investors some confidence.
+Then as you look at the specific risks, what we've done is we've taken the presumption that the trends in Medicare that we've seen throughout the first half that they will persist throughout the remainder of the year and that they could modestly increase.
+As we noted, the first quarter did restate positively, but we continue to see elevated medical cost trends in the second quarter. And we did have some indications of the pressure in July. We don't believe is that, is an increase in to midnight, is this just we've seen broad-based inpatient pressures. And so the range of outcomes for the remainder of the year on the Aetna business is primarily driven by a very early read on an uptick in a long July.
+And so that's part of the reason for the ranges to try to incorporate what some of that variability is off a early indicator. In our exchange business or outlook incorporates the potential for additional risks over the remainder of the year, particularly if we're not successful in maintaining or risk adjustment trajectory on the 2024 block.
+And lastly, we incorporated the risk that the dislocation between that acute acuity and rates that pressured us inside the quarter persist throughout the remainder of the year. So maybe the easiest way to think about it is at the low end of that range, the AOI range for our health care benefits, the risks are probably all roughly equivalent in magnitude and the primary and they're really the primary drivers of the change in outlook.
+We think that we've captured it. But we're obviously watching the data very closely, but we tried to incorporate as much prudence into the outlook as we thought we knew it was appropriate.
+
+--------------------------------------------------------------------------------
+Karen Lynch,  CVS Health Corp - President, Chief Executive Officer, Director    [47]
+--------------------------------------------------------------------------------
+
+          Thank you for joining our call today. I want to take the opportunity to thank all of our colleagues for their continued contributions, and I'm working to improve all the health of people that we serve. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          This concludes today's call. Thank you very much for your attendance. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

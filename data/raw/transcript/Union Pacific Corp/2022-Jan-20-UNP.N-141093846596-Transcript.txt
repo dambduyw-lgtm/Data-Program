@@ -1,0 +1,834 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2021 Union Pacific Corp Earnings Call
+JANUARY 20, 2022 / 1:45PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jennifer L. Hamann
+   Union Pacific Corporation - Executive VP & CFO
+ * Lance M. Fritz
+   Union Pacific Corporation - Chairman, President & CEO
+ * Kenyatta G. Rocker
+   Union Pacific Corporation - EVP of Marketing & Sales
+ * Eric J. Gehringer
+   Union Pacific Railroad Company Inc. - SVP of Transportation
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Brian Patrick Ossenbeck
+   JPMorgan Chase & Co, Research Division - Senior Equity Analyst
+ * Justin Trennon Long
+   Stephens Inc., Research Division - MD
+ * Brandon Robert Oglenski
+   Barclays Bank PLC, Research Division - VP & Senior Equity Analyst
+ * Jonathan B. Chappell
+   Evercore ISI Institutional Equities, Research Division - Senior MD
+ * Thomas Richard Wadewitz
+   UBS Investment Bank, Research Division - MD and Senior Analyst
+ * Jordan Robert Alliger
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Cherilyn Radbourne
+   TD Securities Equity Research - Analyst
+ * Jairam Nathan
+   Daiwa Securities Co. Ltd., Research Division - Research Analyst
+ * Benjamin Joel Nolan
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD
+ * Amit Singh Mehrotra
+   Deutsche Bank AG, Research Division - Director and Senior Research Analyst
+ * Kenneth Scott Hoexter
+   BofA Securities, Research Division - MD & Co-Head of Industrials and Basic Materials
+ * David Scott Vernon
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Jeffrey Asher Kauffman
+   Vertical Research Partners, LLC - Principal
+ * Ravi Shanker
+   Morgan Stanley, Research Division - Executive Director
+ * Scott H. Group
+   Wolfe Research, LLC - MD & Senior Analyst
+ * Bascome Majors
+   Susquehanna Financial Group, LLLP, Research Division - Research Analyst
+ * Walter Noel Spracklin
+   RBC Capital Markets, Research Division - MD & Analyst
+ * Christian F. Wetherbee
+   Citigroup Inc., Research Division - MD & Lead Analyst
+ * Jason H. Seidl
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Greetings, and welcome to the Union Pacific Fourth Quarter Earnings Call. (Operator Instructions) As a reminder, this conference is being recorded, and the slides for today's presentation are available on Union Pacific's website. 
+It is now my pleasure to  introduce your host, Mr. Lance Fritz, Chairman, President and CEO for Union Pacific. Thank you. Mr. Fritz, you may begin.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [2]
+--------------------------------------------------------------------------------
+Thank you, Rob, and good morning, and welcome to Union Pacific's fourth quarter earnings conference call. With me today in Omaha are Kenny Rocker, Executive Vice President of Marketing and Sales; Eric Gehringer, Executive Vice President of Operations; and Jennifer Hamann, our Chief Financial Officer.  
+As we wrap up 2021, I want to start with a thank you to the Union Pacific team. This past year has been anything but easy as we dealt with massive weather events, wildfires, supply chain congestion and continued impacts from the pandemic. Through all of those challenges, our employees did the hard work necessary to deliver a record financial year. I am so grateful for our team's strength and their determination. They give me confidence that our best days truly lie ahead.  
+Turning to our fourth quarter results. This morning, Union Pacific is reporting 2021 fourth quarter net income of $1.7 billion or $2.66 per share. This compares to adjusted fourth quarter 2020 results of $1.6 billion or $2.36 per share. You'll note that 2020 reported results included an impairment charge related to our Brazos Yard investment. Our fourth quarter operating ratio of 57.4% deteriorated 180 basis points versus 2020's adjusted OR, largely driven by the headwind from fuel prices. 
+For the full year, we achieved a record 57.2% operating ratio, an improvement of 130 basis points versus 2020 adjusted results. And as Jennifer will lay out in a few minutes, we're on track to achieve a full year operating ratio that starts with a 55% in 2022. Even with the challenges of the past year, we set fourth quarter and full year records for operating income and net income.  
+A comparison to 2019 further demonstrates the achievements of the team over the past 2 years. As you'll hear in greater detail from Eric, our fourth quarter safety and service performance did not meet expectations. I am pleased, however, that as we exit the year, our network is healing. Reflecting back, 2021 was a difficult year in many ways. But through our commitment to PSR and delivering for our customers, we navigated each obstacle and are now better for having dealt with them. 
+During 2021, we took significant steps to advance our ESG efforts capped off by the release of our initial Climate Action Plan in December. This plan lays out a framework to achieve our 2030 greenhouse gas emission reduction targets and includes a commitment to net zero by 2050, and we are the only U.S. railroad to do so.  
+One element of our plan is reduce overall fuel consumption, and we made continued progress last year. Our full year fuel consumption rate improved 1% for a new record low. This represents the third consecutive year we improved our fuel consumption rate on a year-over-year basis, and it helped our customers eliminate 22.9 million metric tons of greenhouse gas emissions by using rail versus truck. 
+So let's get started with Kenny for an update on the business environment.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [3]
+--------------------------------------------------------------------------------
+Thank you, Lance, and good morning. Fourth quarter volume was down 4% compared to a year ago. Gains in our industrial and bulk segments were more than offset by a decline in our premium business group from continued global supply chain disruption. However, freight revenue was up 10% driven by higher fuel surcharges, positive mix and strong pricing gains.  Let's take a closer look at each of these business groups. 
+Starting with bulk, revenue for the quarter was up 16% compared to 2020, driven by a 5% increase in volume and a 10% increase in average revenue per car, reflecting higher fuel surcharges, positive mix and strong core pricing gains. Coal and renewable carloads grew 13% year-over-year. Our efforts to switch customers to index-based contracts are supporting domestic coal demand as a result of higher natural gas prices. The sequential decline was due in part to softer demand from milder weather in the fourth quarter. 
+The harvest for grain and grain products drove the 15% sequential improvement. However, shipments were down 1% compared to 2020 due to reduced grain export shipments to the Gulf. Weaker grain shipments were partially offset by our business development efforts and strong demand for biofuels. Fertilizer carloads were up 9% year-over-year due to strong agricultural demand and increased export potash shipments.  
+Moving on to industrial. Industrial revenue was -- improved by 14% for the quarter driven by an 8% increase in volume. Average revenue per car also improved 6% primarily driven by higher fuel surcharges and core pricing gains. Energy and specialized shipments were flat compared to 2020. Higher demand for LPG and soda ash was offset by fewer project-related waste shipments and petroleum products. Volume for forest products grew 7% year-over-year primarily driven by demand for brown paper use in corrugated boxes and scrap paper. 
+Industrial chemicals and plastic shipments were up 6% year-over-year due to strengthening demand and business wins. Metals and minerals volumes continue to be a bright spot. Volume was up 18% compared to 2020 primarily driven by our business development efforts, along with strong steel demand. In addition, demand recovery for construction materials and favorable comps for frac sand contributed to strong year-over-year growth.  
+Turning to premium. Revenue for the quarter was up 1% on a 14% decrease in volume versus 2020. Average revenue per car increased by 17% due to higher fuel surcharge, core pricing gains and a positive mix of traffic. Automotive volume was down 10% in the quarter due to semiconductor-related part shortages and associated plant shutdowns. However, sequentially, we saw a 10% increase versus the third quarter due to improved semiconductor availability.
+Intermodal volume was down 15% driven by continued international intermodal supply chain disruptions impacting the quarter as ocean carriers and BCO shifted more freight support to port. Sequentially, intermodal volume was down 10% versus the third quarter as global supply chains remain challenged.  
+Now looking ahead to 2022, here are the economic indicators that correlate closely with our business. You see that industrial production is currently forecasted to grow at 4.8% in 2022. We also recognize that we will face continued challenges in our energy-related markets. But despite those hurdles, we continue to build upon our solid strategy to serve, grow, win together. This strategy enables us to outperform the markets with our reliable service and continued focus on enhancing the customer experience.  
+So as we begin 2022, I'm excited and bullish for the opportunities we have in front of us. For our bulk commodities, we are optimistic about the growth in most of our markets due to favorable market conditions and business development wins. For fertilizer, we anticipate incremental growth with strong market demand and the long-term deal with Canpotex, where we have expanded terminal capacity to handle more volume with longer trains.  
+Coal should see year-over-year growth based on the expectation of continued favorable natural gas prices. Additionally, plant retirements forecasted in 2022 will be offset by 2 new contract wins that started on January 1. For grain, we have tough comps versus 2021 as exports have been strong for the last couple of years. However, in grain products, we are leading the market in biofuel development by securing opportunities on both sides of the house, the inbound feedstocks and the outbound finished biofuels.
+Moving to our industrial markets. We continue to be encouraged by the strength of the forecast for industrial production. This will positively impact many of our markets like metals. Customer expansions and business development wins will drive growth in our industrial chemicals and plastics commodity groups. However, as we move through the year, we expect lumber shipments to be adversely impacted by the current forecast for housing starts.  
+And lastly, for premium, we expect strong uplift for both our automotive and intermodal businesses. Automotive sales are forecasted to increase from 15 million units in 2021 to 15.4 million in 2022 due to the vehicle inventory restocking effort. Plus wins to convert finished vehicles and auto part shipments from over the road will further strengthen UP's automotive business. 
+Domestic intermodal will benefit from retail inventory restocking, continued strength in retail sales and tight truck supply. We're seeing slow improvement on our international volumes, but we also remain cognizant of the continued labor shortages that are impacting the global supply chain.  
+Setting aside those forces outside of our control, we continue to create our own opportunities to grow. We are focused on expanding our reach into new markets and industries. We're growing our footprint in the Twin Cities and Inland Empire Intermodal terminals. This quarter, we will also have a new product offering with our ag transload site at Global 4, and a nice swift business win that started this month positions us for robust growth in 2022. 
+But just to be clear, we're not only investing on the intermodal side, we're making significant investment to support growth on the carload side, too. We've recently purchased 2 transload sites in strong economic growth areas like the Inland Empire and Phoenix. As we forge ahead with our aggressive commercial strategy, we're accelerating growth beyond this year. The future looks bright heading into 2023 as we just announced that UP will be the primary intermodal rail carrier in the West for Schneider. This new business will start up in January 2023.  
+I'm proud of our commercial team. They are intensely focused on working with our customers to find creative solutions to win in the marketplace. We are anxious to build upon this momentum and grow with our customers. With that, I'll turn it over to Eric to review our operational performance.
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [4]
+--------------------------------------------------------------------------------
+Thanks, Kenny, and good morning. 2021 proved to be a challenging year operationally as we saw a range of events impact the network from wildfires to supply chain congestion. The team leveraged their collective strengths to find solutions to keep trains moving. We exited the year in a more fluid state, recognizing additional improvement is still imperative.  
+Taking a look at our key performance metrics for the quarter on Slide 10. Compared to fourth quarter 2020, our operating metrics deteriorated, although we improved most of our metrics sequentially from third quarter. Freight car velocity was impacted by reduced crew availability due to an increase in COVID infections and providing time off for vaccinations. Through reducing our recrew rate, recalling remaining furloughed employees, streamlining processes to onboard crews and increasing crew vaccination rates, our crew availability improved throughout the quarter.  
+Our intermodal trip plan compliance of 78% is a decline from last year, however, is a 12-point sequential improvement from third quarter results. This sequential improvement is evidence that our intermodal assets are balanced, and we are poised for growth.  
+Our manifest and auto trip plan compliance results of 58% represented a decline both year-over-year and sequentially. Crew availability had a greater impact on our manifest network. The December manifest and auto trip plan compliance results of 62% indicate we are trending in a positive direction, and we are building on these gains to start the year. 
+Efforts during the quarter focused on the southeastern portion of our network, and we successfully returned manifest operations to a fluid state. Our bulk operations, however, are not currently to a level that meets expectations. We are focused on driving improvement to this network as we did to the manifest network.  
+Turning to Slide 11. Our efficiency metrics remained strong in the quarter, although some results were muted by the crew availability and lower volumes. Locomotive productivity declined 9% compared to fourth quarter 2020 due to higher locomotive resources to assist with recovery efforts in the southeastern portion of the network. Fourth quarter record workforce productivity improved 1% to 1,046 daily miles per FTE. 
+Recognizing the importance of balancing strong crew utilization and planning for the future, we are focused on effectively managing crew levels. We're in the marketplace hiring, although we have been challenged in certain locations. Working with our partners and workforce resources to expand our reach, we are developing creative programs and campaigns like our second chance program to attract new employees to Union Pacific.  
+Train length increased 2% from a year ago to over 9,300 feet enabled by the completion of 15 sidings during the year. Although our ability to grow train length in the fourth quarter was impeded by lower volumes in the intermodal business, we did deliver train length improvement in other business lines, including a 4% improvement in our manifest train link. Utilizing the strong foundation built with the adoption of PSR, the team is ready to handle the expected growth in this and future years.  
+Turning to Slide 12. With respect to our capital spending, PSR allows us to efficiently operate the railroad in a less capital-intensive manner. We continue to exercise discipline while still delivering value to our shareholders. Capital spending will remain in line with our long-term guidance of less than 15% of revenue. 
+For 2022, we are targeting capital spending of $3.3 billion, pending final approval by our Board of Directors. The increase in capital spending is driven by targeted freight car acquisitions, investments and growth-related capital projects to drive more carloads to the network and, finally, slightly higher material and labor inflation cost. Approximately 80% of our planned capital spending will go towards replacement of our existing infrastructure. This spending will renew older assets, harden our infrastructure and allow us to continue to operate safely.  
+We are continuing to support intermodal volume growth, starting with investments in certain ramps to efficiently handle volumes from new and existing intermodal customers, including the Schneider business win that Kenny highlighted. We are also expanding the Twin Cities from a pop-up to a full-scale intermodal terminal and adding additional capacity to the Inland Empire pop-up intermodal terminal.  
+And finally, we will wrap up the multiyear project to install wide span gantry cranes at our G4 intermodal terminal in Chicago, bringing additional capacity to a key intermodal market. We will also continue modernizing our locomotive fleet by upgrading approximately 120 older assets. These modernizations not only improve the reliability of the asset, but each unit is 5% more fuel efficient and emits approximately 53% less carbon emissions.  
+Lastly, we will continue to invest in capacity projects that drive productivity and improve our network efficiency. We plan to complete approximately 20 sidings this year focused in the southern portion of our network to further support our train length initiative.  
+Wrapping up on Slide 13. Entering 2022, we are enhancing our safety programs. We have engaged an external safety partner to focus on advanced risk identification and mitigation, coupled with enriched behavioral safety programs. Our goal is to be the first railroad to reach world-class safety performance as there is nothing more important than making sure every employee returns home safely.  
+With the robust market demand and strong volume outlook Kenny described, I have complete confidence that the operating team will be able to safely meet the growth needs of our customers. The operating team is focused on continuous performance improvement of the railroad to drive customer-centric growth while remaining judicious in our allocation of resources.  
+While 2021 did not always bring optimal operating conditions, by working together and remaining agile, we answered each challenge and laid a foundation for continued success this year and beyond. With that, I will turn it over to Jennifer to review our financial performance.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [5]
+--------------------------------------------------------------------------------
+Thanks, Eric, and good morning. Starting off with the income statement on Slide 15, where, as Lance mentioned earlier, we've adjusted 2020 results to exclude the Brazos impairment charge. Throughout my remarks today, I will be comparing 2021 to 2020 adjusted results.  
+Operating revenue in the quarter totaled $5.7 billion, up 12% versus 2020 despite a 4% year-over-year volume decline. Operating expense increased 15% to $3.3 billion. I'll provide more detail in a moment, but excluding the impact of higher fuel prices, expenses were up 7% in the quarter. 
+Together, we are reporting record fourth quarter operating income of $2.4 billion, a 7% increase versus 2020. Other income of $83 million is up 26% driven by a $36 million gain on the sale of a technology investment. Interest expense was up 6% as increased average debt levels were partially offset by a lower effective interest rate. 
+Net income of $1.7 billion increased 8%, which, when combined with our strong share repurchase program, led to a 13% increase in earnings per share to $2.66. Our 57.4% fourth quarter operating ratio increased 180 basis points, reflecting 100 basis point negative impact of higher fuel prices as well as reduced operational efficiency.  
+As we did throughout 2021, we're also comparing our results to 2019. Against that fourth quarter comparison, we generated 16% higher operating income on 1% less volume, clearly demonstrating the ongoing price discipline and operational efficiency we've achieved over the past 2 years.  
+Looking more closely at fourth quarter revenue, Slide 16 provides a breakdown of our freight revenue, which totaled $5.3 billion in the fourth quarter, up 10% compared to 2020. Volume was down 400 basis points, driven by the factors Kenny described earlier. Positive business mix, coupled with the strong pricing actions that yielded dollars exceeding our inflation drove 725 basis points in total improvement. Lower intermodal volume, combined with higher industrial shipments drove the positive mix. Fuel surcharge revenue of $522 million increased freight revenue 700 basis points as our fuel surcharge programs continue to chase rising fuel prices.  
+Now let's move on to Slide 17, which provides a summary of our fourth quarter operating expenses. As I just mentioned, the primary driver of the increase was fuel expense, up 80% as a result of a 74% increase in fuel prices. Our fuel consumption rate was flat compared to 2020 as the favorable business mix was offset by negative productivity. 
+Looking further at the expense lines, compensation and benefits expense was up 5% versus 2020. Fourth quarter workforce levels increased 1% as flat management, engineering and mechanical workforces were offset by 3% growth in our train and engine crews. This increase reflects our actions to recall furloughed employees as well as bring on new hires to manage utilization challenges and, importantly, in preparation for growth. 
+Cost per employee increased 4% as a result of wage inflation as well as higher recrew, overtime and borrow-out costs, partially offset by last year's $37 million employee COVID bonus. Purchased services and materials expense was up 9%, in part due to the comparison to favorable interline settlements in 2020 as well as increased locomotive maintenance, crew van usage and purchase transportation.  
+Equipment and other rents was up 5%, driven by lower TTX equity income. Other expense increased 29% in the quarter, driven by higher personal injury expense associated primarily with 2 adverse outcomes, as well as increased freight loss and damage, and state and local taxes. As we look to 2022, overall workforce levels are expected to increase with volume, although not 1 for 1 as we continue to drive productivity. Cost per employee in 2022 should increase in the low single digits as productivity partially offsets inflation.  
+Depreciation expense will be up around 2% versus 2021, while we expect the other expense line to be relatively flat year-over-year. Purchased services and materials expense is a bit more of a wild card, but will be impacted by inflationary pressure as well as the expected recovery in [other] volumes. Finally, we expect our annual effective tax rate to be around 24%. 
+Looking now at our efficiency results on Slide 18. We took a step back in the quarter and did not meet our original or revised productivity targets, finishing the year with $195 million of net productivity. Higher casualty expenses, increased costs associated with network operations and reduced volume leverage cumulatively drove the productivity loss. 
+For the full year, we achieved improvements in all areas led by locomotive and workforce productivity initiatives. These gains were partially offset by roughly $55 million of weather and incident-related headwinds in 2021. While these results are clearly not what we expect of ourselves, we view the productivity as deferred, not lost.  
+Similarly, fourth quarter incremental margins were muted at 27%. For the full year, our 77% incremental margins are more indicative of our capabilities, particularly given the positive business mix in 2021. The ability to efficiently add volume to our network is the foundation for delivering strong shareholder value going forward.  
+Moving to Slide 19. We'll review full quarter -- excuse me, full year 2021 with earnings per share of $9.95, a 21% increase versus adjusted 2020 results. Revenue was up 12% on 4% volume growth, increased fuel surcharges, strong pricing gains and a positive business mix. Record operating income increased 15% to $9.3 billion. 
+Even with a 140 basis point headwind from rising fuel prices, our full year operating ratio of 57.2% improved 130 basis points versus adjusted 2020. Our improvement in 2021 marks the fifth consecutive year of operating ratio gains for Union Pacific, demonstrating our ability to drive efficiency even during a difficult year. And a further comparison of our results to 2019 shows that the hurdles of the past 2 years has not slowed our momentum.  
+Turning now to cash and returns on Slide 20. Full year cash from operations increased approximately $500 million to $9 billion, a 6% increase from 2020. The first priority for our cash is our capital investment, which finished 2021 just over $3 billion or roughly 14% of revenue. Our cash flow conversion rate was a strong 93%, and free cash flow after dividends increased $285 million or 9% compared to 2020. 
+Our dividend payout ratio for 2021 was 43%, in line with our 45% target as we rewarded shareholders with two 10% dividend increases during the year, distributing a total of $2.8 billion to shareholders. We also returned cash to our owners through strong share repurchases, buying back a total of 33 million common shares or 3% at an all-in cost of $7.3 billion, which includes $1.4 billion in the fourth quarter. In total, between dividends and share repurchases, we returned $10.1 billion to our owners in 2021, demonstrating our ongoing commitment to deliver significant shareholder value.  
+Now looking at the strength of our balance sheet on Slide 21. We finished the year at an adjusted debt-to-EBITDA ratio of 2.7x, consistent with our resolve to maintain strong investment-grade credit ratings. At year-end, our Moody's rating was Baa1 and A- from both S&P and Fitch. Our all-in adjusted debt balance on December 31 of $31 billion increased over $2 billion from year-end 2020 as we continue to utilize our strong balance sheet and earnings growth to reward shareholders.  
+Finally, our return on invested capital came in at a record 16.4%, bouncing back more than 2 points from a challenging 2020 and increased 1.4 points from 2019. The reduced capital intensity associated with running a PSR operation is seen clearly in this performance and positions us for growth in the years ahead.  
+So wrapping up with a look to 2022 on Slide 22, let me start by pointing you back to our May Investor Day and the 3-year targets we laid out. Those targets remain intact and are the building blocks of our view to 2022. With volumes, we stated we would outpace industrial production through our business development efforts, which are going strong. As Kenny mentioned, the current forecast for 2022 industrial production is 4.8%. To outperform that forecast, we have new business wins like Knight-Swift, as well as the anticipated recovery of autos and international intermodal. 
+We also expect to have the added benefit of coal volume growth. As you'll recall, we originally anticipated coal to be a 0.5 point headwind over the next 3 years. But with current natural gas prices and recent business wins, that business should actually provide a tailwind in 2022.  
+Looking at the cadence of volumes through the year, the first half should be led by bulk and industrial. In the second half, we look for stronger year-over-year gains and for it to be more premium-driven as supply chains and ship shortages improve. For first quarter volumes, specifically, we're anticipating carloads will track below full year 2022 growth expectations as we experienced a muted post-holiday rebound likely impacted by rising COVID infection rates plus continued soft international intermodal volumes. 
+With a strong overall demand environment and our disciplined pricing approach, we expect to yield pricing dollars in excess of inflation dollars. Embedded in that guidance is our expectation that all-in inflation for the year will be elevated a little north of 3%.  
+At our Investor Day, we targeted incremental margins in the mid- to upper 60% range. For 2022, we would expect to be at the low end of that range given the significant mix shift to intermodal growth. The combination of growing volumes, pricing above inflation and strong incremental margins should lead to the achievement of our long-term goal of a 55% operating ratio. Putting a little finer point to it, we would expect to achieve around a 55.5% operating ratio for full year 2022.  
+Turning to cash and capital. You heard our plan to invest around $3.3 billion of capital for the year, well within our long-term guidance of less than 15% of revenue. Strong top line growth, increasing profitability and ongoing capital discipline should result in a cash conversion rate near 100%. This strong cash generation allows us to continue rewarding our owners with an industry-leading dividend payout and strong share repurchases, which we expect will be in line with 2021 levels.
+Before I turn it back to Lance to wrap up, I'd like to express my appreciation to the Union Pacific team. What they achieved over the past year is truly remarkable. Union Pacific's success begins and ends with our people. So with that, I'll turn it back to Lance.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [6]
+--------------------------------------------------------------------------------
+Thank you, Jennifer, Wrapping up on Slide 24 with a look at our drivers for success in 2022. As you heard from Eric, it's imperative that we make progress on safety. While there are positive signs in the underlying metrics, the overall results need to improve. Safety is at the center of everything we do at Union Pacific as we strive toward our goal of world-class performance.  
+Overall, the network is improving but with work to be done. We have work streams aimed at keeping a healthy pipeline of crews in place, and we're in the marketplace hiring for growth. In addition, we have numerous initiatives to improve the quality of our service. Our long-term growth opportunities are dependent on a reliable service product.  
+As you heard from Kenny, our growth outlook for 2022 is terrific. The growth mentality we're instilling on the entire team is manifesting itself in new customer wins while we continue to build stronger books with our long-term partners. We have an opportunity to offer an enhanced customer experience and new transportation solutions for our customers while helping them achieve their sustainability goals.  
+2021 represented another milestone in our company's history and 2022 is poised to be even better. We'll be celebrating our 160th anniversary with what we expect to be our best financial year ever and take further steps on our ESG journey. We have great momentum as we strive for operational excellence, grow with our customers and as we win together with all of our stakeholders. So with that, let's open up the line for you questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question will come from the line of Chris Wetherbee with Citigroup.
+
+--------------------------------------------------------------------------------
+Christian F. Wetherbee,  Citigroup Inc., Research Division - MD & Lead Analyst    [2]
+--------------------------------------------------------------------------------
+Maybe we can start on the volume outlook and I think the expectation to grow above industrial production. I guess, Jennifer, you talked a little bit about the cadence maybe being a little bit softer on the first half and accelerating into the second half. I guess maybe a couple of questions here. I guess, first, first quarter, do you think you can end up having volumes up in the quarter? 
+And then in terms of some of the business wins and the other opportunities out there, do you think that is enough to be able to see that acceleration? I think over the last couple of quarters, we've been a little bit disappointed in general across the rail industry of the ability to grow volume at a more accelerated pace. Just wanted to get a little bit color on sort of how you think about the building blocks to get to that sort of 4.8% or better for the full year.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Yes, I'll start and then turn it over to Kenny. But you're thinking of it right, Chris, and we do expect our volumes to grow in the first quarter. But again, we see it kind of -- and you weigh it out first half, second half. First half is going to be led by bulk and industrial. We certainly embedded in the expectation for stronger growth in the second half is the recovery in the supply chains, and that includes the chip shortages. So that is our expectation for the year and we feel very bullish about that. And I'll let Kenny talk to you about that a little bit more.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [4]
+--------------------------------------------------------------------------------
+Yes, Chris, we're seeing -- [and it's pretty slow] here, we're seeing slow marginal growth from where we were in the fourth quarter until now on our international intermodal volumes. And so we're looking at that every day, I'll tell you that. Same is true about the automotive business, and I talked about the fact that sequentially from third to fourth quarter we saw that 10% improvement. We're expecting that to increase, and that's what you're seeing in the back half of the year. We also feel good about a couple of business wins on the coal side that will help us from a carload perspective.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+The next question is from the line of Jason Seidl with Cowen.
+
+--------------------------------------------------------------------------------
+Jason H. Seidl,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [6]
+--------------------------------------------------------------------------------
+Wanted to focus a little bit on the outlook in the supply chain congestion. What happens if the congestion doesn't recover as quickly as possible? Where should we see some of the impacts? And sort of what markers are you looking for on the supply chain as you go to adjust the outlook potentially as we move throughout the year?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [7]
+--------------------------------------------------------------------------------
+Yes, Jason, this is Lance. We built the 2022 plan now on perfection, right? So we've kind of built into the plan an expectation that, for instance, in the international intermodal supply chain, there's slow but steady recovery. Some of the markers that we're looking at that need to recover to be back to normal and fluid still involve street time for things like chassis and boxes. Our intermodal ramps are fluid right now, they're in great shape. We need to see our international intermodal customers go back to more IPI business that is allowing the international box to go inland and then turn back around preferably within export. I'll turn it over to Kenny and Eric for a little more detail.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [8]
+--------------------------------------------------------------------------------
+Yes, Lance, you hit it right it on the head. I mean we're talking to our customers daily about that conversion from port to port to the inland ramps that we have. We have seen that, that is slowly occurring. Now remember, we've got a backlog of ships out there on the water, so that's got to get sorted out. The same thing we're going to be keeping an eye on is the -- at a lot of these inland ramps, how the warehouses are doing and they able to process a lot of that business that's coming on. So it's going to be a slow, gradual increase to us. But we're talking to our customers and we expect more improvement as we go throughout the year.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [9]
+--------------------------------------------------------------------------------
+And I think it's important, Jason, to just reflect on this year and what happened with the premium volumes in the second half of the year, they were softer. And so we're certainly looking for that to be stronger in the back half of 2022.
+
+--------------------------------------------------------------------------------
+Jason H. Seidl,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+Well, I got my fingers crossed for you guys. My follow-up is going to be on pricing. You mentioned, Jennifer, I think that you're going to be above inflation which you're putting around 3%. Talk to me a little bit about the contracts that you're repricing now and sort of how well above your cost inflation are the new contracts versus your base business?
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [11]
+--------------------------------------------------------------------------------
+I'll take that, Jennifer. We've got a favorable pricing environment. I'm going to talk about, call it, our domestic intermodal business that were about 10%, 15% in on a lot of the bids that we're looking at. And again, it's a favorable pricing environment, we'll have to see how that plays out in the second half of the year. Right now, it looks good, but we're going to be looking at it quarter by quarter. But great environment to be [repricing]...
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [12]
+--------------------------------------------------------------------------------
+A clarification there, Kenny. When you said we're 10% or 15% in, you're talking about the total number of bids that are going to be occurring.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [13]
+--------------------------------------------------------------------------------
+Total number of bids that we're looking at.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [14]
+--------------------------------------------------------------------------------
+Right.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [15]
+--------------------------------------------------------------------------------
+Yes. And then just to clarify -- and Jason, I know you know this, but when we talk about pricing above inflation, it's in dollars. So we expect to yield pricing dollars in excess of our inflation dollars.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Our next question is from the line of Amit Mehrotra with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Amit Singh Mehrotra,  Deutsche Bank AG, Research Division - Director and Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+Kenny, I wanted to ask about some of these new business wins in intermodal, which is obviously a credit to you and the whole team. I know this has been a focus for you guys for a while now. These new IMCs that are coming online obviously have assets behind them, and I'm just trying to understand if that represents a mix of opportunities for the company within intermodal. And obviously, you participate in pools, and as a result, you -- I think you guys have a higher degree of asset-light channel partners in your direct competitor. So if you can just talk about the kind of the mix within mix, but with mix within intermodal as this new business comes online over the next couple of years, this year or next year.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [18]
+--------------------------------------------------------------------------------
+Yes. First of all, before I get to the new players, we feel really good about our long-term partner and we look at them as an industry leader. Clearly, we're bringing on Knight-Swift this year. They're a strong industry leader. And then in the future, we'll bring on Schneider. We look at that as a great value to the BCO. We believe that that's going to give us and them a lot of optionality to grow. Clearly, that's the impetus there, to offer more options. It's going to also give Eric an opportunity densify a lot of networks and really execute on a lot of intermodal excellent initiatives that he has. 
+As we look at our own IMCs that we have out there and our own equipment, you know that we're doubling down on investing there. So we've invested in almost 6,000 chassis. We're bringing on GPS. So we feel like we've got a great mixture to offer both private asset players that are on our network and also the ones that will be utilizing our equipment.
+
+--------------------------------------------------------------------------------
+Amit Singh Mehrotra,  Deutsche Bank AG, Research Division - Director and Senior Research Analyst    [19]
+--------------------------------------------------------------------------------
+Okay. And then just for my follow-up, Jennifer, you haven't got an incremental margin or OR question yet, so I know you're waiting for that. I wanted to circle back on the 55.5% OR guidance for this year. I'm just trying to understand the puts and takes there. Because on one hand, you've got a great pricing opportunity ahead of you, it's showing up in the yield and I would assume more so over the course of 2022. But you also have these large new business wins on the intermodal side, which has less revenue intensity attached to it. 
+So I'm just trying to understand if you could talk about some of the puts and takes that underlie the margin guidance for 2022. And would you kind of characterize it as conservative given the pricing opportunity? Or is it kind of well balanced between pricing and mix as you see the year playing out?
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [20]
+--------------------------------------------------------------------------------
+Yes, Amit. Thanks for that, and I knew I could count on you for the margin question. But we feel very bullish about our opportunities in 2022 and feel very good about being able to hit that long-established operating ratio target of the 55%, and 55.5% obviously is right smack dab in the middle of that fairway. 
+There will be cost pressures, we know that, higher inflationary environment. We know that we need to bring on some more employees. And so you're going to see our head count go up a little bit, not at a 1 for 1 with volume, but we'll be bringing on new employees and so there's hiring and training costs. And then just running the network more fluidly, which we're off to a great start here as we come into 2022. 
+So feel good about it. I'm not going to give a characterization one way or the other, but we're very excited about the long-term potential. And this is -- 2022 is just going to be another building block on that progression as we become more and more profitable and provide a better service product to more and more customers.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Our next question is from the line of Ken Hoexter with Bank of America.
+
+--------------------------------------------------------------------------------
+Kenneth Scott Hoexter,  BofA Securities, Research Division - MD & Co-Head of Industrials and Basic Materials    [22]
+--------------------------------------------------------------------------------
+Kenny, you noted some significant wins here, 2 coal plant wins, you won Knight and Schneider's business. Do we normally see a tipping point of  Burlington Northern chasing to win back business when it gets out of that flat? I think back to the middle of the 2000s when there were coal contracts that would always go back and forth. So I just want to understand what kind of competitive market you have when you have consistent sizable wins that we should expect?
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [23]
+--------------------------------------------------------------------------------
+Yes. Thanks for that, Ken. Good to hear from you. So pointing back to May at our Investor Day, we set out our targets and we want to execute on those targets, first of all. At the end of the day, truck is our true competition, and so we're exhausting all efforts to go out and win against truck. Now we've talked quite a bit about that intermodal piece. We're doing the same thing on the carload side, there's still a lot of opportunity there. So we view the competition as truck and we're going to be pretty (inaudible) as the team is all over this about trying to convert as much truck business as we can.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [24]
+--------------------------------------------------------------------------------
+Yes, Kenny. What I'm really excited about 2022 and beyond isn't the onetime conversion of business from somebody else to us, it's the fact that those businesses are very well run and our existing long-term partner is exceptionally well run in Hub and their growth engines in and of themselves for years to come. That's what really turns me on.
+
+--------------------------------------------------------------------------------
+Kenneth Scott Hoexter,  BofA Securities, Research Division - MD & Co-Head of Industrials and Basic Materials    [25]
+--------------------------------------------------------------------------------
+So just a quick follow-up. Kenny, you mentioned you're seeing some slowing domestic movement. I just want to understand if you can clarify what you were talking about within that. And then, Lance, any thoughts -- I mean obviously, a lot on press on security on the yard. Is this something that's just more press? Is this something you're getting increasingly concerned about given your boxes are sitting on storage?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [26]
+--------------------------------------------------------------------------------
+Yes. Let me start on the security side and then, Kenny, we'll turn it back over to you. So there's been a lot of coverage about some thefts that are occurring in the L.A. Basin specifically. That is a -- I'll call that a relatively unique situation where something that used to be a nuisance, call it, 2 years ago, members in a neighborhood would see a train not moving and might take advantage of trying to pop open a box and see what's inside. 
+Today that's more organized and we have our arms around it. We've increased our own police presence. We're working with the LAPD in that area. We're working with the state who's also getting involved. We're actively working to get the district attorney in the area spooled up and interested in prosecuting the cases. So I think at this point, we've got our arms around it. We've cleaned up the area, and we're going to be enhancing security in the area. 
+To your point, we're going to put physical security barriers in place. It's unfortunate because they won't be necessarily pretty but it will protect our property. And more importantly, it will protect our employees. That's probably the biggest concern I've had throughout this whole time frame. We hate impacting our customers, we really can't stomach putting our employees at risk.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [27]
+--------------------------------------------------------------------------------
+On the international intermodal side, again, we're seeing a slow uptick into those units come on to our network. On the domestic intermodal side, we typically see a little bit of a, I'll call it, lull pause after the Christmas break. We saw it last year, it happened a little bit later because of parcels. Nothing that's concerning us. You heard my comments around the business that we're competing for early on and the price environment there. So fundamentally, we still feel optimistic about domestic intermodal.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question is coming from the line of Brian Ossenbeck with JPMorgan.
+
+--------------------------------------------------------------------------------
+Brian Patrick Ossenbeck,  JPMorgan Chase & Co, Research Division - Senior Equity Analyst    [29]
+--------------------------------------------------------------------------------
+Just maybe one more on intermodal for you, Kenny. What -- we've talked about this port to port for a little while now. What's the driver behind that? I guess, what we'll get there starting back to your network. Is that why you feel like you need to add a little bit more transload. It just seems like the economics are pretty good for the liners to make the quick turns and that might be a headwind here on your international intermodal for a little while. 
+And I guess just to give you my other follow-up, maybe for Eric, can you just talk about what's left to improve on the network? You mentioned some of the challenges in the Southeast and a little bit of improvement but still bulk needs to, to get back on track. What are the key factors you're looking to put in place there? And how far are you along in implementing those right now?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [30]
+--------------------------------------------------------------------------------
+Kenny, that first question was about port to port.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [31]
+--------------------------------------------------------------------------------
+Yes. I talked about it a little bit. We are seeing more customers each week that are turning on more business to go inland to the ramp. That's going to take a while. I talked about the fact that we've got a lot of shift still out on the water. It's encouraging to see that both they are talking about doing it, but we're also seeing it show up in our carloads. We're looking at that on a week-to-week basis. Eric's ramps are clean. We've got the equipment, we've got the capacity. We're prepared for it, so we want our customers to bring it on.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [32]
+--------------------------------------------------------------------------------
+You've got good match-back programs too, that take some of the expense of moving an empty container back west and turn it into a revenue stream.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [33]
+--------------------------------------------------------------------------------
+We're excited about the ag program that we have at Global 4 coming on, and we've seen uplift from Dallas, Dallas to Dock. So a number of products that are out there that are going to be of value to those international customers.
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [34]
+--------------------------------------------------------------------------------
+And then, Brian, on your question around crew availability, you mentioned the southeastern portion of the railroad. That's exactly right. When we walked into the quarter, that was one of the challenges that lie ahead of us was to be able to recover the manifest network in the Southeast portion. For my comments, we've done that. We brought back the fluidity that we expect, which reduces the stress on our crew base. 
+Now as I think about it as a whole system, though and you think about crew availability, you've really got 3 components to that. The first one is COVID. And as we think about COVID, it's not just people who unfortunately are at home because they're either positive or they've been quarantined but also people who have to be vaccinated. And if you think about the fourth quarter relative to earlier in the year, the fourth quarter was significantly more impactful to us in that way than earlier in the year.
+The next part is the utilization of our crew base. And as I look back over the third quarter and coming into the fourth quarter, completing the fourth quarter, we've reduced our recrew rate by 1/3. And that's incredibly important because that provides us flexibility in our crew base to continue to meet growth demands. 
+And then finally, as we -- as I talked a little bit about the other part of crew availability is ensuring that we're out in the marketplace, hiring for attrition and for growth. And as you heard Jennifer mentioned, we're not hiring 1 for 1. We're hiring for that growth. It's a challenging market in certain geographic locations. But what we have is a workforce resource department that has certainly stretched themselves into all sorts of different campaigns and initiatives to help us continue to hire to our demand. And I'm very encouraged for it.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+Our next question is from the line of Jon Chappell with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Jonathan B. Chappell,  Evercore ISI Institutional Equities, Research Division - Senior MD    [36]
+--------------------------------------------------------------------------------
+Eric, sticking with you, it sounds like a lot of the issues with the KPIs and the productivity are somewhat anomalous. I mean these labor availability things are hopefully very temporary and more related to short-term sickness than structural and hopefully, the supply chain uses as well. When we spoke in October, you're very optimistic that the deferred productivity gains from '21 would fall into '22 in addition to what you had already had planned for '22. As you think about it now, given it's still kind of a challenging fourth quarter and start to 1Q. Are you confident you can get all of the deferrals into '22? And is that early '22 or late '22? Or does some of the plan for '22 slip into '23 as well?
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [37]
+--------------------------------------------------------------------------------
+Yes, Jon, thanks for that question. It's an excellent question. And I want to be really clear with it. I believe all of it is just deferred. I believe we've set ourselves up coming out of 2021 and the beginning of 2022 to be able to capitalize on exactly what we said. And to your point, some of those events that impacted us were transitory. Some of them, like COVID, we may still see that impact. What you have to hear is a team that's committed to being able to capture that deferred productivity, and that's exactly what we're poised to do in '22.
+
+--------------------------------------------------------------------------------
+Jonathan B. Chappell,  Evercore ISI Institutional Equities, Research Division - Senior MD    [38]
+--------------------------------------------------------------------------------
+Does it flip at all maybe one half versus second half versus what you might have thought in October just because we've had this Omicron variant that's made things a little bit more choppy?
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [39]
+--------------------------------------------------------------------------------
+Well, I think if my crystal ball was that clear, I'd tell you that. But probably like you, Jon, I mean, we have to go through and plan for those contingencies. If the impact comes down, we've got to make sure we're ready to capitalize on the potential from our productivity. If the impact of COVID goes up, you'll see us flex to that as best as we possibly can. Our goal is first to ensure that our employees are safe, and they're taking the time off if they are positive, followed by making sure that when they're here, collectively, we're being as productive as we possibly can while we're also being excessively safe.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Our next question is from the line of Scott Group with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Scott H. Group,  Wolfe Research, LLC - MD & Senior Analyst    [41]
+--------------------------------------------------------------------------------
+Kenny, when I take the contract wins with Knight and coal, and I don't know if Canpotex is new or not, how much volume just from those contracts is there? Is that a point of volume, 2 points of volume? Any color there? 
+And then, Jennifer, any -- just any thoughts on mix for the year? I'm guessing based on your volume comments positive first half but negative second half. But would you think full year mix is positive, negative based on the volume outlook?
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [42]
+--------------------------------------------------------------------------------
+Scott, thanks for the question. Unfortunately, I'm not going to size the volume for you. I can tell you that we're excited about it, and Eric is prepared to handle that business. And we think that there is long-term strategic value in having and Knight-Swift  on our line this year. And then eventually, long-term, we'll be able to provide our BCOs with a lot of options, and it gives us the opportunity to really build up our network and go after that truck business, but we're pretty excited about it.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [43]
+--------------------------------------------------------------------------------
+Bottom line, it support, fundamentally supports the guidance we gave at the Investor Day in May, which is something like 3% growth for -- averaging for the next 3 years, above industrial production. So you're well positioned to be able to deliver that.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [44]
+--------------------------------------------------------------------------------
+And now that number 5 4, point 8 for this year.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [45]
+--------------------------------------------------------------------------------
+We knew that, again, continuing to come out of the pandemic, you were going to have stronger industrial production in the earlier part of that 3-year range. So the business wins are -- and just Kenny's team going out and hustling is what gives us that upside to industrial production. 
+To your mix question, Scott. I do believe, based on our expectations, particularly with the premium business being stronger in the second half that we will have on a full year basis a mix headwind. But I think you're looking at it correctly, when I look at the drivers for growth in the first half being more industrial and bulk loaded, it should look a little different in the first half than the full year.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+I'm sorry, our next question is from the line of Ravi Shanker with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Ravi Shanker,  Morgan Stanley, Research Division - Executive Director    [47]
+--------------------------------------------------------------------------------
+So there's been some renewed commentary at the federal level about whether fairly or not kind of pointing the finger a little bit at the rails and shipping companies for kind of the lack of competition there kind of being drivers of the congestion and inflation, everything else, kind of irrespective of whether that's true or not, kind of can you just share kind of what do you -- I mean, what are your conversations with the STB like nowadays? Kind of do you see any progress towards switching possible? Or kind of where do you think the outcome of that perception might be? 
+And just a follow-up, Jennifer, kind of thanks for the detail on the driver of 2020 volume growth between end markets. I apologize that I missed it, but I didn't hear you mention domestic intermodal as one of the drivers of the upside to industrial production growth. So just to kind of tie up all the intermodal commentary on the call so far, like do you expect domestic intermodal to see a snapback, if when congestion eases and the truck market continues to get tighter?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [48]
+--------------------------------------------------------------------------------
+Do you want to handle that?
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [49]
+--------------------------------------------------------------------------------
+I was going to say, I'll do the cleanup first, and then you can talk on the regulatory side, Lance. I did reference the Knight-Swift business win, that's domestic intermodal. That's part of what's driving the plus for us relative to industrial production. And then just when you look at again some of the supply chain issues, which impacted both international and domestic intermodal, as we see those resolving themselves more in the back half of the year, we would look to see strong performance there.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [50]
+--------------------------------------------------------------------------------
+Yes. And Ravi, as regards to our conversation with the STB, notwithstanding whatever perception is held at a federal level regarding our participation in the current supply chain congestion, factually, we are open and ready for business. We talked openly on this call about some of the operating challenges we faced in the fourth quarter. Exiting the year, we're on better footing and that you will see that better footing demonstrated in our public numbers. You've already seen some of that at the very beginning of the year, and that continues to improve. 
+In terms of the regulatory environment, we are actively engaged with the STB. The workload from our perspective is probably in this order. There's the CP-KCS transaction that we need to be engaged on. We've got a fundamental concern there to make sure that our customers continue to enjoy direct unfettered access to the commercial markets in Mexico and that the industrial base in Mexico enjoys the access that we provide to the United States market. We enjoy about 2/3 to 70% of that cross-border traffic today. And in the context of this transaction, we want to make sure our customers continue to have that competitive option available to them.
+Probably the second biggest item on our horizon at the STB is forced access or open access. There is a hearing on that coming up in March. We continue to work with the STB to help them understand our perspective of the dynamics of the rail industry and how to look at that possible regulation from a perspective that allows us to continue to serve our customers exceptionally well and continue to invest in our railroad, so that, that service lasts for years to come.
+And then finally, there's been work on final offer rate review at the STB. We've offered up with pure railroads an alternative to that and an alternative dispute resolution mechanism. Looks like it's nice simplification for small rate cases, small shipper rate cases, and it satisfies some of what we consider the big legal heir on the STB's proposal to have somebody else take on the role of rate mediation. 
+Other than that, our job at the STB is to provide an excellent reliable service product and stay engaged so that they understand the industry from our perspective. If we do those 2 things, I think we can navigate the dock that's in front of us in the coming year.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+Our next question is from the line of Tom Wadewitz with UBS.
+
+--------------------------------------------------------------------------------
+Thomas Richard Wadewitz,  UBS Investment Bank, Research Division - MD and Senior Analyst    [52]
+--------------------------------------------------------------------------------
+Yes. I'll give you both questions upfront. I guess, one, you got a question earlier on kind of the momentum in contract wins, which is great to see you executing on your strategy that you laid out at the analyst meeting. So kudos on that. 
+I wonder if you can offer some kind of high-level thoughts on price versus volume. Presumably, some of these bigger contract wins price is a consideration. So how do you think about the kind of price versus volume focus maybe this year or next year? And is it a bit less on price and more on volume? Or just how you think about that? 
+And then the second question would be, you're anticipating ramp in volume, you're ready to go at the terminals. But in July 2021, you had this issue where there just wasn't enough drayage capacity. So you had a buildup of containers, do you have visibility to drayage capacity or control over that, such that you wouldn't run into that issue again in '22?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [53]
+--------------------------------------------------------------------------------
+Kenny, do you want to -- you're probably good to handle maybe even both of those.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [54]
+--------------------------------------------------------------------------------
+Yes. I mean, we're certainly pricing to the market and nothing has changed in our overall approach to the market. We're selling a very strong, reliable service product. We're also backing that up with a lot of the capital that Eric and his team will be putting in to create a value proposition. So that's our approach to the market. That's how we're going to win. That's how we're going to grow. That's how we talk to our BCOs and all the customers on our network.
+To the second question about drayage capacity. Yes, we certainly see offline time, we see what were the -- how much time the chassis are gone, how much time the containers are gone. It's still not a very efficient network. It needs to come down. And as it comes down, it's going to create more volume growth, more efficiency for us. It will be overall positive. So we're looking at that on a daily basis.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [55]
+--------------------------------------------------------------------------------
+Yes, Eric, that looks better, but there's clearly still some work to be done there, right?
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [56]
+--------------------------------------------------------------------------------
+There's still work to be done there. And as we talked nearly a year ago at Investor Day about intermodal being such an important growth engine for us, we also, at the same time, rolled out intermodal excellence. And if you look at many of those initiatives, they're focused on assisting our customers on helping with the ability to be able to get quicker turns. So as I think about the work we're doing at nearly every intermodal ramp around our gate system and reducing the amount of time to get in and get out, that's helping them and that generating capacity.
+The work we've done on changing our UPGo app to make whether it's for our existing customers or new customers, it provides them greater opportunity to efficiently get through the ramp. So we're making sure that we're continuing to do our part to assist our customers to be able to generate that capacity. Now to Lance's point, there's opportunity on the other side. But together, I think we'll work our way through it.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [57]
+--------------------------------------------------------------------------------
+The only thing I'd add is that the congestion issues that you're referencing in particular, Tom, were really around the international intermodal front and a lack of international chassis and dray drivers. And some of our recent wins have been with -- on the domestic side with asset owners who come with their own chassis and driver fleet.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [58]
+--------------------------------------------------------------------------------
+That's true.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+Our next question is from the line of Bascome Majors with Susquehanna.
+
+--------------------------------------------------------------------------------
+Bascome Majors,  Susquehanna Financial Group, LLLP, Research Division - Research Analyst    [60]
+--------------------------------------------------------------------------------
+Just one clarification, you've been reporting RTMs weekly for some time now. Are your volume comments focused on RTMs or carload and intermodal units? And on the volume outlook a little more strategically, can you talk about any particular places where the gap between your bottoms-up conversations with your customers and sort of the tops down anchoring that you gave today seem to either diverge in magnitude or maybe conviction?
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [61]
+--------------------------------------------------------------------------------
+So I'll start with that, Bascome. When we talk about volume and give you the volume guidance, we're talking about it on a carload basis. So that's consistent with how we talked about it at the Analyst Day, and so we're talking carloads. Kenny, do you want to talk about...
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [62]
+--------------------------------------------------------------------------------
+And let me chime in on that first question or on the second question, the bottoms up versus tops down. Kenny, you have unique relationships with the commercial side of a lot of -- in the buying side of a lot of our customers. 
+At the CEO level, I'll tell you what my counterparts tend to be focused on is consumers are flush. Balance sheets for consumers are good and they're financially healthy. So as long as their confidence isn't rattled, they seem to be postured to continue to purchase through the year. And the industrial economy, a lot of my industrial peers feel pretty confident that their marketplaces look pretty good to them, whether you're in the housing market, you're in the construction market, you're in some other aspects of our industrial economy. So at the very highest level, Kenny, that's what I hear.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [63]
+--------------------------------------------------------------------------------
+Yes. Lance, you're spot on. And the only thing I would add is that, we're not waiting around to think strategically about these growth areas from a [geo] perspective. And that's what you're seeing now with all the work that we're doing with Eric's team in terms of Inland Empire and the growth there and the investments there, with Twin Cities, the growth there and the investments there. You're going to see a little bit more volume in those areas than you did last year. That's intermodal.
+Also on the carload side, we're also thinking very strategically about areas that you can call it high-growth population, you can call it high warehousing. When we see areas that are underpenetrated from a rail perspective, we're going to be opportunistic and really invest towards those areas. And that's what you're seeing with the transload facilities in the Inland Empire and that Phoenix area.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+Our next question is from the line of Justin Long with Stephens.
+
+--------------------------------------------------------------------------------
+Justin Trennon Long,  Stephens Inc., Research Division - MD    [65]
+--------------------------------------------------------------------------------
+I was wondering if you could share how much of a tailwind you're assuming from coal within the full year volume guidance. And then I also wanted to ask about labor availability on a sequential basis. Is it getting any better or is it getting worse? And maybe you could just speak to your confidence in growing head count to support that 5% plus volume growth outlook.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [66]
+--------------------------------------------------------------------------------
+Yes. Thanks, Justin, for the question. We're not going to get into that level of granularity, but we did think it was important to acknowledge that coal is changing the posture from what we thought it was when we talked to you back in May from a tailwind to a headwind. And we're going to leverage that absolutely as long as we can. And the new business wins certainly help with that. Do you want to talk about the crew availability?
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [67]
+--------------------------------------------------------------------------------
+Yes. I'm building off the previous conversation. I mean we're in the market. It's certainly into some point in some locations, Justin, is a challenging market. 
+As I think about looking throughout the year, some of the different activities we've taken on are meant to really differentiate us from other companies that are in the market as well. As I think about not only employee referral programs, they get the word out more in our social media campaigns but also think about the efforts we've taken in the last year, where we're now talking to prospective employees the day they come to the railroad is also the first day they can start college with us, that we offer that free of charge to them. So we're in the market. We're going to continue to put out what we feel is a very strong value proposition to join Union Pacific.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [68]
+--------------------------------------------------------------------------------
+Well, and Eric, you mentioned some self-help on crew availability. Your strong move on reducing the recrew rate by 1/3 or more, that, in essence, frees up some amount of our crew boards. And you're just generally more productive now with unproductive crew starts like held away from home terminal.
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [69]
+--------------------------------------------------------------------------------
+Well, we also saw in the fourth quarter, we're starting to see the benefits of a high vaccination rate across the company and being able to have people be healthy.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [70]
+--------------------------------------------------------------------------------
+We should talk about that, Justin. It's pretty much invisible to the outside world, but our -- over 3/4 of our workforce is fully vaccinated. And that's because we started early on complying with the federal vaccine mandate. Now we paused because of the pause mandated by a court. But we think that our employee population because of that high vaccination rate lasted through Omicron a little better than the communities that we serve. We saw a spike in the number of our employees who had to quarantine presume positive or exposed but it was nothing like the spike we saw in the communities that we serve.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+Our next question is coming from the line of Jordan Alliger with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Jordan Robert Alliger,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [72]
+--------------------------------------------------------------------------------
+Just a question. Just thinking about the trip plan compliance around the manifest business, which obviously has been under pressure, although, as you say, things perhaps moving forward on that front. But just from a sensitivity standpoint, how critical is something like that metric to you to getting closer to a normal level to producing the operating ratio that you guys are targeting? Like I'm just trying to get a sense for how important is that for us to watch moving up and thinking of relation to your targets for margins?
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [73]
+--------------------------------------------------------------------------------
+Yes. I'll maybe start and others may want to weigh in. But when we look at the key metrics that are driving the cost profile, which relates to certainly the operating ratio, I'd look more at freight car velocity and the terminal dwell numbers in terms of how efficiently we're handling the freight on the railroad. And that also has an impact on the number of turns that we're getting on the cars so we can put up against the customers to get that next revenue load. So I see trip plan compliance and intermodal trip plan compliance more as the outcome of this other things that we're doing in terms of moving the car and operating the network more fluidly being more directly impactful to the OR.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [74]
+--------------------------------------------------------------------------------
+Yes, Jennifer, those trip plan compliance numbers are really about can we serve customers in a manner that's consistent with our commitment. So that's about over the period of time, that needs to be reliable so that we can continue to secure business and have happy customers. But in terms of hitting a high margin or a margin target, that's about car velocity, terminal dwell, locomotive productivity and workforce productivity and train lengths had grown there as well.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+Next question is from the line of Walter Spracklin with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Walter Noel Spracklin,  RBC Capital Markets, Research Division - MD & Analyst    [76]
+--------------------------------------------------------------------------------
+So I just wanted to go back to the business wins. And certainly, that's a positive and I think will certainly be viewed as such. But I just wanted to ask the question. We did see a railroad, one of your Northern peers, a number of years ago growing quite substantially, winning share. But when faced with some capacity constraints, it kind of led to a significant gridlock that kind of prevailed for a couple of years. 
+So given the capacity constraints that we have right now, you're taking on new business, what comfort level do you have that you're not going to run into some of those issues over the next couple of years even as supply chain -- global supply chain problems ease hopefully in the coming months and quarters?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [77]
+--------------------------------------------------------------------------------
+Walter, we are highly confident we have a plan in place and an existing network to be able to absorb the growth that we've been talking about this morning and not be gridlocked, a couple of cases in point. One, we've just onboarded Knight-Swift over the course of the last 5 weeks, call it, 4 weeks, 6 weeks, and it's been flawless. That was on the strength of a lot of coordination and planning between ourselves and that customer in order to make sure their drivers were well prepared, that our ramps were efficient for their drivers, that we had good signage and our UPGo app, to make it virtually seamless to get on and off. So I know we're going to be able to plan and execute in the same way for future onboarding.
+The other thing to note is we've upticked our capital a bit. There are some areas that we need to invest in. There's that $600 million or so of commercial facilities and capacity. Historically, a lot of that spend would be targeted on productivity enhancement. As we look into this year, a fair amount of that spend is being targeted towards enabling growth. And so we've got a game plan. We've got the capital to be able to do it. We're well in advance of needing to put the capital in the ground, and so it's happening.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [78]
+--------------------------------------------------------------------------------
+Yes. And that's where some of those investments that Lance referenced that were productivity investments initially when you think about siding extensions become investments that support the growth of the network, and that's capacity that's not being utilized in that manner today. And then think about our locomotives, which we still have a significant portion of our locomotive fleet that is stored today. So that's capacity that we have to bring to bear and will be.
+
+--------------------------------------------------------------------------------
+Walter Noel Spracklin,  RBC Capital Markets, Research Division - MD & Analyst    [79]
+--------------------------------------------------------------------------------
+That's great. No. That's excellent color. I appreciate that. And then my follow-up is more on a technology question. I'm sure you've seen that parallel systems initiative for autonomous electric vehicles that would maximize the use of existing rail networks. Your competitor weighed in on it. 
+Just curious is that something we should even keep an eye on? Is it a real initiative? And do you see it as possibly have moving the needle for Union Pacific if it were applied going forward? Or are there some challenges associated with its implementation that are likely not going to bring it to bear?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [80]
+--------------------------------------------------------------------------------
+Walter, we are interested in the parallel systems technology. We are familiar with it and it is of interest. It's of keen interest. Candidly, there are a lot -- there's a lot of hurdles in front of that technology for deployment. 
+Having said that, it could potentially be a game changer if it proves out to be effective and workable. So I'd say keep your eye on it, and we're keeping our eye on it. And I don't think it's going to impact '22 or '23 or '24. But at some point, it could be a technology that has utility for the U.S. rail network.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+Our next question is from the line of Ben Nolan with Stifel. .
+
+--------------------------------------------------------------------------------
+Benjamin Joel Nolan,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [82]
+--------------------------------------------------------------------------------
+And I appreciate you guys working in. So my first question, I guess, relates to just thinking about the Schneider win that you guys had. When you're out pitching for new business like that, just curious how you are positioning the value proposition for you guys. Is it more about the economics? Or is it service-oriented? Or sort of how do you pitch the competitive advantage that you're providing your customers?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [83]
+--------------------------------------------------------------------------------
+Kenny, your team is won that one.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [84]
+--------------------------------------------------------------------------------
+Yes. Again, I'm really proud of the team. We've got a strong leadership team in the premium side with Kari Kirchhoefer leading that. But what we're doing is we're working as a team. And the first thing we do is we talk about our service products, we talk about where our network is and the capacity. 
+Clearly, we had to put up some capital against that and some investments against that to help those carriers, those customers get into and get out of our ramps. We're very fluid. We're flowing all those things. There is no part of it where we're changing our pricing strategy or approach to the market. We'll let the players really fight it out on the field and let their own efficiencies went out. So we're just selling our network. We've got a beautiful network that we've invested in, and that's what we're selling.
+
+--------------------------------------------------------------------------------
+Benjamin Joel Nolan,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD    [85]
+--------------------------------------------------------------------------------
+Perfect, Kenny. And for my follow-up, quickly, Jennifer, the -- when you talk about the 3% inflation, I was just curious how you're factoring fuel cost into that?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [86]
+--------------------------------------------------------------------------------
+Great question, Ben. We don't factor fuel cost into that because of our fuel surcharge programs. And yes, there's a lag, but we don't include fuel when we're talking about our core inflation.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+Our next question is from the line of Cherilyn Radbourne with TD Securities.
+
+--------------------------------------------------------------------------------
+Cherilyn Radbourne,  TD Securities Equity Research - Analyst    [88]
+--------------------------------------------------------------------------------
+Just a couple of questions on the operating side. I was wondering whether you could talk about if you've seen an uptick in your labor attrition rate as some of your peers have and how you're coping with that?
+And then just at a higher level, with regard to productivity to provide a partial offset to inflation, can you talk about how you're keeping the PSR mindset sort of alive and well throughout the company, particularly as you bring on new employees?
+
+--------------------------------------------------------------------------------
+Eric J. Gehringer,  Union Pacific Railroad Company Inc. - SVP of Transportation    [89]
+--------------------------------------------------------------------------------
+Yes. Thank you for those questions, Cherilyn. And the first answer is actually really straightforward. If you look at our 5-year average, we are not seeing increased attrition in our agreement professionals. 
+Regarding your second question, there's a lot of ways that we continue to reinforce PSR, but really our flagship method is really the one we've employed for the last -- well, this will be the third year in a row, which is our operating excellence classes. This is an opportunity for frontline leaders in the operating department all the way through executives that are in the front lines to be not only with one another in groups of 60 to 80 but also to be with me and the leadership team as we continue to define our PSR initiatives as we continue to evolve the railroad with more PSR initiatives, and they're hearing it directly from us. Most importantly, they're getting the chance to ask questions and ensure that we have alignment and also present their opportunities back to us. So we'll continue to use communication as our single best tool, followed by just a relentless focus on execution.
+
+--------------------------------------------------------------------------------
+Operator    [90]
+--------------------------------------------------------------------------------
+Our next question is from the line of Brandon Oglenski with Barclays.
+
+--------------------------------------------------------------------------------
+Brandon Robert Oglenski,  Barclays Bank PLC, Research Division - VP & Senior Equity Analyst    [91]
+--------------------------------------------------------------------------------
+I'm sorry, I missed the first part of this call, so I don't mean to be duplicative in my question. But Lance or Eric, your trip plan compliance is down quite a bit. And I realize there's a lot of other outside factors right now during the pandemic. But for better words, this industry has a reputation when demand goes up, when the economy heats up, service -- volume goes up and service goes down. 
+I guess how do you think about that in the longer-term context. Have we just cut too far under these PSR plans? Do we need to rethink labor and workforce levels? And is the CapEx level today at the right level? Or does that even potentially need to be reevaluated looking forward?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [92]
+--------------------------------------------------------------------------------
+Yes, Brandon, this is Lance. I'm going to start because I've been crystal clear on this point with other audiences when I'm out talking. If you look at our historic record here over the past handful of years through our transformation, we've improved our operating metrics when volume went down, particularly last year, and we improved them last year when volumes snapped back, right? So there's no reason to -- for us to think empirically on Union Pacific, volume is going to tank our ability to run the railroad.
+Now having said that, what hurt us in crew availability primarily in the second half of the year, was, I think, we did not adequately address in our planning the reality of COVID and a third and a fourth wave. Our planning profile said COVID is going to be around, but we're going to get used to it. It's going to have a diminishing impact, and we've got the resources necessary in that environment. What we did not plan for was a vaccine mandate, where we'd have to give people time off to get vaccinated and waves where we had hundreds of UP employees unavailable to us on any given day because of quarantine.
+And I look at that, and I think shame on us. That's a risk factor that we did not adequately plan for. And when I look into the future, we're going to just be a whole lot more relentless about -- and deliberate about the assumptions that we're building into our plans. Having said that, we're on the backside of getting that remedied in part through being relentless on how we utilize crews that are available to us and on the front side in making sure that we've got our boards staffed in a way that supports our crew consumption. 
+And at some point in the future, COVID is going to go away or it's going to be much less impactful. And I think at that point, that's going to be a wonderful day. But until then, we have to plan for it as a contingency, and that's what we've got built in. And I think we're going to be demonstrating that to you early on in this year. I see it in the statistics, and you will see it in the operating statistics as well.
+
+--------------------------------------------------------------------------------
+Operator    [93]
+--------------------------------------------------------------------------------
+Our next question is from the line of David Vernon with Bernstein.
+
+--------------------------------------------------------------------------------
+David Scott Vernon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [94]
+--------------------------------------------------------------------------------
+So Kenny or Eric, I guess a question for you on the intermodal growth that you're putting out there. Is this something that we should be estimating as 100% incremental to the current base and whatever growth forecast we're going to put in there? Or are there some customer losses, some remixing of the business that you're planning to do? I'm just wondering if we should be sort of thinking that this business comes in and the intermodal network is going to expand? Or are we going to be looking at this as only partially incremental growth?
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [95]
+--------------------------------------------------------------------------------
+No. This is clearly incremental growth for us. There's not a bait-and-switch or we change something or lost something. No, this is all incremental growth. And we're working very closely with Eric, our teams. Eric and I spend quite a bit of time talking about the intermodal network.
+
+--------------------------------------------------------------------------------
+David Scott Vernon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [96]
+--------------------------------------------------------------------------------
+All right. And then maybe just as a quick follow-up. The volume outlook slide has a question mark for international intermodal. I'm just wondering, is that a commentary on the congestion at the ports and the shipper preferences for expediting off the West Coast? Or is that commentary that says, "Hey, look, after this before the volume comes in, warehouses are going to be full and we should see import growth start to slow" I'm just wondering what is the meaning behind that question mark on the volume outlook for international?
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [97]
+--------------------------------------------------------------------------------
+Yes. Thank you for asking that clarifying question. And you're right, it's all about as we're slowly coming out of the Christmas holiday, I clearly believe that there is some natural timing to this that we should see things work out. I've said this during the last part of the year, sometime in the middle of the year. But it's just going to be a gradual and slow increase the carloads on the international intermodal side. But the short answer is that's what you're seeing.
+
+--------------------------------------------------------------------------------
+David Scott Vernon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [98]
+--------------------------------------------------------------------------------
+So that's more congestion than a macro comment.
+
+--------------------------------------------------------------------------------
+Kenyatta G. Rocker,  Union Pacific Corporation - EVP of Marketing & Sales    [99]
+--------------------------------------------------------------------------------
+Port congestion for sure, as customers are now sending more to Inland versus port to port.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [100]
+--------------------------------------------------------------------------------
+Yes. Yes. I think where you're going with that, David, is there's nothing about in-market demand that we're building into the plan that says there's a collapse of the American consumer buying imports.
+
+--------------------------------------------------------------------------------
+David Scott Vernon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [101]
+--------------------------------------------------------------------------------
+Okay. Good. I just, I wanted to make sure that wasn't a macro thing.
+
+--------------------------------------------------------------------------------
+Operator    [102]
+--------------------------------------------------------------------------------
+Next question is from the line of Jairam Nathan with Daiwa.
+
+--------------------------------------------------------------------------------
+Jairam Nathan,  Daiwa Securities Co. Ltd., Research Division - Research Analyst    [103]
+--------------------------------------------------------------------------------
+Just following up on the paddle systems deck. So we have seen a lot of innovation, especially on the truck side, and it's coming not only from within the industry, from outside the industry as well. So I'm just wondering, with the rail, we haven't seen as much. How do you cultivate that? How do you kind of finance or fund it or aiming to bringing that outside innovation in the industry?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [104]
+--------------------------------------------------------------------------------
+Yes, Jairam. This is Lance. Maybe we're just not doing an adequate job of talking about it, but our new CIO and Rahul Jalali. He is an exceptionally talented tech executive. And what he's got us doing is amplifying our internal development by speeding it up through minimally viable product, by being product- and platform-centric and by deep and clear partnership with his internal customers so that we can tease out more rapidly and more fulsomely what's the next step in our tech investment and how quickly can we bring it to market. There are so many examples of that. We've talked a bit about some this morning, the UPGo app for drivers on our ramps, intermodal vision, the mobile apps for our crew base, UP Vision, I mean, just on and on and on. 
+The second way that's happening is through becoming much more open and embracing of external tech expertise. Whether that's partnering up with Google, whether that's partnering up with somebody like TuSimple, there's any number of ways that we're exercising those kinds of partnerships so that we can learn from and absorb their expertise into our business. Tech is touching every aspect of our business right now in an accelerated and accelerating manner. And we're really, really excited about that.
+
+--------------------------------------------------------------------------------
+Jairam Nathan,  Daiwa Securities Co. Ltd., Research Division - Research Analyst    [105]
+--------------------------------------------------------------------------------
+Okay. And just as a follow-up, Jennifer. So if I go back to the quarters where you hit the 55% operating target, volumes were about 5%, 6% above, let's say, 4Q levels. So is that -- but it looks like there are other things that is helping margins next -- in this year, right, like not in productivity and pricing to some extent. So I'm kind of trying to understand how much is the volume impact in that 55.5% OR target. And how much of these other initiatives in?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [106]
+--------------------------------------------------------------------------------
+Let me start, Jennifer, with the mantra that you and I talk about all the time. Our ability to generate attractive margins is built on a 3-legged stool. We look for volume growth, which we get to leverage. We look for productivity, which we can leverage through volume growth and we can find in other ways, and we got to have pricing that supports it as well. In 2022, we're going to see benefit from all 3.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [107]
+--------------------------------------------------------------------------------
+Yes. And I think that's part of why we're talking more about incremental margins as well is because of that focus on growth, the new business opportunities that's coming to us, being able to move that really efficiently, pricing it well and then dropping that to the bottom line.
+
+--------------------------------------------------------------------------------
+Operator    [108]
+--------------------------------------------------------------------------------
+Our final question today comes from the line of Jeff Kauffman with Vertical Research Partners.
+
+--------------------------------------------------------------------------------
+Jeffrey Asher Kauffman,  Vertical Research Partners, LLC - Principal    [109]
+--------------------------------------------------------------------------------
+Jennifer and Lance, you addressed the question, what if congestion doesn't get better and the system doesn't get more fluid, and you mentioned that's part of your contingency. I'm going to ask it the other way. What if it actually does? Because sometimes when growth bounces back too quickly, the system can be challenged. You talked about the hiring of crews. You talked about how your crew boards are going to ease up as you move through this. But can you talk about -- it takes 6 to 9 months, right, to train a new T&E crew. What kind of planning do you have to put in place if the volumes come in a couple of percentage points above what you're looking for? And what kind of constraints would you be running into on the network?
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [110]
+--------------------------------------------------------------------------------
+That's a great question, Jeff. And it's one that we scenario plan out for ourselves periodically as we go through our planning cycles within the year. First thing I would note is we worked really hard to reduce the amount of time it takes to get [everybody] off the street and to be qualified as a conductor. I think we've got that knocked down to something like 14 weeks. And so that's a substantial move in the right direction.
+Item number 2 is if we see volume overwhelming our ability to satisfy it, we've always got price as a lever that we can use that discourages some amount of that volume and helps it find a different home. And then we've got a lot of levers that we pull when it comes to managing the inventory, which is really the mechanism that bogs down the network. It's not the fact that more volume wants to move through the network. It's if that volume doesn't move fluidly and it builds up inventory. And now we're using our capacity in a really unproductive way. We've got a ton of mechanisms that we've developed over the past 3 years to make sure that inventory, if it comes on us, it moves through. And if there's too much coming on us for any one individual customer, we work directly with that customer to get them back in the box.
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [111]
+--------------------------------------------------------------------------------
+Yes, Lance. I mean, you hit all the key points. The only thing I'd add is it's less about the absolute volume number, and it's also about where the volume comes on and in what products. And so that's where I think the team did a great job in 2021 being agile around that. We weren't expecting the chip shortages. We didn't expect the supply chain congestion. And the coal volumes were a blessing that came to us as well as increase on the grain side, and so to be able to pivot quickly and be agile. That's why it's so critical that Kenny and Eric are linked that they has in terms of talking about the trends, talking about the plan, and then executing to that.
+
+--------------------------------------------------------------------------------
+Jeffrey Asher Kauffman,  Vertical Research Partners, LLC - Principal    [112]
+--------------------------------------------------------------------------------
+And just a follow-up to that. I heard Kenny recently talk about the great resignation and the challenge with bringing back from the furlough board. Have you worked your way through most of the furlough boards and have your arms around your ability to bring back employees? Or is that something that we're still probably going to be dealing with in the coming quarters as volume begins to come back?
+
+--------------------------------------------------------------------------------
+Jennifer L. Hamann,  Union Pacific Corporation - Executive VP & CFO    [113]
+--------------------------------------------------------------------------------
+No, Jeff. We've largely depleted those furlough boards. The folks that we have called back are in training classes now, and we're really focusing -- in terms of incremental adds to our network from a crew base, it's going to be on the new hire side.
+
+--------------------------------------------------------------------------------
+Operator    [114]
+--------------------------------------------------------------------------------
+Thank you, everyone. This concludes the question-and-answer session. I'll now turn the call back over to Lance Fritz for closing comments.
+
+--------------------------------------------------------------------------------
+Lance M. Fritz,  Union Pacific Corporation - Chairman, President & CEO    [115]
+--------------------------------------------------------------------------------
+Rob, thank you very much. You did a wonderful job for us today again, and thank you all for joining us today and for your questions. We're looking forward to talking with you again in April when we discuss our first quarter results. Until then, I wish you all good health, please take care. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [116]
+--------------------------------------------------------------------------------
+Thank you, Mr. Fritz. Ladies and gentlemen, thank you for your participation. This does conclude today's teleconference. You may disconnect your lines at this time, and have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

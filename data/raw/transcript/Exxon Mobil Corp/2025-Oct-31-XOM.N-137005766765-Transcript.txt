@@ -1,0 +1,550 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 Exxon Mobil Corp Earnings Call
+OCTOBER 31, 2025 / 1:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Darren Woods
+   Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer
+ * Kathryn Mikells
+   Exxon Mobil Corp - Chief Financial Officer, Senior Vice President
+ * James Chapman
+   Exxon Mobil Corp - Vice President - Tax, Treasurer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Arun Jayaram
+   JPMorgan Chase & Co - Analyst
+ * Neil Mehta
+   Goldman Sachs Group Inc - Analyst
+ * Paul Sankey
+   Sankey Research - Analyst
+ * Biraj Borkhataria
+   RBC Capital Markets Inc - Analyst
+ * Ryan Todd
+   Piper Sandler Companies - Analyst
+ * Devin McDermott
+   Morgan Stanley - Analyst
+ * Douglas Leggate
+   Wolfe Research LLC - Equity Analyst
+ * Jason Gabelman
+   Cowen and Company LLC - Analyst
+ * Jean Ann Salisbury
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Phillip Jungwirth
+   Bank of Montreal - Analyst
+ * Bob Brackett
+   Sanford C Bernstein & Co LLC - Analyst
+ * Paul Cheng
+   Scotiabank GBM - Analyst
+ * Betty Jiang
+   Barclays Services Corp - Analyst
+ * Sam Margolin
+   Wells Fargo Securities LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+James Chapman,  Exxon Mobil Corp - Vice President - Tax, Treasurer    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone. Welcome to Exxon Mobil's third-quarter 2025 earnings call. Today's call is being recorded. We appreciate you joining us. I'm Jim Chapman, Vice President, Treasurer and Investor Relations. And I'm joined by Darren Woods, Chairman and Chief Executive Officer; and Kathy Mikells, Senior Vice President and Chief Financial Officer.
+This quarter's presentation and pre-recorded remarks are available on the Investors Section of our website. They are meant to accompany the third-quarter earnings press release, which is posted in the same location. During today's presentation, we'll make forward-looking remarks, including comments on our long-term plans, which are subject to risks and uncertainties. Please read our cautionary statement on slide 2.
+You can find more information on the risks and uncertainties that apply to any forward-looking statements in our SEC filings on our website. We also provide supplemental information at the end of our earnings slides, which are also posted on our website.
+And now I'll turn it over to Darren for opening remarks.
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and thanks for joining us. Last December, we reviewed our corporate plan under the theme of a league of our own. The results we've delivered since then continues to support that theme. From the technologies we're deploying, to the major projects we're delivering, to the structural cost savings we're capturing, and the value we're creating, our results are truly in a league of their own. In fact, in the third quarter, we delivered our highest earnings per share compared to other quarters in a similar price environment.
+Let's start in Guyana, where we're breaking records with production more than 700,000 barrels per day in the quarter. We brought Yellowtail online four months ahead of schedule. It's our fourth and largest development with production capacity of 250,000 barrels per day. Yellowtail was delivered in nearly the same time as previous FPSOs despite a 70% increase in facility weight from its higher production capacity and improvements in GHG performance.
+We also sanctioned our seventh development, Hammerhead, which is expected to begin production in 2029. And importantly, we're making a positive and growing local impact. [Guyanese] now make up over two-thirds of the country's oil and gas workforce, more than 6,000 people, with more than 2,000 local businesses engaged.
+In the Permian Basin, another advantaged asset, we set yet another production record of nearly 1.7 million oil equivalent barrels per day. We also acquired more than 80,000 net high-quality acres in the Midland Basin from Sinochem Petroleum. The transaction provides control of drilling locations and opportunities to further deploy our technology to drive greater returns. It's another example of bringing our portfolio advantages to an acquisition, ensuring that one plus one equals three or more.
+In addition, during the quarter, multiple third parties published reports validating the benefits of our lightweight proppant. Last December, we shared how we're using low-cost refinery coke as a proppant that penetrates deeper into fracs.
+This improves access and flow, which increases well recoveries by up to 20%. Wood Mackenzie reported that our proprietary proppant is delivering significant improvements in resource recovery, supporting our own results. They acknowledge that our Upstream integration with refining operations create a strategic advantage that is difficult for others to replicate. And that lightweight proppant is just one of many innovations we're developing to maximize Upstream recoveries and grow the value of our unconventional business.
+This year, we expect about a quarter of our wells, we use our new patented proppant and roughly 50% of new wells by the end of 2026. This, along with our cube development, pipeline of new technologies, and deep inventory of quality acreage is why our Permian production continues to grow well into the next decade.
+This is an important point as it clearly differentiates us from our competitors. We're talking about reduced investments, peak production, or a shift to harvest mode. In our corporate plan update in December, we'll share more on our Permian success and how it's strengthening the value proposition of our broader portfolio.
+New to the world technologies are also playing a critical role, albeit on a slightly longer time frame in our Product Solutions business. We're making solid progress with new products based on our Proxxima systems. This year, we're tripling production capacity. At the same time, we're continuing to demonstrate significant value and use.
+With our Proxxima-based rebar, we've demonstrated a 40% improvement in installation efficiency compared to steel. We've also introduced a new one code solution for marine cargo tanks that replaces the standard three code process. This cuts coating time in half, speeds up return to service, and delivers significant cost savings. These performance gains are helping us penetrate large established markets in key segments where we're building the foundation of a strong pipeline of opportunities.
+We've had significant interest in our Proxxima battery enclosures from Tier 1 auto OEM suppliers based on the fast production speed and lightweighting provided by our product. In 2026, we have the opportunity to demonstrate the superior subsea insulation and installation characteristics of our Proxxima products in the oil and gas sector, our own Hammerhead FPSO.
+And then our rebar and infrastructure opportunities are expected to yield approximately 20,000 tons of cells by 2027. Through our signed MOUs with Masdar and [Baosteel], investments in Proxxima-based rebar manufacturing facilities will grow over the next two years. This will allow us to scale quickly into these fast-growing markets.
+In Singapore, we successfully started up our resid upgrade project and are converting low-value fuel oil into high-value lubricant products in diesel using a proprietary catalyst at scale. Project utilization is currently around 80%, ramping to full capacity by year-end with our new-to-the-world base stock on grade and delivery to customers.
+We've also progressed the development of our revolutionary battery anode graphite that can deliver breakthrough improvements in battery performance. Early feedback from leading auto OEMs and battery producers has been promising. Their testing shows that batteries can be charged 30% faster, providing a 30% increase in effective range and last up to 4 times longer.
+This quarter, we also announced the acquisition of key assets from Superior Graphite, a leader in the graphite and specialty carbon market. Working with their team and incorporating their proprietary technology, we will develop and scale a differentiated graphitization process that has higher throughput, 50% more energy efficient, and significantly lower cost than available industry alternatives today.
+We also commissioned our newest supercomputer, Discovery 6, developed with Hewlett Packard Enterprise and NVIDIA, delivering a step change in exploration and seismic processing. This is the world's 17th most powerful computer. Seismic processing that used to take months now takes just weeks is already having an impact in Guyana, enabling more than $1 billion of potential value capture from increased resource recovery at our first six FPSOs in the Stabroek block.
+Our long-standing focus on and investment in technical innovation is paying dividends. When coupled with the capabilities we've developed in execution excellence, we deliver results that others can't match. You've seen it this year with our global projects organization and the eight key start-ups we've highlighted to date, which includes some of the industry's largest and most complex projects.
+Our Proxxima systems expansion and Golden Pass LNG project, both remain on track for start-up around year-end, completing the last 2 of our 10 key 2025 startups. Together, these 10 projects establish an important foundation to our 2030 earnings and cash flow growth plans. They're expected to drive more than $3 billion in earnings contributions next year at constant prices and margin.
+Before closing, I want to briefly touch on a new tool we introduced in the quarter to make it easier for our retail shareholders to support their company and vote their shares. In September, we introduced a first of its kind free opt-in voting program for our millions of retail shareholders.
+Typically, only about a quarter of them, growing almost 40% of the company, vote at our annual meetings. We think shareholder participation should be the norm, not the exception. Our program, approved by the US Securities and Exchange Commission, allows participants who choose to opt in to have their shares automatically voted to support management's recommendations. The program is completely optional, and participants can easily change their votes or opt out at any time.
+Since implementing it, we've been very encouraged by the positive feedback we've received, especially from other companies looking to replicate the program and make it easier for the voices of their retail shareholders to be heard. This is just one more example of the work we are doing to grow shareholder benefits and value.
+Stepping back, looking at the quarter and reflecting on the year-to-date results, we feel good about the progress we're making. We're delivering on all the challenging commitments we made consistent with our track record since the pandemic and setting the pace for industry.
+We're deploying innovative technologies that are delivering new-to-world approaches, processes and products that drive industry unique value. We're transforming how and where we work to improve our effectiveness and deliver structural cost reductions that exceed all of our competition.
+We're defining the industry benchmark in project execution for schedule and cost on an unmatched number of projects. And most importantly, we're strengthening our competitive advantages and, frankly, all aspects of our business, to deliver earnings and cash flow growth now and far into the future. Looking forward, I'm confident we will remain in a league of our own.
+With that, we're happy to answer your questions.
+
+--------------------------------------------------------------------------------
+James Chapman,  Exxon Mobil Corp - Vice President - Tax, Treasurer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Darren. Before we move to Q&A, I have a quick announcement to share. Please mark your calendar for our annual corporate plan update, a virtual event this year for Tuesday, December 9 at 9 AM Central Time. With that, we'll move to Q&A.
+(Event Instructions) And operator, please open the line for our first question.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Neil Mehta, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Neil Mehta,  Goldman Sachs Group Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          I just wanted to pick up on the capital spend point. You are indicating that you're going to be below the range this year. And of course, we'll get a little more color on December 9 about how you're thinking about 2026.
+But could you talk about the moving pieces? Is it about capturing deflation? Is it about deferring investment particularly around some of the low carbon solutions? How should we be thinking about the drivers of that?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Sure. Good morning, Neil. Thanks for calling in. Yeah. maybe I'll take you back to the corporate plan presentation we gave last December when we talked about our CapEx spend. And we broke it down between the base and then some of the things that we are pursuing where we had to develop the markets, how to develop the sales. We're looking at policy coming in place.
+And we indicated at a time that that capital would move, depending on what we saw in the market and how those markets develop. And that's exactly what we're seeing as we've gone forward in some of these new ventures, particularly low carbon solution portfolio, market is not developing as fast as we had planned for. And so we are pacing the spend in that as consistent with what we talked about.
+From my perspective, it's much easier to plan on doing something and then pull back than it is to not plan on something and then try to rush into it. So we feel really good about where we're at with that and continue to watch and we'll continue to pace the market as it develops and as we see the demand for some of those products grow.
+The other point I would just make is we provide that range going out in time, and that reflects really the uncertainty around exactly when all the projects in our portfolio get FID-ed or get -- as they progress and when exactly those things happen, are hard to call far into the future. So we give ourselves -- we recognize that variability and make sure that we encompass that in the range that we provide.
+And so I would expect, as we go forward, you'll see some of that movement, just frankly, because you can't predict exactly when that capital spend will happen as you're executing a project. But we feel good about where we're at. We feel good about where that underrun is coming from. I'd also say we're getting a really good productivity on the capital we're spending in the Permian as well, which is a benefit.
+
+--------------------------------------------------------------------------------
+Kathryn Mikells,  Exxon Mobil Corp - Chief Financial Officer, Senior Vice President    [4]
+--------------------------------------------------------------------------------
+
+          And then all I would add to that is, obviously, we had an acquisition, actually a couple of acquisitions this quarter, in total, $2.4 billion. So when we gave that guidance that we expect to be a bit below the low end of the $27 billion to $29 billion cash CapEx, that's excluding those M&A transactions. And we obviously don't plan for those transactions. So that's why we excluded them.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Devin McDermott, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Devin McDermott,  Morgan Stanley - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          So I wanted to dive into the Permian a bit more. It's record production results in the quarter. You also raised the guide for the full year. I was hoping you could unpack the drivers for us a little bit more. Are we already seeing some outperformance as a result of your advanced proppant rollout? Have there been other changes you've made to development or spacing? And how does this all impact how you're thinking about the capital and activity requirements to achieve your multiyear growth targets?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Devin. And I would say if you look at what we're doing in the Permian and the innovation that's occurring with that organization, it is hard to predict the improvements when you're planning ahead of time. But what the team is constantly doing is looking for how they can improve in evaluating what they've been doing and then making changes on the fly.
+We've been testing a whole pipeline of potential technology options that will unlock resource, lower our capital cost. And we're seeing improvements across the range of those technologies as we implement them. So we feel really good about the productivity of what we're seeing in the Permian. I feel really good about what the team is looking at to grow the production.
+And when we talk to you in December with the plan, you'll see that we -- every year, we're looking to build that improvement into the planned outlook. So it's hard to -- it's not any one single thing. It is a function of a lot of hard work by the team, a lot of innovation and the technology organization continuing to bring good ideas into the field and that is resulting in better production, more effective capital deployment.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Arun Jayaram, JPMorgan.
+
+--------------------------------------------------------------------------------
+Arun Jayaram,  JPMorgan Chase & Co - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          I had a little bit of a bigger picture question. Exxon recently published its global outlook through 2050 and includes around 5% oil growth, 20% gas growth in a doubling of LNG demand called over the next 25 years. I was wondering if you could talk about how this outlook informs your strategy? And how should we think about where the puck will go in terms of future organic or inorganic opportunities for the company?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks for the question, Arun. It is -- with respect to the first part of your question, the global outlook is the foundation, which we think about our strategy and then build our plans. Obviously, it's difficult to predict with precision how things are going to move, particularly in the short term.
+But longer term, we focus on the fundamentals where the economic growth is happening to what level is happening, how technology is developing, what policies are being put in place and then try to synthesize all that into an outlook, and have been doing that, well, for as long as I can remember in this company. It doesn't change a whole lot year-to-year, but it is -- does form the foundation of how we think about things.
+You may recall back during the pandemic when people were extrapolating from a very unusual market condition, we remain focused on what our long-term outlook was telling us and continue to make investments when a lot of other people have pulled back during that time. And that has proven to be the right approach as time moved on.
+And so we think about it in those terms and the growth in LNG is what underpins our continued interest in finding low-cost advantaged LNG production. The recognition of economy is growing. And people's livelihood is improving and the energy demand required to facilitate that underpins continued growth in oil and gas. And so we continue to look for cost advantaged oil production as well.
+I think people often forget that there is a depletion rate here. And so if you aren't continuing to invest and find new resources that your supply will rapidly decline, particularly, given the role that unconventional production now plays in the global supply.
+That depletes a lot quicker. Therefore, the depletion curve is a lot steeper. Therefore, the industry has to bring more barrels on to just stand still. And so all of that goes into our thinking in terms of what's needed from an investment standpoint and really keeps our focus on the medium to long term rather than the very short term.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Doug Leggate, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Douglas Leggate,  Wolfe Research LLC - Equity Analyst    [12]
+--------------------------------------------------------------------------------
+
+          I listened to you talk about in a class of your own and I think about all the growth you've had in free cash flow and the reduction in the dividend breakeven. But yet, your dividend growth rate remains quite pedestrian. And frankly, I think that's probably holding back market recognition of value. So I wonder if you can address that. At what point do you think the free cash flow expansion translates to a more competitive, let's say, versus the broader market dividend growth rate?
+
+--------------------------------------------------------------------------------
+Kathryn Mikells,  Exxon Mobil Corp - Chief Financial Officer, Senior Vice President    [13]
+--------------------------------------------------------------------------------
+
+          Yeah. I'm happy to take that question, Doug. We look at our overall dividend growth rate, and we constantly think about sustainability right? We think about competitiveness. We think about growth. And when we measure it on those three pretty important qualitative factors, we feel pretty happy with where we've ended up.
+And interestingly, I would tell you, as we speak to investors, we tend to get positive commentary about our dividend growth rate, about our overall approach to dividend growth, and about our overall approach to not just dividend growth, but obviously, to a more consistent program with regard to share buybacks as well. So we look at the dividend growth rate over a long period of time.
+We look at it both relative to IOC competitors. We look at it relative to general S&P. We look at it relative to industrials. And when we measure it against those criteria, I would say, we come up with an answer that says, we feel like we're in a pretty good place. And generally speaking, we get positive commentary from investors on our approach with regard to our dividend growth rate.
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          Yeah. And I would add to that, Doug, that we're very mindful of the commitment we have on our dividend and the context in which that commitment will play out over the years and as you move through commodity cycles. And so we think it pays to be confident with what we're doing and thinking through where the cycles are going.
+We all know the prices are going to go up, and we know they're going to go down. And making sure that we build a business that can reliably deliver across any price environment is a critical part of how we think about the things that we do in the company.
+
+--------------------------------------------------------------------------------
+Kathryn Mikells,  Exxon Mobil Corp - Chief Financial Officer, Senior Vice President    [15]
+--------------------------------------------------------------------------------
+
+          And the last thing I'd say is we now have 43 consecutive years of annual dividend growth. That puts us in a category of less than 5% of S&P 500 companies. I'd say that's a track record we're quite proud of.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Bob Brackett, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Bob Brackett,  Sanford C Bernstein & Co LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          I'd like to talk a bit about Superior Graphite. I'm curious what exactly you acquired from them? Was it that their facilities in the US and Europe or more technology? And also curious how tightly integrated would that be into your existing refining petrochemical strategy? And then I'll tack on, what do you think that total addressable market might be?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Yeah. Thank you, Bob. Appreciate the question. We talked about, now, for some time, the work we've been doing from a technology standpoint, leveraging our capabilities to manipulate and transform molecules to make products that the world needs and to address gaps and grow value.
+One of those that piece of work was around what can we do with carbon molecules, particularly, given the drive, the necessary drive to reduce emissions and the CO2 out of the atmosphere that leads to more and more carbon. So we saw a trend of a cheap feedstock that's growing and what can we make out of it.
+And so our technologists have come up with a unique carbon molecule that we see the opportunity to graphitize and then put into batteries as anodes. As I said in my comments, the work that we've done with our pilot plants have led to or demonstrated significant really step change improvements in lithium-ion batteries: 30% faster charging, 30% more range, and then extends the battery life cycle by 4 times the current technology.
+So we see it as a huge opportunity. The TAM on that could be up to $40 billion, so that's, in our mind, a market worth going after.
+One of the challenges beyond designing the molecule is the graphitization process. And if you look at what the industry norm is in that space, it is a very, very old technology that dates back to the 1800s and takes close to a month, frankly, to develop the product.
+We said we've got to bring that into current times. And so we're looking for a technology that really leveraged our process technology capabilities. And Superior Graphite had a technology in some assets that, working with them, we could adapt to this. And we think fundamentally revolutionizes making this material for the battery market.
+And so that's the approach. We purchased the key assets, have the right technology rights to those assets, and we'll be working with the folks to convert that technology and grow it at scale so we can begin to produce and material at a much higher rate, at a much lower cost and really, really importantly, outcompete the Chinese.
+This market is dominated by the Chinese. And so we're very cognizant of anything that we do here for the long run, it has to be on the very low-end of the cost of supply curve. This technology is going to help us achieve that.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Sam Margolin, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Sam Margolin,  Wells Fargo Securities LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          So yeah, I wanted to ask about the inorganic strategy a little bit. It seems like it's accommodated by two factors. The first is capital efficiency in the business. And the second is the balance sheet, which is leading among peers.
+And so the question is, given all these tailwinds in the business and in the capital structure, do you feel like you can step up in organic activity even more now and set the table for additional opportunities beyond what's in your pipeline today?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Sam. Well, what I'll tell you, if you go back in time when we first started talking about our strategy, it was very much focused on our core competitive advantages and strengthening those advantages and growing them.
+And that, in my mind, not only allowed us to improve and drive profitability in our base business, but it opened up the opportunity for inorganic transactions that took -- where we could take advantage of those core competencies, leverage them in an acquisition, and bring more value than either company could do on its own. And that's the foundation of the one plus one equals three, which we've been talking about for quite some time.
+I think the Pioneer acquisition is a great example of that, where we brought in a very good organization, very good people, very good assets; combine them with our good people, our assets and technology. And together, we're doing more than either company could have before.
+That drive and our efforts to find those opportunities do not ebb and flow with the commodity price cycle. It is a constant for us. And I made that point in the second quarter. I make it here in the third quarter.
+We are -- as we develop these and grow our technology capabilities, our project capabilities, really, all the advantages that we bring to the business, how can we leverage those to grow more value organically and inorganically? And it's just a function of continuing to look for and find those opportunities.
+So it's a constant, I'd say, focus of ours, and it's really a question of what are the opportunities that present themselves? And that will happen over time. I don't -- we don't have a specific plan for when things show up, but it's this constant effort, which I think any good company with the advantages that we have, would be very focused on that.
+
+--------------------------------------------------------------------------------
+Kathryn Mikells,  Exxon Mobil Corp - Chief Financial Officer, Senior Vice President    [22]
+--------------------------------------------------------------------------------
+
+          And just the thing I would add to that. We look at a lot of things, a lot of things, as you would expect us to. We transact on very few things because they have to meet our criteria. As we said, one plus one has to equal more than three, right?
+We've got to bring advantages to the table, scale, integration on rival technology things that are going to create synergies that are going to allow transactions to really generate strong returns. And I think Pioneer is a great example of that.
+So you should expect that we would look at a lot of things. But we transact on very few, and it's the ones where we have a high degree of confidence that we can earn very good returns.
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [23]
+--------------------------------------------------------------------------------
+
+          Yeah. I think bottom line on that is we buy value, not volume. I think that differentiates us from many in the industry. And so if we can't see the path to very high returns on transactions, we won't pursue them.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Paul Cheng, Scotiabank.
+
+--------------------------------------------------------------------------------
+Paul Cheng,  Scotiabank GBM - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Darren and Kathy, I'm just curious that, I mean, you just have a one-off cost maybe head count reduction. But I'm trying to understand that you've been doing a lot of different projects. I mean, you're probably doing far more than any of your peers at this point.
+So should we assume that, at this moment, you were pretty rounding up against your organizational capability or that you think your ability that to even increasing the pace of investment just a function of opportunity set, but not limited by your capability?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          Yeah. Thank you, Paul. Just to your point about the reductions that you referenced, that was really the next step and a continuum of work we've been pursuing for some time now. We've worked really hard at transforming the how of what we do and that has led to a much improved effectiveness, and it's also led to the efficiencies that we've been racking up.
+If you look since 2019, when we started this work on the strategy -- implementing the strategy, we're over $14 billion of structural cost reductions. That's on average, about $2.5 billion of cost reductions, structural cost reductions every year. My expectation is we'll see something similar to that this year. And frankly, going forward, we continue to see additional opportunities to become more effective and through that, then get more efficient.
+The ability -- in terms of the capability we've got now is limited by the opportunity set because of the high criteria that we put on it and the insistence that the projects that we bring in are advantaged versus industry on the low end of the cost of supply curve. So it's resilient and delivers robust returns across every part of the commodity cycle.
+That criteria set tends to narrow the pipeline down pretty quickly as we're looking at things. So to date, we haven't hit that limit. But I would also tell you the -- as we continue to learn, sharpening our pencils, the opportunity set that we see across our technology organizations, our project organization, we think there's still untapped opportunity sets to get even better in that space.
+So we're not at a limit yet. And frankly, I don't see a limit. Maybe one day, we'll get there, but when you combine the high hurdle you have to clear in order to get into the portfolio with the existing capability set that we've got, I feel pretty good about the ability to execute.
+And I would point to what we did this year as probably the best example of that. The 10 projects we've been talking about, the eight of them that we've delivered to date, if you look in total, the gross capital associated with those 10 projects is on the order of $50 billion. I don't think there's a company in our industry at any point in history that has successfully delivered that many projects in the time frame that we're doing.
+And so I think that's just a great example of what we're capable of. And like I said, we've got a lot of ideas in the hopper in terms of how we can improve the technical aspects of what we're doing along with the execution aspects.
+
+--------------------------------------------------------------------------------
+Paul Cheng,  Scotiabank GBM - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          That's great. I suppose that that's why you just bought Discovery 6, that's part of that improving your, maybe, capability and efficiency going forward?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [28]
+--------------------------------------------------------------------------------
+
+          Absolutely. I mean that's -- I think I said the 17th most powerful computer in the world. And if you look at the data that we have to process, if you look at the opportunities set we have, it's allowing us to do things in weeks that used to take us months and months. So it just speeds that cycle up.
+
+--------------------------------------------------------------------------------
+Kathryn Mikells,  Exxon Mobil Corp - Chief Financial Officer, Senior Vice President    [29]
+--------------------------------------------------------------------------------
+
+          And I think if you just look at what we're doing and driving efficiencies, right, it is unmatched across the industry. I mean you look at just what we put up this quarter, $14.3 billion now in structural cost savings compared to 2019. Our track record in this regard, I think, is bar none, and we see more opportunity there.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Biraj Borkhataria, RBC.
+
+--------------------------------------------------------------------------------
+Biraj Borkhataria,  RBC Capital Markets Inc - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          I wanted to ask about Mozambique and the onshore development. There were some reports suggesting you were targeting FID in the first quarter of 2026, but then I read there was a meeting with the government, which has been deferred. So could you just talk about where you are with that project? Maybe the security situation and then whether an FID in early '26 is likely?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          Yeah, sure. We -- I would say where we're at with Mozambique right now is in a very good place. We've got a very strong relationships with the government there. We've got a really good project concept, working our way through that. The security situation there has improved dramatically.
+I think Total just lifted their force majeure. We're looking at and are in the process of trying to do the same. And so I would say that that project is now moving ahead, and we feel really good about that. And as does the government of Guyana, and we're working very closely with Total on that. So I think it's in a really good place.
+I think the press reports that you're reading, I would just say, you can't read everything that you believe or infer anything that you take from that. And just this week, we had the President and his team here on the campus and took them through what we're doing here and showed them some of our capabilities, and it was a really productive session, I think, both of us got a lot out of.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Ryan Todd, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Ryan Todd,  Piper Sandler Companies - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Maybe one on exploration. You've been, I think, increasingly active on this front in recent years. Can you talk about opportunities on the horizon over the next 12 to 24 months? And how, if at all, you believe your approach to exploration may have changed relative to maybe times in the past?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [35]
+--------------------------------------------------------------------------------
+
+          Yeah, sure. Maybe just put exploration in the context. I think when we talk about what we're trying to do in the Upstream and grow production in the context of the depletion rate that we see, it is a huge challenge. And so we've been very focused on what we see as the three key levers of filling the hole created by depletion and at the same time, growing that, which is for the things that you have, you got to squeeze more juice out of it.
+And so a lot of work we've been doing around for the fields and the resources that we're currently developing, how do we get more effective at producing more resources from those fields? And that's driven a lot by the projects organization, our technology organization, and the hard work of our operations teams.
+You've got to grow your advantages so that you can take it -- you can buy things and take advantage of the inorganic opportunities that we just talked about. And so one of the reasons why, as Kathy said, we're constantly looking at a lot of opportunities, we recognize, if we can take our advantages and create unique value through inorganic opportunity, that's really important, and it helps us again fill this challenge of the depletion curve.
+And then the final point is you've got to find new things that you can develop. And so that's always been a part of the equation for addressing the challenges of the Upstream. What we've been very, very focused on is really narrowing what we're doing in the exploration to make sure that things that we're looking for and going after have the opportunity to be material, be commercially attractive, compete in our portfolios.
+So we focus that. I think we've put a lot of effort in how we interpret the seismic and what we can do there. And so we feel pretty good about the opportunity set that we've got. We really feel pretty good about the technology that we're going to bring into that space.
+But I would also tell you that it starts with getting the opportunity to go look at things. We still got to demonstrate and translate that into results and success in terms of finding things.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Betty Jiang, Barclays.
+
+--------------------------------------------------------------------------------
+Betty Jiang,  Barclays Services Corp - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Darren, so Google just recently signed a power contract with gas power plant and wind capture. So really great to see development on that front. Wondering how your conversation is evolving?
+And I know Exxon has consistently talked about your only interested in power from a molecule perspective. But just given how quickly that power demand is growing and just how quickly that scale is growing as well, curious if there's any appetite to start offering maybe traditional power first and then adding on carbon capture capabilities later on?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [38]
+--------------------------------------------------------------------------------
+
+          Yeah. Thank you, Betty. And it is an area that -- where there's a lot of interest and activity, and we're very, very engaged with most of the hyperscalers on the opportunity set. But as you pointed out, we're very focused on the carbon capture side, the carbon abated power side of the equation.
+The fact that power is growing and there's a lot of opportunities there, it doesn't translate into a value proposition unless you can bring a unique advantage to that space. And frankly, that's not the business that we're in. And so it is very much around providing decarbonized natural gas to power stations and then capturing the carbon and the emissions on the back end of that so that we can offer low carbon data centers where more than 90% of the emissions are captured and abated.
+So that's the value proposition that we're pursuing. There's a lot of interest in that space, and we are also working with independent power producers to work with them to provide the electron side of the equation, while we provide the molecule side of the equation.
+I think we got out ahead of this, frankly, as things -- as this started to break. We secured locations. We've got the existing infrastructure. We certainly have the know-how in terms of -- and the technology in terms of capturing, transporting, and storing it.
+So we're in a pretty good place right now. We're pretty advanced in the conversations. I'm hopeful that many of these hyperscalers are sincere when they talk about the desire to decarbonize, have low emission facilities because certainly in the near to medium term, we're probably the only realistic game in town to accomplish that.
+I think we can do it pretty effectively, and we can partner with these folks to continue that, to grow that, frankly, over time. So that's where we stand. I'm optimistic at this point, but we're early in the game and we'll see what gets translated into actual contracts and then into construction.
+
+--------------------------------------------------------------------------------
+Betty Jiang,  Barclays Services Corp - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          I'm hopeful as well. Thank you very much for the color.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Jean Ann Salisbury, Bank of America.
+
+--------------------------------------------------------------------------------
+Jean Ann Salisbury,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          I wanted to go back to the proppant. As you referenced in your prepared remarks, the first like 12- to 18-month well results have started to come out, the Wood Mac study, and the results have been really positive. As you've been able to get more data this year, is there any other granularity you can share on where you think you're able to improve recovery the most like, for example, gassier zones, oiler zones, deeper zones, et cetera? And is there anything you can comment on how you see the strength of your patents or other barriers to entry, keeping others from copying it?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [42]
+--------------------------------------------------------------------------------
+
+          Sure. I think to come back to the proppant itself, remember, what we're doing here is as you get the fracs finding ways to get proppant deeper penetration into those cracks. So it's really a function of, I'd say, the rock and the properties of the rock and the ability to flow the material that has made this a successful as it is.
+I would also tell you that we're continuing to optimize and fine-tune that. So I don't know that we're at the -- we're certainly not at the end of the learning curve with that. And so I hope to see continued improvements in that space.
+I would also tell you that it is just one of a number of technologies that we are pursuing along that whole production process to try to improve recoveries, lower our capital. And the pipeline is pretty promising. And we're going to hopefully give you a perspective on that in December when we talk about the plan going forward.
+But I would think about the lightweight proppant as just one of a number of levers that we're pursuing. We feel good about what we see there. We think there's additional potential. But I would also say that we see other technologies that will work in conjunction with those and be additive with respect to recovery.
+You remember, I challenged our technology organization to double recovery. And at the time we did that, we didn't have a path or a line of sight to how we would do it. But we just recognize, given how early we were in the technology cycle, there should be opportunities there and our job was to go find them.
+I would say today that we've got a pipeline and certainly a line of sight to how we might do that. We've got a number of things we've got to make work and a number of technologies that have to prove themselves but we've come from a white sheet of paper to one that's now filled out with a lot of ideas that we're pursuing. So I would say we're well on the way to making some of that a reality.
+And with respect to protecting it, we feel pretty good about the patent. We feel pretty good about the supply of the raw materials that the patent covers. And everything that we're pursuing in this space, we're very focused on protecting because we do feel the technology is proprietary and the benefits of the technology, therefore, should be proprietary to Exxon Mobil.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Jason Gabelman, TD Cowen.
+
+--------------------------------------------------------------------------------
+Jason Gabelman,  Cowen and Company LLC - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          I want to go back to the exploration discussion because it was notable since we last spoke, you've entered into multiple new blocks to expand exploration. And it's not only Exxon pursuing additional exploration efforts, but you're seeing peers advertise their exploration intentions also.
+So the question is really what do you think is driving this industry trend? And do you see competition to enter into new blocks becoming more competitive? And I'm thinking, given Exxon's view that Shell is going (technical difficulty) to, I guess, in the next 5 to 10 years, is that a decent part of why you've seen the industry focus more on exploration?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [45]
+--------------------------------------------------------------------------------
+
+          Yeah. Sure. So I think going all the way back, I can remember talking in this forum in 2020 when the industry had sharply pulled back, and we were somewhat in isolation with continuing our investment program, making the point in the case that with the depletion curve, the industry has to continue to think long term, invest, and find resources.
+That, I think, you're now seeing play out. The unconventional that you mentioned, obviously, filled a hole in the short term. But like all resources, there's a finite life, particularly when you don't have the technology portfolio that we do where we can advance and grow the recoveries.
+And so unlike many of our competitors in the unconventional space, where they see maybe production plateauing or even declining, we continue to see an opportunity to grow production with the technologies that I've been referencing. So I think, as an industry as a whole, I think people see that resource and the horizon of it. And so -- are shifting now to the longer-term, longer-cycle projects out there.
+From my perspective, we've never taken our eye off of that, continue to work it. It's always been a very competitive space. And frankly, from my perspective, the way you succeed in a very competitive environment is to bring unique capabilities and advantage.
+And so it keeps coming back to the things that we've been working on. Resource owners want to see cost-efficient development. They want to see developments that happen quickly. They are on schedule, don't have overruns and so that they can start accruing the benefits of that resource development quickly. Guyana is a great example of that.
+So our work has been on improving our abilities to bring a unique set of skills, technology, projects, capabilities so that we can develop resources more cost effectively, which resource owners ultimately pay for. So they like that and to bring it on quicker so that they can benefit from the resource development in a sooner time frame.
+So all those things play to our strengths. I think that gives us a competitive advantage. I think importantly too, they know that we have been steadfast in our focus in this space. We don't blow with the wins. We don't come in and out of this. And so they know when we commit to something that we're going to deliver on that.
+So those things, I think, give us a bit of an edge and advantage in the discussions. And I think you see that manifesting itself in some of the announcements that we've made with some of the opportunities that we're pursuing.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Paul Sankey, Sankey Research.
+
+--------------------------------------------------------------------------------
+Paul Sankey,  Sankey Research - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          You've referenced a lot of this already on this call, but I wondered if you could give Exxon Mobil's perspective on the current AI CapEx boom, especially as you're bringing down your CapEx guidance today. And it's a process and strategy question, a high level.
+Your CapEx, your peak CapEx spending at Exxon around 2013 was over $30 billion a year, which would be about $40 billion in today's dollars. If we look at Meta alone, they've got a trailing run rate of your peak $30 billion and are going to $70 billion this year and next. Could you talk about, then, the challenges that you envisage for that capital deployment from a management perspective, firstly?
+And secondly, I wondered, given the speed of this, what are the impacts directly on your business? What are the areas where this boom is either challenging or benefiting you?
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [48]
+--------------------------------------------------------------------------------
+
+          Yeah. Sure, Paul. I can't say I can speak with much insight on what some of the hyperscalers are doing or Meta is doing with their capital. I will just say, generically, that it is very difficult to effectively and efficiently swing capitals from one level to another level that's materially different.
+So I mean, our approach is to have long-term plans, as you know, to basically meticulously develop plans with rigor and then execute those with excellence. And that's how we think about it.
+The lower guidance that you heard that we've talked about today is not a function of a change in activity set. We're still pursuing the same opportunity, the same businesses. It is very consistent with what we talked about last year, which is there are things that we've built in the plan that has more uncertainty than our base business, these new things that we're developing new businesses.
+Data centers are one of them. Low carbon solutions are another. The carbon material ventures, Proxxima, all these things where you're going into new markets that are at the very early stages of their growth is there's a lot of uncertainty as to when those things actually materialize into concrete opportunities.
+And we talked about that last year. And what you see happening is as that market evolves and those materials -- those opportunities begin to materialize and the schedule gets clearer and clearer, we're shifting our capital in line with that to make sure that when we do make the investments, we generate the returns that we expect of ourselves that are advantaged versus the rest of industry.
+And so I would really just caution everyone to take the changes in the CapEx that you're hearing today as a reflection of, in my mind, what we refer to as disciplined capital spending, which is not cutting CapEx, but spending it in a wise way.
+With respect to the AI piece of it, we certainly see the business opportunity there with the low carbon data centers. And as I said earlier, there is a lot of interest in what we could bring to this space, particularly in the near term. And so we're continuing to pursue that.
+My gut tells me that those opportunities will materialize and they'll become a part of our portfolio. And we'll leverage the Denbury acquisition that we made some time ago to really help accelerate decarbonization of data centers.
+And then within our own four walls here, with our centralized technology organization, which has IT and artificial intelligence and the whole technology set around digital is part of that integrated technology organization. We see huge opportunities with AI.
+And in fact, we're deploying that today. We're deploying it down whole and the work that we're doing in the Permian. We're deploying it in our operating sites around the world. Anything where we've got a lot of data, we're using AI to help make sure that we're learning as much as we can from that data and optimizing our production.
+And so we see a lot of value coming from that today and a lot more value coming in the future. I will say, we're taking maybe a slightly different approach than many of our -- many of the folks I see out there, which is we've stepped back and said, what moves the needle? Where do we want to focus this effort?
+So it is not a scatter-shot approach here. It is a very focused and material movement in the areas that will make a big difference to the corporation, and we're making great progress in that space.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          Phillip Jungwirth, BMO.
+
+--------------------------------------------------------------------------------
+Phillip Jungwirth,  Bank of Montreal - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Refining margins have been pretty supportive this year and we're a contributor to sequential earnings growth in the quarter. A lot of moving pieces here at the moment. I was just hoping you could touch on how you see the market considering OPEC unwinds, supply disruptions, resilient demand? And then also touch on the Baytown project FID-ed this quarter and just how you're positioning the business based on the longer-term outlook.
+
+--------------------------------------------------------------------------------
+Darren Woods,  Exxon Mobil Corp - Chairman of the Board, President, Chief Executive Officer    [51]
+--------------------------------------------------------------------------------
+
+          Sure. So I guess the first context to set with respect to this is the demand for petroleum products. And while ultimately that backs up into crude, I think it's really important to point out that there are two supply-demand balances at play here. One is on the crude side, which is the feed that goes into the refinery. And then there's the other on the product side. And those are two separate supply/demand balances that have an impact on refining margins.
+And so what we've seen here of late is a looser crude market, and therefore, the feed side of the equation has been looser and prices have come down, so you've got cheaper feedstock. And then on the product side of the equation, we've seen capacity coming offline and supply disruptions around the world, and that is tightening the product side of the equation, the supply/demand balance. And so we see prices going up.
+And so that has benefited the refining industry as a whole. And so for those companies that have refineries that are up and running reliably, they've added significantly to the bottom line. And frankly, for the work that we've been doing in our company, the third quarter, we saw the highest reliability that we've ever had.
+So the work that we've done with the centralized global operations organization is really paying off. Not only are we driving down, significantly driving down our maintenance costs. At the same time, we're driving our portfolio reliability to very high levels.
+On top of that, as you know, we've been very focused on really making sure that we're high-grading our refinery footprint and putting our efforts and investments in the sites that have diversified product offerings, that have advantaged conversion, and that have low cost so that they will be resilient to a number of potential supply/demand environments.
+So as a result of that, we have much, much fewer refineries today that are much, much more effective at converting crude to the products that society needs. And so we've really upgraded the footprint of the refinery. And then the last point, which you touched on is within those refineries that we say are strategic and have an advantage in the base case, how do we continue to grow that advantage?
+And it really is a function of high-grading the molecules in the refineries. We're taking the low-value products that come out of a barrel of crude and putting in the conversion capacity to make those high-value products. The most recent and significant example of that is what we did in Singapore with our CRISP project where we took the lowest value product residue and fuel oil make and converted that to some of our highest-value products with a brand new to the world, a lubricant base stocks, and additional diesel.
+And so a great example of a proprietary new-to-the-world process to make higher-value products. And in fact, the new-to-the-world products with respect to one of our base stocks. And so a great example of what we're trying to do there.
+The Baytown project is a continued step in that direction, which is find a way to high grade the molecule and the conversion that you have in the refinery. And we've got really good opportunities with that asset base. And we're pursuing them aggressively and they come with very good returns and very resilient returns.
+
+--------------------------------------------------------------------------------
+James Chapman,  Exxon Mobil Corp - Vice President - Tax, Treasurer    [52]
+--------------------------------------------------------------------------------
+
+          Okay. Phil, thank you. And thanks, everybody, for joining this call and for all the questions. We will post the transcript of this call to the Investors section of our website early next week, and we look forward to connecting on December 9 for our corporate plan update and have a good weekend.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

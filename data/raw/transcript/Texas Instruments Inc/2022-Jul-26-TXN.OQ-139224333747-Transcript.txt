@@ -1,0 +1,408 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2022 Texas Instruments Inc Earnings Call
+JULY 26, 2022 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dave Pahl
+   Texas Instruments Incorporated - Head of IR & VP
+ * Rafael R. Lizardi
+   Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Brett Danely
+   Citigroup Inc., Research Division - MD & Analyst
+ * Toshiya Hari
+   Goldman Sachs Group, Inc., Research Division - MD
+ * Vivek Arya
+   BofA Securities, Research Division - MD in Equity Research & Research Analyst
+ * Joseph Lawrence Moore
+   Morgan Stanley, Research Division - Executive Director
+ * Stacy Aaron Rasgon
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Ambrish Srivastava
+   BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst
+ * Ross Clark Seymore
+   Deutsche Bank AG, Research Division - MD
+ * Harlan Sur
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Christopher James Muse
+   Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [1]
+--------------------------------------------------------------------------------
+Welcome to Texas Instruments' second quarter 2022 earnings release conference call. Today's call is being recorded.
+I'm Dave Pahl, head of Investor Relations, and I'm joined with our Chief Financial Officer, Rafael Lizardi.
+For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through our website. A replay will be available through the web.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today as well as TI's most recent SEC filings for a more complete description.
+Today, we'll provide the following updates. First, I'll start with a quick overview of the quarter. Next, I'll provide insight into second quarter revenue results with some details of what we're seeing with respect to our customers and markets. And lastly, Rafael will cover the financial results and our guidance for the third quarter of 2022.
+Starting with a quick overview of the quarter: Revenue in the quarter was $5.2 billion, an increase of 6% sequentially and 14% year-over-year, driven by growth across markets. Analog revenue grew 15%. Embedded Processing grew 5%, and our "Other" segment grew 19% from the year-ago quarter.
+Now let me comment on the environment in the second quarter to provide some context of what we saw with our customers and markets. As we spoke about in our last earnings call, April started out weak from COVID-19 restrictions in China. As those restrictions began to ease towards the latter part of May and into June, customers began to pull product generally consistent with their prior demand forecast at the start of the quarter.
+Moving on, I'll provide some insight into our second quarter revenue by market from the year-ago quarter. First, the industrial market was up high-single digits, and the automotive market was up more than 20%. We saw weakness throughout the quarter in personal electronics, which grew low-single digits. Next, communications equipment was up about 25%. And finally, enterprise systems was up mid-teens.
+Rafael will now review profitability, capital management and our outlook.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [2]
+--------------------------------------------------------------------------------
+Thanks, Dave, and good afternoon, everyone. As Dave mentioned, second quarter revenue was $5.2 billion, up 14% from a year ago. Gross profit in the quarter was $3.6 billion, or 70% of revenue. From a year ago, gross profit margin increased 240 basis points.
+Operating expenses in the quarter were $836 million, up 2% from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.2 billion, or 17% of revenue.
+Restructuring charges were $66 million in the second quarter and are associated with the LFAB factory that we purchased in October of last year.
+Operating profit was $2.7 billion in the quarter, or 52% of revenue. Operating profit was up 23% from the year-ago quarter.
+Net income in the second quarter was $2.3 billion, or $2.45 per share.
+Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $1.8 billion in the quarter. Capital expenditures were $597 million in the quarter and $2.8 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $5.9 billion.
+In the quarter, we paid $1.1 billion in dividends and repurchased $1.2 billion of our stock. In total, we have returned $6.2 billion in the past 12 months.
+Our balance sheet remains strong with $8.4 billion of cash and short-term investments at the end of the second quarter. We retired half a billion dollars of debt in the quarter. Total debt outstanding was $7.3 billion with a weighted average coupon of 2.7%.
+Inventory dollars were up $139 million from the prior quarter to $2.2 billion. And days were 125, down two days sequentially and below desired levels.
+Accounts receivable for this quarter ended at $2.2 billion, up from $1.6 billion a year ago. This increase primarily reflects the higher proportion of shipments made near the end of the quarter, as COVID-19 restrictions were lifted in China and customers began pulling product.
+For the third quarter, we expect TI revenue in the range of $4.9 billion to $5.3 billion and earnings per share to be in the range of $2.23 to $2.51. This outlook comprehends the weaker demand we see, particularly from customers in the personal electronics market. We expect our 2022 effective tax rate to be about 14%.
+Lastly, we and our customers remain pleased with the progress of our expansion of manufacturing capacity, which was outlined in our February capital management call and will support the long-term secular trend of increased semiconductor content per system. We broke ground on the Sherman manufacturing complex in May, and work continues at RFAB2 and LFAB to prepare for production output.
+In closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio, reach of our channels, and diverse and long-lived positions. We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term.
+With that, let me turn it back to Dave.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [3]
+--------------------------------------------------------------------------------
+Thanks, Rafael. Operator, you can now open the lines for questions. (Operator Instructions) Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) We'll take our first question from Stacy Rasgon with Bernstein Research.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+My first one, I guess I wanted to ask about gross margins. So they declined -- they were very strong objectively, but they declined sequentially from Q1 to Q2 even as revenue grew. And then I know you don't guide gross margins for next quarter, but if I sort of like squint at the math, they seem to be being guided down probably a little more than revenues. I'm just wondering if something is going on whether on the cost line or on the pricing line in this environment that may be influencing gross margins at all.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [3]
+--------------------------------------------------------------------------------
+Yes, Stacy, I'm happy to address that. So first, as you pointed out, our gross margin in second quarter was about 70%. We are pleased with that performance. The fall-through on a year-on-year basis was almost 90%. I would also point out that -- and you can see this in our cash flow statement, depreciation increased sequentially by about $30 million. And that's the direct result of the investments in manufacturing capacity. On your second part of your question on a go-forward basis, as expected, depreciation is going to increase. We've talked about that in the February call. To help you, I'll tell you that for 2022, we expect depreciation to be about $1 billion for the full year. Do you have a follow-up?
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [4]
+--------------------------------------------------------------------------------
+I do. It sounds like you had a surge in demand at the end of Q2 as everything opened up. So I guess that's leading into Q3. I'm just wondering if the shape of the revenue, the linearity through Q3 kind of looks the reverse of what we saw in Q2. We had a weak start and a strong finish in Q2. Do you think we have like a stronger start and then maybe a weaker finish into Q3 just given the, I guess, the demand surge that we got going into it?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [5]
+--------------------------------------------------------------------------------
+Yes, Stacy, this last quarter, obviously, was unusual in -- because of the COVID restrictions that we had talked about, right? So those shipments were scheduled earlier in the quarter, so really were reflective of the restrictions lifting and our ability to -- and customers' ability to be able to receive that product. So you have that noise going into it. But as we said in the prepared remarks that we did see weakness in the personal electronics market. And that weakness is comprehended in the guidance in third quarter.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+We'll take our next question from Vivek Arya with Bank of America.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [7]
+--------------------------------------------------------------------------------
+First one, I think you mentioned Q3 is below seasonal because of pressure on the consumer. I'm curious what about the other segments, automotive, industrial, comm equipment, enterprise and so forth? Do you see their demand is seasonal or different than that?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [8]
+--------------------------------------------------------------------------------
+Yes, Vivek, I would say that, as you know, we don't forecast the out-quarter by market with the exception when there's something significant that's an outlier. And hence, that's why we're highlighting personal electronics. So I would just leave it at that. That's where we're seeing really most of the weakness. Do you have a follow-up?
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [9]
+--------------------------------------------------------------------------------
+And my follow-up -- yes. So my follow-up is actually on free cash flow. If I go back to calendar '20, TI's free cash flow was 38% of sales. Last year, it was 34%. Now on a trailing 12-month basis, it's just 30%. And then you're guiding down Q3 below seasonal, and Q4 and Q1 tend to be below that also. And then you mentioned that you're committed to your CapEx plans. So is this a fair representation of how you think about free cash flow margins that we should just expect free cash flow margins to be at the lower end of the target range for the near to medium term?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [10]
+--------------------------------------------------------------------------------
+I'll take that question to a few angles. First, tactically, second quarter, as we pointed out, was the revenue came in late in the quarter or a disproportionate amount of the revenue came in late. So that means that a lot of the cash was stuck in accounts receivable, as I talked about in the prepared remarks. So that's going to distort some of your trends from a cash flow standpoint a little bit.
+Beyond that, big picture, we are very excited about these investments in manufacturing and technology. They're going to continue to position us well for the long term, giving us the manufacturing platform that's needed to support revenue growth. And that will have a CapEx increase, as we have talked about in February. In fact, at that time, we talked about for the next four years, from 2022 through 2025, an average CapEx that's an average of $3.5 billion per year. For this year, it looks like we're going to be coming in at about $2.5 billion, about as expected. It could come in a little higher than that. And then obviously, since the average is $3.5 billion, you would expect the subsequent years to then come in higher than that number.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+We'll take our next question from Ross Seymore with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ross Clark Seymore,  Deutsche Bank AG, Research Division - MD    [12]
+--------------------------------------------------------------------------------
+I wanted to ask about the supply side of the equation. You have a bunch of new facilities that are coming on line. You talked about breaking ground in Sherman. But before that, you have RFAB2, and then you have LFAB. So can you just talk to us about when does that capacity come on line where it can be a tailwind to revenue? And how should we think about the depreciation from those rolling in, acknowledging, of course, that, Rafael, you just told us we're going to have $1 billion for depreciation for this year as a whole?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [13]
+--------------------------------------------------------------------------------
+Correct. Correct. So first, as I talked about earlier, we're very excited about this investment. RFAB2 and LFAB, we're going to have RFAB2 sometime in the second half of this year supporting production, and LFAB early '23. And then we -- on Sherman, we just broke ground on that a couple of months ago. And we expect the Sherman facility, the first factory there, to support revenue in 2025. So that's how you want to think about it.
+From a depreciation standpoint, I just gave you the $1 billion for this year. Beyond that, and I had already given you in February to expect about $2.5 billion of depreciation by 2025. And then from $1 billion to $2.5 billion, you can roughly approximate that linearly between the end of 2022 to 2025 to get to model how depreciation will likely come in.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [14]
+--------------------------------------------------------------------------------
+Do you have a follow-on, Ross?
+
+--------------------------------------------------------------------------------
+Ross Clark Seymore,  Deutsche Bank AG, Research Division - MD    [15]
+--------------------------------------------------------------------------------
+Yes. I guess the final topical side, the CHIPS Act and the equivalent thereof in Europe, all the numbers you just gave, I assume, are exclusive of those government policies. How should we think about TI taking advantage of those policies or not and maybe lowering some of those impacts financially on your company?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [16]
+--------------------------------------------------------------------------------
+So correct. The numbers that we have given you over the last six months or prior did not include any benefits from any of those bills. On the CHIPS Act specifically, it's great to see strong bipartisan support of U.S. semiconductor manufacturing that will boost domestic chip production and improve the industry's ability to remain competitive. These provisions will be meaningful and support our manufacturing road map. That bill hasn't passed yet. So when it passes, we'll be analyzing that. And as we assess the benefit that we'll get from that, and we should be a beneficiary from both of the grant portion and the investment tax credit portion, but as we assess that in more detail, we'll provide you updates as appropriate.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+We'll take our next question from Joe Moore, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [18]
+--------------------------------------------------------------------------------
+I guess going back to the guidance that you had given in April when you talked about kind of maybe demand to support $5 billion in Q2 and then -- but you were taking it down to $4.5 billion because of China lockdown. Can you just give us some sense of how much of that $500 million did you end up capturing? How much of this upside reflects upside in other regions, just put this in the context of that original adjustment?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [19]
+--------------------------------------------------------------------------------
+Yes. I would say, as we said in the prepared remarks, Joe, that customers were generally pulling with their original demand forecast, right? So meaning that as we looked at what was going on, we started the quarter, we were tracking lower. But as we talked about last quarter, customers weren't canceling orders. They weren't rescheduling. They still wanted to have that product. So that's really what made up the majority of that -- where we came in for the quarter. Does that help?
+
+--------------------------------------------------------------------------------
+Joseph Lawrence Moore,  Morgan Stanley, Research Division - Executive Director    [20]
+--------------------------------------------------------------------------------
+Yes, that does. And then if you could just characterize your customers' kind of mentalities around inventories at this point. Obviously, we've been dealing with hot spots and tight conditions for a while. Do you feel like your customers in industrial and automotive markets are looking to build buffer stock inventory so that this is -- but again, just kind of how are people thinking about that?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [21]
+--------------------------------------------------------------------------------
+Yes. I think many have reported, and we can see in the filings that our customers have had that there's clear signs of inventory being built over the last several quarters. And there is discussions on how much inventory do they hold more permanently and those types of things. We'll see how that behavior changes over time. I think there are some places where that probably will stick and probably some places where it won't. But I think the most important thing when we look at it -- because we won't manage our customers' inventory, but we can manage what we do. And we've long believed that owning and controlling our inventory is really a strategic advantage.
+So you've seen us take those actions over time. We finished the quarter with just a little over $2 billion of inventory. So whenever things do weaken, we'll take that time to replenish inventories that will keep lead times stable and low. And those are the best things that we can control and what we'll do as we move through the next few quarters.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+We'll take our next question from Chris Danely with Citi.
+
+--------------------------------------------------------------------------------
+Christopher Brett Danely,  Citigroup Inc., Research Division - MD & Analyst    [23]
+--------------------------------------------------------------------------------
+So with the weakness in PE but also the strength in auto and industrial, are you or can you take some of that capacity from the weaker parts and allocate it towards the stronger parts? And then, if so, how long does that take?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [24]
+--------------------------------------------------------------------------------
+Chris, we do that constantly. At the highest level, yes. We -- the capacity is relatively fungible. There's always some nooks and crannies that are a little different for each technology or each particular part. So -- but at the highest level, yes, we have been adjusting our capacity over the last two months, as things have been tight, to deploy that to the best uses and support our long-term strategic road map.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [25]
+--------------------------------------------------------------------------------
+Do you have a follow-up?
+
+--------------------------------------------------------------------------------
+Christopher Brett Danely,  Citigroup Inc., Research Division - MD & Analyst    [26]
+--------------------------------------------------------------------------------
+Great. Yes. For my follow-up, sort of going along with that line of questioning, you guys have talked about shortages and extended lead times all year. Are we seeing any improvement? Or do you anticipate any improvement there before the end of the year?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [27]
+--------------------------------------------------------------------------------
+Yes. I'll comment, and Rafael, if you want to jump in, please do. Our lead times haven't changed much from last quarter. I think as we look in the out-quarters, it really depends on how demand begins to shape up. We will have capacity coming on line, as we've talked about. But in any given quarter, sequentially, it's not going to make a huge difference. But we lap a year or several quarters, and it really will make a significant difference in the capacity that we've got available.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [28]
+--------------------------------------------------------------------------------
+I agree, it's all about increasing our supply. That's what we can control, right? So we'll be increasing that with RFAB2 coming on line soon, LFAB shortly after that, and then in 2025, the first of the four factories in Sherman. So that will increase our ability to supply the market.
+And by the way, as you can see, we just put out a $5.2 billion of revenue and grew inventory again for, I believe, the fourth consecutive quarter. So that gives you also a sense of the increased ability that we're developing to supply the market.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [29]
+--------------------------------------------------------------------------------
+Okay. That's a good point. Thank you, Chris.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+We'll take our next question from Toshiya Hari with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [31]
+--------------------------------------------------------------------------------
+I had two as well. First, on your pricing strategy going forward, just curious with RFAB2 ramping and LFAB ramping over the next 12 to 18 months and your peers much more supply constrained than you are, and they're all sort of facing inflationary pressures from their foundry partners, is there an opportunity for you to be a little bit more aggressive than historical trends and for you to pursue market share? Or would you look to follow suit and raise pricing along with your peers going forward?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [32]
+--------------------------------------------------------------------------------
+Yes, Toshiya, thanks for that question. I would say, as you've seen us behave in the past, our approach to pricing hasn't changed. Those pricing decisions are made at the product line level. We've got about 65 different product lines. So they're close to customers, close to the market, understand what their peers in the industry are doing. And to your point, many of our peers in the market that are outsourced, they do have to take action when they see pricing increases from their suppliers. So I think that just emphasizes the competitive advantage we have in manufacturing and technology and continues to highlight that and part of the reason why we're continuing to invest to strengthen that competitive advantage. Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [33]
+--------------------------------------------------------------------------------
+I do. So on OpEx, I think over the past 12 months, your OpEx budget is barely up. I think it's up 1%, 1% plus in what's been a very inflationary environment. Just curious what the offsets have been over the past 12 months? And how should we think about sustainability in your model, OpEx being up kind of low singles while revenue growing strong double digits?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [34]
+--------------------------------------------------------------------------------
+Yes. No, happy to address that. We are pleased with how we're allocating our investments to R&D and SG&A to the best opportunities. And that is primarily industrial and automotive, as we have talked about, also initiatives such as TI.com that ultimately strengthen our competitive advantages and maximize our ability to grow free cash flow per share over the long term.
+On the last part of your question, on an absolute basis, I would expect to increase investments over the next several years as we continue to see strong market opportunities.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+We'll take our next question from Harlan Sur with JPMorgan.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan Chase & Co, Research Division - Senior Analyst    [36]
+--------------------------------------------------------------------------------
+On finished goods inventory, which is where your direct customer consignment inventories resides, they're still 30% below pre-pandemic levels. They're down 3% versus last year. They're down slightly sequentially. Is it fair to assume that this is a reflection that your direct customers continue to pull at a very strong rate, just given their demand profiles? And can you guys get to your target inventory days exiting this year, especially with RFAB2 ramping?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [37]
+--------------------------------------------------------------------------------
+Yes. What I would tell you the -- given our manufacturing process, the parts that start as WIP, then they go to chips, then they go to finished goods. Overall inventory has been growing as I pointed out over the last four quarters, this last quarter, $140 million. But as you said, finished goods is still lean. Our goal is for inventory to continue to grow. We have talked about a target of 130 to 190 days. And as I have said before, I would not be uncomfortable to be at the high end of that range because ultimately, that inventory gives us just tremendous optionality, puts us in a really good position to support customers. And just given our business model, the -- lessens -- risk on that inventory is nil because that inventory goes to support products that sell to many, many customers and have very long lives. So we feel comfortable increasing inventory for that reason.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [38]
+--------------------------------------------------------------------------------
+Yes. And let me just add that, Harlan, part of your question was that is that a reflection of direct customers. I just remind that we have 70% -- or actually last year around 70% of our revenue is direct. That includes revenue going through TI.com, which we still believe is going to be a significant strategic asset for us as we move forward.
+And what goes through distribution, to my prior comment, we long believe that owning and controlling that inventory is important. We're probably running two weeks or less than that inside of that. So when we ship revenue, because we're owning and controlling that inventory, it really is reflective of what customers want inside of that quarter. So do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan Chase & Co, Research Division - Senior Analyst    [39]
+--------------------------------------------------------------------------------
+Yes. So I know it's ship-to location, but I wanted to know what the year-over-year profiles look like for the different geographies.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [40]
+--------------------------------------------------------------------------------
+Yes. So inside of the quarter compared with a year ago, all the regions were up. That's the year-on-year and sequentially, they were all up as well. So we did see those trends in both the year-on-year and sequentially. So thank you, Harlan.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+We'll take our next question from C.J. Muse with Evercore.
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [42]
+--------------------------------------------------------------------------------
+I guess first question, revisiting an earlier question around the $560 million revenue beat versus the midpoint of your guide for June and the $500 million haircut that you took when you initially guided. So curious, given that you started to see recovery in May, is it safe to say that maybe you went above and beyond kind of the run rate, and therefore, you recaptured all of that $500 million? Or was it just a portion of that? And then as part of that, where did you see upside relative to where you guided before? Was that isolated to industrial or auto or any particular end market?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [43]
+--------------------------------------------------------------------------------
+Yes. C.J., can you help me with the first part of your question? I'm not sure I quite got it. Could you just...
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [44]
+--------------------------------------------------------------------------------
+So if I look at the midpoint of your guidance versus what you actually did, it was about $560 million better. And in your initial guidance, you told us a $500 million China uncertainty haircut. So really trying to understand how that $560 million came in better. Was it all China? Or were there other drivers within that?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [45]
+--------------------------------------------------------------------------------
+Yes. I would say that as we talked about, right, that the haircut was so to speak, using that term, was primarily due to the COVID restrictions. So yes, as that -- as they loosened up, again, customers were pulling to those original forecasts. So we really didn't see anything different than what we would have expected at the beginning of the quarter with the exception of the weakness that we talked about inside of personal electronics. Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Christopher James Muse,  Evercore ISI Institutional Equities, Research Division - Senior MD, Head of Global Semiconductor Research & Senior Equity Research Analyst    [46]
+--------------------------------------------------------------------------------
+Yes, please. On the depreciation guide for the year, roughly up 35% half-on-half. And considering for RFAB2, you're going to start to depreciate the equipment when you actually qualify the wafers and begin revenueing. Is that kind of a ballpark kind of estimate, and maybe it comes in more like $925, $950 or just trying to understand the moving parts there, given that it's qualification of wafers, revenue of wafers, which sounds like it's really going to be later Q4 that really starts.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [47]
+--------------------------------------------------------------------------------
+Yes, it is an estimate, and it could come in a little lower or a little higher. But right now, I would say $1 billion is a fair estimate. And as I said earlier, just to go beyond that, you can think about it roughly linear from that point in '22 to $2.5 billion of depreciation in 2025. And then you can easily get a good model for '23 and '24.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+We'll take our last question from Ambrish Srivastava with BMO Securities.
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [49]
+--------------------------------------------------------------------------------
+I had a question, David and Rafael, I had a question on pricing. Industry pricing has been up high-single digit, low-double last couple of quarters. Did the second quarter see a similar benefit from pricing, Dave? I know last quarter, you had acknowledged that you did see the benefit from pricing. So I was wondering what was the impact? Do you expect that to continue over the next couple of quarters?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [50]
+--------------------------------------------------------------------------------
+Yes. We did see a benefit in second quarter, Ambrish. And again, our pricing practices haven't changed. So we'll continue to price aggressively and to ensure that we're gaining share. And so no changes from that standpoint. So we'll just see what happens in the marketplace.
+
+--------------------------------------------------------------------------------
+Ambrish Srivastava,  BMO Capital Markets Equity Research - MD of Semiconductor Research & Senior Research Analyst    [51]
+--------------------------------------------------------------------------------
+Dave, just to -- sorry, just a clarification. As imperfect the SIA data is, is it a reasonable proxy to use to ascertain what pricing advantage TI got from whatever the SIA data spits out?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [52]
+--------------------------------------------------------------------------------
+Yes. So we're just cautious to give a specific number as we look at it. We've got -- if you just took units and divided by revenue, that would give you an average price, which is what SIA is doing. We've got customers that are buying through TI.com. They're enjoying the convenience of having product that's immediately available. And in some regions, we're doing shipments more than once a day to the docks of those customers. So there's a convenience that they're enjoying. They pay a higher price for that. But -- so you've got that amount mixing in. So there's other factors besides that. There's mix in the types of products that we ship. We have products that we sell for a couple of pennies and products that we sell for thousands of dollars each. And depending on either end of that spectrum, it can move your ASP or your average selling price around. But that said, an environment like we've seen over the last several quarters just in price increases that customers for like-on-like product that we have seen that benefit as well. I'm sorry, I can't be more specific.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [53]
+--------------------------------------------------------------------------------
+So let me wrap up by reiterating what we have said previously. At our core, we're engineers, and technology is the foundation of our company. But ultimately, our objective and the best metric to measure progress and generate long-term value for owners is the growth of free cash flow per share. While we strive to achieve our objective, we will continue to pursue our three ambitions. We will act like owners who will own the company for decades. We will adapt and succeed in a world that's ever changing. And we will be a company that we're personally proud to be a part of and would want as our neighbors. When we're successful, our employees, customers, communities and owners all benefit.
+Thank you, and have a good evening.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this concludes today's conference. We appreciate your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

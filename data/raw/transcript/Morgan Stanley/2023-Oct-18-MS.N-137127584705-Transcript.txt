@@ -1,0 +1,464 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2023 Morgan Stanley Earnings Call
+OCTOBER 18, 2023 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sharon Yeshaya
+   Morgan Stanley - Executive VP & CFO
+ * James Patrick Gorman
+   Morgan Stanley - Chairman & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Glenn Paul Schorr
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Research Analyst
+ * Brennan Hawken
+   UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials
+ * Ebrahim Huseini Poonawala
+   BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research
+ * Devin Patrick Ryan
+   JMP Securities LLC, Research Division - MD, Director of Financial Technology Research & Equity Research Analyst
+ * Michael Lawrence Mayo
+   Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+ * Steven Joseph Chubak
+   Wolfe Research, LLC - Director of Equity Research
+ * Daniel Thomas Fannon
+   Jefferies LLC, Research Division - Senior Equity Research Analyst
+ * Christian Bolu
+   Autonomous Research US LP - Senior Analyst of US Capital Markets
+ * Gerard Sean Cassidy
+   RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+ * James Francis Mitchell
+   Seaport Research Partners - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning. Welcome to Morgan Stanley's Third Quarter 2023 Earnings Call. On behalf of Morgan Stanley, I will begin the call with the following information and disclaimers.
+This call is being recorded. During today's presentation, we will refer to our earnings release and financial supplement, copies of which are available at morganstanley.com. Today's presentation may include forward-looking statements that are subject to risks and uncertainties that may cause actual results to differ materially. Morgan Stanley does not undertake to update the forward-looking statements in this discussion. Please refer to our notices regarding forward-looking statements and non-GAAP measures that appear in the earnings release. This presentation may not be duplicated or reproduced without our consent.
+I will now turn the call over to Chairman and Chief Executive Officer, James Gorman.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning, everyone. Thanks all for joining us. As anticipated, the market environment, in aggregate, remain mixed, continuing a pattern we've seen over the past several quarters. Notwithstanding the net result for Morgan Stanley was we generated $13 billion -- a little over $13 billion in revenues, $2.3 billion in net income and ROTCE of 13.5%.
+Our concerns around the tight employment market, high commodity prices, inflationary pressures that may impact Fed policy provide additional challenges later in the quarter. But we are seeing increasing evidence of M&A and underwriting calendars that are building, and while we expect momentum to continue this year, given the fourth quarter has some seasonal considerations, we expect most of the activity to materialize in 2024.
+Meanwhile, it's our job to control what we can control. Firstly, we successfully completed the E*TRADE integration this quarter. That was a massive undertaking, and the expenses relating to that have been bleeding through the P&L for a couple of years. It involved just migrating 14 million accounts onto our platform. And honestly, it went incredibly well, really a seamless performance by the team. This conversion allows us to further execute on our strategy, building our revenue synergies across channels and attracting clients to our best-in-class advice offering.
+Secondly, on the capital front, we bought back $1.5 billion in stock. We averaged a nearly 4% dividend yield over the quarter and, at the same time, delivered a CET1 ratio of 15.5%, which is 260 basis points over our most recent regulatory requirement. We clearly have a significant capital buffer.
+Also, you saw the full details of the initial Basel III Endgame proposal. As you all know, this is a proposal, not the final regulation. I'm going to repeat that. It's a proposal. There is an enormous amount of energy being spent, conversations being had across industry groups and agency Board members, and I've been deeply involved myself along with Sharon Yeshaya. And we've been told many times that the Federal Reserve strongly welcomes comments on this proposal. Given this, I anticipate that the agencies will be open to considering thoughtful changes before it's adopted as a final rule. But let me be crystal clear, because of the buffers we have built, even if this proposal were implemented today as written, we have adequate capital to meet the ultimate requirement.
+Needless to say, there are many years between now and then. In the quarter, Wealth Management generated net new assets of $36 billion. That's obviously below recent quarters. It's consistent with what I've been saying for a long time. These numbers will bounce around, and in any quarterly period, there are always idiosyncratic things. This year, we've had 2 quarters where we had some surprise on the upside. And in aggregate for the year, we're totaling net new assets of $235 billion year-to-date. Our annualized growth rate is at the high end of the 5% to 7% range that we've been looking at, and it's consistent. In fact, it's spot on with our 3-year target of $1 trillion for net new money.
+Overall, this firm is in excellent shape, notwithstanding the geopolitical and market turmoil that we find ourselves in. My hope and expectation is to hand over Morgan Stanley with as clean a slate as possible and deal with a few of our outstanding issues in the next couple of months. I'm very excited about the future of this firm, its leadership, its strategy and its culture.
+And I'll now turn it over to Sharon, who can discuss the quarter in greater detail. And then together, as always, we'll take your questions. Thank you.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Thank you, and good morning. The firm produced revenues of $13.3 billion in the third quarter. Our EPS was $1.38, and our ROTCE was 13.5%. Results in the third quarter were solid against a mixed market backdrop. The firm's year-to-date efficiency ratio was 75%. Together, severance and DCP impacted the year-to-date efficiency ratio by nearly 150 basis points. As we invest for growth, our integration efforts have remained a priority. Integration-related expenses were $68 million in the third quarter, and we anticipate a similar amount in the fourth quarter as previously communicated.
+Now to the businesses. Institutional Securities revenues were $5.7 billion, declining 3% versus the prior year. Equity and Fixed Income results were in line with long-term historical averages. Investment Banking revenues remain depressed on lower volumes. However, leading indicators across advisory and underwriting progressed positively, evidenced by a notable increase of Morgan Stanley's announced volumes in the third quarter on a year-over-year basis.
+Investment Banking revenues decreased to $938 million. The change to the previous year was driven by lower results in advisory and debt underwriting. Advisory revenues of $449 million reflected a decline in completed transactions due to lower announced volumes in prior periods. Despite the weaker quarterly results, we continue to see broad sector diversification of our completed deals, and the backlog reflects a similar pattern.
+Equity underwriting revenues were $237 million. Overall, activity remained muted relative to historical averages. While increased confidence supported early September issuances, a hawkish tone from the Federal Reserve and the resulting moves in interest rates serve as a reminder that this market remains window-driven.
+Fixed income underwriting revenues were $252 million, down versus the prior year, primarily reflecting lower noninvestment grade events. We are encouraged by the growing client dialogue and bake-off activity across sectors and geographies. The pickup in our announced M&A volumes in the third quarter speak to the trends we've observed at the end of the last quarter, but the landscape continues to evolve.
+As we look ahead, corporate confidence will largely be determined by the overall health of the consumer and the stability of input costs. While risks remain, including geopolitical threats, the underlying trends suggest activity is building, and there is a desire among clients to pursue their long-term strategic objectives.
+Equity revenues were $2.5 billion. The business performed in line with historical averages, with relative strength in Europe and Asia. Prime Brokerage revenues were solid. Client balances were modestly higher compared to last year. The results reflect narrower spreads and the geographic mix of those balances. Cash revenues declined versus the prior year on lower overall global volumes. Derivative results increased year-over-year, reflecting higher client activity, with particular strength in Europe.
+Fixed Income revenues were $1.9 billion. Micro results increased versus the prior year, supported by strength in securitized products, both in agency and nonagency trading. Macro revenues decreased versus last year's elevated results, with lower revenues in rates and foreign exchange. Results reflect lower client conviction, particularly around the future of Central Bank policy. Commodity revenues increased year-over-year on the back of a constructive trading environment, particularly for oil.
+Other revenues of $277 million improved versus last year, driven by lower mark-to-market losses on corporate loans, net of loan hedges and higher net interest income and fees.
+Turning to ISG lending and provision. The allowance for credit losses and ISG loans and lending commitments increased slightly to $1.4 billion. In the quarter, ISG provisions were $93 million. The increase was driven by a continued negative outlook for the commercial and real estate sector. Net charge-offs were $39 million, primarily related to one commercial real estate loan in the office sector.
+Turning to Wealth Management. Revenues of $6.4 billion were strong, an increase from the prior year. The growth of asset management revenues more than offset the cyclical declines in net interest income, underscoring their durability. As designed, our asset-led strategy drives steady fee-based flows that support asset management revenues. With this in mind, we remain focused on asset migration into our adviser-led channel. This quarter, our long-term strategy took a critical step forward as we completed the last major milestone of our E*TRADE integration, successfully converting nearly $900 billion of client AUM onto the Morgan Stanley platform. This will continue to enhance our ability to introduce clients and advisers and seamlessly transition them into advice-based relationships.
+Moving on to the business metrics in the third quarter. Pretax profit was $1.7 billion, and the PBT margin was 26.7%. Integration expenses as well as DCP negatively impacted the margin by approximately 150 basis points. Net new assets were $36 billion, bringing year-to-date NNA to $235 billion, which represents over 7% annualized growth of beginning period assets. Net new assets in the quarter were supported by new clients and positive net recruiting into the adviser-led channel.
+The multiyear buildup of assets provide a foundational pipeline into our adviser-led channel, evidenced by fee-based flows of $22.5 billion in the third quarter alone. Asset management revenues of $3.6 billion increased 7% year-over-year. Higher average assets and the impact of cumulative positive fee-based flows over the past year drove the increase. Transactional revenues, excluding DCP, were $820 million, up 7% year-over-year. Results reflect opportunistic deployment of new capital by retail clients into alternatives, particularly into private equity and private credit. Bank lending balances were roughly flat versus the prior quarter.
+Growth in mortgages and tailored lending offset paydowns and securities-based lending. Total deposits of $340 billion remained stable compared to the prior quarter. Still, the deposit mix has shifted as clients continue to allocate rate-sensitive cash to higher-yielding cash alternatives available on the platform, including our expanded savings offering. In addition, the quarter saw consistent positive monthly inflows into equity markets from sweep balances, ongoing evidence of the improvement of the retail client sentiment.
+Net interest income was $2 billion. The sequential decline reflects a continued shift in the deposit mix. Looking towards the rest of this year based on where we exited the quarter, we expect NII to trend lower. The magnitude will be a function of our deposit mix and the trajectory of rates.
+Wealth Management business model is focused on steady asset aggregation, delivering strong solutions and advice to clients, while growing durable fees and expanding margin through the cycle. We are continuing to invest in our industry-leading position and the sustainability of our long-term growth. As the backdrop recovers, advisers remain well positioned to capture greater asset opportunity supported by our multichannel model that was built to attract new client relationships.
+Turning to Investment Management. Revenues of $1.3 billion increased 14% compared to the prior year, supported by higher asset management revenues. Total AUM ended at $1.4 trillion. Long-term net outflows of approximately $7 billion were driven predominantly by headwinds to our MSIM active equity growth strategies, which continue to see redemptions consistent with the industry. Excluding the segment's outflows, year-to-date long-term flows across the franchise were slightly positive. Within alternatives and solutions, we continue to see demand for Parametric customized portfolios across both equity and fixed income strategies, a partial offset to the headwinds of the quarter.
+Liquidity and overlay services had net flows of $5.7 billion, driven by demand for Parametric institutional portfolio overlay solutions and our liquidity strategies. Specific to Parametric and across the entire franchise, overlay and long-term net flows in the quarter were almost $7 billion, underscoring strong trends in this business.
+Asset management and related fees were $1.3 billion, up 3% year-over-year on higher average AUM. Performance-based income and other revenues were $24 million, supported by the diversification of our balance sheet-light platform. Results were driven by gains in U.S. private equity, offset by weakness in Asia private equity and real estate.
+Our strategic focus on secular growth areas and the expansion of our global footprint remains in place. Ongoing investments in our businesses, including our market-leading Parametric franchise as well as our continued growth in innovation in private markets position us well to best serve our clients.
+Turning to the balance sheet. Our CET1 ratio stands at 15.5%, roughly flat versus last quarter. Standardized RWAs declined sequentially to $445 billion, reflecting our ongoing prudent resource management and market movements at the end of the quarter.
+We continue to deliver on our commitment to return capital to our shareholders, buying back $1.5 billion of common stock during the quarter. Taken in the context of the mixed environment, we are pleased with the firm's resiliency and our competitive positioning. As clients gain more conviction, we expect our institutional business to capture more opportunities, particularly in Investment Banking. This increased client conviction will also further support asset growth in Wealth and Investment Management. We will continue to press our advantages and execute on our growth strategies all while prudently managing our capital profile.
+With that, we will now open the line up to questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) We'll go first to Christian Bolu with Autonomous Research.
+
+--------------------------------------------------------------------------------
+Christian Bolu,  Autonomous Research US LP - Senior Analyst of US Capital Markets    [2]
+--------------------------------------------------------------------------------
+I wanted to just touch on Wealth Management, a bit of a longer-term question here. As you mentioned, you've enjoyed really strong organic growth in that segment over the last few years, but it doesn't appear to be translating to revenue growth. If I look at the Wealth Management revenues, excluding NII, it hasn't really grown in 3 years despite gathering significant amount of assets. So curious how you're thinking about the flow-through from AUM or asset growth to revenues and then maybe more broadly, how you're thinking about the unit economics of your asset gathering strategy.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Sure. Actually, I think that interestingly enough, Christian, I'm pretty impressed with the resiliency that we've seen in the business. This is literally the explanation of the funnel that we've talked about. If you look back over the course of the last year alone, $260 billion -- or $235 billion, rather, of assets that we've captured. Then look at the fee-based flows, right? We continue to see increased fee-based flows. This past year, if you exclude the asset acquisitions that we had over the last couple of years, we are basically at some of the historical highs of seeing fee-based growth as we move forward.
+You're looking at times since COVID, where we obviously had very high retail engagement, and you've been able to offset -- even with a decline in NII, offset those growth to asset-based asset management revenues as you move forward. It's that, that we are trying to grow. We're trying to continue to grow our asset management fees over time and make sure that we have the right solutions in place to offer our clients.
+Now let's take that forward. We have this mixed environment. You have 23% of our retail client assets sitting in cash. That is 5% higher, right, from the 18% on historical averages. We've begun to see retail investors put their cash into markets. The last 4 months consecutively, we've seen that movement into the market. This quarter alone, we began to see alternative growth in the new products, the growth in transactional revenues. We haven't seen that since the first quarter of 2022 before you started this rate hike cycle.
+So in my mind, actually, the strategy is working pretty darn well, especially if you think about how we've been able to aggregate assets, migrate them into fee-based flows, look at transactional and see that grow and see growth in these new products and deliver them to our clients, all while these clients have dry powder to invest as these markets turn.
+
+--------------------------------------------------------------------------------
+Christian Bolu,  Autonomous Research US LP - Senior Analyst of US Capital Markets    [4]
+--------------------------------------------------------------------------------
+Okay. Maybe my follow-up is just thinking about your ROTCE targets over time of 20%. The quarter is fine. 14% is nothing to sniff that, but it is some ways off that 20%. How should we think about the bridge from here? I know you've mentioned Investment Banking, but it's like a fairly small part of your business. So what's the bridge of 20%? How much of it is macro? How much of it is self-help? And so what is macro, What sort of operating backdrop are you looking for?
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [5]
+--------------------------------------------------------------------------------
+So Christian, maybe I take that given Sharon just pummeled you, and I want to give you a little bit of a break here. By the way, the only thing I'd add to what Sharon said is when people have a choice of making 4%, 5% return by doing nothing, they're not going to be trading in the market. So the actual secondary lines in the revenues are the lowest I've seen for years in the last couple of years. As rates do eventually come down, they will come down. I don't think next year, but they'll come down after that. You'll see more activity in that regard. And actually, you'll see more money go up in the sweep.
+So interestingly, there's kind of an optimal point where rates are attractive for investors but not so high they keep them out of the market and not so high that there isn't money kept on sweep. So very different from the checking account phenomena you said some of the commercial banks.
+But back to the 20%, I mean, I'd just say, as you know, we actually -- we were at 20%. So it's not -- this is not a -- this would not be a remarkable achievement. It's been like when I first came to Morgan Stanley and people asking if the Wealth Management business could generate, in those days, 15% margins. And I said, well, there are 2 people already doing it. So it's pretty obvious it can be done. So we've done it, and nothing structurally has changed. If anything, the firm's got stronger.
+We've been investing a lot. I mean this E*TRADE deal was -- it was a lot of investment to get that integration done. We decided to keep investing through the cycle on the funnel and wealth because we think over the next 10 years, that's going to pay monster dividends. The integration across all the Eaton Vance platforms, they were never really integrated as one platform across the different -- Atlanta, Calvert, Parametric and Eaton Vance are now sorting through all of that, which Dan has done a great job of doing.
+And then frankly, banking has been really weak. I mean under $1 billion is evidence of a very weak calendar and very weak M&A, and the pipeline we saw this quarter was really strong. So I don't think the announcements  translate into revenues in Q4, but they will in Q1, Q2 next year. So just on the math, I think if we're running about $2.2 billion, we'd have to generate about another $700 million net a quarter. Just on the expense management, we could do things on expenses easily more than we've done, and you get a couple of hundred million from that. And then on the revenue side, as banking recovers some of the transaction stuff we just talked about and Sharon pointed out of these assets moving into annuitized product. And then I think FID will move up from this point. You pretty easily get to the 20%.
+So I'm -- I appreciate the question, and I'm not concerned about that long-term outlook. I think it's -- as it has happened and will happen again and frankly won't be that long.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+We'll go next to Glenn Schorr with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Glenn Paul Schorr,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+So first one on Wealth Management NII. I mean the trends, I think, are in the range of what's been happening across the industry, so not overly surprising. But I'm curious if you could break down even qualitatively, how much of that sweep movement is coming in historical Morgan Stanley versus E*TRADE? I'm just trying to see what type of client is moving.
+And then to go back, you piqued my interest, James, in the comment you just made about not next year, but maybe after that. What conditions do you think we need to see for Wealth Management NII to stable and grow?
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+So let's take the first question, which is the 2 different types of deposit mix. You're right. From a -- if you think about the self-directed client versus an advisory-based client that we've had in the historical Wealth Management franchise, one has proven to be somewhat of a stickier deposit base than you would see on the Wealth Management side. And I think that on the -- what I would say is the traditional Wealth Management side that we had historically had. So that does provide you with a sense of what's going on in terms of which client base is seeing that.
+On the potential growth of NII going forward, again, that's part of the same asset gathering strategy. Some proportion of these assets as they come over, be that into the self-directed or the advice-based relationship, will be held in some sort of transactional cash. So that will be supportive over time of NII to some degree from a deposit perspective. But that also provides us with lending capabilities and opportunities.
+As you know, Glenn, we've seen tremendous, what we would call, sort of household penetration and being able to offer new lending products to our various client bases, obviously, with the SBL product. But we continue to see mortgages and growth in mortgages even in this rate environment for new purchases and homes. As we better understand our client base, we're able to do that more. And actually, bringing together this E*TRADE acquisition, putting everything on the same portfolio and the same franchise from a technology perspective is foundational in being able to integrate all of those bank relationships and what we used to call the bank rails that E*TRADE had for a broader wealth offering that should also help support NII as we look into the future.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [9]
+--------------------------------------------------------------------------------
+I think -- I don't know on the second bit. I just think there's an optimal point. I mean we went from 0 rates to 5% in effectively the fastest period since the '60s, early '70s. Fastest rate increase. What's remarkable is we haven't had a recession by the way, but -- and I personally don't think we're going to. But with that, I mean, if you're an adviser and you've got a client sitting a lot of cash earning 0, I would hope you're telling them to put it in treasuries or something. So that's exactly what's happened.
+At around 2% to 3%, it becomes a different kind of discussion. So I think there's a trigger point. And you're seeing it across, as you said, the whole industry, and that's why you're seeing a different behavior set for people in checking accounts. So they haven't got to buy. The money is sitting in the checking account. If they're not paying attention, they're still getting, I don't know, 20 basis points or something.
+So as rates come down, the total cash we have in the book, which is 23%, will be coming down anyway because it's just -- that's an abnormality related to where rates are right now. As rates come down over the next couple of years, you're actually going to see people much less price sensitive on what they're generating and a return on the cash and just using it as a liquidity account to manage investments going in and out.
+So I think in some ways, we overachieved relative to our particular business mix. So I'm quite encouraged about the future because of that. And think in fact, you're hearing some of that language coming out of the banks where they said -- I forget what word some of the other CEOs said, but it was effectively the same. They've overachieved in that it's sitting in checking accounts, and they're making enormous amount of money on that, but that's unsustainable. We've overachieved, and the rates are so high, everybody wanted to be in cash earning, not cash sitting dormant.
+I don't know if that makes sense to you, Glenn. By the way, I have to say, I did love your comment about green shoots, somebody forgot to water them. I'd give you that one.
+
+--------------------------------------------------------------------------------
+Glenn Paul Schorr,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Research Analyst    [10]
+--------------------------------------------------------------------------------
+That's better than a pummel. One quick one. Maybe I'll get the pummel on this one. I know it's the Board decision, but the longer the CEO transition announcement takes place, is there any time frame where it starts to put more strain on the organization or become a distraction as every reporter in the world is writing on it every day?
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [11]
+--------------------------------------------------------------------------------
+Yes, about 3 years from now. No, wait listen, Glenn, come on. We said I will not be CEO. I said at the annual meeting, I wouldn't be CEO within a year. And I said that for a very simple reason that people didn't believe that I was going to leave because apparently bank CEOs don't. And I said I would. And when I say I'm going to do something, I'm definitely going to do it. I would leave at the earliest possible moment that the Board feels comfortable making that decision, and I've made that very clear to them. I think they've done a terrific job.
+Now that you've opened up the question, I'll answer it more broadly. They've done a terrific job, Dennis Nally and the Succession Comp Committee; and Tom Glocer, Lead Director on the Board. All of the directors engaged, really thorough process. And we're -- I don't want to give you an exact time because that's sort of a spoiler. I already did that apparently talking about Logan Roy once. But we're -- shall I say, we're well into it. And I do believe there are diminishing returns at some point in time. We're not there. The team is doing great. The businesses are moving forward.
+But yes, I want to get out of the seat and give somebody else a chance to see what they can do with it. And I think there's a lot of things. The growth opportunities in this company, now that we've set it up with so many planks that are solid, you have an abundance of choices. And just look at what we've done with MUFG in Japan, the so-called 2.0 that Ted has been driving with Hiro, the CEO of MUFG, of taking our Japanese business with them to a completely different level. And I think there's a lot of things we can do with them in Japan strategically taking advantage of the turnaround the Japanese economy. That's just one example.
+So yes, we're getting close. I'm certainly not a barrier to it. I'm -- I don't know if the word is enabler, but I'd like to get on with it, and I'll help in the transition as Executive Chairman for a bit, and this place will go forth and thrive.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+The next to Ebrahim Poonawala with Bank of America.
+
+--------------------------------------------------------------------------------
+Ebrahim Huseini Poonawala,  BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research    [13]
+--------------------------------------------------------------------------------
+I guess just wanted to follow up on something you said, James, around the optimal level of rates, and you talked about NII. But if the Fed were to hike a few more times or if rates stay at these levels for longer, is there an argument to be made that just structurally the business will be challenged until we get to the other side of the rate cycle, given just client assets probably remain in lower-spread products? Just talk to us in terms of how you think about if rates don't get cut, is that a headwind to the business until we get to the other side?
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [14]
+--------------------------------------------------------------------------------
+No, I definitely don't think there's structural issue. I mean, my goodness, the business is generating, I'm talking about wealth, 26% margins with the various costs in there. And I think it's 28%, Sharon, without them. If you told me a few years ago, I mean, I thought we'd get to 28%, but pretty much nobody else in the world did. So no, there's no structural issue here or there. I'm just saying as -- and I do think that the risk of making a prediction, I suspect the Fed will do one more rate increase at some -- by the end of the year, I guess, November, but that's likely to be it, and I do not expect the Fed to cut rates in 2024, but I do expect going forward after that.
+So given that, we're talking about 12 months. The cash has largely moved. That's moved on the margin. You're going to have a little bit of NII impact over the next 12 months, but that's really not the real game. The real game is go forward after that. So -- and the minute you see the Fed indicate they've stopped raising rates, the M&A and underwriting calendar will explode because there is enormous pent-up activity. But Boards of Directors are sitting there saying, until we understand the cost of financing, it is very difficult to pull the trigger on some of these capital transactions.
+So I think you're heading into -- and unfortunately, I'm not going to be around to enjoy it, but you're heading into a really good patch here. And I don't know if it's 6 months out or 9 months out or it starts 3 months out, but this thing is going to start turning, and then rates will be the kick when they start coming down. And as I said, people will be less focused on cash and accounts and more focused on investment opportunities. That's when you're going to see the double kicker.
+
+--------------------------------------------------------------------------------
+Ebrahim Huseini Poonawala,  BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research    [15]
+--------------------------------------------------------------------------------
+Got it. I guess a good time for you to hand off. Your successor will be thanking you for that.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [16]
+--------------------------------------------------------------------------------
+I hope so.
+
+--------------------------------------------------------------------------------
+Ebrahim Huseini Poonawala,  BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research    [17]
+--------------------------------------------------------------------------------
+But question, I think Sharon, you mentioned about focus on secular growth, I think, international expansion. E*TRADE's done now. I'm assuming you're not doing any big M&A anytime soon. Just talk to us about international expansion, a lot of disruption on Wealth Management, private banking globally, what the opportunities are, where we are investing. Would love some color around that.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [18]
+--------------------------------------------------------------------------------
+Investing more broadly internationally, James mentioned the deals or what we've been working on, I should say, MUFG 2.0 between research and also our Sales & Trading side, we continue to look for opportunities. We have Arun Kohli, who's been working on our India franchise. I think that there are clearly opportunities there. Within India, we see a lot of opportunities throughout Asia. We've discussed different opportunities also all across the international franchise in Europe.
+So when you look at -- think about Investment Management, that was one of the key points that we had talked about potential distribution of investment management, Eaton Vance products all over Europe. We've seen that. We continue to see products with Calvert, with various active ETFs that we're seeing all across Europe again, and we've been raising new AUM there.
+So there are ways to distribute product across different geographies. There's a way to work with our strategic partners in places like Japan. There are ways to organically take advantage and move forward in places of growth that have more secular growth trends such as India. So there are tremendous opportunities where we see that we can take, like I said, product, client relationship and also work across institutional securities and various places in Investment Management. Dan Simkowitz has talked a lot about that of raising funds through those partnerships and being able to look for ways to work together to also source talent internationally as we work across the organization.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [19]
+--------------------------------------------------------------------------------
+And I'd just add, I mean, I was in the Middle East a few months ago. We're opening an office in Abu Dhabi. If you think of the combination of Middle East, India, Japan, kind of offsetting what's going on in China, and then strategically, I would be very surprised if this firm doesn't do some transactions in both wealth and asset management over the next 3 years outside the U.S. I think we have a game plan for it. Strategically, the team has -- works on a lot of ideas. And obviously, we want to make sure when we do it, we're fully ready and we understand all of the diligence issues around some of these relationships and careful about that. But I think the opportunities are clearly there.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+We'll go next to Dan Fannon with Jefferies.
+
+--------------------------------------------------------------------------------
+Daniel Thomas Fannon,  Jefferies LLC, Research Division - Senior Equity Research Analyst    [21]
+--------------------------------------------------------------------------------
+I wanted to follow up on flows. Obviously, fee-based flow is strong in the quarter, but the total flow number came in. And understanding the environment was a bit softer here in the third quarter, but could you maybe talk about the channels where the pullback was seen the most? You didn't mention workplace. So I'm not sure. I would love some color there as well.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [22]
+--------------------------------------------------------------------------------
+Yes. We've talked -- thanks, Dan, for the question. We have talked about the fact that within the workplace channel, I think in both in the first and second quarter, I've been asked about it. And it is -- people are using some of that cash. We aren't necessarily seeing that movement directly into people's accounts, and they're seeing actual -- taking the stock that they might get and actually selling it rather than investing in it, given what's going on with the economic environment, potentially inflation, et cetera.
+So that's potentially a theme out there. But obviously, that's dependent on the market. What is more exciting in my mind is actually where we did see the increase in NNA, which was on new clients and recruiting. So those were the 2 strongest components. And the ability to attract new clients, I've said it before on these calls, if you asked me 5 years ago, well before we bought E*TRADE and when we were just looking at the beginning of the modern wealth platform, many people ask, how will you ever grow because we weren't seeing new clients coming into the institution. The investments that we've made across the technology for Wealth Management has been what's been able to attract new recruits. So if you talk to recruits about why they come to Morgan Stanley, it's the products they can offer. It's the technology that we have. It's the ability to work with the clients. So you're seeing that continue. And then you're also seeing new client acquisition through the funnel. So those are all positive metrics. And again, you see that in the stock plan participants rising as well.
+
+--------------------------------------------------------------------------------
+Daniel Thomas Fannon,  Jefferies LLC, Research Division - Senior Equity Research Analyst    [23]
+--------------------------------------------------------------------------------
+Great. And then just a follow-up on Investment Banking and understanding that the environment isn't ideal, but you did talk about increasing announcements. So I was hoping you could provide some context maybe on the sponsor community and maybe how those conversations are happening and just overall backlog levels versus kind of last quarter.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [24]
+--------------------------------------------------------------------------------
+Yes. The backlog itself, we've continued to rise and to build. Overall, over the course of the year, we've talked a lot about sort of being at some of the highest levels that we've seen across all, be it underwriting or on the advisory side. So all of that is optimistic. Financial sponsors, we have talked about dry powder continue to see that. Obviously, there was some valuation gaps. And as James said, the more clarity that we see around the stabilization of rates, the easier that will be around deployment. And then some key themes that we have witnessed when we look at the backlog or we think about the transactions that are happening, one is the financial sector consolidation. That's a theme that's emerging within our pipeline and our discussions in the boardroom. The second is the energy transitions that -- again, that is important to some of the transactions that we are either -- we have worked on and that we've talked through.
+And in addition to that, we are seeing emerging themes around technology, around AI, around how companies want to use that when they're thinking about strategic focus and objectives. And all of these themes are part and parcel to the fact that you can see there's -- it's a diversified backlog. And we're investing in the franchise. We've made some key hires to help us navigate through this more complex landscape and places where we see opportunities to execute as we move forward.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+We'll go next to Steven Chubak with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Steven Joseph Chubak,  Wolfe Research, LLC - Director of Equity Research    [26]
+--------------------------------------------------------------------------------
+So I wanted to start with a question on just the expense and margin outlook. Expenses were actually well managed in the quarter. But one of your peers did talk about competition intensifying in terms of the war for talent within investment banking and trading. It feels like that's been the case for the better part of a number of years in Wealth Management. I was hoping you could just speak to your expense growth outlook and your confidence in terms of your ability to achieve the firm-wide margin target of 30%.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [27]
+--------------------------------------------------------------------------------
+So when you think about the expenses, we are looking at expenses through the cycle. We've unfortunately -- we have taken actions. We took actions both at the end of last year, and then we took one in the spring as well. We've discussed those severance costs throughout the course of the year. And so we've been managing our expense base to better understand and to sort of think about it against the backdrop of what environment are we seeing.
+So while there's always a war for talent. We do pay for talent, and we pay competitively for that talent. But we have to think about it in the context of where we see the potential growth opportunities. And that is also -- we have to take into account the investments that we're making. And that's around processes and investing in technology. And when you look at the technology that we're investing in, we should see operating efficiencies and leverage as you go forward. So that's modernization of the plant. You're going to have optimization. And you're also going to work on things like making sure that you have the right risk and control framework to give ourselves an opportunity to grow.
+So just what it means -- to boil it down is it's a balance, right, of investing for the future but also making sure that you have the right invest -- the right expense base, rather, as you move forward and you can take advantage and see those efficiency gains and really the operating leverage that James is talking about as we move forward through the cycle.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [28]
+--------------------------------------------------------------------------------
+I just say one thing on the war for talent. Yes, I mean, obviously, really high performers are in demand across the street, but we've actually had the opposite issue. We've had very low attrition, which is why we did some of the expense initiatives that Sharon talked about. And I guess we should feel flattered. It's a reflection of the culture and the stability of the firm. But also that's -- why we took the initiative is because you've got to bring in talented people and new generations to keep growing this place. So onesies and twosies, yes, you can lose somebody, a senior person here or there, and we've hired a bunch in banking, as Sharon said, but the broader -- across the 80,000 people we've got is the broader message is attrition has been remarkably low, and that's something that we've just got to work through.
+
+--------------------------------------------------------------------------------
+Steven Joseph Chubak,  Wolfe Research, LLC - Director of Equity Research    [29]
+--------------------------------------------------------------------------------
+That's great. And for my follow-up, just a question on capital. James, you noted that pro forma Basel III Endgame, your capital requirements approximate your current capital base. But how much capital cushion do you plan on running with, also how it informs your buyback? And you addressed the question on ROTCE target, curious of that, 20% target contemplates higher capital under Basel III. So I know there's a lot in there, capital cushion, buyback level, 20% ROTCE target.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [30]
+--------------------------------------------------------------------------------
+Going to have to write this down. For an old guy this is a lot to remember. It's not going to affect ROTCE. We're not going to be increasing capital. So that one you can put to bed. The cushion, it's a function of where the rules come out. I mean I've been very clear about this day 1. I do not believe the proposal as is will be what we see when the comment period is over. I do not believe that. I have no special insight except that obviously, I spent a lot of time with the regulatory community, which I've done for 14 years.
+I think everybody understands, for example, the way operating risk, RWAs have been calculated in a sort of blunt instrument based on fees is not -- it wasn't what Basel was originally going to do, they were going to take that rule out years ago, and they ended up just not getting around to it, and suddenly, we're complying with something that they didn't even want and don't -- they don't use in Europe.
+So it's just not going to happen the way it is, and that's not being pollyannaish, that's just -- that's my judgment call. That said is -- what we want to frame with investors is, God forbid, it does happen exactly as is. The rule becomes proposal rule tomorrow. Then we're fine. So we're certainly not going to be -- we're not going to be raising capital. We're going to continue with our buyback through this period.
+The final implementation of this thing is going to be 2028. There's a lot that's going to happen between now and then. But listen, this is the first time you've had members of the Fed Board and the FDIC, I think, come out in advance of a rule being promulgated, if that's the word, saying that they're not comfortable with it. So there's clearly debate within the regulatory institutions, and if you get past the why we need more capital, which I don't think the industry does, into, well, what should it be, the only place it clearly shouldn't be is punishing businesses that have fees attached to them, whether it's credit cards or wealth management. That's not the regulatory intent.
+And they've told me that, and therefore, I believe that will change. So on the cushion, it's frankly a function of where the rule ends up. We'll carry whatever appropriate prudent cushion we need to carry on. Do we create more capital? No, not unless we grow the business to reflect that, that we can put it to work. And thirdly, will we continue buybacks? Yes. And I'm sure Sharon can give more play from what we think about on the buyback side and dividends for that matter.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [31]
+--------------------------------------------------------------------------------
+Yes. On the capital return strategy, we've been really clear that we expect to continue to return capital to our shareholders. Dan said that at the September conference, even when you think about all of Basel. We -- first and foremost, we've talked about the dividend strategy. We doubled our dividend a few years ago, and we've continually increased the dividend. That increase has been reflective of the growth in stable revenues that we've had more broadly as an institution. Then, of course, buyback -- committed to a buyback, but the size of a buyback is always going to be opportunistic when you think about what the alternatives are for capital usage, right?
+So what are the opportunities that we see going forward, and we'll make the right decision for what we think the right decision is for the company and for our shareholders around the uses of the capital, but we increased the buyback this quarter. So that shows you sort of how we feel about being able to return capital to our shareholders when you compare this quarter over the course of last quarter, moving from $1 billion to $1.5 billion.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+We'll go next to Devin Ryan with JMP Securities.
+
+--------------------------------------------------------------------------------
+Devin Patrick Ryan,  JMP Securities LLC, Research Division - MD, Director of Financial Technology Research & Equity Research Analyst    [33]
+--------------------------------------------------------------------------------
+I guess first question just on the E*TRADE conversion. I'm sure good to get on the other side of that, and you spoke to some of the benefits, I think, more on the flow side and revenue side. Just curious if there's any kind of more material expense saving opportunities, just assuming there's probably some redundancies there that can be removed and then any other efficiencies that might exist.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [34]
+--------------------------------------------------------------------------------
+Look, we haven't really -- this deal was never contemplated from a cost synergy perspective. It's really been around revenue synergies. Will there be potential savings on the margin? It's possible, but that's not really the point of the transaction. What I think is more fundamentally interesting is that a couple of things when you think about the E*TRADE integration, other than the fact that it went very smoothly as it relates to the clients themselves, it creates a really clear foundation when we're trying to migrate clients from channels and move them.
+So give somebody from an E*TRADE channel or a self-directed channel and say, let's make an introduction to an FA and begin that potential migration. If you're on the same platform, it's a much easier and much more seamless transition. So that's a positive use of that. That's an example of how being on the same platform is helpful. The same goes for workplace, right? Everything flows into the same places. Again, that should be helpful as we move forward.
+It's also very helpful from a bank rails perspective. So as we think about banking products, as you can use, remember, E*TRADE had bank rails on their platform. Again, a lot of that can be used as we are now looking to potentially grow portions of the bank or grow lending or grow deposits. Those are all things that now that the platforms are put together on a consolidated basis. So I would look at it more from a revenue synergy perspective than necessarily a cost synergy perspective.
+
+--------------------------------------------------------------------------------
+Devin Patrick Ryan,  JMP Securities LLC, Research Division - MD, Director of Financial Technology Research & Equity Research Analyst    [35]
+--------------------------------------------------------------------------------
+Okay. Terrific. A quick follow-up here just on net interest income trajectory in GWM so that we can make some assumptions around the trajectory of deposits. But how should we be thinking about the asset yield trajectory from here if we use the forward curve? I guess what are some of the puts and takes to be thinking about there?
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [36]
+--------------------------------------------------------------------------------
+Yes. Again, so when I look -- I would look at the movement in sweeps -- if you're trying to draw a relationship between sweeps and NII really over the last 2 quarters, the asset yields are going to be a function of what the market yields are. Last quarter, for example, I mentioned that we had -- the NII was supported by higher asset yields. You'll remember that when we walked out of the first quarter, we were in a position where there was still a regional banking crisis. Some of the yields were higher as you think about funding yields simply because of what was going on in the environment.
+As those yields normalized, that came down, you lost some of that asset yield. And you began to see what we -- a different kind -- the deposits themselves had a bigger or more prominent reaction when you look at a sequential change in NII. So what I would try and do is you should take both quarters, for example, into consideration when you're thinking about the relationship between sweeps and NII. And of course, asset yields will be determined by market factors more broadly.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+We'll go next to Brennan Hawken with UBS.
+
+--------------------------------------------------------------------------------
+Brennan Hawken,  UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials    [38]
+--------------------------------------------------------------------------------
+I would like to start similar to that last question. So there's clearly uncertainty, but also, it seems equally clear that NII is no longer a tailwind for wealth. So when you're thinking about the 30% pretax margin target that you've provided for that business, how do you think -- what are your plans given that tailwind may be turning into a headwind or at least moderating? And how are you calibrating any planned investment and balance that out with the potential for growth on the back of that?
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [39]
+--------------------------------------------------------------------------------
+Thanks for the question, Brennan. As you would expect, it's a balance, right? We've made changes to our expense base over the course of this year. But we want to make sure that we're investing for long-term growth by being able to offer both technology platform solutions, et cetera, so that our advisers -- the most important thing about the investment is to create opportunities where the advisers have more time. More time that the advisers have, the more they're able to prospect new business and bring new assets to the top of the funnel. So that's how we're prioritizing the investments in order to get the operating leverage as the market begins to turn.
+
+--------------------------------------------------------------------------------
+Brennan Hawken,  UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials    [40]
+--------------------------------------------------------------------------------
+Okay. So do you -- or do you have enough -- is that lever large enough? Are you going to be able to -- or willing to dial back investments in order to support moving towards that 30% pretax margin even without NII tailwinds?
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [41]
+--------------------------------------------------------------------------------
+We would see ourselves in a -- we're not -- we have put out those targets, and we have -- it's not that there is a shot clock in terms of the timing of those targets, Brennan. The goal is to create a business model that has the opportunity to do that on a more sustained basis. And the way that one is to do that from an asset-led strategy is to grow the asset management revenue streams and the transactional streams. And that's what you're seeing over the course of this quarter alone.
+You're able to grow assets. You're able to deploy those assets into different transactional products, which helps transaction align. And eventually, it also moves into the advice-based relationship products, which has a higher annuity stream as well. And so that's the strategy, and you're seeing it play out as we move forward.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [42]
+--------------------------------------------------------------------------------
+Yes. I'd just point out, Brennan. I mean on $6.5 billion of revenue, the deficit against the 30% long-term target is currently about $120 million, $130 million. So this is not -- we're talking less than 2%. We're already at 28% ex the integration costs. They could take 2% of the cost out of that business tomorrow and hit that number. So this is not -- back in the day when we were talking about 20% margin and we were at 8%, that was when certain people were skeptical about that. We're in a whole different league now. 28% can go to 30%. We can make that happen. What we want to make sure is we make happen the growth over the next several years. So this is not a heavy lift. I'm not worried about that at all.
+
+--------------------------------------------------------------------------------
+Brennan Hawken,  UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials    [43]
+--------------------------------------------------------------------------------
+Great. If you could -- Sharon, maybe just one more clarification. Could you talk about the asset side? And looking at market yields, what's the duration that we should be thinking about if we're trying to calibrate? Because the disclosure on the asset side for the wealth is not as robust. We have to kind of use a couple of creative metrics within the filings.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [44]
+--------------------------------------------------------------------------------
+In general, when you're talking about the AFS portfolio -- the duration of the AFS portfolio is under 2. But what you have to think about is just the deposits themselves and what's going on with right now. When we look at it, we're slightly still asset-sensitive. But of course, if rates rise, those -- the deposit duration also shortens. So I just think you have to think about -- you're taking all things into consideration as you move forward given the cycle.
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [45]
+--------------------------------------------------------------------------------
+We're going to try and get in the last 3 questions quickly here, so we might run 5 minutes over.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+We'll go next to Jim Mitchell with Seaport Global.
+
+--------------------------------------------------------------------------------
+James Francis Mitchell,  Seaport Research Partners - Research Analyst    [47]
+--------------------------------------------------------------------------------
+Maybe just pivoting to the trading business. FICC trading, up sequentially, a bit unusual in a seasonally slow third quarter. So maybe just talk a little bit about the drivers how sustainable you think they are, at least in the near term and maybe overall thoughts on industry wallet into next year.
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [48]
+--------------------------------------------------------------------------------
+Yes. It's a great question. When you look at what's going on in terms of the industry wallet, we talked a lot about 2019 and 2020 being bookends. Obviously, you are above the 2019 wallet more broadly. And you see this playing out because things like fixed income, you do have more Central Bank action. And you do have more broadly associated vol when you think about pre-COVID levels. So all that is fundamentally positive.
+In terms of specifically the trading businesses, you had movements like I said, in commodities, oil. That ability to capture vol, it's really around being there for our clients but having greater velocity of sheet. And the more that we're able to do that as we move forward, we restructured this business tremendously over the course of the last 8, 9 years, and it's being there to be able to serve our clients and using our resources to some degree more effectively and efficiently.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+We'll go next to Mike Mayo with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Michael Lawrence Mayo,  Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst    [50]
+--------------------------------------------------------------------------------
+One kind of positive question, one negative question, maybe, James. When you think of the permanent improvement from 2019 levels pre-pandemic, how much higher do you think global wallet share should be for both Investment Banking and trading? Like as you look out over 3 to 5 years, was 2019 the normal? Or should it be above that? Because we're drifting back -- the global wallet share is drifting back toward 2019 and -- although the big U.S. banks are staying above that.
+And then the negative question is just NII is down 9% quarter-over-quarter in wealth. And kind of what are you guiding for that to be down? And when do you think that inflects?
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [51]
+--------------------------------------------------------------------------------
+Sure. I think the wallet -- global wallet would trend higher than '19. I think you're at a -- right now, we're obviously at an extreme low on the banking side. And trading is kind of muted. I mean Fixed Income, yes, we had a sequential nice run, equities at 3.5%. These are nowhere near top levels. I don't see any of the global competitors challenging the sort of the top of the U.S. 3 -- the top 3 or 4 firms. So -- and I think what's going on, as I said earlier, with the Middle East and India, Japan, parts of Lat Am, you're going to see non-U.S. growth over the next several years. So yes, I feel actually really pretty good about the outlook.
+And I'll let -- Sharon, I think we've touched on a lot of the NII stuff, and obviously, you can't model this stuff. You don't know exactly how people behave because it's a function of how they feel about where rates are and other opportunities at any point in time. But Sharon?
+
+--------------------------------------------------------------------------------
+Sharon Yeshaya,  Morgan Stanley - Executive VP & CFO    [52]
+--------------------------------------------------------------------------------
+Yes. We're not giving 2024 guidance right here. What we did say is that the next quarter, we have said we'll be lower. And that's a function, mathematically at the exit rates of deposits where we ended the quarter. But what is encouraging is that as we ended September and then we looked into October, client behavior is in line with our modeled expectations.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+We'll go next to Gerard Cassidy with RBC.
+
+--------------------------------------------------------------------------------
+Gerard Sean Cassidy,  RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst    [54]
+--------------------------------------------------------------------------------
+I'll just ask a single question in view of the time. Can you guys give us a view of the outlook for your mergers and acquisitions, your appetite? Obviously, James, over your tenure, you guys have done a number of successful acquisitions. And as you look out over the next 3 to 5 years, I know, James, you won't be here. But what -- what's the appetite? Is it still something opportunistic if something comes up, it seems like you have all your products lined up by channel, but can you get economies of scale by buying some competitors in different channels?
+
+--------------------------------------------------------------------------------
+James Patrick Gorman,  Morgan Stanley - Chairman & CEO    [55]
+--------------------------------------------------------------------------------
+Definitely, the latter. It's not just opportunistic. It's strategic in that we have a game plan. We just completed an offsite about a month ago with the whole operating committee. And each of the leaders that you know all about, Ted, Andy and Dan, were heavily engaged in that from the business side. I think there are a lot of things -- there are a lot of interesting properties in this world. And we've got a machine. Jim Hennessy, I'll give a call out to him. He led the integration of E*TRADE. He actually led the integration going all the way back to Smith Barney. Hundreds of people that work on that.
+So we've got an integration machine. I mean you start with -- do you have a vision of what the company should look like? And then do you have a set of strategic options, which, if available, you would hit the bid? Then the opportunistic is when they become available like Eaton Vance did, you hit the bid. But the real issue is, can you integrate them safely and securely? And then finally, having done that, will that drive growth above the current run rate? So that's how we think about acquisitions. The team is very weighted behind it.
+I don't know, Sharon, if you want to add anything to that. But yes, this firm will do sensible, not reckless, not life-changing but sensible deals as we've done many of them, Mesa West, Solium, and there'll be -- there's a lot of opportunity out there, Gerard.
+I think that's a wrap.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+There are no further questions at this time. Ladies and gentlemen, this concludes today's conference call. Thank you for everyone for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

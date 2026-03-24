@@ -1,0 +1,855 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 Honeywell International Inc Earnings Call
+JULY 25, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Vimal Kapur
+   Honeywell International Inc - Chairman and Chief Executive Officer
+ * Gregory Lewis
+   Honeywell International Inc - Chief Financial Officer, Senior Vice President
+ * Sean Meakim
+   Honeywell International Inc - Vice President, Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Nigel Coe
+   Wolfe Research - Analyst
+ * Andrew Obin
+   Bank of America - Analyst
+ * Stephen Tusa
+   JPMorgan - Analyst
+ * Julian Mitchell
+   Barclays - Analyst
+ * Joe Ritchie
+   Goldman Sachs & Company, Inc. - Analyst
+ * Scott Davis
+   Melius Research - Analyst
+ * Deane Dray
+   RBC Capital Markets - Analyst
+ * Sheila Kahyaoglu
+   Jefferies - Analyst
+ * Andy Kaplowitz
+   Citi - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you for standing by, and welcome to the Honeywell second quarter 2024 earnings conference call. (Operator Instructions) Please be advised that today's call is being recorded.
+I would now like to hand the call over to Sean Meakim, Vice President of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, and welcome to Honeywell's second quarter 2024 earnings conference call. On the call with me today are Chairman and Chief Executive Officer, Vimal Kapur; and Senior Vice President and Chief Financial Officer, Greg Lewis.
+This webcast and the presentation materials, including non-GAAP reconciliations, are available on our Investor Relations website. From time to time, we post new information that may be of interest or material to our investors on this website.
+Our discussion today includes forward-looking statements that are based on our best view of the world and of our businesses as we see them today and are subject to risks and uncertainties, including the ones described in our SEC filings.
+This morning, we will review our financial results for the second quarter share our guidance for the third quarter and provide an update on full year 2024. As always, we'll leave time for your questions at the end.
+With that, I'll turn the call over to Chairman and CEO, Vimal Kapur.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Sean, and good morning, everyone. Second quarter was another strong one for Honeywell, we exceeded the high end of our adjusted earnings per share guidance and achieved the high end of our organic sales guidance ranges.
+While aerospace continued to lead our growth, we are seeing broader participation across our portfolio. Three of our four strategic business groups contributed positive growth for the quarter, and we saw sequential improvement in growth rate from all four.
+Order rates were healthy across Honeywell, supporting our expectation of further organic growth acceleration into back half of the year. We are adding attractive new assets to our already compelling technology portfolio, which will enable us to create further value for our customers and shareholders alike.
+Let me take a few minutes to restate my priority as Chairman and CEO of Honeywell before we get into more detailed discussion of the second quarter 2024 results and update on our full 2024 year expectations.
+First, our key priority remains accelerating organic sales growth to deliver the upper end of our long-term target range of 4% to 7%. In order to achieve this, we are enhancing how we think about our new product innovation, monetizing our vast installed base, accelerating software offerings and improving our leadership position in high-growth regions.
+As an early read on these efforts our self-help actions and aftermarket services are demonstrating favorable proof points. Double digit growth in the second quarter and accretive growth even when excluding aerospace. In fact, I'm pleased to highlight that our total Honeywell grew volume in the second quarter and we expect further volume acceleration in the second half.
+Second, off the strength of our contemporary digital foundation, we are transforming how we run Honeywell to the latest version of our Honeywell accelerator operating system. We are standardizing by business model to drive incremental value, enhancing our growth capabilities.
+Our integrated operating system principles enable us to deploy world-class digital supply chain and technology development capability that scale along with multiple growth drivers that benefit the entire enterprise. For example, we are leveraging our digital capabilities and demand planning to more closely match production and material management enabling us to capture incremental inventory improvement and reduce working capital intensity.
+We are also leveraging generating AI to maximize the potential benefit of our operating system, both for our customers and ourselves. As anticipated, accelerator is proving to be a powerful source of profitable growth across all our businesses as an important tool to successfully integrate the recent addition to our portfolio.
+Third, we are excited about our progress on our portfolio optimization goals. We are demonstrating a commitment to accelerate deal flow through multiple strategic bolt-on acquisition in the $1 billion to $7 billion range in order to upgrade the quality of our business and financial profile.
+These acquisitions are aligned to three compelling megatrends around which we are focusing Honeywell automation, the future of aviation and energy transition. The additions, combined with a modest obstruction of non-core lines of business that are not aligned to these trends, will enable us to accelerate value creation for our shareholders.
+Last, as we aim for ways to simplify and accelerate growth at Honeywell, we are taking our Honeywell connected enterprise strategy to the next stage by seamlessly integrating SC into our strategic business groups.
+In 2018, we formed at FCE to enable the creation of one unified industry leading IoT force platform to support the digital transformation for our customers. Over the last few years, we have been increasingly focused on scaling our commercial offering to deliver outcome-based solutions and performance, sustainability and security.
+We are maintaining our robust software development expertise at the center. And FCE version 3.0 will more deeply integrate those centralized capabilities within our segment level commercial teams. This will deliver even better outcomes to our customers and drive sustained accretive software growth across the portfolio. As we demonstrate further progress against this priority, we expect to deliver on our long-term financial algorithm and generate superior value for our shareholders.
+In the spirit of that progress. Let's turn to slide 3 to discuss our recent acquisition announcements. Our top M&A priority remains targeting bolt-on acquisitions, as evidenced by our recent announcements, we are creating a flywheel of themes that strategically add to our technological capabilities, enhance our alignment to our three compelling megatrends and provide accretive growth that supports Honeywell overall, long-term financial framework.
+Let's discuss our recent deals in a bit more detail. Earlier this month, we announced our intention to acquire Air Products' liquefied natural gas processing technology and equipment business for approximately $1.8 billion in all-cash transaction.
+With this addition, Honeywell will be able to offer customers end-to-end solution that optimize the management of natural gas assets. Currently, Honeywell provides a pretreatment solutions serving LNG customers globally and automation technology unifying under the Honeywell Forge and Experion platform.
+Air Products complementary LNG business consist of comprehensive portfolio, including in-house design and manufacturing of coil bone heat exchangers and related equipment. This acquisition will bolster our energy transition portfolio within energy and sustainability solution.
+The LNG technology will immediately expand our installed base, creating new opportunities to compound growth in aftermarket services and digitalization through Honeywell Forge. Notably, this is the fourth acquisition Honeywell has announced this year as part of our disciplined capital deployment strategy, adding a business with accretive economics at an attractive valuation.
+In June, we announced the acquisition of CAES systems, our case for short from private equity firm, advent international fund $1.9 billion, enhancing Honeywell's defense technology solution across land, sea, air and space.
+This business will enable us to provide new electromagnetic defense solutions for end to end radio frequency signal management for critical existing and emerging US DoD platforms, which are forecasted to grow significantly at accretive rates in years to come.
+We are excited that this is the second aerospace focused transaction we have announced this year underscoring our alignment to the future of aviation. The business ads state of the art advanced manufacturing capabilities, impressive engineering talent and potential for significant commercial opportunities in international defense.
+Also in June, we completed acquisition of Carrier's Global Access Solutions business, which positions Honeywell as a leading provider of security solution for the digital age with opportunities for accelerating innovation in fast-growing cloud-enabled services.
+Honeywell will also benefit from businesses, attractive growth and margin profile, valuable software content and accretive mix of recurring revenue with forecasted annual sales in excess of $1 billion when combined with our existing security portfolio.
+We are happy to welcome the Access Solutions team to Honeywell's building automation business. Together, the combination will build our long track record of delivering high value, critical building automation products, solution and services to our customers globally.
+As we turn our attention to ensuring a seamless integration of the business into our portfolio will utilize our multi-phase the tools of our accelerator operating system to streamline processes digitalize operation and manifest the anticipated synergies that help make the deal compelling from a top and bottom line perspective.
+Cumulatively, the bolt-on acquisition of the past year represents over $2 billion of incremental annualized revenue with growth profile well in excess of Honeywell's growth algorithm of 4% to 7%. Collectively, these deals represent an accretive margin profile to our current portfolio at valuation below of our own before factoring any expected sales synergies.
+Before I hand it off to Greg, I'll turn to slide 4 to review our progress on all our capital deployment commitments. We are very excited to demonstrate significant progress on the commitment I made to you during the last May at Investor Day when we re-upped our intention to deploy at least $25 billion of capital in 2023 through 2025 with the accelerated M&A deal activity this year, we have already deployed and committed approximately $10 billion acquisitions and approximately $5 billion to share buybacks, exceeding our minimum pledge of $13 billion over a year early.
+However, that does not meet our work is done. Our robust balance sheet capacity provide us with the flexibility to allocate capital to accretive M&A opportunistic share purchases and high return growth capital. As the deal environment remains favorable, we will continue to reshape the portfolio by building on our already strong pipeline of high-value M&A opportunities as well as strategically prune select non-core assets.
+In true Honeywell fashion, you can expect us to maintain disciplined approaches to generate highest return combination of capital deployment.
+Now let me turn over to Greg on slide 5 to discuss the second quarter results in more detail as we provide our views on third quarter and full year 2024 guidance.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Vimal, and good morning, everyone. Let me begin on slide 5. As a reminder, starting in the second quarter, we began excluding the impact of amortization expense for acquisition related intangible assets and certain acquisition related costs, including the related tax effects from segment profit and adjusted earnings per share.
+We believe this change provides investors with a more meaningful measure of our performance period-to-period aligns the measure to how we evaluate performance internally and makes it easier to compare our performance to peers. In addition, our second quarter building automation results incorporate approximately one month of impact from the acquisition of Access Solutions.
+With that, let's discuss our results. We delivered another strong quarter in a dynamic macro environment, meeting the high end of our organic sales range, landing above the midpoint of our segment margin guidance and exceeding the high end of our adjusted earnings per share guidance.
+Second quarter organic sales were up 4% year over year, supported by 16% organic growth in aerospace technologies driven by another quarter of double-digit growth in both commercial aerospace and defense and space, in addition to double digit growth in our building solutions business.
+Honeywell grew volume by 1% for the second time in the past 10 quarters, and we expect further volume acceleration in the second half. Segment profit grew 4% year over year and segment margin contracted by 10 basis points to 23% as expansion in energy and sustainability solutions was offset by mix pressures and our other three businesses.
+Earnings per share for the second quarter was $2.36, up 6% year over year, and adjusted earnings per share was $2.49, up 8% year over year, driven primarily by segment profit growth. A bridge for adjusted EPS from 2Q '23 to 2Q '24 can be found in the appendix of this presentation.
+Orders grew 4% year over year with a book-to-bill of one led by growth in BA, ESS and IA, including pockets of short-cycle strength with advanced materials and building products growing both year over year and quarter over quarter.
+Orders growth supported a 5% year-over-year increase in backlog to maintain our record level of $32 billion. Free cash flow was approximately $1.1 billion, roughly flat year over year versus the second quarter of '23 as higher net income and improved working capital from reduced inventory levels were offset by the timing of higher cash taxes.
+We continue to expect working capital becoming a more meaningful tailwind in the coming quarters as we unwind the multiyear buildup of inventory. This quarter, we were able to effectively reduce our days of supply each month in all our businesses by utilizing our accelerator digitalization capabilities, improving demand planning and optimizing production materials management which gives me confidence that we are starting to systematically bend the curve.
+As Vimal discussed earlier, we made significant progress on our capital deployment strategy this quarter, allocating $6.4 billion to M&A, dividends, share repurchases and capital expenditures, including closing our $5 billion acquisition of Access Solutions. When combined with the anticipated closing of CASE and Air Products, LNG businesses later this year, we are on track to deploy a record $14 billion of capital in 2024.
+Now let's spend a few minutes on the second quarter performance by business. In aerospace technologies, sales for the second quarter were up 16% organically with double-digit growth in both defense and space and commercial aerospace.
+This marks the 13th consecutive quarter of double-digit growth in commercial aviation enabled by sustained growth in global flight activity and increased shipset deliveries. Defense and space growth accelerated in the second quarter as we continue to see robust global demand, coupled with supply chain improvements, enabling an incremental volume unlock.
+Aerospace supply chain improvements remain on track as output increased by 14% in the second quarter. The eighth consecutive quarter of double-digit output growth. Segment margin in aerospace technologies contracted 60 basis points year over year to 27.2%, driven by expected mix pressure within our original equipment business partially offset by commercial excellence net of inflation.
+For industrial automation, sales fell 8% organically in the quarter, primarily due to lower volumes in warehouse and workflow solutions. But overall sales improved 1% sequentially. Process Solutions revenue grew 1% in the quarter as another quarter of double-digit growth in our aftermarket services business was partially offset by headwinds in thermal solutions and smart energy.
+Our sensing and safety technologies business declined modestly year over year, but saw sequential growth in both orders and sales, a positive indicator going forward. In productivity solutions and services sales improved year over year when excluding the impact of the $45 million quarterly license and settlement payments that ended in the first quarter.
+Orders in PSS grew double digits for the third consecutive quarter. And overall, IA orders grew high single digits, led by growth of over 20% and warehouse and workflow solutions driving an overall book-to-bill of 1.1.
+Industrial automation segment margin contracted 90 basis points to 19% due to lower volume leverage and the end of payments under the license and settlement agreement and productivity solutions and services. Excluding the impact of that agreement, margins expanded in the second quarter.
+Moving to building automation, sales were up 1% organically as another quarter of excellent performance in our long-cycle building solutions business led the way. While we continue to work through lower volumes in our building products. Solutions grew 14% in the quarter with 20% growth in projects as a result of strength in data centers, healthcare and energy.
+Sales grew double digits sequentially, including one month of benefit from the acquisition of our Access Solutions business, highlighted by strong execution and solutions and further progress in fire and building management systems within building products.
+Double-digit orders growth was a highlight for building automation in the quarter, growing both sequentially and year over year in both solutions and products, resulting in an overall book-to-bill ratio of 1.1. Segment margin contracted 60 basis points to 25.3% due to mix headwinds and cost inflation, partially offset by productivity actions and commercial excellence.
+In energy and sustainability solutions, sales grew 3% organically in the second quarter. Advanced materials increased 8% year over year due to continued strength in fluorine products. UOP sales declined 4% as previously noted, difficult year-over-year comps in gas processing equipment projects more than offset solid growth in refining catalysts and aftermarket services.
+Orders were a highlight in ESS as book-to-bill was 1.2 in the second quarter, the third consecutive quarter of a book-to-bill above 1.0 primarily on greater than 20% growth in advanced materials and more than 60% growth in sustainable technology solutions.
+Segment margins expanded 200 basis points on a year-over-year basis to 25.2%, primarily driven by productivity actions. We continue to execute on our proven value-creation framework underpinned by our accelerator operating system. This combined with ongoing benefits from our long-cycle end markets and the strength of our backlog gives us confidence in our ability to navigate the current environment.
+Now let's turn to slide 6 and talk about our third quarter and full year outlook. Our commercial and operational discipline have enabled us to deliver on our organic growth commitments. With continued long-cycle strength and modest sequential growth within certain of our short-cycle businesses, particularly in advanced materials, building products and sensing and safety technologies.
+While we are encouraged by our performance year to date and our robust backlog, the back half will remain influenced by the dynamic macroeconomic backdrop and varying levels of channel improvement across our portfolio.
+Given these dynamics and our recent acquisition announcements, we are increasing our 2024 top-line expectations. We forecast sales to be in the range of $39.1 billion to $39.7 billion, which includes overall organic sales growth of 5% to 6% for the year up from 4% to 6% previously, increasing the midpoint from our prior guidance.
+The sales forecast also includes the acquisition of CASE and Air Products LNG businesses, which we expect to close in the third quarter. Selectively acquisitions are expected to add approximately $800 million to Honeywell sales in 2024.
+Sequential growth in the third and fourth quarters across most of the portfolio will be driven by continued progress in the aerospace supply chain, seasonal uplift from UOP, in addition to other long-cycle businesses and areas of modest short-cycle improvement, which will vary depending on the end market exposures. For the third quarter, we anticipate sales in the range of $9.8 billion to $10 billion, up 4% to 6% organically with the benefit of roughly $300 million in acquisition related revenue.
+Moving to segment margin as growth in our long-cycle businesses outpaces the short-cycle recovery, supporting the raise to our top line range we expect to see a bit less favorable mix within some of our SPGs in the short term.
+However, from a long-term perspective, executing on robust demand for projects and original equipment sets our businesses up for a long tail of high-margin aftermarket revenue streams by expanding our vast installed base. When incorporating the impact of recently announced acquisitions, we now anticipate our overall segment margin to be in the range of 23.3% to 23.5%, flat to down 20 basis points year over year.
+Overall segment profit dollars will still grow significantly in 2024 between 6% and 9% as margins will continue to be supported by price cost discipline and productivity actions, including our focus on reducing raw material costs.
+From a segment perspective, energy and sustainability solutions and building automation will lead the group and margin expansion, followed by modest contraction for industrial automation as well as aerospace as a result of the CASE acquisition.
+For the third quarter, we anticipate overall segment margin in the range of 23.0% to 23.3% down 30 basis points to 60 basis points year over year and in line with the first two quarters of this year due to quarterly variability in aero mix, the anticipated close of case and normal seasonality within energy and sustainability solutions.
+Now let's spend a few minutes on our outlook by business. Looking ahead for aerospace technologies, we expect momentum from the first half to carry over into the second half as robust orders and increases in factory output will support growth.
+In commercial original equipment we anticipate the second quarter to be our low point of the year for growth as some related supply chain challenges abate, we see strong sequential and year-over-year growth through the third and fourth quarters, particularly in air transport as build rate strength drives volume progression.
+In commercial aftermarket, we anticipate continued sales momentum, though growth rates will come down slightly in the back half as comps get more difficult. For defense and space the global geopolitical backdrop, coupled with our robust order book and increased investments in our supply chain, will provide support for sequential growth in the third and fourth quarters.
+As a result of these dynamics and a strong first half, we now forecast defense and space growth to be double digits for the year. We still expect aerospace to lead Honeywell in 2024 with organic sales growth in the low double digit range.
+For segment margin dynamics remain comparable to 2022 and 2023, as higher sales from lower-margin products are partially offset by volume leverage. However, we now expect 2024 aero margins to decline modestly year over year due to the impact of the case acquisition, we anticipate the third quarter will be the low point of the year, reflecting the closing of CASE and less favorable quarterly mix.
+In industrial automation, we're benefiting from solid orders momentum in most of our long-cycle businesses. While our short-cycle businesses are showing varying signs of sequential progress. In the third quarter, we expect modest sequential improvement NIA, and a return to year-over-year growth in the back half.
+Second half sales growth will be led by process solutions, which we'll see further strength in our aftermarket services businesses, an improvement in the smart energy and thermal solution businesses that weighed on first half results.
+And productivity solutions and services sales will grow sequentially from here. Orders have grown double digits for three straight quarters in PSS, giving us confidence in our outlook for the second half and into 2025.
+Sensing & Safety Technologies will improve sequentially as we benefit from the phasing effects of distributor destocking, Warehouse and workflow solutions will grow sequentially as we move through the trough in warehouse automation spending and should end the year around $1 billion in sales.
+As a result of these dynamics, we expect flattish organic sales growth in 2024. Margins will expand in the second half as we implement productivity actions and benefit from volume leverage through long-cycle seasonality and further short-cycle progress.
+Moving on to building automation. In the third quarter, we expect building solutions to outpace building product sales. In products, we anticipate sales to improve modestly sequentially in the third and the fourth quarters supported by 2Q's favorable order trends. However, the magnitude remains dependent on the ongoing normalization of channel inventories.
+In solutions, both projects and services orders grew over 20% in the second quarter providing support for additional revenue growth in the back half and into 2025. Projects has been a standout and we forecast double digit growth for the year.
+As a reminder, the Access Solutions acquisition has now been incorporated into our guidance within building products. For the year, we continue to expect organic sales growth of low single digits. For segment margin, while we still anticipate expansion year over year. Incremental shift in mix toward higher sales in our building solutions business will slow the pace of that expansion near term.
+Finally, in energy and sustainability solutions. Encouraging fundamentals in our end markets will drive a favorable growth outlook in the third quarter and the full year. In the third quarter, we expect sales to be roughly flat year over year and down slightly sequentially with typical seasonality in fluorine products as we exit the summer months, offsetting improvement in electronic materials and UOP.
+Notably, the second quarter marks the last of significant year over year unfavorable comps from large gas processing equipment projects in UOP. For the full year, sustained strength in catalysts in conjunction with an incremental back-half recovery in electronic materials will support growth for ESS.
+Our confidence in our sustainable technology solutions business remains unchanged as a strong demand profile will drive robust growth for the year. Additionally, we expect the closing of our acquisition of Air Products LNG business to take place in the third quarter and have included this impact in our guidance.
+For the year, our organic growth outlook for ESS is low single digit. Margin should improve half-over-half, particularly in the fourth quarter as a result of typical catalyst reloads seasonality leading to full year margin expansion for ESS.
+Moving on to other key guidance metrics. Pension income will remain roughly flat to 2023 at approximately $550 million. As a result of the acquisitions and corresponding increase in interest expense, we now anticipate net below-the-line impact to be between negative $700 million and negative $800 million for the full year and between negative $185 million and negative $235 million in the third quarter.
+This guidance includes repositioning spend between $150 million and $225 million for the full year and between $30 million and $70 million in the third quarter as we invest further in high-return projects to support future growth and productivity.
+Adjusted effective tax rate will be around 21% for both the full year and the third quarter. We anticipate average share count to be approximately 655 million shares for both the full year and the third quarter as we have already achieved more than 1% share count reduction for the year.
+But we maintain balance sheet flexibility to deploy additional capital to achieve the highest shareholder returns. As a result of these inputs, we now anticipate full year adjusted earnings per share to be between $10.05 and $10.25, up 6% to 8% year over year.
+We expect third quarter earnings per share between $2.45 and $2.55, up 3% to 7% year over year. We expect free cash flow to benefit from progress on the multiyear unwind of working capital as we continue to extract more value from our digitization efforts through accelerator.
+In addition, we'll continue to fund high CapEx projects, high-return CapEx projects focused on creating uniquely innovative differentiated technologies. As a result, our free cash flow expectations are now in the $5.5 billion to $5.9 billion range, up 4% to 11%, excluding the impact of prior year settlements and commensurate with the revision to net income growth.
+So in summary, we delivered a strong first half of the year and anticipate continued top line acceleration in the second half as we benefit from the strength in our long-cycle businesses. Our rigorous operating principles will enable us to execute through short term mix pressure, and we remain confident in our long-term algorithm with a strong second half 2024 exit rate on revenue intact, giving us nice momentum into 2025.
+So with that, let me turn it back to Vimal on slide 7.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Greg. And before we end the call let's take a moment to focus on the progress. Honeywell has demonstrated on a long-term growth algorithm. While we significantly transformed the company over the past 10 years, we are not close to finish.
+We remain committed to delivering long-term organic growth in 4% to 7% range, coupled with a gross margin above 40%, segment margin profit above 25%. Free cash flow margins in mid-teens plus and adjusted EPS growth of 8% to 12%.
+M&A deals like the three we highlighted today also play a key factor, enabling us to achieve 1% to 2% EPS accretion, a key factor that will allow us to generate double digit adjusted EPS growth on a through-cycle basis.
+I remain excited about the opportunity to lead Honeywell to the next phase of our transformation, executing on my key priorities of accelerating organic growth, optimizing our portfolio and evolving our accelerator operating system. We'll continue to update you as these efforts to drive improvement in our financial performance.
+And now let's turn to slide 8 for the closing part before I move into Q&A. In the first half of the year, we made material progress towards our capital deployment goals, closing that Access Solution deals and announcing three additional deals Civitanavi, CASE and Air Products LNG business. This brings us to [$10 billion] in M&A since the beginning of the last year. As we work towards achieving my key priorities of optimizing the portfolio.
+We will continue to effectively manage through the dynamic economic and geopolitical backdrop while delivering on our long-term financial framework. We executed well in the second quarter meeting or exceeding all guidance metrics and our portfolio set up for top line growth acceleration in the second half as we benefit from easy comp, strong orders growth in the second quarter and strength in our long-cycle businesses. We are confident in our ability to weather near-term challenges and meet our financial targets.
+With that, Sean, let's take questions.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Vimal. Vimal and Greg are now available to answer your questions. We ask that you please be mindful of others in the queue by only asking one question and one related follow-up. Operator, please open the line for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Stephen Tusa, JPMorgan.
+
+--------------------------------------------------------------------------------
+Stephen Tusa,  JPMorgan - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Hey, Steve. Good morning.
+
+--------------------------------------------------------------------------------
+Stephen Tusa,  JPMorgan - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Can you guys just help us parse out the moving parts here. I mean, the below-the-line costs are higher, obviously, on interest quantinuum costs are higher and you raised organic, but you're also including the revenue from acquisitions and then you're, I think, cutting core profit. So I just really want to get down to like what the size of the segment core profit reduction is, if any? And then just help us with the acquisitions and how much they're influencing the segment profit numbers?
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [5]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Steve. So I think you've got the thematics quite right there. Essentially, when you think about it, first of all, when we opened the year, we always said the first half was going to tell us a lot about, how the full year was coming, particularly as it relates to short-cycle.
+And now here we are through six months and what we're seeing is the organic growth in its totality is still in the range of our guidance and actually doing quite well, which is why we took up the bottom. But it's more heavily for short cycle or sorry -- towards long-cycle than short.
+So there's good news in there, which is things like building solutions. Our PaaS projects business in HPS and others are accelerating time, but some of the short cycles are not accelerating as much as we had hoped. So that's really just changing the margin mix, particularly in IA and BA and I would say it's probably like two-thirds, one-third in terms of if you think about our guidance at the midpoint, I think we're coming down by about $0.15 and probably about two-thirds, one-third the organic core business versus the acquisitions because, as you rightly noted, we've added in the next set of acquisitions.
+But along with that, we're going to spend $4 billion in the back half of the year. And of course, that's going to cost us about 5% round about. So that's really the thematic either changes that we're making here overall. But the encouraging thing is the back half exit rate still very strong.
+So we're -- we feel really good about the back half in its totality at this point, and it's going to be a really compelling exit rate. But again, layering on $2 billion of acquired revenue into next year, about 500 basis points of revenue. So I think very much on strategy and from kind of where Vimal is trying to take us at this point.
+
+--------------------------------------------------------------------------------
+Stephen Tusa,  JPMorgan - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Sorry, what's the profit contribution from these acquisitions that are now in the numbers relative to what you guys had thought in early June? And what is the cut to the core segment profit ex quantinium dollar wise --
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [7]
+--------------------------------------------------------------------------------
+
+          Steve, it's about two-thirds, one-third. The $0.15 reduction at the midpoint is about two-thirds relative to the core business and it's about one-third relative to our M&A net of interest.
+
+--------------------------------------------------------------------------------
+Stephen Tusa,  JPMorgan - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Okay. Got it. Thank you.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [9]
+--------------------------------------------------------------------------------
+
+          Yeah.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [10]
+--------------------------------------------------------------------------------
+
+          Thank you, Steve.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Julian Mitchell, Barclays.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Maybe just wanted to follow up on a couple of points there. So the segment profit dollar guide has come down, I think about $100 million to $150 million. So just wanted to check, Greg, what you're saying is that's a full year number.
+I think you're saying that around two-thirds of that is core dilution just from more long-cycle mix versus short cycle. And then a third of it is just the new acquisitions closing in Q3, those are sort of negative EBIT a few like I just wanted to check that. And when we're looking at --
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [13]
+--------------------------------------------------------------------------------
+
+          What I'm saying, Julian, is that at the EPS line, it's about a $0.15 reduction at the midpoint and about two-thirds of that is from the core business and about one-third of that is due to the M&A, which is inclusive of the interest cost of actually making those acquisitions.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          Julian, the point I will add there is the margin changes not that something has gone in on shifting the businesses. It's the mix within the businesses, which is causing this margin changes like in case of aerospace, we continue to have OE versus aftermarket mix in case of building automation, more solution less products, similar dynamics in case of industrial automation.
+So I want to make it clear that the underlying businesses remain strong. We are seeing margin expansion, we are seeing productivity. Our fixed cost remains very attractive so it's mixed within the businesses. We are getting more longer term long-cycle businesses, which anyway also solidifies our second half outlook.
+We are not factoring a significant uptake in the short cycle. We are factoring some but to which we have visibility. But majority of our outlook for second half is built upon our long-cycle businesses, continued growth in aerospace sequentially quarter on quarter ramp-up of UOP in the second half of the year, specifically catalyst businesses, strong backlog and other solution businesses. So then all that comes together, it just makes the margin mix to what we have guided it to.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          I see. Yeah, I think a lot of the question just because it looks like the absolute sort of segment profit dollar guide is lower, not just sort of the margin mix --
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [16]
+--------------------------------------------------------------------------------
+
+          (multiple speakers) That's right, because of the dynamics of longer-cycle businesses growing very greater than shorter cycle if the margin mix is unfavorable. But if you roll it up to 2025 that factor should play off because this is not a underlying business, a margin issue. That's a point of highlighting.
+It's not that we are dropping margin somewhere, we're having price cost issue, we are not getting productivity. Our fixed cost has gone up. None of that is true, we are, in fact getting excellent productivity and margin expansion. It's purely driven by mix within the businesses.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          That's helpful. And can you just --
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [18]
+--------------------------------------------------------------------------------
+
+          Just keep in mind short, in most cases, our short-cycle margins, think about them as being 30 points higher than our long-cycle project, solution oriented margins. So that's really what you're seeing. Revenue in its totality organically roughly the same, but carrying a lower margin rate along with it.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          That's very helpful. And on your point on the M&A, the fourth quarter, I think you're assuming sequentially revenues are up maybe 9%. That's a lot more than normal, but you've got the deals coming in Q3. So just wondered sort of how much of those new deals add to that fourth quarter revenue, if you have that to hand?
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [20]
+--------------------------------------------------------------------------------
+
+          Yeah, I mean you should think that we're expecting closure of those deals in the third quarter, but likely to be mid to late part of the third quarter. So there is some level of that step-up. Remember, we always have a big step-up in aero and Q4, and we expect that to also be true.
+We also have a lot of visibility into the ESS rev streams in Q4 as well. So catalyst reloads and so forth. So it is on the higher side of the revenue step-up for sure. But we feel good we've interrogated that quite deeply and we feel good about the credibility around that outlook.
+Now the other thing I would just mention is keep in mind, if you just take a step back for minute on the M&A side. In the early days of these acquisitions, that's -- there's going to be some meaningful integration costs on the front end.
+But again, beyond 2024 these deals are nicely accretive as we get through that integration costs period. So again, good -- I think it's a very nice adder to the portfolio. And if you think about the work that we're trying to do on improving the quality of the portfolio, this is all good news for '25 and beyond.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [21]
+--------------------------------------------------------------------------------
+
+          And then Julian, this is Sean. Just one to put a button on your question around the incremental revenue in '24. On June 3, we announced the closing of the Access Solutions business. We also increased our guidance by $400 million for the year.
+Now this new guidance reflects another $400 million of related M&A revenue in '24. So a full year '24, about $800 million of which we had a month of excess solutions during the month of June in the second quarter such that give you enough to kind of walk through the quarterly through the balance of the year.
+And then we talked about a run rate of close to $2 billion collectively going into '25. As Greg said, is going to be each of these deals are coming in at accretive growth rates to the respective businesses as well as Honeywell overall.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [23]
+--------------------------------------------------------------------------------
+
+          Thank you, Julian.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Nigel Coe, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Good morning, I hate to be a bore, but I do want to come back to this guidance revision math. My understanding was the LNG acquisition was actually margin accretive, but I think maybe 30% or 40%. So on that [$400 million of incremental M&A revenue. It feels like you've got over $100 million of segment income coming through here. So it feels like the core guide is getting cut by maybe $200 million]. Is that correct? And how do we think about that? Is that solely within the IA and BA segments? And is it all margin? Just want to clarify that.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Sure. So most of the cut is in IA, BA for sure that is where the short-cycle long-cycle mix changes is most pronounced for sure. And yes, we're getting incremental segment profit on these new acquisitions. As I mentioned, there's going to be some integration costs on them early on and then net of the interest costs that we're going to bear. That's where we talk about I don't know $0.04 to $0.05 roughly of degradation in the EPS guide associated with that.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          But the repo costs coming down, Greg, by about $50 million. So are you talking about integration costs over and above repo? I mean, can you just help us out how much segment --
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [28]
+--------------------------------------------------------------------------------
+
+          Yeah. Integration costs get incurred inside of segment profit unless there's a repositioning project associated, but there are ongoing integration costs that go into the segment, profit of the business that we're acquiring into that SPG.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Okay. My last question, Greg, is what is the impact on segment income from the new acquisitions in the back half of the year?
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [30]
+--------------------------------------------------------------------------------
+
+          I don't think we're giving you a precise answer on that. There's a range around inside of what I was sharing. So I'm not going to give you like a pointed precise number.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Okay, no problem. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Scott Davis, Melius Research.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, Vimal and Greg and Sean.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [34]
+--------------------------------------------------------------------------------
+
+          Hi, Scott.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I'm looking at these book-to-bills on slide 11, I don't think we don't have a lot of history with you guys talking about book-to-bill, but they look pretty encouraging. I just wanted to get kind of your view on historically, they've been relatively volatile. Are they something that we can kind of take to the bank, if you will, that this does indicate a pretty sharp acceleration in the back half?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Yes, Scott, actually one of the highlight for this earnings story is our orders performance in second quarter. Our orders grew double digit in building automation, high-single in industrial automation and double digit in energy and sustainability solutions. So that has put our backlog now to $32 billion, up 5%.
+And that's really what is now flowing into our revenue of second half with a strong book to bill, which we did in second quarter. By the way, the forecast we have for the order for the second half is also very strong. So essentially, we have pivoted towards our guide towards long cycle on the strength of the backlog and the forecast we are getting on the long-cycle businesses because it gives us more assurance and more visibility. And that's why we called our book to bill, which is nearly one. And we feel that this is standing on a very strong footing at this point of time.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Okay. And Vimal, could you walk around the world are before us? I mean have you seen any meaningful changes in the key regions and notably China?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [38]
+--------------------------------------------------------------------------------
+
+          Yeah. No, I would say I will call out the two biggest region for us, China and Middle East. I would say China Honeywell continues to do well, thanks to aero and energy businesses we have here we scored high single in last year. We are trending towards similar rates this year.
+Our short-cycle businesses are challenged there too, like the economic cycle of China as we all read. Middle East remains a counter point for us. It is growing very strongly, specifically Saudi Arabia, also UAE, we see a strong momentum.
+And in a way, we are counting on that version in the times ahead to the slowdown of China progressively every passing year. Europe, actually, we are seeing recovery. We have seen good revenue progression for Honeywell in the first half of the year. So probably bottom is behind us and that's how we are looking at times ahead for Europe for us. So that's kind of some high-level comments on geography.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Okay. Very helpful. Thank you. Good luck.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [40]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Andrew Obin, Bank of America.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bank of America - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Yes, good morning.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [43]
+--------------------------------------------------------------------------------
+
+          Morning.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [44]
+--------------------------------------------------------------------------------
+
+          Hey, Andrew.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [45]
+--------------------------------------------------------------------------------
+
+          Hey, just a question on aerospace and as I said, maybe it's too long term. But just sort of thinking about the mix for aero into the second half, which I believe you've sort of highlighted as a drag. Vimal, are you guys changing your approach to monetizing programs in aero.
+There are sunsetting because my understanding that they have been sort of a steady source of upside over the past couple of years. Are you as you sort of become the Chairman and your changing approach to how to think about your portfolio there?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [46]
+--------------------------------------------------------------------------------
+
+          I mean, I would say we absolutely are looking to make aero more of a longer cycle, a growth vector for Honeywell. Aero has always the cycle, up cycle, down cycle, and we are really positioning it to grow high single for until next five to seven years.
+And there's an organic growth work, which is happening around it through new products, but equally importantly, the acquisitions, which we made of Civitanavi and CASE both are targeted to defense segment. And defense segment, we are bullish on the growth occurring in defense. Our backlogs are growing very nicely there.
+So we're really pivoting towards higher growth segments within aerospace to maintain our growth rates there in the times ahead. And I remain very bullish and optimistic on how your business is going to perform in next several years ahead.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bank of America - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          And I guess I'm going to go back to the question that everybody else asked. As we go through sort of the list of the performance of businesses this quarter, right? I mean, with very few exceptions, it seems that short-cycle businesses have actually done as well as you were expecting.
+So another way of asking the question now that you're Chairman, are you just taking a more conservative approach to sort of how to think about the framework going forward given the level of macro uncertainty out there.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [48]
+--------------------------------------------------------------------------------
+
+          I mean, I think the macros are reality, Andrew, at the end of the day, that's something which I don't control. So long-cycle businesses are performing well because the segments we serve are attractive energy transition, aerospace, and that's certainly helping us.
+I think short-cycle businesses are reverting back. I'm not suggesting that they are contracting, but the reversion is more at the lower end of our initial estimate at start of the year versus at the mid or upper end of it that's only subtle difference.
+And the swing between the mix of short and long is the difference in the margin because we are raising the low end of our guide of our revenue. This shows our confidence in the overall business, organic growth, because my comment right from the day I started is organic growth is my highest priority, and we are delivering on that.
+Our guide is five to six, my goal will be, of course, to deliver on the upper end of it. And I would argue in the very first year of my inception in the job that's not a bad outcome and we'll strive for that subsequent year. I don't want to leave any impression that short cycle is less important, long cycle is more important. I think it's a just a derivative of how markets are performing and how we are performing in the markets at this point of time.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bank of America - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Thanks so much.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [50]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Deane Dray, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [53]
+--------------------------------------------------------------------------------
+
+          Hi, Deane.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [54]
+--------------------------------------------------------------------------------
+
+          Good morning, Deane.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          I was hoping to get some commentary if you're seeing any of the election worries delaying customer decisions and it's not really related, but any impact from the CrowdStrike fiasco early in the week, anything rippled through your businesses?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [56]
+--------------------------------------------------------------------------------
+
+          I mean, I've been nothing on the CrowdStrike, no impact on Honeywell. We are not a user of that software. We obviously pay a lot of attention to our cybersecurity strategy and remain very vigilant on that. So I'm never going to claim victory on that front. We need to stay vigilant.
+I think elections, look I mean, we always well prepared for both the scenario that's not new for a company like Honeywell, but this year, elections are more than a US factor spending around our rest of the world. And clearly, that is certainly been a factor on how economies are shaping up that's my view.
+I think there was a lot of stories around half the world is going through elections, but that's not playing out because of the results are out. And I think the biggest one in US we are anxiously waiting on how the results will play out in a couple of months down the line, but we are prepared in either scenario. This is something we do for a living and we anticipate each outcome and how will it impact us.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          That's great to hear. And then just a second question, I know we're still early in the deal integration, but where would you highlight some of the revenue synergy opportunities? What would be the biggest and potential timing.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [58]
+--------------------------------------------------------------------------------
+
+          Look, I would like to highlight that all the deals we have announced none of our deal ROIs are either based on sales synergies we don't count it. Having said that, each of the four deals we have done, they are highly synergetic to Honeywell, and that's has been our team.
+I'm equally -- I'm bullish on all the four deals and synergy to bring, aero has substantial synergies on both CASE acquisition and in Civitanavi acquisition. Same is true for both UOP and HPS and LNG because we were always present and LNG segment. This was not a new arrival for us.
+But with the deep technology expertise, this new Air Products business bring it just going to further enhance our LNG penetration and growth rate in that segment. And Carrier acquisition we have talked in some of the earlier calls it's all about taking that business truly global because our business is very concentrated in North America, and that's going to provide us sales synergies.
+So there are two factors in these acquisition I'll call out. The first is all the acquisitions we made, they are accretive to the baseline growth rate of Honeywell, all of them. Second the sales synergies are icing on the cake on top of it, and we will deliver on that as we integrate them in 2025 and more. And that's going to be a strong part of our earnings story in the times ahead.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [60]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+          Sheila Kahyaoglu, Jefferies.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Good morning, Vimal, Greg, Sean, thank you.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [63]
+--------------------------------------------------------------------------------
+
+          Good morning, Sheila.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Good morning. Maybe just to start on the top line with aerospace. Can you talk about commercial OE, and how you're thinking about where your MAX and 787 rates are today and how they progressed through the year? Is Boeing signaling any sort of change to your output as we think about the rest of the year and into '25?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [65]
+--------------------------------------------------------------------------------
+
+          Sheila, we are constantly calibrating our output with all the key OEMs on a 12 months rolling frequency. That has been a process for a while now I would say that based on the recent adjustment path, both Airbus and Boeing.
+We have calibrated our volumes aligned with them. It's not a major change, but there's some small change specifically on the electronic side, where we don't have much past dues, but the change is not material to aerospace and not material to Honeywell, but our guide does factor changes, which have been signaled by both Airbus and Boeing recently.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          So how do we think about the OE growth? Is it up 20%, I think?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [67]
+--------------------------------------------------------------------------------
+
+          This year, it's going to be up strong double digit (multiple speakers) so you're in the right neighborhood, yes.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [68]
+--------------------------------------------------------------------------------
+
+          The way we think about aerospace by end market would be something approaching 20% for OE is reasonable, something like mid 10s for aftermarket and then double digits for defense and space.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [69]
+--------------------------------------------------------------------------------
+
+          Okay. And then just on the profitability, you have about 100 bps of contraction, I think in the second half despite more typical collection credit dynamics. So how do we think about profitability in the second half and how the Cobham acquisition changes that?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [70]
+--------------------------------------------------------------------------------
+
+          Yeah. So as we talked about the mix inside of our deliveries has caused us quarter to quarter volatility, I'll call it for lack of a better word. And third quarter is likely going to be the lowest margins rate of the year for us, and we expect that will then recover back in fourth quarter. And that's based on again, what we can see in terms of what's in the backlog, the margin on those products, et cetera.
+And we talked about the fact that aero on an organic basis, we're going to be roughly flat in margins this year. And then layering on, in the CASE acquisitions, that will have a negative impact on that baseline, and then we'll bring it back up from there.
+So as you start seeing the third and the fourth quarter prints, that's what you should expect as you see inside the aero margin rate. But it's not a change in our overall outlook definitely amplitude from quarter to quarter to quarter as we've been discussing, given the mix of the products we're delivering even inside the OE itself. But no, real change in our outlook on how that is performing.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies - Analyst    [71]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [72]
+--------------------------------------------------------------------------------
+
+          Andy Kaplowitz, Citigroup.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citi - Analyst    [73]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [74]
+--------------------------------------------------------------------------------
+
+          Good morning, Andy.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citi - Analyst    [75]
+--------------------------------------------------------------------------------
+
+          Vimal or Greg, maybe double-clicking on the short-cycle businesses that are resulting in the lower expected organic margin in the second half? I think you said building products orders have been improving or they just improving more slowly than you thought, and you saw weaker than expected June. Is that one of the issues? And then maybe same question on productivity solutions or sensing, what are you assuming for these businesses in terms of rate of recovery now?
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [76]
+--------------------------------------------------------------------------------
+
+          Yeah. Thank you, Andy. So a couple of things to keep in mind, just to remind when we gave our guidance on June 3, that's obviously before the third month of the quarter. And remember, half of our results happened in the third month of any given quarter. So that just speaks to like what we were able to see at that moment in time versus what we can see today.
+But your supposition is exactly right. There are certain parts of the short-cycle businesses inside of building products and inside of IA short cycle that are slower than we had hoped. And so that's really what's driving the margin mix. It's getting offset, as we mentioned by the building solutions sales, the HPS project sales, et cetera, but they're still improving sequentially. So that's not -- that is also still true. They're improving sequentially, but not as robustly as we would have liked.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citi - Analyst    [77]
+--------------------------------------------------------------------------------
+
+          Helpful, Greg. And then obviously, stepped up M&A activity considerably. Do you see the recent rate of M&A continuing. Is the M&A market conducive to that? And then you've talked about divestitures or ramping that up. Can you offset dilution that you might eventually get from divestitures to still grow that 10% in terms of -- in line with your longer-term algorithm?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [78]
+--------------------------------------------------------------------------------
+
+          That will only play out. I mean, I can only say on divestiture, I would say we are working on it, and I would be disappointed if we do not show any progress during 2024. And as those things play out, we'll update you on its implication on our earnings guide, if any, we have taken cost actions, but that's work in progress.
+And you can expect to hear more from us as the year progresses. On M&A front, our pipeline is still active. We are obviously conscious of the fact we have done four deals, we have to integrate them. We don't want to take that lightly but it doesn't mean that we are walking away from the market and be actively sourcing what's available out there.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citi - Analyst    [79]
+--------------------------------------------------------------------------------
+
+          Appreciate it, guys.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [80]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [81]
+--------------------------------------------------------------------------------
+
+          Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+
+          Joe Ritchie, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs & Company, Inc. - Analyst    [83]
+--------------------------------------------------------------------------------
+
+          Hey, guys. Good morning.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [84]
+--------------------------------------------------------------------------------
+
+          Hey, Joe.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [85]
+--------------------------------------------------------------------------------
+
+          Hey, Joe.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs & Company, Inc. - Analyst    [86]
+--------------------------------------------------------------------------------
+
+          And so thanks for the color. So just maybe just focused on BA and IA for a second and the margins that are expected for the year there. How is the expectations just changed for those two particular segments for the year?
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [87]
+--------------------------------------------------------------------------------
+
+          Yeah. They're coming down versus what we had anticipated. And again, mainly because of the back half margin performance expectations. But we still expect that on an overall basis, we will make progress in BA in particular, we ought to see a little bit of improvement. It's just not going to be as robust as we had thought in the beginning of the year. So think about that in a [tens of basis points] as opposed to 100 basis points.
+And on the IA side, similarly, we expect to make some progress in the year, but it's probably going to be in the [tens of basis points] over the all for the full year as opposed to 100 basis points type of range.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [88]
+--------------------------------------------------------------------------------
+
+          But progress, nonetheless --
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [89]
+--------------------------------------------------------------------------------
+
+          Keep in mind, inside of IA, we are overcoming, the very accretive license payments relative to the PSS business that we're in were a nice lift for us and now we're going to experience three quarters of that loss this year and one quarter of the next year.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs & Company, Inc. - Analyst    [90]
+--------------------------------------------------------------------------------
+
+          Yes. Okay, great. And then I guess just I know a lot of the comments on the change in margins has been driven by the mix commentary, and we've highlighted that already. I'm just curious, has anything changed from a pricing standpoint or like raw material inputs or inflation? Just any comments around that would be helpful.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [91]
+--------------------------------------------------------------------------------
+
+          The pricing, Joe is trending in the direction we have signaled we are at a rate about 3% and we expect second half to be a little slightly stronger. The punch line is our price cost is just about neutral and our productivity is very strong, which is giving us the margin expansion across our businesses.
+And what -- as explained before, the margin rates at EPS level, it just mix within the businesses itself. But pricing remains at the right level and we do expect this [3%] -- I've spoken before that the era of 1% price is over, so we always should expect something greater than that and we are demonstrating that in 2023.
+
+--------------------------------------------------------------------------------
+Gregory Lewis,  Honeywell International Inc - Chief Financial Officer, Senior Vice President    [92]
+--------------------------------------------------------------------------------
+
+          Yeah. And again, on the inflation side, no big changes. There's always something that comes along --
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [93]
+--------------------------------------------------------------------------------
+
+          Electronic I would say, remains hot, that's where we continue to see elevated level of pricing, but others are I would say -- and labor. Labor is and will remain a high elevated inflation category for us.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs & Company, Inc. - Analyst    [94]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [95]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [96]
+--------------------------------------------------------------------------------
+
+          Thank you. Ladies and gentlemen, that concludes our time allowed for questions. I'll turn the floor back to Mr. Kapur for any final comments.
+
+--------------------------------------------------------------------------------
+Vimal Kapur,  Honeywell International Inc - Chairman and Chief Executive Officer    [97]
+--------------------------------------------------------------------------------
+
+          I want to express my appreciation to our shareholders for your ongoing support and again, to our Honeywell future shapers, who are driving differentiated performance for our customers. Our future is bright, and we look forward to sharing our progress with you as we continue to executing on our commitments. Thank you for listening, and please stay safe and healthy.
+
+--------------------------------------------------------------------------------
+Operator    [98]
+--------------------------------------------------------------------------------
+
+          Thank you. This concludes today's conference call and you may disconnect your lines at this time. Thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

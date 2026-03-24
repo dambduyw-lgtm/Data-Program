@@ -1,0 +1,546 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 Colgate-Palmolive Co Earnings Call
+OCTOBER 31, 2025 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Stanley Sutula
+   Colgate-Palmolive Co - Chief Financial Officer
+ * John Faucher
+   Colgate-Palmolive Co - Chief Investor Relations Officer and Executive Vice President, M&A
+ * Noel Wallace
+   Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Olivia Cheang
+   Raymond James - Analyst
+ * Dara Mohsenian
+   Morgan Stanley & Co Ltd - Equity Analyst
+ * Andrea Teixeira
+   JPMorgan Chase & Co - Analyst
+ * Lauren Lieberman
+   Barclays Services Corp - Analyst
+ * Bonnie Herzog
+   Goldman Sachs Group Inc - Analyst
+ * Robert Moskow
+   Cowen and Company LLC - Analyst
+ * Peter Galbo
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Edward Lewis
+   Redburn Partners LLP - Equity Analyst
+ * Robert Ottenstein
+   Evercore Inc - Equity Analyst
+ * Filippo Falorni
+   Citi Infrastructure Investments LLC - Analyst
+ * Chris Carey
+   Wells Fargo Securities LLC - Analyst
+ * Steve Powers
+   Deutsche Bank AG - Analyst
+ * Kevin Grundy
+   Exane Bnp Paribas - Analyst
+ * Michael Lavery
+   Piper Jaffray Inc - Analyst
+ * Peter Grom
+   UBS Russia Ltd - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, welcome to today's Colgate-Palmolive third quarter 2025 earnings conference call. This call is being recorded and is being simulcast live at www.colgatepalmolive.com. Now for opening remarks, I'd like to turn this call over to Chief Investor Relations Officer and Executive Vice President, M&A, John Faucher.
+
+--------------------------------------------------------------------------------
+John Faucher,  Colgate-Palmolive Co - Chief Investor Relations Officer and Executive Vice President, M&A    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, and welcome to our third quarter 2025 earnings conference call. Today's conference call will include forward-looking statements. Actual results could differ materially from these statements. Please refer to our third quarter 2025 earnings press release and related prepared materials and our most recent filings with the SEC, including our 2024 annual report on Form 10-K and subsequent SEC filings, all available on Colgate-Palmolive's website for a discussion of factors that could cause actual results to differ materially from these statements.
+Our remarks will also include a discussion of non-GAAP financial measures, which exclude certain items from reported results, including those identified in tables four, six, seven, eight and nine of the earnings press release. A full reconciliation to the corresponding GAAP financial measures is included in the third quarter 2025 earnings press release, and is available on Colgate-Palmolive's website.
+Joining me on the call this morning are Noel Wallace, Chairman, President and Chief Executive Officer; and Stan Sutula, Chief Financial Officer. Noel will provide you with some thoughts on our Q3 results, and our future plans, and then we will open up for Q&A. Noel?
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, John, and good morning, everyone. Thanks for joining us today as we discuss our Q3 results and more importantly, the steps we are taking to accelerate our performance in this volatile operating environment. Importantly, focused on the priorities and actions set out in our 2030 strategy.
+As you will hear today, consumer uncertainty, tariffs, and geopolitics, high cost inflation and other factors are all pressuring sales and profit growth across the consumer sector. Despite these headwinds, we are operating with determination and focus. We have healthy brands and growing categories with strong market shares and a diverse global footprint, with nearly 50% exposure to faster growth in emerging markets and a best-in-class global supply chain to service that demand.
+We remain committed to our goals of delivering organic sales growth, net sales growth and dollar-based EPS growth and to our capital allocation priorities, to drive total shareholder return towards the top end of our peer group. We have done that over the past five years and have confidence in our ability to continue to do that.
+What drives this confidence is our ability to execute on our 2030 strategy to accelerate change as we adapt to this complex and changing environment. Coming off our 2025 strategic plan, we've improved our innovation, built and scaled our capabilities, improved organic sales and market share performance and delivered consistent annual dollar-based EPS growth.
+This is the perfect time for our strategic transition as we're coming off our 2025 plan, which built the organizational muscle necessary to execute our strategy and focus on global alignment. This is not wholesale change, but rather, we are working to accelerate the rate of change as we embark on our 2030 strategy.
+We have made and are continuing to make the changes that are required to drive out-performance and over the strategic time horizon of our 2030 strategy, we will emerge a stronger and more effective company.
+As I outlined in September, we are taking concrete intentional steps to accelerate our growth going forward. Steps that will drive performance in end market environment, but particularly important now. These include, a new innovation model with additional resources focused on delivering more impactful science-based innovation across all price tiers.
+This new model includes investment in people, process improvement and resources and tools, including AI, to make us faster and better able to prioritize the innovative products and packaging that matter most to our customers and consumers. We are focused on omnichannel demand generation, including up-skilling our commercial organization to be more consumer-centric by adopting how we deliver the right products, with the right content, with the right message, to the right people at the moments that matter.
+This will help continue to build the strength of our brands and drive brand penetration.
+Having scaled new capabilities we prioritized as part of our 2025 strategy, including digital, data, analytics and AI we will drive more dynamic change by accelerating our investments and efforts in areas like RGM and agenticAI, working to drive efficiency, disrupt our own processes and integrate new ways of working across the company. And using predictive analytics and automation more and more across our supply chain to deliver personalization at scale drive optimal asset utilization, minimize downtime, improve our service levels and enhance our quality systems.
+Underpinning many of these initiatives is our Strategic Growth and Productivity Program. While this program will enable us to fund incremental investments and deliver savings to drive dollar-based earnings growth, it is even more vital as a strategic enabler to facilitate the changes in behaviors and processes needed to accelerate organizational change, making us more flexible and simplifying our processes to increase speed and efficiency. Because of these actions and the fundamentals of our business, we believe we are well positioned to outperform in the context of the current global category slowdown for several reasons.
+The strength of our business in emerging markets gives us the ability to drive faster category growth as developed markets remain sluggish. Hill's underlying performance remained very good in a softer category, given our robust innovation and our ability to gain market share in low development segments like Cat, Vet and Small Paws.
+The health of our brands across categories following years of investment provides us with opportunities to drive pricing to offset raw material inflation. Across our business use, we continue to have well-funded advertising and innovation plans, and we're operating with an even greater focus on revenue growth management, particularly with prescriptive analytics and AI. And we continue to generate strong cash flow to invest in the business and help drive TSR.
+The timing for us to be kicking off our 2030 strategy could not be better. We are seeing this moment as the 34,000 Colgate-Palmolive people around the world work to deliver on the change needed to reaccelerate growth and outperform. And with that, we'll take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Dara Mohsenian with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Dara Mohsenian,  Morgan Stanley & Co Ltd - Equity Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Hey there. Good morning.
+
+--------------------------------------------------------------------------------
+Dara Mohsenian,  Morgan Stanley & Co Ltd - Equity Analyst    [4]
+--------------------------------------------------------------------------------
+
+          So clearly, a difficult operating environment here in terms of category growth in household products, as you mentioned, Noel, with all the consumer pressure points. Can you just give us some perspective on if you expect the category softness to linger as we look out to 2026?
+You also highlighted a number of focus areas for your own business in 2026 within that landscape. So just how impactful and quickly do you think those levers might be in improving your own organic sales growth performance, again, as we look beyond this year?
+And if I can just slip a Part B in. Can you just review Hill's, specifically, volume mix dropped off in the quarter? I know there are some factors exaggerating that, but it did look like the underlying performance was perhaps weaker. So just an update on Pet category trends and Hill's market share performance, specifically would also be helpful.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dara. So clearly, a lot of volatility in the market, particularly in the quarter, we're seeing month-to-month swings that are quite frankly, pretty surprising through the quarter. August was very difficult, but September shipments did get better. But just not enough to make up for the August softness we saw.
+So if I look back at my upfront comments, which I think clearly lay out exactly how we're thinking about the business, both short term and long term. As we switch to our 2030 strategy, we feel we're in a position of strength here. We're executing against the changes that we implemented through 2025 and the new changes that we believe contemplate the current environment, which we expect to continue in the short term, certainly to be sluggish.
+The SGPP will provide the right organizational structure and the capabilities while funding importantly, increased investment in helping us drive that dollar-based earnings per share growth you talked about. So if I go around the world perhaps in terms of the operating environment, on an underlying basis, we think North America was actually a little better for us this quarter, and particularly ex-Skin, but we're still not where we need to be there. And I'm pleased to see how [Shane] and [John Koeman] are truly tackling the opportunities that we see on the business.
+Categories were slightly weaker in Q3 in North America, but our performance improved sequentially, and we expect that to continue sequentially, particularly excluding Skin Health. Consumer still remains relatively weak across North America, as you point out. We're seeing higher levels of couponing. Hispanic traffic is still down. And if you've heard from others category takeaway in the U.S., particularly in September, was a little softer than most of us anticipated and a little softer than preceding months.
+So -- and if I move on, again, we expect that to continue. But this SGPP plan, Dara, what I'm really trying to get across here is we're anticipating a continued sluggishness, but we're making the changes necessary to stimulate growth, not only for our business but for the categories, and that's going to be consistent all over the world. As expected, let me get into Europe.
+We're seeing a little less pricing than before. Volume was in line, maybe slightly lower than we were expecting. Western Europe was strong, better than we expected some incremental weakness in Eastern Europe, particularly in Poland. Latin America is mixed. Although Mexico and Brazil, better for us and for some others.
+Organic was up mid-single digits in both Mexico and Brazil. Conversely, Colombia and Central America were a little softer as they're dealing with more economic weaknesses in those markets and more political volatility that's impacting consumption across those regions.
+So if I move on now to perhaps China. China is a mixed bag for us. Colgate continues to do well. As E-commerce and innovation are key drivers for us in that market and doing exceptionally well. We were up mid-single digits on the Colgate side. However, -- continued to see some weakness, particularly in Premium E-commerce. We are taking aggressive steps to address our innovation and our E-commerce business there, but it's taken a little longer than we anticipated to see the changes.
+As you saw in the announcement, India was a little softer, but we expect that to improve moving forward. The GST came through in the quarter, medium- and long-term positive, we think, for the benefit. It created some additional headwinds as we went into the quarter -- as we exited the quarter. But importantly, we are really focused on getting some big core innovations executed across that country and pushing our premium innovation, particularly in the urban class of trade where we've seen some sluggishness.
+And so let me move on to Hill's quickly to balance out your question at the end. Hill's from the category remains a bit soft, but we particularly saw a Dog dry-down but Cat way-up. U.S. growth slowed a bit, but that included some headwinds from lower E-commerce inventory that got pulled out at the end of the quarter, a little softness in Canada due to the buying Canadian sentiment. But overall, we're pleased with Hill's.
+If you take ex-private label up some good growth there, and we're gaining share there across almost every strategic growth segment there is -- and that again is, I think, a testament to the strategy we put in place in the last couple of years, the increased capacity we have in areas like Vet, and we obviously are expecting the category to remain a little bit sluggish in the short term, but the opportunities for growth remain real and particularly in those faster-growing segments like Cat and Vet and we believe we've got the plans in place to do that.
+So despite a positive growth in our categories, but slower than we anticipated in the quarter, raw material inflation, tariffs. Obviously, some -- destocking, we're still delivering dollar-based earnings per share and strong cash flow. And overall, that's exactly how we expect this to continue to trend.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Peter Grom with UBS.
+
+--------------------------------------------------------------------------------
+Peter Grom,  UBS Russia Ltd - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Great, thank you. Good morning, guys. I wanted to ask on Latin America, Yes. So first, just the prepared remarks, there was a comment regarding a decline in Oral Care due to the replacement of trade inventories in connection with the formula change. So can you just give more color on what happened there? And is there a way to quantify the impact it had on the quarter?
+And then second and related growth in the region has been more in this low single-digit range this year as pricing has moderated. And Noel, your commentary to Dara's question was helpful. Just as we look ahead, would you expect more of the same? Or do you see an opportunity for growth to improve from here?
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [8]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Peter. So yes, Latin America organic was 1.7%. But if you include -- which includes 150 basis points negative from the volume impact from the Colgate Total replacement, which I'll talk to perhaps in a second here.
+As I mentioned just a second because we were pleased with Mexico and Brazil, both up around 4%. So overall, those markets continue to perform well. Pricing is improving but a little bit in expensive volume. We saw volume a little bit sluggish in our categories, not to be expected given some of the prolonged pricing we've taken there. So let me explain a little bit more on Colgate Total.
+Globally, through the third quarter, Colgate Total continues to do well, driving organic sales growth and premiumization as we've been able to take pricing on this pretty significant innovation. We've rolled it out around the world with new regimen claims and toothpaste, mouthwash and toothbrush are seeing some good share growth in general around the world. So we're pleased with that.
+If I go back to Latin America, we noticed an increase in consumer complaints, including some temporary mouth irritations, in Latin America early in the year, with the majority coming from consumers who had used the Clean Mint variant. This was mostly people who brush their teeth three, four sometimes even 5 times a day. We determined this is primarily due to the new flavor. So we adjusted the formula and in collaboration with the Brazilian health authorities we voluntarily replaced the impacted variance in Brazil with the reformulated product, and we've seen Colgate Total market share to begin to improve subsequent to that change.
+We are currently also replacing the impacted variance in other markets in Latin America. This was the gross margin impact that we discussed in the prepared commentary, 40 to 50 basis points, while we did not see the same level of complaints in other markets. We are proactively adjusting the formula for the impacted variance around the world. There may be some further costs going forward. But at this point, we believe the majority of costs have already been incurred.
+Coming back to some of the categories in Latin America still growing but have slowed a little bit in the recent periods, driven by particularly volume while we're still getting pricing in the categories, and this, as I mentioned just a moment ago, is more acute in -- in Central America, where we're seeing a little bit more price competition in those markets. We're making the necessary changes to adjust to that. and we're working on sharpening our price points to improve our volume shares. Overall, Latin America, volume shares for our Total Oral Care business were flat slightly down in value, as I mentioned, due to perhaps the Total replacement. We're starting to see those shares come back nicely.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          The next question comes from Kaumil Gajrawala with Jefferies. Please go ahead. But don't cry for anybody who is spending all that money on it. Go to the next question. The next question comes from Filippo Falorni with Citi.
+
+--------------------------------------------------------------------------------
+Filippo Falorni,  Citi Infrastructure Investments LLC - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Everyone. Welcome. Good morning. On the Asia Pacific business, Noel, you mentioned the GST tax change, obviously, impact on India. Any sense of quantifying that impact also and you mentioned an improvement going forward. Is that the main driver? Are you expecting also an improvement in the macro conditions there? And any comments on the local competition in the market will be helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [11]
+--------------------------------------------------------------------------------
+
+          Yes. So Filippo, let me address India first. Thank you. As you saw from the India -- results, organic was down mid-singles. Underlying demand in India, mostly in the urban part tends to be a bit sluggish rule.
+Rural seems to be holding up okay. We had very difficult comparisons, as you well know, pleasingly, comps get easier, and we feel we've got really good plans moving forward, and we expect better performance in the fourth quarter and returning obviously to growth in 2026.
+The GST tax in our categories, particularly Oral Care and Toothpaste went from 18% to 5%. As you can imagine, this led to some price reductions and disruptions in trade inventories. I think our team did a really good job to manage that and get ahead of it and get it cleaned up as we move into the fourth quarter. Longer term, we would expect the GST reduction to benefit consumption in the category, which has been challenged by the inflationary pressures there. So overall, we think this will be a net positive for us.
+Moving forward, we're obviously very focused on addressing some of the sluggishness we're seeing in the rural areas. We've got a strong premiumization strategy to continue to grow share in the modern trade and particularly in urban areas, and we'll be reviewing that business in detail with the teams next week, but we're excited about some of the strategic areas that we're going after and the long-term growth potential of that market.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Robert Ottenstein, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Robert Ottenstein,  Evercore Inc - Equity Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Great. First, a quick follow-up just on Latin America. If you can give us just a sense of where the market share is ended up with the relaunch and your thought of the impact of the formula change on that? And do you -- what is the outlook for 2026?
+And then my main question is on the drugstore channel in the US, very weak, not a great channel to shop in, products under locking key. How are you dealing with that, the challenges of that channel? And then perhaps related to that, Elmex has been a huge success in Europe. -- drug store channel in the US, not the greatest venue for that. How are you thinking about that dynamic, the weakness of the drug store channel as well as the potential of Elmex in the US?Thank you.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Rob. So let me try to take those in turn. First, on Colgate Total, we got out of the gate really, really strong with that relaunch. So market shares grow incrementally for the business.
+As you can imagine, we stay very close with our consumers. And as I outlined, made an adjustment to the flavor in order to address some consumer complaints and the irritation associated with select variants. The good news is that product is -- new product is rolling in, particularly in Brazil and Mexico and across the region as we speak. And the early indications is we're starting to see the shares come back quite nicely. We have a really strong marketing plan for the year -- for the quarter to go, the quarter we're in right now.
+So we're quite confident that we will see the business rebound nicely.
+As I mentioned, it was about 150 basis points of negative organic in the quarter for Latin America, about 40 to 50 basis points of total gross margin hit. So the good news is we're moving forward and confident in what we're seeing with Colgate Total.
+If I move to Asia, particularly where we're seeing some very strong results on Colgate Total, we're very encouraged by the progress we're seeing in that region. As I refer to your question around the drug class of trade, it is challenged. The good news is we have reengaged them in conversations in the middle store, about how to drive more traffic back into those stores. I mean, obviously, CVS announced a more improved results this week as you may have seen. So we're hopeful they're committed to getting the middle of the store addressed, and certainly, the therapeutic end of the business, our Whitening business continues to do quite well there.
+But they are challenged right now, and we're working very closely with them, to improve the category dynamics through some of the revenue growth management initiatives and more importantly, some of the high-end therapeutic premium innovation we're bringing to it.
+Elmex, wonderful business. I won't get into the discussion on Europe at this stage, but driving record shares for us in Europe. We have taken that bundle to your point, Rob, into other key strong pharmacy markets around the world. It requires a strong professional underpinning in order to launch that. Clearly, we have opportunities to take that into other markets.
+And as we decide to roll that into new markets around the world, we'll be sure to let you and other investors know because it's a wonderful bundle with great upside potential.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Robert Moskow, TD Cowen.
+
+--------------------------------------------------------------------------------
+Robert Moskow,  Cowen and Company LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Hi, thanks for the question. I noticed in the script that in the U.S., you mentioned some increased competitive activity, getting more promotional. You described it as fairly rational. Can you be more specific as to the degree to which it's intensifying and what you expect going forward?
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [17]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Rob. Yes, we've seen a slight uptick in promotional weights more couponing, a little bit more volume on deal, but nothing that would suggest that we're back to pre-COVID levels and higher. It's still, in my view, quite constructive. But you can imagine, as we've seen some volume slowdown in the categories in which we compete, I think all of the retailers and all the competitors are looking for solutions in order to drive more turn and more velocity in store and ultimately, that turns to volume.
+What's interesting is when you look at the volume characteristics in the U.S., we still see the premium and the super premium growing very, very nicely. It's the value-oriented brands or SKUs or segment as well as the mid-price segment that seems to be suffering.
+And importantly, as I outlined in our 2030 strategy, we are very deliberately looking at more core innovation across our franchises to stimulate more demand, particularly at the lower end, why we continue to focus on the significant growth opportunity we have in the premium segment around the world. So the strategy is much more intentional in getting more innovation out to stimulate demand, not only here in North America but around the world.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Lauren Lieberman, Barclays.
+
+--------------------------------------------------------------------------------
+Lauren Lieberman,  Barclays Services Corp - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Great, thanks so much. I just wanted to ask about the pricing environment in Europe. And we had a few years, obviously, post-COVID, where there's pretty constructive pricing. This quarter is still positive, but just curious about kind of the longer-term outlook and ability to keep driving positive price in Europe? Thanks.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [20]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Lauren. So clearly, as we said, we're really pleased with continued pricing in Europe. And I think we've learned a lot in the last couple of years, on how to manage price effectively, notwithstanding the fact that it will continue to be a challenge in the longer term, getting positive pricing every quarter, but we have certainly built a much stronger muscle on the importance of ramping up our innovation. And again, I come back to the SGPP and the focus we have on putting more resources into innovation, and that's going to allow us to take price-based innovation, particularly at the premium side of the business, and that will be our focus.
+Overall, the retailers have to be pleased with the category growth they're seeing on dollars and our ability to get pricing in the category, but it's going to be a balance. We need to bring real science-based innovation to drive the premiumization and take more pricing. I would expect that pricing our anticipation is that we can keep getting positive pricing as we move forward, but it will certainly be a little bit more challenged given the prolonged inflation that we've seen in the categories and our need to balance both pricing and volume growth moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          Bonnie Herzog, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Bonnie Herzog,  Goldman Sachs Group Inc - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          All right, thank you. Good morning. I had a question on your implied Q4 organic sales growth. I guess for the full year, guidance assumes a step-up in Q4 at the midpoint. So I guess, just hoping you could talk through the puts and takes for Q4 to get there? I guess I'm asking in the context of the still subdued end market backdrop and certainly the greater headwinds from private label pet food exit. Thank you.
+
+--------------------------------------------------------------------------------
+Stanley Sutula,  Colgate-Palmolive Co - Chief Financial Officer    [23]
+--------------------------------------------------------------------------------
+
+          Hi, Bonnie, it's Stan. So yes, let's talk a little bit about Q4. So we said in our guidance that Q4 organic or that full year organic will be roughly in line with the year-to-date. So if you look at the year-to-date, we're roughly 1.2%. So getting to the full year would indicate that we'd improve over the performance in Q3.
+If you think about the drivers that would help there, we had in the past that Noel articulated earlier around Total to the Total company, that's going to improve here as we go. And you also have heard in both our prepared commentary and some of the questions thus far that there was some de-stocking in certain markets and certain products. And so as that levels out, that also becomes a benefit year heading into Q4.
+In addition, on private label, the impact that you saw in Q3 year-on-year will roughly be about the same impact that you'll see in Q4 as we have completely exited the private label business, but we still have that year-on-year impact. So right now, as we look at Q4 and coming off of Q3 and the momentum that we see, we feel pretty good about that in line of our guidance of roughly in line with the Q3 year-to-date, which is around 1.2%.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Kevin Grundy, BNP Paribas.
+
+--------------------------------------------------------------------------------
+Kevin Grundy,  Exane Bnp Paribas - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Great, thanks you more. No question for you. I wanted to kind of take a step back and get your thoughts on top line challenges. How much of this do you believe is cyclical versus how much you believe maybe your Colgate-specific challenges, 1% organic sales growth in the quarter. I'm sure you're not pleased with it.
+It's levels that investors are less accustomed to seeing from Colgate. So number one, at a global level, where do you see industry growth at the moment, kind of rolling up everything, looking across your business relative to the 3% to 5% longer term? And then two, how much of this do you see as cyclical versus how much is company-specific and you think you can address with the strategy that you've outlined so far in the call.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Kevin. So let me just tackle the categories first. They obviously slowed, as I mentioned, in Q3 on a global basis, particularly for developed markets. The initial slowdown was driven by lower pricing across many of the categories, but that inflationary pressure as the inflationary pressure abated, we didn't see it necessarily coming back in volumes.
+And clearly, underpinning all of this is just the continuous consumer uncertainty as we talk to consumers and evaluate consumers around the world, it's not a question of them being confident. It's just the uncertainty with all the moving parts, that are going on and all the noise and rhetoric.
+So ultimately, on a global basis, categories are now for us growing roughly 2% on a global basis, probably more like 3% in the first half. So obviously, it's a bit slower. And that's versus the 4% to 5% exit run we had in 2024. So volumes today basically flat with pricing more or less too. So if you go back Kevin, historically, over the last 10 years, I mean, clearly, these are low levels of market growth.
+So whether you want to call it cyclical or not, I mean, it's clearly way below the historical averages. And so our anticipation is, yes, things will get better. But I want to reiterate, if things don't get better, we are preparing our plan and our strategy to address what we need to do to grow faster in this current environment. That's not only faster top line but faster margin growth and faster EPS to ensure that we're putting steps in place if this is to linger on for another couple of quarters.
+I do think it's somewhat cyclical versus historical numbers. But we're not waiting to see if it turns. We're taking steps now to ensure that we accelerate organic growth moving forward.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Peter Galbo, Bank of America.
+
+--------------------------------------------------------------------------------
+Peter Galbo,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, Nolan Stan. Thanks, for taking the question. I wanted to ask a little bit on the gross margin performance in the quarter. I know you called out maybe the acceleration in palm oil costs. And I just wanted to understand, A, how much of that is just base period effect? I mean the raw material pressure in the margin build clearly stepped up versus the second quarter. So I just want to understand, is that base period effects?
+Or is that something else? And then B, Noel, I know there's a lot of kind of geopolitical noise around it, but obviously, we have some Southeast Asia trade deals. We have political unrest in Indonesia, a lot of places where you source from. So maybe just the latest and greatest on what you're seeing kind of in the live market from a palm oil perspective? Thanks very much.
+
+--------------------------------------------------------------------------------
+Stanley Sutula,  Colgate-Palmolive Co - Chief Financial Officer    [29]
+--------------------------------------------------------------------------------
+
+          Let me start with the gross profit. First, gross profit margin was down year over year in the quarter versus Q3. But I would point out, Q3 of last year was the highest gross profit margin we've had since 2020. So the year-on-year impact is primarily driven through greater-than-anticipated raw materials inflation, and that is -- and oil is the biggest driver there. The impact of lower volumes on our fixed cost leverage from our production facilities, tariffs and other transactional FX. We also saw an impact that we talked about earlier from the formula change in Colgate Total Latin America, as we mentioned in the prepared commentary.
+For our guidance, what we've laid out is that our year-to-date margin is 60.1%. We expect the full year gross margin to be roughly in line with that, which would put you for at 60% plus or minus. The sequential improvement for Q4 versus Q3, we're confident in, because we expect that there will be less material inflation on a year-on-year basis. Transactional and Colgate Total impact will be partially offset by slightly greater tariff impact. So we're confident on the gross profit improvement as we go quarter-to-quarter which would deliver a gross profit margin for the year that's roughly in line with the year-to-date.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Chris Carey, Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Chris Carey,  Wells Fargo Securities LLC - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Hi, everybody. Thanks so much. Just to clarify that, was there -- were there anomalies than Q3 gross profit that should be easing from here over and above just the rising commodity backdrop? I just wanted to clarify that quickly. But really, the question is around advertising spending. Colgate has increased ad spending over the years. Obviously, this is allowing for a very full and rich source of investments to support your brands?
+I'm also conscious that you have peers that are looking at AI and automation to drive savings in advertising. Clearly, you talked about AI quite a bit in the prepared remarks. And I just wonder with sales and categories doing what they're doing. Is there any, I guess, desire or thought to think a bit more strategically about advertising spending going forward, and maybe less concentrating on percentage of sales? And how can the organization be more efficient with the spending so as to get the right return profile.
+
+--------------------------------------------------------------------------------
+Stanley Sutula,  Colgate-Palmolive Co - Chief Financial Officer    [32]
+--------------------------------------------------------------------------------
+
+          Chris, let me start with the gross profit. So just again, the kind of quarter-to-quarter anomalies as we think about what will drive that. From the total impact that we talked about in Latin America, that was roughly 50 basis points or so margin. And we believe that most of that is behind us, so that would be a benefit. And then we do see materials, gross materials easing a year-on-year basis.
+So that will also be a help. And now we're completely out of Private Label so that does -- not going to impact the current period GP. Obviously, it's still in the prior year. So we're confident in the GP improvement here as we go quarter-to-quarter.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+
+          Yes, Chris, let me talk about the advertising question because I -- this is one I'm spending significant amount of time on. And as we laid out our 2030 strategy, and we've talked about in previous meetings, AI and ultimately, the application of AI across a various vectors in our company is strategically very, very important, and we've been investing now over the last three years in that space, but we'll continue to accelerate our investment there.
+So if I look at the year-to-date spending on advertisement, which is roughly in line with last year's full year number, and we expect the fourth quarter to be roughly in line with the year-to-date. So advertising dollars and percent down slightly year-on-year as we lap obviously, the strong level of spending that we had in the year ago quarter in 2024.
+But we are still spending very robustly against our brands, although we pulled back a little bit in some markets where we saw the consumer is much more challenged, and we delayed some of the innovative launches that we had to -- so we adjusted spending accordingly. But we're still spending against what we call return on investment. You're very much looking at leveraging our media efficiencies to, as you pointed out, to get a much better return on the overall investment. We still expect advertising to be roughly flat this year on a percent of sales basis as we move forward. And as I talked about, we will look to the savings from our SGPP to continue to fund advertising and accelerate how we're thinking about building our brands moving forward.
+So let me talk a little bit about AI, and this is one that certainly I've hoped that our investors have seen that we've been really out in front of this as I talked about at CAGNY, it's a very important focus for us and a key strategic enabler for both growth and productivity as we move into the 2030 plan, and we're very, very excited about that. We've spent a significant amount of money in the last two
+years, training and up-skilling our teams on horizontal AI and their ability to apply that to drive more productivity. Our independent surveys that we see would indicate that we're making strong progress versus our peer growth in terms of using AI and its implementation across the company. We've launched AI hubs, using the world's leading generative AI models to ensure our people have secure access to the most advanced AI capabilities, and as I think I may have mentioned at CAGNY, this is, to me, a huge unlock to drive productivity across the organization.
+We'll move it into the next phase, certainly, as we go into 2030 more on a vertical basis, to really reengineer our processes and drive a lot more efficiency. But I thought I could talk about a couple of the areas that we're very focused on with regards to advancing AI and particularly as we move into agentic AI, which is the next big frontier for us that we're quite excited about. So marketing and content, we will be using generative AI, will be pivotal to transforming all of our marketing and digital strategies. We're going to significantly enhance consumer engagement through optimized real-time and compelling visual storytelling through AI-developed content. That's going to be exciting for us.
+We have some pilots in some pretty significant markets. They're showing very early -- success. The second big focus areas, as I mentioned in my upfront comments is around innovation and how we're going to truly step up the quality and quantity of our innovation using AI and our ability to much more efficiently generate more consumer-centric concepts and get those tested and validated much quicker and incubated across core markets. So that's exciting for us.
+As we look at some of the collaboration as we think about agentic commerce moving forward, an area that we're really thinking about collaborating closely with some of our big retailers, whether it's Walmart and OpenAI, whether it's Amazon, all of these will afford us the opportunity to unlock the potential that agentic commerce will bring, and we're certainly thinking about strategically how to make sure our brands play at the forefront of that and that exciting change that we're going to see from shopper behavior.
+So rest assured AI is central in terms of our strategic growth enablers for the 2030 strategy and the investments that we put in place over the last couple of years we think position us very well to continue to maximize on the trends that we're seeing with that exciting technology.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Michael Lavery, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Michael Lavery,  Piper Jaffray Inc - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. Thanks for the question. Covered already, there's been good stuff already just maybe a couple of quick ones on Pet. Cats are gaining share of the U.S. pet population. You pointed out some innovation in the EU. Is there a similar shift there in terms of the market dynamics favoring Cats?
+And you also pointed to the 20,000 distribution point gain in the U.S. Can you give a sense of maybe some of the timing and how much of that wraps into 2026? And maybe just on inventories as well. You cited a little pressure there. Are those at the right levels now? Or should we expect any more retailer reduction still to come?
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Thanks, Michael, for the question. So let me more broadly cover Hill's again, and I'll address in turn some of your specific questions. Overall, given the category slowdown and impressive quarter for Hill's and what I would characterize as pretty tough circumstances. Overall, we delivered 2.5% organic ex-Private Label and that came with some E-commerce inventory reductions we saw at the end of the quarter from some of our retailers. Therapeutic, which I didn't talk about in my upfront comments, continues to be a real growth driver for us.
+The Prescription Diet business is doing exceptionally well with market share growth, which is obviously helping our mix and gross margin and operating margins on that business moving forward.
+We saw a greater impact, as we've mentioned in the upfront comment on Private Label this quarter to the tune of about 300 basis points. Clearly, strategically, we're not in the business for producing private label. So this is going to get cleaned out as we move through the fourth and into the first half of 2026, which will be terrific for the business allow us to really focus on the short-term growth opportunities and longer-term strategic growth opportunities that we've talked about.
+So if I go back to the year-to-date and importantly, in the third quarter, we grew organic sales in almost every combination of Vet, Dry, Treats, Cat, Dog, Prescription Diet and Science Diet. So it was very broad-based strength despite the slowing category. So we're really pleased with the underlying structure of the business. Continued strong margin performance on the business. That's driven by the fundamentals aided to be sure, by a little bit lower private label, but we're obviously getting more leverage through the P&L as we continue to optimize the supply chain.
+And we're able to do that despite obviously softer volumes in general. And as the category remains sluggish and ultimately should come back medium and longer term, we'll get obviously more leverage moving through our facilities.
+We're gaining share across channels as well, which is terrific. The science-based innovation that we're bringing behind the increased brand investment is clearly working. Active biomes, multi-packs, a series of price pack architecture moves getting better assortment in store, particularly on the growing segments like Cat and Vet are generating real benefit for us.
+And my compliments obviously, to the supply chain with all the changes that we've executed over the last couple of years, our supply chain now really seems to be executing well, to talk about the ramp-up of -- obviously unlocking a lot of opportunities for growth in the Vet segment and driving more efficiency. So overall, a pretty strong performance despite the slowdown in the market.
+And I think longer term, as we've always said, the dynamics of this category will continue to be excellent. Even though we're seeing some slowdown, the strategic growth segments are growing fast, and we have an opportunity to get our fair share in those segments. And lastly, I would say is the Prime acquisition that we made in Australia continues to perform really, really well ahead of expectations. We're learning a lot about fresh in that market, and we will continue, obviously, to fuel that growth in Australia, and learn from that important segment.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Andrea Teixeira, JPMorgan.
+
+--------------------------------------------------------------------------------
+Andrea Teixeira,  JPMorgan Chase & Co - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. Noel, are you planning any selective pricing to offset the additional commodity headwinds? And then a second part of that is that, with effect coming in better than anticipated is any positive, for especially LatAm transactional effects into 2026 and even in the fourth quarter as you phase out the Total impact?
+
+--------------------------------------------------------------------------------
+Stanley Sutula,  Colgate-Palmolive Co - Chief Financial Officer    [39]
+--------------------------------------------------------------------------------
+
+          Yes. So Andrea, why don't I take the first one. So on the pricing, as you go through, Noel has covered, pricing here and what we would look at, the pricing actions we have in place try to address in balance with competition as well as the commodities that we see. And FX clearly did come in favor here over the past quarter, and if it stays in the current place, should be a tailwind for us heading forward.
+Now at the current spot rate, we still see it as a flat low single-digit negative impact for the year, but Q4 would be more favorable than Q3. Europe has the biggest marginal benefit, but most currencies in channel have moved favorable. And in fact, you mentioned Latin America currencies. Those have also moved recently, which is a benefit to the business. So FX becomes a bit of a tailwind here at the current spot rates.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [40]
+--------------------------------------------------------------------------------
+
+          Yes. And the other thing, Andrea, I'd mention is that we were positive pricing in every single division in the third quarter, which, again, I think is a clear indication that, our brands are strong. The investment we put behind them over the years is allowing us to offset some of the commodity inflation and some of the foreign exchange inflation that we've had in the first half. But overall, we're encouraged with that, and we will continue to look for pricing opportunities as we move forward, certainly, as we look to bunch the volume component of the business in the medium and longer term.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Olivier Cheang, Raymond James.
+
+--------------------------------------------------------------------------------
+Olivia Cheang,  Raymond James - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Great, thanks. Can you talk a little bit about offset EPS unchanged. Gross margin guide obviously came in 50 basis points but you're maintaining the low single digit EPS. Are you expecting to be on the lower end of the range? Or is there some kind of offset that we should be mindful of? And then as we think about this more challenged environment. Is there more that should be done with respect to restructuring given the current backdrop? Thanks.
+
+--------------------------------------------------------------------------------
+Stanley Sutula,  Colgate-Palmolive Co - Chief Financial Officer    [43]
+--------------------------------------------------------------------------------
+
+          So let's talk a little bit about the guidance on EPS. So if you kind of go back and look at the overall guidance, we said that we still expect -- to be up low single digits and that's including a flat to low single-digit negative impact from foreign exchange, so that improves as we get to the back half of the year. We updated our organic sales growth to be roughly in line with year-to-date, which would indicate to be around 1% to 2% for the year. And that includes a 70 basis point impact from the exit of private label. So as you're thinking about run rate going out, it's important to keep that in mind.
+And then on gross profit margin, we said to be roughly in line with the year-to-date gross profit margin of 60.1%. And and including advertising, roughly in line with the full year of last year. And we've held our EPS guidance. And I think if you step back in our commentary the last few years, we've made significant changes to the business model. The strength of that business model enables us to weather the challenges that we had here in Q3 and still deliver bottom line dollar-based EPS growth, and we expect to be able to continue that here for this year.
+On the restructuring question, for our sales Growth and Productivity Program. This is designed for two facets. First, we're doing this, we believe, we're in a position of strength to enable us to fund incremental investment as well as the second piece of delivering savings to continue to deliver dollar-based earnings growth. It facilitates the changes that help us make us more flexible, simplify our processes, increase our speed and efficiency. Now the program is consistent with what we announced last quarter with estimated charges of $200 million to $300 million and concluding by the end of 2028.
+And we anticipate those kind of first charges to start to roll through in the fourth quarter. So we're doing a lot of planning. We're going to execute this carefully because we're changing the way we work and not just slashing cost.
+So it's important that we're looking to design and allow the future -- our organization, which aligns with our 2030 strategy. That's going to include investments in things like omni demand gen, increased innovation, scaling our capabilities and Noel has just covered AI and agentic AI, deep investments in those areas and educating our teams at the same time to be able to go execute that. This also will help continue to drive flexibility in personalization in the supply chain. We talked about those investments that we made, and we think that will continue to benefit us going forward.
+
+--------------------------------------------------------------------------------
+John Faucher,  Colgate-Palmolive Co - Chief Investor Relations Officer and Executive Vice President, M&A    [44]
+--------------------------------------------------------------------------------
+
+          Oliviia, if I can just add one thing to what Stan said, we spent a lot of time over the last 12 months talking about building flexibility into the P&L. And I think that is the key thing from that standpoint, which is we work all through '24 to build that. We use some of that. We're still building flexibility in the P&L. So again, when we think about achieving our targets, we're still continuing to think about that.
+And I think if you look at the '25 results, we've had incremental tariffs, year over year, we have foreign exchange. We've had higher raw materials, the category slowdown, what have you, it's that focus on the flexibility that allows us to get to that. And yes, we're going to use that up as we go through the year to deal with headwinds, but that's really the focus of building that up in the first place.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Steve Powers, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Steve Powers,  Deutsche Bank AG - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Great, good morning. And I guess picking up on some of that. So Noel, when you step back and you think about the initiatives that you opened and then Stand just walk through in support of SGPP, innovation model, omnichannel diversification, RGM, et cetera, they're all underpinned by AI and predictive analytics. Those all seem like the right points of emphasis. But I guess, a couple of questions around, how do you think about the upfront cost of all those things in the aggregate? Number one.
+Number two, to what extent are they really points of category acceleration or points of Colgate-specific differentiation versus more just the cost of doing business these days. Because if i was going to be devil's advocate, I'd say that the thematically, that's what a lot of companies are doing. And I guess all of that in terms of how that plays into your '26 planning? Thanks.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [47]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Steve. So listen, I think we clearly want to look at these as a way to gain a competitive advantage in the market, but more importantly, utilize the capabilities to drive incremental category growth for our retailers and for us. So let me start with innovation. We're learning a lot about how to use technology to innovate faster and to get better premium innovation in the market that's validated expeditiously in terms of how we looked at it before.
+So all of that is intended on giving us a way to go to our retailers, partner with our retailers with better innovation, faster and in more quantity than we've done before. So it's going to allow us to hopefully accelerate that if we gain a competitive advantage on that.
+Getting a clear understanding of how to use -- let's take agentic AI and how to make sure that we're participating in them. Once again, drives premiumization, drives more purchase intent, the three more is more money, more households, more volume allows us to really get much more personalized with our messaging, which will drive incremental consumption in the category. So all of that if we believe we're doing it right and partnering with our retailers in an effective way, should drive more category growth.
+Now getting the -- taking AI aside from the top line aspect of the company and the growth aspect it's using it to really effectively be more productive internally within the organization. So let me take demand planning as an example. Clearly, we have -- we see real opportunities in demand planning space to use AI to more automated demand planning and demand replenishment, which allows us to generate more cash for the business and lower working capital.
+So clearly, opportunities for us to gain an advantage there. So not dissimilar to how we embarked on the whole SAP journey 20 years ago, we feel technology can be a real competitive advantage for us as a company, and we're making sure we're putting the training and the investments in place.
+And we've been doing that for the last three years given some of the flex that John mentioned in the P&L. So it's not like we're starting from square one here. Our teams are well equipped to understand the applications of technology, and we're investing in the right capital given the strong cash flow that we have to ensure that we're positioning ourselves for success moving forward.
+
+--------------------------------------------------------------------------------
+Stanley Sutula,  Colgate-Palmolive Co - Chief Financial Officer    [48]
+--------------------------------------------------------------------------------
+
+          Yes, I'd just pick up on your question on the upfront cost. We're not starting. We're well underway and have been for some time. And in fact, as we look at our 2030 strategy, one of the things that's changed over the last few years is that the total number of investment you see may look relatively static, under the covers, we're practicing good resource allocation.
+So we are driving productivity, getting more efficiency, using AI to help us drive that and then making strategic investments, which we've been doing over the last several years on data, digital, AI, those investments on educating our people, all help enable this going on.
+So it's not like we're going to come and say we have to make this big, large incremental investment. We're reallocating resource, making strategic investments and have been for some time, and we'll continue to do so as part of our 2030 strategy.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          Edward Lewis, Rothschild & Company Redburn.
+
+--------------------------------------------------------------------------------
+Edward Lewis,  Redburn Partners LLP - Equity Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Thank you very much. Yes. Noel, I wanted to return to China. I guess it's another quarter of familiar trends with growth at -- China and then challenges at the H&H subsidiary. Can you talk about what's going on at the latter and how you're looking to turn around performance? I mean, is it as simple as a bricks-and-mortar business essentially losing share to online?
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [51]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Ed. So clearly, we're we're not pleased with the overall performance in China. We see real opportunities for longer-term growth. Clearly, that market is challenged from obviously a little bit slower growth and a more intense competitive environment.
+and a pretty transformational transition into E-commerce, which our Colgate business has managed exceptionally well and our Holly and Hazel business now is putting the right investment in place to get the premium side of their business, which is what's driving that marketplace right now.
+So we spent some time, as I alluded to in previous calls, as you well point out, getting the go-to-market fixed on Holly and Hazel. And I think the go-to-market, particularly in brick-and-mortar is quite advanced now and we'll start to see benefits at in the next couple of quarters.
+Where we're really doubling down now is on building the brand more effectively through our online communication and how we do that and move from both -- from basically a more transactional business today with some of the strong aligned platforms to a more strategic basis and how we advertise top of the funnel, what we talk about, to build the brand, and ultimately drive ultimately persuasion and conversion.
+And that's going to require a more deliberate focus on how we spend our money online with intentionality in my view and a better understanding of how Colgate has done it successfully, which we're sharing those learnings and then more importantly, getting the premium side of the Holly and Hazel business stepped up and.
+Excited that we've got a pretty significant premium innovation coming in the fourth quarter. which they will introduce, and they're really ramping up the '26 grids to ensure that we have much more online e-commerce ready products to launch to that segment of the market, which seems to be growing quite nicely.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          This concludes the Q&A portion of our call. I will now return the call to Noel Wallace, Colgate-Palmolive's Chairman, President and CEO, for any closing remarks.
+
+--------------------------------------------------------------------------------
+Noel Wallace,  Colgate-Palmolive Co - Chairman of the Board, President, Chief Executive Officer    [53]
+--------------------------------------------------------------------------------
+
+          So thanks, everyone, for your questions. Not a lot more to add, but obviously, while the external environment provides challenges, I hope you feel we are very confident in our ability to continue to execute against our strategy, we're particularly excited about the changes we're making to adapt to the current environment to ensure that we accelerate growth, both for Colgate-Palmolive and for our retailers.
+And let me make sure I thank again the incredible tireless effort by Colgate-Palmolive all around the world to continue to drive our results, and we look forward to talking to you again in the first quarter. Thanks, everyone.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          The conference has now concluded. Thank you for attending today's call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

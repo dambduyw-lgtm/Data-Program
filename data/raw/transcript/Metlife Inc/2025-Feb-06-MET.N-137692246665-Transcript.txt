@@ -1,0 +1,502 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2024 MetLife Inc Earnings and Outlook Call
+FEBRUARY 06, 2025 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * John McCallion
+   MetLife Inc - Chief Financial Officer, Executive Vice President
+ * John Hall
+   MetLife Inc - Global Head of Treasury and Investor Relations, Interim Head of Corporate Development and M&A
+ * Ramy Tadros
+   MetLife Inc - President - U.S. Business
+ * Eric Clurfain
+   MetLife Inc - President - Latin America
+ * Michel Khalaf
+   MetLife Inc - President, Chief Executive Officer, Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Wes Carmichael
+   Autonomous Research - Analyst
+ * Jimmy Bhullar
+   JPMorgan - Analyst
+ * Tom Gallagher
+   Evercore ISI - Analyst
+ * Ryan Krueger
+   Keefe, Bruyette & Woods Europe - Analyst
+ * Suneet Kamath
+   Jefferies - Analyst
+ * Alex Scott
+   Barclays - Analyst
+ * Elyse Greenspan
+   Wells Fargo Securities, LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the MetLife fourth quarter and full year 2024 earnings and outlook conference call. (Operator Instructions)
+As a reminder, this conference is being recorded. Before we get started, I refer you to the cautionary note about forward-looking statements in yesterday's earnings release and to risk factors discussed in MetLife's SEC filings.
+With that, I will turn the call over to John Hall, Global Head of Investor Relations.
+
+--------------------------------------------------------------------------------
+John Hall,  MetLife Inc - Global Head of Treasury and Investor Relations, Interim Head of Corporate Development and M&A    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator. Good morning, everyone. We appreciate you joining us for MetLife's fourth-quarter 2024 earnings and near-term outlook call. Before we begin, I'd point you to the information on non-GAAP measures on the Investor Relations portion of metlife.com in our earnings release and in our quarterly financial supplements, which you should review.
+On the call this morning are Michel Khalaf, President and Chief Executive Officer; and John McCallion, Chief Financial Officer and Head of MetLife Investment Management. Also participating in the discussion are other members of senior management.
+Last night, we released a set of supplemental slides which address the quarter as well as our near-term outlook. They are available on our website.
+John McCallion will speak to those supplemental slides in his prepared remarks. An appendix to the slides features outlook sensitivities, disclosures, GAAP reconciliations, and other information which you should also review.
+After prepared remarks, we will have a Q&A session, which will end promptly at the top of the hour. As a reminder, please limit yourself to one question and one follow-up.
+With that, over to Michel.
+
+--------------------------------------------------------------------------------
+Michel Khalaf,  MetLife Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, John, and good morning, everyone. Last night, MetLife reported fourth quarter and full-year results that underscore the strength and resilience of our market-leading portfolio of businesses in the face of constant change. While unemployment in the US has stayed at low levels and economic growth appears healthy, the path and pace of anticipated interest rate cuts remain in question due to concerns about persistent inflation.
+MetLife's capacity to execute across changing environments has been a hallmark of our success. This past year, 2024 brought to a close the five-year period associated with our Next Horizon strategy. Despite a global pandemic, a short-lived banking crisis, and volatile interest rates, we delivered on all our Next Horizon financial commitments, return on equity, free cash flow, and operating leverage. The market has recognized our strong fundamental performance as MetLife stock outperformed the Standard & Poor's 500 index in 2024.
+MetLife did not go quietly into the end of the year, and we do not rest on our laurels. In December, we hosted a well-received Investor Day to roll out our New Frontier strategy, along with a refreshed set of financial commitments.
+While the basic tenets of Next Horizon, focus, simplify, and differentiate, aren't going anywhere, MetLife is at a different place than it was five years ago. We are more front-footed and more able to play offense. Our New Frontier strategy is more oriented towards growth. And by that, I mean responsible growth.
+To build on this, we have identified four strategic priorities as part of New Frontier. Together, they drive nearly 80% of adjusted earnings today and will fuel strong growth through the five-year New Frontier strategy.
+The first is further extending our leadership in group benefits. The second is capitalizing on our unique retirement platform. The third is accelerating growth in asset management, while the fourth is expanding in high-growth international markets.
+Again, here at MetLife, we do not stand still. Along with the rollout of our New Frontier strategy, we announced several important transactions that activate across our new strategic priorities and which we believe will drive shareholder value for years to come.
+In December, MetLife and General Atlantic announced the formation of Chariot Re which will be a Bermuda-based life and annuity reinsurance company. We anticipate a combined equity investment of over $1 billion and that Chubb will join us as an anchor investor.
+Chariot Re will serve the growing demand for life and retirement solutions around the world. The strategic use of reinsurance allows us to position MetLife to capture the growth in these trends and add to enterprise value. Chariot Re will also leverage MetLife's deep insurance and investing expertise as well as the investment capabilities of General Atlantic.
+Also in December, we announced an agreement to acquire PineBridge Investments, a leading global asset manager with approximately $100 billion in assets under management. PineBridge will substantially add to MetLife Investment Management by expanding its public and private credit offerings especially on an international basis.
+Finally, MIM signed an agreement to acquire the high-yield and bank loan, the strategic fixed income, and the small cap equity teams from Mesirow Financial with about $6 billion of assets managed by those teams.
+Our New Frontier strategy is more than just words on a page. To measure our progress and hold ourselves accountable, we have established new five-year commitments.
+We have introduced adjusted earnings per share as a new metric for MetLife. We are committed to achieving double-digit adjusted EPS growth over the course of the New Frontier period with 60% driven by business and margin growth and the balance from disciplined capital management.
+We have increased our adjusted return on equity target range to 15% to 17%, up from our previous target range of 13% to 15%. We have also committed to cut another 100 basis points from our prior direct expense ratio target of 12.3% during the five-year period.
+And finally, we have committed to $25 billion of free cash flow over the five-year period, up from our prior five-year $20 billion commitment. You'll see when John discusses our 2025 outlook, these commitments are in alignment with our expectation for the near term.
+Now turning to our fourth-quarter 2024 results. Last night, we reported adjusted earnings of $1.5 billion or $2.09 per share, up 14% from the prior year period. Excluding notable items in both periods, we reported adjusted earnings of $2.08 per share, up 8%.
+Variable investment income, or VII, was higher in the quarter due to improved private equity fund performance. And we saw good momentum across most of our businesses.
+Shifting to the full year 2024. We generated adjusted earnings excluding notable items of $5.8 billion. Strong volume growth and favorable underwriting along with market factors helped drive our results.
+Pointing to our capital efficiency, MetLife posted an adjusted ROE of 15.2% for the year, above our target range. And our direct expense ratio was 12.1%, beating our Next Horizon target range.
+Our Group Benefits business continues to demonstrate its leadership position in what I believe to be the most attractive segment of US Life Insurance. Group Benefits generated adjusted earnings excluding notable items of $1.7 billion in 2024.
+Full year sales were up 8% on strong growth in national accounts. This is a business where we believe that scale, technology, and discipline will carry the day. We believe MetLife has the capacity to continue to grow faster than the market, driven by the many scale benefits associated with our size.
+In the New Frontier, our formula for Group Benefits growth is simple, more employers, more products, and more employee participation. And we are actively driving each of these elements.
+Moving to Retirement and Income Solutions, or RIS. Adjusted earnings excluding notables totaled $1.6 billion in the year. RIS continued to demonstrate the strength and breadth of its liability generation capabilities in 2024.
+Our liability exposures grew 3.4% in the year, above the midpoint of our prior outlook range, with strong contributions from structured settlements, UK longevity and funded reinsurance, and US pension risk transfer.
+Shifting to our international businesses, Asia posted adjusted earnings excluding notables of $1.7 billion in 2024, up 21% on the rebound in VII. General account AUM grew 5% on a constant currency basis.
+It was also a historic year for our Latin America business, which saw record adjusted earnings excluding notables of $877 million despite substantial currency headwinds. Our expanded product portfolio in the region and our investments in digital distribution place us in the pole position to further grow in this important region.
+When I look across our business results for the year, what stands out is the balance of our adjusted earnings across segments. Our three largest segments, Group Benefits, RIS, and Asia, all posted adjusted earnings in the neighborhood of $1.7 billion. I have framed MetLife's balance and diversification as being our super power, something that has enabled us to generate the type of all-weather performance achieved in 2024.
+Moving to capital management. In the fourth quarter, our buyback activity was restricted due to pending announcements. In total, we still repurchased nearly $400 million of our common stock in the fourth quarter.
+We have started the new year strong, having repurchased roughly $470 million of our common stock in January. For the full year 2024, we returned approximately $4.7 billion to shareholders through $3.2 billion of our common stock repurchases and $1.5 billion of common stock dividends.
+In closing, 2024 marks the end of Next Horizon and the beginning of New Frontier, where we are starting from a position of strength and with a greater emphasis on responsible growth. MetLife operates in highly attractive markets with deep competitive moats that we've constructed carefully over time.
+And we are poised to capitalize on the many global tailwinds, which have informed our New Frontier strategy. Met is well positioned to deliver strong, responsible growth; attractive returns; and with lower risk -- not one or the other, but all three. And that is MetLife's unique value proposition.
+Now I'll turn it over to John to cover our performance and outlook in greater detail.
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Michel, and good morning, everyone. I will start with the 4Q '24 supplemental slides, which covers highlights of our financial performance including an update on our liquidity and capital position. In addition, I will discuss our near-term outlook.
+Starting on page 3, we provide a comparison of net income to adjusted earnings in the fourth quarter and full year of 2024. Net income was $1.2 billion and $4.2 billion for the fourth quarter and full year of '24, respectively. The difference between net income and adjusted earnings is attributable to net derivative losses primarily due to the rise in long-term interest rates and the strengthening of the US dollar.
+That said, derivative losses were partially offset by market risk benefit or MRB remeasurement gains due to higher interest rates. In addition, net investment losses were largely the result of normal trading activity on the portfolio in a rising interest rate environment and credit remains stable.
+As highlighted on the bottom of the page, we had two notable items in the current quarter that net to a positive impact to adjusted earnings of $10 million. This was primarily due to interest associated with a tax refund partially offset by higher asbestos litigation reserves in the quarter.
+On page 4, we provide a year-over-year comparison of fourth quarter adjusted earnings by segment, excluding total notable items in both periods. Adjusted earnings, excluding total notable items, were $1.4 billion, up 1% and 3% on a constant currency basis.
+The increase was primarily driven by higher variable investment income and solid volume growth, which were partially offset by less favorable recurring interest and expense margins compared to the previous year. Adjusted earnings per share, excluding total notable items, were $2.08 and up 8% and 10% on a constant currency basis.
+Moving to the businesses. Group Benefits adjusted earnings were $416 million, down 11% from the prior year quarter. The key driver was less favorable nonmedical health underwriting margins compared to the prior year.
+The non-medical health interest-adjusted benefit ratio was 71.8%,. Although above prior year, it was in line with expectations and within our annual target range of 69% to 74%. The Group Life mortality ratio was 83.2% for the quarter. For the full year, the ratio was 84.5%, at the bottom end of our 2024 target range of 84% to 89%.
+Turning to the top line, Group Benefits adjusted PFOs on a full year basis were up 4% year over year. Taking participating contracts into account which dampened growth by roughly 100 basis points, the underlying PFOs were up approximately 5% year over year, within our 2024 target growth range up 4% to 6%.
+RIS adjusted earnings were $386 million in 4Q of '24, down 8% year over year. The primary drivers were lower recurring interest margins and less favorable underwriting, partially offset by higher variable investment income. Solid volume growth also contributed to the year-over-year results.
+RIS total investment spreads were 112 basis points in the fourth quarter, up 6 basis points sequentially mainly due to higher variable investment income as our core spread remained flat at 108 basis points, consistent with expectations. RIS adjusted PFOs were up 26%, primarily driven by growth across several products, most notably PRT, including UK-funded reinsurance.
+As we highlighted at Investor Day, we completed our inaugural funded reinsurance transaction for approximately $300 million, demonstrating the successful relationships that we have built with leading UK insurers. This brings our total PRT inflows for both the US and UK combined to approximately $6.7 billion for 2024.
+Moving to Asia. Adjusted earnings were $443 million, up 50% and 52% on a constant currency basis primarily due to higher variable investment income and favorable underwriting margins, which included positive reserve refinements that benefited adjusted earnings by roughly $30 million.
+For Asia's full year 2024 key growth metrics, general account assets under management on an amortized cost basis were up 5% year over year on a constant currency basis and sales were down 5% on a constant currency basis versus 2023.
+Lower Japan sales were partially offset by other Asia markets, which were up 21%, most notably due to solid growth in Korea, India, and China. In Japan, sales were down 18% year over year, primarily due to the impact of yen volatility on foreign currency products.
+Latin America adjusted earnings were $201 million, down 3% but up 10% on a constant currency basis primarily due to higher volume growth across the region, partially offset by lower Chilean encaje returns versus a strong Q4 '23. Latin America's top line continues to perform well, although reported growth rates are being masked by recent currency headwinds. Adjusted PFOs were down 3% but up 9% on a constant currency basis driven by strong growth and solid persistency across the region.
+EMEA adjusted earnings were $59 million, up 26% and 31% on a constant currency basis, primarily driven by solid volume growth and lower tax charges in the quarter. This was partially offset by less favorable expense margins and underwriting margins year over year. EMEA adjusted PFOs were up 10% and 13% on a constant currency basis, reflecting strong sales across the region.
+MetLife Holdings adjusted earnings were $153 million, down 2%, largely driven by foregone earnings as a result of the reinsurance transaction that closed in November of 2023. Favorable life underwriting was a partial offset.
+Corporate and other adjusted loss was $209 million versus an adjusted loss of $156 million in the prior year. Higher expenses and taxes were partially offset by higher variable investment income year over year. The company's effective tax rate on adjusted earnings in the quarter was 23.5%, modestly below our 2024 guidance range of 24% to 26%.
+On page 5, this chart reflects our pretax variable investment income for the four quarters and full year of 2024. Variable investment income was $293 million in Q4 driven by the private equity portfolio, which had an average return of 1.8% in the quarter. Our real estate and other funds had an average return of essentially zero in the quarter.
+As a reminder, PE and real estate and other funds are reported on a one-quarter lag and accounted for on a mark-to-market basis. For the full year, variable investment income, or VII, was $1 billion, below our 2024 target of approximately $1.5 billion, but well ahead of the prior year. Real estate and other funds accounted for most of the shortfall, while PE returns were largely in line with our annual 2024 expected returns.
+On page 6, we provide VII post-tax by segment and corporate and other for the four quarters and full year 2024. As reflected in the chart, Asia, RIS, and MetLife Holdings continue to hold the largest proportion of VII assets given their long-dated liability profiles.
+However, as a reminder, each business has its own discrete portfolio aligned and matched to its liabilities. Asia's VII portfolio outperformed in the quarter, generating more than 50% of the total.
+Turning to page 7. This chart shows a comparison of our direct expense ratio over eight quarters and full year 2023 and 2024. Our direct expense ratio 4Q of '24 was elevated at 13.1%, reflecting the impact from seasonal enrollment costs and group benefits as well as higher employee-related costs and technology initiatives.
+That said, as we've highlighted previously, we believe our full year direct expense ratio is the best way to measure performance due to fluctuations in quarterly results. For the full year 2024, our direct expense ratio was 12.1%, below our 2024 target of 12.3%. We believe this result once again demonstrates our consistent execution and focus on a sustained efficiency mindset.
+I will now discuss our cash and capital position on page 8. Overall, MetLife is well capitalized with more than ample liquidity. We had share repurchases of roughly $400 million in the fourth quarter and have repurchased shares totaling $470 million in January.
+In terms of statutory capital for our US companies, preliminary 2024 statutory operating earnings were approximately $4 billion, while net income was approximately $2.9 billion. Statutory operating earnings decreased by approximately $500 million year over year primarily driven by impacts of the reinsurance transaction in November of 2023 and lower net investment income, partially offset by favorable underwriting.
+On page 9, this chart shows the final tally in beating our five-year financial commitments under Next Horizon. Our full year 2024 adjusted ROE of 15.2% was above our original 12% to 14% commitment made in 2019 and above our 13% to 15% guidance for 2024. For the years 2023 through 2024, we generated distributable cash of $20.7 billion, above our $20 billion commitment, and created $1.2 billion of additional operating leverage capacity to accelerate growth above our $1 billion commitment.
+Now let's turn to page 11 for further details on our near-term outlook, starting with the overview. Based on the forward currency curve, the US dollar is expected to further strengthen which creates a headwind to adjusted earnings growth of approximately $150 million to $175 million in 2025. This impact is embedded in the non-US segment outlook that I will discuss in a moment.
+The forward interest rate curve projects long-term interest rates to be stable and the yield curve to steepen, a positive development. And we used an assumption of 5% annual return for the S&P 500.
+For our near-term targets, these are consistent with our New Frontier commitments that we announced at Investor Day. We expect to achieve double-digit adjusted EPS growth. We expect adjusted ROE to be in the range of 15% to 17%.
+We expect to maintain our two-year average free cash flow ratio of 65% to 75% of adjusted earnings, which supports our five-year commitment to generate $25 billion plus of free cash flow. Also, given our continued focus on expense discipline, we target reducing our expense ratio down 100 basis points to 11.3% by 2029.
+And therefore, for 2025, we are lowering our direct expense ratio guidance to 12.1%, down from 12.3% in 2024. Specifically, for 2025, variable investment income is expected to be approximately $1.7 billion pretax. Our corporate and other adjusted loss is expected to be between $850 million to $950 million after tax. And we are maintaining our expected effective tax rate range of 24% to 26%.
+At the bottom of the page, you'll see certain interest rate sensitivities relative to our base case reflecting a relatively modest impact on adjusted earnings over the near term. Further sensitivities are in the appendix to these slides.
+On page 12, the chart reflects our expectation of VII average asset balances to be stable in 2025. We are increasing our near-term expected annual returns for private equity to be between 9% to 11%, and we are also increasing our expected return for real estate and other funds to be in a range of 7% to 9% over the near term.
+In 2025, we expect both PE and real estate and other funds to be toward the lower end of their respective ranges before trending higher in 2026 and 2027. Finally, as a reminder, we include prepayment fees on fixed maturities and mortgage loans in VII.
+So now, I will discuss our near-term outlook for our business segments. Let's start with the US on page 13. For Group Benefits, we are increasing our adjusted PFO growth target to 4% to 7% annually over the near term. We are maintaining our near-term underwriting guidance ranges, Group Life mortality ratio of 84% to 89%, and group nonmedical health interest adjusted benefit ratio of 69% to 74%.
+Please keep in mind, these are annual ratios and both typically skew to the higher end of the ranges in the first quarter given the seasonality of the business. However, for Group Life, if the positive trend we have seen in the last couple of quarters persist into the first half of the year, we expect the full year ratio to be in the bottom half of the guidance range in 2025.
+Lastly, we expect Group Benefits adjusted earnings to benefit from factors outside of underwriting, largely from continued change in our product mix, greater operating efficiencies, and higher investment income. This will add an incremental 5% to 10% to adjusted earnings in 2025.
+For RIS, we've talked about the business being comprised primarily of spread and fee earnings. To that end, we provide a long-term balanced growth range for total liabilities, which can be used to project our future spread and fee balances.
+And in light of the opportunity we see under New Frontier, we are now increasing our total liability annual growth guidance to 3% to 5%. The total spread guidance range for the upcoming year can be applied to our projected general account balances to get a good proxy for our pretax spread income before expenses.
+We expect 2025 total general account investment spread to be 110 to 135 basis points, assuming the forward curve holds and based on our VII estimate for 2025. We anticipate our core spread to stabilize from 2025 forward now that all remaining interest rate caps have matured.
+Beyond spread earnings, total fee and underwriting income, net of expenses, adds an incremental 5% to RIS adjusted earnings. For MetLife Holdings, we are expecting adjusted PFOs to decline approximately 4% to 6% in 2025, and we are lowering the adjusted earnings guidance range to $650 million to $800 million in 2025. The business runoff accelerated in 2024 to roughly 9% of adjusted earnings as life and variable annuity lapses were higher during the year.
+Now let's look at the near-term guidance for our segments outside the US on page 14. For Asia, we expect sales to grow mid- to high single digits on a constant currency basis over the near term. In addition, we expect general account AUM on a constant currency basis to maintain mid-single-digit growth.
+Asia adjusted earnings in 2025 are expected to grow mid-single digits on a constant currency basis and low single digits on a reported basis given the yen weakness assumed in the forward curve. For 2026 and 2027, adjusted earnings are expected to grow mid-single digits on both a reported and constant currency basis.
+For Latin America, we expect both adjusted PFOs and adjusted earnings in 2025 to grow high single digits on a constant currency basis and flat on a reported basis given the forward currency rates, which assumes Mexican and Chilean pesos weakened in 2025. For 2026 and 2027, we expect adjusted PFOs and adjusted earnings to grow high single digits on both a reported and constant currency basis.
+Finally for EMEA, we are expecting adjusted PFOs to grow mid- to high single digits on a reported basis. For adjusted earnings, we expect EMEA's new quarterly run rate to be $70 million to $75 million in 2025 and then grow mid-single digits in 2026, 2027.
+Let me conclude by saying that MetLife delivered a solid quarter to close out another strong year. Our fourth quarter and full year results reflected the strong underlying fundamentals across our portfolio of businesses. We continue to move forward from a position of strength with a strong balance sheet, recurring free cash flow generation, and a diversified set of market-leading businesses.
+As we complete the final leg of our Next Horizon journey, we are pleased to have exceeded all the commitments that we made. Now as we forge our way into the New Frontier, our strategic priorities position us well to deliver on our unique value proposition of accelerating responsible growth and generating attractive returns with lower risk.
+And with that, I'll turn the call back to the operator for your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Ryan Krueger, KBW.
+
+--------------------------------------------------------------------------------
+Ryan Krueger,  Keefe, Bruyette & Woods Europe - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          My first question was for Ramy on group. Can you give some additional details and color on 1/1 renewals, what you saw in terms of competition, pricing, and any other factors you'd highlight?
+
+--------------------------------------------------------------------------------
+Ramy Tadros,  MetLife Inc - President - U.S. Business    [3]
+--------------------------------------------------------------------------------
+
+          Sure, Ryan. So I would say we're off to a really good start in 1/1. We've had renewals and persistency within our expectations. We're particularly pleased with the renewal actions on the dental business, which we've talked about before in terms of getting our targeted rate actions as well as maintaining a very strong persistency.
+So off to a really strong start in 1/1. And that's part of the reason why we really also feel good about taking our PFO guidance range from 4% to 7%, which is a 1 point increase from where we were last year.
+
+--------------------------------------------------------------------------------
+Ryan Krueger,  Keefe, Bruyette & Woods Europe - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          And then a question on the -- I guess, somewhat broader question on the PRT market. There were a number of lawsuits targeted against one specific provider and plan sponsors that shows them it's gotten expanded to a couple more.
+MET has not been involved in this at this point. But yes, just curious, are you starting to see any level of leaning in that market as plan sponsors might be more concerned about this lawsuit activity? Or is it not really having much of an impact for you guys at this point?
+
+--------------------------------------------------------------------------------
+Ramy Tadros,  MetLife Inc - President - U.S. Business    [5]
+--------------------------------------------------------------------------------
+
+          Hey, Ryan. It's Ramy here again. Look, it is very hard to forecast like what and if any impact this is going to have on the market. But may be helpful is just to share with you what we're seeing as of now, right?
+So one, this is a very well-established market. It does operate within the rules and regulations which govern plan sponsors' responsibilities and a very robust solvency regulation which govern insurance companies. And within that context, the PRT products offer really valuable solution to plan sponsors and retirees.
+So in the here and now, we finished last year with a $6.4 billion of inflows for PRTs and healthy ROEs. And we're off to a really good start in '25. We had a $640 million plan that we wrote in the first part of '25.
+And the factors that we talked about that will continue to drive this market in terms of the funded status, the financial and the industrial logic, will persist. And this is also reflective of the pipeline. So we still see a pipeline. We still see interest here, and we haven't really seen any material impact on the market.
+And just to step back outside of PRT and think about our RIS liability origination in general, inclusive of all the pieces we talked about on our Investor Day as well as the adjacencies that we talked about, we still here feel really good that we will deliver the 3% to 5% balance growth over the near term, which is also a point up from where we were last year. So in aggregate, we still feel good about that range sitting here today.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Tom Gallagher, Evercore.
+
+--------------------------------------------------------------------------------
+Tom Gallagher,  Evercore ISI - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          First question for Ramy, as well. Some peers have called out elevated voluntary benefit loss ratios this quarter. Did you also see that? And when I consider that impact plus the benefits you expect to get from dental repricing, would you say non-medical health loss ratio is going to be better or worse in '25 versus '24?
+
+--------------------------------------------------------------------------------
+Ramy Tadros,  MetLife Inc - President - U.S. Business    [8]
+--------------------------------------------------------------------------------
+
+          Good morning, Tom. I would say for Accident and Health, we aren't seeing any material deviations outside of what you would call normal range of expectations. And we look at this on a product-by-product basis.
+Remember, it's not one single product. So I wouldn't say we've seen any material deviations here. And we continue to see very much growth here with really solid margins.
+If you think about next year versus this year, we did finish '24 above -- less than 1 point above the midpoint of our range. We haven't changed the range for next year. So a good starting point for '25 is to go back to the midpoint of that range on the nonmedical health ratio, which does factor in some of the improvements around dental that you mentioned as well.
+
+--------------------------------------------------------------------------------
+Tom Gallagher,  Evercore ISI - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          So like 1 point better is a reasonable base case?
+
+--------------------------------------------------------------------------------
+Ramy Tadros,  MetLife Inc - President - U.S. Business    [10]
+--------------------------------------------------------------------------------
+
+          Midpoint of the range is where we point to, so I think that's where I would start. Yeah.
+
+--------------------------------------------------------------------------------
+Tom Gallagher,  Evercore ISI - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Good. And just for a follow-up, John, just on raising alternative return assumptions for '25. What's the thought process there? Is it just general market performance? Do you have some line of visibility into Q1? Because obviously, you haven't met any of the lower quarterly expectations for '24. So curious why raise it now.
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [12]
+--------------------------------------------------------------------------------
+
+          Good morning, Tom. Yeah, so there's two components there. In VII, we have our private equity LP investments, and then we have some real estate and other funds. So I think on the -- and the private equity obviously is a much bigger proportion, as you saw on the slide in terms of average assets.
+So we have a few things going on. Obviously, there's been a tailwind with public equity markets. That has been the case. It hasn't really shown itself in the private market yet, but we think that that is still beneficial.
+Our sense is that the underlying operating companies are benefiting from that. You're starting to sense an increase in exit activity beginning. So the backlog is starting to remove or get better.
+I think there's probably a more accommodating regulatory and business-friendly environment ahead of us. So I think there's a number of positive backdrops that lead you to our view for private equity.
+The private equity returns for the year, they actually weren't far off. If not, they might have been actually on target relative to the guidance we gave last year. So we're really just moving it up 1 point. So that takes the big, I'll say, the majority of the VII balance.
+Then you're left with real estate and other. And that asset class probably underperformed our expectation last year. But we're starting to see and you're hearing there's some bit of optimism beginning in the real estate market. It's showing signs of stabilizing.
+And so our view is that we're going to start to see recovery in values in 2025. So those -- the combined factors there give us a view that next year will be better than this year. We still think that there will be a gradual improvement throughout the year.
+So we don't think you get in the first quarter to call it the run rate or divide 1.7 by 4. We think it's still lower, but we think we're above where we were here in the fourth quarter. So hopefully, that gives you a sense of our thinking.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Suneet Kamath, Jefferies.
+
+--------------------------------------------------------------------------------
+Suneet Kamath,  Jefferies - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          I wanted to go to the RIS spread guidance. If I look at the 110 to 135, it looks like that might be 5 basis points below what you originally guided to for 2024. And -- but you've taken your VII up, and I thought you said core spreads were supposed to be stable. So I'm just trying to understand what would explain that delta, if I'm remembering correctly.
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [15]
+--------------------------------------------------------------------------------
+
+          Good morning, Suneet. It's John. So let me try to -- let me give you my maybe way of thinking about it, and I'll come back to your specific question of the relative to the last year's guidance.
+So we ended this fourth quarter at 112, which was up 6 basis points sequentially. We are flat on the core spread at 108. And then as we look ahead, our view is that we expect in 2025 total spread to be, as we said, 110 to 135.
+If you take the midpoint of that, it's actually above the 2024 actual spread that we ended with, right? So what's doing that? So you see a bit of recovery in VII being forecasted, coupled with stabilizing core spreads in '25.
+So all of the interest rate caps have rolled off. That was one of the things that started to depress core spreads during the course of 2024. Those hedges performed as intended, which was to protect us from a sharp rise of interest rates and an inverted curve.
+And so now, we think of core spreads stabilizing into '25 and quite honestly, for the near term. And we typically are pretty hesitant about talking about more than one year. But I think we're starting to see, I think -- steeping in the curve will be positive eventually.
+It could have a little pressure on us in the near term as we reposition some of the portfolio, but it also gives us the ability to implement other tools that we have. So maybe there's a few points of 1- or 2-point pressure in '25 relative to the 108, but we think quickly reverts back to that.
+So if you think of like the 106 to 108 over the near term is a pretty good sense of what our core spread. You're going to see a lot more stability in the spread as we go forward. And especially as we put on new business, they tend to be accretive now to spread as well.
+So again, I think it's a very positive backdrop. But that maybe helps try to reconcile -- I think relative to last year, I think the biggest probably delta is just the roll-off of the interest rate caps relative to this year.
+
+--------------------------------------------------------------------------------
+Suneet Kamath,  Jefferies - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Okay. That makes sense. And then on Chariot, can you just talk about what blocks of business you'd be interested in using that vehicle for? Is it TRT? Is it retail annuities? Can you use it domestically and internationally? Just some color about the scope of what you're thinking there would be helpful.
+
+--------------------------------------------------------------------------------
+Michel Khalaf,  MetLife Inc - President, Chief Executive Officer, Director    [17]
+--------------------------------------------------------------------------------
+
+          Sure. Good morning, Suneet. It's Michel. So just taking a step back, let me just say we're very pleased with the progress we're making here and really excited about the growth opportunities that Chariot Re will allow us to capture.
+And keep in mind, we've been at work on this with our partner, General Atlantic, for less than a year. So we're continuing to move at pace to fully capitalize and operationalize the company. And again, the intention here is to create a long-term strategic partnership with Chariot Re.
+As we mentioned at Investor Day, really, this is intended to enhance our capital flexibility and to allow us to generate additional liability growth beyond our balance sheet capacity, if need be. So -- and the other aspect to this is that it will allow us to convert this additional growth into high-value earnings for MIM as well.
+I think we said also that the intention here is that for the first few years, the liabilities will be sourced through MetLife. And -- but the possibility does exist that down the road, Chariot Re may reinsure liabilities from third parties as well. And the liabilities sourced through MetLife include PRT and other liabilities sourced by RIS as well as potentially Japan liabilities. So hopefully, this gives you a bit of color.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Alex Scott, Barclays.
+
+--------------------------------------------------------------------------------
+Alex Scott,  Barclays - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          First one I had for you is actually on MetLife Investment Management. I'm sure you saw there was a news article suggesting that maybe Brighthouse Financial would potentially look to sell itself. And I'm not asking you to opine on that.
+But what I'm more interested in is if you could frame for us what impact you could potentially have in MetLife Investment Management if an asset manager, one of these private equity-backed companies, engaged there and were interested in managing general account. How would that affect potentially your positioning? Like how much money do you make up their general account management, et cetera?
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [20]
+--------------------------------------------------------------------------------
+
+          It's John. I think first thing is we don't comment on specific client P&Ls. So I probably won't get that out of me today. But look, they're an excellent customer and client of ours.
+We take pride in the fact that we have them as a customer. And particularly given our historical relationship and the historical personal relationships as we all have, I think it's a prized client for us, and we really value it.
+We've read the papers as well and heard that as well. And so look, we've had other situations over time occur. We think we offer a unique value proposition and provide some unique capabilities. That's what we've been building here in MetLife Investment Management. We continue to do that.
+We're looking to grow our capabilities, and you saw that most recently in some of the announcements that we made. So we think we have a unique offering.
+Having said that, we recognize that things can change over time. And we think we're a well-diversified client base. And we'll have to manage things as they come, but we are pretty excited about the things that we have to offer.
+
+--------------------------------------------------------------------------------
+Alex Scott,  Barclays - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Got it. I totally understand. Second one maybe on capital deployment, Holdco cash in a really strong spot. I would be interested, too, though, if you could comment at all about how much capital is behind -- statutory capital behind the Holdings business at this point and how to think about, if you did find opportunities there, how that could add to the capital flexibility you have? And then ultimately, are there areas that you'll look to add to in terms of inorganic activity?
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [22]
+--------------------------------------------------------------------------------
+
+          It's John. It's probably a little bit of too broad of a question for us to answer. I think as we've talked about, we are very effective at managing MetLife Holdings. At the same time, we take a very -- we have a third-party view and talk to third parties to see if there's an opportunity for something that makes sense that's accretive to our firm from a risk-adjusted basis.
+There's a lot of different variables and factors that go into the outcomes or the items that drive value creation. So it's probably a little hard to give that broad answer. Also, you have to -- there's diversification benefits we have to consider as well and things like that.
+So at the end of the day, it's performing very well for us. When we think there's an opportunity, you've seen us take action. If not, there's no burning platform for us, and we're happy to manage this effectively ourselves. We think we have the unique capabilities to do that.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Wes Carmichael, Autonomous Research.
+
+--------------------------------------------------------------------------------
+Wes Carmichael,  Autonomous Research - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          And maybe just following up on the last question and maybe a little bit less broad, but particularly on long-term care. And haven't gotten a lot of attention lately, but I think last quarter, you made some comments on the risk transfer market that seems somewhat constructive.
+And I was just curious if there's any further developments there in terms of pricing or bid ask. And just maybe if I think about that block in particular, how does long-term care flow into the free cash flow conversion ratio for the company? Because I know a lot of the runoff in Holdings has pretty high cash flow profile.
+
+--------------------------------------------------------------------------------
+Ramy Tadros,  MetLife Inc - President - U.S. Business    [25]
+--------------------------------------------------------------------------------
+
+          It's Ramy here. Look, like we talked about last quarter, we are seeing more activity in that risk transfer market. And when deals get announced, it means you're getting more convergence between cedents and reinsurers, and that's encouraging.
+Having said that, these are always complex transactions to execute. They take time. Our objective for any risk transfer deal is always the same. We want to maximize shareholder value and continue to serve our customers.
+And from the former, price matters for these deals and so does structure. But in the interim specific to our book, I would say it's well capitalized, well reserved. Recall, we are under the New York DFS reserving standards. We're held to higher bar here.
+The book is well managed. It's performing in line with our expectations. And we continue to have a really successful rate action program that's allowing us to obtain the necessary premium increases and continuing to provide coverage. So that's a bit of an update in terms of where we stand, and I'll let John talk about the free cash flow piece of it.
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Yeah, sure. It is a block of business that is growing its liabilities over time still. So it has not reached peak. So at the end of the day, it's actually not providing much in the way of cash flow these days. If anything, it continues to strain just given you have to grow -- you're continuing to grow liabilities to the peak. So hopefully, that helps.
+
+--------------------------------------------------------------------------------
+Wes Carmichael,  Autonomous Research - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          And my second question was just on the positive trends in Group Life that you mentioned that may persist through 2025. Can you provide a little bit more color on what you're seeing recently? And could this be something that persists a little bit longer term?
+
+--------------------------------------------------------------------------------
+Ramy Tadros,  MetLife Inc - President - U.S. Business    [28]
+--------------------------------------------------------------------------------
+
+          It's Ramy here. Look, if you look at the public data and the recent trends in the CDC population data, in particular, for the working age population, you see favorability in that data year over year. And given our size and diversification, that favorability in the population data is working its way into our ratios here. And that's probably the major driver as to why we came below the lower end of our range for 2024.
+We're still watching it. I think I would say if the positive trends that we have seen in terms of population mortality continue and continue to, say, the first half of '25, we would expect that for the full year, we would be in the bottom half of our guidance range on the mortality ratio, as John alluded to. So very much population data driven and that favorability working into our numbers.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Jimmy Bhullar, JPMorgan.
+
+--------------------------------------------------------------------------------
+Jimmy Bhullar,  JPMorgan - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          I just had a couple of questions. The first one is on commercial real estate. And if you look at your portfolio, your metrics are fairly stable, although they've been getting slightly worse over the last few quarters, both on the coverage ratio and loan-to-value, but not materially.
+So how should we think about losses coming in from that over the course of this year? And has the market stabilized? Or do you think there's more pain to go through as you go through this year?
+And then secondly, on pension reform in Latin America, there's been a lot of concern about the Chilean market, and it comes and goes. But I think recently, there have been even some reports about potential nationalization out of some of the AFP businesses. So just wondering if you have any insights on what is going on there.
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [31]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Jimmy. It's John. On the commercial mortgage front and the market, as you -- we all know there's been some recent pressure over the last few years. And -- but think there's the backdrop, it's starting to build some optimism for the going forward.
+Obviously, there's been strong economic growth that continues to remain healthy. And you start to see some -- even some real estate fundamentals beginning even in office. It's showing signs of bottoming. It's still probably not quite there yet, but it's showing signs office vacancies likely peaked most in 2024.
+You see the remote work starting to reverse. You see lease signings have been increasing. And so all in all -- and then couple that with like a low construction pipeline. All of that starts to give itself the ability to start to make a shift in terms of where things are.
+I think even vacancy rates across other properties are at historical averages, if not below. And then last thing I'd highlight is you're beginning to see signs of transaction volumes pickup. Even us, I think we had a $80 million level of -- or $90 million of gains this quarter on sales. So you're starting to see transactions.
+So look, as we look forward, we think we've -- we're approaching the peak of the cycle or trough, whichever way you want to put it. And so we think from an LTV perspective, we probably have hit our point. Maybe there's a little more change, but I think we've kind of hit it in terms of LTVs.
+And looking forward, in terms of losses, we've pretty -- I would say we've effectively reserved, for the most part, if not all, for losses. So right now, it's just getting to the end of letting the dust settle. Probably the best way to think about what's left is we probably -- we might have a point or two of RBC.
+That's maybe a better way to size what this means as opposed to maybe charge-offs or losses because we probably have been fully reserved now and -- all else equal, obviously. And so once all the dust settles, maybe there's another point or two on average in terms of the impact of the cycle. That's how I'd maybe put it.
+
+--------------------------------------------------------------------------------
+Eric Clurfain,  MetLife Inc - President - Latin America    [32]
+--------------------------------------------------------------------------------
+
+          Hi, Jimmy. Regarding the Chile pension reform -- so yeah, you're right. After almost a decade of debate, pension reform was approved last week by the Chilean Congress. So now with this recent development, basically, we have more clarity on what's next.
+And in a nutshell, the key takeaways from this reform are threefold. One, the private pension system continues in its current structure with a few adjustments. The second is that employer contributions will be gradually increased over time. And the third is in terms of implementation, the reform will be gradual and take several years.
+So some elements of the law will require us to adapt our operations over time. And we don't foresee any material impact to our business that we wouldn't be able to mitigate. And we continue to remain very much committed to providing high-quality pension management services to our customers as we navigate these changes over time.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Elyse Greenspan, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Elyse Greenspan,  Wells Fargo Securities, LLC - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          My first question is on MIM. I know that's included within corporate. And John, I know in December, you told us you guys would start breaking it out, right, this year. So could you give us a sense of how much earnings MIM contributed in '24 and the growth that you're expecting in MIM in 2025 within your guide?
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [35]
+--------------------------------------------------------------------------------
+
+          Good morning, Elyse. Look, we'll do all that when we start to break out the segment. The way -- and the reason why I hesitate to start doing that now is what we try to do today was -- is provide you the outlook based on our current state. And as you just said, MIM's incorporated in that, but it's spread out.
+So we -- I'm reluctant to throw out a number that then creates other confusion. So I think for modeling purposes, I would stick to the segmentation that we have today.
+As we said at Investor Day, we expect to report MIM as a segment in '25. But in light of the recent announcement of PineBridge, we are now aiming to do that in -- to coincide with the closing of the transaction.
+And you can all thank John Hall. He said that you worked very hard, all of you, and that we wanted to make it easier for you to do all your model changes. So that was -- you can thank him in due time.
+So we expect the timing of the close to be in the second half of '25. We have a number of regulatory approvals that we have to get done, but the team is working intensely to get those completed. So that would be our timing of when we get more info on MIM.
+
+--------------------------------------------------------------------------------
+Elyse Greenspan,  Wells Fargo Securities, LLC - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          And then one last quick one. It sounds like you guys are using the forward curve, right, for some of the currency assumptions within the guide. I'm just trying to get a sense if there's upside or even downside risk to some of the international earnings as currency moves during 2025.
+
+--------------------------------------------------------------------------------
+John McCallion,  MetLife Inc - Chief Financial Officer, Executive Vice President    [37]
+--------------------------------------------------------------------------------
+
+          Yeah, that's correct, Elyse. We tend to just lock in on the 12/31 forward curves. And I think the places where we're seeing the most change over the last three months is primarily Latin America. You saw that mostly throughout the fourth quarter happen.
+So the average for the year is really pressured there. I think from here, we see maybe a little more weakening from the spot rate. So I think at the end of 2025, it's somewhere a little above 21%, where we're maybe hovering in the 20s today.
+And then also Asia as well. So we use a forward curve. I think we're in like -- the yen today is in the [154] range or so, something like that. And we're -- I think the forward curve says spot rate will be low 50s, somewhere around there.
+So there's -- I think on average, there's a little pressure if you take the average for the year. So it's a little bit of a headwind as well as some of the other Asian currencies. So hopefully, that helps.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          This concludes our question-and-answer session. I will now turn the call back over to John Hall for closing remarks.
+
+--------------------------------------------------------------------------------
+John Hall,  MetLife Inc - Global Head of Treasury and Investor Relations, Interim Head of Corporate Development and M&A    [39]
+--------------------------------------------------------------------------------
+
+          Thanks, everyone, for joining us. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          This concludes today's call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

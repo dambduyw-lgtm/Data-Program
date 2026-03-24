@@ -1,0 +1,635 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 Deere &amp; Co Earnings Call
+AUGUST 14, 2025 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Chris Seibert
+   Deere & Co - Manager, Investor Communications
+ * Joshua Jepsen
+   Deere & Co - Chief Financial Officer, Senior Vice President
+ * Cory Reed
+   Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia
+ * Josh Beal
+   Deere & Co - Director, Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Steven Fisher
+   UBS AG - Equity Analyst
+ * Timothy Thein
+   Raymond James & Associates, Inc. - Analyst
+ * Jamie Cook
+   Truist Securities - Analyst
+ * Kyle Menges
+   Citi Infrastructure Investments LLC - Analyst
+ * Tami Zakaria
+   JPMorgan Chase & Co - Analyst
+ * Angel Castillo Malpica
+   Morgan Stanley - Analyst
+ * Paddy Bogart
+   Melius Research LLC - Analyst
+ * Chad Dillard
+   Sanford C Bernstein & Co LLC - Analyst
+ * David Raso
+   Evercore Inc - Equity Analyst
+ * Kristen Owen
+   Oppenheimer & Co Inc - Analyst
+ * Joel Jackson
+   Bank of Montreal - Equity Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to Deere & Company's third quarter earnings conference call. (Operator Instructions) I would now like to turn the call over to Mr. Josh Beal, Director of Investor Relations. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Hello. Welcome, and thank you for joining us on today's call. Joining me on the call today are Josh Jepsen, Chief Financial Officer; Cory Reed, President, Worldwide Agriculture & Turf Division, Production and Precision Ag, Americas and Australia, and Chris Seibert, Manager, Investor Communications.
+They will take a closer look at Deere's third quarter earnings, then spend some time talking about our end markets and our current outlook for fiscal 2025. After that, we'll respond to your questions. Please note that slides are available to complement the call this morning. They can be accessed on our website at johndeere.com/earnings.
+First, a reminder, this call is broadcast live on the Internet and recorded for future transmission and use by Deere & Company. Any other use, recording or transmission of any portion of this copyrighted broadcast without the express written consent of Deere is strictly prohibited. Participants in the call, including the Q&A session, agree that their likeness and remarks in all media may be stored and used as part of the earnings call.
+This call includes forward-looking statements concerning the company's plans and projections for the future that are subject to uncertainties, risks, changes in circumstances and other factors that are difficult to predict. Additional information concerning factors that could cause actual results to differ materially is contained in the company's most recent Form 8-K, risk factors in the annual Form 10-K as updated by reports filed with the Securities and Exchange Commission.
+This call also may include financial measures that are not in conformance with accounting principles generally accepted in the United States of America, GAAP. Additional information concerning these measures, including reconciliations to comparable GAAP measures, is included in the release and posted on our website at johndeere.com/earnings on our quarterly earnings and events.
+Now I'll turn the call over to Chris Seibert.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [3]
+--------------------------------------------------------------------------------
+
+          Good morning, and thank you for joining. John Deere's third quarter performance reflects the company's focus on disciplined execution amidst challenging market dynamics. Despite headwinds from tariffs, Deere's equipment operations delivered at 12.6% operating margin in the quarter. Global uncertainty and difficult fundamentals continue to weigh on customer sentiment in many of Deere's key end markets. However, over the course of the quarter, we also saw better-than-anticipated demand in several segments, reflecting pockets of optimism across the business.
+After a slow start to the year, turf and compact utility tractor shipments in North America were better than expected, reflected improvement in consumer confidence and favorable weather conditions. Year-over-year retail sales also increased for both tractors in Europe and earthmoving and forestry equipment in North America, reversing several quarters of flat or declining sales.
+Amidst this backdrop, Deere's performance continues to demonstrate strong financial results. Production costs, inclusive of tariffs remain favorable in our Ag and Turf businesses as a result of disciplined management, efficiency gains in our factories and favorable material costs. The actions that we have taken over the past 18 months to manage inventories across the board have resulted in significant year-over-year declines across all business units and geographies, positioning the company well to respond to inflection and market demand.
+And the additional incentives we have deployed are providing support to customer buying decisions in the current interest rate environment, notably in North American earth-moving and the used equipment -- than the used agricultural equipment market.
+Clearly, higher levels of global uncertainty persists. However, our order books remain solid. Select markets are showing early signs of positive inflection. And importantly, we remain well positioned from both an inventory and structural cost perspective to respond when demand growth returns.
+We now begin with slide 3 and our results for the third quarter. Net sales and revenues were down 9% to $12.018 billion, and net sales for the equipment operations were also down 9% to $10.357 billion. Net income attributable to Deere & Company was $1.289 billion or $4.75 per diluted share.
+Diving into our individual business segments, we'll start with Production and Precision Ag on slide 4. Net sales of $4.273 billion were down 16% compared to the third quarter last year. Primarily due to lower shipment volumes and unfavorable prize realization. Price realization was negative by just under 1 point. This is a result of incremental pool funds we accrued during the quarter to support our dealers' efforts to aggressively address used-inventories in North America. Currency translation was slightly positive.
+Operating profit was $580 million with a 13.6% operating margin for the segment. The year-over-year decrease was primarily due to lower shipment volumes and an unfavorable sales mix.
+Next, we'll turn to Small Ag and Turf on slide 5. Net sales were down 1% year-over-year, totaling $3.025 billion in the third quarter due to slightly lower shipment volumes, partially offset by currency translation and price realization. Price realization was positive by about 0.5 point. Currency translation was also positive by roughly 1.5 points.
+Operating profit declined slightly year-over-year to $485 million, leading to a 16% operating margin. The decrease was primarily due to tariffs, partially offset by lower warranty expenses and lower production costs.
+Slide 6 gives our 2025 industry outlook for ag and turf markets globally. In the US and Canada, we continue to expect large Ag equipment industry sales to be down approximately 30% in the fiscal year. Demand continues to be pressured by high interest, elevated used inventory levels in late model year machines and trade uncertainty, which is partially mitigated by tight global stocks for grains and oilseeds, stable farm balance sheet supported by strong farmland values and the distribution of government funds.
+For Small Ag and Turf in the US and Canada, industry demand is now projected to be down 10%. Dairy and livestock fundamentals remain strong, while capital investments in the segment remains muted due to high cost of expansion. Soft consumer confidence and elevated interest rates continue to weigh on purchase decisions in turf and compact utility tractors. However, we saw improved sentiment and better-than-anticipated retail sales during the quarter, which supported our upward revision to the full year outlook.
+Shifting to Europe. Sentiment is trending favorably, driven by strong dairy fundamentals, stabilizing interest rates and an improving arable outlook. We now expect the industry to be flat down 5% in fiscal year 2025. In South America, we continue to project industry sales of tractors and combines to remain flat in 2025.
+Positive sentiment in Brazil is supported by record crop production, improved corn and soy profitability levels and continued expansion of production rain acreage in the region. However, high interest rates, which continued to increase over the quarter and questions related to trade policy with the US are causing some caution in the market. Industry sales for Asia are now expected to be flat to up 5%, driven by an improved outlook for the Indian tractor market.
+Moving on to our segment forecast beginning on slide 7. For Production & Precision Ag, our net sales forecast for the full year remains down between 15% and 20%. The forecast assumes roughly 1 point of positive price realization, offset by 1 point of negative currency translation. For the segments' operating margin, our full year forecast remains between 15.5% and 17%.
+Slide 8 covers our forecast for the Small Ag and Turf segment. With projected improvements in Europe, India and North American turf and compact utility tractors, we now expect net sales to be down about 10% this year. This guide includes 0.5 point of positive price realization as well as 0.5 point of positive currency translation. The segment's operating margin is now forecasted to be between 12% and 13.5% in line with the improved sales outlook.
+Shifting now to Construction & Forestry on slide 9. Net sales for the quarter were down 5% year-over-year to $3.059 billion, mainly due to unfavorable price realization. Price realization was negative but just under 5 points. Negative price in the quarter was driven by incremental incentive programs deployed in the North American earthmoving market by competitive pricing pressure persists.
+Currency translation was positive by roughly 1.5 points. Operating profit of $237 million was down year-over-year, resulting in a 7.7% operating margin, primarily due to unfavorable price realization and tariffs. These changes have been partially offset by a favorable product mix.
+Slide 10 provides an update to our 2025 Construction and Forestry Industry outlook. Industry sales for earthmoving equipment in the US and Canada are still expected to be down approximately 10% while compact construction equipment in the US and Canada is now expected to be flat to down approximately 5%.
+Construction markets remain stable with employment at all time highs and construction backlog at above average levels. US government infrastructure spending remains elevated and continues to provide support to the industry.
+On the other hand, single-family housing starts along with investment in multifamily and commercial real estate markets are slowing due to higher interest rates and broader economic pressure. Additionally, equipment replacement in the rental industry remains muted. All of these factors continue to drive caution in the market relative to capital investment. However, our activity over the course of the past quarter has trended more favorably.
+Global forestry markets are expected to remain flat to down 5%. The projection for the global road building market remains roughly flat. North America is slightly lower year-over-year. However, growth in Europe and a slight recovery in China are contributing to keep industry levels roughly unchanged from 2024.
+Moving on to the Construction & Forestry segment outlook on slide 11. 2025 net sales estimates remain down between 10% and 15%. Net sales guidance for the year now includes flat currency translation and about 2 points of negative price realization, driven by the competitive pricing environment in earthmoving in North America. The segment's operating margin is now projected to be between 8.5% and 10%, reflecting higher levels of tariff costs and lower price realization.
+Transitioning to our financial services operations on slide 12. Worldwide financial services net income attributable to Deere & Company in the third quarter was $205 million. Net income was higher due to lower provision for credit losses and prior year special items. For fiscal year '25, our outlook increased to $770 million. Revised estimates for SNG spending and provision for credit losses in 2025 drove the improvement from last quarter's forecast.
+Next, slide 13 outlines our guidance for Deere & Company net income, our effective tax rate and operating cash flow. For fiscal year '25, we tightened our outlook for net income from last quarter to now be between $4.75 billion and $5.25 billion. Our forecast for net income is largely unchanged quarter-over-quarter. Recall, the top end of our guide from last quarter reflected a scenario where tariff rates moderated.
+Next, our guidance reflects an effective tax rate between 19% and 21%. And lastly, cash flow expectations from the equipment operations remain in the range of $4.5 billion to $5.5 billion.
+This concludes our formal comments. We'll now shift the discussion to address a few topics specific to the quarter. Starting off with Deere's performance in the third quarter. Net sales declined approximately 9% year-over-year, and we saw operating margin coming at 12.6%. Josh Beal, can you provide some additional color on what happened this quarter?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [4]
+--------------------------------------------------------------------------------
+
+          Yes, absolutely, Chris. There's definitely a lot going on in the quarter and plenty to unpack. You mentioned uncertainty in your opening comments, and I think that's probably a good place to start. Given challenging industry fundamentals and evolving global trade environment and ever-changing interest rate expectations, our customers are operating in increasingly dynamic markets, which naturally drives caution as they consider capital purchases.
+The best way for us to function as a business during times like these is to focus on what we can control, namely execution items like production, inventory levels and cost.
+Starting with production, our factories are running well across the business. We're delivering to our production plans, hitting our retail sales targets, and that's allowing us to sustain and even improve upon the significant inventory reductions that we've driven over the past couple of years. And that's true across all three of our business segments.
+In large ag, we're done with underproduction this year and are happy with where new inventory levels are positioned across the globe. Just to give you a sense of the work that we've done, in North America, 220-horsepower and above tracker inventories are 45% lower year-over-year, and combine inventories are down 25%.
+Large tractor and combine inventories in Brazil are down over 50% from their peaks in late 2023. Tractor and combine inventories in Europe are down 10% to 15% over the past 12 months. These improvements aren't isolated to the Large Ag business.
+In Small Ag, less than 100-horsepower tractor inventory in North America is down 30% year-over-year. including sequentially down 15% in the past quarter. In earthmoving, our North American field inventories are between 25% and 30% lower year-over-year. In short, we feel like the hard work that we've done and the tough decisions we've made across the business over the past two years have a setup to respond as end markets inflect.
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [5]
+--------------------------------------------------------------------------------
+
+          This is Cory. I want to take a second to double down on that point. We, as an organization, have intentionally and proactively responded to this downturn faster and more aggressively than ever before. The results of that work are apparent and reductions that Josh just mentioned. We obviously don't have a crystal ball to know definitively when markets are going to turn. However, we know that when that happens, nobody is better positioned to respond to it and respond to the demand than us.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [6]
+--------------------------------------------------------------------------------
+
+          This is Jespen. I agree with Cory's point. On top of that, the underproduction we've done this year, Small Ag and Construction & Forestry should be a year-over-year tailwind to our production as we move into '26, as we're enabling both businesses to build in line with retail demand next year.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh for that color. And continuing with the theme of what we can control, the other big area is cost. And again, it starts with our factories. Our facilities have been running efficiently. We've taken costs out of our operations and we have adjusted the lower unit volumes this year. And as a result, when you look year-over-year, we're seeing favorable overhead comparisons.
+On top of that, our supply management team in partnership with our supplies base and our internal product design engineers, continues to work diligently to drive material costs out of the business, and we're seeing that favorability again this quarter.
+Chris, you said this earlier, but I think it's notable to repeat that our Ag and Turf business remained production cost favorable in the quarter despite the impact of tariffs and inclusive of that impact.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [8]
+--------------------------------------------------------------------------------
+
+          Thanks for all your comments here. Can you please also unpack the impact on margins in the quarter?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [9]
+--------------------------------------------------------------------------------
+
+          Yes, absolutely. And there's really two significant call-outs here. One is tariffs and the other is price. Starting with tariffs at obviously additional costs this year, which is contributing to the higher decremental margins. Tariff costs in the quarter were approximately $200 million, which brings us to roughly $300 million in tariff expense year-to-date.
+Based on tariff rates in effect as of today, our forecast for the pretax impact of tariffs in fiscal 2025 is now adjusted to nearly $600 million. The primary drivers for the change from last quarter are increased tariff rates on Europe, India on steel and aluminum.
+The other notable change this quarter was price realization. As you mentioned earlier, Chris, we saw a negative price in the quarter in both Construction & Forestry and Large Ag. Let's start with Construction & Forestry. The price actions that we took in the quarter were reflective of a need to be aggressive on price in the North American earthmoving market where competitive pressure has been tougher. Importantly, what we saw was a favorable market response to these actions, as our retail settlements were up mid digits year-over-year in the third quarter.
+On top of that, we've seen a pickup in our order book, where on a percentages basis, we're up mid-teens year-over-year. Additionally, the continued strength in customer backlog, ongoing infrastructure spending and a potential boost from recently enacted bonus depreciation give us optimism or earthmoving retail demand as we exit 2025.
+Shifting to Large Ag. The negative price that you saw in the quarter was primarily driven by actions taken to address used inventory in North America, which remains our top priority in the region. Specifically, we added incremental pool funds to the North American channel.
+It's important to note that the accrual for these programs drove pricing negative in the quarter, but that we've maintained our 2025 full year guide of approximately 1 point of positive price. The best way to think about that is we had room in our incentive budget to continue to support a healthy market and that we're putting those funds to work in the area of highest impact.
+Certainly, we have more work to do to improve used inventory levels, but it's also important to note that we are seeing progress. As we've talked before, late model equipment has been a particular challenge in North America. Therefore, it's notable that over the course of the quarter, inventory levels have used model year '22 and model year '23 ADAR tractors and combines decreased by over 10% for both product lines.
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [10]
+--------------------------------------------------------------------------------
+
+          This is Cory again. The improvement that we're seeing in late model year equipment is encouraging. There's demand for these model years in the secondary market, and we're seeing that equipment move. And the progress isn't limited to just tractors and combines. Since the beginning of 2025, used Deere Sprayers in North America are down 20% and used Deere planners are down over 30%. We're seeing the secondary market get healthier, and we remain committed to supporting our customers and our channel to continue that progress.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [11]
+--------------------------------------------------------------------------------
+
+          This is Jepsen. We should also mention the role that John Deere Financial is playing in supporting the used market. Pool funds can be deployed by our dealers to buy down rates. Our customers pay when they finance used equipment purchases which is particularly valuable in a higher interest rate environment.
+John Deere Financials' introduction of a split rate financing tool where dealers buy down the interest rate for the first two- or three years of a five-year note is proving to be particularly effective. The tenor of the lower rate term is a good fit for trade cycles of many customers and the cost of the rate buydown is less expensive for our dealers, enabling their pool fund dollars to go further.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [12]
+--------------------------------------------------------------------------------
+
+          Thanks all for that color on the quarter. Let's shift gears a bit to looking ahead. Despite uncertainty around global trade, we're starting to see some positive trends in the ag industry, specifically outside of North America. Josh Beal, can you please elaborate a bit on why this is the case and what that means for us?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [13]
+--------------------------------------------------------------------------------
+
+          Sure, Chris. Let's do a quick walk around the world. In Europe, we continue to see robust cash flows in the dairy sector. Arable cash flow is also projected to improve as we see a recovery in yield in key markets following a challenging production season last year.
+Stable wheat and canola prices at supportive levels are adding confidence in the region, along with stabilizing interest rates. All of this is supportive for demand, which has driven a pickup in order activity for midsized tractors. In that segment, we've seen strong reception for Deere's recently introduced new lineup of 6M tractors, which are receiving high praise from customers and dealers alike.
+Moving to Asia. The improved outlook is mainly driven by India. Crop acreage has remained steady, support prices in agricultural credit are increasing and growing conditions have been favorable in the country. In South America, our projection for the year remains flat. In Brazil, the sentiment is best described as cautious optimism. Growers are expected to be more profitable this year driven by improved margins and strong production.
+High interest rates in the country, however, do somewhat temper expectations along with US tariffs, which could be particularly impactful on coffee and citrus growers. In Argentina, grower sentiment is increasingly positive as above average yields and permanent reductions in export taxes and are supportive for the industry.
+North America continues to be the most affected by trade dynamics, which translates to caution for equipment replacement. On a positive, global stocks-to-use ratios remain at low levels. Even if this year's Brazilian and US corn crops are at the upper end of the yield projection, global stocks to use would still be in line with historical averages.
+US corn and soybean consumption levels are strong. However, the persistence of lower commodity prices continues to result in tighter margins for our customers. Recent ag policy legislation has been positive and potential developments in trade agreements and demand for renewable fuels could also be supportive. However, until there's more stability in the industry, we'd expect customers to continue to take a measured approach to capital investment.
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [14]
+--------------------------------------------------------------------------------
+
+          This is Cory again. I'd like to add a couple of additional points on North America. First, when we talk about sentiment in the region, we need to differentiate between the US and Canada. Canadian growers are benefiting from stronger prices for small grains and oilseeds, which make up over half of the crop receipts in Canada. Weather conditions have also been favorable, driving expectations for better crop outcomes.
+Lastly used equipment levels are in better shape in Canada than in the US. Even in the US, sentiment is different across the region, across the various regions. Growers in West are doing better, and we've seen improving confidence in the Midwest with potential for strong yields in corn and soy fueling optimism.
+In fact, several Midwest dealers have mentioned recently seen increased quoting activity over the last 30 days. The Southeast region is facing the most pressure where cotton economics are challenging at the moment.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [15]
+--------------------------------------------------------------------------------
+
+          Perfect. Thank you for that background here. Now with that context on fiscal year 2025 and your comments around the current market environment, I'd like to shift to our model year '26 early order programs in North America. Josh Beal, can you give us an update on where we are now?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [16]
+--------------------------------------------------------------------------------
+
+          Yes, sure, Chris. Let's begin with level setting on where we are with regards to timing of the various North American early order programs. The EOP for Sprayers opened in mid-May and actually closed today. Planner EOP opened at the beginning of June and will close at the end of September. Lastly, combine EOP just opened at the beginning of August and will run through the middle of December.
+The structure for all the EOPs was a little bit different this year as we generally shortened all the programs and introduced more flexibility for price adjustments given potential tariff changes. We announced list price increases for the active phases of all EOP products are between 2% and 4%.
+As a side note and as a reminder, North America tractors are on a rolling order book with a roughly four- to five months of visibility, providing confidence in our production plans as we close out the fiscal year. In terms of EOP progress, let's focus on Sprayers, which as mentioned, just closed today. Based on the results of the EOP and expected order intake post EOP, which is based on historical activity, we project model year '26 Sprayers to be down roughly 20% year-over-year.
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [17]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh. And I'd like to jump in with a little color on the sprayer EOP and what it might mean for North American products, other product lines in North America. Need to first keep in mind that Sprayers are cycling on a different line than other products. Given the timing of the model year '24 EOP, along with the excitement for new technology in the product line, sprayer demand was actually up year-over-year in fiscal year '24, while tractors and combines were down over 20% in the same year.
+Essentially, in 2025, Sprayers are in year 1 of a down cycle versus year 2 for tractors and combines. Additionally, as we've discussed, we currently have more uncertainty than ever in the North American ag market, which translate to the broadest range of outcomes for the following year than we've had in a long time.
+With EOP timing, customers are contemplating purchase decisions with a lot of unknowns for the year-end. And as a result, many are preserving optionality, depending on when they get greater clarity, customer ordering decisions for other product lines could be made under very different conditions.
+Because of this, I wouldn't over-index on what sprayer results might mean for other products in 2026. Our focus in alignment with our dealers right now is on the controllables. Priority number one is jointly addressing used inventory levels.
+As I mentioned earlier, we've recently seen promising momentum on quoting activity. While uncertainty remains, we will continue to run our factories lean, maintain the flexibility needed to respond quickly. Our disciplined approach to managing new inventory, along with our focus on used positions us well as this cycle turns.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [18]
+--------------------------------------------------------------------------------
+
+          Thanks for that perspective, Cory. My final question is on technology. Last quarter, we talked about milestones we have reached with our Precision Ag Solutions. Josh Beal, are there any recent changes or interesting fact you can share with us?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [19]
+--------------------------------------------------------------------------------
+
+          Yes, absolutely, Chris. Let's first talk about adoption. During our June investor event in Brazil, we shared regional adoption statistics for JDLink Boost, our satellite connectivity solution for areas where cell coverage is not sufficient. Approximately 70% of the acres in Brazil lack reliable cell coverage, which is why we focused on that market first. However, we've also been taking orders in the US since January and went live this summer with availability in Canada, Australia and New Zealand.
+Across those four geographies, we've just crossed 1,000 units ordered and combining that with South American demand, we've surpassed 5,000 global orders in this first year of availability. Demand for Precision Essentials, our bundle of foundational Precision technologies continues to be robust as well. Since launching the offering last year, we've had 21,000 orders globally.
+Notably, adoption of Precision Essentials has been a catalyst for greater engagement in the John Deere Operations Center. Since its launch, Precision Essentials has brought over 2,400 new customers into the John Deere Operations Center. And for those that were already in operation center, we've seen a 35% increase in their engaged acres and a nearly 50% increase in their highly engaged acres since adopting the solution. That's contributing to overall engaged acre growth, where we've now surpassed 485 million acres across the globe, 30% of which are highly engaged.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [20]
+--------------------------------------------------------------------------------
+
+          This is Jepsen. That reminds me of one point to add. Earlier this year at Bauma, we showcased the John Deere Operations Center for Roadbuilding, highlighting our ability to leverage investments that we've made in Large Ag and explore and extend them to other segments. The road building op-center adoption metrics to date are impressive. Over the course of the year, we've more than doubled active rural building organizations to nearly 3,000 in the operation center.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [21]
+--------------------------------------------------------------------------------
+
+          Thanks for that add, Josh. It's really powerful to see how the adoption of Deere Tech is scaling across other production systems. Transitioning to utilization, I think we should highlight the in-season results of See & Spray that we've seen thus far. We've talked previously about the increased number of Sees per units in the field this year. Beyond that unit growth, what's been particularly encouraging has been the higher levels of utilization that we're seeing this year from our 2024 cohort of machines, which are now in their second use season.
+On average, 2024 See & Spray units are running the technology on 30% more acres this year. Additionally, these same customers have added incremental See & Spray units for their fleet this season. This is evidence of the value that our customers are seeing in the technology.
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [22]
+--------------------------------------------------------------------------------
+
+          I said, Josh, let me add something here related to our new precision harvesting features as well, which we introduced this year and are just starting to put to work in the field. We recently visited a large customer running the tech, and they're seeing an over 30% increase in throughput, measured in bushels per hour with the use of harvest settings automation.
+Additionally, they reported more than 20% increase in machine productivity or acres per hour through the use of predictive ground speed automation. This is consistent with early season reports that have come in from the John Deere Operations Center, but it's always positive to hear it firsthand from a customer.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [23]
+--------------------------------------------------------------------------------
+
+          Thanks all. Really exciting news here. Josh Jepsen, before we open the line for questions, would you like to share any final comments?
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [24]
+--------------------------------------------------------------------------------
+
+          For sure, Chris. I'd like to start by expressing my appreciation to the Deere team for their tenacity and commitment to executing in the quarter. This helps all stakeholders specifically our dealers and customers to navigate through the current environment.
+The team's performance in the near term, focus on the things we can control has prepared us well for the future. Through disciplined management of structural costs, and the dedicated effort alongside our dealers to manage inventories, we've done the hard work to enable continued success going forward. There's still a fair bit of uncertainty as we look ahead to next year.
+However, given reduced field inventory levels, our expectations to build to retail demand across all our businesses will be beneficial, particularly in areas where we're seeing positive momentum as we finish 2025.
+In addition, we maintained our focus on the future by investing in and delivering products and solutions to our customers that are driving meaningful outcomes, reducing costs while improving productivity, yields and profitability. Delivering these outcomes in a down market enables the company to accelerate adoption and utilization of these solutions as market dynamics improve, driving further confidence in our ability to outpace historical performance going forward.
+We've managed down turns and trade uncertainty before. That's part of our DNA. At the same time, we've structurally improved the business, allowing us to maintain robust levels of investment necessary for future growth. Ultimately, we remain incredibly well positioned and committed to delivering long term value for our customers and shareholders.
+
+--------------------------------------------------------------------------------
+Chris Seibert,  Deere & Co - Manager, Investor Communications    [25]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh. Now let's open it up to analyst questions.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [26]
+--------------------------------------------------------------------------------
+
+          We're now ready to begin the Q&A portion of the call. (Event Instructions)
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Tammy Zakaria, JPMorgan.
+
+--------------------------------------------------------------------------------
+Tami Zakaria,  JPMorgan Chase & Co - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          My first question is on your comment that you want to produce to retail demand next year. Just so we understand, in a scenario where, let's say, retail sales are up 5% or up 10%, are you expecting to be up -- your production to be up similarly? Or could it be up more because you're underproducing this year?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [3]
+--------------------------------------------------------------------------------
+
+          Tami, thanks for the question. First and foremost, as we mentioned in the comments, we feel really good about the progress that we've made thus far in fiscal 2025 on our inventory levels in the field. And as we mentioned, that's really across all three segments. Large Ag was in good shape to start the year, we continue to bring that down.
+In Small Ag and Turf and Construction & Forestry, both of those businesses, we did about 10% under production this year in fiscal 2025. We've seen inventories come down. As I mentioned, small tractors in North America, less than 100-horsepower tractors, down about 30% year-over-year, 15% sequentially in the quarter, so really good progress. We'll do a little bit more in Q4 there, but we've made really good progress and you get about 10% of our production.
+C&F, that was really front half loaded, really in the first quarter, we did it underproduction. So as a set up to your question, what that means for 2026. Large Ag, pretty much in retail this year. So whatever happens with retail next year, that will be the change. So plus 5%, your hypothetical would be pretty similar on the Large Ag side. Small Ag and Turf and Construction & Forestry, they'll get some lift, building in line with retail next year, again, down 10% to retail in both of those segments this year. So there's some potential left as we build in line with retail in 2026.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Angel Castillo, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Angel Castillo Malpica,  Morgan Stanley - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          I just wanted to expand a little bit more on the early order programs. Completely understand your comments on why we shouldn't extrapolate Sprayers, but if you could maybe talk a little bit more about just what you're seeing in planters, which are maybe a little bit further along and maybe just even very early days on combines and also just the commentary you made on quoting activity. Just to the extent that you have the ability to kind of see how those are trending and how much better that might be versus Sprayers, that would be helpful.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [6]
+--------------------------------------------------------------------------------
+
+          Yes. Sure. I'll start, and Cory, feel free to add in here. I mean planters, Angel, it's -- we're a little bit more than through the program at this point in time. I think it's fair to say, given the uncertainty in the market the past months and a half, two months, it's been cautious ordering on the planter side.
+And candidly, customers have the optionality to wait until the end of that. We typically see a ramp-up towards the back part of the EOPs, especially in an environment like this. And so, early days on the planter program. And then you combine as we mentioned, it opened on August 1, so very, very early. Early returns are good, but it's early in that segment. And I think don't read too much into that either as well as we need to see that play out over the next several months.
+And Cory, any additional thoughts on what we're seeing?
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [7]
+--------------------------------------------------------------------------------
+
+          No, I think you summarized it well. We expect based on where all the external policy factors are that people are going to wait and see a little bit. But we've been pleased as we've opened the combine program with some of the response that we've seen.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [8]
+--------------------------------------------------------------------------------
+
+          Yes. I think the other thing we're watching too, is particularly here in the Midwest, we see relatively large production. We think we're going to have good yields. And, one thing that's true over time is more bushels will drive better outcomes for customers, which can in turn drive demand incrementally, whether that's pulling used equipment into the harvest or purchase decisions post harvest, new end use. So a lot to see here, and we'll learn a lot here over the next 60 days.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Steven Fisher, UBS.
+
+--------------------------------------------------------------------------------
+Steven Fisher,  UBS AG - Equity Analyst    [10]
+--------------------------------------------------------------------------------
+
+          So it seems like the implied pricing in PPA in Q4 is positive. And I guess it's a range depending on how you round it. But curious what the puts and takes of that inflection are in terms of passing along tariffs versus removing any discounts related to helping incentivize the used sales? And how well do you think the market can bear that higher pricing at this point?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [11]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for the question, Steve. And there's a few things going on there, so I appreciate the opportunity to unpack this. If you recall, in the fourth quarter of '24, we put some additional incentives in place for pool funds at that point in time. So comparably, you've got a lift in the fourth quarter of '25, just with that timing aspect.
+The additional thing we're seeing in the fourth quarter of '25 is pricing on somewhat of year '26 pricing is starting to come through. We'll start to ship model year '26 Sprayers in the fourth quarter of the year, which average pricing on Sprayers for next year, 4% to 4.5%. Some of that price comes through an addition.
+Pricing for model year '26 equipment in Brazil will start to be shipped in fourth quarter as well. So that will provide a lift year-over-year.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [12]
+--------------------------------------------------------------------------------
+
+          Steve, this is Jepsen. One thing I'd add to that. I mean, Josh mentioned starting to ship model year '26 in Brazil and in North America. But Brazil, coming off of last year where we ran some negative price, this year, we're mid-single digits positive. So that's returned which is a good thing. And given the growth in that, that market for us over the last decade was more meaningful when we look at price.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Tim Thein, Raymond James.
+
+--------------------------------------------------------------------------------
+Timothy Thein,  Raymond James & Associates, Inc. - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          The question is on the cash flow guidance, call it a $1 billion range with just a quarter left. I'm curious how much of that reflects maybe potential difference in outcomes with respect to channel inventory. I guess you are saying that you're kind of done under producing, but obviously, the fourth quarter can have -- is always have some variability with production. How you're thinking about channel inventory an initial look into '26? And again, there's a lot there. But maybe just help us with why with the quarter left, there's such a wide range in operating cash flow guidance?
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [15]
+--------------------------------------------------------------------------------
+
+          Tim, it's Jepsen. I'll start with that. I think one is we feel good about where we projected to end the year on inventories. And Beal went through a list of the reductions we've made. And for example, if you look at 220-horsepower and above in North America, we're going to be -- we're right around right now, 20% inventory to sales, which year-over-year is exactly the same from an inventory to sales perspective on a percentage basis. It's lower on an absolute unit perspective.
+So we've driven down inventory. So we feel good about where we're going to end there. We've got a little bit of work to do on Small Ag and Turf that Josh mentioned, but we've seen really good progress, and we've seen retail stick up. So we feel that we've got an appropriate forecast there, what will hit.
+I think the cash flow range, we just left unchanged, just acknowledging the uncertain environment. Had we tightened it, the midpoint would not have changed. So really not a lot of movement in our forecast from a previous quarter to today on cash flow. Really good quarter that gives us confidence in how we keep operating there, generating the cash to keep funding the business.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Kyle Menges, Citigroup.
+
+--------------------------------------------------------------------------------
+Kyle Menges,  Citi Infrastructure Investments LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          I was hoping if you could just comment a little bit more on CMS. It seems like the order book is improving nicely, yet a lot of pricing competition is still in the market. Just curious how you're thinking about pricing, if you think that your price realization could improve a bit and maybe turn positive next year. And I guess just what pricing is in that order book.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [18]
+--------------------------------------------------------------------------------
+
+          Thanks, Kyle, for the question. You're right. I mean, if you think about what happened in the quarter to start, we put some additional incentives in the market, and we're encouraged by the response. As we mentioned, retail sales in the quarter up in North America earthmoving year-over-year. I think that's the first quarter up in about 18 months. So we were positive and pleased with the inflection point that we saw.
+Obviously, it's been a price competitive segment. And what we did in the quarter was reflective of that. We expect to see some price moderation in the fourth quarter as we've accrued this current level of incentives in Q3. We'll see where the market goes in '26. Obviously, there are some headwinds from tariffs that are in play, and we'll see how that plays out.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [19]
+--------------------------------------------------------------------------------
+
+          This is Jepsen. I would just add that to double down on what Beal said. We've -- the price was seen -- we've seen -- obviously, competition has been strong, but we've seen the market reacting. Underlying, contractors have work. They've got more back than they've ever had. And we spent -- I spent a fair bit of time with contractors here over the course of the summer months. And there's a lot of activity. Labor's still a challenge. So there's work to be had there. A little more competition as it comes to bidding, but there's plenty of activity.
+And I think we saw a strong quarter from a retail perspective. Orders that Beal mentioned earlier picked up as well. So I think there's -- the fundamentals there are solid. I think bonus depreciation is, this an area where we could see that benefit us as we get through the end of our fourth quarter and the calendar year. So there's a number of green shoots as it relates to the demand there. And I think finding some stability from a price level perspective will help us there as well. And that's what we're expecting here as we get into the fourth quarter.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          David Raso, Evercore ISI.
+
+--------------------------------------------------------------------------------
+David Raso,  Evercore Inc - Equity Analyst    [21]
+--------------------------------------------------------------------------------
+
+          I'm just trying to get a sense of how much you're embracing some of the positive comments you made, say, international quoting the inventory, but balance against what is still obviously a very huge market for you, North America and the US market in particular, just right now, obviously, looking very challenged.
+When you think about the seasonal movement of your Large Ag business, right, the revenues usually go down 25% to 30% from fourth quarter to first quarter. And then bounce say, 50% from 1Q to 2Q. That's a normal seasonality. We now have your implied fourth quarter.
+And again, I know it's early, early order programs could influence things. I get it. But I'm just trying to make sure I understand the North American concerns that we all have, how much are you embracing some of the international to still think about those seasonal patterns as still holding as we start to model '26?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [22]
+--------------------------------------------------------------------------------
+
+          David, appreciate the question. And I think you're seeing some of that difference even here in 2025 as we look at the fourth quarter, and you mentioned it. I mean based on our guide, our expectation is, sequentially, we would see an increase kind of high single-digit increase in Large Ag sales into the fourth quarter. And some of that is that, call it, North America versus rest of world dynamics that you're seeing.
+We're actually increasing shipments in Brazil, South America in the fourth quarter as we've seen some green shoots down there. And with North America being down a greater percentage this year, that's driving some of the change in normal seasonality in the fourth quarter.
+We'll see how that plays out for 2026. Obviously, a lot of quarters to go, months ago before we have full sort of clarity on where we land on the early order programs for next year. And as we mentioned, there's caution right now around ordering just given uncertainty in the market. We have seen some more green shoots both in Europe and in South America.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Paddy Bogart, Melius Research.
+
+--------------------------------------------------------------------------------
+Paddy Bogart,  Melius Research LLC - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Yes. So there's been a lot of talk about AI agents performing more complex tasks and assistance semi-autonomously. And I was wondering if you guys see the opportunity for Deere as farmers might be able to utilize the agents to make using the advanced technologies easier in terms of recommendations, prescriptions and so on? And what might be a time line for Deere's investing in that?
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [25]
+--------------------------------------------------------------------------------
+
+          Yes, Paddy, this is Cory. I think, look, first of all, you're seeing a lot of AI in the form of machine learning that's showing up in our current products. So if you think about See & Spray, if you think about FurrowVision, a number of the products that we have that are in the market.
+I think you point out a tremendous opportunity for the next generation of efficiency in agriculture will come from the analysis of the large data sets. If you look we're sitting now at the 400 million -- 480 million acre mark, multiple passes across that.
+Farmers who want to be able to use that data compare to others like them to put themselves in a position to start using artificial intelligence and tools like it to be able to inform their decisions going forward, we'll have access to those tools. And it's something that we're investing in today to be able to do.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Kristen Owen, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Kristen Owen,  Oppenheimer & Co Inc - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          I wanted to ask about your updated tariff assumptions. I think you said $300 million year-to-date realized $600 million now for the full year. Just can you help us bucket that in terms of those direct tariffs versus maybe some of the steel and aluminum impact? Any non-regrettable actions you've taken to mitigate that? And how that is allocated among the business units given the implied 4Q decrementals?
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [28]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Kris, for the question. Maybe just walking through some of the components, first and foremost. So I mean, prior quarter, our full year guide was about a $500 million tariff impact pretax and we've now increased that to $600 million for the full year. And again, quarter-by-quarter, it's about $100 million of impact in Q2. We saw about a couple of hundred million impact in Q3. So our expectation for the fourth quarter is about $300 million.
+If you think about the changes, the $100 million increase quarter-over-quarter, the biggest drivers there were a higher reciprocal rate on Europe as well as steel going from 25% to 50% and a higher rate on India, too. Those are the three big drivers. And so now as we break down that $600 million impact, Europe and steel combined are about 50% of the impact.
+If you add in India and Japan, you get about two-thirds of the impact from those four areas. So those are the biggest drivers. And again, the biggest change was some of the change in those reciprocals over the course of the quarter.
+From a mitigation standpoint, a number of things happening. First and foremost, we've talked previously about doing a lot of work on USMCA certification, particularly in Mexico, where we do have quite a few both complete goods and components flowing over the border, made a lot of progress there and significantly reduce that exposure with the certification.
+In addition, we are making some no-regret sourcing decisions where we can on components to move things around as we work to mitigate the exposures. If we've talked a little bit about the price that we've embedded some of our early order programs for next year, helping to offset as well. So those are the pieces that we're taking those actions were taken, obviously, a very dynamic environment, but that's where we stand today.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [29]
+--------------------------------------------------------------------------------
+
+          Hi, Kris, this is Jepsen. I would say Beal's last point is a key one. We need some stability. We need to settle and we need to know where are we at from a tariff perspective before you can take some other actions. But there's opportunity for us. I think the other thing to maybe look at and step back on, if we got to look at the full year for equipment operations and if you take tariffs out, our decremental margin is about 40%.
+So given the mix, given where North America Large Ag is, doing a 40 decremental there, we feel pretty good about. And if you zoom into Production & Precision Ag for the full year, ex tariffs, you're about 45%. So again, similarly, with the mix with some of the incentives that we put into the market to make sure we're thinking long term and moving used.
+We feel good about the performance, the things we can control and we'll work through the tariff costs that we have and both mitigate and make different decisions as we go forward. But we feel good about the performance to date, and we're going to keep at it.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Charles Dillard, Bernstein.
+
+--------------------------------------------------------------------------------
+Chad Dillard,  Sanford C Bernstein & Co LLC - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          So my question is about the incremental pool funds that will be deployed to address the used equipment situation. So if you guys are discounting used and raising your prices, I guess, like what does that mean ultimately for the farmer and the trade cycle?
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [32]
+--------------------------------------------------------------------------------
+
+          Yes. I think the pool funds give the dealers flexibility to be able to put the customers into machine, be able to make the trade and be able to help offset some of what they're seeing in terms of higher interest cost. So we've seen adjustments in the market relative to used pricing. We start see those prices now come back. So you look at the spreads between what you've seen in retail versus auction price, they've stabilized.
+We've seen increased quoting activity. With that quoting activity now what pool funds do is give our customers and our dealers the opportunity to agree on a rate that's attractive to them going forward. So we mentioned the tremendous work that's been done to reduce used inventories. A lot of that's come from the use of that flexibility.
+The good news is, we've got a huge crop in the field right now. We've got used inventory, and we're seeing a lot of pricing activity. We made the decision to put those pool funds in, so we can give our dealers the tools to be able to move as much of that used as they possibly can, and be able to put ourselves in a position.
+As our customers close out the in the North American market, they're seeing yields higher than expected. They're seeing good tax policy and they're trying to make a decision right now on, can I come in, update a little bit, get my stuff through this year. And by the end of the year, we think we're going to start seeing some tax-based buying decisions.
+The longer term, on the commodity side will be based on how we see these things like tariffs change and what we see in terms of trade deals. We had eight of nine countries right now. Most of those are including commodity programs inside of them. So we see those kick in, together with RVOs. We think we're going to see some really good demand in the future. It's just a question of how it turns. So we don't know when that detail will be ready for everyone to see the response in demand, but we think we're positioned as well as we can be to respond when it does.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [33]
+--------------------------------------------------------------------------------
+
+          Yes. Maybe the only thing I'd add to that, Chad, is just on the demand side and the fundamentals for customers. We're -- as we think about renewable fuels, Cory mentioned RVOs, but ethanol, E15, we've seen some bipartisan support here very recently for ethanol. I think the ability to see incremental demand for ethanol and particularly as we think about energy being included in trade deals, represents an important opportunity for agriculture.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Jamie Cook, Truist Securities.
+
+--------------------------------------------------------------------------------
+Jamie Cook,  Truist Securities - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I guess just drilling down on the Big Beautiful Bill, Jepsen, just wondering what your thoughts are in terms of implications for tax, for cash flow and just any early indications you're hearing from customers more on the bonus depreciation side.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [36]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Jamie. I think from a tax perspective, there's a lot in there. I think there, we're still sorting through and how those things impact. One of the big ones is R&D expensing versus capitalization. I think over time, that will be a positive for us. And there's a lot of other puts and takes. But I think broadly, I'd say from a tax policy perspective, I think beneficial for the company as well as for customers. I mentioned bonus depreciation on the construction side, where we see opportunities there. But Cory, anything you'd add from your side?
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [37]
+--------------------------------------------------------------------------------
+
+          Yes, I think in the near term, the closest right now as we get ready to enter harvest, the big that's driving the demand side is what we're seeing in the size of the crop. The crop is large, and that means customers need more equipment and more through put in order to get it in.
+As we close out the year, what we're going to see is buying that's driven off of those policies. We know as folks finish out the year in October, November, and they head to their accountants. They're going to measure the impact of those and have to decide that they do some year-end buying, and we think we're positioned well on the year-end buying side, both on the used side. We're seeing that quoting activity start today, but we think it will carry through to the end of the year because of what's going to happen with year end tax buying.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Jerem Nathan, Iowa.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [39]
+--------------------------------------------------------------------------------
+
+          I just wanted to understand the puts and takes in terms of margins for next year. I understand you'll be producing in line with retail, and that's kind of unknown. But in terms of on the margin inside between pricing, production, efficiencies, if you could just give us the puts and takes.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [40]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Jerome. A couple of points to start. We talked about the setup from a demand standpoint. And we obviously don't know where retails are going to go. I think there's some positive tailwinds in both Small Ag and Construction and Forestry when you compare the underproduction that we've done this year versus building a line next year. So again, we'll see how those demand pieces play out for next year, but there's some inherent tailwinds. Just comparing, again, the underproduction this year to next.
+Thinking about price, obviously, we don't have a guide for next year, but indications as we mentioned, for early order programs next year in North America, list prices are between 2% and 4%. And we've introduced large tractor prices for '26 as well. That's about 3% year-over-year.
+So you're going to see some lift from a price standpoint. We'll see where net-net price lands. But from a list price standpoint, that's favorable and helps to offset some of the impact we've seen on tariffs this year were, again, as we mentioned before, limited ability to price for tariffs in fiscal '25 just given where our order books have set. But you'll see that start to come into the business in 2026.
+
+--------------------------------------------------------------------------------
+Joshua Jepsen,  Deere & Co - Chief Financial Officer, Senior Vice President    [41]
+--------------------------------------------------------------------------------
+
+          Jerome, the one thing I would add -- this is Jepsen, is we'll continue our focus and execution on product cost reduction, production cost reduction and the focus there to continue to drive. We've had good success over the last two years of taking cost out. And again, that kind of fits in the bucket of things we can control.
+We may see inflationary pressures. We'll see what -- ultimately what tariff regimes are in place and what that looks like. But we're going to keep executing on what we can. We've got new products coming. We've got new technologies come in, and we'll keep running our factories efficiently and lean as well.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          Joel Jackson, BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Joel Jackson,  Bank of Montreal - Equity Analyst    [43]
+--------------------------------------------------------------------------------
+
+          When you talk about some of the caution you're seeing in some of the ordering and the different macro factors out there, can you maybe elaborate on what you're seeing from the end customers and the dealers you weigh that caution between sort of crop prices, a little bit lower corn price and crop prices a big yield this year and how that comprising also on kind of the tariff uncertainties and different macro things that people read out in the paper every day at the farm level?
+
+--------------------------------------------------------------------------------
+Cory Reed,  Deere & Co - President - Worldwide Agriculture & Turf Division, Production & Precision Ag, Sales & Marketing Regions of the Americas and Australia    [44]
+--------------------------------------------------------------------------------
+
+          Yes. I think, look, I think we're sitting probably about where we'd expect. If you have customers that are concerned about what their end markets are going to look like in a tariff environment, they're waiting to see the outcomes of what these trade deals look like.
+The good news is the frameworks that have been announced are favorable. They include crop commodities. They also include energy, which is beneficial to us. But the detail is not known yet. So if you're a producer sitting they're trying to decide whether you move into your next used machine or your next new machine, you might do it because it's a crop-based necessity, something like the large yields that are sitting in the field.
+But otherwise, you're going to wait see how these things play out. And that's kind of where they are right now. They're waiting and seeing. And we think there's positive tailwinds from both what we see in the trade deals. We think there are positive tailwinds from what we see in tax policy.
+We think they're positive trade wins -- tailwinds from what we see in the RVOs that are going out there on renewable fuels. So there's good coming. It's a question of when does that relate to the demand that we see. If you look at overall demand for crop, it's continuing to go up, even with the large expected crop, the demand is up and it's going to be tight in terms of stocks going forward. So the future is bright. The question is when do we see that turn. What we can do is prepare ourselves for it and get ourselves positioned to respond when it happens.
+
+--------------------------------------------------------------------------------
+Josh Beal,  Deere & Co - Director, Investor Relations    [45]
+--------------------------------------------------------------------------------
+
+          Thanks, all, for the question. I think that wraps it up. We're just getting to the top of the hour. So I appreciate the time today, and thanks for joining us. Have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          We are now concluded. Again, thank you for your participation. Please disconnect at this time. Thank you so much.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,470 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2024 Mondelez International Inc Earnings Call
+OCTOBER 29, 2024 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dirk Van De Put
+   Mondelez International Inc - Chairman of the Board, Chief Executive Officer
+ * Shep Dunlap
+   Mondelez International Inc - Senior Vice President, Investor Relations
+ * Luca Zaramella
+   Mondelez International Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Peter Galbo
+   BofA Global Research - Analyst
+ * Andrew Lazar
+   Barclays - Analyst
+ * David Palmer
+   Evercore ISI. - Analyst
+ * Tom Palmer
+   Citi - Analyst
+ * Ken Goldman
+   JPMorgan - Analyst
+ * Chris Carey
+   Wells Fargo Securities. - Analyst
+ * John Baumgartner
+   Mizuho Securities. - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day and welcome to the Mondelez International third quarter 2024 earnings conference call. Today's call is scheduled to last about one hour including remarks by Mondelez management and the question and answer session. (Operator Instructions)
+I would now like to turn the call over to Mr. Shep Dunlap, Senior Vice President, Investor Relations for Mondelez. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Shep Dunlap,  Mondelez International Inc - Senior Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon and thank you for joining us. With me today are Dirk Van De Put, our Chairman and CEO; and Luca Zaramella, our CFO. Earlier today, we sent out our press release and presentation slides which are available on our website. During this call, we'll make forward-looking statements about the company's performance. These statements are based on how we see things today.
+Actual results may differ materially due to risks and uncertainties. Please refer to the cautionary statements and risk factors contained enter 10-K, 10-Q and 8-K filings for more details on our forward-looking statements. As we discuss our results today, unless noted as reported, we'll be referencing our non-GAAP financial measures which adjust for certain items included in our GAAP results.
+In addition, we provide year over year growth on a constant currency basis unless otherwise noted. You can find the comparable GAAP measures and GAAP to non-GAAP reconciliations within our earnings release and at the back of the slide presentation. Today, Dirk will provide a business strategy update followed by a review of our financial results and outlook by Luca. We will close with Q&A.
+I'll now turn the call over to Dirk.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Shep and thanks to everyone for joining the call today.
+I will start on slide 4. I'm pleased to share that we delivered strong top line growth with positive volume mix. Developed markets grew mid-single digits led by solid progress in North America biscuits as well as recovery in Europe following successful implementation of our annual pricing. Emerging markets also grew mid-single digits despite continued boycotts of Western brands in certain markets.
+Strong profit dollar growth enabled us to continue our track record of robust free cash flow, generating $2.5 billion year-to-date. We expanded our presence in the fast growing cakes and pastries category by acquiring a majority stake in Evirth a leading player in cakes and pastries in China. And I'll provide some additional color on this exciting partnership in a few minutes.
+We remain diligent in driving progress against our long term growth strategy focused on our core categories of chocolate, biscuits and baked snacks. These core categories continue to show strong consumption and on top consumers remain very favorable to our iconic portfolio as such as generating significant headroom opportunities. The strong fundamentals combined with our advantaged geographic footprint, keep on giving us confidence that we are well positioned to compound long term sustainable growth.
+Turning to slide 5, you can see that organic net revenue grew 5.4% this quarter with adjusted gross profit dollar growth of 11.2% enabling us to continue investing in the business. ANC spending is up mid-single digits helping to drive continuing consumer and customer loyalty to both our iconic global brands and our local jewels. An adjusted EPS grew 28.6% this quarter and we have generated $2.5 billion in free cash flow through the first nine months of the year.
+On slide 6, we are pleased to see that developed markets are beginning to recover with solid revenue growth and an increasing healthy volume mix in the third quarter. Unlike many of our peers, we're seeing continued consumer uptake of our core snacking categories. In North America we are seeing volume growth start to rebound as inflation cools and we continue to expand distribution in areas like club.
+Similarly, in Europe revenue grew 8.1% in the third quarter following significant disruption earlier in the year as our annual pricing took hold. Unlike many of our peers, both volume mix and net revenue are beginning to turn the corner. Consumers are continuing to embrace chocolate and biscuits as everyday indulgences. And our revenue growth management strategies enable us to meet every consumer's needs with a broad array of product formats, pack sizes and price points to meet their definition of value.
+Turning to slide 7, you can see a bit more context on how and why our snacking categories remain durable. In North America consumer confidence remains stable, despite continuing concern with overall grocery prices. Biscuit category volume is improving to flat to slightly up over the last three months. In the United States, private label volume share is declining demonstrating that consumers remain loyal to their favorite brands and that our price pack architecture is working. As a result our two largest us brands, Oreo and Ritz are gaining shares year-to-date.
+Meanwhile, in Europe elasticities are moving slightly higher but remain modest. We continue to see solid category value growth in both biscuits and chocolate with private label share declining over the past three months. Some consumers are shifting to smaller packs of chocolate for everyday snacking and again, our RGM and price pack architecture enable us to offer an appropriate range of choices.
+As we head into the yearend festive season, seasonals are also looking solid. In emerging markets, modest elasticities continue consumer confidence is stable in India, Brazil and Mexico. While the overall China economy remains challenged, we're seeing optimism beginning to return as stimulus policies take effect. Overall, our combined emerging markets value and volume share is improving in both biscuits and chocolate.
+Turning to slide 8, it's important to reinforce that while the external environment remains volatile, we remain focused on accelerating our long term growth strategy. We're continuing to reinvest in our brands, expand distribution drive M&A and scale sustainable snacking. We remain on track to deliver 90% of revenue through our core categories of chocolate, biscuit and baked snacks by 2030. And our teams continue to deliver strong progress against our strategic agenda.
+For example, our Oreo brand launched in August, an innovative collaboration with Coca Cola, our largest global brand activation to date. These two iconic brands joined forces in a 360 degree marketing campaign encompassing digital, social, celebrity and in-person activation to unite our strong fan bases and build bus around two high profile limited editions, a Coke flavored Oreo cookie and an Oreo flavored zero sugar Coke.
+These types of investments not only enable us to stay top of mind for consumers, but also to strengthen partnerships with key retailers. Along with these marketing activations, we are continuing to strengthen store availability, visibility and execution around the world. For example, in Brazil, the convenience channel is growing high single digit on a year-to-date basis with plans to further grow coverage in this channel with additional stores.
+We are also continuing to harness the power of acquisition to capture synergies and drive growth. For example, in China, our acquisition of Evirth step changes, our growth in the cakes and pastries category. I'll provide additional color in just a minute.
+Importantly, we remain committed to driving progress to a more sustainable snacking business through our continued focus on our environmental and social sustainability agenda. For example, we recently introduced new recyclable paper packaging for our legendary LU biscuit brand in France, Belgium and the United Kingdom.
+Now let's dig a little deeper into the cakes and pastries category in our recent announcement in China. As you can see on slide 9, the global packaged cakes and pastries category is valued at about USD95 billion. Mondelez currently holds the number three global share position and because this category is highly fragmented around the world, we see significant opportunities for bolt on M&A as well as organic growth.
+We already have delivered strong growth in this category through our 2020 acquisition of give and go, the leading manufacturer of frozen to fresh brownies, cookies, cupcakes, and related bakery products in North America.
+And our 2022 accusation of Chipita a leader in croissants, baked rolls and related snacks anchored in central and Eastern Europe. In China, as you can see on the right hand side of the slide, the packaged cakes and pastries category is valued at about $14 billion. Within that category the frozen to chilled segment is growing in double digits currently estimated at $1.5 billion. Chinese consumers increasingly seek fresh premium options with innovative and sophisticated taste profiles to meet a growing range of snacking occasions.
+On slide 10, you can see that's why we are excited about the expansion of our existing partnership with Evirth. The Chinese leaders in the fast growing frozen two chilled baked snacks category, we have worked with Evirth for several years to develop, manufacture, market and sell cakes and pastries featuring some of our economic brands including Oreo and Philadelphia.
+A recent purchase of a majority stake will enable us to further accelerate growth through continuous innovation, leveraging the combination of our high value brand with Evirth advanced, R&D and technical expertise. Chinese consumers increasingly are seeking fresh premium products with demand growing especially fast among younger generations in mid-tier cities. Evirth has a strong presence among key customers including club stores and our expanded partnership will enable us to scale distribution broader and faster.
+Before I turn the microphone over to Luca, I'd like to share some preliminary perspective on our approach to 2025. In light of the widely known cocoa cost headwind. Chocolate remains a great category and continues to generate significant consumer interest. Consumers count on our iconic brands including Cadbury Dairy Milk, Milka, Toblerone, Cote d'or, Marabou, Freia, Lacta to celebrate special occasions to share with family and friends and to unwind with a moment of mindful indulgence.
+As we will continue to invest in our brands, we remain confident that consumer loyalty will not only endure but continue to grow even as we execute the necessary short term pricing steps. Our primary focus is to continue to build the health and the growth of the chocolate category as a whole and our brands in particular. While we remain relentlessly obsessed with consumer value, we do anticipate some upticks in elasticity in certain markets and we might need to adapt to more aggressive RGM and promotions.
+And while the temporary cost increase of cocoa will put pressure on our margins, we will continue to invest in tools that strengthen brand loyalty and accelerate growth such as Visi coolers to improve visibility and accessibility as well as continued strong investments in working media. We expect the majority of our portfolio to grow both top and bottom line consistent with our algorithm. And we believe we are taking the right steps to position the chocolate business for attractive and long term sustainable growth. We remain confident that we are well equipped to appropriately manage input cost headwinds and to emerge stronger.
+With that, I'll turn it over to Luca to share additional insights on our financials.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Dirk. And good afternoon, everyone. Q3 was a strong quarter across our key financial metrics including top line gross profit dollar, ANC investment, earnings growth and free cash flow. Revenue grew 5.4% with strong pricing execution and positive volume mix growth. Developed markets grew 5.6% with a volume mix increase of 1% driven by both North America and Europe. Total revenue for emerging markets grew 4.9% with the volume mix decline of 1% driven by Western brand boycotts in AMEA and the lower volumes mostly in Mexico.
+Moving to portfolio performance on slide 14, biscuits and baked snacks grew 3.3% for the quarter. Several brands deliver robust growth including Oreo, Ritz, LU, Seven days and Club Social. US biscuits deliver solid growth in the quarter with a good balance from both pricing and volume mix. Chocolate group plus 9.2% with trends in both developed and emerging markets.
+Volume mix was down minus 1.2% driven mostly by challenges in Latin America. Whereas most of Europe came back strongly after customer disruption. Cadbury Dairy milk, Milka, Toblerone and Freia, Marabou all delivered strong growth for the quarter. Gum and candy grew 5.6% driven by continued momentum and strength in key markets including Brazil and US candy. Volume mix in this category was likely positive.
+Let's review market and share performance on slide 15, we held or gained share in 35% of our revenue base with solid results in chocolate as well as in gum and candy. This trend was partially offset by our US biscuit business which accounts for approximately 25% points of revenue. We expect total share metric to improve moving forward. As Europe gained share in Q3 following customer disruption in F1. The US still has work to do but we have seen shareholding in the last three months and believe new price packs in Q4 should help drive further improvement.
+Moving to regional performance on slide 16, Europe grew at 8.1% in Q3 execution was strong in key markets such as the UK, Germany and France all delivering significant growth. We saw a slight uptick in elasticity resulting from pricing but consumer sentiment remains relatively stable. Why dollars were up more than [46%] including significant ANC investments. And due in part to pricing versus favorable Coco facing.
+North America grew 3.7% against a strong compare of nearly 10% in the prior year. Solid performance in growth channels, distribution gains and impactful brand activations like the Oreo Coca Cola partnership drove Q3 growth. New price pack for Oreo, Ritz and Chips Ahoy that will provide better representation in the $3 to $4 range are just beginning to hit retail shelves now. North America Ahoy increased 6.5%.
+AMEA grew 5.8%. China posted strong results with high single-digit growth fueled by continued investment in brand building across audio Chips Ahoy and Stride. Coupled with ongoing distribution gains, adding approximately 80,000 new outlets on a year-to-date basis. India was down slightly in Q3 driven by a decline in biscuit where inflation has led to a more competitive promotional environment.
+On the flip side, chocolate continues to perform well, especially within the low unit price segment which grew in single digits. Australia, New Zealand and Japan deliver another strong quarter of growth driven by RGM. Strong activations and innovation boycott in the Middle East and Southeast Asia remain a headwind to results. We expect this dynamic to persist for the foreseeable future. However, it is largely embedded in the base beginning Q4, the overall impact to the region was approximately 2 percentage-points worth of growth.
+AMEA increased the $8 by more than 15% with meaningful ANC increases. Latin America grew 2% in the quarter, Brazil and Western [Ande] posted growth while Mexico was down modestly. Note that Argentina pricing has been capped at 26% unlike Q3 last year, where the country contributed more than 18 points to LA growth. Latin America wide declined 4.8% due primarily to lower volumes in Argentina and Mexico.
+Turning to page 17, in Q3, we saw strong double digit gross profit dollar, NOI dollar growth. Topline growth pricing execution and ongoing cost discipline help fuel these results. In addition, cocoa is still relatively benign in Q3. Thanks to our effective cover strategies. In Q4, this dynamic will reverse with meaningful pressure to profit as cocoa catches up to market levels.
+Next to EPS on slide 18. Q3 EPS grew more than 28% in constant currency on the same drivers as [OI], we continue to generate strong free cash flow as you can see on slide 19. We deliver $2.5 billion to date which includes a payment of nearly $400 million in the quarter related to the EU commission matter.
+We have repurchased [1.2 billion] in stock here to date and we continue to be opportunistic for the remainder of the year and into 2025. Before moving to our outlook. I'll provide some additional context on cocoa. Cocoa costs have decreased since all-time highs and futures signal eventual normalization. Albeit the market is still showing signs of nervousness due to tight physical availability ahead of the new crop.
+At this stage, the new crop outlook remains positive with significant recovery compared to last year. Both consensus and our internal outlook forecast a surplus and increase talks into 2025. We still a few weeks to go before pots are harvested. We believe this is good news. We also continue to employ a flexible hedging structure that would allow us to risk manage next year.
+Moving to slide 22, and our approach to pricing and cost as we move into 2025. In terms of pricing, we will continue to utilize all the tools in our RGM playbook to minimize volume declines and limit elasticities. Thus protecting penetration and frequency of consumption.
+We will keep price points especially for entry level and low unit items. We will also improve our participation at multiple price levels offering consumers more choices. Additionally, we will continue to reinvest in our brands primarily through working media. Cost management is another area of focus. We plan to take a targeted approach to managing costs by focusing on nonwork media, overheads and productivity.
+We will not take shortcuts or make temporary moves that disturb the business but rather focus on areas where we can make lasting changes. We will also not sacrifice key investments or product quality. Net, we are confident that we have a strong plan to navigate the headwinds presented by Coco next year. We will focus on what we can control and will remain agile as needed to ensure the long term health of this category while positioning ourselves to emerge stronger when cocoa prices settle at more sustainable levels.
+Turning into our outlook. Our outlook for 2024 remains unchanged. We continue to expect on a go delivery for revenue earnings per share growth and cash flow. Just a word on EPS. We continue to expect high single digit growth of a 2023 base that includes developed market gum. When you look at year-to-date margins, two things are clear aside from strong operating performance.
+First, we procure cocoa and much better prices than the market. And second, we price the replacement cost. Thus, profit growth has been quite good. On the other side, Q4 is a bit of an anomaly as we procure cocoa for Q4 close to peak if not at peak prices. While at the same time, we will not yet have the benefit of either additional pricing or planned cocoa savings initiatives in Q4.
+While next year cocoa will be significantly higher than the average of 2024. It is projected to be lower than Q4 2024. Most of our other key assumptions remain consistent with what we shared with you on our last call with the exception of interest expenses, which is now estimated at $250 million for the year. Although it is premature to get into specifics around our '25 outlook. I would note a couple of items, the majority of our business which is not chocolate will be an algorithm.
+We expect peak cocoa pricing to be reflected in the first half of 2025. While chocolate margins should improve sequentially versus Q4, 2024. Our plans around pricing RGM and cost management are expected to be significant and help provide room for reinvestment. However, where we sit today. It is tough to see a path to earnings growth in 2025 unless cocoa adjusts down from the current future curve and or elasticities are much more benign than our current planning assumptions. Ergo, there will be additional pricing.
+But as we said, a few times, we believe cocoa in 2026 is going to normalize and we would have a meaningful rebound of our chocolate profit to allow for us to get back on track with our algorithm. Clearly, we do not control cocoa prices but in the unlikely event that they would not normalize by 2026 our gradual approach to pricing seems still to be the best approach to take.
+Overall, we feel good about the fundamentals of the business, our growth opportunities, the investments we are continuing to make in the business and our plans to navigate the short term cocoa dynamic. We expect to emerge from this period of elevated cocoa prices even stronger and better positioned for attractive sustainable earnings growth. We will provide more details related to 2025 at our year end call. Finally, a word on our space of the GDP shares.
+We are happy overall with the return we realize on our coffee financial investments, some of the proceeds will be deployed immediately towards lowering our CP balance but eventually will be deployed towards buyback and to support M&A. There will be a modest dilution in Q4 with a full year $0.08 headwind. We will issue an 8-K with more details over the coming weeks.
+With that let's open the line for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Andrew Lazar, Barclays.
+
+--------------------------------------------------------------------------------
+Andrew Lazar,  Barclays - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks so much. Good evening. Maybe Dirk first, I was hoping you could discuss the puts and takes in 3Q and maybe specifically how that shapes sort of your strategy and chocolate going forward, you know, in light of the challenges that cocoa is going to present next year.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Yes. Hello Andrew. Well, overall, I would say we feel good about Q3, the results and also the dynamics that we see in there. So as you could see, we have a strong top line growth, we have positive volume mix and the consumer I would say in most places, it is holding up well developed markets came back with solid balanced growth in North America and also Europe strengthening again and the emerging markets remain solid. There's a few pockets of softness there, but we have clear plans to address that.
+We continue to invest in working media in our brands. We and our bottom line was very strong with good free cash flow results. So we can't complain, I would say about our quarter and I feel, I think the feeling that the top line will continue to be robus into next year is certainly there because we feel that overall the business is quite healthy and we have very good activities planned for next year.
+Yeah, chocolate is a challenge but we are quite clear on which principles we have and what vision we have to deal with the cocoa challenge. Our first focus is to protect the health of the chocolate category, which is a great category. And our second one is of course, within that category to hold or gain market share and taking an overall long term approach to how the category will develop and how our business will develop.
+We have to price next year, but we are very conscious of making sure that we protect key price points and certain thresholds. So we're doing a lot of work on our low unit pricing in emerging markets or entry level pricing in developed markets. And we are launching a bunch of new sizes in our chocolate business.
+I think our RGM plans are well thought through. We just went through everything with all the different business units that we have. And I think the work that has been done is very strong and we've really thought through how we think the category will evolve in the coming months. We are planning to continue to invest in our brands, but we did look at all the non-working media and are aiming for some significant efficiencies there.
+And then of course, we will also work on our other costs, particularly overhead costs next year so that we can deliver what I would call a reasonable financial result overall. The rest of our business as usual. Maybe a few more things in the sense that we are not taking any shortcuts for short term gains next year. We do realize that there is additional pricing and we will have some extra pressure. But overall, as I said before, we think chocolate is an outstanding category and we are fully committed to it.
+And the other maybe things can go different as it relates to reaction to pricing. We have assumed normal elasticities, but that could be more or less or cocoa pricing is still very volatile it could be more or less than we planned. So being agile next year and how we deal with those situations will be another critical thing for us, I believe. I hope that helps you.
+
+--------------------------------------------------------------------------------
+Andrew Lazar,  Barclays - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Yeah, no, very helpful. I appreciate that. Thank you. And then just a quick follow up, Luca, I realize obviously you're not prepared to provide detailed '25 guidance yet. The fourth quarter, as you mentioned, it's the first one where you'll see, the impact of significantly higher cocoa costs. So I guess how does the 4Q implied guidance? Which looks for EPS, I think down some, 20% or so year over year inform the way we should think about next year, whatever else you can share along those lines knowing you're not going to provide the full thing yet. Thank you.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Andrew. I mean, I will start by saying that we are clearly very happy with EPS on a year-to-date basis and that I think will help us understanding a little bit better Q4 next year. We have landed today all pricing in line with our expectations and we are in general priced to a level that is higher than our actual cost of cocoa for the first three quarters. As our cocoa buying strategies have been clearly quite advantageous compared to in market cost.
+As you rightly point out the implied EPS Q4 based on us, the affirming guidance is down year on year. But I said in the preparing mark that I see that as a sort of anomaly. First of all, because cocoa costs for Q4 were locked in when cocoa was at peak value. And second, clearly in the numbers in Q4, there is no effect of additional pricing or for that matter of the cost measures that we will put in place as of the beginning of 2025.
+Bear in mind that in 2025 pricing will not flow through as of day one. And so it will take a little bit of time for profits to improve. And quite frankly, profit improvement is more towards the second half of the year. Please also consider as we talk about 2025 that cocoa costs are lower in the second half versus F1. On '25 I can tell you that we have done a lot of work in scrutinizing all our costs and we will be removing sizable costs particularly in the area of overheads and non-productive media expenses.
+We have increased the amount of productivity that we will be delivering to our supply chain and we have clearly a full slate of initiative in our GM that should limit elasticities. As I said, it is hard to see a path to EPS growth into 2025 unless cocoa adjust down materially. And that is still a possibility and all elasticities are more benign allowing us to price more.
+We have seen as of late fall in the price increases we put in place in Europe, for instance, that elasticities have been fairly benign. So if we realize that volume is there, we might push price a little bit more forward in an attempt to offset the cocoa impact that we will have inevitably next year.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Ken Goldman, JP Morgan.
+
+--------------------------------------------------------------------------------
+Ken Goldman,  JPMorgan - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Hi, thank you. Good afternoon. I had one question on North America and then a follow up. North America, the comment was made that your categories are sort of bucking the it seems to be a larger, more challenged trend across snacking. And you did mention RGM as being part of it. I appreciate that just trying to get a sense what you're seeing as the other factors that is allowing or that are allowing your categories to do better than what we're seeing kind of elsewhere across that broader snacking continuum someone once said.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [8]
+--------------------------------------------------------------------------------
+
+          Yeah, can be the, I would say that the category is growing modestly and is improving slightly and I would say that overall, we see the consumer also getting more confident but high prices remain certainly a big concern, high food prices I would say and consumers clearly feel that their purchasing power is deteriorating particularly, I would say in the lower income consumers, they are the ones that feel most of the pressure.
+I would say that as it relates to our categories. First of all, we have recognized that the perception of value of the consumer has changed. And if you go two years back, consumers were really shopping for the price per pack or the unit price and so family sizes and party sizes became very important. Going forward or since a few months now, two quarters, I would say many consumers that are below a certain income level have to shop by the total size of their basket.
+I would say that that biscuits remain important for them. It is part of most shopping baskets. And as a consequence, we needed to fit our products within that shopping basket. And that meant that particularly the $3 to $4 price point has become very important. And so in Q3, we have worked with promotions to bring our products there and going forward, we have launched a range of new packs on Chips Ahoy, on Oreo, that will be sold at 299.
+And so we think that's the way we are bucking the trend really. So on one hand categories that the consumer really doesn't want to do without. And so the overall category is pretty stable. And on top of that, we're starting to gain some market share because we are hitting the right price points right now.
+
+--------------------------------------------------------------------------------
+Ken Goldman,  JPMorgan - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thank you for that. And then for my follow up, I wanted to make sure I understood the comment about next year, the majority of the portfolio be growing within Algo on the top line is the implication that part of the portfolio, the minority will not be within IGO. And this just trying to get a real sense of what the messaging was there about the top line next year. Just given all the puts and takes about elasticity and pricing and so forth.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Yeah, it's basically related to our mix of different categories that we have. We have 70% of our business that is nonchocolate and that is the part that we are expecting to be in line with our normal algo and then the chocolate part will not be in line with our Algo. That's what we were referring to.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [11]
+--------------------------------------------------------------------------------
+
+          On the bottom line specifically.
+
+--------------------------------------------------------------------------------
+Ken Goldman,  JPMorgan - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          On the bottom line. So that was a bottom line comment just to make sure.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [13]
+--------------------------------------------------------------------------------
+
+          Yes, I said that 70% of the portfolio is on algo. The remaining part which is chocolate is not going to be on algo on the bottom line.
+
+--------------------------------------------------------------------------------
+Ken Goldman,  JPMorgan - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Great. Thank you.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [15]
+--------------------------------------------------------------------------------
+
+          You see a pretty strong top line for next year.
+
+--------------------------------------------------------------------------------
+Ken Goldman,  JPMorgan - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          No, that's helpful. Thank you. I appreciate it guys.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [17]
+--------------------------------------------------------------------------------
+
+          Yeah, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          John Baumgartner, Mizuho Securities.
+
+--------------------------------------------------------------------------------
+John Baumgartner,  Mizuho Securities. - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Thanks for the question.
+Dirk. I I'd like to ask about the growth plans for cakes and pastries and if you could speak to your vision there, to what extent do you view the company as sort of a disruptor in the space where there's unique capabilities in biscuits and confection that you can sort of leverage and baked goods and in light of Evirth in that frozen cake technology, the capabilities from that to what extent is that a China specific opportunity relative to one that can be expanded to Europe, North America, some other markets, just maybe your thoughts on where you see your advantages competing in the big good space. Thank you.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [20]
+--------------------------------------------------------------------------------
+
+          Yes. Well, cakes and pastries, packaged cakes and pastries is a $95 billion category. It's much bigger if you include the non-package, but that's not the area that we consider as where we want to play. It is a category that's already growing 7% CAGR over the last five years. And in fact, a low double-digit over the last two years, per kilogram, it's higher value than the biscuits category.
+And the category is quite strong in some of the key markets where we play US, Europe, China. The opportunity is that it's a highly fragmented category. We are number three globally, but we only have a 3.5% share. So there is an opportunity to bring in known brands that come with a certain quality aspect and a certain positioning, but also by offering soft cakes or pastries that are in line with that brand from the biscuit category.
+So an Oreo to play in that category, for instance, or some of our other brands that is really the way we are thinking about it. Now, there's different techniques in producing these products. Evirth particularly we already have a company that goes from frozen to fresh in the store, which is Give and Go in Canada, which is a company that has been growing very fast.
+And Evirth is similar, but to the sense that they are much more into the cake segment. In China, this category is really booming, these are quite sophisticated products and I have to say that the quality that they can produce thanks to their proprietary way of producing is quite exceptional. And so we think that first of all, in China, this is a big opportunity, the business has been growing serious double-digit for the last years.
+And we can see a long runway of possibilities, but we have started to think about, okay, how can we expand this to the rest of the world because the quality is so high. But for the time being, our first priority is to make sure that we get the strong growth that we would like to see in China.
+
+--------------------------------------------------------------------------------
+John Baumgartner,  Mizuho Securities. - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          David Palmer, Evercore ISI.
+
+--------------------------------------------------------------------------------
+David Palmer,  Evercore ISI. - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Thanks. The comment on your comments on '25 were pretty clear in saying that you see hard to see a path EPS growth in '25 and that would likely require a breakdown in cocoa or sustained benign price elasticity that could enable perhaps earlier price offsets to what you're seeing. I wonder right now, obviously, you don't have that visibility into that. And I wonder what the reality would be, when that reality would be that you could essentially feel like you could give a pretty narrow range of EPS outcomes for '25.
+Is it something that like by the first quarter earnings, you would have that sort of a time frame where you have pricing in place you're seeing the reaction from that. Perhaps you're a little further into your cocoa price setting for the year. I'm just wondering about the timing.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [24]
+--------------------------------------------------------------------------------
+
+          Look, I think here as I said, there are two elements that will come into play. One is cocoa prices. There has been some nervousness in the market as of late, but we believe that it is the result of the fact that the industry is still quite short and that the Ivory Coast has hardly sold any 24, 25 crop in the last month. Since they are waiting for the new crop to materialize on the fundamentals of cocoa.
+The latest pop count is likely below the five year average in Ivory Coast, same in Ghana, but it is well up versus last year. And the level of confidence that we have at this at this point in time is around about 85% but it will be soon in the next couple of weeks, three weeks and 90%. Importantly, the Ivory Coast portal are up 25% already versus prior year.
+And that really points in the direction of good supply coming our way. So I expect to have clarity on cocoa prices, call it in the next month or couple of months. I think the situation will be much clear, much more clear. Importantly, what will try cocoa prices is the arrival in Europe, which will be most likely in January, February. And I think by then, we should really have a sense of cocoa cost.
+That is important because in our case, we haven't locked in cocoa prices yet. We want to take advantage of the potential a decline of cocoa cost albeit we want also to be protected on the upper side of course, on the other side, on the other level of elasticity. Look, I think, you know that it takes a little bit of time to implement price in Europe.
+And I think we're going to see in places like the UK where we don't have buying alliances, we are going to see the effect of elasticities much earlier. And quite honestly, from what we see today, they are already quite good in terms of not having a big impact. For the rest of Europe we will have to wait towards the end of Q1, beginning of Q2. In emerging markets as I said, we're going to price quite rapidly, but there we will protect price points in the entry level. So a long way to say cocoa cost should be clear by the end of this year, beginning of Q1 and prices particularly in Europe will be much clearer towards the end of Q1, beginning of Q2.
+
+--------------------------------------------------------------------------------
+David Palmer,  Evercore ISI. - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          So that's very helpful. And I guess I wanted just to pick your brain on just the US snacking can ask you about why cookies perhaps is doing towards the high end of the snacking category, which is historically weak right now. Obviously, you're a global snacking player and you participate in confectionery outside the US in a bigger way. But confectionery in the US is particularly weak. I'm wondering why do you think, confectionery in the US is so weak right now? And if there's any sort of interesting juxtapositions you could create between those two, what you see, for example, in developed market Europe and with chocolate and the price receptivity, for example, and the consumer versus what we see in the US, which seems to be pretty rough right now. Thanks.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Look, it's really tough for us to comment about the chocolate market in the USA because as you know, we have a small participation in that market and be because there are other companies that might have a much better point of view. What we can tell you is in Europe and in emerging markets, our brands have been built consistently over the years.
+In terms of distribution support, price point, we have never pulled back a dollar since the in terms of advertising, we have been increasing consistently. Our marketing capabilities with our Chief Marketing Officer have improved dramatically. The execution is there so I think in our case, at least we have been consistent in executing and investing and increasing distribution of our brands throughout. And look, we are lucky to have our brands maybe, but those have been built by people at Mongolies and we are very proud of that.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Peter Galbo, Bank of America.
+
+--------------------------------------------------------------------------------
+Peter Galbo,  BofA Global Research - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Hey guys, good afternoon. Thanks for taking the question.
+Luca, I just wanted to actually circle back on your comment on '25 EPS, you know, the path to difficult growth. Just for real clarity. Does that also include the dilution from JDE or is that on a like for like basis? Just so we're crystal clear?
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [29]
+--------------------------------------------------------------------------------
+
+          No, I was quoting like for like we will issue in due time. An 8-K, you might imagine by looking at the multiple of JDP, even when we got 30% premium to the unaffected stock price, you might imagine that multiple is lower compared to ours. So even if you know, we had to buy back our stock, there will be some sort of volution which is not something that I meant to comment upon when I was telling you that we don't see a path to EPS growth into next year.
+
+--------------------------------------------------------------------------------
+Peter Galbo,  BofA Global Research - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Got it. Okay. No, that's helpful. Thank you. And just to go back to Europe, I think you were expecting a bit of pipeline fill in the quarter post the customer disruptions. Just curious if you can unpack that a bit more. Just did it, did it come in where you kind of thought it would? Is there an expectation of more of that? Just in the fourth quarter? Any additional color would be helpful? Thanks very much.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [31]
+--------------------------------------------------------------------------------
+
+          Look, there was not much. I mean there was pipeline building particularly at the beginning of the quarter, but it was pipeline for back to school activities. I can tell you, for instance, that impact is not really material at all. Again, quite frankly, in the case of the UK, we had planned to ship some Christmas already in Q3 that didn't happen, it's going to happen in Q4. So all in all, I wouldn't call the pipeline effect in Europe as material.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Chris Carey, Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Chris Carey,  Wells Fargo Securities. - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Hi, good evening. So Luca, this is a follow up question then I'll just ask, you know, one quick one but you know, on the, on the confidence around cocoa in the coming three to four week, say, relative to just your expectations for next year. Can you just talk about how much flexibility you might have to respond from a productivity standpoint, say if, if those expectations get worse over the next month or obviously, we know if they get better, that's obviously helpful.
+But just as you think about the ability to manage through different variability and maybe hold to the expectations that you have for next year as you sit here today, just how much flexibility do you have to respond within your early budgets if say things get worse from the overhead or the productivity or the other things that you mentioned.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [34]
+--------------------------------------------------------------------------------
+
+          So we have a clear covert strategies, I think at this point in time, we have a good part of our 2025 cocoa needs covered and all protected. And now the way you have to think about it is we put in place futures for around about half of the needs that we have. And when we put that in place, I was very clear that we covered mostly the second part of the year as the structure is inverted.
+And so you have a benefit by going further out. The rest is covered through mostly colors and would allow us to really participate if the market had to adjust down. But at the same time protecting the upside exposure. So we have quite a bit of flexibility, I would say on the should the market adjust the pricing plans. And there is a big part of RGM.
+I would say, I think one-third of the pricing next year is going to be done through RGM. That is maybe a little bit less flexible, but the rest provide us with some flexibility. So if we see elasticities being more benign, we could hump up the pricing there or if for that matter, we see more severe volume, the action we could lower prices a little bit more. So we have built that flexibility into the plan.
+
+--------------------------------------------------------------------------------
+Chris Carey,  Wells Fargo Securities. - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks. And then just one quick follow up on a couple of regions. Latin America volume has decelerated a bit here through the year. We've been hearing that from another, a number of your global peers just around hitting kind of tougher comps relative to last year. Can you just comment on the underlying in the business right now? And then on the China piece, you mentioned, you're seeing some optimism there. Is that something you're seeing or this is just optimism at this point? So that's it for me, thanks.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Yes. Well on Latin America, I would say overall, we still feel pretty good about Latin America. It is true that the volume has started to go into negative territory, but that is driven largely by Mexico in our case. Brazil, we still see a very strong performance and also in what we call Wacom, which is largely everything else except Argentina.
+So it is really concentrated in one country and there, it's largely because we have some pricing adjustments that we need to do, particularly in the candy and the chocolate categories. But for instance, gum meals and Oreo are doing quite well in Mexico. So I wouldn't feel that Latin America is particularly a major problem area for us, but it certainly has slowed down versus what it was in the previous quarters.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          We will take our final question from Tom.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [38]
+--------------------------------------------------------------------------------
+
+          Sorry, sorry. Excuse me, sorry, I still need to talk about China and why we see optimism.
+So overall, we have a very good performance in China. Businesses are doing quite well. We have mid-single digit volume mix growth, we have high single digit net revenue growth. So despite the economic slowdown, we feel pretty good and I wasn't talking about our optimism. I think there's some consumer optimism because the government has released some economic boosting policy which we are monitoring and we think that it is going to affect overall consumer thinking and consumer buying.
+We think our category biscuits will be stable with some big shifts in channels towards snack chains and club warehouses, which are for instance, out of the Nielsen scope. So that is something that is on top of what you can see in the data. So we think overall driven by a strong category and the distribution gains that we have, we're probably more optimistic about China than most other companies. But we do feel an underlying trend that the consumer is getting in more positive territory.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Tom Palmer, Citi.
+
+--------------------------------------------------------------------------------
+Tom Palmer,  Citi - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Good evening. And thank you. I wanted to ask first on the organic sales growth. The guidance would seem to imply an acceleration in the fourth quarter perhaps even versus what we saw in 3Q. Could you help frame the regions in which this improvement might be most apparent? And then just to confirm this would be volume driven or are there some pricing actions to consider in the fourth quarter with then more coming in 2025.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [41]
+--------------------------------------------------------------------------------
+
+          As far as pricing is concerned at this point in time we have done. And so there is no sequential additional pricing coming into effect in Q4. I think you're going to see strong performance in North America, you're going to see strong performance in AMAE which by the way we start lapping the boycotts in that started last year in Q4.
+And then I think in Europe, you are going to see strong results as well. Latin America, we have been a little bit more conservative, but I think there should be a little bit of an improvement there too. Look in the end, if you do the imply go trade for Q4 in light of us, the affirming guidance on top line, which is, as we said at the high end of the three to five IGO, you should get to a Q4. That is a little bit higher than what Q3 has been.
+
+--------------------------------------------------------------------------------
+Tom Palmer,  Citi - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks for that.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [43]
+--------------------------------------------------------------------------------
+
+          Okay, I think that was the last question. Sure. Well, thank you for attending the call strong quarter and we hope that we will do well in 2025 also. And I hope you got convinced that our plans are in place to make that happen. Talk to you next time. Thank you.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [44]
+--------------------------------------------------------------------------------
+
+          Thank you everyone.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Thank you, ladies and gentlemen, this does conclude today's program. Thank you for your participation. You may disconnect at any time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

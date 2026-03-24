@@ -1,0 +1,557 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2023 Simon Property Group Inc Earnings Call
+MAY 02, 2023 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Thomas Ward
+   Simon Property Group, Inc. - SVP of IR
+ * Brian J. McDade
+   Simon Property Group, Inc. - Executive VP & CFO
+ * David E. Simon
+   Simon Property Group, Inc. - Chairman, CEO & President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Nicholas Gregory Joseph
+   Citigroup Inc. Exchange Research - Research Analyst
+ * Craig Richard Schmidt
+   BofA Securities, Research Division - Director
+ * Ki Bin Kim
+   Truist Securities, Inc., Research Division - MD
+ * Michael Goldsmith
+   UBS Investment Bank, Research Division - Associate Director and Associate Analyst
+ * Michael William Mueller
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Caitlin Burrows
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Linda Tsai
+   Jefferies LLC, Research Division - Equity Analyst
+ * Ronald Kamdem
+   Morgan Stanley, Research Division - Equity Analyst
+ * Derek Charles Johnston
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Juan Carlos Sanabria
+   BMO Capital Markets Equity Research - MD & Senior U.S. Real Estate Analyst
+ * Alexander David Goldfarb
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Stephen Thomas Sakwa
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+ * Floris Gerbrand Hendrik Van Dijkum
+   Compass Point Research & Trading, LLC, Research Division - MD & Senior Research Analyst
+ * Greg Michael McGinniss
+   Scotiabank Global Banking and Markets, Research Division - Analyst
+ * Vince James Tibone
+   Green Street Advisors, LLC, Research Division - MD of Retail & Industrial
+ * Haendel Emmanuel St. Juste
+   Mizuho Securities USA LLC, Research Division - MD of Americas Research & Senior Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Greetings, and welcome to the Simon's First Quarter 2023 Earnings Conference Call. (Operator Instructions) 
+As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Mr. Tom Ward, the SVP of Investor Relations. Thank you, and you may proceed, sir.
+
+--------------------------------------------------------------------------------
+Thomas Ward,  Simon Property Group, Inc. - SVP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Claudia. And thank you for joining us this evening. Presenting on today's call is David Simon, Chairman, Chief Executive Officer and President. Also on the call are Brian McDade, Chief Financial Officer; and Adam Roy, Chief Accounting Officer.
+A quick reminder that statements made during this call may be deemed forward-looking statements within the meaning of the safe harbor of the Private Securities Litigation Reform Act of 1995, and actual results may differ materially due to a variety of risks, uncertainties and other factors. We refer you to today's press release and our SEC filings for a detailed discussion of the risk factors relating to those forward-looking statements. Please note that this call includes information that may be accurate only as of today's date. Reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures are included within the press release and the supplemental information in today's Form 8-K filing. Both the press release and the supplemental information are available on our IR website at investors.simon.com. 
+Our conference call this evening will be limited to 1 hour. (Operator Instructions) 
+I'm pleased to introduce David Simon.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Thank you. Good afternoon, and I'm pleased to report our first quarter results. We are off to a good start with results that exceeded our plan. First quarter funds from operation were $1.03 billion or $2.74 per share. Let me walk through some variances for this quarter compared to Q1 of 2022. Domestic operations had a very good quarter and contributed $0.15 of growth, primarily driven by higher rental income. Our international operations also performed well and contributed $0.02 of growth. 
+These positive contributions were partially offset by declines from the headwind from a strong U.S. dollar of $0.02, higher interest rate expense of $0.05, lower lease settlement income of $0.06 compared to Q1 of 2022, and we had a mark-to-market gain on publicly held securities of $0.06 for the quarter, and a $0.13 lower contribution from our other platform investments compared to Q1 2022. 
+Let me walk you through some of that and remind everyone that for OPI results, we are generally on our plan. Please keep in mind OPI was up against very tough comparisons from last year's Q1. This quarter also includes onetime transaction cost from ABG's recent acquisition activity, JCPenney's deployment of their new beauty initiative and investments related to physical stores, IT and onetime reorganization expenses all flowing through our FFO number. The retailer part of our OPI investments has seasonality associated with it generally with losses in the first quarter and the majority of our profit in the fourth quarter and should be modeled accordingly. Overall, we continue to expect OPI to meet our 2023 guidance we provided at the beginning of the year, which is similar -- which will be a similar FFO contribution that was compared to 2022. 
+Now domestic property NOI increased 4% year-over-year for the quarter. Portfolio NOI, which includes our international properties at constant currency, grew 3.9% for the quarter. Our malls and outlet occupancy at the end of the first quarter was 94.4%, an increase of 110 basis points compared to the prior year. Mills was 97.3%, and TRG was 93.3%, and importantly, average base minimum rent was $55.84 per square foot, an increase of 3.1% year-over-year. 
+Leasing momentum continued across the portfolio. We signed more than 1,200 leases for more than 5.9 million square feet in the quarter. We have an additional 1,500 deals in our pipeline, including renewals for approximately $570 million in gross occupancy cost. More than 25% of our leasing activity in the first quarter was new deal volume. We're seeing strong broad-based demand from the retail community, including continued strength from many categories. By the end of the second quarter, we expect to be approximately 75% complete with our 2023 expiration. 
+Retail sales momentum continued. Reported retail sales per square foot reached another record in the first quarter at $759 per square foot for malls and premium outlets combined, an increase of 3.3%. All platforms achieved record sales level, including the mills at $6.83 a foot, a 2.2%, and TRG was $1,100 per square foot, a 6% increase. 
+Good news is tourism is returning with our tourist-oriented centers outperforming the portfolio average in terms of sales. Our occupancy cost at the end of the first quarter was 12%. We opened our West Paris designer outlet in Normandy, France, last week, our 35th international outlet center. 
+During the quarter, construction restarted on our upscale outlet center in Tulsa, Oklahoma, which will now open in the fall of 2024. We have several densification projects under construction, and a pipeline of identified projects that includes approximately 2,000 residential units and hotel rooms. 
+Now turning to the balance sheet. We completed a dual tranche U.S. senior notes offering that totaled $1.3 billion at a combined average term of 20 years at an average coupon of 5.67%. We closed on our new $5 billion multicurrency revolving credit facility with a maturity in 2028. Importantly, the pricing is unchanged from our prior facility. The traditional secured mortgage markets continue to support the refinancing of our assets across geographies and property types. Our A-rated balance sheet is as strong as ever. 
+We ended the quarter with $9.3 billion of liquidity. Today, we announced our dividend of $1.85 per share for the second quarter, a year-over-year increase of 9%. The dividend is payable on June 30 of this quarter. Guidance for this quarter, given the results of this quarter and our current view of the remainder of the year, we are increasing our full year 2023 guidance range from $11.70 to $11.95 per share, to $11.80 to $11.95 per share compared to last year of $11.87. This is an increase of $0.10 at the bottom end of the range and $0.05 at the midpoint. 
+And I'm pleased with our first quarter results. Tenant demand is excellent, and brick-and-mortar stores are where shoppers want to be. And even with the economic uncertainty, we are running ahead of our internal plan. Excuse me here, I have some kind of frog in my throat, but we're ready for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question comes from Caitlin Burrows from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Caitlin Burrows,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Maybe regarding upcoming lease maturities and what that means for potential cash flow changes going forward, the ABR for '23 maturities is around $62 versus the portfolio overall at $56. So would you think it's fair to say that the rest of the '23 maturities may face a headwind on renewal, but then the '24 maturities, which are 12% of rents and have an ABR of $54, have significant opportunity? I'm guessing it's not that straightforward. So wondering if you could discuss that rent maturity and mark-to-market outlook?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Yes. Thank you, Caitlin, for the question. One of the numbers I threw out there while I was coughing during my presentation was our renewals and new leases will add $570 million of basically gross rental income. In that is included some renewals, which is the roll off of some of the numbers that you quoted. We are renewing above our overall -- above our expiring rents. So even with that said, we expect to continue to have positive rental spreads, even with the higher number for the balance of this year and certainly in '24. So the outlook on that front is very positive and unchanged since our commentary at the -- certainly, at the beginning of this year and fourth quarter of last year as well.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+The next question comes from Steve Sakwa from Evercore ISI.
+
+--------------------------------------------------------------------------------
+Stephen Thomas Sakwa,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst    [5]
+--------------------------------------------------------------------------------
+I was wondering if you could just maybe shed a little more light on the leasing demand that you're seeing. Is there anything that you could discuss with us on kind of price point, either luxury versus more moderate tenants? Anything by region? Anything by product type, whether it's the mills, the outlets, the traditional malls? Just looking for a little color, given what we're going through and kind of what your tenants are telling you. Just kind of curious where the strongest demand is, and maybe to the extent that there are any weak spots, what would you call out?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [6]
+--------------------------------------------------------------------------------
+Well, I mean, I know this is kind of in the face of a lot of economic uncertainty, but demand really has not changed when I owed it. Now let's talk about the luxury side. Clearly, they're running up against tough comps compared to Q1 of last year. But those brands and those companies think long term. And I mean, the best example is if we were at the opening of the Tiffany store in -- on 57th Street. You have to take a long-term view when you open stores like that. And all of those brands, whether LVMH Group, Kering, Richemont, et cetera, they're looking at '23, '24, '25. We're -- making commitments. Nothing there is really abated. So all systems go on that front, even though they're running up against tough comps compared to Q1. 
+You look at the restaurant category, very strong demand. Lots of new deals across lots of price points, from P.F. Chang's, Cheesecake Factory, to some of the chef-driven brands. So all systems go there. You've got the box demand, lots of new business with Dick's, Life Time Fitness, the best of the best. SCHEELS department store demand by [now] is happening. Then you look at athleisure, Vuori, Alo, lululemon, Brooks Brothers, all of that, pretty much across the board, we're seeing new stores. 
+So I said this at the end of last year, early this year, even with -- even though comps are going to be tougher in this year in terms of sales compared to last year, the demand on leasing really has not changed. We're seeing the entertainment concepts come back. Theater business is positive. So we feel it's -- we're feeling very good. Obviously, we're cautious. We don't expect sales like they were over '21 and '22. 
+And we planned accordingly. But demand, we check every day, and there's certainly a couple here or there that slowed down, but nothing of -- nothing really noteworthy. VS, North Face, Timberland, Cotton On, they're all growing, and it's all pretty healthy.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+The next question comes from Ronald Kamdem from Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Ronald Kamdem,  Morgan Stanley, Research Division - Equity Analyst    [8]
+--------------------------------------------------------------------------------
+Great. I remember last quarter, we talked about domestic property NOI growth of at least 2%. And you're thinking about looking at 1Q already at 4%. Just maybe can you give us an update how you're thinking about that number for the rest of the year? And looking at the guidance raise, how much of that property -- core property NOI versus maybe other factors?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [9]
+--------------------------------------------------------------------------------
+Sure. Yes, we're going to beat 2%. And I would hope we would do at least 3 plus. I mean there is some -- it's very interesting, the first 6 months from a retail point of view, comps will be tough, but we think the second half for the retailers will be more positive, lots of economic uncertainty out there with the big macro things, but assuming sales come in the way we initially budgeted, we should be hopefully at least 3%. If we have an uptick in sales, we'll do better.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+The next question comes from Alexander Goldfarb from Piper Sandler.
+
+--------------------------------------------------------------------------------
+Alexander David Goldfarb,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [11]
+--------------------------------------------------------------------------------
+So first, thank you for all the detail on the retailer platform and the emphasis on the seasonality, so that's helpful. My question is bigger. You guys seem to have a lot of positive trends with the redevelopment program coming back, retailer demand healthy. Obviously, some of your competitors are having trouble on the capital side. It strengthens your portfolio. So my question is, as you look over the next few years to invest incremental capital, is your focus still on the best returns or internal in your existing malls and adding more densification? Or are you starting to see some external opportunities where it may make sense to use capital and whether that's domestically or a broad of -- sort of curious.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [12]
+--------------------------------------------------------------------------------
+Yes. I don't see -- let me do it in pieces with no particular order. I do see -- I still do feel strongly that the best use of our capital is making our existing portfolio better and better. I think that's -- we have spent $8-plus billion over the last several years upgrading the portfolio and doing new development. So we continue to see that as our best use. I don't see -- and as I mentioned in the call, I mean, we have a residential pipeline that looks really attractive and hotels that are generating really good accretive values of around 2,000 units. 
+Now that's not going to happen overnight, but that's going to happen over the next few years. So that, for us, is a real opportunity. I don't see much of our external capital doing any kind of acquisition opportunities internationally. I still think we'll grow our international Asia outlet portfolio with redevelopment and new development over time, essentially recycling the capital -- the cash flow that we have there on accretive new development. And we're looking at everything domestically here, and nothing really has wet -- I think I could say this, wet our whistle here to make us -- I can say that, right? Okay. So nothing here that would...
+
+--------------------------------------------------------------------------------
+Alexander David Goldfarb,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [13]
+--------------------------------------------------------------------------------
+You said it.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [14]
+--------------------------------------------------------------------------------
+Yes. I said it. True. Good point. Nothing here that would really -- like we're not jumping up and down to do external transactions. So it's mostly the same stuff that we've been doing and just keep plugging away on that. And look, I do think we have to expect the capital markets. The capital markets are telling all companies to be more prudent to do more accretive investments, and we are listening very closely to that.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+The next question comes from Vince Tibone from Green Street.
+
+--------------------------------------------------------------------------------
+Vince James Tibone,  Green Street Advisors, LLC, Research Division - MD of Retail & Industrial    [16]
+--------------------------------------------------------------------------------
+I wanted to follow up on your comment regarding 2,000 residential and hotel units in the upcoming pipeline. Just curious how quickly you could start these projects, how much spend this could potentially represent? And if this is something that you're going to maybe do through joint ventures or would be wholly owned on the balance sheet? Kind of any color on some of these points would be helpful.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [17]
+--------------------------------------------------------------------------------
+Sure. All right. So I think we will do selective JVs on certain of the residential development. So that's -- and it may -- it also may be that we could potentially bring in third-party equity, too. So that would -- we'll look at each deal individually, but that's certainly a possibility. And then I think, Vince, essentially, we're looking at -- to reach all those 2,000 units. It's really probably a 5-year build process. We expect to start several this year. But yet, we're frankly, being a little bit cautious. We're still permitting some things in California and the Northwest. So we don't -- we're going to just see how the world is, but we don't have to make a decision yet. And I would think at the end of the day, off the -- I'd rather Brian give you a more scientific number because a lot of these are part of redevelopments, too. 
+And so to really isolate the hotel, apartment or rental stuff, I'd want to give you a number, but I -- my instinct would be probably about $1.5 billion. But I think Brian can give you more detailed number, but somewhere in that range. And these go from Austin, Texas, to Orange County, California, to Seattle, some hotels in Florida, some residential in Florida, multifamily. So it's kind of where you'd expect it to be where supply and demand is in our favor. But we're considering building a hotel in Cape Cod because we think there's a good supply-demand imbalance there. 
+So it really is across. And every -- I'd say, generally, as we get that real estate through our redevelopment efforts, the big focus is on where we can add some mixed uses because we do think like what we did in Buckhead is having a tremendous impact on the overall value of that real estate. So not only does it -- is it accretive from a value point of view just on the cost to -- the return on the build versus what the value that is after it's built, but also the residual benefits that we see from them all.
+
+--------------------------------------------------------------------------------
+Vince James Tibone,  Green Street Advisors, LLC, Research Division - MD of Retail & Industrial    [18]
+--------------------------------------------------------------------------------
+Got it. No, that's all super helpful. And then somewhat related follow-up question. Just curious if you could share any updates on the Carson outlet project. And if you think you'd be moving forward there in the near term?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [19]
+--------------------------------------------------------------------------------
+That's a complicated one. We are -- that's a complicated one, but we're -- every day, we make progress. So it's terrific real estate, very complicated transaction, but we continue to make progress, but no final decision has been made to do it, but I expect one to be made over the next few months.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+The next question comes from Craig Mailman from Citi.
+
+--------------------------------------------------------------------------------
+Nicholas Gregory Joseph,  Citigroup Inc. Exchange Research - Research Analyst    [21]
+--------------------------------------------------------------------------------
+It's actually Nick Joseph on here with Craig. David, just on executive comp and the $24 million onetime cash bonus related to OPI. I know at least one of the proxy analysis firms has raised some concerns on it. So hoping you could give some more color on what the rationale behind it in terms of the amount and the structure of it ahead of the vote later this week?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [22]
+--------------------------------------------------------------------------------
+Yes. Look, I think this was essentially paid to 23, 24 executives last February, so about 15 months ago. Fully disclosed in an 8-K. Our rationale and reasoning by the comp committee was fully disclosed in our filed proxy as well as a supplemental letter to our shareholders. I think if you look at the company in totality, which is important, I mean, we can always pick a moment in time to say, why this, why that? But if you look at the history of the company, you look at executive comp, you look at our stock program, you look at our burn rate, you look at our G&A as a function of our NOI or asset value, we are at the lowest of the low.
+Anybody can pick out  one particular number they don't like. But if you look at it in totality, we are absolutely proud of how we run this business. If you want to get more detail, I encourage you to talk to Head of our Comp Committee, or our Lead Independent Director, any shareholder can do that. But I would encourage everyone to look at the totality of our history and then come to whatever conclusion they think. And we're very happy to talk to anybody that would like to go through it from a shareholder point of view.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+The next question comes from Greg McGinniss from Scotiabank.
+
+--------------------------------------------------------------------------------
+Greg Michael McGinniss,  Scotiabank Global Banking and Markets, Research Division - Analyst    [24]
+--------------------------------------------------------------------------------
+I just want to make sure that I understand that $570 million gross rental income number that you mentioned, is that new and renewal leases? Is it on a pro rata basis, inclusive of international and DRG? How much of that, I guess, is incremental to in-place rents? Or is all of it? And then what's the time frame that you think they're contributing?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [25]
+--------------------------------------------------------------------------------
+All terrific questions. And we highlighted that just to give you a sense of the scope of the business that's going on here. So that's a huge number. That's just one leash -- one level of activity in the year-end, and it's bigger than some companies that exists today. 
+So let me try to unpack it. It does include renewals. It's just SPG. It's just domestic. And if you look at the renewals and the new business, there's a really good uptick from kind of the in-place income on that. And that will come in not really this year but over '24 and '25 as those stores get opened. And I think it just adds a sense of our future growth that we see in front of us from our existing portfolio. But I'm not in a position to break it out between renewals and new incremental business, but you'll see that flow through the NOI in the upcoming quarters.
+
+--------------------------------------------------------------------------------
+Greg Michael McGinniss,  Scotiabank Global Banking and Markets, Research Division - Analyst    [26]
+--------------------------------------------------------------------------------
+Okay. So it is both, though, because you mentioned $100 million of new income last quarter -- of new NOI.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [27]
+--------------------------------------------------------------------------------
+Correct. Yes, it includes both, correct.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+The next question comes from Derek Johnston from Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Derek Charles Johnston,  Deutsche Bank AG, Research Division - Research Analyst    [29]
+--------------------------------------------------------------------------------
+Occupancy is now at 94.4%, and that's just 70 bps below pre-pandemic levels. Do you expect to surpass 4Q '19's 95.1% occupancy this year? And given the leasing demand we've discussed, how is the team weighing occupancy versus rates now that the gap is so narrow?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [30]
+--------------------------------------------------------------------------------
+Well, let me take that part first. I do think -- the good news is that when we're -- and again, every lease is different. Every relationship is different. Rollovers -- some rollovers go down. But I would say, generally speaking, we are finally seeing renewals that are overall above the expiring rents. So that -- and part of that is just supply/demand is in our favor, and we are getting -- because one is -- I think from the retailer's point of view, there's a real appreciation for bricks and mortar, one. Two is they know we're a landlord that they can rely on, and that we're going to do the right thing to maintain and reinvest in these properties and we have the capability of doing so. 
+And generally, there's more demand that we're seeing. And the retailers are in, having survived COVID, are in better shape and want to grow their business. So that has all happened. And getting to your first point, will we beat it this year, it will be close. I'm not -- I can't guarantee it. But I am hopeful that we will beat that number in the not -- certainly within the next 12 months, assuming we can continue to maintain reasonably decent economic conditions.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+The next question comes from Floris Van Dijkum from Compass Point.
+
+--------------------------------------------------------------------------------
+Floris Gerbrand Hendrik Van Dijkum,  Compass Point Research & Trading, LLC, Research Division - MD & Senior Research Analyst    [32]
+--------------------------------------------------------------------------------
+David, so maybe if you can give us a little bit more of an update? I know in the past you've talked about your signed, not open pipeline being around 200 basis points. Your leased occupancy just increased by 110 basis points. Is that SNO pipeline relatively similar? And then maybe, I mean, the -- if I look at the base rent going up by 3.1% approximately and if you get about 10% of your space back, I mean, it assumes pretty healthy re-leasing spreads, if my math is correct. I mean how should we be thinking? Because clearly, it appears that leasing spreads are accelerating in your core business?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [33]
+--------------------------------------------------------------------------------
+I think that's a fair statement. And I would say that the pipeline is similar to what it's been, right, Brian?
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [34]
+--------------------------------------------------------------------------------
+Yes, Floris, we're still hanging right around 200 basis points at this point in the year.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [35]
+--------------------------------------------------------------------------------
+So I do think it -- as we've been saying over the last few couple of quarters, I mean, we have finally turned the corner on lease spreads. Demand, better properties, more commitments from retailers, more -- and more retailers wanting to open stores all driving pretty good demand, which allows us to get the spreads that we were accustomed to. But we were flatlining pre-COVID. Obviously, we got hurt during COVID, and we bounced back nicely. And so from that standpoint, it's good to see.
+
+--------------------------------------------------------------------------------
+Floris Gerbrand Hendrik Van Dijkum,  Compass Point Research & Trading, LLC, Research Division - MD & Senior Research Analyst    [36]
+--------------------------------------------------------------------------------
+And if I can maybe follow up, David, on Jamestown and you mentioned external capital. How are you thinking about -- how is the Jamestown acquisition betting in? And is that potentially a source of external capital that you can bring into some of that -- the apartment or hotel investments and/or how are the synergies between those 2 businesses working out? And in particular, I'm thinking like Atlanta with the street retail right near your 2 fortress malls.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [37]
+--------------------------------------------------------------------------------
+Yes. Look, I -- to separate -- just to be clear. So we bought into the asset management business. We bought -- we partnered with Jamestown for a couple of -- several reasons, but a couple to highlight here. One is they're really good asset managers. Two is they have the development capability that's very interesting to us, and they have excellent institutional relationships. And we think with our partnership, we can grow that business. We did not -- other than -- there is a big future development, master plan development that they're working on in Charleston where we did partner with them directly. We did not buy any of their existing real estate that's owned by the various funds, whether it's the German funds or the premier fund. 
+Jamestown is in the process of raising their, what, 32nd German fund. They have a lot of separate account interest. It's really good for us because we get to learn those institutional investors better and more. And I just think we're early days there. But I think the thesis that we had going in continues to be very, very valid. This is a long-term relationship that I think will grow. Eventually, I see us partnering with institutional money that will be managed by Jamestown, that will partner with us to build XYZ or buy XYZ or build a big community in Charleston -- North Charleston. 
+So yes, I think all of the elements of potential growth with Jamestown are out there. We do like the asset management business as a platform. We dipped our toe into it. But I think, again, just as we look at the landscape of real estate owners and managers, we think -- when we look at a Blackstone, when we look at a Brookfield, obviously, they own. They asset manage. For us to have some scale or some role in that business, I think, ultimately, (inaudible) to the benefit of Simon Property Group, and that's what we're asking.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+The next question comes from Craig Schmidt from Bank of America.
+
+--------------------------------------------------------------------------------
+Craig Richard Schmidt,  BofA Securities, Research Division - Director    [39]
+--------------------------------------------------------------------------------
+Given the seasonality of the OPI business, which quarter do you expect that number to turn positive?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [40]
+--------------------------------------------------------------------------------
+I think it will be -- Craig, you know about retailers. So just to reinforce the retail part of OPI, remember, the vast majority of the OPI value is in our ABG stock. But we still have a very profitable business with both Penney and SPARC and then other investments that are in that, including RGG and so on. So just important to put it in context. So the retail part, the pure retailer part, Penney and SPARC, is seasonal. And last quarter -- Q1 of '22 was just stimulus, whatever, was a really tough comparison for the retail -- retailer part of OPI. With that said, it will -- we expect it to be profitable in Q2 and Q3. And -- but the vast -- the majority -- the vast majority of it will be Q4 like all the other retailers. 
+So when you see retailers report this quarter that are public, I think generally, they'll probably all have tough comps against Q1 of last year. Yes, the comps get a lot easier. This is a lot more information for a business that we have no cash investment remember, and it does create a little volatility of our earnings for better or worse. In this case, this quarter, it's worse. Fourth quarter will be much better. It does create a little volatility. But it'll -- you'll see us map out part of that OPI map out just like other retailers where the loss will be in Q1, profitability in Q2 and 3 and then 70% -- 65%, 70% in Q4.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+The next question comes from Juan Sanabria from BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Juan Carlos Sanabria,  BMO Capital Markets Equity Research - MD & Senior U.S. Real Estate Analyst    [42]
+--------------------------------------------------------------------------------
+Just hoping to get a little color on the month-to-month leases. They ticked up from about 4.5% to 7.5% sequentially in the first quarter, while you did a fantastic job chopping wood and reducing the rest of the ['23 expirations]. But just curious on why the increase in the month-to-month leases and what's going on behind that?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [43]
+--------------------------------------------------------------------------------
+Yes. One of the comments I made was we expect to be basically 75% by the end of Q2. It's just a process. It's just -- we're negotiating. The retailers are negotiating. The stores are open and operating. But we -- it's just a typical drawn-out process that is the, so to speak, the art of the negotiation. But a lot of that's already handshake committed to that we're just going through and processing now.
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [44]
+--------------------------------------------------------------------------------
+If you look at it [currently, Juan], it's just normal seasonality of that line item at this point time in the year.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+The next question comes from Mike Mueller from JPMorgan.
+
+--------------------------------------------------------------------------------
+Michael William Mueller,  JPMorgan Chase & Co, Research Division - Senior Analyst    [46]
+--------------------------------------------------------------------------------
+I was wondering, has there been any notable change in lease duration for what you're signing so far in 2023 compared to last year?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [47]
+--------------------------------------------------------------------------------
+Not really. Not at all.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+The next question comes from Haendel Juste from Mizuho.
+
+--------------------------------------------------------------------------------
+Haendel Emmanuel St. Juste,  Mizuho Securities USA LLC, Research Division - MD of Americas Research & Senior Equity Research Analyst    [49]
+--------------------------------------------------------------------------------
+David, I think earlier you mentioned that new leases were 25% of deal volume in the first quarter. I guess I'm curious if that's why CapEx ticked up. It was up 8% in the quarter. And if this is also a new level of new versus renewal leasing that we should expect near term?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [50]
+--------------------------------------------------------------------------------
+We have a tough connection. Did you guys hear that?
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [51]
+--------------------------------------------------------------------------------
+Haendel, can you repeat your question, please? You kind of broke up a bit.
+
+--------------------------------------------------------------------------------
+Haendel Emmanuel St. Juste,  Mizuho Securities USA LLC, Research Division - MD of Americas Research & Senior Equity Research Analyst    [52]
+--------------------------------------------------------------------------------
+So my question was on -- David, I think you mentioned earlier in the call that new leases were 25% of the deal volume in the first quarter. So I'm curious if that's why CapEx was up, I think, 8% in the first quarter. And also if this level of new leases, 25% or so, would be kind of the right way to think about new versus renewal leasing going forward.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [53]
+--------------------------------------------------------------------------------
+Yes. I think -- I guess, on the TA line, there is some -- we are doing more deals, so there is probably more TA associated with it. So I'm not sure -- the CapEx line or you're looking at the TA line. But generally, the answer is, yes, we're doing a lot more new business. And in some cases, that does mean a little bit more TA. And I still had a hard time on the last part. Did anybody hear it?
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [54]
+--------------------------------------------------------------------------------
+No, we didn't hear it.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [55]
+--------------------------------------------------------------------------------
+Unfortunately, we didn't hear it. But if you want to call back with -- we're happy to answer that.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+The next question comes from Ki Bin Kim from Truist.
+
+--------------------------------------------------------------------------------
+Ki Bin Kim,  Truist Securities, Inc., Research Division - MD    [57]
+--------------------------------------------------------------------------------
+Going back to your comments on international tourism, David, can you remind us where international tourism (inaudible) for your portfolio today versus, let's say, pre-COVID? And if it should return to that normal level, what does that mean for Simon's NOI or earnings, however you want to look at it?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [58]
+--------------------------------------------------------------------------------
+Well, I would say, generally speaking, we -- just to give you a sense, our sales for our tourist properties that we identified was up 8% quarter-over-quarter, right, generally?
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [59]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [60]
+--------------------------------------------------------------------------------
+So the bottom line is it's really going to result in overage rent that we probably flatlined, more or less, on those properties. So -- and that will manifest itself once we reach the breakpoint, so later in the year. But we're seeing -- we're starting to see -- I mean, like Vegas -- where are our tourist properties? Florida, which has been pretty strong, but we're seeing more and more international tourism there. Woodbury here in the New York area -- I say here, I'm in Indianapolis -- but in the New York area is really starting to see a lot more international tourism. California has been kind of the weak link, but we're starting to see more and more sales there. And then Vegas is just going crazy. Vegas, we -- and we have really important exposure in Vegas between Forum, Crystals, our 2 outlet centers. 
+Vegas is as good as it gets. It's the casinos, what's going on with the city, the movement from California to Nevada, all of the football, baseball, sporting activity, Formula 1. It's just -- it's a great place to have a lot of retail real estate, and we're seeing real benefits in that. So this will manifest itself in the fourth quarter as we've seen that. But -- as we reach the breakpoints. But we're finally seeing the international tourists come back to the States. A little weaker dollar helps and obviously, all the -- I think, finally, you don't have the vaccine card, whatever that's required, company or -- all of that's kind of yesterday's news, as of today or yesterday. So we're -- I think we're finally starting to see that come back like it was pre-pandemic.
+
+--------------------------------------------------------------------------------
+Ki Bin Kim,  Truist Securities, Inc., Research Division - MD    [61]
+--------------------------------------------------------------------------------
+Okay. And a quick question for Brian. You guys have a pretty healthy cash balance of over $1 billion, yet you still carry a balance on the revolver. I'm sure there's a pretty logical, simple answer to this, but just curious.
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [62]
+--------------------------------------------------------------------------------
+Yes, that's exactly right. The outstandings on our revolver are denominated in euros, and they serve as a net investment hedge against our asset base in Europe. We do have a heavy -- a sizable cash balance as we did our offering earlier in this year and prefunded the balance of our unsecured maturities for this year. So we're carrying cash, and we'll pay off the June maturities at par at maturity.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+The next question comes from Michael Goldsmith from UBS.
+
+--------------------------------------------------------------------------------
+Michael Goldsmith,  UBS Investment Bank, Research Division - Associate Director and Associate Analyst    [64]
+--------------------------------------------------------------------------------
+David, your base minimum rent growth is accelerating. You have a nice SNO pipeline. You're talking about blowing past your 2% NOI growth guidance for the year. All sounds great. I guess the question is, how sustainable is this algorithm? How long can it continue? And what are the factors that are ultimately going to weigh on this momentum that you have?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [65]
+--------------------------------------------------------------------------------
+Well, look, I mean, I think -- I see it continuing. We see good demand. We are tied to the general economic condition, but supply/demand is in our favor. I think our spot in our industry is well established. We have the confidence with our retail partners. We know what we want to do with our properties. We're not -- we don't bat a thousand. We make mistakes all the time, but we know where we want to position them. And so I hate using kind of this, but it's really going to be the external environment that could slow this down, meaning what happens, do we do a recession or that. 
+And I honestly think some of these markets are -- when people ask me that, I actually think if we do go into a recession, it will be "this kind of regional recession." I just don't see markets right now -- they may flatten. They may not grow as much. But I don't see Floridas, Texas, Nevadas of the world, Georgias, I just don't see them slowing. I don't see them going into a recession. So if there is one, we've always heard, well, it's going to be a regional one. This one might be one. But who (inaudible), I really don't know. But I think that's what slows us down. Obviously, we do have some headwinds with higher interest rates. We do have a debt maturity at low rates that will rollover, will cost us some growth. But we just have to kind of go through that and deal with.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+The next question comes from Linda Tsai from Jefferies.
+
+--------------------------------------------------------------------------------
+Linda Tsai,  Jefferies LLC, Research Division - Equity Analyst    [67]
+--------------------------------------------------------------------------------
+How do you think about the longer-term growth profile of the OPI business versus growth in overall portfolio NOI? Do you think the OPI business requires more consistent investment before it generates more stable returns?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [68]
+--------------------------------------------------------------------------------
+Well, I think you have to look at the individual investments. And like, for instance, Authentic Brands Group is a growth machine. They're buying brands left and right. They're buying Billabong. They're buying Vans. They've got a huge pipeline. So I really see that company growing, growing, growing. SPARC and Penney are -- SPARC is opening new stores, getting better at e-commerce, getting better operating. I'm sure -- they added Reebok to its portfolio last year. That still hasn't been fully integrated. So I expect EBITDA growth to accelerate in the latter half of '23 and '24. RGG, which includes Rue La La, Gilt and importantly, Shop Premium Outlets. Remember, we contributed to that joint venture. Shop Premium Outlets is on fire. We're growing our GMV by leaps and bounds. 
+I really think -- this was an idea we had years ago. We kind of got it off the ground maybe not quite as good as [Wilbur -- but Wilbur, right]? But we got it off the ground. We merged it into RGG. And it's really rocking and rolling. We've got -- we're signing up good retailers all the time. That's got a great, great story to it. And we have some smaller investments in that. So I think I see a real growth pattern in all of those. Penney is reinvesting. I think Penney (inaudible). It's getting better brands in the store. We're making the stores look better. It's got growth in beauty that's investing. 
+So the retailer side of OPI has a little more exposure to the economy because [retail just does]. But I think they all, in their own right, have their own growth story. And -- but you know what? We're economic animals to the extent that we think we get fair value. We've got lots of opportunities to invest in our company or other transactions that will add value. So we look at these very clinically. And I just remember, we've created a lot of value here with very little capital. And what's amazing, it's in our earnings now and -- which is a good sign because it means it's earning money. And given the small investment, it's been -- if you just want to look at return on earnings or return on investment, it's been outstanding. 
+So very proud of it, very profitable, not our core focus yet. [I used] the executive team here to leverage our capabilities, intellectual firepower, et cetera, to make those companies better. And I think we've done a pretty darn good job, and we've had good partners across the board. So we've done it in a very prudent way, and it's been very beneficial for us. And I expect growth to continue -- have more ups and downs. It won't be a straight line, but I have -- I expect more growth from that category. At the same time, 10 years from now or 5 years from now, we don't have to own any of these companies.
+
+--------------------------------------------------------------------------------
+Linda Tsai,  Jefferies LLC, Research Division - Equity Analyst    [69]
+--------------------------------------------------------------------------------
+And then just a follow-up, do you have a sense of how much mixed-use development could become as a percentage of portfolio NOI? And could you give us a sense of what that might represent today?
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [70]
+--------------------------------------------------------------------------------
+It's not very big today. What is it, like 3%, 4%?
+
+--------------------------------------------------------------------------------
+Brian J. McDade,  Simon Property Group, Inc. - Executive VP & CFO    [71]
+--------------------------------------------------------------------------------
+[About 3%].
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [72]
+--------------------------------------------------------------------------------
+3%. So we're a big company. So to do a lot to get to like 8% to 10% would take a lot, would be a few years down the road. But I don't see any reason why -- we certainly should try to strive to get up there if we can do it accretively in the kind of the 7%, 8% range. But that would be roughly $500-plus million of NOI. So it's not -- it's going to take time.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+The next question -- the final question comes from Haendel Juste from Mizuho.
+
+--------------------------------------------------------------------------------
+Haendel Emmanuel St. Juste,  Mizuho Securities USA LLC, Research Division - MD of Americas Research & Senior Equity Research Analyst    [74]
+--------------------------------------------------------------------------------
+I wanted to get to the second part of my question, and then I have one more. So the second part of my earlier question was if you're expecting new lease volume to be about 25% of the overall leasing volume as they were in the first quarter over the near term.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [75]
+--------------------------------------------------------------------------------
+Yes, I think that's a reasonable number, yes, in that range.
+
+--------------------------------------------------------------------------------
+Haendel Emmanuel St. Juste,  Mizuho Securities USA LLC, Research Division - MD of Americas Research & Senior Equity Research Analyst    [76]
+--------------------------------------------------------------------------------
+Okay. And then the second question I had was on foot traffic. We saw some recent Placer foot traffic data for March indicating that year-over-year foot traffic at enclosed retail malls is down 8% year-over-year in March. I'm curious if you're seeing similar trends at your properties and if you think that's [reflective of] the consumer and if that's coming up in lease negotiations in the current environment.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [77]
+--------------------------------------------------------------------------------
+Well, yes, that's -- I'm glad you asked that because I have -- we keep track of that ourselves. And just to give you March over -- March '23 over March '22, we are 105.5% for malls, 105.6% for mills and 120.2% for outlets for 108% above last year this time. And January and February, we're actually much higher month-over-month. So we -- for our portfolio, we're above -- traffic is above where it was this time last year, year-to-date, month-to-month.
+
+--------------------------------------------------------------------------------
+Operator    [78]
+--------------------------------------------------------------------------------
+There are no further questions at this time. I would like to turn the floor back over to David Simon for closing remarks.
+
+--------------------------------------------------------------------------------
+David E. Simon,  Simon Property Group, Inc. - Chairman, CEO & President    [79]
+--------------------------------------------------------------------------------
+Okay. Thank you and appreciate the questions and we'll talk soon. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+Thank you very much, sir. This does conclude today's teleconference. You may disconnect your lines at this time, and thank you very much for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

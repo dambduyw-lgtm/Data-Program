@@ -1,0 +1,756 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2024 Simon Property Group Inc Earnings Call
+NOVEMBER 01, 2024 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David Simon
+   Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer
+ * Tom Ward
+   Simon Property Group Inc - Senior Vice President of Investor Relations
+ * Brian McDade
+   Simon Property Group Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Craig Mailman
+   Citi - Analyst
+ * Michael Goldsmith
+   UBS Equities - Analyst
+ * Ki Bin Kim
+   Truist Securities - Analyst
+ * Steve Sakwa
+   EVERCORE ISI - Analyst
+ * Greg McGinniss
+   Scotiabank GBM - Analyst
+ * Jeffrey Spector
+   BofA Global Research - Analyst
+ * Michael Mueller
+   JPMorgan - Analyst
+ * Alexander Goldfarb
+   Piper Sandler Companies - Analyst
+ * Caitlin Burrows
+   Goldman Sachs - Analyst
+ * Juan Sanabria
+   BMO Capital Markets - Analyst
+ * Linda Tsai
+   Jefferies - Analyst
+ * Ronald Kamdem
+   Morgan Stanley - Analyst
+ * Floris van Dijkum
+   Compass Point Research & Trading LLC - Analyst
+ * Vince Tibone
+   Green Street - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Greetings and welcome to the Simon Property Group third quarter, 2024 earnings conference call. (Operator Instructions) As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Tom Ward, Senior Vice President of Investor Relations. Thank you, Tom. You may begin.
+
+--------------------------------------------------------------------------------
+Tom Ward,  Simon Property Group Inc - Senior Vice President of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Paul. Good morning and thank you for joining us today. Presenting on today's call are David Simon, Chairman, Chief Executive Officer and President and Brian McDade, Chief Financial Officer.
+A quick reminder that statements made during this call may be deemed forward-looking statements within the meaning of the safe harbor of the private Securities Litigation Reform Act of 1,995. And actual results may differ materially due to a variety of risks uncertainties and other factors. We refer you to today's press release and our SEC filings for a detailed discussion of the risk factors relating to those forward-looking statements.
+Please note that this call includes information that may be accurate only as of today's date. Reconciliations of non-GAAP financial measures to the most directly comparable GAAP measures are included within the press release. And the supplemental information in today's form 8-K filing.
+Both the press release and the supplemental information are available on our IR website at investors.simon.com. Our conference call this morning will be limited to one hour for those who would like to participate in the question answer session. We ask that you please respect our request to limit yourself to one question.
+I am pleased to introduce David Simon.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Good morning, everybody. And I'm pleased with our financial and operational performance. In the third quarter, we saw increased leasing volumes, occupancy gains and the total retail sales volumes. Demand for our space from a broad spectrum of tenants is strong and steady and we continue to strengthen our unique retail real estate platform through our growing development and redevelopment pipeline.
+This combined with our A rated balance sheet really sets us apart and allows us to focus on the future. We raised our dividend again to $2.10. We're now in our historical high overcoming the arbitrary capricious closing of our real estate during COVID, we have a low payout ratio.
+And now turn it over to Brian, who will cover our third quarter results and full year guidance in more detail, Brian.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you David and good morning. Real estate FFO was $3.05 per share in the third quarter compared to $2.91 in the prior year, a 4.8% growth rate. Domestic and international operations had a very good quarter and contributed $0.15 of growth driven by a 3% increase in lease income.
+Third quarter, funds from operation were $1.07 billion or $2.84 per share as compared to $1.2 billion or $3.20 per share last year.
+Third quarter results include $0.13 per share of non-cash net loss and fair value adjustments from the mark to market on the Klepierre exchangeable bonds we issued in November of '23, which mature in November of 2026. The non-cash loss on derivative is due to the outperformance of Klepierre's stock price which increased 18% during the third quarter. As a result of the stock appreciation, the market value of our Klepierre investment increased by approximately $400 million during the third quarter.
+OPI was an $0.08 loss in the quarter due to reduced discretionary spending by the lower income consumer at two SPARC brands and also from the loss of income from ABG in the prior year due to the sale of our interest earlier this year.
+As a reminder, the prior year results include $0.32 per share in non-cash gains from the partial sale of our ownership in SPARC in the third quarter of '23. Domestic NOI increased 5.4% year-over-year for the quarter due to continued leasing momentum, resilient consumer spending and operational excellence delivered the results exceeding our plan for the quarter.
+Portfolio NOI which includes our international properties at constant currency through 5% for the quarter. Malls and outlet occupancy at the end of the third quarter was 96.2%, an increase of 1% compared to the prior year. The mills occupancy was 98.6% at the end of the quarter.
+Average base minimum rent for the malls and outlets increased 2.3% year-over-year and the mills increased 4.5% year over year. Leasing momentum continued across the portfolio. We signed approximately 1,200 leases for 4 million square feet in the quarter.
+Through the first nine months of 2024, we have signed more than 3,900 leases for 15 million square feet which is expected to generate more than 1 billion of revenue. We have an additional 800 deals in our pipeline including renewals for more than 600 million of revenue.
+We continue to see strong broad based demand from the retail community including continued strength for many categories, reported retailer sales per square foot with $737 for the mall and premium outlets combined and was up approximately 1% year over year excluding two retailers. Importantly, total sales volumes excluding those same two retailers were up approximately 1.5% year over year.
+The end of the quarter, our occupancy cost was 12.8%. Turning to new development and redevelopment. We opened Tulsa premium outlets on August 15, at 100% leased. And we also opened a significant expansion at Busan premium outlets in South Korea in September.
+At the end of the quarter, new development and redevelopment projects were underway across all platforms in the US and internationally. With our share of net cost of $1.3 billion at a blended yield of 8%.
+Turning to other platform investments. Our OPI results for the third quarter at SPARC underperformed as the lower income consumer continues to be more cautious in their spending.
+We first highlighted the inflationary impact in the second half of 2022 relative to this consumer. Performance was below expectations at forever 21 in Reebok. SPARC and JC Penney did, however, record sequential improvements in comp sales during the third quarter which sets these brands up well for the important upcoming holiday season.
+We are not sitting still, and we expect to have some positive announcements by year end with respect to these businesses. Turning to our balance sheet during the quarter, we amended and extended our $3.5 billion supplemental revolving credit facility for three years on existing terms.
+We also issued 1 billion in senior notes with a term of 10 years and a 4.75% interest rate. This was clearly good timing on our part.
+During the first nine months of the year, we completed refinancing of 14 property mortgages for a total of approximately $1.3 billion at an average rate of 6.13%. We ended the quarter with approximately $11.1 billion of liquidity. And at the end of the quarter, subsequent to the end of the quarter on October 1, we repaid our last remaining unsecured maturity for 2024 of $900 million.
+We constantly innovate in both our physical and digital worlds to create world class convenience for our shoppers and drive incremental sales for our brand partners in continuing this effort and building upon the success of shop premium outlets. We rebranded our digital marketplace shop Simon to take advantage of all of our assets including shopper email lists totaling over 25 million customers.
+The expanded and rebranded digital marketplace add on sale and discounted merchandise while continuing to offer outlet products from leading brands. This is the next phase in our journey to create the ultimate omni channel experience.
+We also launched a new nationwide marketing campaign, Meet Me at the mall. The campaign celebrates the shopping malls continued cachet as the go to destination for all generations. Turning to our dividend. Today, we announced our dividend of $2.10 per share for the fourth quarter. A year over year increase of 10.5%.
+The dividend is payable on December 30. This is the fourth consecutive quarter we have increased our dividend and the dividend is now back to our pre pandemic record high.
+Finally turning to guidance, we are affirming our guidance range of $12.80 to $12.90 per share, which excludes $0.14 per share, year-to-date impact of the non-cash loss and fair value adjustments from the mark to market on the Klepierre exchangeable bonds, which prior to the third quarter is only a $0.01 net non-cash loss but is now 0.14 and needed to be highlighted.
+With that, thank you for your time today. David and I are now available for your questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Steve Sakwa with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Steve Sakwa,  EVERCORE ISI - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks. Good morning. David and Brian, you know, it sounds like you've got great momentum on the leasing front and with the portfolio, north of 96%.
+I'm just curious how you guys are attacking the lease expiration schedule over the next couple of years and whether you feel like pricing power is moving materially in your favor. Just given the interplay with, sales being a little bit flat, but obviously they're being strong demand for high quality retail space.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Yeah, Steve, I'll answer that, simplistically, I guess. I would say that our job is to continue to improve the merchandise mix at our real estate. And so it's a lot more than just what rent you can charge. It's really what is the right retail retailer tenant, etcetera, what's the right mix for that property?
+And we take more of a holistic approach to how we re merchandise centers. We're still undergoing significant re merchandizing across the portfolio because we're seeing better retailers. When I say retailers, it could be restaurants, et cetera. I'm using that as a generic term.
+We're seeing a lot more interesting and better retailers that are interested in our portfolio. So we need to take advantage of that and that's the focus. So you know, obviously supply and demand, I mean, you know, construction costs are up 60% from pre pandemic numbers, I mean, pretty staggering number and we're basically one of the few that can build and overcome that.
+So there is no real new supply and that does put us in a positive light, but our job is to make the properties better. And not just focus on the highest rent per square foot we can get.
+So with that, you know, we have a balanced approach. Obviously, we think we still have growth as leases expire or we bring in new tenants. But I don't, I really don't like the term pricing power. I really don't like to focus on that.
+You know, it's just how do you continue to make the portfolio better is really the number one focus for our team. We just literally, had three-day marathon session. You know, we go property by property with our leasing folks.
+You know, we did the malls this week, we'll do the outlets and mills next week. And if, you participated in it, I think I offered somebody one time down the road to who was it? Alex probably, Alex is the only guy that would want to sit through it. But if you sat through it, the primary focus is how do we make the property better? We still have work to do there.
+But I think at the end of the day when you do that, you'll get the property growth that we're all looking for. So I would characterize it that way, Steve, the good news is supply and demands in our favor. We have the capital to invest in our portfolio to make it better. Overcome the unbelievable rise in construction cost when you think about it. And that's the focus.
+
+--------------------------------------------------------------------------------
+Steve Sakwa,  EVERCORE ISI - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          All right. Well, I'm free next week if you want me to sit in on the meeting. Thanks.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          You, you're more than welcome. You get to choose outlets or mills all let Tom know. Okay.
+
+--------------------------------------------------------------------------------
+Steve Sakwa,  EVERCORE ISI - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Alright. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Caitlin Burrows, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Caitlin Burrows,  Goldman Sachs - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Hi, good morning, everyone. David, you mentioned a growing development and redevelopment pipeline. I was wondering if you can go through like how deep this opportunity is for Simon's portfolio. Now, considering all that you've already done to what extent is there still potential for anchor replacement or other retail redevelopments and then also the larger mixed-use projects?
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [9]
+--------------------------------------------------------------------------------
+
+          Yeah, I think that continues Klepierre to be a huge focus for us. So I would our pipeline is probably around 4 billion right now. That doesn't mean we're going to do all of it, but we have massive mixed use opportunities ahead of us and, and we still don't have all the anchors redevelop the way we want to.
+So, you know, we have opportunities that, you know, like at Barton Creek or, go down the line, if you look at kind of some of the sears passion value is a great opportunity we're going to get the JC Penney, SPARC back and probably do about a $500 million redevelopment between retail and mixed use our residential pipeline.
+As an example of that is over a billion dollars today. And without including kind of the, you know, the fashion valleys or the Barton Creeks of the world that we think could do residential and we continue to see. You know, an interesting relationship between residential development adjacent or part of our existing retail format.
+They actually go hand in glove. It's very encouraging to see. I think if you listen to Don Wood, he'll tell you the same thing. So that is exciting, we're going full steam ahead. As you know that supply, it's probably, you know, in certain markets been over supplied, but the reality is nobody building now.
+And if you think how we're looking at it, it's going to take two to three to four years. And if we bring these on, there'll be no new supply. And I think that'll put us in an advantageous situation. So long story short, say $4 billion. And you know, roughly a third of that is probably ready.
+(multiple speakers) But some office, like for instance, we just approved a deal and I don't think it's in our AK, but we just approved a deal in Clear Fork, which is in Fort Worth, kind of a newer center. And we just approved to deal with our partner to build an office and retail and around for, the office is going to be.
+I don't know if I can say it but basically, you know, we don't, it's not big, it's I know 50,000 square feet and Wells is going to take, the majority of it. And so we'll still do smatterings of those kind of projects. You know, as we go forward, but you know, building a big spec office out of our pipeline.
+
+--------------------------------------------------------------------------------
+Caitlin Burrows,  Goldman Sachs - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Got it. And just to confirm, I know in there you were talking about retail office. Well, not so much office and the multi family you mentioned at one point in there, overbuilding that was on the residential side.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [11]
+--------------------------------------------------------------------------------
+
+          Correct.
+
+--------------------------------------------------------------------------------
+Caitlin Burrows,  Goldman Sachs - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [13]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Jeffrey Spector, Bank of America.
+
+--------------------------------------------------------------------------------
+Jeffrey Spector,  BofA Global Research - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. Maybe just, you know, following up on the first question topic, David, your comments on merchandizing mix. You know, maybe something else that is sometimes overlooked. I know, you guys talked about your the omni channel experience and what you're doing there. Meet Me at the mall.
+Can you expand a little bit on some of the key initiatives that the company is doing to again engage customers, bring them to the centers and how this may evolve over the next few years. I know, of course, this holiday season, you have some great programs. Thank you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [16]
+--------------------------------------------------------------------------------
+
+          Sure. So, I would say Jeff that, the mall continues to be a unique gathering place and I think we all get too focused on whether it's, you know, enclosed has a roof on it. I mean, to me, it really doesn't matter. It's kind of what is the best retail project in that trade area.
+And we believe that and if you talk to, really new and exciting companies like [ASIAN] or other Skims or, you know, kind of the, the new wave of retailers slash marketplaces, they all believe in our product. And we're seeing a rejuvenation of the younger consumers wanting to hang out at the mall.
+And I think it's our obligation both for us you know, in our investors, etcetera. And also for the retailers to really highlight that. Now, you know, we don't have unlimited budgets, you know, like the tech companies, right?
+But we try to do the best we can to reinforce that. Hey, this is cool now, at the same time, you know, digital is important, right. So 14%, 15% of commerce is digital and we think we can play a role in that. We think the best way to do that is through shops sign. And we made sure we had proof of concept before, you know, we put kind of our brand on it. If you remember it started the shop premium outlets.
+We floundered around until we partnered with Michael Ruben and RGG. We've created, we hired some, you know, top notch talent there. We're building our marketplace; we had proof of concept and then we decided to rebrand it under shop assignment. So, you know, we do think and then ultimately this will add, we'll hang a loyalty product on that which will be important.
+And then ultimately, we have Simon search which will hang on that. And, you know, we'll end up with, you know, ship from store pick up at the mall, etcetera. So it's the flywheel is starting to fill itself out. But in the meantime, we want to reaffirm the positive nature that our product means to the community means to our retailers.
+You know as we grow on and we can't ignore digital because, you know, let's face it is around that 14%, 15% not growing the way it used to. But, you know, we have to assume it might. So we have to play in there. And I think with shops sign and we've got the right product, our retailer, relationships and faith they have in us, gives me confidence, we have the right team, we have the right partner.
+And RTG I think gives us confidence that you know, we'll continue to create real value out of that platform, but it's not overnight. It takes time, takes investment, prudent investment, and that's what.
+
+--------------------------------------------------------------------------------
+Jeffrey Spector,  BofA Global Research - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Great. Thank you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Craig Mailman with Citi.
+
+--------------------------------------------------------------------------------
+Craig Mailman,  Citi - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. Maybe just fall on the shop Simon concept, David. You know, as you guys are looking to re merchandise malls and you know, there could be some more anchor fall out over time.
+I mean, it is the idea here to hopefully get this up and running to where you guys can convert part of the mall to last mile distribution and be able to, you know, bring in that logistics angle to your business to help your retailers and also be able to monetize it or am I reading a little bit too much into it?
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+
+          Well, you know, I do think there is absolutely a role that we can play in search at your local store that happens to be in our center.
+And then maybe there's a distribution angle and certainly pick up in store is an angle that we can help facilitate with our retailers. Whether we'll be build a mini distribution center or not. I mean, we look at those things and there's possibilities, a certain retailers or certain centers that, we might be able to do a micro or, you know, mini distribution facility.
+You know, we're also looking at last mile in the power area because obviously that's, going crazy and that, there is with the. Our real estate is unbelievably well located, and it does, you know, it is not, we're not out in the hinterlands and last mile is very important and we usually have real estate that's, you know, a one a. So, you know, there's possibilities, it's not going to be dominant or whatever, it will be selective, but there are potential possibilities.
+
+--------------------------------------------------------------------------------
+Craig Mailman,  Citi - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Greg McGinniss with Scotiabank.
+
+--------------------------------------------------------------------------------
+Greg McGinniss,  Scotiabank GBM - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. Congrats on the strong leasing quarter crossing 96% occupancy ahead of (technical difficulty)
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [25]
+--------------------------------------------------------------------------------
+
+          Yeah, you come up there.
+
+--------------------------------------------------------------------------------
+Greg McGinniss,  Scotiabank GBM - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          (technical difficulty) go where you're functionally full.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          Well, you know, look, I think we can still increase our occupancy but also beyond occupancy. And I said earlier is which really, we're really focused on merchandise. So, but we still have room to grow our occupancy.
+But more important is that, you know, bringing in the right tenants in the right center in the right location that's a huge focus for us. But we still think we have plenty of opportunity to grow our occupancy.
+
+--------------------------------------------------------------------------------
+Greg McGinniss,  Scotiabank GBM - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks. And just one quick one on FFO for share guidance, we're trying to better understand the, that's all your contribution from real state as opposed to some of the noise that's generated by other platform investments. Are you still anticipating around $0 from OPI or is that lower now, and maybe offset by better real estate performance?
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [29]
+--------------------------------------------------------------------------------
+
+          Greg, it's Brian. I think we now think the OPI contribution is going to be a 5-minus to 10-minus for the year but being offset by, you know, significant improvement in the real estate FFO explanation.
+
+--------------------------------------------------------------------------------
+Greg McGinniss,  Scotiabank GBM - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+
+          Overall then we expect it to improve in the fourth quarter for sure.
+
+--------------------------------------------------------------------------------
+Greg McGinniss,  Scotiabank GBM - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Right. But I guess overall, I think my take is that the real estate business guidance would be increase of, if it were stand alone.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+
+          Yeah, if you know, OPI is you're breaking up. I don't know if it's our phone or yours. But OPI has been a drag this year from an so point of view. Now, remember we essentially have four assets in OPI. Okay. We have our investment in RGG, we have our investment in Jamestown.
+We have our interest in SPARC and JC Penney, when you put it all together, we have positive EBITDA in those business, you know, of a meaningful amount. But again, when you own an interest in a retailer, you've got lots of depreciation, lots of expenses that end up hurting FFO but not necessarily the EBITDA Line.
+So I just want everybody to put in that perspective. And again, I would also mention to you that, you know, our investment in both Penny and SPARC is de minimis at this point. You know, we have a little bit more investment in RGG and Jamestown. But the size of our company, is you know, you know, is the right thing to do.
+So with that said, and Brian said in our call, well we are still not standing still on our retail side, which is Penny and SPARC. And I do think we'll have some positive announcements with respect to those businesses, near year end or early '25. So we're working hard on that. But the bottom line is, it has been a drag this year.
+Part of that drag was because we sold ABG. So we lost that income that we thought that we, when we gave you our budget, we weren't anticipating. We're extremely happy with that sale.
+So that was the right thing to do at the right time. And, but so we tackled one opportunity, we're tackling the next. We view RGG and Jamestown as long-term investments at this point, obviously, that can change. But we view those as long term investments.
+And, again, so you know, and if you go back in history, which I think is important, you know, when we got into the retail business, it was the right thing to do at that particular time. You know, we are less.
+You know, given today's time, it's probably not the right thing to do. And that's why we haven't done a retail investment in a few years, four years. So we're smart, we get it, but we're focused in, you know, we have an investment that's worth something with no capital in it.
+So our job is to, is to make it better and that's what we're focused on. A little diver, a diversion from what you wanted. But I figured I'd give you the full story.
+
+--------------------------------------------------------------------------------
+Greg McGinniss,  Scotiabank GBM - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Okay. All the colors appreciated. Thank you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [35]
+--------------------------------------------------------------------------------
+
+          No worries. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Ron Kamdem, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [37]
+--------------------------------------------------------------------------------
+
+          Ron? Looks like we lost Ron.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Alexander Goldfarb, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Alexander Goldfarb,  Piper Sandler Companies - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, morning out there David. And yeah, I'll happy to coordinate with Tom and Steve on sitting in on one of those leasing sessions with you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [40]
+--------------------------------------------------------------------------------
+
+          Well do it. You might, you'll either be fully impressed or you'll the detail might overwhelm you. So we'll see.
+
+--------------------------------------------------------------------------------
+Alexander Goldfarb,  Piper Sandler Companies - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          I look forward to being overwhelmed. So question David, just getting back to the commentary on the 96%-plus least performance of the portfolio and the comments that you've made about, you know, the opportunity in the malls. As you look at the bottom tier for a long time, you talked about the bottom 20% driving cash flow to reinvest in the top malls.
+But given how competitive the retail environment has become, lack of new supply. Are you seeing new opportunities in your bottom 20% of malls that previously you would have just harvested for cash flow? But because of the changing landscape, you now see opportunities that didn't exist a few years ago.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [42]
+--------------------------------------------------------------------------------
+
+          You know, that's a good that's a really interesting question and a good point, I think based on if you asked everybody on the last three days of you know, the mall portfolio, we absolutely, you know, not every asset in the bottom tier. And again, I don't like that phrase but you know, I'm going to use it anyway.
+I would tell you if you talk to our team, you know, our leaders in that area, you know, John Murphy and Eric Satty, Rick [God love] him, still loves to, you know, go through it.
+And John Ruly, etcetera, I would say to you, one of the real opportunities for this company is to improve the bottom 20. And because you're right, there's no new supply in those markets.
+You know, just like human nature, we always want to work on the [sexy] stuff, right? So I do think there's a real potential to improve that because in many cases, we're the only game in town and given lack of supply and our ability to reinvest, I do think we can make, you know, real strides in the bottom tier, you know, again, not every asset but you know, the majority plus of them. So that's a big focus going into '25 without question.
+
+--------------------------------------------------------------------------------
+Alexander Goldfarb,  Piper Sandler Companies - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [44]
+--------------------------------------------------------------------------------
+
+          Sure.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Floris van Dijykum, compass point.
+
+--------------------------------------------------------------------------------
+Floris van Dijkum,  Compass Point Research & Trading LLC - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Good morning, guys. Thanks question on the leasing. By the way, I thought the response to Alex's question was fascinating by the way because we believe that, you know, the B malls or the lower quality malls financing might finally be coming back to that market now too.
+But maybe if you can talk about your [SNO] pipeline last quarter, you mentioned it was 250 basis points. How has that moved? I saw that Hermes just opened up its store in [FS]. And what percentage of that SNO pipeline is luxury in in your view? Is it is a meaningful and you know, are there other FS type luxury project plans in the portfolio going forward?
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [47]
+--------------------------------------------------------------------------------
+
+          Yeah, let me, yeah, interesting question again and I would say I have it right in front of me or I used to it here. Okay, so we've executed 75 new luxury deals covering 208,000 square feet.
+And we have another 47 out for signature. So that's kind of the total out there at this point. But again, we're increasing that, you know, every day as we speak. So yeah, we even though you know, the sales for certain brands has slowed in that area.
+They are continuing to commit and for us as you know, I mean, the build out and the and the time for those retailers to open is probably, you know, compared to kind of a traditional retailer is longer. So we've got a very impressive pipe on that with a lot of square footage that will open over the next few years and growing to this day.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [48]
+--------------------------------------------------------------------------------
+
+          And Floris, the signed but not open. Number is about 300 basis point. And importantly, here though, as you've heard David talk about multiple times, this is about merchandizing mix. So this isn't all incremental. We're swapping out, underperforming retailers or better wet and we do have retailers making commitments well into the future in that number as.
+
+--------------------------------------------------------------------------------
+Floris van Dijkum,  Compass Point Research & Trading LLC - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Thanks guys.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          Vince Tibone, Green Street.
+
+--------------------------------------------------------------------------------
+Vince Tibone,  Green Street - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Could you provide some color on the cadence of stabilizations for the development and redevelopment pipeline specifically? If you could share, you know how much incremental NOI you're expecting in '25 from the pipeline on a net basis, you know, all the opening this year.
+Next offset by any, you know, disrupt or downtime with new projects. That would be, you know, super helpful for forecasting.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [52]
+--------------------------------------------------------------------------------
+
+          Yeah, Vince, we think we're ultimately going to deliver about 30% of the portfolio investment in '25. So, you know, against the 8% on leverage yield. I think you can you get back into the estimated income contribution from that those data points.
+
+--------------------------------------------------------------------------------
+Vince Tibone,  Green Street - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          And is that like an average then or I think that is like 30% on average will stabilize because like stuff that you know, delivered the third quarter, for example, this year is obviously going to be, you know, creative to '25 just wanted to clarify that point.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [54]
+--------------------------------------------------------------------------------
+
+          Yeah, I think that's a decent run rate for expectation relative to our development business about a third probably stabilizes.
+
+--------------------------------------------------------------------------------
+Vince Tibone,  Green Street - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          Great, that's helpful. And if I can squeeze in one more follow up, could you just provide a quick description of any, you know, mall redevelopment started in the quarter? I saw the spend increase some, but you know, no description in the release of the project.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [56]
+--------------------------------------------------------------------------------
+
+          So we started a [resay] project at Briarwood and we started a redevelopment at Tacoma. Those were the two big ones in the quarter that really that we added to the pipeline.
+
+--------------------------------------------------------------------------------
+Vince Tibone,  Green Street - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Great. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          Juan Sanabria, BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Juan Sanabria,  BMO Capital Markets - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Good morning. Just given where we are with the election next week. Just curious on your thoughts on potential positives or negatives that could come out depending on which side wins and I guess specifically also what would be your view on tariffs? Is that positive or negative for Simon's business as a whole? Thank you.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [60]
+--------------------------------------------------------------------------------
+
+          Well, look I am of the view that you that, CEO,'s, whether they're founders, you know, kind of like the way I feel or, you know, up through the ranks ought to stay out of politics. Okay.
+That's not to say that they shouldn't lobby. Because, you know, there are a lot of things that go on in Washington that may affect the company and that's their job. So I'm go and I'm not here to endorse kind of take the Washington post view that, you know, that we have to be ready for all sorts of digital comes.
+I do think because of, you know, that the, you know, the vitriol that's occurring, you know, and that's why we're cautious, you know, with respect to kind of our guidance for the fourth quarter is that it's an uncertain time, right. So, not only here domestically, and here globally.
+But, beyond that, I really am not going to get into that. I think the decision ought to be left to the, to individuals. People like me should stay out of trying to influence, you know, the people. The people are, what matter. And, you know, we'll see what happens.
+We'll be prepared, you know, there's basically six potential outcomes, right? If I had to do it, right. You know, you could have a Democratic sweep, you could have a Republican sweep and then you can, I used to be able to do that, you know, but, you know, three times I think it's six, right? So, so you could have six possible outcomes.
+You know, we've got to be ready for all six. And I'm not going to tell you what outcome I want. I don't think it's my job.
+I do think it's my job to lobby once we understand, you know, what's happening, like, you know, maybe on the de minimis rule or etcetera that hurts our retailers or hurts our, you know, consumer. But beyond that, you know, if I could be so, you know, I don't know, if I should say this sounds, you know, guys like me, who, who knows what guys like me means. But we ought to like just let the people decide without this overbearing influence from outside people that that's my personal kind of view. And we just need to be ready for six possible outcomes.
+
+--------------------------------------------------------------------------------
+Tom Ward,  Simon Property Group Inc - Senior Vice President of Investor Relations    [61]
+--------------------------------------------------------------------------------
+
+          Fair enough. Understood.
+
+--------------------------------------------------------------------------------
+Juan Sanabria,  BMO Capital Markets - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Thanks, David.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+          Michael Goldsmith, UBS.
+
+--------------------------------------------------------------------------------
+Michael Goldsmith,  UBS Equities - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks a lot for taking my question. Maybe just tying some of the themes that we've heard from the call together. Your occupancy crossed 96%. You feel like there's more room to grow.
+You're focused on merchandizing and being selective and it also looks like your expiring rights for '26 maturities are below '25 by 6% to 7%. So you can throw it together. Does that give you confidence or visibility to sustainable mid-single digit at a NOI growth over the next couple of years?
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [65]
+--------------------------------------------------------------------------------
+
+          Hey Michael, it's Brian. Yes, we do believe that we will have the momentum in our NOI will continue. All of the things you highlighted are certainly part of it. Plus the investment of capital back into the business. As you've heard, David says, we will be opening up projects in '25, '26 and '27 but that there's going to be no new supply. So that is certainly going to support our growth as well.
+
+--------------------------------------------------------------------------------
+Michael Mueller,  JPMorgan - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Linda Tsai, Jefferies.
+
+--------------------------------------------------------------------------------
+Linda Tsai,  Jefferies - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. Can you provide some color on the quarter over quarter improvement in domestic and portfolio NOI and then how do you think about noy growth in '25 is an initial guidepost?
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [69]
+--------------------------------------------------------------------------------
+
+          Well, Linda, I think you know the quarter, we continue to see rent growth, occupancy growth, conversion of temp to perm. I think you see the quarter reflecting us executing on our business plan to a high degree. And as I just said, I think we carry that momentum into next year as we continue to execute.
+
+--------------------------------------------------------------------------------
+Linda Tsai,  Jefferies - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Any color on '25 though, in terms of the same level, continuing?
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [71]
+--------------------------------------------------------------------------------
+
+          Well, Linda, we give our guidance in February. So we'll update you at that point in time, but I do believe that we have momentum.
+
+--------------------------------------------------------------------------------
+Linda Tsai,  Jefferies - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+          Michael Mueller, JPMorgan.
+
+--------------------------------------------------------------------------------
+Michael Mueller,  JPMorgan - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Yeah, hi. Two questions, first. Do, do you think you'll see more acquisition opportunities over the next few years compared to what you've seen over the past, you know, 5 or 10? And then the second question on development redevelopment, what do you see is the average spend level for the next three years?
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [75]
+--------------------------------------------------------------------------------
+
+          Yeah, I will. I'll answer, I'll let Brian take number two, but I'll answer one. I do listen, I think company like ours has been always structured, built, financed to buy high quality retail real estate, you know, is obviously been our primary focus.
+So it's hard to know whether it'll be similar to what we've done. But, you know, the last 5 or 10 years. But you know, there will be opportunities for us to grow. We really haven't done much of any acquisitions since the TRG deal, which was, you know, I can still remember that, you know, it was in the height of, well, it was a week, two weeks before COVID and then Bobby forgot to tell me he should have known because, you know, he has those assets in China, but he forgot to tell me about COVID.
+But they worked out for everybody involved. But so it's really been a while that doesn't mean that we're not, you know, looking, paying attention to it, but we're being, very thoughtful about, what we would like to buy and at what price and I would tell you that's not going to change, but I do think there'll be opportunities as we go forward.
+But it's, again, it's hard to compare it to, you know, 5 or 10 years ago. But, but I do think over time will grow, you know, through acquisition. Go ahead on the pipe and.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [76]
+--------------------------------------------------------------------------------
+
+          Michael, I think as you think about the development redevelopment pipeline, you heard David talk today about a $4 billion shadow pipeline, we've got 1.2 billion committed. You know, I think you're going to continue to see us committed for a billion and a half a year.
+That could [ebb] and flow by a couple of 100 million on either side, just given the size of the projects and the delivery of the projects. So we do see that level of investment available to us over the in the future.
+
+--------------------------------------------------------------------------------
+Michael Mueller,  JPMorgan - Analyst    [77]
+--------------------------------------------------------------------------------
+
+          Great, appreciate it.
+
+--------------------------------------------------------------------------------
+Brian McDade,  Simon Property Group Inc - Chief Financial Officer, Executive Vice President    [78]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [79]
+--------------------------------------------------------------------------------
+
+          Ki Bin Kim, Truist Securities.
+
+--------------------------------------------------------------------------------
+Ki Bin Kim,  Truist Securities - Analyst    [80]
+--------------------------------------------------------------------------------
+
+          Good morning. Just going back to shop simon.com. Can you just provide some high level parameters on the progress you're making the traction you're gaining and also curious about the back end logistics side of it, if you're given the multiple brands we have, are the shipments being consolidated or is it still, you know, each individual retailer sending shipment?
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [81]
+--------------------------------------------------------------------------------
+
+          Yeah, just, I'll answer that first. I mean, look, we're early days and in using, shop Simon for delivery, you know, remember it's mostly a marketplace, but we think over time that'll be a service that we'll be able to offer through the shops sign and app or website. And I would say we've had remarkable growth in our GMD.
+We just rebranded it. So, you know, and I'm only hesitant because we do have a partner in that and I'm not sure I should disclose that to you. But we've got a meaningful growth in our GMV there.
+And now that we're going to use our brand and our, as Brian mentioned in his marks, you know, our 25 million email list and add loyalty, we think the there'll be more retailers on which will add to GMV which will add to the overall volume of the site.
+So I'm just going to be cautious, Ki Bin then because, you know, we have a partner there. So the good news is we're making a lot of progress, and we've got real traction. We've got a number of retailers. I don't remember exactly, but Brian or Tom can tell you after the call. But I'll hold off on the GMV right now, you know, maybe at some point we'll be able to disclose that.
+
+--------------------------------------------------------------------------------
+Ki Bin Kim,  Truist Securities - Analyst    [82]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [83]
+--------------------------------------------------------------------------------
+
+          Our next question is from Ron Camden with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Ronald Kamdem,  Morgan Stanley - Analyst    [84]
+--------------------------------------------------------------------------------
+
+          Hey, just a quick one for me. Just looking at the sort of the domestic, NOI growth almost 5% which is pretty strong in the past. You sort of made some comments about next year, sort of hitting that 3% number, just curious to get some updating comments on what you're seeing on the ground and any sort of differentiation between the traditional mall and outlet business as well. Would be helpful.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [85]
+--------------------------------------------------------------------------------
+
+          Yeah, I listen, I think overall they're all kind of moving in that direction. So, I appreciate you trying to get us to disclose our '25 NOI growth. We will do so in February, we're just going through the phase of that now, which is, as I mentioned to you, we did the malls this week, we do the outlets in the mills next week.
+But we're absolutely, you know, share that with you with our year-end earnings and early fed. But again, I think the momentum that we're seeing over the last couple of years continues that that's the important point.
+
+--------------------------------------------------------------------------------
+Ronald Kamdem,  Morgan Stanley - Analyst    [86]
+--------------------------------------------------------------------------------
+
+          Thanks so much.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [87]
+--------------------------------------------------------------------------------
+
+          Thanks Ron.
+
+--------------------------------------------------------------------------------
+Operator    [88]
+--------------------------------------------------------------------------------
+
+          Thank you. There are no further questions at this time. I'd like to hand the floor back over to David Simon for any closing comments.
+
+--------------------------------------------------------------------------------
+David Simon,  Simon Property Group Inc - Chairman of the Board, President, Chief Executive Officer    [89]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you. I appreciate all the questions and interest and, we'll talk soon if we don't talk of a, you know, a good holiday season. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [90]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference. You may disconnect your lines at this time. Thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,634 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 Bank of New York Mellon Corp Earnings Call
+OCTOBER 16, 2025 / 11:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dermot Mcdonogh
+   Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer
+ * Robin Vince
+   Bank of New York Mellon Corp - President, Chief Executive Officer, Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Alexander Blostein
+   Goldman Sachs Group Inc - Analyst
+ * Gerard Cassidy
+   Rbc Capital Markets - Analyst
+ * Mike Mayo
+   Wells Fargo Securities LLC - Analyst
+ * Glenn Schorr
+   Evercore Inc - Equity analyst
+ * Ebrahim Poonawala
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Betsy Graseck
+   Morgan Stanley - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to the 2025 third quarter earnings conference call hosted by BNY. (Operator Instructions) Please note that this conference call and webcast will be recorded and will consist of copyrighted material. You may not record or rebroadcast these materials without BNY's consent.
+I will now turn the call over to Marius Merz, BNY Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator. Good morning, everyone, and welcome to our third quarter earnings call. I'm here with Robin Vince, our Chief Executive Officer; and Dermot McDonogh, our Chief Financial Officer. As always, we will reference the quarterly update presentation, which can be found on the Investor Relations page of our website at bny.com.
+And I'll note that our remarks will contain forward-looking statements and non-GAAP measures. Actual results may differ materially from those projected in the forward-looking statements. Information about these statements and non-GAAP measures is available in the earnings press release, financial supplement and quarterly update presentation, all of which can be found on the Investor Relations page of our website. Forward-looking statements made on this call speak only as of today, October 16, 2025, and will not be updated.
+With that, I will turn it over to Robin.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Marius. Good morning, everyone, and thank you for joining us. Let me start with a few highlights before Dermot takes you through our financials for the quarter in greater detail. As summarized on page 2 of our quarterly update presentation, BNY reported another quarter of strong results.
+Record revenue of $5.1 billion was up 9% year-over-year. We saw broad-based strength, including double-digit revenue growth across the platforms that make up our Security Services and Market and Wealth Services segments, and we drove approximately 500 basis points of positive operating leverage. Our pretax margin improved to 36% and we generated a return on tangible common equity of 26%. Taken together, we reported earnings per share of $1.88, up 25% year-over-year.
+The third quarter presented a largely constructive operating environment. Despite a cooling labor market and inflation lingering above the Federal Reserve's 2% target, the US economy remained resilient. Equity markets continued to climb, credit spreads remained tight, and the Fed ultimately resumed rate cuts. Across our platforms, we saw solid growth in client balances as well as robust trading, clearing and settlement activity.
+While the finalization of US tax legislation and the prospect of deregulation are positives for the economic outlook, uncertainty and multiple tail risks remain, geopolitical conditions, trade policies, fiscal deficits around the world and the sustainability of enthusiastic markets to name a few. Against this backdrop, we continue to execute on our mission of reimagining BNY. This includes our two core transformation programs, a new commercial model, and our platform's operating model.
+Both are continuing to show results, and both have a lot of runway ahead. We recently reached the one-year anniversary of the new commercial model. Year one was about bringing the company together, aligning our teams and proving that when we show up as one BNY, we can win.
+Now we are raising the bar. The next phase of our commercial model is about embedding the habits of operating as one BNY into our daily rhythms and shifting from just connecting the dots to also delivering integrated solutions with patient scale.
+We were pleased to announce several wins in the third quarter that demonstrate how BNY is powering growth for our clients, both long-standing and new. Franklin Templeton, a client for nearly three decades expanded its relationship with BNY to provide a full suite of asset servicing and FX capabilities for its US-listed ETF products, tapping our market-leading platform to support one of its fastest growing businesses.
+And TIAA, who has had a 20-year relationship with BNY Pershing, yesterday announced that they have selected our Wove platform as the unified wealth solution across TIAA Wealth Management's broker-dealer, investment adviser and bank custody businesses.
+Our early commitment to the digital asset space paired with the principles of safety, scalability and innovation that have defined BNY for centuries now positions us to support the growing institutional adoption of digital asset products. In just one example from this past quarter, OpenEden, a leading platform for the tokenization of real-world assets headquartered in Singapore, appointed BNY as investment manager and primary custodian for the underlying assets of its flagship tokenized US treasury bills fund.
+As global capital markets move toward an always-on operating model, blockchain technology and digital asset adoption are becoming important enablers. In a meaningful step toward enhancing the utility of money market fund shares, we announced a collaborative initiative with Goldman Sachs to maintain on blockchain technology, a mirror record of customers' ownership of select money market funds, live and available through our LiquidityDirect platform.
+This includes a new token enabled share class of our own BNY Investments, Dreyfus Treasury Securities Cash Management Fund. We are encouraged by developments in the US regulatory landscape that will further enable tokenized products and allow us to support clients as they consider moving to a more unchained financial world. All of this product innovation, combined with our commercial model 2.0 is allowing us to be more for our clients and drive higher and more sustainable organic growth in the years to come.
+Turning to another one of our transformation, the ongoing transition into our platform's operating model. More than 70% of employees are now working in the model, and we expect to complete the remaining transition over the course of the next year. It is still early days, but we continue to gather meaningful proof points of benefits. For example, faster client onboarding, more automated delivery of complex NAVs and more modern billing processes. Our progress in the model is creating real capacity to invest in growth, to innovate for clients and to power our culture.
+Our experience has been that it takes 12 to 18 months after the initial activation of a platform for teams to start realizing the full benefits of this new way of working. That means that while we will be entirely operational in the new model by the fall of next year, we don't expect to see the full benefits of these new operating rhythms until early 2028.
+As we continue making steady progress on both of our two transformations as well as the broader reimagining of our company, we are always focused on what's next. A prime example of this is how we are embracing the power and benefits of AI. This past quarter, we announced a collaboration with Carnegie Mellon University in Pittsburgh to create the BNY AI lab at CMU. By bringing together CMU's academic leadership and BNY's market expertise, we will advance AI research, responsible governance and deployment.
+At BNY, AI is for everyone, everywhere and for everything. The investments we've made have been focused on creating the technology foundation to go faster, but adoption and success are ultimately driven by culture. By putting AI in the hands of everyone at BNY, we intend to develop fluency and create capacity for our people to focus on higher-value work. This translates to how we show up for our clients and innovate more broadly.
+Last month, we launched the next version of BNY's AI platform, Eliza 2.0, smarter, faster and easier to use. Across the company, our people are working together to embed AI solutions into our workflows. By the end of the third quarter, we had 117 AI solutions in production. That is an increase of 75% compared to the prior quarter, and it includes agents that help identify new business leads, rate code, automate payment processing, accelerate client onboarding and increase automation of reconciliations.
+We are also leveraging Agentic AI to deploy digital employees. Over 100 of them are already working side by side with our people on tasks such as payment validations and code repairs. We believe our AI opportunity is significant, and we are pursuing it with urgency.
+Before I hand it over to Dermot, I want to close by acknowledging the tremendous work of our people. As I visit our offices around the world and spend time with our teams, the excitement and drive within the company is palpable. It is our people and culture that propel us forward on our mission to unlock BNY's full potential for our clients and our shareholders.
+We are executing with purpose, powering our culture to run our company better so that we can be more for our clients. We have a lot of work ahead of us, but the clear signs of progress both in terms of our reported financials and the leading indicators for future success across the company give us confidence that the strategy is working.
+With that, over to you, Dermot.
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Robin, and good morning, everyone. I'll start with our consolidated financial results for the third quarter on page 3 of the presentation. Total revenue of $5.1 billion was up 9% year-over-year. Fee revenue was up 7%. That included 10% growth in Investment Services fees from our Security Services and Market & Wealth Services segment, driven by net new business, higher client activity and market values.
+Investment management and performance fees were down 2%, reflecting the mix of AUM flows, the adjustment for certain rebates we discussed in prior quarters and lower performance fees, partially offset by higher market values and the favorable impact of a weaker US dollar.
+While not on the page, I will note that firm-wide AUC/A of $57.8 trillion were up 11% year-over-year, reflecting client inflows and higher market values. Assets under management of $2.1 trillion were flat year-over-year, reflecting higher market values offset by cumulative net outflows. Foreign exchange revenue was down 5% year-over-year, reflecting the impact of corporate treasury activity, partially offset by growth in client activity.
+Investment and other revenue was $208 million in the quarter, including a $12 million disposal gain. Net interest income of $1.2 billion was up 18% year-over-year, driven by continued reinvestment of maturing investment securities at higher yields as well as balance sheet growth, partially offset by changes in deposit mix.
+Provision for credit losses was a benefit of $7 million in the quarter, primarily driven by changes in the macroeconomic forecast, partially offset by higher reserves related to commercial real estate exposure. Expenses of $3.2 billion were up 4% year-over-year, both on a reported and an adjusted basis. The variance, excluding notable items, reflects higher investments, employee merit increases, higher revenue-related expenses and the unfavorable impact of the weaker dollar, partially offset by efficiency savings.
+Taken together, we reported earnings per share of $1.88, up 25% year-over-year. Excluding the impact of notable items, earnings per share were $1.91, up 26% year-over-year. Our reported pretax margin was 36%, and our return on tangible common equity was 26% in the quarter.
+Turning to capital and liquidity on page 4. Our Tier 1 leverage ratio for the third quarter was 6.1%, unchanged from the prior quarter. Our CET1 ratio was 11.7%, up from 11.5% in the prior quarter, reflecting capital generated through earnings and a net increase in accumulated other comprehensive income, partially offset by capital returns through common stock repurchases and dividends.
+Risk-weighted assets were up 1% sequentially. Over the course of the third quarter, we returned approximately $1.2 billion of capital to our common shareholders, resulting in a 92% total payout ratio year-to-date. With regards to liquidity, the consolidated liquidity coverage ratio was 112%, flat sequentially. And the consolidated net stable funding ratio was 130% compared to 131% in the prior quarter.
+Next, net interest income and balance sheet trends on page 5. Net interest income of $1.2 billion was up 18% year-over-year and up 3% quarter-over-quarter. Sequentially, net interest income increased due to reinvestment of maturing securities at higher yields, partially offset by changes in deposit mix. Average deposit balances were flat sequentially, as the typical seasonal decline over the summer was offset by idiosyncratic client balances related to CLO activity and M&A escrows.
+Noninterest-bearing deposits grew by 3% and interest-bearing deposits were down by 1% quarter-over-quarter. Accordingly, average interest-earning assets were also flat sequentially. Cash and reverse repo balances decreased by 2%, loans increased by 2% and investment securities balances increased by 1% quarter-over-quarter.
+Turning to our business segments, starting on page 6. Security Services reported total revenue of $2.5 billion, up 11% year-over-year. Total Investment Services fees were also up 11% year-over-year. In Asset Servicing, Investment Services fees increased by 12%, representing strong year-over-year growth, driven by higher client activity and market values. As we support our clients in building their businesses on the strength of our platforms, we are also benefiting from secular growth in attractive markets.
+In the third quarter, our ETF AUC/A outperformed market growth and increased by 35% year-over-year, driven by higher market values, client inflows and net new business. And alternatives AUC/A grew by 12% year-over-year with particular strength in our Private Markets segment.
+It is also worth highlighting that almost half of all Asset Servicing wins in the quarter represented multiline of business solutions, underscoring the growing effectiveness of our one BNY strategy and the enablement through our new commercial model.
+In Issuer Services, Investment Services fees were up 10%, primarily driven by strong client activity in depository receipts. Across the segment, foreign exchange revenue was up 4% year-over-year on the back of higher client volumes. Net interest income for the segment was up 10% year-over-year.
+Segment expenses of $1.7 billion were up 6% year-over-year, driven by higher investments, severance revenue-related expenses and employee merit increases, partially offset by efficiency savings. Security Services reported pretax income of $806 million, up 26% year-over-year and a pretax margin of 33%.
+On to Market and Wealth Services on page 7. In our Market and Wealth Services segment, we reported total revenue of $1.8 billion, up 14% year-over-year. Total Investment Services fees were up 9% year-over-year. In Pershing, investment services fees were up 7%, reflecting higher market values and client activity. Net new assets were $3 billion in the quarter, driven by inflows from existing and new clients, partially offset by the deconversion of business lost in the prior year.
+Going forward, we expect net new asset growth to reaccelerate as we completed this previously disclosed deconversion in the third quarter. In Clearance and Collateral Management, Investment Services fees were up 12%, driven by broad-based growth in collateral management balances and clearance volumes. Average collateral balances increased 14% year-over-year, with growth from both existing and new clients. And in Treasury Services, Investment Services fees were up 7%, primarily reflecting net new business.
+Net interest income for the segment was up 26% year-over-year. Segment expenses of $895 million were up 7% year-over-year, driven by higher investments, employee merit increases and higher revenue-related expenses, partially offset by efficiency savings. Taken together, our Market and Wealth Services segment reported pretax income of $875 million, up 24% year-over-year and a pretax margin of 50%.
+Turning to Investment and Wealth Management on page 8. Our Investments in Wealth Management segment reported total revenue of $824 million, down 3% year-over-year. Investment Management fees were down 1% year-over-year, driven by the mix of AUM flows and the adjustment for certain rebates, partially offset by the impact of higher market values and the weaker dollar.
+Segment expenses of $640 million were down 5% year-over-year, driven by lower revenue-related expenses and efficiency savings, partially offset by employee merit increases, higher investments and the unfavorable impact of the weaker dollar. Investment and Wealth Management reported pretax income of $184 million, up 5% year-over-year, and our pretax margin expanded to 22%.
+As I mentioned earlier, assets under management of $2.1 trillion were flat year-over-year. In the third quarter, we saw $33 billion of net outflows from long-term strategies and $34 billion of net inflows into cash. Wealth Management client assets of $348 billion increased by 5% year-over-year, primarily driven by higher market values, partially offset by cumulative net outflows.
+Reflecting on our Investment and Wealth Management segment for a moment. Under new leadership over the past year, we have begun taking important steps to reorganize, streamline operations and start enabling the business to leverage BNY's broader portfolio of platforms.
+Additionally, we have started bolstering the team with a number of strategic hires and internal moves to further strengthen product, distribution and client coverage expertise. Along the way, we are being mindful of protecting the unique investment processes of our individual investment firms. While we are still in the very early stages of unlocking the growth opportunities associated with Investment and Wealth Management, Security Services and Pershing truly pulling in the same direction, we are encouraged by the progress over the past few months.
+Page 9 shows the results of the other segments. For this segment, I'll just note that the year-over-year decrease in revenue was primarily driven by higher net securities losses and the sequential increase primarily reflects gains realized on the sale of real estate.
+I'll close with our financial outlook for the remainder of the year. On the back of a strong third quarter, we expect net interest income in the fourth quarter to be approximately flat sequentially, which would ultimately result in full year 2025 net interest income to be up 12% year-over-year. We continue to expect expenses, excluding notable items for the full year to be up approximately 3% year-over-year. We currently project our effective tax rate for the fourth quarter to be approximately 21%, which would bring our effective tax rate for the full year into a range of 21% to 22%.
+And finally, we expect to continue returning capital at a pace that is consistent with a total payout ratio of 90% to 100% for the full year 2025. To conclude, our results reflect the disciplined execution and collective effort of our teams around the world. We are encouraged by our progress and remain focused on delivering consistent long-term value for our clients and shareholders.
+With that, operator, can you please open the line.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Mike Mayo, Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  Wells Fargo Securities LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hi, My question is how much of this growth year-over-year would you attribute to actions that you've taken versus just a generally good market backdrop? And I recognize that you have one BNY, which is now the new commercial model, recognize that your platform operating model, you said is 70% done and also recognize that you had Eliza 1.0.
+So you have a lot of initiatives taking place. So I'm sure you can claim some credit but probably not all credit and there's probably going to be a quarter at some point where markets tank and things don't look as good. So how much is due to what you're doing and how much is due to the market?
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [3]
+--------------------------------------------------------------------------------
+
+          Hey, Mike, good morning. It's Dermot here. So if you -- let's reflect on the past several quarters and in both Rob and I's prepared remarks, the intersection of the commercial model and the platform operating model, I really kind of positioned the company in a much better way than previously to take advantage of the market opportunities when the markets are constructive, and they have been constructive for the last few quarters, and now we're in a position to be able to take advantage of that. So that's point -- I think that's important point number one. That hasn't always previously been the case when markets have been constructive and BNY have been able to take advantage of that.
+And the second thing I would say, with the one-year anniversary of the commercial model and a multiyear phased approach to the platform operating model, we're now being able to stitch together solutions for our clients and do that cross-selling thing that we've talked about in prior quarters but now you can see us in execution.
+And in the prepared remarks, we talked about the wins in asset servicing this quarter that nearly half of them, we were in a position to be able to sell multiline of business solutions to the existing clients of asset servicing. So when you take a step back and look at that 7% fee growth, it's a mixture of organic growth, higher market levels and then FX. So it's all of the above and the proportion of each one is pretty balanced, I would say. So we're very pleased about how we've been able to drive organic growth for the company, particularly this year.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [4]
+--------------------------------------------------------------------------------
+
+          Mike, I'm going to just add a couple of quick things on top of that because we talked about nine months ago about this concept of beta and megatrends. And the fact that you're right, the backdrop of the market has been very constructive. But what we've done is we've gradually repositioned and evolved the company to be able to take more advantage of that backdrop. And Dermot mentioned that, but it really is worth a quick click into it because this diversified set of platforms and the way in which we've been emphasizing the growth in some of them is important.
+Remember, we are -- our businesses collectively fire on different cylinders. So equity markets up, good for some businesses. Fixed income markets up, good for different businesses. Transaction volumes up, good for other businesses. Capital markets activity are up, good for other businesses.
+The execution and clearing and settlement volume type of activity under the hood GDP growth, which is more correlated to our Payments and Treasury Services business, and of course, increasingly software and services. And so this orientation of ourselves to be more diversified, more platforms oriented is a very definitive strategy in order to be able to make more money in more different types of markets over time. And the derisking of the balance sheet, you can see that in the consistency of NII is part of it.
+And just to give you a couple of facts around it, your fund of our trust bank businesses. And if you define for a second Asset Servicing Investments in Wealth as that core of the Trust Bank businesses, which I think most people would think is the case, that now represents less than 40% of the company's pretax income.
+Now those businesses have been growing, and we love them. But the nontrust bank, more platform-like businesses, corporate trust, depository receipts, treasury services, clearing, collateral management, Pershing, pretty long list, they now represent about two-third of the pretax income of the company, and that's up from three years ago when it was only 55%.
+So everything is growing. The Trust businesses are growing. The nontrust businesses are growing faster. They have higher margin, and we're positioning ourselves for more different types of environments with a more diversified platform.
+
+--------------------------------------------------------------------------------
+Mike Mayo,  Wells Fargo Securities LLC - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          All right, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Glenn Schorr, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  Evercore Inc - Equity analyst    [7]
+--------------------------------------------------------------------------------
+
+          Hi, thanks a lot. So great question on NII and the repositioning you talked about. So 18% this quarter, you told us next quarter will be up 12% year-on-year. We've had a couple of rate cuts, a couple more coming forward. Can you expand a little bit more about derisking of the balance sheet and how you've changed your approach towards interest rate risk management that we head into this potentially lower back -- lower rate backdrop?
+Thank you.
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [8]
+--------------------------------------------------------------------------------
+
+          Morning, Glenn, thanks for the question. So I would say -- and look, I said this to Robin earlier in the week when we were preparing for this call when I was going through it with what we now kind of finally call the tripod within the firm, which is Lida, who runs our deposit platform, Tiffany, who is our Treasurer; and Jason, who is our CIO. The sophistication and the investment that we've made over the last three years in our tools and our risk management and how we analyze run scenarios, talk to all the different businesses to predict where deposits will be just gives us a real confidence around the baseline and the strength.
+And look, our balance sheet is very clean. It's very liquid, and we talk a lot about the $1.7 trillion liquidity funnel that we have. And so every day, when we come in, we see this funnel, and we can see where we can help clients maximize the return on their cash and at the same time, kind of optimize our kind of deposit mix and where we are.
+And I think the reason for the strength in NII this quarter was really around that. And in my prepared remarks, and if you reflect back and when I talked about it on the Q2 call, we kind of said Q3 was going to be a tough comp given last year in terms of there was a lot of activity. This year, we did see some seasonal decline in deposits, but that was more than offset by a pickup in, as Robin said in the answer to the last question, capital markets activity, strong activity in the CLO space, and we're able to serve clients in a very differentiated way.
+And then there's a nice bit of M&A activity, and we have a nice M&A escrow business, and we were able to serve our clients in that space, too. And so that drives fees and then it also drives healthy deposits, which can attract NII for us. And so going forward from here, I kind of said some of that activity will moderate into Q4, which kind of give the prediction that our base case is that we expected the balances for the balance of the year to be kind of flat sequentially.
+
+--------------------------------------------------------------------------------
+Glenn Schorr,  Evercore Inc - Equity analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thanks, Rob. Thanks, Robin. Thanks, Dermot.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [10]
+--------------------------------------------------------------------------------
+
+          Great. Thank you, Glenn.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Brennan Hawken, Bank of Montreal.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [12]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking my questions. Dermot, you just touched on this a little bit with the point around M&A escrow business. But we've been in sort of capital markets for a while, and we're starting to see M&A announcements of activity, which generally goes well for securities listing. What early trends have you seen on the back of that? And how should we be thinking about modeling those revenue lines if the capital markets environment remains?
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [13]
+--------------------------------------------------------------------------------
+
+          So you broke up a little bit, Brennan, on the question. So could you just repeat it again? So the capital markets activity as it relates to which aspects of the business, sorry.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [14]
+--------------------------------------------------------------------------------
+
+          Yes. Sorry about that, Dermot. Securities lending, the securities lending part, like we've seen hard to borrow start to pick up on the back of M&A merger or IPO activity and the like. So I was curious about how we would think about what that impact could be on securities lending going forward.
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [15]
+--------------------------------------------------------------------------------
+
+          We haven't seen like on that specific one, we haven't seen anything a noticeable change in that or there is nothing that I would kind of bring to your attention that we kind of see as a step function change that I would highlight as it relates to kind of forward potential for us in that business. But as you'll know, we are the world's largest agency lenders. So we expect that's a very nice business for us. We're very focused on it. But there's nothing there for me to highlight to you on this call.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [16]
+--------------------------------------------------------------------------------
+
+          Yes. And I would just add to that, Brennan, that it's a good business. It's an important business, but its greatest value is actually is adjacency to our broader collateral management franchise because it's the lending, but it's also the reinvest. It's also our new product, collateral one, which adds in the broader collateral management globally to the whole mix.
+And so we become one-stop shopping for clients across all of these different components if they do securities lending with us, some of these other things become particularly attractive. But I think the heart of your question, which is around capital markets activity and how it drives us is actually more to the corporate trust platforms, as you referred, is depository receipts. It's debt capital markets, its markets overall. And while the lending activity is part of it, I would say, in the grand scheme of our capital markets footprint, it's a smaller part of it.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [17]
+--------------------------------------------------------------------------------
+
+          Got it. I appreciate it. And Dermot, you spoke to the fact that the offboarding, I believe you said was finished. So within Wealth, a couple of questions. DARTS for Pershing was a little soft.
+Was that -- it looked a little bit more pronounced than typical summer slowdown. So maybe if there was any color around that. And then you also landed a nice Wove win recently with the TIAA Wealth Management business. I'm certainly familiar with TIAA Asset Management business, but could you help us understand the size of the Wealth business and what we could expect from that?
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [18]
+--------------------------------------------------------------------------------
+
+          So look, on Wove, we've signed over 50 clients onto the platform now. We're very pleased and proud of the TIAA announcement. It's been a lot of discussion with that, very important client, as Robin said, they've been with us for a long time, and we're happy to be able to serve them in a new and differentiated way.
+And I think when you take a step back and look at Pershing overall as a business, this -- over the last 12 months, we've had this deconversion over the prior 12 months. We had the First Republic conversion. So as a general matter, there's been kind of noise flowing through the results.
+And sometimes, we don't see the underlying performance of the business because of the deconversions. But I would say overall, this year, Pershing has performed well for us. Q2 had high levels of activity. And I would say the DARTS were high because of all the activity that we saw in terms of client behavior around Liberation Day and then Q3 kind of being a seasonally quieter business.
+And look, when we take a step back and we think about Pershing, it's a $3 trillion AUM business within the wealth tech sector space, and you see new entrants into it, and we like competition. And the fact that new entrants are coming in kind of allows us to show what we have to offer clients. So, a, we're excited about the business. We're excited about the growth potential. And we're now with the deconversion behind us, we expect growth in net new assets to reaccelerate for the balance of the year.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [19]
+--------------------------------------------------------------------------------
+
+          Excellent. Thank you for taking my question.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          David Smith, Truist Securities.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [21]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. You mentioned some potential turbulence and headwinds to the money market ecosystem coming up right now with the rise of stable coins on the one hand, coming amidst the backdrop of falling rates, do you think either of these could put pressure on fee rates because this is an area of the fund space that's seeing less pressure than equities and fixed income over the last decade or two?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          David, I would not describe what's been happening as turbulence. I would regard it as, frankly, as opportunity. You're right, the money market funds have reached record levels, essentially rounding to $8 trillion, making new highs pretty much each quarter. And we're in that business, but we're in that business from lots of different angles. And I think it's worth reflecting on it for a second because we're there, with our dry first money market fund, it's a large fund, again, rounding, call it, $450 billion.
+That's a significant participation, but then we're also participating with our Liquidity Direct business. We're participating with our Collateral businesses. We're participating with our Custody businesses. We're participating with our Trustee businesses. And so this is another example of an industry, which we touch very broadly across all of our different platforms.
+Now there's an evolution, and we're talking about on chain capabilities for money market funds. I don't view that as a turbulence for them, I view that as a technological evolution. And the question is, do we have platforms that can serve that technological evolution? The answer is yes because of our investment in digital assets. And so our ability to help manage that transition from traditional money market funds to a more digital asset money market fund is something that we've clearly set out that we can do.
+And that's not dissimilar to the mutual funds to ETF to separate accounts evolution of market structure. It's not threatening when market structures evolve, unless you can't catch the next evolution. And so we've invested to be able to catch it.
+Now on top of that, we now have stable coins and you're right, they can be a competitor to a money market fund, but they are very similar to a money market fund essentially is a collection of high-quality assets, but they have the additional feature of mobility. And we are in the mobility business because we have our Treasury Services businesses. We have our clearing businesses. We have our Collateral Management businesses.
+And so being in the transaction mobility business, actually gives us a new feature that doesn't exist for money market funds because they aren't mobile assets. So we're quite excited about this evolution. And again, this is the philosophy of our strategy is to say, where are the megatrends and are we set up with our platforms to be able to capitalize on that evolution, have we invested properly and critically, do we have the breadth of range of services that allow us to touch those evolutions from multiple perspectives.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [23]
+--------------------------------------------------------------------------------
+
+          Thank you. And then, Dermot, I think you said that almost half of the servicing wins in the quarter were multiline business solutions. Can you help us frame how that compares to 2024 to the first half of this year?
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [24]
+--------------------------------------------------------------------------------
+
+          So I don't have a crisp number for it because over time, we're kind of -- as with the commercial model being a year old, we're building out the telemetry to be able to track that more and more. So going forward, we'll be more sophisticated in how we communicate these metrics to you. But -- so we started to track it this year, and we didn't go back last year or the year before and track it back then because it's a lot of manual work to do going back in time.
+But the trend is there, and we just see the cross-selling. And as we've both talked about a number of times, the bringing together of the firm under the commercial leadership of Cathinka is really driving a very powerful transformation. And so it's just we're more connected and so that's what I would say.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [25]
+--------------------------------------------------------------------------------
+
+          Just directionally, would you say it's somewhat higher or a lot higher? It's hard to really put a frame on it.
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [26]
+--------------------------------------------------------------------------------
+
+          I would say it's higher, yes, much higher is probably too strong, but I would say it's meaningfully higher in terms of when we talked about last year, we had WisdomTree, which we sold four lines of business to one client. And this year, we're kind of seeing more and more of the WisdomTree type solutions being delivered to existing clients, whereas last year, WisdomTree was a new, new client. So we're delivering more to existing clients, which is a core part of the strategy.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [27]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Alex Blostein, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Alexander Blostein,  Goldman Sachs Group Inc - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Thank you. Hey, Robin, good morning. I wanted to ask you guys about operating leverage over time. Obviously, really strong progress this year, continued in the third quarter, and obviously acknowledge the fact that margin expansion is both a function of revenues and expense controls and efficiencies. But as you look out and you sort of point into a lot of the efficiency gains from the platforms will come through towards maybe the end of '27 and 2028 plus you've got the variety of AI efficiencies underway as well.
+So as you think about firmwide margin in this kind of mid-30s year-to-date and as you think about the forward opportunity set, what do you guys think this could land understanding that you might not want to set a firm target on this call, but helpful just to kind of hear your thoughts on how you would frame that.
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [30]
+--------------------------------------------------------------------------------
+
+          Okay. So there were a few questions rolled up into that one. So when we kind of take a reflection and if you go on to go back, actually, and you kind of time stamp it from the Goldman conference of fall conference of 2022 to now over the last nearly three years, we've consistently delivered positive operating leverage and in some cases, have outperformed.
+And so I think this is our fifth or sixth quarter of consistent positive operating leverage that we've delivered. And so this really is kind of -- I kind of go back to this whole notion of the flywheel of the three pillars that Robin has laid out in terms of be more for clients, run our company better and power our culture.
+When you get 50,000 people kind of working in harmony and pulling together to deliver on that, that is what is really creating the outperformance, and so we're very pleased. And each quarter is just another sign of steady execution. And so it is a flywheel of momentum that's powered by culture. And so if you kind of take -- we started all the peer group over the last 15 years, and we kind of said what's been the average positive operating leverage of the firm -- of the firms.
+And so that best-in-class was 150 basis points of positive operating leverage. So over the last three years, we've kind of consistently beaten that. But internally, we feel like in somewhat, we're still in early innings, and when Robin wrote his first shareholder letter, he was taking the decade-long view of what our strategy was going to be. So if you take the decade view, we're three years into that. So you would say relatively early innings and all the things that we're doing.
+And when you take the two transformation projects that we both double-clicked on, commercial model and platform operating model, we really haven't talked about what we want to do in the product and innovation space, and we've recently hired Carolyn Weinberg to kind of stand up and lead that business. So we expect Carolyn to have the same success as Cathinka has had over the last couple of years. And we really haven't factored in the opportunities both in growth and in efficiency that AI is going to bring to the firm over time. So we will be quite optimistic about our ability to deliver these kinds of returns into the future.
+
+--------------------------------------------------------------------------------
+Alexander Blostein,  Goldman Sachs Group Inc - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Great. That's very helpful. My second or the follow-up question rather just a cleanup around NII. I believe in the past, you guys sort of talked about that the -- internally, you're sort of trying to focus on '26 and trying to neutralize the balance sheet to sort of headwinds from lower interest rates. Just curious if that's still the case.
+And if you think about Q4 guide, is that a reasonable jumping off point for NII for all of 2026, again, assuming you guys can succeed at keeping them roughly flat?
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [32]
+--------------------------------------------------------------------------------
+
+          So I think we're quite pleased last year in terms of how we set up the balance sheet for this year in terms of what we call the Jackson Hole pivot, and so we did a lot of work over the summer months of 2024 to kind of deliver the results that you're now seeing in 2025.
+And so we've replicated that thinking in that model and that kind of proactive repositioning of the balance sheet for 2026. And so we've done a lot of work and we've done a lot of positioning. And so to your specific the latter part of your question, I would say Q4 is a good jumping off point as a base case for 2026.
+
+--------------------------------------------------------------------------------
+Alexander Blostein,  Goldman Sachs Group Inc - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Awesome. Thanks so much.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Ken Usdin, Autonomous.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [35]
+--------------------------------------------------------------------------------
+
+          Hey guys, how are you doing? Good morning. I just wanted to ask, it's more of a longer-term question. But obviously, so many announcements out of the crypto and the stable coin space in terms of new products and new offerings from both BNY and the industry. And just wondering how you're starting to think about what's the TAM there from a revenue perspective for BNY? Like what is the opportunity set? We see it in terms of the notionals out there in the marketplace.
+But how does that convert into revenue for BK, where would you expect it to come through? And is there any perspective on like how quickly -- when that starts to show?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [36]
+--------------------------------------------------------------------------------
+
+          Sure, Ken. Look, we're playing the long game on digital assets. We started this journey really about three years ago, seeing it as a potentially interesting technology. Clearly, it had some very excited fans right at that stage, but it's built and become, I think, a bit more mainstream accepted as a technology. We saw the promise of the technology.
+Look, we've been in the technology evolution business for a long time. We still have some of our ledgers, which were quill and ink back in the day, then it was printing and then it was computers. And now we see this as a promise for certain types of assets and certain types of transactions as being a new way of being able to record improving the mobility of assets, improving the efficiency of recording transactions, et cetera, et cetera.
+So we see that promise of that technology, and we've invested accordingly. And it's quite broad because yes, it's stable coins, but yes, it's digital asset custody. We can custody with the first US G-SIB to be able to natively custody bitcoin and other digital assets. And then it's also this whole mobility conversation that we've talked about, which we think is quite exciting.
+And so it is more than stablecoins, but we are a big supporter of the stablecoin ecosystem. And interestingly, having really lent into this ecosystem earlier on, we became a real go-to partner for many of these firms for our traditional services because they were like -- hey, BNY, you get it. And let's do -- we need all of these traditional services. We need capabilities around transfer agency and custody and on-ramps and off-ramps asset management in order to be able to provide those services. So we've really attached ourselves to those clients.
+And now we're participating in the next evolution. We're in the rails business, we're in the financial markets, enablement business, global capital markets, and there are a variety of different things you combine our clearing capabilities, our collateral capabilities, our mobility capabilities in money movements together, that is able to help stablecoin prospects be able to go faster. And so it's a very interesting space. It's very early days. This is a multiyear thing, but we're positioned for optionality is the way that I would describe it.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [37]
+--------------------------------------------------------------------------------
+
+          Okay. Got it. All right. And then a follow-up on the expense side, Alex asked earlier about operating leverage. I just want to confirm, so like 3% full year expense growth implies more of like a 2% year-over-year in the fourth quarter.
+And I'm not suggesting that, that means that you're -- there's a lot of variability quarter-to-quarter in terms of how you grow expenses. But just -- is the platforming starting to help at all in terms of either allowing you to have more gross saves underneath that you can even better control the overall growth rate of expenses as you contemplate leverage? And I know you've said earlier in the year that if revenues are better, it's always a good time to spend. So just directional thoughts on how to think about underlying expense growth. Thanks.
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [38]
+--------------------------------------------------------------------------------
+
+          So I wouldn't say I said exactly what you just said there. I think given the markets are more constructive, we don't -- I wouldn't be an advocate of spending for the sake of spending because revenues are up like hopefully that we've earned the credibility of all of you that over the last few years, we're very good stewards of both our capital and our expense base, and we're disciplined in how we allocate our expense budget.
+And so I think with the backdrop being more constructive this year, we've accelerated some investments. And with the change in administration and everything going on in the digital asset space like we've brought forward some of our investments that previously might have fallen below the line. So we've scaled and gone faster in some of those areas.
+But importantly, what I would say is this year, we went into the year thinking that we were going to generate about $0.5 billion of efficiency throughout the firm in terms of running the company better, and we've redeployed that $0.5 billion into growth investments. And we just had our Board here this year, this week, and they were kind of always asking the question, are we investing enough with the market where it is today, should we be doing more?
+So as we go into the kind of planning season for '26 and beyond, we're taking a very broad-based look on how we can drive positive operating leverage into the future, which is a North Star and generate savings while at the same time deploying.
+But specifically on your question of we feel good about the guide of 3%, which in the context of the last three years, just kind of start of '22 was up 8%, '23 was 2.7%. Last year was roughly flat. And this year, we guided at the start, 1% to 2%.
+And now with the backdrop of revenue-related expenses and a couple of other initiatives that we've embarked upon, we revised our guide up middle of the year to around 3%, and we feel very good about where that is. And overall, I think given where we are in inflation, et cetera, et cetera, and the CapEx associated with AI, we feel very good about what we've managed to accomplish this year.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [39]
+--------------------------------------------------------------------------------
+
+          Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Ebrahim Poonawala, Bank of America.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Good morning. I just had a couple of follow-up questions, Robin. I think going back to the digital assets piece appreciating still early days. But would you say if the move towards on chain tokenization picks up, is it disruptive from revenue margins for BK accretive or just a client retention tool where you are more likely to retain the clients who want to move?
+I'm just wondering in that spectrum, is it a bigger risk factor? Or is there a tangible revenue opportunity tied to this?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [42]
+--------------------------------------------------------------------------------
+
+          There's certainly tangible revenue opportunity. And of course, like any market structure change or new technology that comes along, there's disruption risk, if you stick your head in the sand and do nothing about it and sort of wish it to be away or ignore it. And I think that's true and has been true over generations of changes in financial markets. And so we view this as a change in circumstance for certain types of assets and for certain types of activity, probably more suited for some things than others.
+Remember, take something like loans as an example. Loans are pretty clunky. We're a big loan administrator. We provide huge solutions to CLOs and to other market participants for the loans business. If you just look at it as part of our $15 trillion worth of corporate trustee, but they're a pretty clunky instrument to actually manage in the post-trade space.
+They're quite bespoke, customized. There's a lot of servicing associated with them. And so to be able to see digital assets, tokenization come along, we actually see opportunities for greater efficiency in markets like that. Now it's going to be hard, not impossible, but it's going to be hard in a traditional equity, traditional clean government bond to be able to create a whole lot more efficiency. That's probably where digital assets create more mobility, 24/7 types of liquidity.
+So either going to make markets more efficient, which we kind of like because we're such a scale player or it can open up new opportunities to be able to trade certain assets 24/7, to be able to convert from collateral into individual securities into individual cash all over the course of seconds in the middle of the night, that's pretty exciting. And that mobility increased mobilization because we are in the transaction business as well, not just in the storage business, we see opportunities to benefit from that.
+So look, we're eyes wide open on this. There could be places in our business where margins can be pressured on the revenue side by certain things, but then there are also opportunities on the revenue side. And we think on the efficiency side, there is plenty to participate. But this is about culture. It's about attitude.
+It's about investing. We've hired our first product and innovation, our Chief Product and Innovation Officer in the form of Carolyn Weinberg. She's a deep expert in the space in digital assets. She's done significant things in the space for other companies in her past. And so now she's here and she's innovating for us. So I would say, net-net, pretty excited about it, but also eyes wide open about the fact that we've change, you've got to get it right.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Got it. That's helpful. And I guess just a separate question. Very narrowly on how you're thinking about share buybacks, I mean, it's an asset-like model do you care about the dilution buybacks have on book value at these levels?
+Or is any of -- sort of when you think about just from a valuation perspective, is that influencing your appetite for buying back stock? Or is it still relatively unchanged today versus a year ago?
+
+--------------------------------------------------------------------------------
+Dermot Mcdonogh,  Bank of New York Mellon Corp - Senior Executive Vice President, Chief Financial Officer    [44]
+--------------------------------------------------------------------------------
+
+          So I would say, broadly, the latter relatively unchanged compared to a year ago. We started out the year guiding plus or minus 100%. Look, this is -- this hasn't been the year I think that most market participants thought it would be in January, and we tend to run on the conservative side of things.
+So you see it at 92%. And that's really borne out of more of a conservative bias to running at the higher end of our Tier 1 leverage ratio given the market turbulence, the geopolitics, et cetera, et cetera. But we kind of -- and I think I said in my prepared remarks that we will be in the 90% to 100% for the full year.
+And just as a broader matter, you pointed it out, Ebrahim, we're a capital-light business model. And if we don't see opportunities to deploy in excess of our cost of capital, we will return it to shareholders as they would expect .
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [45]
+--------------------------------------------------------------------------------
+
+          And look, Ebrahim, when we look at our business, and we talked about this all across the call in our prepared remarks and the Q&A, we're excited about the journey that we're on. We have -- yes, we're a year into the commercial model. Yes, we're a year away from finishing the -- just the implementation platforms operating model. But 12 to 18 months after that is when we'd expect to be having the run rate benefits of that. We're right at the beginning of the AI journey, but we see a lot of runway.
+So for us, we sit here internally and we're pleased, of course, with the progress of the company. We're pleased with the stock price. But when we look at the runway, it doesn't feel to us like it's the type of environment where you'd say, oh, my goodness, it's that we should stop buying back and it's overpriced. It doesn't feel like that to us. And so this feels like an opportunity for runway. So we certainly don't feel like we've reached the end of the road.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Very clear. Thank you both.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Betsy Graseck with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [49]
+--------------------------------------------------------------------------------
+
+          Morning Betsy.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Hello, can you hear me? Okay. So Robin, is that because like how many more years of positive operating leverage do you anticipate you're going to be able to deliver here? Maybe that's part of what you're seeing in outlook for the stock price versus what the market is seeing.
+And so that would be helpful to understand, especially given the fact that part of your operating leverage has been delivered by headcount reduction. And clearly, at this pace can't go on forever, obviously. So a little bit of color would be helpful.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [51]
+--------------------------------------------------------------------------------
+
+          Well, the good news is there's a big difference between forever and for a long time. So we see -- look, the short answer is when we look at the inputs, and we used to talk about this a year or two ago, when we didn't have any output so that time to be able to talk to you all about. So we only talk to you about the inputs, but we try to be very transparent with what those inputs were.
+Now we can talk about the outputs because we've got delivery and value that's coming out of all of the work that our teams have been doing over the past three years, but we still talk about the inputs for exactly this reason because we want to try to give you all the transparency on the fact that we're still putting a lot of new things in and there's still a lot of runway associated with the value that's going to come out of those.
+The commercial model is a great example, which is why we keep reiterating it. It's only one year of maturity. And when you look at the combination of how you bring all of our sales folks together, new rhythms, embedding them in the company plus the fact that we've got this full breadth that I answered to Mike's first question, all of these different platforms and the nature of them, we feel that as that matures, there's a lot of runway on sales.
+Platform's operating model is not just an efficiency play, as we've told you before, it is very much a creating an increased speed and agility to be able to deliver for clients as well. And if you add 12 to 18 months to something that we won't have finished implementing until towards the end of next year, you get into 2028 before you actually would expect to have the full run rate agility benefits operating-type rhythms, which then allows us to go be going full speed in terms of the technology, the processes and the reimagining of things because platforms is very much a means to an end.
+So we look at all of that. We look at the broadening out. We look at the fact that we've improved by about 10%, the contribution of pretax income from platform businesses, which are naturally higher in margin than the rest of the company, that's accretive. Investments in wealth hasn't really kicked in yet to the margin party. So there's opportunity there, and Dermot talked about that in his prepared remarks.
+So we look around and as Dermot said earlier on, we've taken a decade view of this right from the beginning. We're only at year three, and we've got all of these inputs. And so for us, we sit here, and I think our teams sit here kind of excited about the fact that we feel like we're still early innings, and we're just getting going. So we're -- that's sort of where we sit right now, and that's how it feels in the company. Again, just talking about the inputs that, in theory, are meant to create and so far, a track record is that we've been able to do this, create the outputs of the future.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          And then just a follow-up question here is on stablecoin. Do you plan on issuing a BNY stablecoin?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [53]
+--------------------------------------------------------------------------------
+
+          So we're not going to get into very specific situations about future products, but I would just pull you back to the broader comment, Betsy, which is we are in the infrastructure capital markets enablement business. We're in the rails business. We partner with stablecoins. We enable other people's stablecoins. And that's really the heart of our strategy to enable our clients with their transition into these ecosystems.
+We support the biggest stablecoin issuers today. There are many people who are interested in launching stablecoins. We really have the complete set of services to be able to power them. And what I would expect to see over time is participants who are wanting to do their own versions of using stablecoins internally to be able to operate their companies, but they won't have the scale or the interest in creating all the infrastructure. And so they're going to turn to other stablecoin providers and they're going to turn to partners to be able to power their own use of those things. And I think that's the sweet spot of how we think about the business opportunity.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Okay. So if there is an opportunity for a BNY specific stablecoin, you execute on it, but if not, no?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [55]
+--------------------------------------------------------------------------------
+
+          It is -- for us, it's about enabling the stablecoin ecosystem and the way in which I think we're going to be able to best do that is provide the capabilities for stablecoins to be able to thrive and help other people be able to make their stablecoins drive.
+Now there may be a lot of things that we have to build right up to the point of is it a BK stablecoin. So you could imagine a world where other people stablecoins might be running on rails and capabilities that we provide or we might be helping existing stablecoin issuers to be able to insert their products into other people's ecosystems is this connector across cash collateral, the mobility of money and then the infrastructure and capital markets. That's how I would think about it. But I'm not definitively answering your question because we'll remain agile to these questions over time.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          Gerard Cassidy, RBC.
+
+--------------------------------------------------------------------------------
+Gerard Cassidy,  Rbc Capital Markets - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Hi, Robin. Hi, Dermot. Robin, you talked about the business wins on TIAA, CREF, and then Franklin Templeton. Can you share with us since there was such long-term relationships, was it more cross-selling because of the new policy or the new structure you have is showing success and that's why you made those wins? Or was it new products that they had to -- they've created and they came to you to help offer those products to their customers with you as a partner?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [59]
+--------------------------------------------------------------------------------
+
+          I think one of the things -- I don't view this as cross-selling, Gerard. What I view it as is for a long time, BNY has had a series of perfectly good products and they've operated in a very separate and we would say, siloed way, where they were delivering in a very vertical way, single product to a client, and that was how the client knew us. But we recognized very early on in our journey that delivering more of the things that we already do to the clients that we already have was going to be a huge opportunity.
+Now that's a big lift because it required the clients to better understand who we were and to understand what we had. Many of our own sales people did not understand what we had. And so the whole retooling that's come along with the commercial model to be able to equip our sales teams and therefore, our clients with knowledge about our company so that they can actually dip in to our businesses and be able to use more of the things that we have, that's a big opportunity.
+Now the second opportunity, which is very related to that, is that it so happens that the many things that we have are quite related to each other. So if you're a clearing client, you might well be interested in collateral. If you're a US clearing client, you might well be interested in international clearing. If you do those things with us, you might be interested in some of our other transaction services.
+You might be interested in treasury services. And so there's a natural adjacency where all of our products and services really are pretty adjacent to each other. So they fit well together. So that's created a depth for those clients who now understand us because the salespeople have been able to equip them with that knowledge.
+And then they see all these things we're doing, they look at it and they say, gosh, I should do that with you and that with you because if I do both of them together, it's going to be good for me. And I'm going to get more value. Then you layer on top the product innovation, which is we're making the products better and more capable. The examples that we just talked about were digital assets, but AI is very powerful in this regard as well. And then the constant innovation, launching new products, launching new features and making the products individually better.
+And then the secret further source is we bond them together. So there are some of our products and services that if you actually do them together, 1 plus 1 equals 3 in terms of a capability for the client. Then you add on to that, the bigger new innovations, things like Wove but also things like digital assets, then you recognize that there are more clients in the world. And so we're covering clients, and we've talked about this in the context of private markets, new growing client ecosystems, new clients, and there were no stablecoin clients a few years ago, digital asset clients, but now we're earning money from those new industries. And so these are the megatrends tuning into them, helping to be part of that journey.
+So collectively, this is the generating the growth. And it's why, in answer to earlier questions, there's a linkage between our organic growth and our capturing of these mega trends that are going on in the market that make it so much more interesting than just is the market up, is the market down. That used to be the way that you used to dictate the way that BNY would go. We don't believe that's the case anymore.
+
+--------------------------------------------------------------------------------
+Gerard Cassidy,  Rbc Capital Markets - Analyst    [60]
+--------------------------------------------------------------------------------
+
+          On what you just said, have you guys created a scorecard with your top 100 or top 200 clients and where you are in that journey of giving them those -- all those different options. And as part of that answer, when -- what percentage of those clients are at an optimal mix where you -- where they really are firing on all 8 cylinders?
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [61]
+--------------------------------------------------------------------------------
+
+          Okay. So you would expect to hear this from the CEO. None of them are at the optimal mix because all of them can do more with us. But we have quite a few clients who do several of these different businesses. You mentioned eight.
+In fact, we were having a conversation at our Board with a client. We regularly bring in our external perspectives, including client perspectives to our Board. And we had a client who I was sitting next to talking about our businesses and their perception of us and they actually do eight products with us coincidentally.
+But I'll give you one step because I think this is a good one, and it kind of goes to the heart of your question. We have a lot more dashboards. We didn't really use to have them. We didn't use to have sales plans and targets and all of that stuff, and that's what I talked about in my prepared remarks about embedding the rhythms of our commercial model into the daily activities of the company because that's the discipline and the relentless execution to make it all happen as opposed to just wishing it be so.
+But the number of clients who buy three or more of our services is up 40% over the past two years. That's probably a pretty good indication of our direction of travel.
+
+--------------------------------------------------------------------------------
+Gerard Cassidy,  Rbc Capital Markets - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          No, it is. And then just last question. Obviously, you guys have plenty of excess capital. Dermot, you talked about the returning 90% to 100% of earnings in buybacks and dividends. I think in 2024, you announced the Archer deal.
+What about inorganic opportunities? Is there any area within your organization that you'd like to enhance with possibly an acquisition? Thank you.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [63]
+--------------------------------------------------------------------------------
+
+          Thanks, Gerard. Look, so it's interesting. We're very open to M&A. We've said it before. We're open-minded to inorganic things if they can accelerate what we're doing, derisk us in some way. And we recognize it can be a powerful tool in the toolkit for sure. And so we look at opportunities. We've got a team that assesses things constantly. It's a new rhythm for us versus the past. As you know, we did the Archer transaction.
+That was a good stretching of an exercising of that muscle so that we know we can do it. But we are focused on the discipline here. We have to have great alignment with our strategic priorities, would have to have a good cultural fit and of course, great financial returns, which will make it the bar for it pretty high.
+But as you've heard really throughout this call, our organic transformation is working. And we're really seeing the results from it and we still feel that we're in the early innings of that opportunity. And therefore, with that runway, we just feel no pressure whatsoever around M&A. We're open to it. We can be opportunistic, but the momentum we have and the runway that we have to create value near, medium and long term means that we're in this wonderful position where we are focused with that as the -- as our real strategic focus right now.
+
+--------------------------------------------------------------------------------
+Gerard Cassidy,  Rbc Capital Markets - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          Thank you. And with that, that does conclude our question-and-answer session for today. I would now like to hand the call back over to Robin for any additional or closing remarks.
+
+--------------------------------------------------------------------------------
+Robin Vince,  Bank of New York Mellon Corp - President, Chief Executive Officer, Director    [66]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and thanks, everyone, for your time today. We appreciate your interest in BNY. If you have any follow-up questions, please reach out to Marius and the IR team. Be well.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Thank you. This does conclude today's conference and webcast. A replay of this conference call and webcast will be available on the BNY Investor Relations website at 12:00 PM Eastern Time today. Have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

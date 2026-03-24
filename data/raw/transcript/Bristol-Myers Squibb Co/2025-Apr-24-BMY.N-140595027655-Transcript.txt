@@ -1,0 +1,895 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2025 Bristol-Myers Squibb Co Earnings Call
+APRIL 24, 2025 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Adam Lenkowsky
+   Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team
+ * David Elkins
+   Bristol-Myers Squibb Co - Executive Vice President, Chief Financial Officer
+ * Christopher Boerner
+   Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer
+ * Chuck Triano
+   Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations
+ * Samit Hirawat
+   Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Sean McCutcheon
+   Raymond James - Analyst
+ * Luisa Hector
+   Berenberg - Analyst
+ * Tim Anderson
+   Bank of America - Analyst
+ * Courtney Breen
+   Bernstein SG - Analyst
+ * Zach Dunn
+   Guggenheim - Analyst
+ * Evan Seigerman
+   BMO Capital Markets - Analyst
+ * Asad Haider
+   Goldman Sachs - Analyst
+ * Matt Phipps
+   William Blair - Analyst
+ * Srikripa Devarakonda
+   Truist Securities - Analyst
+ * Mohit Bansal
+   Wells Fargo Securities, LLC - Analyst
+ * Terence Flynn
+   Morgan Stanley - Analyst
+ * Trung Huynh
+   UBS - Analyst
+ * James Shin
+   Deutsche Bank - Analyst
+ * Geoffrey Meacham
+   Citi - Analyst
+ * Carter Gould
+   Cantor Fitzgerald - Analyst
+ * David Risinger
+   Leerink Partners - Analyst
+ * Christopher Schott
+   J.P. Morgan Securities LLC - Analyst
+ * Steve Scala
+   TD Cowen - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day and welcome to the Bristol-Myers Squibb first-quarter 2025 earnings conference call.
+(Operator Instructions) Please note this event is being recorded.
+I would now like to turn the conference over to Mr. Chuck Triano, Senior Vice President and Head of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you and good morning everyone. We appreciate you joining our first-quarter 2025 earnings call.
+Joining me this morning with prepared remarks are Chris Boerner, our Board Chair and Chief Executive Officer and David Elkins, our Chief Financial Officer. Also participating in today's call are Adam Lenkowsky, our Chief Commercialization Officer and Samit Hirawat, our Chief Medical Officer and Head of Global Drug Development.
+Earlier this morning, we posted our quarterly slide presentation to bms.com that you can use to follow along with Chris and David's remarks.
+Before we get started, I'll remind everybody that during this call, we will make statements about the company's future plans and prospects that constitute forward-looking statements. Actual results may differ materially from those indicated by those forward-looking statements as a result of various important factors, including those discussed in the company's SEC filings. These forward-looking statements represent our estimates as of today and should not be relied upon as representing our estimates as of any future date. And we specifically disclaim any obligation to update forward-looking statements, even if our estimates change. We'll also focus our comments on our non-GAAP financial measures, which are adjusted to exclude certain specified items. Reconciliations of certain non-GAAP financial measures to the most comparable GAAP measures are available at bms.com.
+Finally, unless otherwise stated, all comparisons are made from the same period in 2024 and sales growth rates will be discussed on an underlying basis which excludes the impact of foreign exchange. All references to our P&L are on a non-GAAP basis.
+And with that, I'll hand it over to Chris.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Chuck. Good morning and thank you all for joining our first-quarter earnings call.
+We had a strong Q1, driven by solid execution across the business and continued focus on our strategic priorities, maximizing our growth portfolio, accelerating our R&D pipeline, driving operational excellence, and strategically allocating capital. Our plans to transition the portfolio to deliver long-term sustainable growth are underway.
+Today, I will begin with some comments on our first-quarter performance and highlight our recent accomplishments. Then, I will discuss our pipeline and upcoming catalyst that can further strengthen our long-term growth potential. I'll end by addressing the current operating climate.
+Starting with performance on slide 4, our growth portfolio again delivered double-digit sales growth driven primarily by strength in key marketed products, including our IO portfolio, BREYANZI, REBLOZYL, and CAMZYOS. And as expected, our legacy portfolio performance primarily reflected the impact of generic entries for certain older brands.
+So turning back to our growth portfolio, let me speak to our recent launches. As you'll recall, in October, we launched COBENFY, the first truly novel mechanism for the treatment of schizophrenia in decades, and we are pleased with the early prescription trends. Patient and physician feedback is very positive, reflecting its favorable tolerability and efficacy profile and noting that patients are observing cognitive benefits.
+In January, we launched our Opdivo Qvantig, the subcutaneous formulation of nivolumab, which is also receiving promising early feedback from practices and patients. And based on our performance in the first quarter, we are increasing our top- and bottom-line guidance. David will provide more details shortly.
+We continue to advance our pipeline during the quarter with several recent announcements. Opdivo plus Yervoy received FDA and EMA approvals for the treatment of first-line liver cancer and FDA approval for use in MSI-high colorectal cancer in the US, further solidifying its leadership in immuno-oncology.
+BREYANZI was approved in the EU for treatment of follicular lymphoma, expanding our cell therapy presence in blood cancers. CAMZYOS received approval in Japan and a favorable label update in the US, which reduces the REMs echo monitoring requirement in the maintenance phase. In addition, Milvexian reached an important milestone in the quarter with the completion of enrollment in the LIBREXIA atrial fibrillation trial. This event-driven study remains on track to read out in 2027.
+Turning to slide 5 and our two recent top line readouts. While we're disappointed that the CAMZYOS ODYSSEY study in non-obstructive HCM and the COBENFY ARISE study in adjunctive schizophrenia did not meet their primary endpoints, I want to put the results in proper context. Although these are not the results that we had hoped for, neither outcome meaningfully alters our strategy or growth trajectory.
+For CAMZYOS, the studies strongly suggests that non-obstructive and obstructive HCM behave distinctly. We do not expect these data to significantly impact peak sales, and our focus remains on our existing obstructive HCM indication, which represents the vast majority of the market opportunity.
+For COBENFY, although it did not demonstrate a statistically significant improvement as an adjunctive treatment in the ARISE trial, these data are encouraging, showing a noteworthy improvement for the majority of patients as well as a tolerable safety profile. As we noted earlier this week, we will complete a full evaluation of the Phase 3 trial data and we'll plan to engage with the medical community and regulators to discuss these results and potential next steps.
+Also, it's important to remember, there are no currently approved adjunctive therapies for schizophrenia. Our commercial strategy remains focused on monotherapy, which accounts for 70% to 80% of the market, where our goal is for COBENFY to become the foundational treatment. As I mentioned earlier, COBENFY's differentiated profile is resonating, and we're seeing strong early uptake.
+Looking ahead, we're confident in the strength of our portfolio and the breadth of opportunities in our pipeline. We expect several of these opportunities to come this year, such as the first look at one of the Phase 3 trials for COBENFY and Alzheimer's disease psychosis where there is significant unmet need.
+We also plan to initiate several new pivotal studies this year, including seven Phase 3 studies for COBENFY across three indications; Alzheimer's agitation, Alzheimer's cognition impairment, and bipolar I, all expected to be underway by mid-year.
+At the same time, in oncology, we're advancing two next wave solid tumor programs. First, our EGFR HER3 antibody drug conjugate, iza-bren, is expected to begin enrollment in a pivotal study in first-line triple negative breast cancer in the coming months. And second, our androgen receptor degrader program in prostate cancer has begun enrolling patients in a pivotal study. We also expanded our registrational program for golcadomide, a potential first-in-class CELMoD for lymphoma.
+The [Goal Seek four] study in second line plus follicular lymphoma will explore the combination of golcadomide with rituximab where we know effective chemo-free regimens are needed for patients. In total, we believe these programs represent significant opportunities over the back half of the decade given the unmet medical need.
+The numerous pivotal data readouts in the coming years have the potential to meaningfully enhance the long-term strength of our growth portfolio. Our commitment to innovating for patients remains strong as we advance first and our best-in-class medicines, both through internal discovery and business development, which remains a top priority. In terms of BD, we're actively pursuing opportunities that can enhance our growth profile where there's strong strategic alignment and financial rationale. With our renewed organizational agility and balance sheet in a solid position, we have the flexibility to act decisively when we find the right opportunities.
+As we've said, maximizing long-term growth starts with strong execution this year and over the midterm. The growth portfolio is performing well and our pipeline is advancing. At the same time, we're taking deliberate actions to right size our cost structure and become a more efficient company. Overall, I'm confident we will deliver on disciplined execution as we position the company for top-tier growth by the end of the decade.
+Before I turn it over to David, I'll just say a few words on the current global operating climate. There's a lot of uncertainty whether related to tariffs, a potential economic downturn, or restructuring at the FDA and HHS. This backdrop notwithstanding, our focus continues to be on building a strong and resilient company that can navigate and manage through operating complexities. We remain confident in our ability to deliver for our patients, employees, and shareholders.
+Our strategy is clear and we're executing. We have a rich pipeline with strong growth potential. We act swiftly when we see opportunities, whether it's business development to bring in great science or pursuing efficiencies in our business. And finally, we are laser focused on execution as you can see by our strong performance this quarter.
+With that, I'll turn it over to David.
+
+--------------------------------------------------------------------------------
+David Elkins,  Bristol-Myers Squibb Co - Executive Vice President, Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris, and good morning, everyone.
+Our performance in 2025 is off to a strong start. We're executing our growth strategy in terms of driving revenue for key products while also rightsizing our cost structure. Our persistent focus on execution is strengthening our foundation and positioning the company to deliver long-term sustainable growth.
+This morning, I'll provide highlights of our performance in the first quarter and then review our outlook for the year. Now turning to the first quarter on slide 7, total company revenues were approximately $11.2 billion, reflecting strong demand across our growth portfolio, including the launch of COBENFY offset by the impact of generics and Medicare Part D redesign, primarily in our legacy portfolio. Global sales of the growth portfolio increased approximately 18%, led by key brands including our IO portfolio; BREYANZI, REBLOZYL, and CAMZYOS.
+Turning to key product performance on slide 8. Opdivo had a solid first quarter with global revenue up 12%, driven primarily by volume growth. Separately, initial sales of Opdivo Qvantig were approximately $9 million in the quarter. The US launch is progressing well with early adoption across multiple tumor types. We continue to believe that physicians will convert approximately 30% to 40% of patients to this new product.
+Let's turn to hematology on slide 9. REBLOZYL global sales reflect the continued strength across first- and second-line MDS-associated anemia. Higher sales in the US were related to increased use in first-line setting. Outside of the US, REBLOZYL's strong double-digit sales growth was driven by demand across newly launched markets in Europe and Japan.
+In cell therapy, BREYANZI was another key contributor to our strong growth portfolio performance in the quarter, driven by demand across all indications. US sales more than doubled and international sales tripled.
+Moving to cardiovascular on slide 10, let's start with CAMZYOS. Sales in the first quarter nearly doubled, benefiting from strong global demand. Brand momentum in the quarter was driven by new patient starts and a 19% increase in total prescriptions for the three months ended March 31. We continue to expect steady growth of CAMZYOS in 2025 due to its compelling efficacy and safety profile in obstructive HCM.
+Turning to Eliquis. Global sales were down 3% in a quarter, mainly due to the impact of Medicare Part D redesign in the US. We continue to expect total Eliquis revenue to be stronger in the second half of the year, primarily due to Part D redesign and elimination of the coverage gap.
+Moving to immunology on slide 11, across our immunology portfolio, we saw higher commercial rebates, as previously discussed, related to improved access and Medicare Part D redesign. First quarter Sotyktu sales reflect the demand growth and gross to net impacts related to higher commercial rebates. We will continue to leverage our broader axis position to drive further demand growth.
+Now moving to slide 12, in its first full quarter on the market, COBENFY is off to a solid start with sales of approximately $27 million, driven primarily by demand. During the quarter, weekly total prescriptions remained strong, tracking ahead of all branded schizophrenia launched benchmarks.
+Now let's move to the P&L on slide 13. Gross margin was approximately 73%, primarily due to product mix. Operating expenses were more than $500 million lower compared to the same period last year, primarily reflecting the results of our strategic productivity initiative. Our effective tax rate in the quarter was 15.1%, primarily driven by earnings mix, and overall diluted earnings per share were $1.80.
+Turning to the balance sheet and capital allocation highlights on slide 14, our financial position remains strong, with approximately $12.1 billion in cash equivalents and marketable securities as of March 31. We generated cash flow from operations of approximately $2 billion in the first quarter. In terms of capital allocation, we maintain our strategic and balanced approach. As Chris highlighted earlier, business development remains a top priority, and we continue to actively assess opportunities in line with our strategy, and we remain on track with our plan to pay down $10 billion of debt relative to our March 31, 2024, balance. Our capital allocations also include rewarding shareholders through the dividend. 2025 marks our 93rd consecutive year of dividend payments.
+In addition to strategically allocating capital, we are also driving operational excellence through our previously announced strategic productivity initiative. With respect to our 2025 expansion, we expect to realize approximately $2 billion in annual cost savings by the end of 2027, and we remain on track to deliver $1 billion of these savings by the end of this year.
+Now turning to our outlook, starting with revenue on slide 15. We are increasing our full-year revenue guidance to a range of approximately $45.8 billion to $46.8 billion, reflecting strong performance of our growth portfolio, better-than-expected legacy sales in the first quarter, and a favorable impact of approximately $500 million related to foreign exchange rates relative to our previous 2025 guidance.
+Additionally, we now expect legacy portfolio to decline approximately 16% to 18% for the year, a more moderate rate than previously anticipated, due primarily to REVLIMID's strong Q1 performance. We now project full-year sales of REVLIMID to be at the top end of our previously guided range of $2 billion to $2.5 billion. We maintain our gross margin guidance at approximately 72%. We continue to expect underlying operating expenses to be approximately $16 billion with an additional impact of about $200 million due to foreign exchange rates.
+Expenses are now anticipated to be higher in the second half of the year compared to the first half, reflecting timing of investments. Our operating margin target of approximately 37% for the full year remains unchanged.
+For OI&E, we now expect annual income of approximately $100 million due to higher-than-anticipated royalties and favorable interest income. Although the first quarter tax rate was slightly lower than our full year projection, we're maintaining our full-year tax rate guidance of 18%. As a result of these changes, we are raising the midpoint of our 2025 non-GAAP EPS guidance by $0.15 per share, with an expected range between $6.70 and $7. Our revised guidance includes the estimated impact of current tariffs on US products shipped to China but does not account for any potential pharmaceutical sector tariffs.
+In summary, our strong performance in the first quarter reflects our focus on disciplined execution. We are well positioned to manage the near-term uncertainty in the macro environment while advancing our long-term growth strategy.
+And with that, I'll now turn the call over to Chuck for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Christopher Schott, JP Morgan.
+
+--------------------------------------------------------------------------------
+Christopher Schott,  J.P. Morgan Securities LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Maybe just two ones for me. Just first bigger picture, I think about tariffs and the 232 stuff that's going on right now, can you just provide any color on the company's US manufacturing footprint ability to shift manufacturing to the US over time just in general your ability to navigate this dynamic. I know the details are lacking right now, but just maybe just help frame out how you're thinking about this.
+And then the second question for me was on COBENFY just in light of the adjunctive results we saw. Just talk a little bit about what this does for your outlook on COBENFY, and just how you think about kind of use in adjunctive given the negative trial results we saw. Thanks so much.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [3]
+--------------------------------------------------------------------------------
+
+          So thanks for the questions, Chris. I will start with your tariff question and I'll turn it over to Adam to address COBENFY.
+So first, let me just say at the outset that we certainly appreciate the administration's efforts to enhance US manufacturing as we think about the pharma sector though, obviously that needs to be done in a very thoughtful and deliberate way. And as you can appreciate, there's a lot that we don't know here. We don't have specifics on the outcome of this investigation, but our hope is that wherever this lands, we ultimately end up enhancing the competitiveness of US companies like BMS.
+We are a significantly US-based company today. We have been up investing in core infrastructure in the US for many years, so we need to ensure that ultimately our trade policies enhance the sector and support efforts like the ones we've been making in terms of our exposure again what we've said is the tariffs that have gone into place, namely around China, have been reflected in the guidance that we've provided today. It really is simply too early to provide a lot more on pharma-specific sectors, so we'll have to wait for the specifics there, and once we have them, obviously we'll continue to update you.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [4]
+--------------------------------------------------------------------------------
+
+          Adam, do you want to talk about COBENFY?
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [5]
+--------------------------------------------------------------------------------
+
+          Sure. As Chris stated in his opening remarks, we don't expect these data to have a meaningful impact on COBENFY sales, Chris. Recall about 70% to 80% of patients are treated with monotherapy, and clearly that's the most significant commercial opportunity and it's also the treatment goal for psychiatrists.
+What happens in the real world, psychiatrists exhaust monotherapy options before trying adjunctive use, and that's after several failed monotherapy treatments happening later in line, third line, fourth line, plus. Our focus is moving COBENFY earlier in treatment. That's exactly what we've been seeing in the market. In fact, roughly 40% to 50% of the COBENFY prescribing today is now in second line and third line.
+And so physicians have also told us both in research and through advisory boards that missing the endpoint of the study would have no impact on monotherapy usage or their willingness to use COBENFY, particularly when you look at the safety of the study results.
+There's a significant unmet need that still exists for patients with schizophrenia, and COBENFY fills the need with its efficacy and safety profile, and that's why we're seeing strong uptake in the market since launch with positive feedback from both physicians and for patients. So we're going to continue to execute our plan for COBENFY to come to foundational monotherapy treatment, and we have a clear opportunity to continue to drive significant growth.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Adam operator.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [7]
+--------------------------------------------------------------------------------
+
+          Can we take our next question, please?
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Mohit Bansal, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          So Chris, a big picture question for you. I mean, given that -- I mean, there has been a lot of cost rationalization over a period of last couple of years. How are you thinking about R&D here? I mean, again there have been a couple of setbacks here with melanoma and all, but as going forward, I mean when you think about taking bets, I mean is there a change in the thought process and how are you thinking about the future pipeline and [riskiness socket].
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Well, let me say a few things and then obviously just given the focus on R&D, Samit, you can certainly weigh in here.
+As you noted, we've been spending a lot of time over the last 18 months focused on a few key things. First, making sure we're driving strong execution, that strong execution in commercial, but really across the enterprise. And I think you see -- you've seen the fruits of those efforts in terms of our performance last year and continuing in the Q1 performance.
+Second, as you know we've spent a lot of time focusing on making the organization more efficient and more agile that was reflected in the cost optimization efforts we had last year as well as in the $2-billion initiative that we announced in our Q4 call.
+And then third, driving additional productivity coming out of R&D and importantly, delivering on the swath of new opportunities we have coming out of our mid-to-late stage pipeline, and that's going to continue to be a focus. And as I step back and look at the opportunities for the company, the confidence that I have that we can deliver on the growth ambitions for the company in part driven by our internal R&D pipeline remains absolutely unchanged.
+It's important to keep in mind that while the two studies that read out over the last couple of weeks were certainly not the results that we had hoped for, as we said in our prepared remarks, they have no financial or modest financial impact on the company and no impact on the prospects for growth coming out of the decade. And so we're going to continue to stay focused on delivering against that pipeline. We're going to continue to invest in strong areas of science where we have the opportunity to add significant value and we can deliver on our mission for patients and for shareholders.
+And also keep in mind that we are in a very strong financial position, that financial position gives us a lot of strategic flexibility to continue to source innovation externally, which we'll also be very much focused on from a capital allocation standpoint.
+Samit, you want to (multiple speakers)--
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [11]
+--------------------------------------------------------------------------------
+
+          Yeah, just to add a couple of things, Chris. Thanks, Mohit, for the question.
+If we just were to put this into context, what has happened over the last five years since I've been here at least. We've had 43 major approvals since that time, so that speaks very loudly of the productivity of this organization, and this is in the top quartile, 98 percentile actually if you look across the industry from a KMR data perspective.
+Certainly, the three setbacks that you talked about are very notable that we've taken into account from an R&D perspective. We learned from these but what it does is now we have to look forward as the vision has already been created, looking forward to 10-plus new molecular entities that we want to bring forward by the end of the decade and 30-plus new indications that we have planned for by the end of the decade, and they will start reading out now and we just started early, yes. But a small opportunity would be in myelofibrosis that will read out later this year. There is of course adapt, which is very eagerly awaited by everyone just like us. And then in 2026, there's a slew of readouts for new molecular entities. So we are well planned for that one and looking forward to just growing the portfolio from there on.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [12]
+--------------------------------------------------------------------------------
+
+          All right, thanks. Let's move to our next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Luisa Hector, Berenberg.
+
+--------------------------------------------------------------------------------
+Luisa Hector,  Berenberg - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Maybe, just another question on COBENFY. I'm just wondering how the readout from ARISE impacts your levels of confidence in Alzheimer's psychosis readout, and perhaps any additional trials that you may be planning.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [15]
+--------------------------------------------------------------------------------
+
+          Thanks, Luisa. I'll ask Samit to take that.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [16]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks, Luisa for the question.
+ARISE data has no impact as we think about Alzheimer's disease psychosis. There are a few reasons for that. One, obviously the disease is very different. Two, Alzheimer's disease overall plan in psychosis as well as future looking cognition impairment and agitation, those are based on the data that have already been generated many years ago, a couple decades ago for xanomeline where it showed statistically significant benefits in the behavioral patterns in patients with Alzheimer's disease.
+Also from a design perspective, in Alzheimer's disease psychosis, there's a longer duration of treatment of up to 12 weeks, which is obviously going to be beneficial as we think about observation of output for primary and secondary endpoints. So overall confident in the conduct of our studies and as you know, we're also initiating several studies as Chris spoke about earlier, seven different Phase 3 trials this year. So really looking forward to initiation of that program.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [17]
+--------------------------------------------------------------------------------
+
+          Great, thank you. Let's move to our next question.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Geoffrey Meacham, Citi.
+
+--------------------------------------------------------------------------------
+Geoffrey Meacham,  Citi - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Chris, just got a couple for you, another one on tariffs. Maybe if you could just talk about it at a high level in the flexibility of transfer price assumptions either maybe from an IP or tax or site of manufacturing. I wasn't sure also about your ability to step up inventory as a potential strategy as well.
+And then second on BD, just given recent deals for Chinese assets, but also how low valuations are across US SMid biotech, how do these factor in your strategy, or your urgency, et cetera.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [20]
+--------------------------------------------------------------------------------
+
+          Thanks for the questions, Geoff. I hope you're doing well. I will start and then I will ask David to chime in a bit on the transfer pricing component of your tariff question.
+Obviously, as I said earlier, we've got a lot that we still have to wait and see that comes down with respect to the impact of any pharma industry sector tariffs. We appreciate the fact that the administration is taking time to study this issue. You know well, Geoff, that in this industry our manufacturing networks are incredibly complex. They're global supply chains. You have inputs coming from all over the world. There are long lead times in terms of making changes to the supply chain, manufacturing processes are highly complex, and certainly with respect to BMS, the medicines that we make are critical for patients and can't be easily substituted.
+Having said that, in anticipation of potential tariffs, we continue to execute mitigation efforts. We have a broad global manufacturing network where we're looking for opportunities to optimize with tariffs in mind. As I mentioned, we already have a significant presence in the US, and we're continuing to invest and we have already undertaken efforts to reduce risks of disruption and shortages as a result of efforts like onshoring, and we're going to continue those efforts. We're also going to continue to engage with the administration to ensure that ultimately whatever comes down is well thought through and deliberate in terms of how we move forward.
+But David, anything you want to comment on transfer pricing and then I'll come back to BD.
+
+--------------------------------------------------------------------------------
+David Elkins,  Bristol-Myers Squibb Co - Executive Vice President, Chief Financial Officer    [21]
+--------------------------------------------------------------------------------
+
+          Yeah, so, Geoff, thanks for the question.
+BMS, we have a really broad manufacturing network both in the US and globally, and we're not overly relying on any single country in terms of our supply chain. The situation relates to tariffs continues to evolve, and we're closely assessing. We have a cross-functional team in place that's evaluating the flexibility and we have a tremendous amount of flexibility to be able to move our manufacturing around should any potential tariffs come up. As we learn more and there's more specifics, obviously we'll update you when that becomes known, but as Chris said previously, we continue to ensure the administration as well as policymakers understand the impact of these tariffs and as well as any potential future actions both on patients as well as the industry.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [22]
+--------------------------------------------------------------------------------
+
+          And then Geoff, with respect to business development, business development is our top capital allocation priority that includes both partnerships and acquisitions. And of course, as you note, we're going to source that innovation from wherever it comes, and there's certainly a lot of exciting innovation taking place in China.
+We're going to be focused on a few things though. We're going to be focused on strengthening our position in the core TAs that we operate in. That's bringing in promising areas of science, assets where we can improve the growth profile of the company. And what's important is that we like the science and we feel we're the rightful owners. The financials make sense and again that's strengthening the growth profile in key areas, and we believe that we can drive value for the company and shareholders. And if we hit those criteria, then we certainly have the financial ability to execute and move quickly.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [23]
+--------------------------------------------------------------------------------
+
+          All right, thanks Chris. Next question please.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Evan Seigerman, BMO Capital.
+
+--------------------------------------------------------------------------------
+Evan Seigerman,  BMO Capital Markets - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          I wanted to touch on the rumblings we're hearing about the potential implementation of most favored nations' pricing potentially with regard to drug price negotiation, the IRA. I guess what are you hearing and more importantly, what's your stance on how that could impact negotiations for IRA on drug prices going forward?
+And then secondary I'd love to touch on the potential impact, positive impact of the relaxed cardiac monitoring for CAMZYOS and how this could help accelerate sales with that franchise?
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          Well, let me start, Evan, thanks for the questions, and then I will turn it over to Adam on the second part of your question.
+Clearly, with respect to MFN and international reference pricing, there's a lot of focus here. I think the President and the administration is rightfully focused on the differential between US and ex-US net pricing. The way we think about it is I think you have to look at both sides of that equation.
+With respect to ex-US net prices, we actually agree with the administration. Countries outside of the US need to be allocating more healthcare spending to innovative medicines, so we're engaging directly with the administration, working with our pharma partners of course, and supporting the administration's efforts here to leverage whatever tools they can to get ex-US countries to allocate more of their health care spending to the types of innovative medicines that we developed at BMS.
+In terms of the US pricing environment, I think our perspective really is unchanged here. We have to address the complexity of the US health care system. $0.65 of every $1 spent on pharmaceutical products in the US goes to middlemen. These are entities that don't discover, develop, or deliver medicines to patients. These are entities that because of their market power also have control over what patients pay in terms of co-pays, and there are ample opportunities to make that system more complex and ensure that ultimately any rebates that we provide as industry are ultimately go to improve what patients ultimately have to pay for medicines.
+Beyond that, I would say we continue to be focused on addressing other aspects of health care, notably fixing some of the more egregious aspects of IRA, the pill penalty, and addressing spillover risk come top of mind there. And of course, we continue to be very focused on and concerned about abuses in the 340B program, and that's going to be a big focus area of ours as well.
+Adam, do you want to take the second part of that question?
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [27]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Evan, for the question.
+So we've continued to deliver strong growth for CAMZYOS. We've virtually doubled sales versus prior year in the quarter and our goal has been to ease the burden of echo requirements for both patients and physicians and based on our long-term clinical data as well as the robust data collection, our label change reflects the FDA's confidence in the safety and efficacy of CAMZYOS. Now with over 15,000 patients prescribed CAMZYOS in the United States.
+So the label has been updated to reduce the frequency of echo monitoring for patients taking CAMZYOS from every 12 weeks, now to once every 6 months in the maintenance phase. And this is going to, number 1, simplify processes of both patients and physicians. Number 2, it's going to open up additional capacity at the COEs, and as a result, physicians are going to be able to treat more patients. It reduces the burden on patients and physicians' time and alleviates resourcing at the COEs. I will say that we're just super early in the launch, but early customer feedback has been very positive since the label change, and taken together, we're seeing good momentum for CAMZYOS and we expect continued strong growth.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [28]
+--------------------------------------------------------------------------------
+
+          Thanks for the background, Adam.
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Terence Flynn, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence Flynn,  Morgan Stanley - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          I guess maybe two for me. First on the COBENFY launch, Adam, I was just wondering if you could elaborate a little bit on what you're seeing with the prescriber base right now in terms of kind of breadth and depth. And then, I know the slides also mentioned some one-time gross to net impact in the first quarter, so just wonder if you could elaborate on that and how we should think about the cadence of gross to net over the course of the year.
+And then David, I was just, well I know you're not going to give 2026 guidance yet at this point, but again, heard you reiterate the 37% op margin for 2025. But just, directionally, how should we think about 2026 as it seems like there are still a number of moving pieces as we think about next year.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [31]
+--------------------------------------------------------------------------------
+
+          Thanks for the questions, Terrence.
+Adam, then David.
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [32]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks, Terrence.
+So we're very pleased with COBENFY's launch performance. The launch is off to a strong start. We're now over 1,600 TRx's per week, and it's tracking ahead of all branded schizophrenia launch benchmarks. We've made very good progress achieving Medicaid and Medicare access. We're now at virtually 100% access across both channels, and we're making good progress with commercial payers. I mentioned earlier that because of this access, it's allowing us to move COBENFY up earlier in treatment, which is critical. And most importantly, we're hearing very encouraging feedback from both patients and physicians around COBENFY's efficacy and safety profile, physicians noting efficacy in positive symptoms, negative symptoms, and improvement in cognition and clarity of thought.
+We're also, I think a critical metric for us is growing number of new trialists, and we're seeing consistent growth week over week in new trialists since launch, and we've got an opportunity to continue to expand and reach the 30,000 psychiatrists that are on our target list. And so as we've said, we expect to see strong uptake over the course of 2025 with a ramp in the back half of the year after we continue to increase the frequency of calls to our customers and try to break those reflexive habits, but we know the work we need to do to maximize this launch, and we will make this a very big product for the company over time.
+Now as it relates to gross to nets, as you saw in the slides, we delivered $27 million in net sales for the quarter, and that was inclusive of $9 million in gross net benefit. So the underlying demand for COBENFY is strong, and at launch we made assumptions around payer mix and discounts. So Q1 essentially was a chew-up for favorable gross to nets in Q4. So we've been very disciplined in discretionary gross net spend. As you know, there are mandatory discounts in Medicaid. We now have very strong access, so we expect to see increases this year in gross nets for the full year. But again, we expect to see strong uptake over the course of the year with a ramp taking place in the back half of 2025.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [33]
+--------------------------------------------------------------------------------
+
+          David?
+
+--------------------------------------------------------------------------------
+David Elkins,  Bristol-Myers Squibb Co - Executive Vice President, Chief Financial Officer    [34]
+--------------------------------------------------------------------------------
+
+          Great, and look, as far as 2026, we're not going to provide guidance on this call, but the way I would think about it is we remain very financially disciplined, by this strategic productivity initiatives that we've rolled out and as we said, we're well on our way this year to delivering $1 billion in savings relating to that and on track for that $2 billion by '27. So that gives us a lot of flexibility.
+Also, we continue to leverage AI and look to further automate, which is making us even more efficient, so we see greater opportunity there as well. And as we've shown in the past, we're constantly looking at our portfolio and prioritizing that accordingly.
+So all of that being said, we feel we have a lot of levers to continue to manage this business, but at the same time, Terrence, we're going to invest in long-term growth of the company as well, and that's critically important to strengthen that growth position. And as we said, our cash position remains strong, business development remains a priority, so we look to bring in to strengthen that portfolio and bring in new assets which we'll invest behind.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [35]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, David.
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Trung Huynh, UBS.
+
+--------------------------------------------------------------------------------
+Trung Huynh,  UBS - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Just a couple on CAMZYOS from me. So, one on the Alzheimer's psychosis trial, just what's your expectations for the bar for that study? What's a meaningful reduction in hallucinations and delusions we should be thinking about?
+And then the second, just a clarification on the CAMZYOS's gross to net question. If you back out the COBENFY numbers, ex-that one off, it looks like gross to net is 35% to 40%. I think you just said that we should be thinking about that increasing, but you've also previously said you should have modest discounts above Medicaid statutory rate, which is like 23%. So are we thinking that gross to net increases from 35% to 40%? Are you having to be more aggressive on rebates for traction?
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [38]
+--------------------------------------------------------------------------------
+
+          Let me have Samit take the first part of your question, which I believe was on COBENFY, and then the second part of your question, I'll ask Adam to take.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [39]
+--------------------------------------------------------------------------------
+
+          Yeah so for COBENFY ADP trial, remember these are trials that are being compared to placebo, and what we have to show is statistical significance in the primary endpoint for NCI hallucinations and delusions in this patient population. So we're not predefining as to what the real number needs to be to be clinically meaningful. I think over here, there are no drugs approved, so I think all improvements are good, but what we do know from the prior studies of xanomeline, there have been remarkable improvements not only on these symptomatologies but also other elements such as cognition. So we will continue to monitor that. The data will read out for the first trial in the second half of this year, so at that time we'll be able to share more.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [40]
+--------------------------------------------------------------------------------
+
+          Adam?
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [41]
+--------------------------------------------------------------------------------
+
+          Yeah, it relates to the growth nets, we don't share specific discounting rates, but as I mentioned, we've been very disciplined in discretionary gross net spend. And so when you look at the gross to net impact for the first quarter, what we saw this was just a chew-up for a projection that we made that was favorable in Q4. So we will have increased in gross to nets for the full year because we have now 100% access virtually in both Medicaid and Medicare.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [42]
+--------------------------------------------------------------------------------
+
+          Thank you, Adam.
+Let's take our next question.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Courtney Breen, Bernstein.
+
+--------------------------------------------------------------------------------
+Courtney Breen,  Bernstein SG - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          A couple from me, the first kind of as it relates that relates to tariffs, we've seen a number of companies come out and make statements about kind of their capital investments within the US in manufacturing and R&D kind of both backward looking as well as forward-looking. So I wonder if you could provide some comments on kind of Bristol's perspective there in terms of committed capital expenditure going forward.
+And then the second question is just as we think about kind of M&A and I know there's been a couple of questions on this so far, you've also got some kind of key data cards to turn over. Milvexian, I think, is one of the big ones as well as some of these kind of subsequent COBENFY trials. And so can you talk a little bit about kind of how you're approaching making those M&A decisions in the context of kind of internal success rates and kind of waiting for sequencing of those data cards to turn over.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [45]
+--------------------------------------------------------------------------------
+
+          Sure, I'll take both of those.
+So first, as I mentioned earlier, we're a company that's significantly based in the US today. If you look back over the last number of years, we've been up-investing in core infrastructure that's infrastructure related to R&D technology as well as CapEx. And we certainly have plans to continue to invest in those very same areas in the US in the coming years.
+So again, what ultimately transpires with trade policies we hope will ultimately enhance the sector and support efforts like the ones that we've been making, and support the competitiveness of US companies.
+With respect to business development, obviously business development has been a priority for the company from a capital allocation standpoint for a number of years. It's going to continue to be our top allocation priority this year.
+If I step back and look at how we've thought about business development, we really don't think about it in terms of the relationship between specific data readouts of our own internal program. It's always been a way that we've thought about sourcing new science and new innovation. And so in some ways you can think about those things as very distinct.
+When you look at what we've been doing over the last 18 months, we were very clear last year that we were going to focus on execution, we were going to focus on digesting the deals that we had done at the end of 2023, and most importantly, as part of that, ensuring that we got COBENFY off to a very strong launch. When I look at it, I think we delivered on all of those things.
+So as we think about this year, there's certainly no endogenous constraints or specific events that we have to see for us to be able to execute on business development. We're going to go back to the criteria I referenced earlier, the science looks good. If it's an area that we think we can add value and most importantly, if we believe it can enhance the growth profile for the company exiting this decade, we certainly have the financial horsepower to be able to execute and execute quickly.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [46]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris.
+Let's move to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Tim Anderson, Bank of America.
+
+--------------------------------------------------------------------------------
+Tim Anderson,  Bank of America - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          I have a question on long-term guidance. So Chris, when you took over, you, kind of stopped, providing those or you guys kind of withdrew some of the elements that you had given. Can we expect you to revisit this at some point? I know on trough guidance you said end of the decade. I think the key there is, the absolute level of the trough number. So wondering if you can assure us that it won't go lower than $6 a share that's kind of where a lot of analyst numbers thought out.
+And then the second question is just transfer pricing. So companies commonly have these set up with major brands, not all brands, levels of disclosure, next to nothing, any color you can share in which particular brands Bristol has transfer pricing arrangements in place such that if tariffs come through in Europe that [ensnares] this, we have some idea of which brands might be impacted.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [49]
+--------------------------------------------------------------------------------
+
+          Thanks for the questions, Tim. I'll start and then I'll turn it over to David to talk about transfer pricing.
+We're not going to be giving long-term guidance as a standard course, and this is what we've discussed previously. That's a philosophical point of view. Our focus is as you know and as we've been discussing, is to drive sustained top-tier growth as we exit the decade. We've talked at length over the last 18 months about how we're going to deliver on that.
+And the way we think about guidance, Tim, is we want to give you guidance that is a clear line of sight to the things that we're going to hold ourselves accountable for and that you can ultimately hold us accountable for and that's what we're going to do with respect to all of the guidance elements that that we've done so we.
+We really have fixated on going back to what the company has done historically, which is to provide annual guidance. And then of course, as we did today, we update that guidance as the business conditions warrant.
+With respect to trough, I think that's going to -- how we talk about trough will be very aligned to that philosophy. But rest assured, the way we think about trough is we're going to do everything we can through either accelerating our internal clinical programs, continuing to engage in business development. And just executing across the enterprise to ensure that we do everything we can to shorten the depth of that trough, move it in as close as we can so that we can again return this company to sustained long-term growth and do that certainly by the time we exit this decade. David? do you want to talk about (multiple speakers)--
+
+--------------------------------------------------------------------------------
+David Elkins,  Bristol-Myers Squibb Co - Executive Vice President, Chief Financial Officer    [50]
+--------------------------------------------------------------------------------
+
+          Tim, look, on transfer pricing, I know these question has come up a few times. Transfer prices are determined by tax law, both tax law in the United States as well as tax law in the other jurisdictions in which we operate. So from a tariff perspective, I would not be thinking transfer pricing. Transfer pricing is determined by tax laws and the jurisdictions in which we operate.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [51]
+--------------------------------------------------------------------------------
+
+          Thanks, David.
+Let's move to the next question, operator.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          David Risinger, Leerink Partners.
+
+--------------------------------------------------------------------------------
+David Risinger,  Leerink Partners - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Yes, thanks very much and thanks for all the updates. So I have two questions. First is high level and then one is on COBENFY.
+So the industry is obviously facing three major government threats in the United States. Number one, actions that are harming US biopharma innovation, including HHS cuts and questioning and criticism of esteemed medical scientists. Second, tariff threats. And third, the Trump administration's agenda to take down drug prices more than the Biden administration.
+So considering what appears to be a lack of appreciation in Washington on the benefits of the biopharma industry to the American public at large, and to the economy in the country, could you comment on how Bristol's leadership team and Board are engaging differently today with Washington to defend the industry and company?
+And then separately regarding the COBENFY adjunctive trial failure, could you talk about the more disappointing results in the risperidone subgroup and whether the company believes that risperidone DDIs with COBENFY may have impacted the efficacy in that subgroup and how you may potentially evaluate COBENFY in combination with other therapies in the adjunctive setting in the future?
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [54]
+--------------------------------------------------------------------------------
+
+          Thanks for the questions, David. I'll ask Samit to start and then I'll come back and answer your more general questions.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [55]
+--------------------------------------------------------------------------------
+
+          Sure, thank you, David, for the questions. So for our ARISE, certainly as David has already -- Chris has already mentioned, we saw a notable improvement in terms of band scores. If you think about patients who received the non-risperidone antipsychotic therapy. Certainly, we are evaluating and assessing all avenues in terms of understanding the data on risperidone population, including the DDI potentials and [PGP and 2D6] and all of those enzymatic pathways.
+With all of that said, there is a lot more work to be done to look at other end points in the trial as well. Once all of that is done, then we will be able to define the next steps soon, which could include engaging. With the regulators, apart from obviously the treating physicians as well as conducting additional studies as we look to the future.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [56]
+--------------------------------------------------------------------------------
+
+          And then with respect to your more general industry question, look, I think we agree with your perspective that America has a real gem in the biopharmaceutical industry. Over 70% of the research and development in this space takes place in the United States, and what drives that is a very healthy ecosystem that supports innovation, rewards innovation, and ultimately ensures that companies like ours can do everything we can to deliver innovative medicines to patients and do so quickly. Americans have benefited from having access to more innovation faster than patients anywhere else in the world.
+At the core of that is an ecosystem that starts with having strong government support for early research and also setting clear rules of engagement from a regulatory framework. Just to be clear, we have not seen a notable impact on our business from any of the changes taking place in Washington. We're obviously going to closely monitor implications of changes, but just to be clear, as of today, we've not seen any real impact on our business.
+Having said that, we're going to continue to do what we've always done, which is focus on strengthening the ecosystem for innovation in the US. That means ensuring that we are able to continue to invest in strong areas and interesting areas of science supported by a strong intellectual property framework. We're going to also continue to engage with the government on pricing and the support of the payment for innovation on the back end. We've talked about the need to fix the more egregious aspects of IRA, notably the pill penalty and addressing some of the spillover risks that we saw in IRA.
+We also want to ensure that we're making the US ecosystem less complex. That means addressing the role that middlemen play. And then an area that we absolutely agree with this administration is outside of the US getting countries to allocate more healthcare dollars to support innovative medicines like those that we make at Bristol-Myers Squibb. So those are really our main areas of focus. We're going to continue to engage with our pharma partners to engage the administration. We'll also be engaging directly, and that's going to be our continued focus.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [57]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris. Let's take our next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          Carter Gould, Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+Carter Gould,  Cantor Fitzgerald - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          The BD messaging is coming through clear, and the focus on that endogenous events won't be a stage gate is clear. I guess my question is more on exogenous events and the extent to which uncertainty around tariffs, FDA, drug pricing environment are stage gates to being able to move on drug pricing either a hold-up on your side or on the target side.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [60]
+--------------------------------------------------------------------------------
+
+          I'll take that one, Carter.
+I think you mean that any of those exogenous factors having an impact on our ability to do business development. Look, I think, we clearly have been focused on putting ourselves in a very strong financial position. We do that by, frankly executing on the business as you saw us do in this quarter that we've been discussing today.
+But also, as David referenced, by continuing to focus on making the company more efficient and more agile, that enables us to pull costs out of the system and puts us in a stronger position. That financial flexibility gives us the ability to be much more engaged on business development and frankly, that I think is way more important than any of the exogenous factors that you referenced.
+And so again I would just reiterate business development remains our top priority. We have the financial position to move on business development, but we're also going to be very disciplined. We're going to stay focused on those opportunities where we like the science, where we're the rightful owners, and importantly where we can continue to improve the growth profile of the company.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [61]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris. Let's take our next question.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Steve Scala, TD Cowen.
+
+--------------------------------------------------------------------------------
+Steve Scala,  TD Cowen - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Two questions, probably both for Samit.
+Just to be absolutely clear on your prepared remarks and answers to questions, and I know that you need to speak with regulators, but Bristol seems to see a path to positive regulatory action on the existing ARISE data. Is that correct or is there no such path?
+So that's the first question. Second question is to what extent did the Milvexian Phase 3 trial benefit from the competitor Phase 3 stoppage, for instance? Did enrollment jump 10%, 20%? And given that, why hasn't timing of the primary endpoint changed? Were events, for instance, running behind in the patients previously enrolled before the competitor setback.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [64]
+--------------------------------------------------------------------------------
+
+          Samit, do you want to take those?
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [65]
+--------------------------------------------------------------------------------
+
+          Yeah, thank you, Steve. As usual, great questions.
+For ARISE, look, we would not obviously speculate right now. As I said earlier, we do need to do all of the work to understand all of the data, including the additional endpoints that we have not yet looked at. And we will plan to then engage with the regulators to define what the next steps would be.
+For Milvexian, we certainly continue to manage and monitor the events that we are observing. As we've said before, our overall event rate remains very low for atrial fibrillation trial. We have not re-projected the timelines. We will continue to work together, J&J and ourselves, and we will communicate if there is a change in the timeline in terms of the readout.
+As you know, we've already communicated, but we still look forward to the readout for the ACN SSP trial in 2026, and then AF is in 2027. We've already completed enrollment. We've communicated that as well for the AF trial. So overall all on the right track, and we'll keep you posted if the timelines were to change with the evolution of the events.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [66]
+--------------------------------------------------------------------------------
+
+          Right, thanks, Samit.
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Seamus Fernandez, Guggenheim.
+
+--------------------------------------------------------------------------------
+Zach Dunn,  Guggenheim - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          This is Zach Dunn on for Seamus Fernandez. Thank you for the questions.
+A few from us on CAMZYOS and your CMI portfolio. Firstly, how defensible is your first-in-class position with CAMZYOS such as your establishment at HCM centers and updated REMs in light of aficamten potentially coming to market this year?
+And then to non-obstructive HCM and myosin inhibition, what read through, if any, might there be to your development efforts in HFpEF? How would you characterize prospects for success in HFpEF with MYK-224?
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [69]
+--------------------------------------------------------------------------------
+
+          Thanks, both great questions. Adam and Samit.
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [70]
+--------------------------------------------------------------------------------
+
+          Yeah, let me start. Thanks for the question.
+So as I mentioned, we continue to deliver strong growth and steady growth with CAMZYOS. We've established a very strong revenue base and expect continued growth from expanding our prescriber base. We're seeing very high persistency, so long durations of treatment, and we're continuing to add new patients each and every week. We're focused right now on increasing our depth of prescribing in the large COEs, and the label change that we mentioned earlier should help accelerate that. We're also making good progress expanding into community of cardiology accounts, and we're seeing solid growth, and increasing number of trialists each and every week.
+As it relates to competition, we've always planned for competition in the space. We don't see any meaningful clinical differentiation versus at the aficamten. We've now had the opportunity to talk to literally hundreds of thought leaders, and almost all have said that aficamten and the data that they presented appears undifferentiated. So it's going to be important to see what their date and their label looks like later in the year. But we'll be prepared for when aficamten comes to market we maintain a consistent view that we will remain leaders in this space.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [71]
+--------------------------------------------------------------------------------
+
+          Yeah, and thank you for the question on the NHCM results and the impact on HFpEF for MYK-224. Look, we still have to do a lot more digging into the data, as Chris has mentioned. We do know obstructive hypertrophic cardiomyopathy versus a non-obstructive hypertrophic cardiomyopathy, there's a suggestion of a differential disease because of the outflow tract obstruction in one versus the other.
+As it relates to HFpEF, remember how NHCM study was designed and where we had seen the impact on the biomarkers, NT-proBNP as well as on the troponin T. We had hoped that those changes in the biomarkers will translate into a clinical benefit and outcome in NHCM did not happen. However, as we think about HFpEF, these biomarkers have tracked historically as we think about the other trials in HFpEF and other drugs that have worked in HFpEF as we think about the overall functionality of the heart.
+So it's too early to say what the outcome is going to look like. We are conducting a large cohort of -- we are enrolling a large cohort of patients in the Phase 2b -- Phase 2a study that we are conducting right now for MYK-224. Once those results are available, then we'll be able to say more. The impact overall on the HFpEF program, I think it's too early to comment on that.
+
+--------------------------------------------------------------------------------
+Operator    [72]
+--------------------------------------------------------------------------------
+
+          Asad Haider, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Asad Haider,  Goldman Sachs - Analyst    [73]
+--------------------------------------------------------------------------------
+
+          Maybe just going back to capital allocation and I know a lot has been answered already, but just if you could just unpack, Chris, what's driving this renewed emphasis on BD, if you could unpack that a little bit more in the context of the lack of visibility on some of the structural challenges that the industry is facing and then any comments on size and what exactly you're looking to solve for as you scan the landscape of external assets. Is it near-term revenue growth or earlier-stage assets and what are the therapeutic areas of interest?
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [74]
+--------------------------------------------------------------------------------
+
+          Sure, well, let me be really clear. Capital allocation focus, the focus that we have hasn't changed. Business development is a top priority. We said that last quarter and the quarter before that. We are focused on strengthening in our key therapeutic areas that we know well and improving the growth profile of the company. Those are the things that I think we've consistently said.
+With respect to size, we don't evaluate opportunities focusing on size. What I would say is that the way we think about any opportunity from a business development standpoint is we put it through a set of filters. We're in a strong position to do a lot of things, but the way we think about it is does it strengthen the therapeutic areas that we're in, and you know those well.
+Are the areas where we have an ability to add to the science and we're the rightful owners of it? Do the financials make sense? And the one thing that we've been consistent in overlaying on those criteria is does it improve the growth profile of the company at the back end of the decade and going into the 2030s, and those are the criteria that we've consistently been using, and those will be the main priorities.
+Of course around that we'll continue to look for opportunities for earlier stage programs, but I would say that's how we think about our top priorities right now.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [75]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris.
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+
+          Matt Phipps, William Blair.
+
+--------------------------------------------------------------------------------
+Matt Phipps,  William Blair - Analyst    [77]
+--------------------------------------------------------------------------------
+
+          Two quick ones. I know it's early days, but any particular indications or physician settings where you're seeing more adoption or more interest in Qvantig so far?
+And then independent styles coming up. Just how meaningful is this market opportunity expansion and can you give us any sense of what would be a clinically meaningful benefit and transfusion independence.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [78]
+--------------------------------------------------------------------------------
+
+          Adam?
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [79]
+--------------------------------------------------------------------------------
+
+          Yeah, Matt, thanks for the question. We're making good progress with Opdivo Qvantig. We're now around three months post launch. The feedback's been positive. What we're seeing is the majority of the youth thus far has been in the community setting, about 80% as expected, and we're focused on continuing to increase breadth of prescribing and doing that both in community and in academic settings. What's encouraging is we're seeing physicians use Opdivo Qvantig across multiple tumor types, and so as a result, the uptake is tracking right in line with their expectations.
+So the last thing I'll mention is what we have shared previously. We were issued a temporary J-code like all Part B biologics, and that does impact reimbursement timing. And so some accounts are waiting on the sidelines for a permanent J-code. Therefore, sub-2 conversion will take time to ramp. We'll get that J-code July 1 issued and thus we expect the second half ramp. So overall, we're pleased with what we're seeing in the early days of the launch.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [80]
+--------------------------------------------------------------------------------
+
+          And I think the second question was regarding MF overall opportunities, so (multiple speakers)--
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [81]
+--------------------------------------------------------------------------------
+
+          I could take that, too. So thanks for the question.
+So as it relates to myelofibrosis and anemia associated MF for REBLOZYL. The opportunity there is a pretty modest commercial opportunity. The majority of the business for REBLOZYL is going to be driven by the indication we have from commands, and that's first line. Our teams are focused on really driving that first-line RS negative patient. We're making good progress in the United States. We're also unlocking reimbursement outside of the US as well, so we expect continued growth there.
+The next readout for REBLOZYL that's going to be important is to be the non-transfusion dependent readout will open up another part of the marketplace, but again, we're focused on really driving the indications that we have today in first line. Thanks Adam.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [82]
+--------------------------------------------------------------------------------
+
+          Thanks, Adam. Let's move to our next question.
+
+--------------------------------------------------------------------------------
+Operator    [83]
+--------------------------------------------------------------------------------
+
+          Sean McCutcheon, Raymond James.
+
+--------------------------------------------------------------------------------
+Sean McCutcheon,  Raymond James - Analyst    [84]
+--------------------------------------------------------------------------------
+
+          So for the EXCALIBER study with MRD negativity readout later in the year, do you suspect that you could be able to obtain an approval on that MRD negativity outcome as an intermediate endpoint? And with the movement of CAR-T into second line and later, how do you think this shapes the opportunity, and the bar for utilization of iberdomide in the triplet if it does show benefit over DVD?
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [85]
+--------------------------------------------------------------------------------
+
+          Thanks for the question, Sean. Samit, you can start and then Adam maybe weigh in on the latter part of that question.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [86]
+--------------------------------------------------------------------------------
+
+          Sure. So remember the trial is designed with MRD and then there's the PFS and then there's overall survival as end points and again very important study for the second-line-plus population. The overall, as we look at the MRD data, we would have to look at the totality of the data that other end points are moving in the right direction because the supportive evidence would be needed from a regulatory perspective as the regulators look at this, that the other end points are not going in the opposite direction. So again, when the data reads out, we'll be able to say more in terms of the regulatory possibility.
+I'll just add one more thing in terms of the placement of iberdomide once the data are read out and if they're positive and the drug gets approved. Remember, we've talked about it before as well. CAR cell therapies are still limited to academic centers. There's a large amount of patients who are treated in the community setting. So small molecules and combinations are going to be required in the community setting and therefore, there is that unmet medical need that will be fulfilled with iberdomide and in the future mezigdomide as well.
+
+--------------------------------------------------------------------------------
+Adam Lenkowsky,  Bristol-Myers Squibb Co - Executive Vice President, Chief Commercialization Officer, Member of the Leadership Team    [87]
+--------------------------------------------------------------------------------
+
+          Yeah, thank you, Samit.
+So as you know this is a very crowded, competitive market, but as Samit was alluding to, it's a very fragmented market as well with a lot of room for additional entrance. So yes, cell therapies are moving up in lines of treatment, but they are moving up in treatment in these CAR T centers of excellence which represent a relatively small percentage of the market. In fact, the majority of the market, over 70% of multiple myeloma, is treated in the community as Samit was alluding to.
+What we're excited about for the novel CELMoD agents in multiple myeloma is that number one, they provide a tailored approach of efficacy with a manageable toxicity profile, combinability as well as an oral convenience. Samit talked about we've got four ongoing pivotal trials across iber and mezi. For iberdomide, it's a triplet combination, combining well with dara as well as moving even further upline head to head versus REVLIMID in a post-transplant maintenance setting.
+And for the EXCALIBER study or (inaudible), there's a lot of excitement there around the potency of mezigdomide which has the opportunity to read out as well potentially in early 2026. This is our most potent CELMoD combining well and triple combination with PI. So take it together, we're excited about the potential launches of these important assets.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [88]
+--------------------------------------------------------------------------------
+
+          All right. Thanks, Adam.
+Let's move to the next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [89]
+--------------------------------------------------------------------------------
+
+          Srikripa Devarakonda, Truist Securities.
+
+--------------------------------------------------------------------------------
+Srikripa Devarakonda,  Truist Securities - Analyst    [90]
+--------------------------------------------------------------------------------
+
+          I have one question on your radio franchise and then maybe a big picture question. Can you talk about expectations from grades 101 in first-line small cell lung cancer that's expected later this year? And then maybe a big picture FDA question, the FDA commissioner has recently made a lot of comments on his vision for changes at the FDA at different levels. Was there anything in particular that you think might have a significant impact on either the timelines or how you do drug development or post-marketing surveillance?
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [91]
+--------------------------------------------------------------------------------
+
+          Thanks for the questions, Srikripa. Maybe Samit, you could take both of those.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [92]
+--------------------------------------------------------------------------------
+
+          Yeah, thank you, Srikripa.
+So yes, truly looking forward to the readout of the Phase 1 study in extensive stage small-cell lung cancer, where the (inaudible) therapy has been combined with the background of chemotherapy, and what we're really looking for is primarily the safety and certainly efficacy will be looked at but again with an open-label study and single arm study, you'll have to compare that to the historical controls to see what the overall efficacy looks like, where chemotherapy does work well, but the durability has generally been challenging in terms of maintaining that response.
+All of that data is what we're expecting to see as we look towards the back end of this year as the trial reads out, and that will then set up the stage for taking it further in patients with SSDR2 expression in their small-cell lung cancer.
+From the FDA perspective, look, I think thus far what we've seen from our perspective that our approvals have come on time. In fact, some of the approvals have come before time if you think about the first-line HCC approval that we recently got as well as for the MSI-high colorectal cancer approval. Our meetings for -- across therapeutic areas continue to be on time. Some of them are actually in person now going forward.
+So overall we are very constructively and collaboratively working with the regulators to ensure that transformational therapies that we are developing are not delayed, and we will certainly continue to work with the administration as well as the regulators to convey the point if we start to see any change in those timelines for any of the activities that are going to be critical to bring these medicines to patients on time.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [93]
+--------------------------------------------------------------------------------
+
+          Thanks, Samit.
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [94]
+--------------------------------------------------------------------------------
+
+          James Shin, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+James Shin,  Deutsche Bank - Analyst    [95]
+--------------------------------------------------------------------------------
+
+          One for Chris. Sorry to belabor macro, Chris, but totally -- I totally understand the backdrop is still fluid. But is there an initial data point or policy decision that will inform next steps? For example, would having visibility on US corporate tax reform be a starting point or would you need the actual form of tariff rates or any color like that to budget accordingly.
+And then one for Samit. What are your thoughts on the recent PD-1/VEGF data sets? Specifically, does the data look consistent? Does it look competitive to PD-1? Just get your views there.
+
+--------------------------------------------------------------------------------
+Christopher Boerner,  Bristol-Myers Squibb Co - Board Chair and Chief Executive Officer    [96]
+--------------------------------------------------------------------------------
+
+          Maybe I'll start and then Samit, you can take over.
+Look, I think that there are multiple aspects of the policy environment that are in flux and we're going to be monitoring each and every one of those. I don't think there's one that rises to a more prominence than the other. They're all important at some level.
+What I would say if you just step back though, if the goal here is to ensure that we continue to invest in research and development and that we're investing in the United States, one thing we should not overlook is one of the comments -- one of the points you just made, which is the importance of tax policy. The US tax rate and making the US corporate tax rate more competitive is critically important.
+In fact, when you go back to 2017 and the corporate tax rate came down to 21%, you saw a positive impact on investment in the United States in R&D. And so I think that in the focus that a lot of folks have on tariffs and on what may happen in the US, the next US pricing environment, we shouldn't lose sight of the importance of tax.
+Samit?
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [97]
+--------------------------------------------------------------------------------
+
+          I think from the PD-1, VEGF perspective, the data continues to evolve in the right direction, I would say. What we saw yesterday or the day before when the news broke out for an additional Phase 3 study in China showing a progression-free survival benefit. One of the things that we'll continue to watch out for is when does that OS data start to become available and what the overall impact on overall survival is going to look like.
+Second thing to watch out is going to be what is the impact on safety. Right now, it seems at least from the press release we saw is it's comparable between the two arms, so we'll have to just look at those parameters.
+As it applies to us, I would just close it out from that perspective that we have a large portfolio in non-small cell lung cancer, which is obviously precision driven as well as looking at overall portfolio also building on the IO franchise as we think about the high-dose of (inaudible) combination with Opdivo. So we have a lot of work to do in non-small cell lung cancer, and but we certainly keep an eye on these data.
+
+--------------------------------------------------------------------------------
+Chuck Triano,  Bristol-Myers Squibb Co - Senior Vice President and Head of Investor Relations    [98]
+--------------------------------------------------------------------------------
+
+          Thanks, Samit.
+We know you all have a busy day, so if I can just turn to Chris for some closing remarks, then we'll wrap up the call. Yeah.
+
+--------------------------------------------------------------------------------
+Samit Hirawat,  Bristol-Myers Squibb Co - Executive Vice President, Chief Medical Officer, Global Drug Development, Member of the Leadership Team    [99]
+--------------------------------------------------------------------------------
+
+          Yeah, so thanks a lot, Chuck.
+We do know that you all have a very busy day. There are several companies in our sector that are reporting, and we certainly appreciate everyone's attention. I hope it was clear throughout our messaging that the priorities that we have as a company remain consistent and clear.
+I think what you see in the quarters our growth portfolio is delivering. We've shown good progress. We're better aligning our cost structure with our revenue base, and many of our key pipeline readouts remain in front of us. In fact, we are just at the very beginning of the wave of catalysts that we have coming.
+We're in a strong financial position which affords us options in terms of capital allocation priorities and business development. And before we close, I want to recognize our colleagues for all of their hard work and of course, even in these uncertain times, we remain committed to our overarching goal, which is to reshape and optimize BMS to deliver top-tier growth by the end of the decade and most importantly, generate attractive returns for shareholders. So again, thank you all for tuning in today and as always, the team's available for follow-ups and have a great rest of the week.
+
+--------------------------------------------------------------------------------
+Operator    [100]
+--------------------------------------------------------------------------------
+
+          The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

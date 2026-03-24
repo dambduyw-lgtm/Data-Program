@@ -1,0 +1,680 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2023 Medtronic PLC Earnings Call
+MAY 25, 2023 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Geoffrey Straub Martha
+   Medtronic plc - Chairman of the Board & CEO
+ * Que Thanh Dallara
+   Medtronic plc - Executive VP & President Diabetes Operating Unit
+ * Brad Welnick
+   Medtronic plc - Senior Director of IR
+ * Brett A. Wall
+   Medtronic plc - Executive VP & President of Neuroscience Portfolio
+ * Ryan Weispfenning
+   Medtronic plc - VP of IR
+ * Karen L. Parkhill
+   Medtronic plc - EVP, CFO, IT & Enterprise Excellence
+ * Robert John White
+   Medtronic plc - Executive VP & President of Medical Surgical Portfolio
+ * Sean M. Salmon
+   Medtronic plc - Executive VP & President of Cardiovascular Portfolio
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Richard Samuel Newitter
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Matthew Stephan Miksic
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Joanne Karen Wuensch
+   Citigroup Inc. Exchange Research - Research Analyst
+ * Robert Justin Marcus
+   JPMorgan Chase & Co, Research Division - Analyst
+ * Shagun Singh Chadha
+   RBC Capital Markets, Research Division - Research Analyst
+ * Vijay Muniyappa Kumar
+   Evercore ISI Institutional Equities, Research Division - Senior MD and Head of Medical Supplies & Devices and Life Science Tools & Diagnostics Team
+ * Lawrence H. Biegelsen
+   Wells Fargo Securities, LLC, Research Division - Senior Medical Device Equity Research Analyst
+ * Philip Chickering
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Travis Lee Steed
+   BofA Securities, Research Division - MD
+ * Matthew Charles Taylor
+   Jefferies LLC, Research Division - Equity Analyst
+ * Matthew Oliver O'Brien
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * Anthony Charles Petrone
+   Mizuho Securities USA LLC, Research Division - MD & Senior Medical Devices, Diagnostics and Therapeutics Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [1]
+--------------------------------------------------------------------------------
+Good morning, I'm Ryan Weispfenning, Vice President and Head of Medtronic Investor Relations. Welcome to Minnesota, land of 10,000 lakes. I appreciate that you're joining us today for Medtronic's Fiscal Year 2023 Fourth Quarter Earnings Video Webcast. 
+Before we go inside to hear our prepared remarks, I'll share a few details about today's webcast. Joining me are Geoff Martha, Medtronic Chairman and Chief Executive Officer; and Karen Parkhill, Medtronic Chief Financial Officer; Geoff and Karen will provide comments on the results of our fourth quarter and fiscal year 2023, which ended on April 28, 2023, and our outlook for fiscal year '24. After our prepared remarks, the executive VPs from each of our 4 segments will join us, and we'll take questions from the sell-side analysts that cover the company. Today's program should last about an hour. 
+Earlier this morning, we issued a press release containing our financial statements and divisional and geographic revenue summaries. We also posted an earnings presentation that provides additional details on our performance. The presentation can be accessed in our earnings press release or on our website at investorrelations.medtronic.com.  
+During today's program, many of the statements we make may be considered forward-looking statements, and actual results may differ materially from those projected in any forward-looking statement. Additional information concerning factors that could cause actual results to differ is contained in our periodic reports and other filings that we make with the SEC, and we do not undertake to update any forward-looking statement.  
+Unless we say otherwise, all comparisons are on a year-over-year basis, and revenue comparisons are made on an organic basis, which excludes 4 things: One, the impact of foreign currency; two, revenue from our Q1 acquisition of Intersect ENT; three, fourth quarter revenue in the current and prior year from our divestiture of our Renal Care Solutions business; and four, a onetime contribution from an intellectual property agreement. 
+References to sequential revenue changes compared to the third quarter of fiscal '23 and are made on an as-reported basis. And all references to share gains or losses refer to revenue share in the first calendar quarter of 2023 compared to the first calendar quarter of 2022 unless otherwise stated. Reconciliations of all non-GAAP financial measures can be found in our earnings press release or on our website at investorrelations.medtronic.com. And finally, our EPS guidance does not include any charges or gains that would be reported as non-GAAP adjustments to earnings during the fiscal year.  
+With that, let's head into the studio and hear about the quarter.  
+(presentation)
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [2]
+--------------------------------------------------------------------------------
+Hello, everyone, and thank you for joining us today. We had a strong finish to our fiscal year with our fourth quarter top and bottom line results coming in ahead of expectations. Our accelerating organic revenue growth was broad-based, with mid-single-digit organic growth in Cardiovascular, Neuroscience and Medical Surgical; and double-digit growth in our Diabetes business in Western Europe, where we're selling our latest generation of products. 
+Now across the company, our growth was driven by procedure volume recovery, supply improvements and innovative product introductions. And despite continued margin pressures from macroeconomic factors like inflation and foreign exchange, we delivered adjusted earnings growth this quarter. And we reduced costs while also continuing to invest heavily in R&D to drive future growth. We're confident in delivering durable revenue growth in the year ahead as our recent revenue headwinds dissipate and we drive execution across our businesses. 
+So let's turn to the details of our Q4 results. Our growth in the quarter started with a strong foundation from our largest businesses, Cardiac Rhythm, Surgical and Spine plus ENT. These businesses have durable established leadership positions. And combined, they made up half of our revenue and grew 5% organic.  
+CRM grew 5% and won share in the quarter as we continue to see robust double-digit growth in our Mica leadless pacemaker franchise. Earlier this month, we received FDA approval for our next-generation leadless pacemakers, Micra AV2 and VR2, which extend the battery life by 40% to a projected 16 and 17 years, respectively. And in high power, we released data on our enhanced EV ICD algorithm last weekend at HRS, and we're preparing to launch our Aurora Extravascular ICD later this year.  
+In Surgical Innovations, we grew 4% or 8% when you exclude China given the provincial stapling VBP impacts in the quarter. Surgical procedures continued to recover and we regained share on supply improvements. Our advanced energy products, in particular, benefited from improving supply, growing high teens. And we also launched our LigaSure [XP] and continued our rollout of the cordless Soni 7. 
+Now Cranial & Spinal Technologies continued to deliver solid growth as well, growing 5%, including 6% growth in U.S. Core Spine. Look, we're seeing success from our market-leading ecosystem of Aible-enabling technology and the associated pull-through of our best-in-class spinal implants. From our AI-enabled surgical planning platform; to our patient-specific spine implants; to our imaging, navigation and robotic technologies, spine surgeons around the world are increasingly attracted to our differentiated and innovative solutions. 
+So it was a solid quarter for our largest businesses. We also had a strong Q4 in our businesses that compete in high secular growth med tech markets. All combined, these businesses made up about 20% of our revenue and grew high single digits organically. And we're feeding these businesses with the investments that they need. And as they grow, we expect them to become a larger part of our revenue mix and drive our durable growth going forward.  
+So starting with Neurovascular, which is now annualizing at over $1.3 billion, we grew 13%. We saw broad strength across the business in both ischemic and hemorrhagic stroke with double-digit growth in several categories, including aspiration and flow diversion. Stroke is the #2 cause of death globally, and combined with low therapy penetration, we see a large opportunity for Neurovascular to make a difference in the treatment of stroke, driving meaningful growth with strong margins for years to come.  
+In Structural Heart, we grew 9% organic. We're seeing improvements in the TAVR space, especially in the latter part of our quarter, post spring holidays. We won TAVR share in the U.S. on the strength of Evolut FX, which combines industry-leading durability with enhanced and predictable valve deployment. In Japan, our Structural Heart business grew low double digits, driven by the mid-quarter launch of Evolut FX.  
+Next, in Cardiac Ablation Solutions, we grew 5% and made significant advances in our pipeline during the quarter. In March, the impressive results of our landmark PULSED AF pivotal trial, studying our single-shot PulseSelect PFA catheter were presented as a late breaker at ACC and published in the journal circulation. The trial had strong efficacy and safety results in both persistent and paroxysmal patients. We filed our PMA with the FDA, and we expect to be one of the first companies with a PFA catheter in the U.S. market. 
+We also received CE Mark in March for our Affera mapping and ablation system, including our Sphere 9 catheter, and we began our limited market release. Sphere 9 can perform both PFA and RF ablation as well as high-density mapping, all from the same catheter. So with our Sphere 9 focal catheter and our PulseSelect single-shot catheter, we have the full breadth of PFA catheter technology. From PFA to our Affera map nav system, to our leading Arctic Front Cryo solution and AcQCross transseptal access system, we're assembling a leading ecosystem of technologies. And we're poised to become a much more meaningful player in the fast-growing $8 billion EP ablation space.  
+In Surgical Robotics, we continued to have positive momentum with the rollout of our differentiated Hugo robotics system in international markets. And we're making progress bringing Hugo to the U.S. as we execute our Expand URO pivotal trial. We also saw a meaningful acceleration in sales of our Touch Surgery Enterprise solution, which is the first AI-powered surgical video and analytics platform for the operating room. With Hugo and Touch Surgery, we're bringing innovative solutions to surgeons around the world. And given the low penetration of robotic surgery and our strong position as a global leader in the surgical space, we expect to deliver meaningful growth over the coming years.  
+And in Diabetes, it was a big quarter for us as our warning letter was lifted and we received FDA approval of our MiniMed 780G system with the Guardian 4 sensor. These products drove double-digit growth in Western Europe, and we're very excited to begin shipping them to U.S. consumers next week. We expect our U.S. Diabetes growth to ramp over time as our existing customers come up for renewal and as consumers switch to Medtronic. Health care professionals and people living with diabetes are really going to appreciate the innovation we're delivering, particularly the advanced meal detection technology. 
+And just this morning, we announced our intent to acquire EOFlow, the manufacturer of the EOPatch, a tubeless, wearable and fully disposable insulin delivery device. The EOPatch is already available in Europe, South Korea and the UAE, and this will accelerate our speed to market in the fast-growing patch pump space with a product that has demonstrated manufacturability. In addition, upon close, we'll work quickly to integrate our clinically proven meal detection technology algorithm, which is in the MiniMed 780G system, into the EOPatch and seek marketing authorization. 
+Look, we have not blinked when it comes to diabetes, and we're shifting to offense as we continue to invest heavily in assembling our ecosystem of durable pumps, smart pens, patch pumps, sensors, algorithms and customer service with multiple programs under development. Having this ecosystem is really important because we believe the market will move from CGM-first to automated insulin delivery, and we are well positioned for that trend. We look forward to updating all of you on these growth opportunities at our Diabetes Analyst and Investor briefing next month at ADA. 
+Now turning to our synergistic businesses. There were several strong performances in the quarter. Our Aortic business grew in the mid-20s as product availability and AAA share improved. 
+Cardiac Surgery had a great quarter, growing 8% with strength in perfusion and cannula sales. 
+Cardiac Diagnostics had a high single-digit growth on the continued adoption of our differentiated AI-enabled LINQ II insertable cardiac monitor. And earlier this month, our LINQ II AI technology, which we call AccuRhythm-AI, was awarded the 2023 MedTech Breakthrough Award for the best new technology solution in monitoring.  
+Our GI business grew 16% on procedure volume recovery and continued strong adoption of GI Genius, another one of our AI-enabled products. GI Genius uses AI during colonoscopies to help physicians detect polyps. We also announced a strategic collaboration in the quarter with NVIDIA and Cosmo Pharmaceuticals to allow third-party developers to train and validate AI models that can eventually run as apps on the GI Genius platform. We're excited about the potentially game-changing solutions this could offer for GI physicians and their patients. 
+Now before I go to Karen, I want to note that we continue to focus on the transformation of Medtronic as we reduce complexity, enhance our capabilities, drive efficiency and improve portfolio management and capital allocation, all with the goal of positioning the company for delivering durable growth. And the progress we're making is beginning to show up in our financial results.  
+I shared with you last quarter that we were planning for significant cost reductions. We began to execute those plans last month, which included reductions in our global workforce. Well, these are never easy decisions, and I am mindful of the personal impact across our teams. These actions were necessary and are allowing us to increase our investments in innovation. They also help us to mitigate the inflationary and foreign exchange impacts on our profitability.  
+Look, we're making progress enhancing our global operations, supply chain and quality systems, which is all yielding results, and we continue to advance our active portfolio management processes. We closed on the divestiture of our Renal Care Solutions business during the quarter, and we continue to work on the separation path for our Patient Monitoring and Respiratory Interventions businesses. Now there's still work to be done, but we're making progress setting up the company to deliver durable growth and strong returns.  
+With that, I'll turn it over to Karen to discuss our financial performance and give guidance for fiscal '24. Karen?
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [3]
+--------------------------------------------------------------------------------
+Thanks, Geoff. Our fourth quarter organic revenue increased 5.6%, ahead of expectations. And our non-GAAP EPS of $1.57 grew 3%, was at the upper end of our guidance range and exceeded consensus. 
+Looking at our revenue by geography. Our international markets remain strong. Non-U.S. developed markets in Western Europe grew 8%; and Japan returned to growth following the COVID impact last quarter, growing 5%. Emerging markets, which make up 17% of our revenue, returned to double-digit growth in the quarter, growing 11%. China also delivered growth of 3% as procedures recovered from prior lockdowns and the impact to our growth from volume-based procurement improved. We had strong growth in many other markets, including low 30s growth in Southeast Asia, low 20s growth in the Middle East and Africa, mid-teens growth in Eastern Europe and low double-digit growth in Latin America. 
+Turning to margins. Our adjusted gross margin was relatively stable sequentially but declined year-over-year due to inflation and a 1 percentage point impact from currency. As I've noted in prior quarters, the impact to our gross margin from inflationary pressures is delayed by 2 to 3 quarters because our incurred manufacturing variances first go onto our balance sheet and then move into our P&L as inventory is sold. While the magnitude of these variances has begun to ease slightly, they do remain high. And as a result, we continue to expect pressure on our gross margins over the coming quarters. 
+Despite that pressure, we drove a 350 basis point sequential improvement in our adjusted operating margin. And on a constant currency basis, our operating margin improved 50 basis points year-over-year as we drove expense reduction, including reduced incentive compensation. Below the operating profit line, our adjusted nominal tax rate was 15.8%, that was above our expectations, from incremental taxes owed on the IP agreement that Ryan mentioned upfront, along with our jurisdictional mix of profits in the quarter. 
+Our balance sheet remains strong. We continue to direct capital toward investment in future growth opportunities, along with returning a minimum of 50% of free cash flow to our shareholders. We're identifying high-return organic R&D opportunities and driving efficiencies across our business to free up capital to invest in them. We also continue to evaluate opportunities to supplement our organic investments with tuck-in acquisitions to accelerate our long-term weighted average market growth rate. At the same time, you should expect us to be disciplined with a focus on maintaining our growing our returns on invested capital over the long term. 
+We know our shareholders place strong value in our ability to return capital. In fiscal '23, we returned $4 billion through dividends and share repurchases, and just this morning, we announced that we are increasing our dividend for the 46th consecutive year, reflecting the Board's confidence in our balance sheet and our future earnings power. 
+Now turning to guidance. We've delivered a couple of back-to-back quarters of mid-single-digit growth, growing 5% in the back half of the fiscal year, with 5.6% in the fourth quarter. We're encouraged with the procedure recovery in many of our markets. Our product availability is improving, we like our competitive position across our businesses, and we have many new innovative products coming to market. 
+At this point, we're setting our fiscal '24 organic revenue guidance at 4% to 4.5%. And given it's the start of the year, we think it's prudent for you to model at the lower end of that range. This guidance excludes the impact of foreign currency and revenue from our new Other segment. And I direct you to the guidance slide in our earnings presentation for additional details. 
+In the first quarter, we're guiding to the high end of our annual range with organic revenue growth of 4.5%, which suggests a sequential performance in line with what we have seen historically from our fourth quarter to our first quarter. By segment, there are puts and takes on each one, but they are all roughly aligned to the corporate average for both the first quarter and the year, with the exception of Diabetes, which we expect will start the year growing below the corporate average, and ramp through the year with the U.S. launch of 780G. 
+While the impact of currency is fluid, based on rates at the beginning of May, foreign currency would have a positive impact on full year revenue of $110 million to $210 million, including an unfavorable impact of $50 million to $100 million in the first quarter. 
+Moving down the P&L. I've been sharing for several quarters now that macroeconomic factors, like inflation; foreign currency; and to a lesser extent, interest and tax rates, would impact our earnings power in fiscal '24. And we're continuing to prioritize investments in R&D. In fact, when we exclude the separation of our Renal Care business, we expect R&D to grow above revenue, as we've signaled for a while now. At the same time, and as Geoff mentioned, we've been executing our cost reduction plans across the company to lessen the impact of these macro factors on our earnings. 
+Taking all this into account, we expect continued pressure on our margins and are guiding fiscal '24 non-GAAP diluted EPS in the range of $5 to $5.10. The range includes an unfavorable impact of roughly 6% from foreign currency based on rates at the beginning of May and driven by the large benefit last year from our hedging program that we don't expect will repeat this year. 
+On a constant currency basis, our EPS guidance implies low single-digit growth this year. For the first quarter, we expect EPS of $1.10 to $1.12. Excluding the approximate 8% impact from foreign currency based on rates at the beginning of May, this would imply constant currency growth of 5% to 7%. 
+To close, I want to recognize our outstanding employees around the world who have been helping to drive significant change to transform our company, and they have done this while keeping the Medtronic mission front and center. Thank you for everything you do to make our company stronger and to always put patients first. 
+Back to you, Geoff.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [4]
+--------------------------------------------------------------------------------
+Okay. Thank you, Karen. Now before we go to analyst questions, I'll close with a few thoughts. It was a good quarter with our broad-based growth. Our Surgical Innovations business is back to mid-single-digit growth, tied to the improvement in our supply. And importantly, surgeon commitment to our differentiated products remained strong. We continue to see growth in Neurovascular and Structural Heart, and we're nearing an inflection point in both Diabetes and Cardiac Ablation Solutions, and both businesses have an arsenal of technologies in their pipeline. At the same time, we're seeing durable growth across our other businesses. And importantly, no business is losing momentum. 
+Behind the scenes, as I've shared with you since becoming CEO, we've really been pushing a comprehensive transformation to set up Medtronic to deliver durable growth and create value for our shareholders. Now it hasn't been a straight line. Some of that's market factors and some of that's been on us. But we've made progress, and you're starting to see this in our results. 
+We've been making the necessary improvements to ensure long-term durability of our growth. We're investing in our key capabilities, like global operations, IT, quality, and supply chain, to turn our scale into an advantage. We're picking the markets where we're doubling down and redirecting investments to our most important R&D programs. And we're shaping the portfolio, adding tuck-ins and divesting noncore assets. All of these actions are establishing the strong foundation that will allow us to drive sustainable and consistent growth. 
+Now there's still work to be done, but we are on the right path, and we're confident in the choices that we've made and continue to make. We're executing, and you're starting to see this all come together with our study improvement. 
+Finally, I'd like to join Karen expressing my sincere gratitude for our employees around the world. You've played a huge role in creating some of the world's most meaningful health care innovations and improving the lives of millions of people every year. Thank you. Thank you for all that you do to serve our Medtronic mission every day. And I'm confident that our best days are ahead of us. 
+Now let's move to Q&A, where we're going to try to get to as many analysts as possible. (Operator Instructions) If you have additional questions, you can reach out to Ryan and the Investor Relations team after the call. 
+With that, Brad, can you please give the instructions for asking a question?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Please be advised that this Q&A session is being recorded. 
+For today's session, Geoff, Karen and Ryan are joined by Que Dallara, EVP and President of the Diabetes Operating Unit; Sean Salmon, EVP and President of the Cardiovascular portfolio; Brett Wall, EVP and President of the Neuroscience portfolio; and Bob White, EVP and President of the Medical Surgical portfolio. 
+(Operator Instructions) We'll take the first question from Robbie Marcus at JPMorgan.
+
+--------------------------------------------------------------------------------
+Robert Justin Marcus,  JPMorgan Chase & Co, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+Great. Maybe first question, Geoff and Karen. You can give us a little more color on the guidance here. You're starting off at 4% to 4.5% organic, but want us at the low end of the range. It's a little bit below your long-range goal of 5% organic sales growth. And then a declining EPS for the year. So maybe just walk us through how you ended up at that range. Why are we starting at the bottom? And how do you plan to return to EPS growth?
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [3]
+--------------------------------------------------------------------------------
+Thanks so much for the question, Robbie. When we were thinking through our guidance for the fiscal year, we thought it was prudent to start the year with guidance that sets us up for success. Geoff talked about it. We have a lot going on at Medtronic, and we're intensely focused on delivering on our commitments that we -- and while -- doing so while we continue to transform the company.
+We got -- we have puts and takes, as we always do on the year, but there are no new issues from a growth perspective in FY '24. When we look at our geographies, China remains a drag from lingering VBP, but that's improving over last year. And we're really encouraged by our second half '23 performance of 5%. And as we look early in May, we see good momentum. Our supply chain continues to improve. Our markets continue to recover. 
+We've got a pipeline that we're really excited about, and it's weighted towards the latter half of the fiscal year, then we've got 780G in the U.S. We've got the full suite of cardiac ablation with Affera. We've got our robot continuing to ramp. And we've got Ardian that's hopefully coming to market, too. So we don't have any new material risk to call out, we feel really good about the coming year. 
+On EPS, we've highlighted for the past few quarters that we've got significant headwinds to EPS growth. That includes mid-single-digit inflation that's impacting our gross margins. I talked about currency of approximately 6% as a headwind and interest and tax is around 1%. So when you combine all of these factors, they are a double-digit headwind to EPS growth. But our guidance is just a mid-single-digit decline. So we've driven significant savings that allow us to protect and fund important R&D and help offset those savings just like we've talked about. 
+As we think about our long-range plan, we've got work to do to improve the bottom line. And that's going to be impacted by gross margin, which is obviously impacted by inflation and currency. But over time, we expect our gross margin to stabilize and then improve, and that's going to be one of the key things that will help drive our bottom line into the future. But longer term, our goals have not changed. We're just going to take it 1 year at a time.
+
+--------------------------------------------------------------------------------
+Robert Justin Marcus,  JPMorgan Chase & Co, Research Division - Analyst    [4]
+--------------------------------------------------------------------------------
+Great. And maybe just a quick follow-up. Karen, you have a pretty big divergence between first half comps and second half comps. How do you want us to think about the growth rates, and more importantly the exit rate for next year, at the low end of the guidance to start?
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [5]
+--------------------------------------------------------------------------------
+Yes. So Robbie, the comps are easier in the first half, but our pipeline is weighted towards the back half. And so when we take all that together, you can think about Q2 through Q4 growth rates all being on about the lower end of our full year guidance. That's how we're thinking about it right now.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [6]
+--------------------------------------------------------------------------------
+We'll take the next question from Vijay Kumar at Evercore ISI.
+
+--------------------------------------------------------------------------------
+Vijay Muniyappa Kumar,  Evercore ISI Institutional Equities, Research Division - Senior MD and Head of Medical Supplies & Devices and Life Science Tools & Diagnostics Team    [7]
+--------------------------------------------------------------------------------
+Congrats on the nice execution here. Karen, maybe first one for you, or perhaps Geoff. Can you talk about the cadence of procedures here, how the Q shaped out? I think some of your peers noted a strong start to the year and perhaps a slowdown exiting the Q. I'm just curious on what kind of trends you saw throughout 4Q.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [8]
+--------------------------------------------------------------------------------
+Sure, Vijay. Thanks for the question, good to talk to you. Well, yes, procedure volume was a tailwind for us relative to prior quarters. I mean, Europe in particular recovered well and was out in front. U.S. lagged a little bit, but it began to accelerate in April and May. So like I said, Western Europe, high single-digit growth and staffing issues improving, and beyond that, better product availability resulted in a strong back half of the Q4 for us in Western Europe. But clearly, staffing issues getting better. 
+Emerging markets grew 11%, mid-teens if you exclude China. And then Japan was mid-single digits. So we're seeing, around the world, a strong pickup. Like I said, U.S. lagged, but we saw a strong April and into May, a pickup there. So that's how I'd characterize the procedures. 
+If you kind of look at beyond geography, if you look at it maybe by therapy or product area for us, surgical and GI procedures and MedSurg as well as TAVR procedures and some more elective procedures like pain stim picked up, I think, due to improved staffing. CRM was notable with good initial implant growth, and for Medtronic specifically, coming out of a replacement headwind. Maybe one outlier might be coronary still behind in procedure volume recovery. But that's how I look at it by geography and by therapy area. 
+Overall, we're pleased with -- all this, like I said, overall, pleased with the acceleration, and all this is kind of confirmed with what we are seeing in April and even into May.
+
+--------------------------------------------------------------------------------
+Vijay Muniyappa Kumar,  Evercore ISI Institutional Equities, Research Division - Senior MD and Head of Medical Supplies & Devices and Life Science Tools & Diagnostics Team    [9]
+--------------------------------------------------------------------------------
+Understood. No, that's a helpful comment, Geoff. And maybe one related on the fiscal '24 guidance. I think on EPS, Karen has been pretty clear on some of the headwinds Medtronic is facing, but my question is more on top line. You have utilization improving to your point, surgical innovation. I think supply chain is getting better. Comps are easy. Diabetes, I think the approval's an upside surprise versus our prior assumptions. PULSED AF, I think that's going to be incremental. 
+So when you look at these, the tailwinds, right, why is 4% to 4.5% perhaps the right range, Geoff? Are there any headwinds? I think China is 50 to 100 basis points. Anything else that we're not aware of? Or is just more perhaps being conservative and prudent, perhaps?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [10]
+--------------------------------------------------------------------------------
+Yes, I'm going to let Karen answer that one.
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [11]
+--------------------------------------------------------------------------------
+Yes. So I think, Vijay, just as we talked about it, we just think that 4% to 4.5% for the full year is a good starting point. We have no new risks to call out, you named a lot of the great things that are happening in tailwinds. But for us, it's only Q1, and we just think it's a good place to start.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [12]
+--------------------------------------------------------------------------------
+The next question comes from Larry Biegelsen at Wells Fargo.
+
+--------------------------------------------------------------------------------
+Lawrence H. Biegelsen,  Wells Fargo Securities, LLC, Research Division - Senior Medical Device Equity Research Analyst    [13]
+--------------------------------------------------------------------------------
+Congrats on the strong finish to the fiscal year here. Yes, I'd like to ask about the EOFlow acquisition, specifically the time lines, for Que, the time lines for an AID system in the U.S. and Europe. And I thought we saw that a competitor won at an injunction in Germany recently. So what made you comfortable with the IP? And I'd love to hear, at a high level, any thoughts on how this product is differentiated? 
+And just maybe for Karen, maybe any update on the Patient Monitoring spin? I think people are interested to know how you're going to use the proceeds to offset dilution. We've seen media reports of you potentially selling the business. And depending on the tax basis and the use of proceeds, that could be dilutive as well. So how should we be thinking about this?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [14]
+--------------------------------------------------------------------------------
+Thanks, Larry, for the questions. I think I'll turn it over to Que to answer the EOFlow questions.
+
+--------------------------------------------------------------------------------
+Que Thanh Dallara,  Medtronic plc - Executive VP & President Diabetes Operating Unit    [15]
+--------------------------------------------------------------------------------
+We're very excited about the EOFlow acquisition. As you know, we're very familiar with the technologies in the patch space as well as the manufacturing challenges there. From a strategic perspective, we are the only integrated player in a diabetes technological space with both CGM, our algorithms, as well as dosing systems, and very well positioned for AID. So our portfolio is very holistic, we want to meet patients where they are, and this acquisition accelerates the introduction of an AID patch into the market. And we expect to be the next to market with a differentiated product. 
+So our intention is to combine EOFlow's device with the meal detection algorithm that you see today in the 780G system, along with our next-generation sensor. And expect that to be a very differentiated offering that's next to market. In terms of the -- so I think that addresses the product differentiation and timing. 
+In terms of the IP, as you know, I think it's been disclosed previously that we have a covenant not to sue with Insulet. And so we're very confident about our IP position. And this is a very differentiated device with Medtronic's algorithms and sensor technology. So we're very confident in the product differentiation in the market.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [16]
+--------------------------------------------------------------------------------
+Yes. I'll just build on Que's comments in terms of beyond just the product, just the trend here of going from CGM-first to AID, automated insulin delivery. And with our differentiated algorithms there with the meal detection technology, we believe this is big. We're seeing it in -- outside the U.S. with 780G. And we want to have that same technology across a host of insulin delivery devices, whether it be a pen, smart pen, a pump system, and a patch. So this adds to that armamentarium, and we're excited about it. And Que's brought a lot of just better execution of the business as well. So that also helps our confidence in doing a deal like this. So looking forward to the future for our Diabetes business. 
+I'll have Karen answer the question around the Patient Monitoring and Respiratory Interventions separation.
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [17]
+--------------------------------------------------------------------------------
+Yes. Thanks for that question, Vijay. We continue to work on the separation of Patient Monitoring and Respiratory Interventions. And when we announced the separation last year, we said that a spin sets a high bar because it minimizes the tax leakage and it allows our shareholders to participate in what we believe is going to be a significant value creation opportunity. 
+We also said we would consider alternatives and a sale as possible because we do believe that this NewCo could be an attractive asset to many parties. But we also said that the spin bar is really high because it's got attractive attributes for it. And any divergence from this spin path would really need to provide a greater value creation opportunity. But whatever course we take will be in the best interest of our shareholders. How we manage dilution on this will ultimately be determined by the potential transaction, and we'll provide details as we have them at a later date.
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [18]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [19]
+--------------------------------------------------------------------------------
+The next question comes from Matt Miksic at Barclays.
+
+--------------------------------------------------------------------------------
+Matthew Stephan Miksic,  Barclays Bank PLC, Research Division - Research Analyst    [20]
+--------------------------------------------------------------------------------
+Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [21]
+--------------------------------------------------------------------------------
+Yes, we can, Matt.
+
+--------------------------------------------------------------------------------
+Matthew Stephan Miksic,  Barclays Bank PLC, Research Division - Research Analyst    [22]
+--------------------------------------------------------------------------------
+Great. Congrats on a nice finish to the year and kind of navigating through the resetting of the bar here for fiscal '24. Just wanted to -- given that we came out of HRS last weekend, and there was a fair amount of news flow and presentations for Medtronic. Obviously, the big -- the main topic of the meeting was PFA, as I think everyone knows. I know you expect to be one of the first to the U.S. market. If you could talk maybe a little bit more about how you expect to -- the time line for that, as specific as you can? And then how you expect to sort of navigate this perceived pressure on the single shot market? And I have just 1 follow-up, if I might.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [23]
+--------------------------------------------------------------------------------
+Sure. Yes. Well, thanks for that, Matt. It's exciting for the industry, and we believe we're well positioned in those tailwinds you just mentioned. So it is good to see, and I'm going to ask Sean to answer the specific questions around PFA and how we're positioned there.
+
+--------------------------------------------------------------------------------
+Sean M. Salmon,  Medtronic plc - Executive VP & President of Cardiovascular Portfolio    [24]
+--------------------------------------------------------------------------------
+Yes, Matt, we really like our position. As you know, we've obtained a CE Mark for our point-by-point solution in Europe, and we just filed the PMA for our single-shot product in the United States, and we'll have a data readout some time next year. We completed enrollment Affera's persistent AF trial in December. So we expect that, that 1-year endpoint will be reached at the mid of this fiscal year. 
+In terms of how we see the shift. Obviously, we've got 85% of the market to play in, in point-by-point; and we have the other segment that we've been really strong in with cryo at 15%. And I think as we initially launch into Europe, that's a much bigger opportunity for us as we go to point-by-point solutions. And when we come to the United States, being among the first in PFA solutions, and all of those are going to be anatomical or single shot, I think we'll garner interest from that 85% of the market that really wants to get to PFA, and they don't need to do that. 
+So I think while you have the potential for some erosion of your base in anatomical, you also have the attraction of having the very first PFA offering coming in for anatomical solutions that will pull interest from that 85% pool. And of course, when we launch Affera globally, we'll have the opportunity to play in a bigger swimming pool. So I think the concerns about cannibalization, I think are overblown, frankly. There's far more greenfield for us than I think people are appreciating.
+
+--------------------------------------------------------------------------------
+Matthew Stephan Miksic,  Barclays Bank PLC, Research Division - Research Analyst    [25]
+--------------------------------------------------------------------------------
+That's super helpful. And then just one quick follow-up to Larry's question on diabetes. Congrats again on the warning letter and the pump approval and Guardian sensor approval. But Simplera is intriguing. I think a lot of folks are wondering what are your thoughts on timing and you would see potentially some data from that platform, given that, that could move you kind of more to the forefront of sort of sensor technology.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [26]
+--------------------------------------------------------------------------------
+Yes. Thanks, Matt. There's definitely -- go ahead? As I say, Simplera is definitely a jump forward. And I'll have Que jump in and answer that.
+
+--------------------------------------------------------------------------------
+Que Thanh Dallara,  Medtronic plc - Executive VP & President Diabetes Operating Unit    [27]
+--------------------------------------------------------------------------------
+Thanks, Geoff. We're very excited about Simplera. It's an all-in-one disposable sensor. It's half the size of the Guardian 4 sensor. No fingers to stick and a 2-step insertion process, compared to our current sensor technology. As you know, we submitted to CE Mark last year, last summer, and also to the FDA earlier this year. We hope that -- obviously, we've got to go through the regulatory process, but we're anticipating that, this fiscal year, we should be able to get approval. So that's the best we have in terms of timing.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [28]
+--------------------------------------------------------------------------------
+The next question comes from Travis Steed at BofA Global Research.
+
+--------------------------------------------------------------------------------
+Travis Lee Steed,  BofA Securities, Research Division - MD    [29]
+--------------------------------------------------------------------------------
+Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [30]
+--------------------------------------------------------------------------------
+Yes we can, Travis.
+
+--------------------------------------------------------------------------------
+Travis Lee Steed,  BofA Securities, Research Division - MD    [31]
+--------------------------------------------------------------------------------
+Maybe, Karen, if you can talk about some of the cost savings stuff that you built into this $5 to $5.10 EPS growth? And we've estimated like $0.50 offset from the cost savings side and then some of the R&D investments. Just a little bit more color on some of the puts and takes and what you have built in on the EPS guide. 
+And then on FY '25 EPS, should we think about that as more of a transition back to the 8% plus? Or just kind of early comments on how to think about the out-year EPS.
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [32]
+--------------------------------------------------------------------------------
+Yes. Thanks for those questions, Travis. On our cost savings, we said that we are driving significant cost savings. We're not disclosing the exact amount. But just to give you a sense, I mentioned we have mid-single-digit inflation on our gross margins, we have currency impact of approximately 6% and we have interest and tax of around 1%. And all those combined are a double-digit headwind to EPS, but our guidance is just a mid-single-digit decline. So the savings are significant. And obviously, they allow us to protect and fund important R&D innovation.
+When we talk -- when we think about R&D, we've said all along that our goal is to protect and to grow, align with revenue or above revenue when we can. And if we look at this coming fiscal year and we strip away the investment that we had in R&D and RCS in our renal care business that we're separating, our revenue is growing. Our R&D expense, we expect it to grow higher than revenue. So we did protect it, it is important to us. 
+And then on FY '25. We're just starting FY '24, so we're not ready to really talk about FY '25. But I mentioned that these last 18 months have been really busy for us. We've been strengthening our core with new people and new structures. We've been understanding our investment needs. We've been driving portfolio moves. We've been cutting expenses. We've been managing through our own setbacks. 
+And the transformation that we've been driving amidst all of this is starting to have an impact on our results. You've seen us already move back to mid-single-digit growth on the top line, and we're intensely focused on delivering on our FY '24 commitments and driving a lasting turnaround at Medtronic. That's our priority right now. 
+Longer term, our goals have not changed. We're focused on that durable mid-single-digit revenue growth. We have continued work to do to stabilize and then improve our gross margins, but we have both the plans and the work in place to do that. And ultimately, we're committed to driving a strong and leveraged P&L. But we're going to take this 1 year at a time because that's just where we are right now. So I hope that gives you some context.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [33]
+--------------------------------------------------------------------------------
+And just getting back to Karen's earlier -- the answer, earlier part of the answer on the cost actions. I think we're focused on striking the right balance, as she mentioned, between kind of offsetting or mitigating some of the headwinds out there, that affect our EPS, with the durability of our revenue growth. Think about reinvestment in some of the top areas in med tech, right? Diabetes, robotics, electro -- EP for PFA. So these are exciting opportunities, we've just got to balance mitigating some of these headwinds with making sure that we're making the right investments, and she walked through the R&D growth, and to make sure that our revenue is durable.
+
+--------------------------------------------------------------------------------
+Travis Lee Steed,  BofA Securities, Research Division - MD    [34]
+--------------------------------------------------------------------------------
+That's super helpful. A quick follow-up on the EOFlow. I know they had a pipeline for a 7-day patch and they had a CGM in their pipeline, too. Is that something you're going to keep? Just a quick update on that. 
+And then I did want to ask about TAVR mid-single-digit growth in the quarter, just taking share. Maybe just an update on the overall TAVR market and the trends that you're seeing there would be helpful as well.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [35]
+--------------------------------------------------------------------------------
+Que, you want to take the EOFlow question?
+
+--------------------------------------------------------------------------------
+Que Thanh Dallara,  Medtronic plc - Executive VP & President Diabetes Operating Unit    [36]
+--------------------------------------------------------------------------------
+Yes. And look, our plans right now to integrate our meal detection technology algorithm as well as our next-generation Simplera sensor to bring an AID patch into the market, we think it's important for patient choice and we want to do that as soon as possible. And we can't really comment any further on additional pipeline details at this point.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [37]
+--------------------------------------------------------------------------------
+Thanks, Que. Sean, quick response on the TAVR question?
+
+--------------------------------------------------------------------------------
+Sean M. Salmon,  Medtronic plc - Executive VP & President of Cardiovascular Portfolio    [38]
+--------------------------------------------------------------------------------
+Sure, Travis. So the market's getting better and better, I'd say. We saw a really nice recovery within Europe, procedures coming back. Particularly in France and Germany, really strong recovery there. And the United States started out a little sluggish in the quarter, had a little bumpy ride from spring breaks. As you know, there's a lot of consolidated volumes, so a little this and that matter. But we exited the quarter really strong. 
+We track something called implant rates, just our -- and the number of cases we supported. And we're seeing really good recovery trends, which we think will continue through the year. But right now, low -- I'd say low double to high single digits is about what the fundamentals are for the underlying market.
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [39]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [40]
+--------------------------------------------------------------------------------
+The next question comes from Matt O'Brien at Piper Sandler Companies.
+
+--------------------------------------------------------------------------------
+Matthew Oliver O'Brien,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [41]
+--------------------------------------------------------------------------------
+(inaudible)
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [42]
+--------------------------------------------------------------------------------
+Matt, are you there? We got a little bit of feedback.
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [43]
+--------------------------------------------------------------------------------
+Yes. I think we've got a problem with your audio, Matt. We'll check that and we'll come back to you. Can we please take the next question, Brad?
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [44]
+--------------------------------------------------------------------------------
+The next question comes from Pito Chickering at Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Philip Chickering,  Deutsche Bank AG, Research Division - Research Analyst    [45]
+--------------------------------------------------------------------------------
+Can you talk about PFA adoption trends in Europe? Specifically the interplay between PFA growth, PFA pricing, versus losses from cryo market share. So when you put it all together, I guess, how was the European ablation growing for you guys?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [46]
+--------------------------------------------------------------------------------
+Sean, do you want to take that one?
+
+--------------------------------------------------------------------------------
+Sean M. Salmon,  Medtronic plc - Executive VP & President of Cardiovascular Portfolio    [47]
+--------------------------------------------------------------------------------
+Yes, we've done well. I mean, it's early, early innings for our PFA offering. As you know, we're just really trying to scale up both training and operations for that. So a little too early to comment on that. 
+I'd say there's been really continued underlying growth. Just ablation in general continues to grow, of all flavors, but of course PFA will grow the fastest. We'll keep you appraised as to how that's going. We're seeing really good strong trends, though, within Europe and overall. It's a very robust market.
+
+--------------------------------------------------------------------------------
+Philip Chickering,  Deutsche Bank AG, Research Division - Research Analyst    [48]
+--------------------------------------------------------------------------------
+Okay. And then so a quick follow-up here on the last TAVR question. You're talking about a low double, high-single digit to the marketplace. What do you guys assume within your market share for 2024?
+
+--------------------------------------------------------------------------------
+Sean M. Salmon,  Medtronic plc - Executive VP & President of Cardiovascular Portfolio    [49]
+--------------------------------------------------------------------------------
+I don't think we're giving share guidance, Pito. But we think we're in good shape with the momentum we have with FX. And we look to launch the FX into Europe in the back half of the year. So that's a -- and we've done well in the United States, we've done well in Japan. The products is excellent and being well received.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [50]
+--------------------------------------------------------------------------------
+The next question comes from Matt Taylor at Jefferies.
+
+--------------------------------------------------------------------------------
+Matthew Charles Taylor,  Jefferies LLC, Research Division - Equity Analyst    [51]
+--------------------------------------------------------------------------------
+Yes. Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [52]
+--------------------------------------------------------------------------------
+Yes, we can now. Yes we can, Matt.
+
+--------------------------------------------------------------------------------
+Matthew Charles Taylor,  Jefferies LLC, Research Division - Equity Analyst    [53]
+--------------------------------------------------------------------------------
+Okay, great. I think I was just on mute. Okay. I was hoping you could talk a little bit more about EOFlow. And just reading that release, and it talks about 1% dilution to earnings for the first few years and neutral to accretive thereafter. So I guess I was hoping maybe you could touch on the run rate of the business today and how you assume that ramps revenue-wise over the next couple of years. What are some of the assumptions that go into that dilution assumption for the first couple of years? And what are some of the key guideposts that we should be looking for out of that business as you acquire it?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [54]
+--------------------------------------------------------------------------------
+Well, the business, I could say, Matt, is it's new, and the revenue is pretty small right now and it's just in Europe. But I'll let Karen talk about the dilution assumptions.
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [55]
+--------------------------------------------------------------------------------
+Yes. So the key here is to integrate this patch pump with our algorithm. And so we'll be spending on that, and that's what drives the dilution. That's the key for the first few years. 
+And Que, you want to talk about run rate from there?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [56]
+--------------------------------------------------------------------------------
+Yes. And any milestones that you might want to look for.
+
+--------------------------------------------------------------------------------
+Que Thanh Dallara,  Medtronic plc - Executive VP & President Diabetes Operating Unit    [57]
+--------------------------------------------------------------------------------
+I think the critical milestone to watch out for is really some development work to integrate our algorithm. We have that ready as part of the 780G system. We're obviously going through our sensor approvals today, so that will be variable. So there's a bit of development work, not a lot, EOFlow has proven manufacturability at scale, the manufacturing exists. And so it is a relatively straightforward integration and approval process to get that to market. 
+Once that AID patch system is available in market with our next-generation CGM, we think, obviously, we'll go through the commercialization and launch process. But we believe it's a very strong offering and second to market with this wearable disposable patch solution.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [58]
+--------------------------------------------------------------------------------
+The next question comes from Rich Newitter at Truist.
+
+--------------------------------------------------------------------------------
+Richard Samuel Newitter,  Truist Securities, Inc., Research Division - Research Analyst    [59]
+--------------------------------------------------------------------------------
+Can you hear me?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [60]
+--------------------------------------------------------------------------------
+Yes, we can. Can you hear us? Rich?
+
+--------------------------------------------------------------------------------
+Richard Samuel Newitter,  Truist Securities, Inc., Research Division - Research Analyst    [61]
+--------------------------------------------------------------------------------
+Can you hear me?
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [62]
+--------------------------------------------------------------------------------
+Yes. I don't know, maybe we might have some connection issues with Rich. We'll go to the next question and come back to him.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [63]
+--------------------------------------------------------------------------------
+The next question comes from Shagun Singh at RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Shagun Singh Chadha,  RBC Capital Markets, Research Division - Research Analyst    [64]
+--------------------------------------------------------------------------------
+Great. Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [65]
+--------------------------------------------------------------------------------
+Yes. We can hear you.
+
+--------------------------------------------------------------------------------
+Shagun Singh Chadha,  RBC Capital Markets, Research Division - Research Analyst    [66]
+--------------------------------------------------------------------------------
+Okay, perfect. A quick one on China. I was wondering if you can talk a little bit about your outlook for that business. There seems to be some initial talk of COVID cases, how concerned are you at this point? And if it does become something larger than anticipated, what areas of impact are you worried about? 
+And then secondly, I just wanted to get your thoughts on M&A. It's encouraging to see you call out something on the M&A front this quarter. And I think you previously indicated that you would hold off for about 12 to 18 months, until the separation has been announced, to be more active on that front. Has anything changed? And perhaps you can just talk about your appetite for M&A deal size and areas you may be interested in.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [67]
+--------------------------------------------------------------------------------
+Well, thanks for those questions. I'll start with the China one and then get to the M&A. 
+On China, yes, we've heard about the -- some of the COVID -- I wouldn't call it an outbreak, but signs of COVID in China. We haven't felt any impact of that at this point. In talking to some of our health care -- or some of our customers, they're not at this point too worried about it. But we're going to watch that closely. 
+In terms of our overall view on China, I was just there. And look, the economy is back. The health care procedures are back. Obviously, we're still working through volume-based procurement. But it's going to be the largest health care market in the world, and it's an area that we're investing in. 
+And yes, as we talked about before, this volume-based procurement, we believe, by the end -- as we exit this next fiscal year, as we exit this FY '24, we believe we'll have been through that reset from volume-based purchases and -- procurement, rather. And then grow from there and get back to that double-digit growth. And we've adjusted by taking out some costs in China. Now that the business is more contracted, it's allowed us to take out some sales and marketing costs. And so it's still a profitable business for us that we'll get back to that double-digit growth. 
+Obviously, we're going to have to watch the geopolitics here between the 2 countries, but it's encouraging, some of the more recent conversations the 2 countries are having. And we spend a lot of time on this in China with the U.S. government and are optimistic that this will continue to be a good market for us. 
+In terms of M&A, yes, obviously, the EOFlow acquisition looks like one of our -- it is one of our traditional tuck-in type of deals in a high-growth area that we have a strong position in. You asked about -- and that we still have a lot of appetite for those type of deals. 
+I would say we are focusing on those deals that we believe are going to have a bigger impact on Medtronic, deals like the Intersect ENT deal, deals like -- for ENT, deals like the Affera deal in our afib business, for PFA that had mapping and navigation and some PFA technology. And this EOFlow fits right into that kind of mold, bringing a patch technology to our Diabetes business. 
+In terms of divestitures, I would say nothing has changed. I mean, we just completed the dialysis joint venture with DaVita, so we're excited about that and closed that officially and that's off and running. It's called Mozarc, is the new company's name. 
+And we're working through, as Karen walked you through, the Patient Monitoring and Respiratory Interventions separation, which is a large body of work. And in terms of those type of large-scale divestitures, the analysis and the thought process continues to look at our portfolio and see where opportunities are. But we're pretty focused right now executing on that one from an execution standpoint. 
+And as you look forward, our appetite, our focus, is still these tuck-in deals. Along -- and think of the 3 examples I gave, and that kind of sizes, could be a little bigger than that, a little smaller. Those are the focus areas. If something bigger comes along, we'd look at it, but it's not what we're hunting for, if you will. 
+So I hope that answers your question on M&A. I don't know, Karen, if you have anything to add or I covered it.
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [68]
+--------------------------------------------------------------------------------
+You covered it well.
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [69]
+--------------------------------------------------------------------------------
+Brad, why don't we try to go back to Rich, if we can, and then we'll take our final 2 questions.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [70]
+--------------------------------------------------------------------------------
+The next question comes from Rich Newitter at Truist Securities.
+
+--------------------------------------------------------------------------------
+Richard Samuel Newitter,  Truist Securities, Inc., Research Division - Research Analyst    [71]
+--------------------------------------------------------------------------------
+Thanks for coming back to me, and I apologize for the issues there. 
+So maybe I just wanted to start off with Spine. I know that you guys are -- you really have seen a nice turnaround there in the last year or so. Can you talk a little bit about the trends you're seeing there? Any potential disruption that may be emerging, leading up to a potential competitor, M&A between Globus and NuVasive? 
+And then what's going on, on the capital front with Mazor? I'd love to hear kind of any updates on that and the -- some of the capital in that business.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [72]
+--------------------------------------------------------------------------------
+Sure. Thanks for the question, Rich. I'm going to turn it over to Brett in a second and talk about the details of capital and some of the other Spine trends. But I'll just start with, one is, we've seen this trend. And I don't know if I call it disruptive, it's been moving for a number of years now, this trend of the value propositioning -- value proposition being, in the industry, centering around enabling technology: Navigation, imaging, robotics, powered instruments, AI-based surgical planning and bringing that all together. We brought that together in our ecosystem called Aible. You are now seeing the impact of that in the marketplace, and you're seeing what it's doing to the marketplace around consolidation. 
+I mean, this is where the business is heading, the industry is heading. And it takes a lot of technology prowess and it takes a lot of balance sheet to do this. And it's having a big impact on consolidation that you're seeing. And as we move forward, we're really excited about our position. But Brett's been overseeing this business for a number of years now and has a -- and I'll let him talk about more detail on the value proposition and also get into the capital dynamic.
+
+--------------------------------------------------------------------------------
+Brett A. Wall,  Medtronic plc - Executive VP & President of Neuroscience Portfolio    [73]
+--------------------------------------------------------------------------------
+Yes. Thanks, Geoff. And Rich, thanks for the question. When we look at overall Core Spine, some really good trends there. We're seeing procedures getting back to normal, which is extremely helpful. We've had now multiple quarters of expansion in Core Spine, which reflects the development, as Geoff mentioned, of a broad-based ecosystem in the capital environment. 
+And that ecosystem that we've put together is taking the procedure and changing the procedure with robotics, navigation, imaging, power surgical tools, AI surgical planning. It is the broadest, most expensive, most complete, most comprehensive system in the world of spine today. 
+And what you'll see with competitors, I think you mentioned 1 transaction that is the 2 organizations are in the middle of, are trying to actually put these teams together. And we're seeing that transformation in spine and more consolidation. 
+If we look at capital in and of itself, we have an exceptionally strong capital footprint across the entire world. What we've seen with capital is continued good growth with capital, but we've also seen now, in the United States, a bit of a transition. That transition is into earn-out or lease agreements. We've seen a higher preponderance of that as we've been in the last few quarters, given some of the current situations across the -- current economic situations. The good news about that is we're getting those sockets. We're converting that into an earn-out type of situations where we get implants on top of the socket. And then we've also seen globally a very strong performance in our hardware. 
+So this capital component is critical to the business. It's also critical to the growth. And I think we're just seeing that with some of the other consolidations. But the Medtronic footprint here is extensive, strong and very capable.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [74]
+--------------------------------------------------------------------------------
+The next question comes from Joanne Wuensch, Citi.
+
+--------------------------------------------------------------------------------
+Joanne Karen Wuensch,  Citigroup Inc. Exchange Research - Research Analyst    [75]
+--------------------------------------------------------------------------------
+A nice way to end the year and start the next. Briefly. My memory is you had 2 patch pump products in development. Are those going to be shut down? Or are those also continuing along? 
+And I'll ask my second question. Hugo. Could you sort of give us an update on where the launch is outside the United States? And should we be thinking about this as number of robots in the field, or amount of revenue that it generates for the total Medtronic family?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [76]
+--------------------------------------------------------------------------------
+Okay. Thanks, Joanne. 2 great questions. Que, do you want to take the patch question?
+
+--------------------------------------------------------------------------------
+Que Thanh Dallara,  Medtronic plc - Executive VP & President Diabetes Operating Unit    [77]
+--------------------------------------------------------------------------------
+Yes, we have a complementary organic program. If anything, we're stepping on the gas on that program. That continues. It's complementary with next-generation features that we're not prepared to go to at this point for competitive reasons. But that program will help expand our market access, including type 2, the type 2 market.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [78]
+--------------------------------------------------------------------------------
+Yes. Just real quick before I turn it over to Bob to talk about Hugo. I just think, just to reemphasize what Que just said there, is that we've never -- although our business hasn't performed well over the years, the last couple of years, we've never lost faith on our technology. And now with the better execution of Que and her new leadership team we're bringing, we are putting our foot on the gas and doubling down on this business. And the patch segment is an important segment. So we feel good about having multiple shots on goal there. 
+So that's what I'll say on Diabetes. And Bob, do you want to talk about Hugo?
+
+--------------------------------------------------------------------------------
+Robert John White,  Medtronic plc - Executive VP & President of Medical Surgical Portfolio    [79]
+--------------------------------------------------------------------------------
+Yes. Thanks, Geoff, and thanks, Joanne, for the question. So we really liked our momentum, remembering, Joanne, as you know, that less than 5% of procedures that could be done robotically assisted are actually done that way. So a tremendous market development opportunity. And importantly, every quarter, we sell and install more Hugo systems than we did the prior quarter. And the modularity and the interoperability of the Hugo system with our leading surgical franchise is really being recognized by our customers. And it's really about the ecosystem. 
+So to respond to your question, I would look at both, right? We look at the number of robots, while we don't disclose that. And as Geoff pointed to, we look at this as a meaningful growth driver for Medtronic overall. So we like our position, we like our feedback, and we're excited about our opportunity ahead of us.
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [80]
+--------------------------------------------------------------------------------
+And Brad, we'll go to the final question.
+
+--------------------------------------------------------------------------------
+Brad Welnick,  Medtronic plc - Senior Director of IR    [81]
+--------------------------------------------------------------------------------
+Our final question comes from Anthony Petrone at Mizuho Securities.
+
+--------------------------------------------------------------------------------
+Anthony Charles Petrone,  Mizuho Securities USA LLC, Research Division - MD & Senior Medical Devices, Diagnostics and Therapeutics Equity Research Analyst    [82]
+--------------------------------------------------------------------------------
+Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [83]
+--------------------------------------------------------------------------------
+Yes, Anthony. Happy belated birthday, by the way.
+
+--------------------------------------------------------------------------------
+Anthony Charles Petrone,  Mizuho Securities USA LLC, Research Division - MD & Senior Medical Devices, Diagnostics and Therapeutics Equity Research Analyst    [84]
+--------------------------------------------------------------------------------
+Thank you very much. A couple of questions here. One, just on the volume picture, underlying volumes. Is there anything you could share on April and May in particular? You have about a 5.5% organic growth, 4% to 4.5% is the bridge guidance, so maybe just a little bit of color on underlying volumes. Certainly in 1Q, it did seem like we had favorable comps, but an underlying improvement in many markets. So just your comments on underlying volumes. 
+And then in the 4% to 4.5%, is there anything of note just on 780G? How much of that is baked into the guidance?
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [85]
+--------------------------------------------------------------------------------
+Well, I might ask Sean to comment on the underlying volumes in a second because we see it across Cardiology a lot. But I would just say, Anthony, that the underlying volume is definitely getting stronger and accelerated for us through our Q1 into April and May. And as I mentioned earlier, we've been seeing strong growth out of Western Europe for quite some time, and then Japan came in. And all throughout this, the last quarter, we saw strong growth in emerging markets. U.S. has lagged but has picked up. And I think some of it, we're seeing some of that pickup in particular in surgical procedures in our surgical business, but also across a couple of different cardiovascular procedure lines. 
+I don't know, Sean, if you have any comments on that.
+
+--------------------------------------------------------------------------------
+Sean M. Salmon,  Medtronic plc - Executive VP & President of Cardiovascular Portfolio    [86]
+--------------------------------------------------------------------------------
+Yes, Geoff, you said it well. We saw a really nice recovery in Europe in particular. As I mentioned before across the board in our procedures. In the U.S., we saw surgery, as kind of a leading indicator, that really grew well in the United States for procedure volume. And throughout the quarter, we saw improving -- improvement, including coronary stents, which has been curiously below the pre-COVID levels for a long time now. So we saw that come up to about 95% of pre-COVID levels toward the back half of the year -- or the back half of the quarter.
+So look, I'm encouraged. May looks strong. We're moving into a better procedure space for sure globally. And it was also impressive to see how fast China snapped back after both the shutdown and the COVID stuff that happened, and in New Year, it happened. So I think all the trends are looking up globally, and I think the U.S. is the place we're most encouraged by as we see the recovery of procedure volumes in cardiology. We saw that with large joints, of course. And I think we're starting to see it in cardiology too now, which is encouraging.
+
+--------------------------------------------------------------------------------
+Karen L. Parkhill,  Medtronic plc - EVP, CFO, IT & Enterprise Excellence    [87]
+--------------------------------------------------------------------------------
+And Anthony, on your question on the annual guidance and anything of note on 780G. We expect Diabetes to return to good growth in this fiscal year. And we noted that we expect it to begin the year below the corporate average, but obviously ramp throughout the year as we bring the 780G to more and more patients in the United States. And the consumable revenue off of that comes with it.
+
+--------------------------------------------------------------------------------
+Ryan Weispfenning,  Medtronic plc - VP of IR    [88]
+--------------------------------------------------------------------------------
+Geoff, please go ahead with your closing remarks.
+
+--------------------------------------------------------------------------------
+Geoffrey Straub Martha,  Medtronic plc - Chairman of the Board & CEO    [89]
+--------------------------------------------------------------------------------
+Okay. Thanks, Ryan. All right. Well, okay, everyone. Thanks for the questions. As usual, we really appreciate your support and continued interest in Medtronic. 
+And as I mentioned earlier, we'll be coming to you from ADA on June 25 with an update on our diabetes business. And we hope you'll join us for our Q1 earnings broadcast, which we anticipate holding on Tuesday, August 22, where we'll update you on our progress across the company. 
+With that, thanks for spending time with us today, and have a great rest of your day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

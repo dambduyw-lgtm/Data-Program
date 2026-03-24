@@ -1,0 +1,763 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2024 US Bancorp Earnings Call
+JANUARY 16, 2025 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrew Cecere
+   US Bancorp - Chairman of the Board, President, Chief Executive Officer
+ * John Stern
+   US Bancorp - Chief Financial Officer, Senior Executive Vice President
+ * George Andersen
+   US Bancorp - Director, IR
+ * Gunjan Kedia
+   US Bancorp - President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * John McDonald
+   Truist Securities, Inc - Analyst
+ * Matthew O'Connor
+   Deutsche Bank Securities Inc. - Analyst
+ * John Pancari
+   Evercore Group L.L.C - Analyst
+ * Erika Najarian
+   UBS Securities LLC - Analyst
+ * Bill Carcache
+   Wolfe Research Securities - Analyst
+ * Saul Martinez
+   HSBC Securities Inc. - Analyst
+ * Scott Siefers
+   Piper Sandler & Co. - Analyst
+ * Michael Mayo
+   Wells Fargo Securities - Analyst
+ * David Long
+   Raymond James & Associates - Analyst
+ * Ebrahim Poonawala
+   BofA Securities, Inc. - Analyst
+ * Vivek Juneja
+   JP Morgan Securities LLC - Analyst
+ * Betsy Graseck
+   Morgan Stanley & Co. LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the U.S. Bancorp fourth quarter 2024 earnings conference call. (Operator Instructions) This call will be recorded and available for replay beginning today at approximately 11:00 AM Central Time. I will now turn the conference over to George Anderson, Senior Vice President and Director of Investor Relations for US Bancorp. Please go ahead.
+
+--------------------------------------------------------------------------------
+George Andersen,  US Bancorp - Director, IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Audra, and good morning, everyone. Today, I'm joined by our Chairman and CEO, Andy Cecere; President, Gunjan Kedia; Vice Chair and CAO, Terry Dolan; and Senior Executive Vice President and CFO, John Stern. In a moment, Andy and John will be referencing a slide presentation together with their prepared remarks. A copy of the presentation, our press release, and all supplemental consolidated schedules can be found on our website at ir.usbank.com. Please note that any forward-looking statements made during today's call are subject to risks and uncertainty.
+Factors that could materially change our current forward-looking assumptions are described on page 2 of today's earnings release, press presentation, our press release, and our reports on file with the SEC. Following our prepared remarks this morning, we will be happy to take any questions that you have. I will now turn the call over to Andy.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, George. Good morning, everyone, and thank you for joining our call. I'll begin on Slide 3. In the fourth quarter, we reported $1.01 per diluted share, or $1.07 after adjusting for notable items. John will discuss these onetime charges in his prepared remarks.
+Net revenue totaled $7 billion for the quarter and $27.5 billion for the year, as we saw both sequential and year-over-year quarterly growth in net interest income and non-interest income, driven by effective balance sheet management, earning asset repricing and mix, and our highly diversified fee business offerings. Overall, the quarter was highlighted by top line revenue growth and continued expense discipline, which resulted in 190 basis points of positive operating leverage on an adjusted basis year-over-year.
+Turning to Slide 4. We had slight balance sheet growth this quarter with average earning assets increasing 1.2%, driven by higher on balance sheet liquidity. This quarter, we had modest loan loss reserve release largely reflective of improved credit quality and a more favorable portfolio mix.
+On the bottom right of the slide, you can see that our CET1 capital ratio increased 10 basis points from the prior quarter to 10.6%. Our tangible book value per share totaled $24.63 at December 31, an increase of 10.4% compared to the end of last year. During the quarter, we effectively balanced continued capital accretion with an initial $100 million of share repurchases.
+Slide 5 provides key performance metrics. On an adjusted basis, we delivered an 18.3% return on tangible common equity and an improved efficiency ratio of 59.9% in the fourth quarter.
+Turning to slide 6. Fee income represented over 40% of total net revenue in the fourth quarter. Results this quarter were driven by double-digit year-over-year fee growth in Commercial Products, Trust and Investment Management, and Investment Product revenues.
+Slide 7 highlights a few of our key selected initiatives on interconnectedness across the franchise. Let me now turn over the call to John, who will provide more detail on the quarter as well as forward-looking guidance.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Andy. If you turn to slide 8, I'll start with a more detailed earnings summary, followed by a discussion of fourth quarter earnings trends. In the fourth quarter, we reported earnings per diluted common share of $1.01, which included $109 million of notable expense items or $82 million net of tax. Notable items for the quarter included $60 million related to operational efficiency initiatives and $49 million from lease impairments associated with strategic real estate restructuring actions. After adjusting for these notable items, we delivered diluted earnings per common share of $1.07 this quarter.
+Slide 9 provides a balance sheet summary. Total average deposits increased 0.7% on a linked quarter basis, to $512 billion as we continue to prioritize relationship-based deposits and maintained our pricing discipline. While total noninterest-bearing deposits increased slightly this quarter, this was largely driven by institutional deposit seasonality at the end of the quarter. Importantly, after accounting for this seasonality, our percentage of noninterest-bearing deposits to total deposits now looks to have stabilized in line with our earlier expectations.
+Average loans totaled $376 billion, a modest increase of 0.4% on a linked-quarter basis, driven by commercial lending initiatives, slower paydowns, and new originations in residential mortgages, as well as higher seasonal credit card spend.
+At December 31, the ending balance on our investment portfolio increased slightly to $171 billion from opportunistic repurchases of securities. This quarter, we saw a slight decline in the average yield across both our investment portfolio and loan book as the impact of variable rates more than offset the benefits of fixed asset repricing.
+Turning to slide 10. Net interest income on a fully taxable equivalent basis totaled $4.18 billion, which was stable to the third quarter. For the year, total net interest income on a fully taxable equivalent basis was slightly better than our earlier guidance of $16.4 billion.
+Slide 11 highlights trends in noninterest income. Linked quarter, we saw noninterest income growth in the Trust and Investment management and other revenue that was partially offset by lower mortgage banking and seasonally lower payments revenue. Importantly, excluding security losses, full year noninterest income increased 3.9% compared to 2023, consistent with our 2024 guidance as we benefited from continued growth across our diversified and differentiated business mix.
+Turning to slide 12. Noninterest expense for the quarter totaled $4.2 billion as adjusted. For the year, total noninterest expense was $16.79 billion as adjusted, which was just below or better than our full year guidance of $16.8 billion. We remain focused on prudent expense management and continued to benefit from operational efficiencies across the company.
+Slide 13 highlights our credit quality performance. Asset quality metrics this quarter were in line with expectations and reflected ongoing macroeconomic stability. Our ratio of nonperforming assets to loans and other real estate was 0.48% at December 31, compared with 0.49% at September 30, and 0.40% a year ago. The fourth quarter net charge-off ratio of 0.60% was flat to the third quarter as expected, and our allowance for credit losses totaled $7.9 billion, or 2.09% of period-end loans at December 31.
+Turning to slide 14. Our CET1 capital ratio of 10.6% as of December 31, increased 10 basis points net of distributions which included an initial $100 million of share buybacks this quarter. Moving forward, we expect the level and pace of buybacks to remain modest in the near term as we balance continued capital accretion with distributions.
+I will now provide first quarter and full year 2025 forward-looking guidance on slide 15. Starting with the first quarter 2025 guidance. Net interest income is expected to be relatively stable to the fourth quarter of 2024, excluding the impact of fewer days. As a reminder, the first quarter has two fewer days than the fourth quarter. Total noninterest expense is expected to be relatively stable to the fourth quarter level of approximately $4.2 billion as adjusted. We expect to deliver positive operating leverage in the first quarter of 200 basis points or more on a year-over-year basis.
+I'll now provide full year 2025 guidance. Total revenue growth on an adjusted basis is estimated to be in the range of 3% to 5% compared to the full year 2024. We expect to achieve positive operating leverage, excluding the impact of security gains or losses of greater than 200 basis points for the full year. I'll now hand it back over to Andy for closing remarks.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, John. 2024 was a pivotal year for the company in many ways and marked a very important inflection point in our story. Going into the year, there was much uncertainty with respect to the broader macroeconomic environment, persistent inflation, significant rate volatility, political and regulatory headwinds to name a few.
+But we effectively managed through the changes and most importantly, executed on our strategic objectives. Fourth quarter results showcase our commitment to execution, which was highlighted by our delivery of 190 basis points of positive operating leverage.
+As credit quality continue to stabilize and we prudently manage our capital position, it was effective balance sheet management, our financial discipline, and expanding interconnectedness across the franchise that enable us to fully deliver the strong results we did this quarter, and fully expect that momentum to continue into 2025.
+Finally, I'd like to extend our thoughts to those impacted by the devastating and ongoing wildfires in Los Angeles. We are closely monitoring the situation and have teams across the bank involved in our collective response efforts to help best support our employees, customers, and their communities. Let me close by thanking our employees for their continued dedication to our clients, communities, and shareholders, and what was a meaningful year for the company.
+We will now open up the call for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Scott Siefers, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Scott Siefers,  Piper Sandler & Co. - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Morning guys. Thank you for taking the question. Hey, John, I was hoping maybe you could delve in a little more to discuss the drivers of the 3% to 5% expected full year '25 revenue growth. In other words, sort of how much comes from NII, how much ends up coming from fees?
+And maybe -- and then I guess a little clarification. When you're talking about the 1Q NII guide, I think you're saying flat excluding the day count difference. So I just want to be certain, we're thinking it would be down on a reported basis, marginally just due to [a fewer days].
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Right. Thanks, Scott. So let me take your last question first. Yes, excluding days, about $40 million would be lower on a reported basis. So stable excluding those two days of that $40 million. That's kind of -- that's how we're representing that.
+On the drivers on the 3% to 5% revenue growth, let me start with the fees and then I'll go over into net interest income. We had really solid and healthy growth on the fee side of things. And we have a lot of momentum building, and that's despite some headwinds that we saw, particularly on our prepaid, on the card side of things as well as freight. So some areas in the payment space that saw some headwinds.
+We also saw headwinds with the ATM exit of our cash servicing business. So those things will abate or have abated here in 2024. And so we see obviously momentum in the core. At Investor Day, we talked about our expectation for the medium term for our rate -- our expectations for 2026 and 2027 to be at mid-single digits for fee growth.
+And that's a reasonable range for us to really think about as we think about 2025 and it really comes down to core areas of growth within our trust area, we're seeing strong market share, fund formation. The macro is really strong there. Payments. We have good momentum in a number of areas, strategic initiatives that are underway. Treasury management and capital markets continue to have strong growth in certain areas.
+A couple of areas that we're watching is mortgage. Mortgages with these higher rates, it's hard to see volumes really persist or be a lot stronger than it was in the prior year and gain on sale is pretty stable as well. And then our other revenue will continue to be in that $125 million to $150 million range on an average basis per quarter. So put it another way, we expect fees to grow. We have strong momentum, and we think that is that mid-single digit is a reasonable place for us to begin.
+As we think about net interest income, again, well positioned. The balance sheet is in a great spot. We saw inflection in our -- throughout 2024. And we really think about three key drivers for net interest income. It's going to come from better asset mix, which we've seen more of a shift into higher returning assets. That shift will continue. We've seen deposit normalization. That's the noninterest-bearing rotation is starting to slow down and really stabilize at this level.
+And then importantly, fixed asset repricing on our back book is going to be a meaningful driver this year is particularly with the curve steepening. We've seen -- since we were last on this call, the curve -- I always look at SOFR versus a five-year treasury, that was meaningfully inverted back in September and now we're positive actually. And so we think the back book is going to give us some nice trajectory.
+Just as an example, we have about $3 billion of an investment portfolio that reprices per quarter, $3 billion that runs off, that can get replaced at 150 to 200 basis points of spread. And then on the other fixed rate assets that we have, which includes residential mortgage, commercial loans, and auto loans and things like that, we have $5 billion to $7 billion on average that reprice again at that 150 to 200 basis points mark. And that's assuming kind of today's rates.
+So either way, we're very confident in our growth, both on fees and net interest income. And you put it all together, and that's really where we come up with our 3% to 5% total revenue growth.
+
+--------------------------------------------------------------------------------
+Scott Siefers,  Piper Sandler & Co. - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Perfect. All good. I appreciate all the details now. Thank you.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [5]
+--------------------------------------------------------------------------------
+
+          You bet.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          John McDonald, Truist Securities
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+John McDonald,  Truist Securities, Inc - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Hey guys, I wanted to ask two strategic questions. Maybe the first one is for Gunjan. Just on payments, you reorganized the business yesterday or this week, you announced a new head to the consumer side. Maybe just kind of give us the plan for payments and what you hope the new organization and setup will do for the growth and opportunities there?
+
+--------------------------------------------------------------------------------
+Gunjan Kedia,  US Bancorp - President    [9]
+--------------------------------------------------------------------------------
+
+          Good morning, John. Let me just remind you of some of the facts that we shared last time. Payment’s franchise is a very strategic asset for us. And our sense is that we can do more to interconnect that product set with our consumer franchise and our institutional franchise. So the structure and splitting it into the two pieces that are more aligned with the two parts of the franchise is an expectation to accelerate execution. So it's not really a strategic focus.
+We are very pleased to welcome two very high-quality leaders. Mark Runkel, we announced earlier in the year. He stepped into his role on the institutional side and Courtney Kelso joins us from AmEx next month. So that was sort of the intention and the goal is to truly accelerate our execution around our vision for interconnectedness.
+
+--------------------------------------------------------------------------------
+John McDonald,  Truist Securities, Inc - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks Gunjan. Andy, maybe broader, just kind of where have you planted seeds for offense across the company. I think in the retail bank, you're looking in the Union franchise and maybe through your partners, Edward Jones and State Farm. But maybe just across the footprint, where are you excited about where US Bank has kind of invested for growth and you might be moving to the front foot?
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [11]
+--------------------------------------------------------------------------------
+
+          Thanks John and good morning. I think it's across all of our business lines. And it's that concept that we talked about in an Investor Day, which is about interconnectedness. But if you think about the momentum that John articulated and Gunjan talked about, our payments business, our Trust and Investment management business, our Commercial Products business, our retail business, the growth in deposit activity, our commercial business with the growth in targeted loan activity, profitable loans.
+So we really have a lot of momentum going in that, John, coupled that with sort of the headwind that was the yield curve that John talked about, I think, drives the positive momentum on net interest income. The fee categories we talked about, which I all think have positive momentum. And all of that is coupled with relatively flat expense for the last five quarters, which drives this positive operating leverage that we talked about.
+So across all the categories of revenue, it's positive, expenses well managed, and that's going to deliver the positive operating leverage.
+
+--------------------------------------------------------------------------------
+John McDonald,  Truist Securities, Inc - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Betsy Graseck, Morgan Stanley
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley & Co. LLC - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [15]
+--------------------------------------------------------------------------------
+
+          Hi, Betsy.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley & Co. LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          I noticed that it might in sound very ticky-tacky, but I just want to make sure I understand, what forward curve your NII guide is based on? And I think you mentioned today, but -- and the reason I ask is, as we all know, the forward curve has changed a lot between like beginning of December and today. So that's the first question.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [17]
+--------------------------------------------------------------------------------
+
+          Sure. So in terms of our curve, we do have two rate cut assumptions embedded, I think ones in May and one's in September. So that's kind of how we think about the short end of the curve. And the long end of the curve is at this level. So right now, the 10-year treasury is at [$4.65].
+That's probably a good place. That's kind of where we're at kind of throughout the year. Of course, we know that it's volatile, it's been volatile, and that's why I say the curve does matter when we kind of look at these sorts of things. But that's -- those are our projections.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley & Co. LLC - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Okay. Great. And can you help us understand how your projections would move in the event that you've got fewer rate cuts or the long end went up more?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [19]
+--------------------------------------------------------------------------------
+
+          Exactly. So again, we have continued to be neutral from an interest rate risk standpoint. So as I mentioned, we expect two cuts, but if those cuts don't manifest or the Fed even hikes, or there's more cuts, which we know the cycle is right, things will shift. We want to be as neutral as possible to those particular movements from the Fed on the short end of the curve. Where there is -- can be some changes really on the shape of the curve. So a steeper curve, the better off we are. If it's more inverted, then that would put a little bit more pressure on the net interest income. So at a high level, those are kind of the puts and takes.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley & Co. LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          And as we roll through the year, can you just give us a sense as to that fixed asset repricing? Is it coming through kind of quarterly cadence the same? Or is there any acceleration or deceleration during the year that we should be thinking about?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          It's pretty consistent. So I mentioned the $5 billion to $7 billion per quarter. I mean, it's going to range in that corridor each quarter. But it doesn't accelerate, it doesn't tail off. It's pretty consistent throughout the course of the year. Same on the investment portfolio, pretty consistent.
+
+--------------------------------------------------------------------------------
+Betsy Graseck,  Morgan Stanley & Co. LLC - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Okay, thank you so much.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [23]
+--------------------------------------------------------------------------------
+
+          You bet.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Ebrahim Poonawala, Bank of America.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  BofA Securities, Inc. - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  BofA Securities, Inc. - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Sorry if I missed this in your prepared remarks. When we think about the NII guidance for the year, your revenue outlook, what's underpinning that from a loan growth perspective, like, one -- so yes, what's the assumption of lower end deposit growth? And are we seeing any green shoots of a pickup in lending demand?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [28]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Ebrahim. So we did not comment yet on loans, but I would just say in terms -- for purposes of our forecast and how we're thinking about '25, we have pretty modest loan and deposit growth for the full year.
+Now, in terms of sentiment and things of that variety, clearly, there's a lot of positivity. Our client base is excited. I think there's a lot of momentum clearly in our pipelines that we can see has not yet translated into elevated loan growth at this point. But perhaps that changes we're thinking hopefully, in the back half of the year. We can see that pickup in loan growth. But in terms of our forecast and our projections, we anticipate modest for the year.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  BofA Securities, Inc. - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Got it. And I guess maybe just talk about -- I think you addressed a little bit around the payments business. As we think about the fee revenue sort of category across payments, if you can sort of drill into expectations around that year-over-year in context of your overall revenue guide, and obviously, you brought in a new Head of Payments yesterday. Remind us of the market positioning, are we winning share, losing market share? And what the ambition is there going forward? Thank you.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [30]
+--------------------------------------------------------------------------------
+
+          Sure. So as I mentioned in payments earlier, we have momentum on the core side. We had some headwinds there. So if I just kind of go through the different categories. On the card side of things, we had strong sales; on the credit card side, [5] just over -- nearly 6% really. And total revenue was hurt and prepaid this quarter by about 4 percentage points, given the [exiting] in some of our prepaid revenue. That's going to impact us again in the first quarter, but then we'll fully lap that in the second quarter.
+But continuing in the card side, we anticipate growth there, and we have a lot of momentum in different products. We have our Smartly card that is coming online. We have a lot of excitement around that. Our Union acquisition, increasing that penetration. So we continue to expect that mid-single-digit growth in terms of -- on the retail card side of things.
+On the merchant side of things, we've had, again, strong sales. Our tech-led formation and growth there has been really strong. We've been making investments. We expect travel to improve same-store sales to improve. Clearly, our growth rate in '24 was below our expectations and as we see a lot more high volume, lower margin type clients continuing their pace, we're looking at the growth rate as better than, of course, 2024, but it may not be at our aspiration of high single digits for 2025.
+And then on the CPS side of things, strong quarter. The growth that we had [their] best year. We've been making a lot of investments there. The pipelines are strong. Freight, we have lapped. So a lot of positive things there. And again, the Union penetration is going to be really paying off for us as well. And so we see high single digits there as well.
+
+--------------------------------------------------------------------------------
+Ebrahim Poonawala,  BofA Securities, Inc. - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          All right, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Erika Najarian, UBS.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Securities LLC - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Yes, good morning. You did announce that $5 billion share repurchase authorization during Investor Day, and I think the market got quite excited about that. In terms of the pacing of the buybacks, you did $100 million this quarter. I guess, I heard you guys loud and clear during the prepared remarks, but what are the puts and takes that you're considering in terms of thinking about that pacing? I know that you're looking for a modest pace to begin with. But if loan growth is a little soft and it seems like you have conservative guidance embedded in your revenue guide for balance sheet growth, what are the puts and takes in terms of the more modest start to buy backs?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [34]
+--------------------------------------------------------------------------------
+
+          Sure. At a high level, Erika, it's really the balance between growing our capital to get to where we need to be from a Category II perspective. We talked about 10% being an approximate level of where we want to be on a cat II basis. And obviously, we don't expect to be a cat II bank until 2027, or thereabouts. So that's really the one side of it.
+The other side is, as you said, loan growth, if it's weaker, then there's an opportunity for deployment. But we're going to be -- we're going to -- as we just started, we're stepping into this, and we talked about the next quarter and the pace thereafter is just going to be dictated on those factors that I just mentioned.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Securities LLC - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          And just as a follow-up here, and maybe this is for Andy. The way you laid out your projection on slide 15 in terms of the revenue guide and then positive operating leverage. If net interest income or payments swing one way or the other, either to the better or maybe softer, is the message here that there's -- you're now to a point where there is enough flex where regardless of the revenue environment, that 200-plus basis points is going to be sort of the baseline for what you can deliver in 2025?
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Sure, Erika. Short answer, Erika, is yes, it's 200 basis points plus on positive operating leverage. We do have flex on expense. I'm going to ask John to highlight some of the areas. But we've been managing to a flat expense base for a number of quarters. This is our fifth quarter of flat expenses. We're still investing in the company; we're managing across many different areas. And we are very confident in that positive operating leverage regardless of what the revenue environment is. And John, why don't you talk about some of the levers?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [37]
+--------------------------------------------------------------------------------
+
+          Yeah. Clearly, we've done a lot of work on the expense. We're very proud of the efforts that the teams have made thus far, but we have continued to see different levers that we're looking at. And will kind of throughout the year, kind of talk more about. But obviously, we had a notable item on the real estate side of things. There's -- continue to be optimization there. Procurement and third-party spend actions, we see opportunities as well as organizational simplicity and bringing fragmented groups together and centralizing certain aspects.
+And then just automation of processes. We have a lot of the investments that we've been talking about over Investor Day, help us manage that expense by automating certain processes. And then that inflection point that we talked about in terms of investment in our digital capabilities. So the stabilization of that digital investment we've increase that amount all along that J curve, if you will, and now we're at a flat place, and we're bending that cost curve on the digital side which we're really excited about.
+So those are kind of the main pieces. There's others. We have a lot of different initiatives, but those are the different levers that we look at.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Securities LLC - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Great. Thank.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [39]
+--------------------------------------------------------------------------------
+
+          Thanks Erika.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          John Pancari, Evercore ISI.
+
+--------------------------------------------------------------------------------
+John Pancari,  Evercore Group L.L.C - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [42]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+John Pancari,  Evercore Group L.L.C - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Just appreciate the color, the breakout of the revenue growth outlook by fees and then your commentary around net interest income. Just behind that net interest income commentary, and some of the drivers you mentioned around fixed asset repricing and deposit normalization, could you give us maybe your thoughts around the net interest margin trajectory as we look through the year?
+And perhaps maybe even help us with how the -- where the margin could end up as an [at the as an exit rate] coming out of 2025, just to help give us a better color around what it means for the medium-term trends? Thanks.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [44]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, John. And given the drivers, we do anticipate net interest margin to follow net interest income and increase, we certainly -- from a management standpoint, we don't manage the net interest margin. As an example, this quarter, it fell 3 basis points entirely due to liquidity, right. So I mean there's always going to be transitional puts and takes to it.
+But directionally, it should follow. We talked about at Investor Day, about how -- not that there's anything magical about 3%, but I mean, there's certainly a lot of momentum in all those categories and drivers that I just mentioned really to kind of get us into that level over time.
+I think the big things that can move it are really loan growth as that goes up and down, deposit management and then the shape of the curve, which impacts our fixed asset or our back book repricing. So those are going to be the components but certainly expect directionally the net interest margin to improve as we march through time.
+
+--------------------------------------------------------------------------------
+John Pancari,  Evercore Group L.L.C - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Got it. All right, John. And then separately, back to capital. On the M&A front, I know post the Investor Day, you've been clear that large -- a whole bank M&A would only be more of a consideration longer term as you look at your franchise versus a near-term opportunity. I guess, Andy, has that, or Gunjan, has that changed at all? Or just given the election results and how comprehensively we expect a regulatory supervisory role change across the different regulators? And then does it -- I guess another question would be what would change your view in terms of possibly putting M&A options more in the near-term view? Thanks.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [46]
+--------------------------------------------------------------------------------
+
+          So John, our perspective is the same, which is it's not a priority for us right now. The combination of the purchase accounting marks, the regulatory approval process, which may improve, but isn't clear yet. And the current bank valuations all factor into this.
+So while it may return large bank M&A, may return over the longer term, we're very focused on our organic growth opportunities because we have a lot of them. And that's where we're putting our efforts and priorities right now. And Gunjan, maybe you can highlight a couple of them because I think that emphasis is because of the opportunities that we have in front of us.
+
+--------------------------------------------------------------------------------
+Gunjan Kedia,  US Bancorp - President    [47]
+--------------------------------------------------------------------------------
+
+          Very true. Good morning John. I'll add that while the regulatory environment is very attractive for our organic growth opportunities, too, we saw a very significant acceleration of our trust and investment fees and our capital markets fees because investor confidence and consumer confidence is very high. So the ability to drive a real inflection in organic growth, with positive operating leverage is very much our focus. And it's across many parts of our business.
+On the product side, we have a balance sheet that would support a much bigger capital markets business. So we are very focused on that. We're introducing new capabilities there at quite a good pace. And the interconnectivity across our product sets is really deepening the franchise as well. So it's a very good strategy to drive growth with positive operating leverage, and that is our focus right now.
+
+--------------------------------------------------------------------------------
+John Pancari,  Evercore Group L.L.C - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Okay, great. Thank you, Gunjan.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [49]
+--------------------------------------------------------------------------------
+
+          Thanks John.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          Mike Mayo, Wells Fargo Securities
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [51]
+--------------------------------------------------------------------------------
+
+          Morning.
+
+--------------------------------------------------------------------------------
+Michael Mayo,  Wells Fargo Securities - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Now you're finally turning the corner on positive [orto] leverage. You said at least 200 basis points, I think, after, so long not having positive leverage. I think people are wondering -- it's kind of a show me story. I think you might understand that.
+Under what scenario do you think you could have more than the 200 basis points guide? Some other banks are actually guiding higher today and you have some a lot of tailwinds in the industry. So how high could that go? Because the stock's down, people are questioning this. What would be your reaction.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [53]
+--------------------------------------------------------------------------------
+
+          Mike, what we wanted to do is to provide a guy that we have confidence and that we're conservatively giving you numbers. I'm very confident in our ability to manage expense in this environment, and I'm very confident in the inflection [point] on the revenue components. So that's why we put a 200 basis point-plus on that guide. So we'll hit [200] at least.
+But to the extent that the market helps us on the revenue side with the yield curve and the things that John talked about, I expect it to be above that. But we want to give you a guide and an expectation that we're very comfortable with and that we take into account the different puts and takes that are a little bit out of our control like yield curve.
+
+--------------------------------------------------------------------------------
+Michael Mayo,  Wells Fargo Securities - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          And then more specific question. The merchant acquiring yield looked like it contracted 70 basis points year-over-year in the fourth quarter, and the revenues didn't accelerate most the volumes. Was that expected? Was that a surprise? Is there a competitive pressure? What's causing that 70 basis points contraction in the merchant acquiring yield? Thanks.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [55]
+--------------------------------------------------------------------------------
+
+          Sure. So Mike, I think I mentioned, although it was pretty quick when I mentioned that our client base, while we had strong growth in terms of same-store sales and [tech-led] initiatives, which are the tech-led has strong margins, and it continues to be about a third and has been growing a third of our total business on the merchant side.
+The growth on the other side of our client base has been in higher volume, lower margin, and that has persisted kind of throughout the year, and that's kind of creating that disconnect that you just mentioned and kind of talked about the expectations that we have here in 2025 as kind of followed because of that.
+
+--------------------------------------------------------------------------------
+Gunjan Kedia,  US Bancorp - President    [56]
+--------------------------------------------------------------------------------
+
+          I can add some color here, John, if I may. We were disappointed in the merchant results for this quarter as well, but the business is really showing two very different characteristics. That's the part that we are very proud of, which is the tech-led part, about a third of the business now.
+The value proposition to the customer and the client across our franchise is very strong there, and we see very nice growth rates there. talech and Salucro were two acquisitions we did around the retail space and the healthcare space. So that part, you see revenue and sales volumes show good patents.
+On the other side, we have a very vast group of partners, and we just saw growth in a few very large volume, low-margin businesses. And some of that might persist on that side of the business, but that was the quarter here.
+
+--------------------------------------------------------------------------------
+Michael Mayo,  Wells Fargo Securities - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          All right. Thank you.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [58]
+--------------------------------------------------------------------------------
+
+          Thanks, Mike.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+          Matt O'Connor, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Matthew O'Connor,  Deutsche Bank Securities Inc. - Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Good morning. I was wondering if you could talk about the trends in Commercial Products revenue. It was up nicely year-over-year, but was a little bit lower versus kind of the run rate you've seen the other quarters this year. Just remind us, I think there's a decent contributor of Capital Markets in that and remind us like what the drivers of the underlying businesses are?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [61]
+--------------------------------------------------------------------------------
+
+          Sure. So this is the Commercial Products, Matt, is what I heard you say. So yes, we had strong growth in Commercial Products has been a good story for us. We've highlighted it, of course, at various investor conferences. Obviously, at Investor Day then in a fourth quarter conference as well.
+So we've talked quite a bit about it. But the growth really came in a lot of different areas here. This quarter, it was in client-related derivative activity, which were either interest rate swaps or foreign exchange. Loan syndication was up as well, bond underwriting. And we're seeing the new products also kick in.
+So we've talked about some of our other ABS desk, syndication desks and commodities and things like that. And so that's -- it's about 20% of our growth this year was really on the new product side. And the verticals interconnectedness we have with the private credit side of things really help us focus in on that growth. And we expect -- and we've talked about our expectations with that, and nothing has really changed. We have high expectations for this business.
+
+--------------------------------------------------------------------------------
+Matthew O'Connor,  Deutsche Bank Securities Inc. - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Okay. And then separately on the deposits, the average deposits grew and I knew I noticed some seasonality on the period end. But they were down a little bit this quarter for the third quarter in a row. So maybe I just answered the question that there's too much seasonality to really focus on period end, but maybe just address that. And I think you did say you expect modest deposit growth. So anything to add to the narrative though that the period end was lower?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [63]
+--------------------------------------------------------------------------------
+
+          Sure. Yes. So for us, as we've talked about, the average balance is a better indicator than ending and the ending can really fluctuate. We do get -- we can get some pretty meaningful movements at the end of quarters, particularly in the third quarter was very strong from a deposit growth standpoint. And so even though we had a pretty big surge of deposits at the end of the fourth quarter, it was compared to a really high third quarter. So that's just kind of one example.
+In the first quarter, part of the reason we talk about a stable net interest income for the first quarter is in the first quarter, deposits seasonally declined, particularly in our institutional and wholesale side of things in DDA as an example, just because if you think about our operational accounts that we have there. There's a lot of either deployment of investments from our institutional clients or just overall investment from our corporate-related clients. And so that's kind of a driver of Q1 from a deposit standpoint.
+But overall, you should think about deposits being a modest growth consistent with the industry, those sorts of things is kind of how I'd characterize it.
+
+--------------------------------------------------------------------------------
+Matthew O'Connor,  Deutsche Bank Securities Inc. - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          David Long, Raymond James.
+
+--------------------------------------------------------------------------------
+David Long,  Raymond James & Associates - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone. Just wanted to stick with the deposit theme here. And when I look at your average cost -- deposit cost for the quarter, it came down in line with what I'm seeing with some of your peers. And just curious what you're seeing in the competition for deposits and in pricing? And how do you think that plays out throughout 2025?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [67]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, David. So from a deposit standpoint, and this is again, embedded in our growth projections and things like that of modest growth in deposits. I do expect it to be kind of equal in terms of either -- whether it's on the consumer side or on the institutional side. If I kind of break those two pieces apart, on the consumer side, it seems like things have been -- it's kind of either -- it comes and goes in terms of competitive nature, I would say, more lately with the rate cuts that have occurred, that's loosened things up. And so we're seeing a little bit better in terms of pricing competitively.
+It may not show up immediately this quarter. But over time, we would expect the retail competitiveness to moderate. On the institutional side, that also kind of comes and goes, but I would call it pretty standard at this point. I think the one negative or headwind right now is QT that's been drying up liquidity and that can create some competitive nature on the institutional side.
+But all in all, we expect to be obviously very competitive out there. We have a lot of new great products that are helping us grow deposits, and we feel very strongly about that. And those are kind of the main puts and takes.
+
+--------------------------------------------------------------------------------
+David Long,  Raymond James & Associates - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Excellent thanks, John, appreciate it.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+          Vivek Juneja, JPMorgan.
+
+--------------------------------------------------------------------------------
+Vivek Juneja,  JP Morgan Securities LLC - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Hi thanks. So a strategic question. Payments, there's been some discussion about that already. And it's a question we've talked on previous calls. Your -- I heard Gunjan's response, the [tech-leds] doing well, but the rest of companies to drag and that probably cut news into next year.
+Given the business, given the pricing pressures, have you considered about whether you should get rid of this business and deploy the capital to other areas where you're doing a much -- where you're in a much stronger position, getting better returns. Why wouldn't you think of that?
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [71]
+--------------------------------------------------------------------------------
+
+          I'll start Vivek and ask Gunjan to add on. But I think in this environment, this interconnectedness of banking and payments is as important as it's ever been. And the concept of moving money together with storing money and lending money is all intertwined. And to the extent we can offer these things together, with a terrific technology platform that we have, and also have the ability to grow that in a very capital-efficient, fee focused way is why we want to retain the business.
+And the interconnectiveness of that is as critical as it's been in the last 20 years. So we're very focused on this business because of that opportunity. And Gunjan why don't you add on?
+
+--------------------------------------------------------------------------------
+Gunjan Kedia,  US Bancorp - President    [72]
+--------------------------------------------------------------------------------
+
+          Good morning, it's a thoughtful question. And I'll add to what Andy is saying here. First, just -- we are talking about deltas to expectations, but the business has very high returns. It's a very attractive business. It is an area where a lot of competitive set has been building market share, and we are seeing more disciplined come into this industry, just focus on profitability, focus on a return on investments rather than just market share gains.
+And if you look long term, it is the one product where we have frequent deep and embedded interactions with our clients, and it anchors the client value proposition and the client retention in a way that is very hard to do from some of the banking and some of the more sort of routine products. So we have deep conviction that money movement needs to be on the center of a financial relationship with the clients surrounded by banking capabilities.
+I also just remind you of the size of just the various parts of our payments business. It's a 25% of our total revenue, two-thirds of that our core credit card, card issuing business, very healthy, very steady market shares there. Our corporate payment and card issuing business is also looking at very healthy pipelines.
+All of this gives us great capacity to stay with the [indiscernible] business and build it out both for the small business and for the corporate areas. So to answer your question, it's a good question. And strategically, you want this capability in the mix with your clients.
+
+--------------------------------------------------------------------------------
+Vivek Juneja,  JP Morgan Securities LLC - Analyst    [73]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [74]
+--------------------------------------------------------------------------------
+
+          Thanks Vivek.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+
+          Bill Carcache, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research Securities - Analyst    [76]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking my question. Your tech-led merchant processing service revenue growth seems solid at a time, there's still a perception that you're at a disadvantage to some of your fintech competitors. Can you take us inside of that 9% growth and discuss the breakdown between new additions and versus customer attrition?
+
+--------------------------------------------------------------------------------
+Gunjan Kedia,  US Bancorp - President    [77]
+--------------------------------------------------------------------------------
+
+          Good morning Bill, let me just start here. So the competition on the tech-led comes in two ways. One is the user experience on the front end. What we do with our partners here in the tech-led space is provide the reliability, the operations. It's not easy to be the back-end partner of a unique value proposition in the front.
+So it's fraud monitoring. It's transaction monitoring. It's reliability of systems. It's all of the networks that go into it. This is a very good partnership as much as it is competition with other areas. It's a matter of where you're playing role. And we do expect that to be a really strong -- really strong contributor to the growth rate of this business. And as time go by, it will take over more and more of the total franchise.
+To your question around sort of the new business versus now It's a very dynamic space. I mean we have a vast number of partnerships and their success in the front end can shift that mix a little bit. So it's really the portfolio that we manage to.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research Securities - Analyst    [78]
+--------------------------------------------------------------------------------
+
+          Got it. Separately, following up on your NIM commentary, I may have missed this, but where did deposit funding costs in the quarter end? And where would you expect the average cost to grow from here given your rate expectations?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [79]
+--------------------------------------------------------------------------------
+
+          Sure. So from a deposit cost standpoint, maybe I'll speak to it in beta terms because I think it's just easier to utilize that because obviously, you're going to see a little bit of impact next quarter, but the Fed moves that we saw in the fourth quarter will impact the first quarter. So our cumulative beta through the fourth quarter was 38%. We anticipate our beta to be at kind of the mid- to high-40%s as we look at first quarter results. And so you'll see that decline on the deposit rate as we move forward.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research Securities - Analyst    [80]
+--------------------------------------------------------------------------------
+
+          Got it. If I could squeeze in one last one. Can you discuss how much cash flow and fair value hedge notional is active? I guess, how that exposure changes as we progress through the year? And any color on versus receive rates for both?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [81]
+--------------------------------------------------------------------------------
+
+          Sure. So this quarter is actually a really good example of our hedging program at work and why it's working as intended. We have pay fixed swaps, and we have received fixed swaps. The pay fix swaps are intended to help protect capital when interest rates rise. They did rise. We saw 80 basis point upward movement. Our AOCI number did increase, but not nearly the magnitude that perhaps others and things of that right. And that helps us manage that cat II capital level that I spoke to.
+Obviously, with pay fixed swaps, that's going to create a little bit of a drag on NII. However, offsetting that was our received fixed swaps that were attached to either commercial loans or debt and those received fixed swaps increased our rate relative to where they would have been otherwise. And so you can think of those as largely offsetting. So from an income standpoint, the hedges are relatively neutral.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research Securities - Analyst    [82]
+--------------------------------------------------------------------------------
+
+          Thank you for taking my questions.
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [83]
+--------------------------------------------------------------------------------
+
+          You bet.
+
+--------------------------------------------------------------------------------
+Operator    [84]
+--------------------------------------------------------------------------------
+
+          Saul Martinez, HSBC.
+
+--------------------------------------------------------------------------------
+Saul Martinez,  HSBC Securities Inc. - Analyst    [85]
+--------------------------------------------------------------------------------
+
+          Hey, good morning guys. I think Vivek asked my question, but I'll maybe ask it another way. I guess I'm struggling to see how you differentiate yourself in the merchant [product business]. With the exception of maybe Chase, most banks have a lot of share over the years. There's enormous amount of innovation in that space, a lot of capital in that space. You see the shift in power to software providers and legacy merchant acquirers have lost share over the years. I guess like what I was going to ask you is whether you can make an argument that it's worth more to somebody else than to you?
+And I guess the answer to that question from your answer to Vivek's question is that it does provide value to the entire franchise to the entire business? Is that the answer? And I guess the adjuvant to that question is how do you measure success in the acquired business? Is this -- are you looking at just volume growth, revenue growth? Are there other measures? How do you measure whether you're -- whether this business -- you're succeeding in your strategy here and this business is adding value to the entire franchise?
+
+--------------------------------------------------------------------------------
+Andrew Cecere,  US Bancorp - Chairman of the Board, President, Chief Executive Officer    [86]
+--------------------------------------------------------------------------------
+
+          So I'm going to start and then ask Gunjan to add on. This is Andy. I'm going to start by reiterating what I said before, which is this interconnectiveness of banking and money movement and payments. And we've made investments in categories and verticals that are very focused on capabilities to provide information and help those businesses run their platform and their business like healthcare and some of the other areas that we're focused on.
+So what's happened in payments and money movement has become more embedded in the banking component. And I think that's our advantage versus a pure-play merchant provider, is interlocking those components to help them run their business. And we've focused in certain verticals that are, I think, very important in terms of our overall growth opportunities. And in terms of what we're looking for, it's all those things. It's top line revenue growth, but importantly, bottom line profitable revenue growth.
+And the progress we've made in the tech-led, the interconnected components that we've talked about in terms of those verticals we're focused on, are all indications that we're headed in the right direction. We're not where we want to be yet. We're heading the right way. Gunjan, what would you add?
+
+--------------------------------------------------------------------------------
+Gunjan Kedia,  US Bancorp - President    [87]
+--------------------------------------------------------------------------------
+
+          Add the power of the distribution franchise, we have 15 million clients. And if you look at stand-alone players that bring a very high level of innovation, as you called it, to the table. Their gap is the client franchise, and that's where the partnerships come with some of the innovation in the industry. Saul, it's a lot of infrastructure and investment to connect the transaction and the provision of the services beyond the user experience and the innovation in the front. And so we see very significant demand for a partnership with us.
+But the model has to transform in the direction that we are going, where we need to be able to provide and connect and have a very easy onboarding experience, very easy, quick ability to bring merchants on and off. And that's all of the investments that we have we have been making. So it's the distribution side and it's all of the back-end product capabilities that may give us the competitive edge here.
+
+--------------------------------------------------------------------------------
+Saul Martinez,  HSBC Securities Inc. - Analyst    [88]
+--------------------------------------------------------------------------------
+
+          Okay. That's helpful. I guess just a quick follow-up then on deposits, John. I guess we're closer to the end of the rate cutting cycle, although seemingly every day, there's a shift in what the forward curve is expecting. But remind us what the through the cycle, on the beta you're expecting? I hear mid- to 40%s in Q1. I think like -- I think high 40%s, low 50%s is what you -- is that the right through the cycle beta?
+
+--------------------------------------------------------------------------------
+John Stern,  US Bancorp - Chief Financial Officer, Senior Executive Vice President    [89]
+--------------------------------------------------------------------------------
+
+          That's right Saul. So we think about -- 38% is the spot through the cycle as of this quarter. We expect mid- to high 40%s in the first quarter and assuming there's additional cuts, we would migrate kind of through the cycle to that 50%; north of that level is kind of where our expectations are.
+
+--------------------------------------------------------------------------------
+Saul Martinez,  HSBC Securities Inc. - Analyst    [90]
+--------------------------------------------------------------------------------
+
+          Got it. Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [91]
+--------------------------------------------------------------------------------
+
+          And there are no further questions at this time, Mr. Anderson. I'll turn the conference back over to you.
+
+--------------------------------------------------------------------------------
+George Andersen,  US Bancorp - Director, IR    [92]
+--------------------------------------------------------------------------------
+
+          Thanks Audra. Thank you to everyone who joined our call this morning. Please contact the Investor Relations department if you have any follow up questions. You may now disconnect the call.
+
+--------------------------------------------------------------------------------
+Operator    [93]
+--------------------------------------------------------------------------------
+
+          And this concludes today's conference call. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

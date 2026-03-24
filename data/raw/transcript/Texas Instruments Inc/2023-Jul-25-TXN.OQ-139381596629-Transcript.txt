@@ -1,0 +1,402 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2023 Texas Instruments Inc Earnings Call
+JULY 25, 2023 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dave Pahl
+   Texas Instruments Incorporated - Head of IR & VP
+ * Rafael R. Lizardi
+   Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Brett Danely
+   Citigroup Inc., Research Division - MD & Analyst
+ * Toshiya Hari
+   Goldman Sachs Group, Inc., Research Division - MD
+ * Christopher Caso
+   Wolfe Research, LLC - MD
+ * Vivek Arya
+   BofA Securities, Research Division - MD in Equity Research & Research Analyst
+ * Stacy Aaron Rasgon
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+ * Harlan L. Sur
+   JPMorgan Chase & Co, Research Division - Executive Director and Head of U.S. Semiconductor & Semiconductor Capital Equipment
+ * Joshua Louis Buchalter
+   TD Cowen, Research Division - VP
+ * Blayne Peter Curtis
+   Barclays Bank PLC, Research Division - Director & Senior Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [1]
+--------------------------------------------------------------------------------
+Welcome to the Texas Instruments second quarter 2023 earnings conference call. I'm Dave Pahl, head of Investor Relations, and I'm joined by our Chief Financial Officer Rafael Lizardi.
+For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website.
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today, as well as TI's most recent SEC filings, for a more complete description.
+Today, we'll provide the following updates. First, I'll start with a quick overview of the quarter. Next, I'll provide insight into second quarter revenue results, with some details of what we're seeing with respect to our end markets. And lastly, Rafael will cover the financial results and our guidance for the third quarter of 2023.
+Starting with a quick overview of the quarter:
+Revenue in the quarter came in about as expected at $4.5 billion, an increase of 3% sequentially and a decrease of 13% year over year. Analog revenue declined 18%, Embedded Processing grew 9%, and our "Other" segment declined 10% from the year-ago quarter.
+Now, I'll provide some insight into our second quarter revenue by market. During the quarter, we experienced continued weakness across all markets, except automotive. Similar to last quarter, I'll focus on sequential performance, as it is more informative at this time.
+First, the industrial market was about flat.
+Next, the automotive market was up low-single digits.
+Personal electronics was up low-single digits, after several quarters of sequential declines.
+And next, communications equipment was down mid-teens.
+And finally, enterprise systems was down mid-single digits.
+Rafael will now review profitability, capital management and our outlook. Rafael?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [2]
+--------------------------------------------------------------------------------
+Thanks, Dave, and good afternoon everyone.
+As Dave mentioned, second quarter revenue was $4.5 billion, down 13% from a year ago. Gross profit in the quarter was $2.9 billion, or 64% of revenue. From a year ago, gross profit decreased primarily due to lower revenue, increased capital expenditures and the transition of LFAB-related charges to cost of revenue. Gross profit margin decreased 540 basis points.
+Operating expenses in the quarter were $938 million, up 12% from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.6 billion, or 19% of revenue.
+Operating profit was $2 billion in the quarter, or 44% of revenue, and was down 28% from the year-ago quarter.
+Net income in the second quarter was $1.7 billion, or $1.87 per share.
+Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $1.4 billion in the quarter and $7.4 billion on a trailing 12-month basis. Capital expenditures were $1.4 billion in the quarter and $4.2 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $3.2 billion.
+In the quarter, we paid $1.1 billion in dividends and repurchased about $80 million of our own stock. In total, we have returned $6.5 billion in the past 12 months.
+Our balance sheet remains strong with $9.6 billion of cash and short-term investments at the end of the second quarter. In the quarter we repaid $500 million of debt and issued $1.6 billion of debt. Total debt outstanding was $11.3 billion with a weighted average coupon of 3.5%.
+Inventory dollars were up $441 million from the prior quarter to $3.7 billion, and days were 207, up 12 days sequentially.
+For the third quarter, we expect TI revenue in the range of $4.36 billion to $4.74 billion and earnings per share to be in the range of $1.68 to $1.92.
+Lastly, we continue to expect our 2023 effective tax rate to be about 13% to 14%.
+In closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, a broad product portfolio, reach of our channels, and diverse and long-lived positions.
+We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term.
+With that, let me turn it back to Dave.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [3]
+--------------------------------------------------------------------------------
+Thanks, Rafael. Operator, you can now open the lines for questions. In order to provide as many of you as possible the opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an opportunity for an additional follow-up. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question comes from the line of Vivek Arya with Bank of America Securities.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [2]
+--------------------------------------------------------------------------------
+I had a high-level question, which is, when I compare TI sales growth right down almost 13%, 14% in the near term, down double digit, versus peers, it's significantly below. And when I look at your trailing 12-month free cash flow of sub-17%, if my model is right, that is the lowest since 2010. But at what point will TI say that something needs to change in the strategy to help close the gap on the growth side and to help free cash flow margins get back to the trend line? So I understand that, obviously, you're not optimizing the model for just one year. But now, we have seen just consistent decline in free cash flow per share, which is your preferred metric. So at what point should we start to see free cash flow get back to historical trends?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [3]
+--------------------------------------------------------------------------------
+Yes. So thanks, Vivek. Let me start, and Dave, if you want to chime in. But big picture, a step back to what we told you during capital management, and the investments that we're making are long term in nature, as you alluded to in your question, and we are going to enable revenue growth for the company for the next 10 to 15 years, okay? So that's how we're thinking about it. And that's why we're making these investments on CapEx, in particular, about $5 billion per year for the next four years. And we are committed to those investments. We're excited to making those investments regardless of the short-term fluctuations of revenue. And of course, lower revenue means lower operating cash, which now, with the CapEx -- that's what you're seeing on the free cash flow, it's not unexpected.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [4]
+--------------------------------------------------------------------------------
+Yes. And maybe I'll just add that, Vivek, as you know and have followed us for some time, one of our competitive advantages is manufacturing and technology. So these CapEx investments really are strengthening that advantage over time. It's fairly obvious that -- those investments will allow us to produce products at significantly lower cost when -- to service demand. And controlling those assets in today's world is increasingly important. So customers can see the investments that we're making. Not only with that, the other systems that we've got to make it easier to do business with us, combined with the inventory we're putting in place to support their growth, and customer reaction is extremely positive to that. So we believe these will be great investments for all of us long term.
+Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Vivek Arya,  BofA Securities, Research Division - MD in Equity Research & Research Analyst    [5]
+--------------------------------------------------------------------------------
+Yes. I guess maybe, to say -- ask the same question but in a different way, right? And with respect -- I mean, TI had the same strategy two or three years ago also, but we saw sales grow worse than peers last year. And sales are again growing worse than peers this year. So it's not a one quarter or two quarter phenomena. Sales have been undergrowing your peer group for almost two years now. And CapEx is growing while sales are declining. So that's why I'm questioning whether the strategy is still right, whether the results are actually justifying the strategy?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [6]
+--------------------------------------------------------------------------------
+Yes, I'll start, and Rafael, if you want to add. Again, we've talked about is share doesn't move quickly inside of our markets. I think that depending on the period you're comparing to, oftentimes, the market exposure can explain a good portion of it. There's other factors, like how much distribution is someone using. As you know, we've transitioned from mostly using distribution to mostly having revenue come direct. So there was inventory that needed to be burned out of the channel as we made that transition.
+So there's multiple factors. I think going forward, our confidence in being able to continue to gain share is extremely high. Customer reaction to the capacity that they know they need to have, wanting to know that they've got capacity runway, not from someone's manufacturing supplier, but directly from someone that makes their products, is -- really resonates with customers.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Toshiya Hari with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [8]
+--------------------------------------------------------------------------------
+My first one is on your Q3 guidance. You're guiding revenue up 1% sequentially. Dave, you called out automotive as the one end market that continues to be healthy. But anything to point out or any standouts as you think about the sequential trajectory from Q2 to Q3? Or is it a continuation of what you saw in Q2?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [9]
+--------------------------------------------------------------------------------
+Yes. I'll just point out that this last quarter, we saw weakness across the board in our markets with the exception of automotive, like you've called out. And just to point out that that continued asynchronous behavior, we had PE weaken back in second quarter a year ago, and the other markets followed, but obviously, the exception of that with automotive continued to be strong. And it's up over 20% year on year. So definitely very strong growth there. And as we look into third quarter, we're not expecting to see any significant change in our end markets compared to this last quarter.
+Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [10]
+--------------------------------------------------------------------------------
+I do. So inventory on your balance sheet was up, I think, 13% sequentially. Days grew to 207. I know on your capital management call, you revised up the upper range of your target to more than 200. I also appreciate, Dave, the transition from disti to direct. But at what point do you think you need to cut production or cut utilization rates and start to manage down inventory? Are you still comfortable with where things are today?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [11]
+--------------------------------------------------------------------------------
+Yes. No, thanks for the question, Toshiya. Yes, we are comfortable where we are. As a reminder, our objective for inventory is to maintain high levels of customer service and minimize obsolescence. I would point you to Slide 13 at our capital management call. That shows the semiconductor cycle over many years, over about 30-some years in what -- that informs us on what could happen in the future. And we're planning for the long-term growth through those cycles, not in any one quarter or even any one year. And of course, inventory levels always depend on demand expectations. And for the time being in the near term, they will likely have an upward bias.
+
+--------------------------------------------------------------------------------
+Toshiya Hari,  Goldman Sachs Group, Inc., Research Division - MD    [12]
+--------------------------------------------------------------------------------
+Okay. So just to clarify, you're still running your fabs full at this point?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [13]
+--------------------------------------------------------------------------------
+Utilization this last quarter was lower than the previous quarter. That was largely a function of adding capacity.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Stacy Rasgon with Bernstein Research.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [15]
+--------------------------------------------------------------------------------
+For my first one, just to follow up on that. You said inventories have an upward bias. So that means inventory like dollars and days you expect to increase again in Q3?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [16]
+--------------------------------------------------------------------------------
+Well, the days depend on revenue, of course, but on the dollars -- has an upward bias. So there's very likely that the dollars will go up in Q3. Of course -- and you know this, right, but inventory is on the balance sheet at one point in time, but it's meant to support the future growth, and 200 days is about couple of quarters' worth of inventory in various stages of finish.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [17]
+--------------------------------------------------------------------------------
+How many quarters are they going to keep going up for, though?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [18]
+--------------------------------------------------------------------------------
+That's going to depend on revenue expectations, beyond now and then, the decisions that we make on the factory, and we forecast one quarter at a time. Just know that our thinking, it's long term in nature, as I talked -- as I mentioned to Toshiya in the previous call. And we're managing through the cycles, right? So not what's going to happen in one quarter or even two quarters, what we think is going to happen over longer than that on inventory. On capacity, we're adding capacity that's going to support us for many years, right? So it's going to give us plenty of headroom.
+One more comment on inventory just for those who maybe have not listened to us very often, but you know there's -- our inventory has very low obsolescence. The bulk of it is for catalog parts that -- the inventory itself lasts years, in fact, up to 10 years on the shelf, but the product life cycles are very long with our customers, and we have, in many cases, tens or dozens of customers that buy the product. So the risk of obsolescence is very low in the dollar.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [19]
+--------------------------------------------------------------------------------
+Okay. Thank you, Stacy. We'll go to the next caller, please.
+
+--------------------------------------------------------------------------------
+Stacy Aaron Rasgon,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [20]
+--------------------------------------------------------------------------------
+Oh. Was that my...
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [21]
+--------------------------------------------------------------------------------
+That was your second -- Yes, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Chris Danely with Citigroup.
+
+--------------------------------------------------------------------------------
+Christopher Brett Danely,  Citigroup Inc., Research Division - MD & Analyst    [23]
+--------------------------------------------------------------------------------
+Thanks, guys. And by the way, thanks for having a nice, concise conference call. It's unique in semis and much appreciated. My first question is just on lead times and shortages. Given all the capacity you're adding in the inventory, can we pretty much say that TI lead times are the lowest, at least among peers, and the shortages are all gone? Are we pretty much, I guess, "back to normal"? And I mean, are there any metrics that you could share with us sort of now versus three or six months ago on the improvement there?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [24]
+--------------------------------------------------------------------------------
+Yes. Chris, what I would -- how I would frame it today is we've got -- the vast majority of our products are available on TI.com for immediate shipment. And as Rafael talked about, whenever the upturn does come, we'll have product available as well as capacity behind that to be able to support that demand.
+Now if a customer wants to give us an order at lead time, those lead times over the cycle haven't changed that much. So they can place that order, or if they need inside of that, they can -- for the vast majority of the products -- have it available. Now we do have hot spots. We'll probably always have a place where we have a demand and supply imbalance. But those hot spots are closing, and closing pretty quickly. As Rafael talked about, we're bringing on capacity every quarter. So that just gives us more flexibility to be able to meet the customer demand. But it does vary beyond what we've got on hand.
+Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Christopher Brett Danely,  Citigroup Inc., Research Division - MD & Analyst    [25]
+--------------------------------------------------------------------------------
+Yes, earlier in the call and in a bunch of the calls, you keep talking about your advantages in manufacturing, and given you have more internal manufacturing and more 300-millimeter than the competitors. Are you -- I guess, are you guys getting a little more aggressive on price? Are you able to price below the competition? Is this something that has happened recently? Some of your competitors have, I guess, "complained" about TI getting more aggressive in price recently. I just wanted your response to that.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [26]
+--------------------------------------------------------------------------------
+Yes. Yes. Thanks for the question, Chris. Our pricing strategy hasn't changed. And of course, we regularly monitor with the pricing of all of our products, and we may -- maintain the goal to continue to gain share over time. But there's nothing unusual going on with pricing today. And I'll point out the fact that when we opened up our RFAB 1, we had 75% of the tools needed inside of that factory, and there was hand-wringing back then, if you remember, that we were going to do something unnatural. And what we talked about was putting in place that capacity to support growth, and that's what it did.
+So thank you, Chris, we'll go to the next caller.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Harlan Sur with JPMorgan.
+
+--------------------------------------------------------------------------------
+Harlan L. Sur,  JPMorgan Chase & Co, Research Division - Executive Director and Head of U.S. Semiconductor & Semiconductor Capital Equipment    [28]
+--------------------------------------------------------------------------------
+Yes. Up until the March quarter, the team had seen three consecutive quarters of increasing cancellations and pushouts, sort of the typical sort of customer behavior in a weak demand environment. Did the team continue to see cancellations and pushout activity expanding in the June quarter? Or have you guys -- or have you or are you seeing signs of stabilization?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [29]
+--------------------------------------------------------------------------------
+Yes. The way I describe that is the cancellations remain at elevated levels. And we believe that customers are continuing to work down inventories to get that more in line with their demand.
+Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Harlan L. Sur,  JPMorgan Chase & Co, Research Division - Executive Director and Head of U.S. Semiconductor & Semiconductor Capital Equipment    [30]
+--------------------------------------------------------------------------------
+Yes. Thanks for that. So your Embedded business continues to hold up very well, right? I think trailing 12 months, it's up 9% year over year versus your Analog business, which is down 7%. I know part of it is due to the strategy, the refocusing of the MCU businesses over the past few years. More general purpose, catalog-focused, right? But it also seems to be reflecting this broader trend in the industry, if I look at the SIA data, if I look at you and your other MCU competitors, where -- industry MCU trends year over year are holding up much, much better versus the analog. I just wanted to get the team's perspective on why the large delta in performance Analog versus Embedded?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [31]
+--------------------------------------------------------------------------------
+Yes. Yes, thanks for that question, Harlan, and how you framed it. I would say at a top level, the changes that we have made to our product portfolio, the design in that and the customer response to those products as we've put them out in the marketplace continues to be very strong. Our confidence that that business will grow and gain market share over the long term is extremely high, based on that. And as we've talked about before, we're putting in place to be able to support that growth for Embedded internally, and that is a position that we haven't been in quite some time.
+Near term, I would say, besides things stabilizing, we've experienced greater supply constraints over the last two years, as Embedded has previously had to rely on foundries to supply that demand. And so those constraints are alleviating. And I think that that's just something that you see across the industry.
+So thank you, Harlan. And we'll go to the next caller.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Blayne Curtis with Barclays.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays Bank PLC, Research Division - Director & Senior Research Analyst    [33]
+--------------------------------------------------------------------------------
+I just wanted to go back to the decision. I mean, I understand the inventory is not going to be obsolete, but it's eventually going to kind of steal from your future ability to scale gross margins. So I mean, at the current run rate, you're kind of building at like a $23 billion run rate, and it's going to only increase next year. So what's the harm in pulling it back a bit? I'm just trying to understand in interim here, just pulling back utilizations and not building so much inventory.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [34]
+--------------------------------------------------------------------------------
+In the big scheme of things, our goal here is to support revenue growth. It's not, frankly, to optimize short-term fluctuations in gross margins. Those are not irrelevant, of course, but it's just the focus is on supporting revenue growth in the short term, midterm and long term. And inventory supports short-term to midterm fluctuations, right, that we can mitigate with having plenty of inventory. And the incremental cost of inventory is really low. As we talked about, on the obsolescence side, also on the variable cost nature of what goes into inventory. So it's just sort of just things that we keep in mind when -- in trying to make those decisions.
+
+--------------------------------------------------------------------------------
+Blayne Peter Curtis,  Barclays Bank PLC, Research Division - Director & Senior Research Analyst    [35]
+--------------------------------------------------------------------------------
+Yes. I just wanted to ask on gross margins. I mean, I know you don't give perfect color, but it seems like it's down at least 150 basis points sequentially. Maybe consumers are mixed. But I'm just kind of curious, is it just depreciation layering in? Or is there any other puts and takes on gross margin?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [36]
+--------------------------------------------------------------------------------
+So I assume you're talking about third quarter? So yes, our guidance, and as you pointed out, we only give top line and EPS. But our guidance is the best estimate that we have in our gross margins -- or I'm sorry, that guidance embeds -- the revenue is flat in that particular case, and it embeds the resulting depreciation and other related costs from added capacity over time.
+On a year-on-year basis -- I know you asked sequentially, but just a reminder -- on a year-on-year basis, keep in mind that last year we had the Lehi acquisition fab cost in restructuring, and now it is in COR, in cost of revenue, as of December of last year is when it moved.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [37]
+--------------------------------------------------------------------------------
+Yes. So yes, so year on year, the change in revenue, the increase in -- or moving of the cost from restructuring into -- most of that into cost of revenue. And as well as depreciation.
+So thank you, Blayne.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Joshua Buchalter with TD Cowen.
+
+--------------------------------------------------------------------------------
+Joshua Louis Buchalter,  TD Cowen, Research Division - VP    [39]
+--------------------------------------------------------------------------------
+I guess I wanted to follow up on the previous one and ask about -- we understand that the depreciation flow through, that it is what it is. But can you maybe talk through some of the near- to medium-term milestones, when the 300-millimeter increased output could start to benefit gross margin and sort of help offset the depreciation headwinds?
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [40]
+--------------------------------------------------------------------------------
+Yes. Just -- what I would tell you is depreciation, the way we depreciate equipment is over five years. Buildings is much longer, usually they average about 30 years or so. But consider that that equipment lasts a lot longer than five years, right? We have factories today that are running on 50 years plus. And some of that has had upgraded equipment. But broadly speaking, that equipment lasts for decades, not the five years where we depreciate it. So it's probably an unfair comparison to try to put the 300 benefit next to the depreciation and expect an offset in the short term.
+I would suggest you think of it from a cash standpoint. We're investing that CapEx. It's cash. Forget about the depreciation, it's -- CapEx is what we're investing. That's going to enable growth by adding that internal capacity, which, as Dave alluded to earlier, that is geopolitically dependable capacity. We're putting as many as four fabs in Sherman, two in Richardson, two in Lehi in Utah. And then assembly test facilities in Asia, primarily Malaysia and Philippines, for example. So that's going to put us in a really great position to grow the top line for a long time. And then what happens there is that that yields a lot of operating cash for the company that then we can either redeploy or return to the owners of the company after those investments.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [41]
+--------------------------------------------------------------------------------
+Do you have a follow-on, Josh?
+
+--------------------------------------------------------------------------------
+Joshua Louis Buchalter,  TD Cowen, Research Division - VP    [42]
+--------------------------------------------------------------------------------
+Yes, sure. I recognize the language is similar last quarter regarding the end market commentary. But did anything change? Any better or worse intraquarter? And in particular, personal electronics grew, you've talked in the past about it sort of being a four-quarter cycle. Is it safe to say that that's sort of bottom now?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [43]
+--------------------------------------------------------------------------------
+Yes. Again, I think that overall, we had continued to see that asynchronous behavior as we started back a year ago. And so that has continued. PE, again, it started -- we started to see weakness in Q2, so we've completed now. It actually grew first to second. So we've got several quarters of decline. It was up slightly sequentially. And again, we're not expecting much change in our end markets as we look forward.
+So okay. Thank you. And let's go to our last caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Our last caller comes from the line of Chris Caso with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Christopher Caso,  Wolfe Research, LLC - MD    [45]
+--------------------------------------------------------------------------------
+I guess just following up on the last few questions. Perhaps you could differentiate a little bit about where you think your customers are still burning through inventory as compared to end demand. And as you noted, the PE segment started to see weakness earlier. We heard from some others that it's no longer an inventory issue. It's more of a demand issue. Perhaps you could talk to that for some of your other end markets? And where we could see incremental weakness of customers still need to bring down inventory further.
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [46]
+--------------------------------------------------------------------------------
+Sure. Yes, Chris, I think if you look across the end markets broadly, you could say that all of them showed weakness and reflective of customers reducing inventories, with the exception of automotive. And even inside of that, of course, if you look at industrial, it's not -- all the sectors aren't identical, meaning you've had strength in aerospace, grid infrastructure, in other sectors like that. So -- and PE is the same way, not all of the sectors were as weak or as strong as others. So -- but broadly, you could say it was across each of those markets.
+Do you have a follow-on?
+
+--------------------------------------------------------------------------------
+Christopher Caso,  Wolfe Research, LLC - MD    [47]
+--------------------------------------------------------------------------------
+I do. And maybe as a follow-on, I'll hit on the segment that has remained strong, auto. And when this downturn began, I believe your commentary was that auto was -- had remained stable then. You thought that eventually it would come to auto just because it always has in the past. So far, it hasn't. I think it surprised a lot of us, the resilience on that. Has your view changed about the resilience of the auto market? Do you still expect that that has to correct at some point? And if not, why do you think it's different?
+
+--------------------------------------------------------------------------------
+Dave Pahl,  Texas Instruments Incorporated - Head of IR & VP    [48]
+--------------------------------------------------------------------------------
+Yes. So it wouldn't surprise us if it corrected. I don't think anyone can declare certainty on those types of things in the future. But I think that customers will build inventory. I've got 37 years of experience in the industry now, and that's the way the markets have behaved in the past. So that's generally a good guide in the future, but I think you can't pound the table and make absolutes, but certainly wouldn't be surprised if that were the case.
+So with that, we'll hand it over to Rafael to wrap this up.
+
+--------------------------------------------------------------------------------
+Rafael R. Lizardi,  Texas Instruments Incorporated - CFO and Senior VP of Finance & Operations    [49]
+--------------------------------------------------------------------------------
+Thanks, Dave.
+Let me wrap up by emphasizing what we have said previously. At our core, we're engineers, and technology is the foundation of our company, but ultimately, our objective and the best metric to measure progress and generate value for owners is the long-term growth of free cash flow per share.
+While we strive to achieve our objectives, we will continue to pursue our three ambitions. We will act like owners who will own the company for decades. We will adapt and succeed in a world that's ever changing. And we will be a company that we are personally proud to be a part of and would want as our neighbor. When we are successful, our employees, customers, communities and owners all benefit.
+Thank you, and have a good evening.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+And this concludes today's conference, and you may disconnect your lines at this time. Thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

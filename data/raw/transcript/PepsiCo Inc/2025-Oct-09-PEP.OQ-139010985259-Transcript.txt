@@ -1,0 +1,529 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 PepsiCo Inc Earnings Call
+OCTOBER 09, 2025 / 12:15PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Caulfield
+   PepsiCo Inc - Chief Financial Officer, Executive Vice President
+ * Ramon Laguarta
+   PepsiCo Inc - Chairman of the Board, Chief Executive Officer
+ * Ravi Pamnani
+   PepsiCo Inc - Senior Vice President of Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Dara Mohsenian
+   Morgan Stanley - Analyst
+ * Andrea Teixeira
+   JPMorgan Chase & Co - Analyst
+ * Bonnie Herzog
+   Goldman Sachs - Analyst
+ * Lauren Lieberman
+   Barclays - Analyst
+ * Robert Moskow
+   TD Cowen - Analyst
+ * Peter Galbo
+   Bank of America - Analyst
+ * Robert Ottenstein
+   Evercore ISI - Analyst
+ * Steve Powers
+   Deutsche Bank - Analyst
+ * Filippo Falorni
+   Citi - Analyst
+ * Chris Carey
+   Wells Fargo Securities LLC - Analyst
+ * Michael Lavery
+   Piper Sandler - Analyst
+ * Kaumil Gajrawala
+   Jefferies LLC - Equity Analyst
+ * Peter Grom
+   UBS - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to PepsiCo's third quarter 2025 earnings question-and-answer session. (Operator Instructions) Today's call is being recorded and will be archived at www.pepsico.com. It is now my pleasure to introduce Mr. Ravi Pamnani, Senior Vice President, Investor Relations. Mr. Pamnani, you may begin.
+
+--------------------------------------------------------------------------------
+Ravi Pamnani,  PepsiCo Inc - Senior Vice President of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and good morning, everyone. I hope everyone has had the chance this morning to review our press release and prepared remarks, both of which are available on our website. Before we begin, please take note of our cautionary statement.
+We may make forward-looking statements on today's call, including about our business plans, guidance and outlook. Forward-looking statements inherently involve risks and uncertainties and only reflect our view as of today, October 9, 2025, and we are under no obligation to update.
+When discussing our results, we refer to non-GAAP measures, which exclude certain items from reported results. Please refer to our third quarter 2025 earnings release and third quarter 2025 Form 10-Q available on pepsico.com for definitions and reconciliations of non-GAAP measures and additional information regarding our results, including a discussion of factors that could cause actual results to materially differ from forward-looking statements.
+Joining me today are PepsiCo's Chairman and CEO, Ramon Laguarta; and PepsiCo's Executive Vice President and CFO, Jamie Caulfield. We ask that you please limit yourself to one question. And with that, I will turn it over to the operator for the first question.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Bonnie Herzog, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Bonnie Herzog,  Goldman Sachs - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          All right, thank you. Good morning, everyone. I had a question on the volume pressures you continue to face in both your food and beverage businesses. I guess, could you give us a sense of how much this is being impacted by your pivot to smaller pack sizes, maybe versus category trends softening or potential market share losses?
+Essentially, how should we think about these volume declines? And then how should we think about volume growth moving forward? Is it realistic to assume that volumes could start to inflect, especially considering the robust innovation pipeline you've highlighted this morning? Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Good morning, Bonnie. Yeah, let me start with beverages. In beverages, the mass are easier when you take out the case back water kind of divestment or new business model we have, beverages actually grew volume in the quarter.
+So we're very happy with the performance on the beverage business, especially some of the larger brands like Pepsi grew volume, grew net revenue, grew shares. So positive, positive development in beverages.
+In Foods, we changed the promo strategy in the summer, and we went rather than very deep on a particular brand as we did in '24. We try to provide everyday low value or better value to -- across all the brands. That impacted the volume, better revenue realization, probably a more balanced growth of the category and our competitiveness in the category. So that explains a little bit the Q3 volume.
+Going forward, we're optimistic, as you said, both improvement of the basic performance. We had some service level issues early in the year as systems transition. Now that's behind, the service levels are very high on both businesses in the '97, '98, that's been well appreciated by our customers, and we're seeing much better fill rates, a much better execution point of sale that's driving growth.
+We're seeing, as you're saying, some of the innovation rolling out and that will give us volume growth. But I think we should think about the top line of the business and a balance between volume growth and price realization going forward. And we should see an acceleration in PBNA continued acceleration of net revenue in PBNA.
+And the same with the food business, we should be very close to flat this quarter in food actually. We're very optimistic that the business actually grew in the last four weeks, the last quarter and the last period that we closed. So optimistic about the top line growth on both businesses and the acceleration.
+And when -- with regards to international, we had a bit of a weaker summer because of some weather and some other elements in some of our large markets. September was also very good in international. So we see that as the summer a bit of a blip and international is back to mid-single digit, high mid-single-digit performance in the last month that we closed.
+
+--------------------------------------------------------------------------------
+James Caulfield,  PepsiCo Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          The other thing I'd add, Bonnie, is as we lap some of these acquisitions, if you look at a Siete, poppi, the Alani Nu, that's not included in organic. So as we anniversary those, the volume and net revenue is going to be reflected in the organic sales growth.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Dara Mohsenian, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Dara Mohsenian,  Morgan Stanley - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. So the commentary was helpful on top line growth. I guess just looking out more to 2026 and longer term, obviously, a lot of work is underway to reinvigorate top line growth, clearly, the heightened innovation focus, focused on permissible or more functional benefits in terms of products, portfolio reshaping, price pack architecture, away from home, et cetera, et cetera.
+So just when you bring it all together, Ramon, which areas do you think are most impactful as we think about potentially accelerating revenue growth in 2026? Can you give us a little more specificity on when you think we'll start to see material progress on that front?
+And do you think there's a line of sight to returning potentially the long-term top line growth, your long-term algo at some point within 2026, just when you wrap all these efforts together. Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          Yeah, thank you, Dara, for the question, and it's super critical, right? We're acting with a lot -- as you can -- as you saw and you said with a lot of sense of urgency on how we recognize top line growth, the growth across the business. And yes, we see a clear line of sight to going back to algorithm throughout '26.
+Now is it Q3, is it Q4? We'll see. But clearly, I'll tell you about why we see that happening during the year. The first one is being brilliant at the basics. And that is something that we're focusing on. As I said earlier, the right price points, the right service levels, the right execution, the right service to our customers, the right customer plans.
+And we feel very good about how our customer plans are starting to shape up, and we're already quite advanced in the process with our larger customers. So that's being brilliant at the basics. And we're making some big interventions in big brands. I said Pepsi is growing globally, and we relaunched Pepsi 1.5 years ago. Now we're going after three of our top brands Lays, Tostitos and Gatorade.
+We're relaunching three of our top brands in the US and globally, and that is going to drive growth in the core of the business, which is essential to your point on what's going to drive future growth. Now that is happening as we speak with Lays and Tostitos, and it's happening with Gatorade a little bit later in the Q1 to Q2 time frame.
+The other element we're focusing on is really accelerating the platforms that are growing. And you mentioned some. Away-from-home is growing very fast for us in the US and internationally. It's going to be a focus for us. It's growing like 2 to 3 times the retail business. We'll continue to focus this execution of existing products and then some innovation special for away-from-home moving towards mills and more elevated experience.
+You mentioned permissible snacks. We have a very strong portfolio of permissible snacks in the US and Zero Sugar across the world. That will continue to be a focus of our innovation and that will drive growth. And then we have in functional hydration, we have a superior portfolio with Propel and the enhancers and tablets growing very fast. Those will be platforms of existing parts of the portfolio that will put a lot of investments that will drive growth.
+Now innovation is critical for us, and we've been working with a real sense of urgency on new platforms to capture segments of the market that are disproportionately growing within our somehow low growth categories.
+So you mentioned protein. So there are a lot of innovation on protein, the relaunch of Muscle Milk, Starbucks and protein, we know in the morning, consumers are looking for protein as well. Doritos protein, quicker protein.
+We're having a Good Warrior mid snacks without artificial, and then a new development from Propel for GLP-1 consumers that will have a special type of electrolyte, high content of fiber and good levels of protein. So that in the protein space, which, as you know, is driving a lot of growth.
+Now the move to no-artificials, impacting all our brands, Lays and Tostitos now that the rest of the portfolio throughout '26. And a new platform, we call it Naked, that will have no colors and no artificials. We'll see how consumers react to the same great flavors with no colors.
+The customers are really very excited. We're also excited. Let's see if we can take consumers along in what would be a great development for the category. We're launching products with higher fiber. I think fiber will be the next protein. Consumers are starting to understand that fiber is the benefit that they need, is actually an efficiency in US consumers diet and that will be elevated.
+And then we're also innovating in new oil. Some of our platforms, especially in potato, you will see us coming with avocado oil versions and olive oil. So a very strong innovation pipeline, which we think will help us capture pockets of growth in our categories that will drive growth.
+And the last element, as Jamie was saying, we made some acquisitions that are very strategic in how we reshape the portfolio. We divested some. We acquired some. We're very optimistic how poppi is now in our system, and we're already seeing benefits of the physical availability of the product.
+We're seeing growth with CHA, we're seeing growth with Sabra, and we're going to incorporate Alani Nu into our portfolio later in the year. So those are new platforms that will continue to accelerate the portfolio.
+Some of that will be organic, some of that will be non-organic, but that's what -- how we see the portfolio moving towards positive growth in some parts of the portfolio, the total company going towards within our long-term net revenue growth targets within next year. And obviously, we're working to do it as soon as possible.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Lauren Lieberman, Barclays.
+
+--------------------------------------------------------------------------------
+Lauren Lieberman,  Barclays - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Great, thanks so much. Good morning. I wanted to talk a little bit or ask a little bit about the cost associated with a lot of these innovations in the plus protein, better for you, cleaner labels, et cetera, that you run through. Would think that these come at a higher cost of goods? I know you've talked a lot about cost savings as well, but I think you're going to want to reinvest.
+So you talk a little bit about margin structure, or how to think about the cost implications of taking the portfolio and your big core brands in this direction. And also what you do to make sure there's sufficient brand support for these launches, particularly as we look into '26. Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Yeah, good. The overall company we think that we'll continue to improve margins going forward. And we're -- again, with a very high sense of urgency, we are attacking the cost structure in the different businesses with different tools.
+In particular, you already saw probably today in our remarks, how we are attacking the deleverage in Frito-Lay with very, I would say, intentional and active actions around the supply chain and the go-to-market fixed cost, and that's happening.
+Total company, Lauren, we see the margin improvement next year, again, driven by the continuous acceleration of international. And international is accretive to the company and continues to scale and becoming more profitable. That will continue in 2026.
+We see PBNA continue to expand margins at a good pace. The Q3 was impacted by tariffs. We see already in Q4 and expansion of the margin again to complete a positive margin expansion for the full year. And we see Frito-Lay or the Food business in North America also starting to bend the curve after all the interventions we're making in the fixed cost structure.
+The truth is that we invested a lot in Frito-Lay in the last few years. Some of that was under investment. Some of that was expanding capacity. The demand signal we had in '23 is different from the demand signal we have in '25.
+So there is some adjustment that we're making to the -- both the assets and the headcount in the business to make sure that we have the right cost structure to navigate the coming quarters. So think about expansion of the margin for total PepsiCo with the drivers that I said.
+The portfolio as you mentioned, cost of goods, yes, but also price will be higher. So you should see the innovation as accretive to the business. And the A&M, we're making, obviously, internal reallocations to make sure that the new platforms have the right money. And also some of the costs that we're taking out from our fixed cost structure, we will put it back into A&M to accelerate growth in the coming quarters.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Steve Powers, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Steve Powers,  Deutsche Bank - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Great, thank you, everybody. We're going to picking up on that thread with respect to productivity. Could you just give a little bit more detail on where the interventions are specifically in PFNA that you're making to right size that kind of fixed cost structure. And how far along you think you'll be at the end of '25. Do you think you'll have rightsized that business relative to the current demand signal, or is there more work to do in '26?
+And if I could, one of the things that I didn't see in today's remarks or release is any difference to One North America, which obviously was a big point of focus last quarter. So maybe you could talk about if that emission was intentional or just kind of where we are with One North America as well. Thank you.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [13]
+--------------------------------------------------------------------------------
+
+          Yeah, good. So let me cover both. On Frito, I'll give you -- we're clearly going after some manufacturing nodes that are not needed anymore. These are normally the least efficient older manufacturing nodes that we have in the system.
+And as we've increased capacity throughout the system in the last few years, those nodes can go away. We're also rationalizing our warehouse infrastructure, both in the context of some automation decisions that we're making and also some combination with the beverage business in some parts of the country.
+There is a rightsizing of our go-to-market as we see the labor market stabilizing some of the excess labor that we had in go to market, now we can probably leave without those extra coverage. So those are the three main areas.
+There's the global levers of we're servicing PepsiCo from global capability centers and some of the changes we're making in how we service the company that is also a continuation that applies to Frito-Lay. Now the good news in Frito-Lay is that when we see the productivity per FTE is now at the levels of a couple of years ago.
+So we've been able to get to those metrics with the reduction of fixed cost that we've done in the last six, seven months. There will be a continuation of those interventions in the balance of the year. And I think they will continue, that we will have additional productivity interventions in '26 because we need to invest in affordability and we need to invest as was previously mentioned in some of the new platforms to drive growth. So you should expect that in the coming months.
+Now I don't know, Jamie, if you want to add something to the productivity.
+
+--------------------------------------------------------------------------------
+James Caulfield,  PepsiCo Inc - Chief Financial Officer, Executive Vice President    [14]
+--------------------------------------------------------------------------------
+
+          The only other thing I'd add is the pace of productivity, it built as we went out -- went through the year, and we took some of these incremental cost resizing actions. So as you go into 2026, we're going to have a pretty significant carryover benefit of those actions, particularly in the first half of the year.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [15]
+--------------------------------------------------------------------------------
+
+          Yeah. On One North America, we continue to -- as we look at all the different opportunities to reduce costs, improve margins, drive growth, we're looking at One North America is one of the options. We're testing that in Texas.
+Texas is probably the state where we have the biggest opportunity given our low share in beverages, high share in snacks, when we put those businesses in the same warehouse, and we serve the customers from 1 point of distribution, this is giving us a lot of benefits. So we will see.
+We're testing and learning in Texas. And from that, we will make decisions on how we expand it to the rest of the country. The end solution will not be a one size fits all for the whole country. So it will be more of a nuanced solutions depending on the market positions and the market size and where the population is in the different parts of the country. So we'll keep updating you on the decisions in that space.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Filippo Falorni, Citi.
+
+--------------------------------------------------------------------------------
+Filippo Falorni,  Citi - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Hi, good morning, everyone. I want to talk about the international business. Ramon, you mentioned the quarter was negatively impacted by poor weather, but you saw a nice improvement in September, which is pretty encouraging.
+But some of your peers have talked about like some macro pressures in regions like Latin America, Asia Pacific include including India, maybe can you give us a sense of the health of the consumer in some of those countries? What are you seeing? And what gives you the confidence in the acceleration? Thank you.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Yeah, it's great, Filippo. I think, listen, when it comes -- when it -- talking about Q3, I think most of the deceleration are linked to mostly weather, Filippo in some of the large markets. And the good news, as I said, is that September was -- is strong -- was strong, and we feel good about the balance of the year going back to the mid- to high mid-single digits for our international business.
+Now overall, the consumer is, I would say, is stressed all over the world. We see the consumer making very choiceful decisions in many parts of the world, in China for sure, and China is a big market for us. Not so much in India.
+We're seeing growth in India. India was more impacted by weather, and there's some competitive situation in the beverage category that will impact the growth maybe for a few quarters but coming back strong.
+We're seeing good growth in the Middle East. The consumer in the Middle East is probably feeling good. Eastern Europe better than Western Europe, I would say. And then, yeah, Mexico is somehow connected to the US, right? And however, the US goes, that impacts Mexico quite a lot.
+Clearly, the Hispanic cohort in the US is being impacted by all these decisions. And we see remittances impact in Mexico in a way and that will continue probably for the next few quarters. Brazil continues to be strong for us, close to double digit in September in a good summer -- their summer -- I mean, our summer.
+And so good, I would say, we see the consumer different parts of the world, different realities. But overall, we're managing to compete well, and we're managing to keep consumers in our brands and developing the per caps, which is the big idea for us internationally.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Michael Lavery, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Michael Lavery,  Piper Sandler - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. Just want to come back to brand Pepsi, seeing it's better improvement -- it's better momentum and improvement in the US and even from a share performance perspective. And just curious, maybe some of what's been driving that? How much is it just a changing of the messaging or maybe an increase in marketing?
+And also when you talked about optimizing marketing spend as one of the ways to drive better ROI. Is there -- to the marketing spending that's planned, or do you believe you can be more efficient? Maybe help us understand just how to think about that language there as well.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+
+          Yeah, I think, as I mentioned, I think the Pepsi run has been a success for us. Every launch we did, I think, about 1.5 years ago in the US, about a year, a bit more in international has been a great success. And we're seeing momentum in the Pepsi brand in many, many markets. I would say internationally, it is driven by the non-sugar success.
+I think Zero Sugar, and non-sugar, Max in Europe. It is driving consumers to the brand. It is keeping consumers in the brand and continue to be very positive for us from the market share, but also the overall non-sugar segment growth. So we're very pleased with that.
+In the US, multiple factors. As I said, there is a I would say, a focus on away from home and food is sure Pepsi. I think the mill location is critical for beverages. It's very important for Cola. And we are focusing more and more in gaining points of access to the brand and linking the brand to that particular occasion in a culturally relevant way, no different types of foods for different types of consumers and good execution.
+I thought we're investing a bit more in the brand, and that is relevant, as you said, from the marketing point of view. There are two platforms that are growing faster than the rest. One is Zero Sugar, which is consistent with our international growth story.
+And the second one is flavors. And flavors, especially Wild Cherry and Cream, but some others are bringing new consumers to the brand, younger consumers of the brand, and that is positive news for the development of Pepsi. So we feel good.
+We'll continue with those drivers. We'll continue to invest in what is our -- clearly, our most important brand in the beverage portfolio. And we'll -- for next year, we're assuming that Pepsi will continue to grow, and we'll be able to add some new layers of growth with Mountain Dew and Baja Blast is a very solid platform, $1 billion retail value when you include both our sales and Taco Bell sales. So it's a very strong consumer platform. We're adding now a new a new platform with Dirty Dew.
+So kind of a creamy flavors to the Mountain Dew platform. I think that will continue to expand the brand into more consumers. And then as I mentioned, the relaunch of Gatorade, which is critical for us. We're leaders in a category that needs to grow faster. So we're working on value for Gatorade.
+But most importantly, we're working on to your point of marketing on superior hydration. We know we have proven superior electrolyte combinations that deliver both faster hydration, better hydration, longer hydration. And we are working on different parts of the portfolio to convey that message to the consumer. And we're optimistic about how that will play out for us.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Peter Grom, UBS.
+
+--------------------------------------------------------------------------------
+Peter Grom,  UBS - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone. So I was hoping to follow up on the prior commentary. I think it was Bonnie's question. So I think you mentioned an expectation for PFNA to get back to kind of flat organic sales performance in the fourth quarter and that you actually saw the business return to growth in the last month.
+So just as you look at what happened over the last month, is that simply a function of what you were lapping? Or is it more related to the actions around innovation and everyday execution. It's just not something we've seen yet in the data. So just any color on what happened in the last month, has that drives the confidence on the path forward. Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [24]
+--------------------------------------------------------------------------------
+
+          I mean, listen, clearly, there is sequential improvement in the business. And at this point, I would say it is more related to being brilliant at the basics. So doing better the core things that drive our category, service, price, execution, customer space, et cetera. So the key drivers of our category.
+I don't think it's a one-off. We see a better customer engagement, customer relation as our service levels became better following the system transition early in the year, and that should be sustainable. Now I don't want to like things can change, things can evolve. But clearly, the direction of the business, it's in the right direction, and we're seeing signs that make us feel optimistic.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Andrea Texeira, JPMorgan.
+
+--------------------------------------------------------------------------------
+Andrea Teixeira,  JPMorgan Chase & Co - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Thank you, and good morning, everyone. So my question is how to think about the headwinds of the SKU rationalization impacting your organic growth? And two clarifications, Ramon, for PFNA, can you comment on the results of the price reinvestments, in particular in the core brands at the entry-level price points?
+And then second, I think you and Subhani and Peter a bit on the volume inflection, is that a commentary in the -- you said volume inflected positive in the last four weeks. Is that for a total company or specific to some regions? I'm assuming specific to some regions in areas where you're seeing that service level coming back. So where are you seeing, if that's the case, where you're seeing the volume inflection? Thank you.
+
+--------------------------------------------------------------------------------
+James Caulfield,  PepsiCo Inc - Chief Financial Officer, Executive Vice President    [27]
+--------------------------------------------------------------------------------
+
+          Andrea, pardon me, it's Jamie. On the SKU rationalization, I mean, there's a lot of benefits that come from cutting the long tail. And as we analyze the portfolio, there's a lot of overlap on those very small volume items with some of our larger parts of our portfolio.
+And as you cut that long tail, you create a lot of operational efficiency that leads to better customer service and that -- so you're not losing a lot, and there's a lot to gain through the efficiency and improved service, I missed.
+
+--------------------------------------------------------------------------------
+Ravi Pamnani,  PepsiCo Inc - Senior Vice President of Investor Relations    [28]
+--------------------------------------------------------------------------------
+
+          Yeah. Andrea, on the entry price points, can you just restate your question on that? We didn't quite capture it as you were cutting off there a little bit.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Her line has actually left the queue. Can you give me one moment, I could not bring her back, okay?
+
+--------------------------------------------------------------------------------
+Ravi Pamnani,  PepsiCo Inc - Senior Vice President of Investor Relations    [30]
+--------------------------------------------------------------------------------
+
+          Okay, it's not a big deal, operator, either way.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Okay, one moment. And your line is opening Andrea, you can now repeat the question.
+
+--------------------------------------------------------------------------------
+Andrea Teixeira,  JPMorgan Chase & Co - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Thank you. So for the PFNA, if you're thinking like the pricing investments that you made in some of the core brands and entry-level price points, can you comment on how those results have been coming up, or it's more coming from the permissible area of the business, how we should be thinking about the price investments you've been making for, I think, more than three quarters for now?
+
+--------------------------------------------------------------------------------
+James Caulfield,  PepsiCo Inc - Chief Financial Officer, Executive Vice President    [33]
+--------------------------------------------------------------------------------
+
+          Yes, so I view them as too fairly separate. The permissible subcategory is doing well, our permissible portfolio continues to do well. We look at the entire portfolio for price pack architecture opportunities. I think the bigger opportunity is in some of, what I'll call, more of the mainstream in take-home.
+And we've been refining as we've moved through the year, we'll continue to refine as we get more and more data on how the brands and the packs are interacting with each other across the competitive set. And yes, so that's the priority is to make sure that we've got the pricing very sharp to help drive demand.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Peter Galbo, Bank of America.
+
+--------------------------------------------------------------------------------
+Peter Galbo,  Bank of America - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Hey, Ramon, Jamie, good morning. Ramon, one of the areas where you focused a lot on in the prepared remarks within PBNA what was on protein. And I guess I just want to understand a little bit more on the decision of kind of using the in-house brands like Muscle Milk or Propel to address protein in a bigger way versus other subcategories like energy or prebiotic where you've either bought or partnered.
+So maybe just if you can expand a little bit on kind of the decision to go more organic versus acquisition or partnership as we think about protein and beverages going forward. Thanks very much.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Thank you. Yeah, no, listen, it was -- we always try to leverage as much as we can. Our existing platforms is a cheaper is a better business decision. I think Muscle Milk is a great brand that as we improve the product, and we're very proud of the product that we've been able to -- our R&D teams have been able to develop, will be a great tasting, high levels of protein, good mouth feel and artificials.
+I think it will clearly serve a lot of consumers that are looking for protein drinkable solutions to replace meals or snacks throughout the day. I think Muscle Milk can stretch, it's a brand that has the potential, we'll reposition, it will communicate a bit different. And the packaging will be very -- is very modern and update it.
+The same with Propel. Propel is a great platform. It has a high penetration in female, and it's been growing at a double-digit CAGR for the last five, six years. It has a lot of credibility in hydration, but I think it can expand into more.
+So this is why we think that we can take it into more of a functional hydration platform with Propel, focus on females but not only, both in powders and in liquids. And I think that, that will have a multiyear innovation opportunity for us as we see consumers looking for more functional solutions in drinks that are not even available right now in the market.
+So yeah, it's always a better ROI for the company to develop internally than not in some of the examples that you put with poppi and some others, we didn't have the platform to go after those opportunities. And the marketplace had already some scale players that it was a better return for us to go and acquire.
+And we'll continue to do both as we go along, innovate internally, take some of our big brands into new spaces, rejuvenate the portfolio under the big brands, and at the same time, look outside for tuck-in acquisitions that might give us a head start on additional scale in segments that are growing faster.
+So we're looking at portfolio transformation with a sense of urgency, and we're making that in the right moves, as you see from our innovation pipeline and some of the M&As we've made in the last six or seven months, yeah.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Robert Ottenstein, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Robert Ottenstein,  Evercore ISI - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Great, thank you very much. So Ramon, kind of a two part question. The first part is you talk a lot about rightsizing the cost structure, aggressively attacking costs, but at the same time, getting back to algorithm, suggesting that perhaps the top line isn't the problem, but maybe it's the type of costs that you have, perhaps too many costs in the US, in certain assets in certain brands, but you're going to make up for that in growth internationally and then innovation in the US, which may require a more complex cost structure, maybe smaller runs, different sorts of supply chains and a whole different way of looking at the cost structure. So number one, is that assessment roughly right?
+And then connected to that, very big announcement on the CFO side. Congratulations to everybody. Could you talk a little bit about that decision to go outside of the firm to a very well-respected leader at your biggest customer, and how you see him driving through that vision? Thank you.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [39]
+--------------------------------------------------------------------------------
+
+          That's good. So listen, I think it's an on. It's not an either, or. So for us to be fit for the future, we're going to have to transform the portfolio, and we're doing that with a sense of that will drive growth as we are more on consumer trend, and we're more in the spaces of the category that are growing.
+So that I think we spent quite some time, but also we need to address the cost structure of the business because we need to continue to be extremely competitive, and we know consumers are looking for value, and value will be critical going forward, being at the right price points, competing with competitors, but also private label that will have their offering.
+So clearly, there is a need for us to reduce the cost also change the type of cost. We need to be much more agile. We need to be much more flexible, have optionality. We've invested a lot in technology in the last five years. It is in our P&L. It's been a cost for us for the last five years.
+Now we can benefit from applying technology to everything we do, applying AI, overlaying intelligence to the infrastructure of data we've created, and that will give us optionality, agility and flexibility, which is probably what the market requires, given the continuous pivot from the consumer and from our partners, our customers.
+So that's how we're thinking. So you'll see us going with a big sense of urgency against portfolio transformation and against cost transformation with decisions on assets, but also applying technology to our business at a very fast pace, and we're ready for that probably will become a competitive advantage for us versus other companies given the investments we've made.
+Now with regards to the CFO transition, place, first, let me thank Jamie for all the 35 years, Jamie or --
+
+--------------------------------------------------------------------------------
+James Caulfield,  PepsiCo Inc - Chief Financial Officer, Executive Vice President    [40]
+--------------------------------------------------------------------------------
+
+          33.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [41]
+--------------------------------------------------------------------------------
+
+          33 years in the company. He's been an amazing partner. We've worked together for some periods. I mean I was in Europe, he was here, but we knew each other for a long time. And we've been doing a lot of work together. Now Jamie express his desire to retire some time ago.
+I started looking for a CFO for the future to help me execute the Strategy 2030. Steve is an incredible leader. As you said, the right experience, the right skills, proven record, the right culture fit in the company, and I'm looking forward to welcoming Steve in the next few weeks and continue to accelerate the transformation of the company to the highs that we know this company will achieve.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          Kaumil Gajrawala, Jefferies.
+
+--------------------------------------------------------------------------------
+Kaumil Gajrawala,  Jefferies LLC - Equity Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Hey everybody, first of all, Jamie, thank you for all your help over the, I guess, what's now been decades. And Ramon, a question on the asset base and sort of following on with some of the answers to your questions on One North America maybe being regional, a focus on agility and focus on being fat a lot going on in terms of innovation and rightsizing.
+To what degree are you open to the idea of franchising some of these operations on the beverage side, particularly maybe just from a regional perspective because it feels like many of the intentions of what you're looking to accomplish. Some of it could be moved along by pushing a sort of a refranchising initiative. So I'm curious what you think about that. Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [44]
+--------------------------------------------------------------------------------
+
+          Yeah, listen, we -- as I said, we're going after growth and margin with high speed and a very strong center of urgency. We are -- at this point, we're open to all the ideas and we appreciate all the perspectives to create shareholder value.
+So we'll listen, we'll do what's best for PepsiCo. But as I'm thinking about this -- we think about the space of supply chain go to market, as I said earlier, the solution for this country, talk in US will not be a one-size-fits-all solution.
+So there will be a nuance. There will be potential different geographical solutions that will be the best fit for that market given our market position, starting market position, the partners and everything else that we can do.
+Now as I'm thinking about this topic, there's three things that we're taking into consideration, and I'd like for you to be aware. One is we're trying to solve for the demand of the future, not the demand of the past. And the demand of the future will be much more concentrated in a few retailers or customers.
+And we need to assume the consumer will be looking for pickup or delivery and digital much more than it is today. It is today very high, it will be even better. So we need to solve for the demand of the future that will be different from the demand of the past.
+The second is technology and the investment we've made in technology over the last five years helps -- allows us to do things that were unthinkable five years ago. And if you think about a lot of the basic processes of the company from order taking to transportation towers to how we can do manufacturing or warehousing is totally different than the past.
+So we can manage complexity different. We can eliminate some of the human bottlenecks in ways that we couldn't do before. So technology, demand of the future. And the third point is, I'm trying to optimize the full PepsiCo P&L and not just one or the other, so.
+As we think of that, we will have, for sure, nuance solution, we will be driving different solutions in different parts of the country, and we'll be looking for what is the best for PepsiCo long term. We listen to every perspective, we'll have constructive dialogues, and I'm sure we'll come up with the best solution for this company going forward.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Chris Carey, Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Chris Carey,  Wells Fargo Securities LLC - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Hey everyone. So yeah, most ground has been covered. So maybe just to take a step back, Ramon, I'd love to get your thoughts on something around cyclical versus structural, but really by geography. I think in North America, there's an ongoing debate about how much of this is the consumer shifting preferences toward healthier eating.
+Obviously, there's a cyclical component as well with value seeking. Can you compare the consumer behavior in the US, this cyclical versus structural dynamic versus what you see in the international markets. Is the consumer there behaving in similar ways, both from an economic perspective, number one, but also are the preferences for the international consumer outside the US, shifting and evolving like they are in the North America business. So I love getting any context or additional color on how you see that interplay. Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [47]
+--------------------------------------------------------------------------------
+
+          Yeah. So listen, it clearly is a very -- it's a complex topic, but I'll give you my point of view on a couple of areas. There are things that are clearly structural in the way we should think about consumers all over the world.
+I think consumers are moving to digital purchasing in a very structural way, and that will change the dynamics of the industry in both the assortment, what they buy, how they buy, and what they expect the delivery method to be. I think consumers are going to expect different ways of how goods are delivered to them.
+So that is a very structural change, and that's happening across the world with different speeds, but I think it's clearly a global trend. The second, I would say, in terms of -- the consumers are much more informed about the food and the drinks, the ingredients in the foods and the drinks, and I think it's a secular trend as well that consumers will be more making choices based on clean labels, based on the ingredients in the food and not only the taste, but also the type of food that is in the brands.
+And therefore, some of the relaunches of the brands that we're making, whether it's Lays or Gatorade or Tostitos, take that into consideration because I think they're very relevant going forward. And then affordability is also a reality.
+I think when you look at low-income households or middle-income households, they are very stretched, fixed cost, of living are going up around the world, and that will create the need for affordability and value and price points and cost consciousness also for the foreseeable future.
+So those are trends that they will go up and down notches in the curve. But I think the curve is going in the same direction, probably in the majority of the markets. And that's my point of view, that's how we're thinking about the future.
+And that's why we're moving the portfolio quickly in those spaces. We're looking at the cost structure to be able to compete both on the cost side, but also on how we serve our customers. In this future of demand that will be very different from today.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Robert Moskow, TD Cowen.
+
+--------------------------------------------------------------------------------
+Robert Moskow,  TD Cowen - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Hi, thanks for the question. A few weeks ago, an activist investor announced a stake in your stock and published a long list of recommendations. So I wanted to know your willingness to engage with them. And if there's any ideas in there that you think are particularly important for your strategic direction.
+One in particular, I wanted to know is establishing a margin target for Frito-Lay, it's been discussed in the past. I just want to know, is that something that you consider constructive for setting a path for the future, or you just look at the business and what it needs to do differently than that? Thanks.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [50]
+--------------------------------------------------------------------------------
+
+          Yeah. Listen, a few questions in your question. So our engagement with Elliott has been -- we had a couple of interactions very constructive and collaborative, and we're trying to understand each other. I think we're aligned on one thing, which is critical, which is PepsiCo is undervalued. And there's a lot of opportunities to improve the valuation of the company by making a few interventions with a sense of urgency and the way we're doing.
+So I think we both want to create shareholder value. We're as interested as any of our investors to do this. So we're aligned. Now of all the ideas that Elliott mentioned in the document, most of them are included in our Strategy 2030, and we're acting on it. So I think we're acting with a sense of urgency on both portfolio transformation, simplification of the portfolio, cost reduction to invest in future growth, et cetera, et cetera.
+So a lot of positives. There's a few areas where we need to probably educate each other a bit more. We're going to have conversations in the coming weeks and months. And I'm sure we'll reach a point where they will listen to their perspective.
+They will help us in our decisions to make PepsiCo a better company and to create value for the long term. So yeah, good collaboration, and I'm optimistic about how this will drive sense of urgency and will drive positive change for PepsiCo.
+Good. Okay. So this concludes the meeting. Thank you very much to everybody for your engagement. And again, I would like to thank Jamie for the incredible work for PepsiCo for 33 years and support he's given me and the management team for all those years, but in particular, in the last two years. So thank you. And Jamie, I don't know if you want to say anything to the team here.
+
+--------------------------------------------------------------------------------
+James Caulfield,  PepsiCo Inc - Chief Financial Officer, Executive Vice President    [51]
+--------------------------------------------------------------------------------
+
+          No, just thank you. It's been a terrific run, and this is a great company. I continue to believe our best days are ahead of us.
+
+--------------------------------------------------------------------------------
+Ramon Laguarta,  PepsiCo Inc - Chairman of the Board, Chief Executive Officer    [52]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          Thank you. Ladies and gentlemen, this does conclude today's presentation. You may now disconnect, and have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

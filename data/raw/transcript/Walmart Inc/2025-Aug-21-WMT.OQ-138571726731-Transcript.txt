@@ -1,0 +1,600 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2026 Walmart Inc Earnings Call
+AUGUST 21, 2025 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * John Furner
+   Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division
+ * Stephanie Wissink
+   Walmart Inc - Senior Vice President, Investor Relations
+ * Kathryn McLay
+   Walmart Inc - President and Chief Executive Officer - Walmart International
+ * Christopher Nicholas
+   Walmart Inc - President and Chief Executive Officer - Sam's Club
+ * C. Douglas McMillon
+   Walmart Inc - President, Chief Executive Officer, Director
+ * John Rainey
+   Walmart Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Michael Lasser
+   UBS AG - Analyst
+ * Christopher Horvers
+   JPMorgan Chase & Co - Analyst
+ * Oliver Chen
+   Cowen and Company LLC - Analyst
+ * Simeon Gutman
+   Morgan Stanley & Co Ltd - Analyst
+ * Kate McShane
+   Goldman Sachs Group Inc - Analyst
+ * Joseph Feldman
+   Telsey Advisory Group LLC - Analyst
+ * Seth Sigman
+   Barclays Services Corp - Analyst
+ * Kelly Bania
+   BMO Capital Markets - Analyst
+ * Corey Tarlowe
+   Jefferies LLC - Analyst
+ * Peter Keith
+   Piper Jaffray Inc - Analyst
+ * Rupesh Parikh
+   Oppenheimer & Co Inc - Analyst
+ * Robert Ohmes
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Greetings. Welcome to Walmart's second-quarter fiscal year 2026 earnings call. (Operator Instructions) Please note, this conference is being recorded.
+I'll now turn the conference over to Steph Wissink, Senior Vice President, Investor Relations. Steph, you may begin.
+
+--------------------------------------------------------------------------------
+Stephanie Wissink,  Walmart Inc - Senior Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Welcome, everyone. We appreciate you joining us and your interest in Walmart. Joining me today from our home office in Bentonville are Walmart's CEO, Doug McMillon; and CFO, John David Rainey. Doug and John David will first share their views on the quarter, and then we'll open up the line for your questions.
+During the question-and-answer portion, we will be joined by our segment CEOs, John Furner from Walmart U.S.; Kath McLay from Walmart International; and Chris Nicholas from Sam's Club. For additional detail on our results, including highlights by segment, please see our earnings release and accompanying presentation on our website.
+We will make every effort to answer as many of your questions as we can in the hour we have scheduled for this call. As a courtesy to others, please limit yourself to one question. Today's call is being recorded, and management may make forward-looking statements. These statements are subject to risks and uncertainties that could cause actual results to differ materially from these statements.
+These risks and uncertainties include, but are not limited to, the factors identified in our filings with the SEC. Please review our press release and accompanying slide presentation for a cautionary statement regarding forward-looking statements, as well as our entire safe harbor and non-GAAP reconciliations on our website at stock.walmart.com.
+Doug, that concludes my intro. We're ready to begin.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Good morning, and thanks for joining us. Our team delivered strong topline results again this quarter, with sales up 5.6% in constant currency. Growth in transactions and units is helping drive our performance. We grew e-commerce sales by 25% globally with all segments exceeding 20% growth, led by Walmart U.S. and Sam's Club U.S. at 26%.
+Customers are liking our faster delivery speed. From a segment point of view, we grew international sales by 10.5% in constant currency, led by China, Walmex and Flipkart. International continues to help lift our topline growth rate. Sam's Club U.S. delivered a strong comp of 5.9%, driven primarily by unit growth.
+Walmart U.S. sales were stronger than we expected when we started the quarter. We grew comp sales by 4.6% with consistent strength throughout the quarter. Sales in general merchandise were positive in every segment and across categories in the US, led by apparel, media and gaming and automotive.
+Again, this quarter, we gained market share in the US and across markets internationally. Globally, we grew our marketplace by 17% and membership income by 15%. We grew global advertising by 46%, including VIZIO, Walmart Connect in the US was up 31%, and that excludes VIZIO.
+These strong growth rates in our newer businesses continue to change the shape of our income statement. Looking at profit for the quarter, adjusted operating income grew 0.4% in constant currency. This is below what we expected going into the quarter as we absorbed a headwind of 560 basis points for the expenses related to general liability claims in the US.
+Our businesses were able to overcome the additional expenses and still deliver profit growth. The model we're building gives us more price and wage flexibility, and it also means we're better positioned when unusual items come our way.
+John David will talk to you about our annual guidance in a minute. We're still driving towards growing profit faster than sales this year, and that's reflected in our guidance. Importantly, the composition of our inventory is in good shape as we start the back half of the year. We're up 3.8% globally and up 2.2% in Walmart U.S..
+With regards to our US pricing decisions, given tariff-related cost pressures, we're doing what we said we would do. We're keeping our prices as low as we can for as long as we can. Our merchants have been creative and acted with urgency to avoid what would have been additional pressure for our customers and members.
+They've done a terrific job managing pricing and mix across merchandise categories. They managed to generate rollbacks. They've made good quantity and flow decisions, and they've set us up well as we start the back half of the year.
+As it relates to what we're experiencing with customers and members here in the US, their behavior has been generally consistent. We aren't seeing dramatic shifts. The way things have played out so far, the impact of tariffs has been gradual enough that any behavioral adjustments by the customer have been somewhat muted.
+But as we replenish inventory at post tariff price levels, we've continued to see our costs increase each week, which we expect will continue into the third and fourth quarters. Not surprisingly, we see more adjustments in middle and lower-income households than we do with higher-income households.
+In discretionary categories where item prices have gone up. We see a corresponding moderation in units at the item level as customers switch to other items or in some cases, categories. As always, our customers are aware, smart and value conscious.
+We have approximately 7,400 price rollbacks across our assortment, which is about 2,000 more than last quarter. Our rollback count in grocery was up 30% in the quarter compared to last year. Back-to-school is usually something of an indicator of how the holidays will go, and we feel good about how it went for us in terms of units and dollars sold and inventory sell-through at both Walmart and Sam's Club.
+Our top back-to-school items had a lower price than last year, and we offered a basket of everything students need for their first day of school for under $65. We had our Walmart U.S. store managers together last week for our holiday planning meeting where they got to see many of our new items in pricing for the upcoming season.
+We liked what we saw and heard, and we like our position for the back half of the year. We're expecting to have a good holiday season at Walmart. For a few quarters now, I've been commenting on our use of artificial intelligence. Our enthusiasm for how AI can help us serve customers and members better improve the experience for our associates and increased productivity continues to grow.
+It's been years since we made a structural change for a role reporting to the CEO, and we've done it in this case because we're clear on a path to accelerate. Daniel Denkers joined us to lead AI acceleration, product management, design, tech prioritization and AI-related change management.
+Daniel brings tremendous expertise and experience from places like Instacart and Uber. We also announced a new role reporting to Suresh Kumar, our Chief Technology Officer, that will focus on AI platforms. This role will help us increase innovation, speed and productivity, own the AI platforms and architect our intelligent system stack.
+We're building agents into the core of how we operate, including four super agents. There will be many agents that roll up to these super agents that our customers, associates and other stakeholders experience.
+First is Sparky. Sparky is the customer-facing assistant, you see smiling at the bottom of our app. Today, Sparky takes us from traditional search to intelligent AI-powered assistance. Sparky will develop Agentic capabilities over time. Customers are giving us positive feedback, and we're excited about the road map ahead.
+As we improve in scale Sparky, we'll make it even smarter and more personalized. It will be the primary digital vehicle for discovery, shopping and for managing everything from reorders to returns. We see Sparky becoming an indispensable part of how people shop with us.
+The other super agents we're building include one for associates that will bring everything into one place from scheduling to sales data, one for our suppliers, sellers and advertisers that they will use to manage things like onboarding orders and campaigns.
+And lastly, a developer agent built to scale innovation across the business by speeding up how we test, build and launch new products. This is just the beginning of how we'll deploy AI over time. We see lots of opportunities, whether that's with digital twins of our facilities, which can help predict or prevent issues before they happen or the accuracy of dynamic delivery windows, which will provide to 95% of US households by the end of this year. Our opportunities are numerous. We're seizing the moment with AI.
+I'll close today by thanking our associates for their hard work and ability to change. Since we shared our first quarter results, I've had the chance to visit with our associates in stores and clubs here in the US, India and Mexico. Those conversations have left me feeling so encouraged. Our associates are leaning forward and they're excited about our future. They're doing a great job, and I'm confident they'll continue to learn, change and strengthen our business.
+John David, over to you.
+
+--------------------------------------------------------------------------------
+John Rainey,  Walmart Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Doug. I also want to extend my appreciation to our associates. The setup going into this quarter was more challenging than normal, and they did a great job executing, focusing on what we could control by reinforcing price leadership, strengthening customer experience and managing cost and inventory.
+Here's what I'd like you to take away from my remarks. First, our core business is strong and growing with accelerating e-commerce momentum. We told you that we expect to gain share during this period of economic uncertainty and that's what's happening. As a result, we're raising our sales guidance for the year.
+Second, we're navigating this dynamic operating backdrop very well. We said we would play offense to keep prices as low as we can for as long as we can, and that's what we're doing. Third, growth in our higher-margin businesses is contributing to our profit transformation, providing the financial flexibility to aggressively pursue share gains in the near term.
+We're maintaining our full year guide for operating income even with some additional cost pressures this year. And we're raising our guide for EPS to reflect lower headwinds experienced year-to-date from currency. And lastly, we're playing for the long term, balancing the pursuit of share gains while investing in our associates, and our supply chain automation in stores and clubs and in AI and technology.
+Now I'll get into the details of some of our performance. Consolidated Q2 revenue increased 5.6% in constant currency. These results were better than we expected with each of our business segments delivering stronger sequential sales growth than in Q1. E-commerce was a big contributor, with sales up 25% year-over-year, driven by continued strong demand from customers for convenient and fast delivery with order volumes increasing across our segments.
+Walmart U.S. topline outperformed our expectations as Q2 comps accelerated even when facing a more difficult year-over-year comparison versus Q1. Comp sales grew 4.6%, reflecting ongoing share gains across key categories and all income cohorts with upper income households contributing the largest gains.
+Customers are responding as we lean into value with more rollbacks while also providing the convenience they desire. We're encouraged by the improvement in general merchandise sales trends, which delivered a low single-digit positive comp in Q2, reflecting strength in fashion, media and gaming and automotive categories.
+Walmart U.S. e-commerce sales grew 26%, stepping up from the low 20% growth range we delivered over the prior four quarters. All fulfillment channels increased, led by delivery from store, which was up almost 50%. Speed of delivery is important to customers, and we're continuing to get faster.
+Approximately one-third of deliveries from store in recent weeks were fast delivery in three hours or less, reinforcing the value of our store network and driving speed and 20% of those deliveries arrived to our customers in 30 minutes or less. Meanwhile, marketplace sales grew nearly 20% with more sellers utilizing our fulfillment services.
+Approximately 44% of marketplace volumes flow through WFS, an increase of 250 basis points versus last year. International was once again growth accretive to the enterprise, with sales up more than 10% in constant currency, led by strength in China, Walmex and Flipkart.
+We saw broad-based growth across product categories and seasonal event sales were strong. Sales in China grew 30% and Walmex grew over 6%. E-commerce growth was up more than 20% with penetration approaching 27% of segment sales. Across markets, this momentum continued to be led by store fulfilled pickup and delivery and 3P Marketplace.
+Sam's Club U.S. comp sales ex fuel increased nearly 6% with strong growth driven entirely by units sold. We delivered positive comps across all key product categories, including another quarter of growth in general merchandise. The quality and value of Member's Mark products continue to resonate with members as sales penetration increased 140 basis points.
+E-commerce grew 26%, with club fulfilled delivery representing nearly 50% of this increase, even while curbside pickup was up double digits. Members are finding more ways to shop the club in an omni way and we're pleased to see unit growth accelerating along with spend per member, frequency and renewals, all driving Sam's Club U.S. results.
+Earlier this month, we opened a new club in Tempe, Arizona, is the second club to feature a digital-first experience, leveraging the convenience and popularity of our Scan & Go app with members. Q2 consolidated gross margin increased 4 basis points on a reported basis and was up 9 basis points on an adjusted basis when excluding an $80 million one-time restructuring charge at Sam's.
+We saw improved business mix across our segments. In Walmart U.S., margins also reflected the benefits of strong inventory management, while merchandise category mix remains a headwind as sales growth in grocery and health and wellness outpaced general merchandise.
+In international, gross profit rate declined with continued pressure from channel and format mix as well as strategic investments in price across markets and our quick commerce capabilities in India. As we indicated, exiting Q1 our decision not to give Q2 operating income guidance was predicated on the dynamic cost of goods backdrop, principally to preserve flexibility to drive share and price leadership.
+Given the uncertainty around the cost and price environment when we reported last quarter, we flagged the potential for a higher level of markups on our Walmart U.S. inventory. We ultimately realized lower markups than anticipated, and therefore, the effect on our margins under the retail method of accounting, or REM, was also less pronounced.
+Our merchants did an excellent job managing inventory and price levels, which has resulted in strong sales and more normalized margins. As our business model evolves, contributions to operating income are increasingly influenced by a diverse set of interrelated drivers, including improved e-commerce economics and business mix most notably from higher-margin areas like advertising and membership fees.
+Walmart U.S. e-commerce profitability continued to increase in Q2 as we make progress on improving net delivery costs and see strong momentum in advertising. We invested in marketing to improve awareness of Walmart's value, convenience and assortment and saw growth in active customers and frequency.
+With strong growth in e-commerce, our advertising business globally increased nearly 50%, including VIZIO. Walmart Connect in the US, ex-VIZIO grew more than 30%. Advertising at Sam's Club U.S. was up 24%, and we saw 15% growth in international advertising led by Flipkart. Membership fee income was up over 15% across the enterprise.
+In the US, Sam's Club continued to see steady growth in member counts, renewal rates and increased penetration of Plus members, resulting in 7.6% membership income growth while Walmart+ membership income grew double digits. I'm also really excited about the upcoming launch of our new OnePay cash rewards credit card, which should be available before holiday.
+Cardholders will earn 3% unlimited cash back at Walmart. And if you're a Walmart+ member, that will jump to 5%. The card also provides 1.5% cash back for non-Walmart purchases. This is another great example of the increasing value of a Walmart+ membership.
+Adjusted SG&A expenses deleveraged 35 basis points in Q2 due primarily to higher claims expense in the US as I previewed in our last quarter's remarks. This expense pertains to general liability and workers' compensation claims for which we self-insure. While this claim count has decreased year-over-year, the cost to resolve claims has risen, both for us and across the retail industry. And we've increased our accrual to reflect these trends.
+We accrued an additional $450 million over and above our planned expense in Q2, which equates to a headwind of 560 basis points to adjusted operating income growth in the quarter. We have and continue to take actions to mitigate the number and cost of these claims.
+Our full year operating income guidance, which is unchanged, contemplates the business fully absorbing the $730 million of incremental expense in Q1 and Q2, and as well as continued inflation in claims cost in Q3 and Q4, although we do not expect the same magnitude of increases as we experienced in the first half of the year.
+Unexpected costs are part of managing a business of this complexity. And while these costs put pressure on operating income growth for the quarter and for the year-to-date period, they don't change our annual or long-term outlook nor our conviction in our profit growth.
+Q2 adjusted operating income increased about 0.5 percentage point on a constant currency basis, driven by stronger-than-expected sales and continued progress on underlying operating margins, offset by higher claims cost. Adjusted EPS was up 1.5% to $0.68. We had discrete charges related to legal matters and restructuring in the quarter, and those have been adjusted out of operating income and EPS for comparison purposes.
+Importantly, as we begin Q3, momentum has persisted and our inventory is at a healthy level, up about 4%. The year-over-year increase in inventory is primarily attributable to higher cost of imported goods and timing of receipts. In this tariff-impacted period, we're closely monitoring customer demand and managing quantity decisions as we measure the price elasticity of impacted items.
+Now turning to guidance. Today, we're raising our full year sales growth guidance in constant currency by 75 basis points to a range of 3.75% to 4.75% growth. This reflects our year-to-date performance and confidence in our team's ability to continue driving share gains in the back half of the year.
+For Q3, we also expect constant currency sales growth of 3.75% to 4.75%. Notably, if currency exchange rates were to stay where they are now for the entire third quarter, we would expect a modest headwind to reported sales growth. Business mix will continue to be a margin benefit, and we expect merchandise category mix to continue to be a headwind.
+While the cost of goods backdrop remains fluid, it appears clear directionally than a quarter ago, although still unsettled. We await final tariff resolution across some of our largest import markets.
+The US is by far our number one market for sourcing for the less than a third of what we sell in the US that's imported China, Mexico, Vietnam, India and Canada are our largest markets. Q3 operating income is expected to be in a range of 3% to 6% growth.
+This guidance reflects a wider range of outcomes than our prior approach, which we believe is prudent given the ongoing trade policy discussions, a demand backdrop that remains somewhat uncertain and the desire to maintain flexibility to invest for share gains.
+Based upon our experience in Q2, we believe the impacts on margins and earnings from higher cost of goods and how they flow through our inventory accounting method will be less pronounced than previously anticipated. At the low end of 3% operating income growth, we assume sales moderate quarter-over-quarter and unit sales slow, requiring us to take markdowns against higher prices to calibrate to demand.
+At the upper bound of 6% OI growth, we assume customer and member behavior remains consistent with year-to-date observations and our approach to pricing on a relative basis continues to drive share gains across channels while inventory turns remain healthy.
+Our annual guidance for adjusted operating income growth remains unchanged at 3.5% to 5.5% on a constant currency basis, despite the negative impact from higher claims expense than originally anticipated, implying the underlying structural margins of the company continue to advance.
+Recall, this guidance also includes 150 basis points of headwinds from the VIZIO acquisition and lapping leap year, consistent with our original guidance issued in February. Importantly, if we were to achieve the midpoint of our updated guidance for FY26, sales would grow 4.25% and operating income would grow 4.5% or 6% growth when factoring in the 150 basis points of callouts.
+This aligns with our financial framework of operating income growing faster than sales, and we're especially pleased in this uncertain backdrop, that we can grow share at an accelerated pace while growing OI ahead of sales. We have, of course, hoped to deliver better results, but feel it's prudent at this point in the year to preserve maximum flexibility.
+Like you, we continue to monitor customer and member behavior on a day-to-day and week-to-week basis, alongside tracking macro indicators such as CPI, job growth and wage growth. We know from history, that when Walmart leans into these moments of uncertainty, we emerge stronger on the other side, driving share gains this year positions us well for sustained sales growth momentum and stronger omni-channel advantages into future years.
+As the cost of goods environment settles, we expect the transformation of our profit mix to be even more pronounced, and we're confident in a return to operating income growth more consistent with the multiyear trend.
+We appreciate your interest in our company and are now ready to take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you. We'll now be conducting a question-and-answer session. (Operator Instructions)
+Simeon Gutman, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Simeon Gutman,  Morgan Stanley & Co Ltd - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning and thank you. I have a two-part question. First part is the topline is impressive and as good as one could hope -- can you talk about how much of the underlying profitability is being masked by temporary factors and if anything is not working in the flywheel?
+And then the second part, more for you, Doug, you mentioned the AI higher and perhaps this is first for a retailer to even have such an officer. Is AI already accelerating Walmart's topline and margin gains? And if not yet, when do they become more material? Thanks.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Hey Simeon, this is Doug. I'll take the second question first. As it relates to AI, I don't think it's lifting our topline sales yet. I think this is very early days. But I am excited about the road map, as I mentioned. I think what lies ahead is really exciting for us, given how our assortment has grown and our capabilities today as it relates to tech and Daniel is going to do a great job. Suresh and his team are doing a great job of laying out the architecture and the plan for us to drive sales.
+And maybe lastly, I'll just say that from a bias point of view, we're biased towards growth as it relates to AI. It's exciting to think about the productivity opportunities. But when we wake up in the morning, we're thinking about how we can serve customers better using AI. Just think about all the inventory management improvement that we can make with it, for example.
+As it relates to the flywheel and what's underneath John David can certainly comment to, but I don't see anything that I'm worried about. I feel as good about what's happening in the business mix of our company, as I ever have.
+We shared all the growth rates across marketplace, advertising, membership, all those areas of that story still seems very much intact to me. And it's disappointing that we have some noise in our numbers this quarter, but when you get past it and see all the things that are happening, I think you'll feel the same way.
+
+--------------------------------------------------------------------------------
+John Rainey,  Walmart Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          I would just add to that, Simon. It is kind of a nuanced earnings report given some of the cost pressures. But when you dig into the details, particularly of the e-commerce business, you look at things like membership growth of 16%, advertising growing 50% year-over-year, 30% in the US, you go line by line, and you can see why we're excited about the momentum in the business.
+We said that we're going to play offense, and we see that we're accelerating some of the share gains. Our business is strong, and we feel good about the back half of the year, particularly in light of what is still a rather uncertain environment, but I think we're positioned to win.
+And we feel good about how the business is performing, and you see that with the increase in guidance and the maintain and profit guidance even despite what is roughly $0.75 billion of cost pressure that was not anticipated when we gave that original guidance this year.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Christopher Horvers, JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Horvers,  JPMorgan Chase & Co - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, and thanks for taking my question. So there was recent news about your largest competitor expanding grocery delivery. It's a bit of an open mic question, but how do you think about the dynamics of this announcement?
+How does it change the advantage that you have given the convenience of stores and how local fresh is typically? And then on the other hand, does it necessitate faster investment on your side to remain competitive that perhaps affects that second P&L and the accelerating margin and cash flow dynamics over the next few years? Thank you.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [7]
+--------------------------------------------------------------------------------
+
+          What goes through my mind is that, gosh, I've been doing this for a long time now and competition just keeps getting better. So that's kind of factored into our plan. Like what do we expect people to do? We expect them to get better. And the best will get stronger. So that means that we got to keep doing the same thing.
+And we know what our plan is, and we know what customers want, whether it's price or the growing assortment, the way we improve the experience of shopping, you guys know that convenience has been driving our business for a while now, and I think that will continue. So I read just like you do what's happening at competition, but we stay focused on what's happening with the customer.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Michael Lasser, UBS.
+
+--------------------------------------------------------------------------------
+Michael Lasser,  UBS AG - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Good morning. Thank you so much for taking my question. One of the reasons why Walmart's multiple has expanded so significantly in the last couple of years, is the market has come to rely on the consistency of Walmart sales and profit performance?
+This quarter's gross margin result in the US and some other factors within the P&L has really tested that assumption? How do you decel this concern and make the case that this is a one-off rather than beginning of a trend. Thank you very much.
+
+--------------------------------------------------------------------------------
+John Rainey,  Walmart Inc - Chief Financial Officer, Executive Vice President    [10]
+--------------------------------------------------------------------------------
+
+          Michael, good to speak with you. Thanks for the question. Look, the first thing I would say is that the reality of managing a business of our size and complexity is you're going to have unexpected expenses that occur from time to time. A couple of years ago, we encountered a higher level of shrink in the business. We demonstrated that we navigated that really well.
+I think we're going to demonstrate that we're navigating this current environment pretty well also. So I tend to not worry so much about quarter-to-quarter and look at the long-term trend. If you look at what we've done over the last two years, we've grown the topline, 5% or 6% and profits at almost 10% over that period of time.
+And as I alluded to in my remarks, that's the way that we think about our multiyear trajectory that we're on. To suggest that we can do that every quarter. It's not a reality given the complexities of our business. And I should pause on that for a second because if you think about the backdrop that we're in right now, when we last released our earnings, we were roughly three weeks into this new tariff environment.
+I think I would argue very strongly that we've navigated that very well, both in terms of managing the impact on our financial statements but also minimizing the impact to our customers and members. And so, I would encourage people to look at the full year guide which we raised our revenue guidance, and we're keeping our operating income guidance the same in the face of these higher costs.
+When you look at the fundamentals of our business and how we're gaining share with customers, how our value proposition is resonating more strongly than it ever has, I would argue, we feel really good about this. We've got a lot of conviction in our strategy and our plan, and we've got a team that's executing on that.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Rupesh Parikh, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Rupesh Parikh,  Oppenheimer & Co Inc - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Good morning and thanks for taking my question. So I was hoping to focus on inventory. So inventory management continues to be strong. How are you feeling about the healthier inventory in in-stocks as you enter the back half of the year, including some of the more tariff-impacted categories?
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [13]
+--------------------------------------------------------------------------------
+
+          Hey, Rupesh. Good morning. It's John Furner. First, obviously, we're really proud of the team and the performance in the second quarter. As the quarter moved along, I would say the quarter was consistent with prior quarters. But what was in particularly helpful was the improvement in general merchandise as the quarter progressed.
+We had strength in GM really across the board, but in particular, at the end of the quarter with some strong events led by our e-commerce business and marketplace. Our e-commerce business has accelerated. I'd say that's one difference in the quarter, the 26% growth rate, which compares to [20s] in previous quarters.
+And the team is obviously operated in dynamic environments for some time. And this quarter was impressive the way that they managed inventory almost on a daily basis. I've been in stores all over the country in the last few months, and I'm really pleased with the inventory levels on the floor, in the supply chain, the back rooms are in great shape. So I feel really good about the way we exited the quarter.
+We exited with 2% inventory growth. A lot of that growth is what we would describe as in transit rather than being in the store. And then just one other highlight in terms of positioning inventory at a clean sell-through early and back-to-school. Our fashion business, in particular, has been great.
+More and more customers are choosing Walmart as a destination for fashion, and that's exciting. We've had growth across the board from shoes to ladies to men's, kids and baby. We have a lot of great work in style. We have a lot of great work on our inventory. And it's delivering a great experience for our customers.
+So as we enter the third quarter, I would just start with how we exited the second. Our sales were up 4.6% on a comparable basis. Our inventory is up 2%. Our inventories are clean, and we have 7,000 plus rollbacks, a dramatic increase from the second quarter. So we feel really good about our position going into the quarter.
+
+--------------------------------------------------------------------------------
+Christopher Nicholas,  Walmart Inc - President and Chief Executive Officer - Sam's Club    [14]
+--------------------------------------------------------------------------------
+
+          Hey, Rupesh. Chris Nicholas here from Sam's Club too. I think just a lot same as with John, I'd like to say I'm really pleased with the continued strength of the business, topline and underlying bottom line after you adjust out for the complexity. When you look at the composition of our sales, comp sales were up 5.9%. That was entirely unit driven.
+And what's really interesting about that is that's an acceleration of units quarter-on-quarter. That's really exciting. E-com plays a really big part of that. So 26% growth in e-commerce is good, two-thirds of the sales growth actually was e-commerce and delivery was a powerhouse within that.
+From an inventory point of view then, we have to buy to hit the growth that we're seeing in those units. So we pay, of course, very close attention to units, and we feel really good. We need the growth in inventory to support the unit growth. And we've made some tactical buys, of course, but our turns and days on hand of flat and units are accelerating. So just a lot of gratitude for our members and our associates in helping us maintain this momentum.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Seth Sigman, Barclays.
+
+--------------------------------------------------------------------------------
+Seth Sigman,  Barclays Services Corp - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, everyone. I was wondering if you could elaborate on the price changes that you started to make this quarter and the consumer response. Doug, I think you talked about maybe some elasticity at the item level that you were starting to see?
+And then how do we think about the general philosophy across categories? For example, I think it was notable that rollbacks in grocery being up 30% right now. Do you see opportunities to lean in on price, perhaps in certain categories to, I guess, offset the inflationary pressure the consumer is seeing in other places?
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [17]
+--------------------------------------------------------------------------------
+
+          Yeah. From a business model point of view, the fact that we have businesses like advertising and membership growing obviously help with flexibility as it relates to when we decide to absorb part of the tariff cost increase.
+And we also have, thankfully, general merchandise business positive. I think what John covered just a minute ago is really encouraging as it relates to mix. So those things help us with flexibility. You're right, we do see as costs go up, units change, but that is always true.
+Customers, as I mentioned, they're so quick, and they understand what's going on, and they make rational trade-offs as they move from one category to the next. So as I've said to you many times, I think one of the things I love about our business is the ability to manage mix. It gives us a lot of flexibility.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Corey Tarlowe, Jefferies.
+
+--------------------------------------------------------------------------------
+Corey Tarlowe,  Jefferies LLC - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning, and thank you for taking my question. I wanted to ask on your international strategy. if you could provide an update on the international portfolio, particularly Canada, India and Mexico. What are the strategic priorities in those markets? And how are they fitting into the long-term growth outcome. Thank you.
+
+--------------------------------------------------------------------------------
+Kathryn McLay,  Walmart Inc - President and Chief Executive Officer - Walmart International    [20]
+--------------------------------------------------------------------------------
+
+          Hey, Corey. It's Kath. Thank you for the question. And I do want to start by appreciating our associates and everything they've done over this quarter. This quarter for us, Corey, was really one where we took the opportunity to lean into momentum as well as differentiating our capabilities.
+I'm going to talk about that, and then that will help you understand how we're thinking about Canada, Mexico and India. This quarter, our e-com growth was up 22%. And as you kind of look at that, that's really being bolstered by both still fulfilled pickup and delivery and marketplace.
+If you look at our business in China, we opened 33 clouds which now means that we have 455 clouds. And as you remember, over 50% of our sales in China is online initiated. So that's enabling us to be able to get to the customer less than an hour. So seeing strength coming through that business.
+Then if you look at kind of India, we now have 300 minutes FCs which enables us to get to the customer in less than 15 minutes, and we have 60 MFCs for Myntra, which enables them to be able to get to the customer in under 30 minutes. So we're beginning to position ourselves to be able to really take advantage of this growth into the quick commerce channel, but to do it efficiently by ensuring that our third-party inventory is placed closer to the consumer.
+And then if I think about Mexico and Canada, we have talked previously about the fact that we're bringing global platforms. So the best of our tech to the markets and over this quarter, we really focused on how do we bring our Walmart Commerce platform to both Canada and to Mexico.
+And so, in Canada, that is now up and launched. And in Mexico, that means that we're bringing a merged hallway so that you can. So the customer can experience both 1P and 3P in a unified experience. As we've done that, we have increased our sellers this quarter by 75%, and we've increased the SKUs by $40 million.
+So a lot of work this quarter, particularly to reposition and make sure that we are investing in differentiating our capabilities across Mexico, Canada, India and China to position ourselves for strength.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [21]
+--------------------------------------------------------------------------------
+
+          If you look back at the last two investor conferences, we've talked about what the longer-range plan looks like and how profitability is going to grow faster than sales in international. So not only are we getting topline help from international, but the bottom line will lift return on investment even more than the other segments.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Kate McShane, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Kate McShane,  Goldman Sachs Group Inc - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning. Thanks for taking our question. We know Walmart's US e-commerce profitability continued to increase in the quarter, driven by better net delivery costs and advertising. But could you comment on e-commerce profitability globally? And is there any quantification about or how much it's contributing to operating income dollar growth in the quarter and what you expect for the year?
+
+--------------------------------------------------------------------------------
+John Rainey,  Walmart Inc - Chief Financial Officer, Executive Vice President    [24]
+--------------------------------------------------------------------------------
+
+          Sure, Kate. Good to speak with you. Globally, we continue to make progress on our e-commerce business. And it's roughly as I described in the last quarter's earnings call where we have a small profit in the SM segment. The US segment is continuing to add to their profits there and the international segment operates at a loss, although it's a contribution margin positive operation, and we continue to see improvements there year-over-year.
+If you look at the most recent quarter, maybe one way to think about our e-commerce business and maybe even more broadly, all the diversified new businesses that we have for purposes of this, I'm going to exclude the incremental claims cost. I think that's probably a better way to look at this part of our business right now. But 50% of our incremental profit, excluding claims, was related to advertising, membership and marketplace.
+And I'm even thinking back to Michael's question about the multiple of our business. I think of our earnings multiple is something that is a factor of both the growth of the business as well as the certainty of the business. And it's pretty rare to find a company of our size with a roughly $700 billion revenue base that is growing organically 5% to 6% each period. We're really pleased with what we're seeing there. And if you look at the contribution to that growth, it's primarily e-commerce.
+So this is fantastic. And what we realize is we have a set of assets that really plays to our hand here to be able to expand this offering to customers. The other part of that question on the multiple I talked about growth, but certainty or maybe said differently, durability of our earnings stream. We are more than just a standard brick-and-mortar retail business.
+We have a much more diversified set of profit streams now that are both higher growing as well as higher margin. And I think that is reflected in our multiple. And so, this has been a challenging quarter. It's one of the reasons that we did not give guidance going into it because we knew it could be a wide range of outcomes. But when you look at the core fundamentals of our business, at the profit composition changing, we're really excited about the progress.
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [25]
+--------------------------------------------------------------------------------
+
+          And Kate, it's John. And for the US with the growth rate of 26%, I think a couple of things that are really helping. One, of course, we're leaning into growth. It's exciting to see that the growth rate has accelerated from previous quarters.
+And within that, the mix has been better. I mentioned general merchandise and the strength of apparel that is true online. It's true in stores. So having better mix, obviously, is a big contributor here. Another way to think about mix is the mix of business units. So digital services like advertising with a 31% growth rate also help contribute to profitability.
+But if there's one thing that I think I'm most excited about most proud about is that Walmart is getting faster. Our customers are responding to our delivery speeds. We see billions and billions of units at a high growth rate being delivered same day and within same day from our store deliveries, about a third of those deliveries are under three hours and 20% of those units are delivered in less than 30 minutes.
+So I'm excited about what the team has done to lean into speed. We're now covering 93% of the country under three hours. We think that will be 95% by the end of the year. So our reach is getting better. Our speed is improving, and customers love being able to deliver with speed.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [26]
+--------------------------------------------------------------------------------
+
+          For a while now, we've described our business as being two P&Ls, the traditional store P&L and then the new digital P&L, which has got marketplace, marketplace commissions, membership, advertising, all those kinds of things in it. And what we were pointing to is we think that the second P&L over time can be more profitable than the first P&L and lift the total.
+And I think what you're seeing now is what we've been seeing coming for a while. And I would add that, that's global like the business model that we're talking about applies across countries, which gives us the opportunity to build tech more often that's common across markets, which gives us more leverage and more speed eventually. We're working hard on speed.
+So I am very excited about that. I think that the future our long-range plan and the way this business model looks are really exciting. And then you layer on top of that what AI will do to help us further those efforts and it's really exciting.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Robbie Ohmes, Bank of America.
+
+--------------------------------------------------------------------------------
+Robert Ohmes,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking my question. I wanted to follow up or see if I can follow up and get you guys to talk a little bit more about gross margin scenarios in the back half. When you guys reported the first quarter, you said there were some different potential scenarios.
+And one of them was that maybe gross margin could be better than expected in the second quarter because of retail accounting method and timing of price increases and things like that. Now we're heading into the back half with more rollbacks.
+And could you guys just talk about the -- do you guys have -- I know it's still uncertain, but have you gained more certainty on what competitors are doing with price or just how your elasticities are telling you things that you're setting up well for the second half year on a gross margin standpoint.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [29]
+--------------------------------------------------------------------------------
+
+          Yeah. Robbie, this is Doug. I think that's a key question, and you're probably going to be dissatisfied with our answer because we have to be flexible. I really, as several of us have said, very impressed with how our merchants have been navigating this so far.
+But just imagine for a minute being one of the category buyers and having to think through what the impacts are from a cost point of view, from an elasticity point of view, how our customer is going to respond for Halloween and Christmas as well as off the side counters every day.
+And as we said at the beginning of this quarter that we just finished, we want to preserve the flexibility that we have to be able to make decisions and not them at a time managing markdowns and sell-throughs are another key component and the team did a great job managing back-to-school sell-throughs.
+They did a great job managing some are seasonal in categories like toys, I expect that will continue. Our team, as we've been saying all along, is able to manage this well, they've got the tools, they've got the experience.
+And as we go through the quarter, we'll be watching price gaps. We'll be watching gross margins. We'll be watching bottom line profitability,p and we'll do what we need to do to serve the customer and make sure we preserve topline momentum and as our guidance reflects, bring profit in to grow profit faster than sales by the end of the year. That's our focus.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Kelly Bania, BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Kelly Bania,  BMO Capital Markets - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking our questions. Wanted to also kind of dig in on the gross margin, the US gross margin a little bit. You mentioned you ended up with lower markups, I think, than planned? And can you just talk about why that was? Is that due to your ability to mitigate more of the tariff-related costs? Or you found more ways to offer more rollbacks than planned?
+I'm just trying to understand how much price has been already passed on to the consumer and how that might change in the back half. I believe the general merchandise category went from negative mid-single digit or mid single-digit deflation to low single-digit deflation. And I'm just trying to understand if that's just due to the tariff-related impacts and what that could look like in the back half.
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [32]
+--------------------------------------------------------------------------------
+
+          Hey, Kelly. It's John. I'll pick up where Doug left off and our merchants have a lot of capabilities in terms of being able to mix their business out and being competitive in the market is really important, you alluded to the 7,000 plus rollbacks that are out today operate in stores and online. We're excited about that.
+We see customers respond each time that we're able to invest in the customer value overall. The second thing I'd say is we are really focused on inventory management, how you close a quarter has a lot to do with how you'll get into the next quarter, inventory price drive sales and margin. It can create markdowns and shrinkage.
+And we do have some tailwinds with markdowns and shrinkage because of the inventory management. And we're really proud of the improvement in days on hand in stores, in the supply chain, in our fulfillment centers.
+So as turns continue to increase with sales growing 4.6%, it puts us in a good position to manage our way through it. And as you look at the rest of the year, I'm particularly excited about the values that we intend to offer in key categories and key events for customers coming up over the next couple of quarters.
+So I think we're positioned well going into it. We will watch our competitors really closely. We always do that. We want to maintain price gaps to ensure that we have value for customers. And lastly, having this ability to deliver at the scale and speed that we are, we're really proud of the dollar share gains we see in key categories like our food areas, and we're getting closer to customers.
+So we'll continue to manage through this. Of course, there will be some uncertainty. The environment is tending to move around like it has been over the last few quarters. But we have a team of people who are experienced, and they'll be able to manage it. So pretty consistent quarter-to-quarter from a merchandise margin standpoint. I think you see that in the numbers, and that will be our focus going forward.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Oliver Chen, TD Cowen.
+
+--------------------------------------------------------------------------------
+Oliver Chen,  Cowen and Company LLC - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Hi, Doug and John Rainey, thank you. Regarding artificial intelligence, you've had a nice history here with loyalty adaptive and using LLMs as well as using this with employees. What would you say are your competitive advantages and how you might contrast this relative to competition within AI. And then within AI, what might be harder versus easier and lower hanging fruit that you see ahead, a lot of progress with Sparky.
+A quick follow-up as well. As you build Walmart into an ecosystem and a lifestyle brand and thinking about the progress you made with higher income consumers and style, what's on your mind for the road map with respect to that aspect of the brand and the customer experience. Thank you.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [35]
+--------------------------------------------------------------------------------
+
+          I'll kick off the first one. John, you may want to help out with the second one. All of you are welcome to join in this response. And when I think about AI, Oliver, one of the things that we've obviously got as a ton of data and it's not just product catalog data these days, it's delivery data. It's real-time data. And the way that we can put that to work to understand the context in which someone's shopping is really exciting to think about. I think it's compelling.
+There are times when you want to replenish your home with the things you buy at the time. There are other times when you're browsing for fun, and I think we're going to do a better job of understanding what the moment calls for and being able to meet the need, whether it's delivery speed or it's the breadth of the assortment. One of the interesting things about our advantages is the physical nature of them.
+If we can compete as it relates to the digital aspects, but we bring customer service culture, a lot of great associates that bring that culture to life, the physical supply chain, being able to fulfill the order across the breadth of our assortment that's online is something that not very many people can do.
+So it's one thing to know what intent is. It's another to be able to close it out. And I think we're in a position to be able to do both of those things, and this omni nature of our business proves to be an advantage once again.
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [36]
+--------------------------------------------------------------------------------
+
+          And Doug, I think it's really exciting at the stage that we're in to be able to understand customer intent and customer preferences at a one-to-one level. So helping customers take time out of their day so that we can understand what it is they're trying to accomplish, whether it's planned for a meal or create a solution for an event and then having memory to be able to help us anticipate what customers need.
+So if they want to stay in stock in their home, we'll be able to do that in ways that we haven't been able to before. I'm really excited about where Sparky is today, when we had our managers together last week, we talked about some of the things that Sparky will be able to do in the near future. And I think those are important developments as we look forward. So this will be an enabler for our customers.
+It's also an enabler for our associates, being able to help associates throughout the supply chain in the stores, know what the next best action to take is will be particularly helpful when it comes to serving customers, managing inventory and preparing ourselves for the next couple of quarters.
+
+--------------------------------------------------------------------------------
+Christopher Nicholas,  Walmart Inc - President and Chief Executive Officer - Sam's Club    [37]
+--------------------------------------------------------------------------------
+
+          I feel really good about all of that as it pertains to Sam's Club too. The one thing I'd add with Sam's Club is I'm really excited about the level of digital engagement we're seeing in our clubs. We've got well over 40% now. We're trending to 40%, well over 40% of the weekend of people using Scan & Go and the just go arches.
+And really cool about that is it's bringing AI and computer vision and bringing them together to make our associates' lives easier and our members' lives easier, and it's really resonating. And that's one of the big reasons we're trending so much younger with our new members that we're acquiring. So I think it's online, and I think it's physical too, and I'm excited about what the future looks like for Sam's Club.
+
+--------------------------------------------------------------------------------
+Kathryn McLay,  Walmart Inc - President and Chief Executive Officer - Walmart International    [38]
+--------------------------------------------------------------------------------
+
+          This might sound a bit intangible, but I also think trust is a competitive advantage. Like we've been serving customers across all of the markets and giving them access to get better prices through everyday low prices.
+And I think you're building a relationship over many years where they know they can trust that we'll have the best price for them. And I think that trust, transfers in an AI world to being a part of our competitive advantage as well.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [39]
+--------------------------------------------------------------------------------
+
+          And the second part of the question was plans related to higher income customers.
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [40]
+--------------------------------------------------------------------------------
+
+          Look, I think customers in every part of the value chain are looking for ways to save time and they're looking for more flexibility and we've talked about this for the last few years. We have gained share, and we've earned the business of customers who are higher income.
+But at the same time, we've continued to maintain and grow with other income levels, in particular, the higher income customers the flexibility that we offer, whether it's the marketplace with over 0.5 billion items, which is growing well, our ability to deliver faster the growth in same-day and next-day delivery is particularly helpful.
+And then channels like fast delivery, which we've talked about with over 20% of our store, a third of our store delivery is coming under three hours and 20% of those under 30 minutes is particularly helpful. So whether you're planning out what you're going to do this week, whether it's fashion that you're looking for, which is accelerated here at Walmart or it's an ingredient or something you're missing and you need in the next few minutes, we can help accomplish all these things for customers.
+So excited about the growth across income groups, but I'm also particularly excited about the number of customers that we have met, acquired seen who are higher income that are transacting more frequently with Walmart.
+
+--------------------------------------------------------------------------------
+Christopher Nicholas,  Walmart Inc - President and Chief Executive Officer - Sam's Club    [41]
+--------------------------------------------------------------------------------
+
+          Yeah. We see the largest proportion of our members are those higher income members and thus they're still growing. One of the things I'm excited to see is the growth in our GM business. So we're in our fifth quarter of positive comps in GM. Units are growing ahead of comp. Apparel is doing really well. Seasonal is doing really well.
+But I think it's worth bringing a bit of focus on. We brought 50 new brands into GM this quarter. And these are brands that maybe Sam's Club wouldn't have gotten before. It's just this last couple of weeks, Vera Bradley, Outdoor Voices, CurrentBody, like these are call interesting items and our merchants are finding them, and it's bringing in the kind of members that you'd hope you would see.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          Peter Keith, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Peter Keith,  Piper Jaffray Inc - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Hey, thank you. Good morning. I wanted to ask about the new ad campaign called Who Knew?, which I think is pretty good. It launched in mid-June. So it might be a little bit early, but I think it does a good job of highlighting the broad selection and the delivery capability. So wondering if there's been any initial reaction you've noticed with the ad campaign. Certainly, the acceleration of e-com growth might be coincidental, but it is interesting.
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [44]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, Peter. It's John. We're really excited about the campaign. It's been a lot of fun. I think the team is particularly excited about the messaging. You mentioned a couple of points. What we were obviously, hoping to do was help people see Walmart a bit differently and help explain to people that may not know, a lot of people do, but a lot of people do not know that we have such a broad assortment, which would include our stores, our first-party commerce business and marketplace.
+Certainly, as the campaign kicked off in June, we had a lot of excitement around it. We were able to introduce it in front of our associates here in town. But since that time, hard to measure at this point, I'll say that first. But our e-commerce business and the channels that we talked about, the breadth of assortment and speed of delivery have accelerated.
+This is a great quarter for the team, up 26%, which is 5% to 6% above where we've been trending. So we'll continue to monitor the results. We're happy with the progress, and we have some exciting plans for the campaign in the back half of the year.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Chuck Grom, Gordon Haskett.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [46]
+--------------------------------------------------------------------------------
+
+          Hi. This is Eric on for Chuck. Early in the call, you mentioned that the lower mountain consumers are feeling the pressure of higher prices. Curious if you're seeing positive comps from all the different income cohorts. If there's been any divergence in the trends those cohorts. And also just curious if you're seeing any changes in sort of how you're thinking about capital allocation now with tariffs being a bigger impact going forward?
+
+--------------------------------------------------------------------------------
+John Furner,  Walmart Inc - President and Chief Executive Officer - Walmart U.S. Division    [47]
+--------------------------------------------------------------------------------
+
+          At First, on the customer, we are always focused on opening price points and having what we would call a ladder in our assortment to ensure that we're offering opening price point, good and better qualities. We've seen growth in all three. We mentioned earlier in the call that we have over 7,000 rollbacks, about 7,400. That's up almost 2,000 from the prior quarter.
+So our merchants will continue to focus on mixing out categories, we want to be the price leader in opening price point, and we want to have great values in food and consumables, general merchandise. Our food business, again, in units in fresh food, in particular, had a strong quarter.
+Our ability to deliver has worked for all income groups. There may be some assumptions that one group would take delivery more frequently than others. We see that being much more balanced as we look across. So we're particularly excited about the growth of all.
+We did highlight high-income customers, and that's great. I think that's a response to some of the better brands that we're now offering, including private brands like bettergoods. But it's been pretty balanced and look forward to serving customers at all income levels as we look ahead.
+
+--------------------------------------------------------------------------------
+John Rainey,  Walmart Inc - Chief Financial Officer, Executive Vice President    [48]
+--------------------------------------------------------------------------------
+
+          On capital allocation, I think we're very fortunate to be a company that has so many opportunities to invest a dollar for high returns. As I've said before, though, every dollar has to compete for that highest return. And I think we're fortunate to have opportunities to invest in ourselves in things like technology, AI, supply chain automation to drive returns in some cases, in the 20% range.
+But we also -- because we generate a fair amount of free cashflow, we have an opportunity to be balanced there. And in the most recent quarter, we also were aggressive in buying back more stock. Year-to-date, we bought back over $6 billion of our shares, and that's 50% more than we did all of last year.
+And so, as the market dislocated a little bit with some of the concerns around tariffs earlier in the year, we were more aggressive, and we'll continue to be aggressive buyers of our stock when we see prices dislocate because of all the things that you've heard today.
+We have a lot of conviction in our plan. We like where we're going. We like our strategy, and we believe that that's going to generate returns well in excess of what we've done historically.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          Joe Feldman, Telsey Advisory Group.
+
+--------------------------------------------------------------------------------
+Joseph Feldman,  Telsey Advisory Group LLC - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Yeah. Hey guys, thanks for taking the question. I wanted to go back to -- I think, something Doug mentioned, you feel pretty confident about the holiday season and think it should be a pretty solid one, which I think is welcome news to a lot of investors.
+So I was curious maybe you could say why you think that, given all the cost pressures that across retail in general and maybe it's that people will be shopping more frequently at Walmart. But I wanted to ask about that and maybe any changes to your approach for the holiday season and maybe for both Sam and for Walmart. Thanks.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [51]
+--------------------------------------------------------------------------------
+
+          Joe, this is Doug. What I said was Walmart is going to have a good holiday season. I think if you look at what happened with back-to-school, it's usually an indicator of what will happen with Halloween and Christmas. I think the other thing that's gotten us excited is we had a chance to be together, John, with all the US store managers last week and to see the items and to see the prices that we've got coming for holiday.
+So I feel like that when I look at the rest of the year and is reflected in our guidance that we're going to finish strong and we're going to be in good shape, in particular, we got to keep a close eye on inventory management, obviously, pricing and sell-throughs matter. But as we've been talking about during the call, I think we're well on top of that.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Thank you. We've reached the end of the question-and-answer session. And I'll turn the call over to Doug McMillon for closing remarks.
+
+--------------------------------------------------------------------------------
+C. Douglas McMillon,  Walmart Inc - President, Chief Executive Officer, Director    [53]
+--------------------------------------------------------------------------------
+
+          As always, thanks for your time and attention today. I hope you can tell we're focused. We're focused on the customer, kind of the fundamentals of the business, whether it's pricing or inventory management. It's great to have topline momentum, and we want to keep that going, keep the share gains growing. We've got good growth in e-commerce at 25%, we have a lot of headroom.
+Like our share in e-commerce is still relatively low. So there's a long runway there. It's good to have rollbacks in the mix as we get cost pressure on some items. It's nice to be able to have some relief for customers in other places, really nice to have general merchandise performing well. Pleased with how inventory management has gone so far.
+I think strategically just continuing to focus on strengthening the business model and growing those newer businesses like advertising and membership is obviously key. We did that this quarter. We've been doing that for quite a while now, and I expect that to continue. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference. You may disconnect your lines at this time, and we thank you for your participation.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

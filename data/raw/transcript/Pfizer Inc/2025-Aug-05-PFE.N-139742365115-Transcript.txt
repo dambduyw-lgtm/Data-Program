@@ -1,0 +1,703 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2025 Pfizer Inc Earnings Call
+AUGUST 05, 2025 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Albert Bourla
+   Pfizer Inc - Chairman of the Board, Chief Executive Officer
+ * Aamir Malik
+   Pfizer Inc - Executive Vice President, Chief US Commercial Officer
+ * Francesca DeMartino
+   Pfizer Inc - Chief Investor Relations Officer, Senior Vice President
+ * Alexandre De Germay
+   Pfizer Inc - Executive Vice President, Chief International Commercial Officer
+ * Chris Boshoff
+   Pfizer Inc - Chief Scientific Officer, President-Research & Development
+ * David Denton
+   Pfizer Inc - Executive Vice President, Chief Financial Officer
+ * Andrew Baum
+   Pfizer Inc - Executive Vice President, Chief Strategy and Innovation Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Steve Scala
+   TD Cowen - Analyst
+ * Rajesh Kumar
+   HSBC - Analyst
+ * Asad Haider
+   Goldman Sachs - Analyst
+ * Terence Flynn
+   Morgan Stanley - Analyst
+ * Umer Raffat
+   Evercore ISI - Analyst
+ * Kerry Holford
+   Berenberg - Analyst
+ * Evan Seigerman
+   BMO Capital Markets - Analyst
+ * Alexandria Hammond
+   Wolfe Research LLC - Analyst
+ * Timothy Anderson
+   BofA Global Research - Analyst
+ * David Risinger
+   Leerink Partners - Analyst
+ * Mohit Bansal
+   Wells Fargo Securities LLC - Analyst
+ * Carter Gould
+   Cantor Fitzgerald - Analyst
+ * Trung Huynh
+   UBS Equities - Analyst
+ * Courtney Breen
+   Bernstein Research - Analyst
+ * Christopher Schott
+   JPMorgan - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, everyone, and welcome to Pfizer's second-quarter 2025 earnings conference call. Today's call is being recorded. At this time, I would like to turn the call over to Francesca DeMartino, Chief Investor Relations Officer and Senior Vice President. Please go ahead, ma'am.
+
+--------------------------------------------------------------------------------
+Francesca DeMartino,  Pfizer Inc - Chief Investor Relations Officer, Senior Vice President    [2]
+--------------------------------------------------------------------------------
+
+          Good morning and welcome to Pfizer's earnings call. I'm Francesca DeMartino, Chief Investor Relations Officer. On behalf of the Pfizer team, thank you for joining us. This call is being made available via audio webcast at Pfizer.com. Earlier this morning, we released our results for the second quarter of 2025 via a press release that is available on our website at Pfizer.com.
+I'm joined today by Dr. Albert Bourla, our Chairman and CEO; and Dave Denton, our CFO. Albert and Dave have some prepared remarks, and we will then open the call for questions. Members of our leadership team will be available for the Q&A session.
+Before we get started, I want to remind you that we will be making forward-looking statements and discussing certain non-GAAP financial measures. I encourage you to read the disclaimers in our slide presentation, the press release we issued this morning, and the disclosures in our SEC filings, which are all available on the IR website on Pfizer.com. Forward-looking statements on the call are subject to substantial risks and uncertainties that speak only as of the call's original date, and we undertake no obligation to update or revise any of the statements.
+With that, I will turn the call over to Albert.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you Francesca. Good morning, everyone. Thank you for joining our call. Our business is performing well, and I'm pleased with the progress we achieved in the second quarter. We advanced and strengthened our R&D pipeline, we worked to maximize the value of our commercial portfolio, and made further strides to expand our markets. We continue to be actively engaged with policymakers as we navigate the complicated and rapidly evolving geopolitical environment, while also remaining focused on advancing our business.
+With our strong year-to-date performance, we are raising our Adjusted diluted EPS guidance for full-year 2025 and remain committed to our dividend. Our programs to expand margins through focused technology and simplification are working very well. We are driving productivity gains by leveraging technologies such as AI and automation. And we are also realizing the benefit of continued streamlining across our company. We believe Pfizer is well-positioned to continue creating meaningful value for patients and our shareholders.
+Our top strategic priority this year is, of course, improving R&D productivity. I'm proud of the outcomes we are driving and the meaningful milestones achieved during the quarter. Looking ahead, we believe key programs in our R&D portfolio offer significant opportunities to help address substantial patient need and drive Pfizer's growth in the coming years.
+I will mention some highlights. ELREXFIO is a medicine that is performing very well with rapid growth and encouraging progress in claiming leading class share in new markets such as Japan, United Kingdom, and Spain. The clinical data in ELREXFIO’s initial heavily treated triple class exposed multiple myeloma indication, continue to be encouraging with medium overall survival of greater than two years, which is more than double the historical median overall survival in this population.
+Moreover, the majority of responding patients are maintaining their response at 30 months, and ELREXFIO has the potential to be a leading standard of care with a differentiated clinical profile. It is a convenient, subcutaneous, fixed dosing regimen, the only one, that now includes a once-every-four-week option for select days.
+New data presented at the American Society of Clinical Oncology Annual Meeting in newly diagnosed patients demonstrate ELREXFIO's potential to move to earlier multiple myeloma treatment settings. This data from part one of the MagnetisMM-6 study saw a confirmed response rate greater than 97%. And the manageable safety profile in combination with daratumumab and lenalidomide. The randomized portion of this Phase 3 study is now enrolling very well.
+By executing on MagnetisMM-6 and ELREXFIO's other ongoing Phase 3 trials, we aim to achieve label expansion, that, if approved, would collectively increase the addressable population, approximately fivefold, in the growing multiple myeloma market, expected to reach approximately $44 billion by year '27.
+Sigvotatug vedotin or SV is our first-in-class integrin-beta 6 ADC that could be a driver of growth later this decade. We are executing a robust development program with this investigational compound in non-small cell lung cancer. This includes our fully enrolled Phase 3 of SV monotherapy versus docetaxel in previously treated non-squamous patients that we expect data from next year.
+In the second line-plus population, we have observed a durable 31% confirmed response rate which is favorable versus historical data with the docetaxel monotherapy. We are also enrolling a Phase 3 study of SV in combination with a PD-1 checkpoint inhibitor in first line non-small cell lung cancer with high PD-L1 expression based on encouraging Phase 1 data for this combination recently presented at ASCO. These results saw a 57% response rate and greater than 90% disease control, including responses in outpatients in the tumor proportion score greater than 50% subgroup which compares favorably to historical anti-PD-1 monotherapy. These results support an ambition to change standards of care to conventional chemotherapy-sparing regimens by leveraging the potential synergy between vedotin ADCs and PD-1 checkpoint inhibitors.
+With our ongoing and planned trials in non-small cell lung cancer, SV has the potential to impact large patient population with the non-small cell lung cancer market expected to reach over $60 billion for year 2030. Our strategy is intended to deliver a first approval in previously-treated patients before moving into the first line setting, which is non-small cell lung cancer and includes more than half a million global patients.
+In a hematology, we continue to promote the differentiated profile of HYMPAVZI. In the quarter, we start positive topline data from the Phase 3b study evaluating HYMPAVZI for adults and adolescents with hemophilia A or B. The studies cohort of patients with inhibitors met its primary point, demonstrating a statistically significant and clinically meaningful 93% reduction in annualized bleeding rate, compared to on-demand treatment in patients 12 years or older which compares favorably to recent approved products for hemophilia A and hemophilia B.
+These results further strengthen HYMPAVZI's differentiated profile as the first once-weekly fixed dose subcutaneous treatment for hemophilia A or B, administered in a convenient prefilled auto-injector pen. They also support the potential to expand its label to patients with hemophilia who develop inhibitors to factor replacement as we continue to execute on its launch in the previously-approved non-inhibitor population.
+We have seen considerable quarter-over-quarter growth particularly in the hemophilia B market where subcutaneous treatments are only recently available. And following EU and Japan approvals at the end of last year, we are seeking reimbursement on pursuing early access pathways in other international markets as we grow our presence in the hemophilia market projected to reach nearly $10 billion for year 2030.
+Moving to our vaccine portfolio. We are enthusiastic about our potential to deliver the first approved vaccine for C. difficile infection. Our second generation investigational vaccine candidate builds upon encouraging results from the prior Phase 3 global trial of our first generation candidate. This trial has demonstrated 100% efficacy against medically attended C. diff infection despite not achieving the study's primary endpoint.
+With our second generation C. diff vaccine formulation, we have the potential to simplify the dosing schedule from three to two [doses] (corrected by company after the call). This candidate, now in Phase 2, increased the strength of the immune response fourfold, compared to the first-generation vaccine.
+Based on this newly announced Phase 2 data, we are preparing for a Phase 3 start before the end of this year. We will incorporate learnings from the previous CLOVER study to develop new primary endpoints focused on the prevention of severe disease outcomes rather than primary infection. If approved, the vaccine could significantly reduce the healthcare burden of the nearly 500,000 annual C. diff infections and approximately 30,000 annual deaths in the US alone.
+In another one of our Phase 3 products, we finished dosing the last phase in our study of a vaccine candidate for Lyme disease. If successful, we expect to submit for approval next year.
+We also continue to strengthen our portfolio by harnessing external innovation through strategic business development. The recent closing of our Global ex-China in-licensing agreement with 3SBio grants us exclusive rights to develop, manufacture, and commercialize SSGJ-707, a bispecific antibody. Targeting PD-1 and VEGF, it has the potential to deliver breakthroughs for patients in the next way in PD-1 immunotherapy which is an established $55 billion market.
+With comparing monotherapy data in advanced non-small cell lung cancer presented recently at ASCO, we review this promising cancer immunotherapy candidate as a seamless fit within Pfizer's oncology strategy. Given our deep experience in the development of antibody therapeutics and our differentiated industry-leading portfolio of ADCs, we intend to serve the data later this year for our plans for a Phase 3 program. With Pfizer's established presence and global reach, we believe SSGJ-707 has the potential to become a backbone therapy for multiple solid tumor types where the PD-1/VEGF mechanism could have significant impact.
+Across our pipeline, we continue to sharpen our focus on programs where the strength of our capabilities give us the greatest opportunities to address substantial patient need. We look forward to sharing future updates about our programs.
+Now let's move to commercial. Our commercial strategy is unlocking higher productivity and performance across both, our US and international divisions. With several of our established brands, we are pleased with our continued market leadership and growth.
+We delivered another solid quarter for our Vyndaqel family with 21% year-over-year operational growth. These products are the foundation of care for patients with a serious heart condition, ATTR cardiomyopathy, and we continue to see strong progress in diagnosing patients and providing broad access. While we continue to closely monitor the competitive impact of new entrants, we believe the Vyndaqel family is differentiated with a strong clinical profile contributed to continued volume growth.
+With Eliquis, we are the clear leader with robust demand in a growing anticoagulant market. Our international commercial teams are driving higher growth versus the market in our key countries with effective engagement with health care professionals to reinforce the favorable profile of these medicines. In the US, the BMS-Pfizer alliance recently announced a new direct to patient option for purchasing Eliquis via the alliances patient resource Eliquis 360 some more. This option offers an insured, under-insured or self-pay patients an opportunity to significantly lower out-of-pocket costs for Eliquis. Among some of our recently launched acquired brands, we are seeing strong underlying demand in competitive classes as we work to build expanded access and greater awareness and loyalty, of course, among health care professionals.
+With NURTEC, we continue driving strong commercial execution. We are pleased with the performance of new consumer campaigns and greater precision and effectiveness in serving compelling clinical data with health care processor. In the US, we achieved strong growth in total prescriptions and with 47% market share maintain leadership in the oral CGRP class, offset by pressures on net revenues from the impact of the IRA medical Part D redesign and the 340B program
+Internationally, we are achieving strong performance in several key markets where we already have access and are encouraged by the potential to unlock additional opportunities by continuing to expand the
+Padcev, a new -- a key product in our oncology portfolio is demonstrating strong performance and to see multiple avenues for future growth. Our ADC for the treatment of adult patients with locally advanced metastatic urothelial cancer achieved high year-over-year operational growth of 38% in the quarter with growing demand and the onetime favorable impact from to a wholesale distribution model for products. Padcev in combination with pembrolizumab has secured market share greater than 50% in first-line LA metastatic UC and is the standard of care first-line treatment.
+Additionally, we continue to anticipate Phase 3 readouts for PCV in muscle invasive bladder cancer in two ongoing studies. If successful and approved, we expect a significant expanded opportunity to treat patients with bladder cancer focused on the approximately 28,000 in the US with MIBC, approximately 80% of whom undergo cystectomy.
+Cibinqo had strong 46% year-over-year operational growth with the quarter, driven by higher demand in the US and growth in key international markets where we have decided to focus. We believe there is additional market opportunities for Cibinqo responding to the need among patients with atopic dermatitis. We are seeing the clear impact of recent positive data released for several of our oncology products. It is contributing to strong growth in helping to establish these products as standard of care.
+LORBRENA achieved 48% year-over-year operational growth in the quarter, and we expect continued strength through 2025. It has a compelling efficacy profile supported by the CROWN study where the median progression free survival was not reached after five years of follow-up. LORBRENA is emerging as a standard of care for patients with first-line ALK-positive metastatic non-small cell lung cancer.
+We saw continued momentum with Braftovi and Mektovi with 23% year-over-year operational growth in the second quarter. Results from the Phase 3 BREAKWATER trial saw the Braftovi combination regimen doubled median overall survival versus standard of care for treatment-naive patients with metastatic colorectal cancer with BRAF V600E-mutation. This represents a significant advancement of the approximately 4,000 patients diagnosed annually in the US with metastatic colorectal cancer with this mutation. They face a more than twofold greater mortality risk compared to patients with no BRAF mutation.
+XTANDI contributed strong 14% operational growth during this quarter. Demand is growing for patients with castration-sensitive prostate cancer and it is the top prescribed branded antigen receptor pathway inhibitor. With the presentation long-term overall survival data from the ARCHES trial, XTANDI is now the first and only androgen receptor pathway inhibitor to demonstrate an overall survival benefit at five years in men with metastatic hormone-sensitive prostate cancer. We also recently served positive top line results from the Phase 3 EMBARK study, making XTANDI the first and only androgen receptor inhibitor-based regimen to demonstrate overall survival benefit in non-metastatic hormone-sensitive prostate cancer with high-risk biochemical recurrence. This contributed to demand growth for XTANDI and we achieved 27% share in new-to-brand prescription.
+This positive indicate how we are continuing to invest and focus in areas where we have leadership and expertise, contributed to ongoing progress with our oncology portfolio.
+The strong performance in the US and the international divisions show why we remain confident in the commercial strategy we refined more than a year ago. In the quarter, for example, the key market and brand combination, we prioritized in our international divisions are outperforming with strong mid- to high single-digit growth across all regions. We will continue to advance this commercial strategy and expect to drive further progress through precision targeting engagement with patients and health care profession.
+With that, I'll turn it over to Dave, who will walk through our additional strategic priorities and progress with expanding margins and optimizing capital allocation. Dave?
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Albert, and good morning. To begin this morning, let me emphasize that our solid financial results are a clear reflection of our disciplined execution and strategic priorities. We remain focused on improving patient outcomes and meeting our financial goals while managing the complexities of the external environment.
+Our cost improvement initiatives have contributed to greater organizational efficiencies as demonstrated by our robust operating margins achieved this quarter. Going forward, we expect to improve our cash flow, reduce our debt leverage over time and increased flexibility across our three capital allocation pillars.
+Our focus remains on creating long-term shareholder value. We will continue to invest in our business for the long term while prudently returning capital to our shareholders.
+Now let me start with our second quarter results, then I'll touch on our capital allocation priorities and then move to our cost improvement initiatives. I'll finish with a few comments on the macro environment as well as our 2025 guidance. For the second quarter 2025, we recorded revenues of $14.7 billion, an increase of 10% operationally. This increase was largely due to overall growth, both in the US and internationally.
+Partially offsetting the increase was an $825 million year-over-year unfavorable impact of higher manufacturer discounts resulting from the IRA Medicare Part D redesign, which took effect in the first quarter of '25, and overall is largely in line with our expectations.
+On the bottom line, second quarter 2025 reported diluted earnings per share was $0.51, and Adjusted diluted earnings per share was $0.78, ahead of our expectations, primarily due to strong top line performance and our cost management execution. Our results demonstrate the effectiveness of our refined commercial strategy. We remain committed to prioritizing key products and markets, optimizing the global allocation of our commercial field resources and concentrating our marketing efforts on high priority areas.
+We saw strong contributions across our product portfolio, primarily driven by the Vyndaqel family, PAXLOVID, and Eliquis, partially offset by declines in IBRANCE. Also, I'd like to highlight a significant trend within our portfolio that we expect to fuel the company's top line for the next several years.
+Year-to-date, Pfizer's recently launched and acquired products delivered $4.7 billion in revenue while growing approximately 15% operationally versus last year. We plan to continue to invest behind these two product groups to drive their future performance and help enable the company to largely offset our LOEs over the next several years.
+Adjusted gross margin for the second quarter was approximately 76%, primarily reflecting the product mix within the quarter. Looking at our Adjusted gross margin performance over the last two years, we have largely achieved percentages in the mid to upper 70s when adjusting for COMIRNATY, which, as you know, has a 50-50 gross profit split with our partner, BioNTech.
+In addition, we believe the expected $1.5 billion savings from our Phase I of our manufacturing optimization program by the end of '27 will help bolster gross margins as we transition through the LOE period. Maintaining a strong emphasis on cost management throughout our manufacturing network will continue to be a key priority.
+Total Adjusted operating expenses were $5.8 billion for the second quarter, an 8% decline operationally versus last year. Now looking at the components, Adjusted SI&A expenses decreased 8% operationally, primarily reflecting a decrease in marketing and promotional spend for various products as a result of our focused investments and ongoing productivity improvements.
+Adjusted R&D expenses decreased 9% operationally, driven primarily by a decline in spending due to pipeline optimization expected to be reinvested later this year and into next year. We continue to be disciplined with our operational expense management.
+Q2 reported diluted earnings per share was $0.51 and our Adjusted diluted earnings per share was $0.78, which benefited from our efficient operating structure in addition to our effective tax rate primarily driven by a favorable change in jurisdictional mix of earnings.
+Now let me quickly touch on our capital allocation strategy, which is designed to enhance long-term shareholder value. Our strategy consists of maintaining and growing our dividend over time, reinvesting in our business at an appropriate level of financial return and making value-enhancing share repurchases. In the first half of 2025, we returned $4.9 billion to shareholders via our quarterly dividend and we invested $4.7 billion in internal R&D. As previously mentioned, maintaining our gross leverage at an appropriate level is a key priority towards improving our capacity for business development. Our gross leverage at the end of the second quarter was approximately 2.7 times, which we are now setting as our new target, down from 3.25 times.
+During Q2, we announced the licensing agreement with 3SBio, which closed in July of 2025. Our business development capacity is now approximately $13 billion following the 3SBio deal.
+Lastly, first half 2025 operating cash flows at $1.8 billion was tempered primarily by large expected payments in the second quarter, including an approximately $2.1 billion TCJA repatriate in tax payment and our payment to BioNTech for our gross profit split. We expect to see improved cash flows in the back half of this year. Overall, we are focused on maintaining leverage at or below our new target to support a balanced allocation of capital between reinvestment and direct return to our shareholders.
+We continue to be disciplined with our operational expense management, progressing multiple improvement programs as we remain focused on driving operating margin expansion over the coming years. We expect to begin realizing initial savings from the Phase 1 manufacturing optimization program in the latter part of this year. As part of our goal to return to pre-pandemic operating margin, we remain on track to deliver on our goal of at least $4.5 billion in cumulative net cost savings from our ongoing cost realignment program by the end of this year.
+As a reminder, in total, we expect approximately $7.7 billion in savings by the end of '27 to drive operating efficiencies, strengthening our business with the potential of contributing significantly to our bottom line over the period. Of these savings, approximately $500 million identified in R&D will be reinvested in the pipeline, which we expect by the end of '26.
+Now with that, let me turn to our full year '25 guidance. The pharmaceutical industry continues to navigate a complex global landscape influenced by rapidly changing proposed trade and tariff policies. Strategies to help mitigate the potential impact on our business in the short term have been implemented. And we continue to evaluate opportunities and develop plans, which will help mitigate the potential long-term impact of tariffs on our business and our operations.
+That said, the company's guidance absorbs the impact of the currently imposed tariffs from China, Canada and Mexico as well as potential price changes this year based on the letter received on July 31 from President Trump.
+Our non-COVID revenues continued to perform very well operationally and ahead of our plan. In addition, our guidance assumes favorable -- favorability to revenues due to foreign exchange rates. As a reminder, our plan assumes that a large majority of our COVID revenues are forecasted in both Q3 and Q4. Given this fact, we believe it is prudent to maintain our full year revenue outlook as we enter the second half of the year. We continue to expect full-year '25 revenues to be in the range of $61 billion to $64 billion.
+In addition, we now expect Adjusted SI&A to be in the range of $13.1 billion to $14.1 billion, Adjusted R&D to be in the range of $10.4 billion to $11.4 billion and our Adjusted effective tax rate of approximately 13%.
+Now given our strong performance to date as well as our outlook, including a favorable impact on foreign exchange, our more efficient cost structure as well as improvements in our Adjusted effective tax rate, we are raising our full year '25 Adjusted diluted earnings per share guidance by $0.10. This includes absorbing a $0.20 charge for acquired in-process R&D associated with the upfront payment for the 3SBio transaction.
+So just to clarify, without the 3SBio deal, we would have raised our Adjusted diluted earnings per share guidance by $0.30. Of this amount, approximately two-thirds is due to our strong operational performance and our outlook. I will also point out that while we are raising our Adjusted diluted earnings per share guidance, we are partially derisking the expected COVID performance in the second half of this year.
+As a result, our revised full year '25 Adjusted diluted earnings per share range is now $2.90 to $3.10 a share.
+In closing, we will continue to focus on maximizing our product portfolio's value and driving innovation to strengthen our pipeline. With a stronger balance sheet, we plan to deploy capital more effectively. We will focus on increasing our R&D productivity by deploying AI and digital capabilities, reinvest appropriately to accelerate high-value R&D programs and pursue new growth opportunities through business development. Additionally, our cost improvement initiatives are beginning to expand operating margins through productivity gains and streamline processes.
+And so with that, I thank you for your attention. I will now open up for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Trung Huynh, UBS.
+
+--------------------------------------------------------------------------------
+Trung Huynh,  UBS Equities - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Just there in your prepared remarks, you noted your guidance absorbs the potential price changes this year based on the letter you received from President Trump on July 31. That talks about impacting Medicaid with MFN. Does that imply you think something is going to happen this year? And if so, what's your broad assumption so we can kind of quantify that hit on your revenues and EPS. And then can you perhaps just give us your state of the union on the recent developments with MFN and tariffs?
+And then just on the CDC recommendations for the vaccines. There was a reduced recommendation in May. The payer pullback or broader adult covered vaccinations. So just how are you sizing the '25 to '26 fall season versus last year? And can you comment on any progress with state mandates or payer negotiations to stabilize that coverage?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Trung. Let me say I know many people would like to get clarity on the MFN situations of the tariff situations. And I'm not in a position to provide much light not because we aren't discussing. Right now, we are in very active discussions. I discussed at the highest levels of this government.
+I discussed myself with the President after he sent the letter to me and all the others. We discussed a lot with the Secretary Kennedy. We discussed a lot with Dr. Oz who is responsible for implementing a lot of these things. And I would say only that these discussions are extremely productive. I think we understand where the President comes from, and we are engaging in a productive way to find solutions.
+But because we are in active discussions, it's inappropriate for me to start providing more details because I don't want to say things while we're discussing with them. So I understand that many others may have questions about that. And I'm not sure I can give more information than what I just told you that we had a letter that says a base of what the President wants. The letter asks a lot from us, but we are engaged in productive discussions with them. And in general I'm happy in the way that they listen to us and the way that we are trying collectively to find solutions, but from one hand, will make medicines affordable in the US. On the other hand, we'll make our industry even more competitive compared to China, which is progressing very rapidly to us.
+On the tariffs also, I don't have much news to add. We are waiting for the 232 report. And once we have that, we will see how this discussion. Again, on the tariffs, I had good discussions with Secretary Lutnick, with the US Trade representative, with Secretary Bessent, and, of course, with the President, with whom we have a special relation through the times of COVID. So that's all I can say.
+I don't know if -- Dave, you want to add something on what is included and how we think about it.
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Yes. I just -- I would just say that the underlying strength of our business is allowing us to raise our guidance in the back half of the year. And with -- to Albert's point, with the work that's going on across the industry, we're able to come up with a range of scenarios, and we believe that those range of scenarios associated with potential timing of all this would allow us to absorb any impact this year based again on the underlying strength of our business today and performance today.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          And maybe, Aamir, you can comment on the CDC.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc - Executive Vice President, Chief US Commercial Officer    [6]
+--------------------------------------------------------------------------------
+
+          Yes. So I think your question was largely around COMIRNATY. So I'll mention the quarter and then our expectations for the season. COMIRNATY had a very strong quarter in Q2, and I think that's driven partially by gross to net capability. We've just become much more efficient and managing inventory in the marketplace, and we also saw a continued increase in our market share in the quarter.
+So that's the quarter. Now as it relates to the season, we don't have a crystal ball, but what we are planning for is we anticipate an indication for the 65-plus population as well as those under 64 with underlying medical conditions. And that largely reflects the dynamic of how people vaccinate in the US today. We also don't anticipate any major changes in coverage by payers for this season.
+So this could have a modest effect on our vaccination rates, but we anticipate having a very strong season. In addition, I think we're very ready to execute against that. We have our supply and distribution capabilities, which are genuinely unmatched. We have a very robust plan for both physician as well as patient activation, and we monitor sentiment very closely. We've not seen dramatic changes in And we also have very strong contract positions, both in retail and non-retail. So we look forward to the season for the fall.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          Thank you. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Chris Schott, J.P. Morgan.
+
+--------------------------------------------------------------------------------
+Christopher Schott,  JPMorgan - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          All right, great. Thanks for the questions and congrats on the quarter. Just two for me. First on BD and capital allocation. Just what's driving the slightly lower target leverage for the company going forward? I think you lowered it by about a half turn or so. I just was looking for any color there.
+And just on the BD approach, is the approach here still to target a couple of smaller deals with that $10 billion to $15 billion of capacity you've previously talked about? Or is the thought maybe looking at one larger one.
+Last really quick one just to slip in with just the recent PD-1 VEGF deal, I know you're going to think about doing combos with some of your ADCs. Will we see the Phase 3 data from those ADCs before you move forward? Or should we start to think about Pfizer starting development of those programs prior to those readouts? Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Chris, as usual excellent questions, but David can take the first two and then I think the Chris can talk about PD-L1.
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [11]
+--------------------------------------------------------------------------------
+
+          So Chris, yes, we've actually improved our target from a leverage perspective down to 2.7 from 3.25 times. That's largely because we've improved our cash generation capability over the last -- a little faster than we anticipated post closing of the Seagen acquisition. So we're now sitting at 2.7 times. We will continue to delever over time. If we were to do a BD transaction, we might tick back up over that 2.7 times, but our objective is to still get down and continue to delever the balance sheet in the long term.
+Secondly, yes, most likely, we would attend to do a, I'll say, a smaller deal given the fact that our capacity is in the $13 billion ZIP code at this moment. And so I would expect us more from a smaller perspective from a transaction --
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [12]
+--------------------------------------------------------------------------------
+
+          It is 13 --
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [13]
+--------------------------------------------------------------------------------
+
+          It is 13 only because we have essentially allocated some of the 3SBio transaction funds against our BD target.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          Thank you, Dave. And Chris, how do you think about developing the PD-L1 that I know we closed and we very rapidly executed on the plan even before we could close?
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc - Chief Scientific Officer, President-Research & Development    [15]
+--------------------------------------------------------------------------------
+
+          Thank you very much. As you know, we do have ongoing programs with the ADCs SV PD-L1, and that's all in Phase 3. We're not going to wait for readout from these studies, and we'll start earlier with Phase 1/2 combinations this year. In fact, with those ADCs in combination with SSGJ-707. How we look at SSGJ-707, it's really to be a potential backbone to replace single-agent PD-1, PD-L1.
+It's got a unique structure and the preclinical data suggests potential best in class regarding high affinity for PD-1 inhibition and potentially increase anti-angiogenic activity. You've seen the overall response rate in the first-line setting of 65%. We're confident in this molecule across the cancer areas or tumor areas that -- where we have significant capability, including thoracic GU and GI and we'll later this year announce a Phase 3 program SSGJ-707.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [16]
+--------------------------------------------------------------------------------
+
+          Thank you, Chris. I really -- my team got me very excited about this molecule and they have presented to me a very aggressive development plan, but they plan to execute starting this year. We will share more news about the plan when we are in the year when we kick off the execution. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Alex Hammond, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Alexandria Hammond,  Wolfe Research LLC - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Thanks for taking our question. I guess one on MFN, just given your recently announced DTC patient option for purchasing Eliquis, how should we consider the applicability of this program to the remainder of your portfolio?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [19]
+--------------------------------------------------------------------------------
+
+          Thank you, Alexandria. I think it very much will help. I can tell you that the direct-to-consumer was one of the four things that the letter of President Trump requested from me. From me and everybody else. We think it is a fantastic way to go ahead.
+So we will work collaboratively to do it. Clearly, Pfizer has a good experience from the Pfizer For All, where we have a direct-to-consumer website that has a very, very high traffic. And also now we launched together with our partner, BMS, the Eliquis 360, which exactly does what basically that President Trump is asking us to do. Actually, I'm sure you've noticed that he tweeted himself. Here, he retweeted actually my tweet about the Eliquis.
+And also, we have serious discussions in the industry. So I have connected -- of course, we had the Board, the CEO that we discussed it and also myself and connecting very often individually with all the major companies. And they are all ready to roll up the sleeves and execute something like that. So it remains to be seen. I don't want to speak more, as I said, because we are in active discussions. Next question.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Mohit Bansal, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities LLC - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Great, thank you very much for taking my question. Dave, I have a question regarding guidance. It does seem like you had quite a good quarter this quarter. And -- there is FX tailwind as well as operational reasons here. So wondering what is driving the intact guidance or even like not even like upping it to the higher end of the range, just would love to know your thought process in setting this guidance at this point. Thank you.
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [22]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you. I think as we looked at guidance, as I said, we are essentially raising bottom in by $0.30 and then absorbing the $0.20 charge for 3SBio transaction. At the same time, we are looking at our future Q3 and Q4, and we're essentially derisking some of that. So this underlying strength of our business would have us increasing guidance even further from a profit perspective.
+But we, at this point in time, given the volatility that's potentially ahead of us in COVID, we think it's prudent to wait, hold, see how Q3 and Q4 come about and then update as appropriate from that perspective.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [23]
+--------------------------------------------------------------------------------
+
+          Thank you, Dave.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Courtney Breen, Bernstein.
+
+--------------------------------------------------------------------------------
+Courtney Breen,  Bernstein Research - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Thank you so much for taking the question. A couple for me. The first is on the efficiency that we're seeing kind of in your operating model and particularly around SG&A. It would be great if you're able to kind of give us some extra context around kind of where you kind of reallocating and investing versus where you're able to pull back and kind of some more context and detail and color around that, both within the US and ex US? And then secondarily, you've given us somewhat detail in terms of M&A and the $13 billion range, but can you give us a little bit more insight on the priorities?
+I know you've talked about kind of the obesity opportunity or cardiometabolic opportunity and immunology being areas of interest. Can you talk about kind of whether they still rank near the top or how you're seeing kind of opportunities out there that you might be interested in? Thanks so much.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          Thank you, Courtney. Let's start with Alexandre to speak about the efficiency in international, and then Aamir can chime in on the US
+
+--------------------------------------------------------------------------------
+Alexandre De Germay,  Pfizer Inc - Executive Vice President, Chief International Commercial Officer    [27]
+--------------------------------------------------------------------------------
+
+          Thanks for the questions. You remember about 18 months ago, when we started this journey at the International division, we said we will pick our growth driver, both from an in-line standpoint and the new product. And that combination will be different country by country based on the environment, the potential and the population to treat. That's what we did. So we've identified in our top 16 markets, those combinations, and then we invest to win in the sense that we looked at the share of voice that we need and then we reduce our investment everywhere else so that we can win in this area.
+And clearly, the growth that we are seeing coming out of that portfolio of assets where we focus is really remarkable because it's not just that we grew 6% at the international level overall, but it's also the quality of the growth. You see that we grow 9% in emerging markets, 9% in China, 7% in Europe. So it's kind of across the geography and it's also across the different category area, right? So specialty grew 9% driven by Primary care grew 4%, 6% excluding COVID, driven by Eliquis and our vaccines, and oncology grew 6% driven by and others. So clearly, it's really how we reduce the cost around the noncore assets and the non-key country that help us double down on the area where we wanted to grow.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [28]
+--------------------------------------------------------------------------------
+
+          Thank you, Alexandre. Aamir?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc - Executive Vice President, Chief US Commercial Officer    [29]
+--------------------------------------------------------------------------------
+
+          Courtney, I'll give you a couple of different examples. When we implemented our new commercial model at the beginning of last year, we put in place a few fundamentals. One was having everything in one place and the benefit of scale. So for instance, we consolidated to a single agency partner, and that drove major efficiencies across the business. Second thing is we undertook a major resource reallocation exercise, both in terms of the products where we're investing as well as the channels that we're investing into.
+And thirdly, we've just embraced technology and the way that technology can drive efficiency across every aspect of our consumer campaigns, our physician targeting and also Albert referred to our use of Pfizer Pflash and investment in the Pfizer brand, which, for instance, in the categories where we've deployed that, that model has resulted in about a 20% decrease in the cost per new NBRx. So these are just examples of how we're driving efficiency across the commercial business.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [30]
+--------------------------------------------------------------------------------
+
+          And it is -- I think for me, what really pleased me on is that we are able to reduce our cost, and at the same time, continue growing the top line, which is the key here. And that Pfizer was always good in commercial. I do think that we lost a little bit our way during the COVID because the priorities you can understand, where 100% devotion of the whole company to do something like that. But I'm very proud and pleased that we got up to our feet, and we now have developed a commercial machine, but it is really honoring the Pfizer tradition and taking it to the next level. And I will finish with some questions from the M&A.
+You asked what would be the range in terms of priorities. And in terms of dollars, Dave talked to you. Clearly, with those dollars probably will be in fewer smaller transactions rather than one transaction all the remaining capital allocation. Clearly will be in the four areas that we are now active, which is the oncology, the vaccines, the internal medicine with cardiometabolic and obesity and with the I&I. On obesity, which is your specific question, clearly, we have interest in this area because this is an area that it is very big.
+Science is breaking. A lot of new things are coming up. And we have tremendous development capabilities in primary care type of business, and we have also tremendous commercial opportunities. And by the way, there is plenty of offering right now. I mean in China, China is booming in terms of how many opportunities we have -- our Chief Strategy Officer Andrew Baum that is responsible for BD..
+He just came back from week long trip to China, and the opportunities are really, really very big. So also, there are here opportunities in the US. So there is a good substrate that we can source. We will be very disciplined with our company. We will not overpay. We will pay the real value that the asset presents.
+With that, please go to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Dave Risinger, Leerink.
+
+--------------------------------------------------------------------------------
+David Risinger,  Leerink Partners - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Thanks very much. Yes. So Albert, thank you for helping lead discussions with the Administration to ensure the future success of US biopharmaceutical innovation. Since you briefly mentioned competition from China, has Pfizer been helping the Administration understand the very strong support that the Chinese government provides to local biotech companies based in China? I asked the question given significant pressures on biotech companies in the United States. Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+
+          Thank you, David. Also thank you for your kind words. I do. And I'm very vocal and I speak at all levels and not only in the Administration, but also in the Senate in the house. This is something that unites, I would say, one of the very few things that unites both Democrats and Republicans is their concern about China’s emerging superiority in several technology areas, but where it is very impressive it is in the biotech.
+And I very clearly indicate that this is happening, it is real. I'll give you just some examples. In May, for the first time, Axios reported on the clinical studies in the world right now, China has the leading share -- surpassed the US. I did research myself on publications that are happening from Chinese scientists right now. And in CRISPR, for example, just to give one area, 42% of the global publications coming from China.
+Actually, in structural biology, which is always was their forte, 62% came from China. And to end up, they are not doing -- they are not stealing patents, they're actually they are -- they have filed more patents than US this year. And so they are protecting well intellectual property and they are enhancing access to their local markets, and they are giving tremendous support, monetize support to their biotechnical ecosystem, which encourages a lot of private money going there. I explained all of that to the Administration. And I think they listen, and that's why I said before, we all look to find ways that from one hand, affordability and access of the American patients.
+On the other hand, to the crown jewel, which is the biotech industry, needs to be supported by the government, by the Congress so that we can -- there is only so much you can do to slow down China. You won't slow them down. They are very good. What we can do is to focus to be better than them, and that should be our goal.
+With that, next question.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Kerry Holford, Berenberg.
+
+--------------------------------------------------------------------------------
+Kerry Holford,  Berenberg - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Thank you, a couple of questions for me, please. Firstly, looking at ADCETRIS to Q2 performance was a little weaker than anticipated. I understand these drugs are perhaps facing increased competitive pressures, we'll be interested to your strategy for reinvigorating that growth of those assets ex US. And then secondly, a question on the guidance, specifically tax and if I missed this earlier. But Dave, what has changed with regard to the tax outlook for this year? And how sustainable is this underlying 13% tax rate going forward? Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Dave, do you want to start with that? And then Aamir can --
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [37]
+--------------------------------------------------------------------------------
+
+          Yes. Just on the tax side, there were some onetime discrete items that allowed us to improve our tax position this year. I would expect going forward with the new tax regs globally that we would be largely closer to the 15% level from a global tax perspective in the long term.
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc - Executive Vice President, Chief US Commercial Officer    [38]
+--------------------------------------------------------------------------------
+
+          Kerry, thanks for the question. I think your question is largely around the Seagen portfolio on the products. So we feel very good about how we integrated those products. As an example, we were able to cross-train all of our field forces, and now we're seeing the benefit of that come through in commercial performance. So if I look at Q2 and the entirety of our Seagen commercial portfolio, we grew 15% year-over-year.
+And that was while managing some of the competitive headwinds that you alluded to on ADCETRIS, which we are starting to see now settle. In particular, we feel very good about the growth in Padcev. We have greater than 50% market share in the first line, and we see headroom to continue to expand that share especially in the cisplatinum eligible population where we are very focused. And it's also important to note that as part of the Seagen transaction, it was not only the in-line products, but the portfolio that came with it, which continues to perform very well.
+Thank you. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Evan Seigerman, BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan Seigerman,  BMO Capital Markets - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Thank you so much for taking my question. Kind of a follow-up to the prior question. 1.5 years into the integration of Seagen, and really aside from Padcev, what do you believe are the two or three assets that have the potential to really drive a positive IRR for the $42 billion or so that you spent? And kind of a follow-up there is part of the market could SV capture in non-small cell lung cancer, if and when eventually approved? Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [41]
+--------------------------------------------------------------------------------
+
+          Yes. I'll ask Chris to comment. Let's start that there is four main assets. But when we acquired the company, they were around $2 billion, even less of revenues. They will grow by year 2030 to $10 billion.
+Now of course, the value was not only on that. The value was mainly in the platform of the ADC that we go together with the intellectual property, the capability, the people and the assets. And I will ask Chris to comment on the most important things that are coming out in the short term, medium-term and long-term process.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc - Chief Scientific Officer, President-Research & Development    [42]
+--------------------------------------------------------------------------------
+
+          Thank you very much. So in the short term, said, and the readouts for the muscle invasive bladder cancer studies. As you recall, the current indication is 18,000 patients, the new indications will be up to 28,000. So this both platinum-eligible and platinum ineligible, and we expect those readouts in the next six months. And potentially, they could change the standard of care for this population.
+This next wave of studies we started Phase 3 trials in SV, sigvotatug vedotin. The second-line study is now fully recruited. In fact, it recruited much quicker than we expected. In the second-line space, what we've seen so far in the Phase I study in a late-line population with a 31% overall response rate and medium overall survival, albeit a single-line experience of 16.3 months. So that gives us confidence in SV.
+It's a payloads and what we've seen with the other studies with vedotin payloads, including with versus this potentially synergistic activity when we combine it with an anti-PD-1. So SV plus pembrolizumab has now been combined. As you know, overall, we've seen a response rate of approximately 60%. But in those -- in the population specifically, that's TPS-high or PD-L1 high expression, all patients so far in the Phase I trial have responded. And that obviously is very favorable to what you would expect from pembrolizumab alone.
+The next molecule PD-L1. That's it, again, another first-in-class molecule. We're accelerating that into a Phase 3 program for head-and-neck cancer, where we've seen response rate just shy of 60% in the combination with pembrolizumab. And then there's a whole new group of ADCs coming with one payload, including a follow-up to ADCETRIS, they currently two or three of these molecules showing highly encouraging data in Phase 1, and we'll update you in the future about those.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [43]
+--------------------------------------------------------------------------------
+
+          Thank you. So as I said, we are confident that not only will we recuperate the investment with a good return in the season, but I think it's transforming our oncology portfolio and business. Next question please.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Carter Gould, Cantor.
+
+--------------------------------------------------------------------------------
+Carter Gould,  Cantor Fitzgerald - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking the question. I'm going to go back to the policy side. I guess, Albert, should investors have any expectation around a comprehensive deal that addresses the present objectives across MFN and tariffs, but also addresses the industry's concerns around enforcing IP protection, compounding, parity, IRA implementation. And then separately, put up a solid quarter year-on-year, but this is sort of the fourth quarter in a row where sequential growth was more muted or meager, is Vyndaqel US growth behind us, and I guess an answer in that can help frame the push-pulls between price and competition? Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [46]
+--------------------------------------------------------------------------------
+
+          Yes. Let me give a brief answer to the policy. Look, I don't know. We are in very active discussions. You know that the President is impatient, so he wants the results quickly.
+We also want to come to a resolution quickly because I want to offer a certain to all of us and all of you as much as you can have in this period of time. Are we going to -- are we discussing in addition to all the things that are related MFN and tariffs, also things that are related with PBM reform, with 340B, with the pill penalty, absolutely. And you know that the PBM reforms is universally accepted that this to happen. There was a bipartisan bill and there is a clear indication that the President has spoken so many times about the middleman. Also with the pill penalty. He has spoken about it and also the Secretary Kennedy spoke about it.
+And also, we are working on it. And of course, the 340B has become a major, major problem, right? Now the 340B is expected to exceed $62 billion this year. It's a program that has become bigger than Medicare Medicaid combined. So that's all fraud prices, but all of that is value goes from us out there to, let's say, hospitals and -- this value is not passed to the patients because they mark up those products in tremendous amounts, way more than you see in Part D. And we can't afford that. So we are discussing, we're explaining. It's more complicated. That's going to be because it involves hospital.
+But the program is very good for the small hospitals that was intended. This is not about not having 340B. It's about having an abuse in the system. So Aamir, you want to state next question?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc - Executive Vice President, Chief US Commercial Officer    [47]
+--------------------------------------------------------------------------------
+
+          I'll speak quickly about Vyndaqel in the US, and then we'll touch on international, too. In the US, yes, we had a very strong quarter. We had 15% year-over-year growth. We maintained momentum in performance versus Q1, and there's a lot that's going on in this market right now. So that performance is a function of improving diagnosis as well as improving favorability dynamics.
+So we continue to lead in the face of two competitors coming into that market, both in terms of total market share, but also importantly, lead in terms of first-line treatment-naive patient share. So we've got with TRx momentum and that's influenced the growth. KEYTRUDA is taking some first-line share, and it's a little too early to tell about the dynamics of we'll keep a close eye on that for the second half of the year. Now we do expect continued TRx volume growth, but there will be GTM pressure on US performance.
+And that's a function of both the Medicare Part D design but also a result of contracting to maintain access for vedotin, both in Medicare and commercial, where we've maintained 90% access for the brand. So we do expect those dynamics to impact our sequential growth in the back half of this year.
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [48]
+--------------------------------------------------------------------------------
+
+          Yes. For international, so we have a very strong dynamic. So we have grown 32% for the quarter. But actually, since the beginning of the year, we have grown our patient treated by 50%. So it's clearly the -- what I was describing at the beginning in terms of focus on the key assets where we think we can have an impact. This one is clearly the demonstration of our focus on execution.
+Moving forward, we think we're going to continue to grow on this product for three reasons. First, the WCS rate in international in most of our key markets is still significantly below what we have in the US and we normally see in this type of disease. Two, the Access takes a lot of time in international. You need to negotiate price and access in every single country, and it took us five years just to get to where we are, and competition will have to follow the same time line to get to the type of access that we get.
+Just to illustrate my point is we just unlock U.K. and Australia at the end of last year. And we just unlocked South Korea at the beginning of this quarter. So just to give you a sense of it takes time and now we have access, we are unlocking the potential of those patients being in treated. And then finally, we think that the profile of our product and the experience of our key centers will help us establish to standard of care that we have developed with these assets. So we are very confident with the potential future growth also.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [49]
+--------------------------------------------------------------------------------
+
+          Yes. And I'm very impressed with the performance in the coming international the way that we were not counting on that product before and now suddenly we see very big thrive. We're not counting in international and mainly US. Let's go to the next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          Asad Haider, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Asad Haider,  Goldman Sachs - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for taking the question. Albert, just one more, if I may, on the policy front. Just given the comments you just made and then triangulating those back to your comments on MFN that it's now quantified and reflected into guidance to some extent, maybe just talk about what could cause large swings to those expectations from here? Or is your high-level view that we are now getting more granular around the central and potentially narrow range of outcomes directionally speaking? Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [52]
+--------------------------------------------------------------------------------
+
+          I mean our team is all over modeling several scenarios. There is no scenario that we have not assessed. There is no scenario, but we have not filed mitigation plans. And there is no scenario to haven't the probability of success. But the truth is that we don't know what will be because all of that are right now under active discussion.
+So -- and even if I have some ideas where we should increase of happening and where decrease happening, it's not appropriate now in the middle of the discussions and negotiations. We don't open the counts, right? So I can't really do that. Thank you. Next question.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          Umer Raffat, Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Hi guys. Thanks for taking my question. So I'll spare the MFN question, but I did want to ask Albert, I feel like some of the points you're making on this call regarding the China biotech ecosystem could possibly resonate with the Administration. But I guess, how is -- and I'm not even talking Pfizer specifically, but the industry broadly has been very active with a lot of out-licensing transactions to find the next layer innovation. So I guess is Administration pushing back with sort of balancing those two? And then separately, on your oncology side, I feel like this B6A trial in lung will obviously be very, very important.
+And I was very intrigued to see that you shrunk the sample size from 670 down to 470, which presumably signals increased confidence. And my question is, did you take any interim look to see how the is tracking?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [55]
+--------------------------------------------------------------------------------
+
+          Let me take the China one. And then I ask Chris, of course, to comment on the oncology. Look, I mean there is a lot of sensitivity in the and Senate in the house about everything that is happening in time, right? But I have to say the sensitivity is way more on things that we transfer there, technology that we transfer, then vice versa, things that we take from them to develop them and manufacture in the US, for example, our and I discussed the Chinese deal that we did with the members of the Congress, many members of the Congress. And I explained that we didn't give anything. We took their science and the license to develop, we would do it globally, not in China, to manufacturing.
+We will do it in the US, not in China. And to commercialize it and we'll do it in the whole world and actually not in China yet because we don't have the license yet. So I think less sensitivity on this two ways. But don't take me wrong. China is something that is very high in the radar of the political life of the US and we need to be careful with that. Now let's go, Chris.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc - Chief Scientific Officer, President-Research & Development    [56]
+--------------------------------------------------------------------------------
+
+          Thanks for the question, So usually for studies, we recalculate effect size or study size based on emerging data from ongoing Phase 1/2 trials. And we did not unblind and there's no unblinding of ongoing Phase 3 programs.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [57]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you. I knew that you will not say much. So let's go to the next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          Rajesh Kumar, HSBC.
+
+--------------------------------------------------------------------------------
+Rajesh Kumar,  HSBC - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Hi. Thank you for taking my questions. The first one is on -- you said you'll absorb the potential impact from the letter this year. Can you confirm that if there were tariffs, et cetera, you can say the same about the next year as well. I know you don't have a guidance, but in terms of how prepared you are with inventory, et cetera and the pricing dynamics. Do you think current consensus sort of captures the effect for the next year?
+The second one is on the balance sheet. Clearly, you are going with a lower financial gearing target and in effect, that gives you a bit more leeway on a lot of things. When you think of capital allocation, do you think you need to add more types of assets in oncology? Or would most of the balance sheet capacity be deployed in obesity, immunology, other areas that is if you have to deploy capital in oncology or different indications or different mechanisms you still need to add, then would you be comfortable going over the 2.7 times leverage? Thank you.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [60]
+--------------------------------------------------------------------------------
+
+          Let's start with Dave. And then we will move to Alexandre.
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [61]
+--------------------------------------------------------------------------------
+
+          Yes. So as it relates to future years, '26 and '27, no, we can't -- we're not confirming or discussing the implication of tariffs or MFN on those out years. Once we have definitive information and knowledge will come back and share that with everyone. Secondly, on -- just from a BD perspective, even though others can comment on this as well, we have lowered our target or improved our target to 2.7 times because we are already at 2.7 times. So it's hard to have a target that we've exceeded so dramatically because our business has done so well.
+And if an opportunity were to come along that made sense for us from a deep BD perspective, obviously, the -- we would out -- we would outstrip the target to be higher just like we did with Seagen, and we worked to get us back down to 2.7 over time. And maybe to Albert's point earlier, from a BD perspective, we're interested across the four areas in which we focus today and we'll continue to evaluate assets on the market in all of those four areas.
+
+--------------------------------------------------------------------------------
+Andrew Baum,  Pfizer Inc - Executive Vice President, Chief Strategy and Innovation Officer    [62]
+--------------------------------------------------------------------------------
+
+          Yes, just add to Dave's comments. Look, I think every potential licensing deal acquisition is value driven, although there is obviously some value and diversification. We've historically been very active through Seagen and more recently, 3SBio on oncology. However, as you know, Pfizer has a strong commercial heritage with significant strength in areas such as internal medicine, I&I. And obviously, we've got landmark drugs in those areas.
+So we believe we have a right to will. And if the right opportunity comes up at the right price, you can be sure that we're going to pursue it.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [63]
+--------------------------------------------------------------------------------
+
+          Thank you. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+
+          Tim Anderson, Bank of America.
+
+--------------------------------------------------------------------------------
+Timothy Anderson,  BofA Global Research - Analyst    [65]
+--------------------------------------------------------------------------------
+
+          Thank you. I have a question on IRA. So you guys have two drugs where prices are being negotiated in the current year for implementation in '27, that's Ibrance, XTANDI -- one fear that at least we've had is that the new administration may press harder per bigger discount versus last year, potentially just to make a point. in general, not just for Pfizer product. So you're in the midst of those negotiations. Any color you can provide such as how those discussions are lining up with what you expected before those negotiations begin.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [66]
+--------------------------------------------------------------------------------
+
+          Look, as we said, we're in the middle of this negotiation again for the same reason, I can -- actually, it's not a lot by law to disclose aspects of the the negotiation. But I would say something. We have two products, as you said, for '27. Both of them are losing patent in '27. So for us, of course, we try to achieve the best, we can in the negotiations of the prices.
+But the heat on us is very small. The NPV is very small because it's really a few months of it -- it depends on the product, right?
+Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Steve Scala, TD Cowen.
+
+--------------------------------------------------------------------------------
+Steve Scala,  TD Cowen - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Thank you very much, two questions. Two questions. The first one, I apologize, is on MFN. But you have quantified the assumed impact of MFN in 2025, but you won't share your estimate. But I assume it's a big number, well above $500 million for Q4 alone and maybe several times that, which implies a strikingly high number for 2026. And I'm just wondering whether you would walk that number down.
+Second for Dave, you noted the positive underlying operational performance year-to-date. You also noted the positive inflection in FX year-to-date. Curious how the COVID expectations have changed. It seems they must have come down since revenue guidance is flat or unchanged or something else in the business turned in a little bit light? Thank you.
+
+--------------------------------------------------------------------------------
+David Denton,  Pfizer Inc - Executive Vice President, Chief Financial Officer    [69]
+--------------------------------------------------------------------------------
+
+          Maybe on the COVID side, I don't know that our expectations at this moment have changed, but we still have a lot yet to go in Q3 and Q4. So as I think about our future projections, we're still internally working to achieve our number. But as my guidance reflects, we've now derisked some of that delivery in Q3, Q4. So I don't think anything has changed. We just know that COVID by itself because of the nature of that business will always be a little bit more sensitive and a little bit more fluid and harder to predict quarter-over-quarter.
+So this is just allowing us to derisk that a bit. And then on the MFN perspective, we're not going to comment on those numbers at this point. Thank you, though.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [70]
+--------------------------------------------------------------------------------
+
+          And the final question.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+          Terence Flynn, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence Flynn,  Morgan Stanley - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for taking the questions. Great. Maybe just two on the pipeline. Just for atirmociclib, I was wondering if we'll get an update from the Phase 2 study on PFS potentially at San Antonio later this year? I know you've already committed moving into Phase 3, but I don't think we've seen anything on durability there. And then on LORBRENA, any thoughts about exploring that in the adjuvant setting? Thank you.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc - Chief Scientific Officer, President-Research & Development    [73]
+--------------------------------------------------------------------------------
+
+          Thank you for the question. So atirmociclib, you're correct, as we stated, we're focusing now on the first-line space and focusing with six for second line, we remain very confident on all the data we've seen and the study, the first-line trial in ER-positive, HER2 negative breast cancer. The study is recruiting extremely well. In fact, both times faster than we actually planned or predicted. We've not disclosed the date when we will show on the second line, but we'll keep you posted on that. For there is no current plan for an adjuvant study.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc - Chairman of the Board, Chief Executive Officer    [74]
+--------------------------------------------------------------------------------
+
+          Thank you very much. And thank you for your attention. Just I want to say that I'm very pleased with the execution of this team in terms of the targets that we have set. I will describe Pfizer right now as a company with a very strong floor and no ceiling. And we plan to maintain the prudent way of allocating capital, the focus on execution, the relentless focus on our pipeline, productivity and big assets and improving our margins by the use of technology, focus and simplification of our business process.
+Thank you very much and enjoy your summer to those that didn't take their vacation, like me.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+
+          This does conclude today's program. Thank you for your participation. You may disconnect at any time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

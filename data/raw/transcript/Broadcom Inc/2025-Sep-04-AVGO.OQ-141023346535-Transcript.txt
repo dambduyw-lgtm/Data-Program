@@ -1,0 +1,561 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 Broadcom Inc Earnings Call
+SEPTEMBER 04, 2025 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Hock Tan
+   Broadcom Inc - President, Chief Executive Officer, Director
+ * Jihyung Yoo
+   Broadcom Inc - Head, Investor Relations
+ * Kirsten Spears
+   Broadcom Inc - Chief Financial Officer, Chief Accounting Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Ben Reitzes
+   Melius Research LLC - Equity Analyst
+ * Karl Ackerman
+   Exane Bnp Paribas - Equity Analyst
+ * James Schneider, Ph.D.
+   Goldman Sachs Group Inc - Analyst
+ * Christopher Rolland
+   Susquehanna Financial Group LLLP - Analyst
+ * Ross Seymore
+   Deutsche Bank AG - Research Analyst
+ * Harlan Sur
+   JPMorgan Chase & Co - Analyst
+ * Harsh Kumar
+   Piper Sandler - Analyst
+ * Vivek Arya
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Joshua Buchalter
+   TD Cowen - Analyst
+ * Stacy Rasgon
+   Sanford C Bernstein & Co LLC - Analyst
+ * Joseph Moore
+   Morgan Stanley & Co Ltd - Analyst
+ * Thomas O'Malley
+   Barclays Services Corp - Analyst
+ * CJ Muse
+   Cantor Fitzgerald LP - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to Broadcom Inc.'s third-quarter fiscal year 2025 financial results conference call.
+At this time, for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Head of Investor Relations of Broadcom Inc. Please go ahead.
+
+--------------------------------------------------------------------------------
+Jihyung Yoo,  Broadcom Inc - Head, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sheri, and good afternoon, everyone. Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; and Charlie Kawwas, President, Semiconductor Solutions Group.
+Broadcom distributed a press release and financial tables after the market closed, describing our financial performance for third quarter of fiscal year 2025. If you did not receive a copy, you may obtain the information from the Investors section of Broadcom's website at broadcom.com. This conference call is being webcasted live and an audio replay of the call can be accessed for one year through the Investors section com's website.
+During the prepared comments, Hock and Kirsten will be providing details of our third quarter fiscal year 2025 results, for our fourth quarter of fiscal year 2025, as well as commentary regarding the business environment. We'll take questions after the end of our paired comments. Please refer to our press release today in our recent filings with the SEC for information on the specific factors that could cause our actual results to differ materially from the forward-looking statements made on this call.
+In addition to US GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release. Comments made during today will primarily refer to our non-GAAP financial results.
+I will now turn the call over to Hock.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Ji. And thank you, everyone, for joining us today. In our fiscal Q3 2025, total revenue was a record $16 billion up 22% year on year. Our revenue growth was driven by better-than-expected strength in AI semiconductors and our continued growth in VMware.
+Q3 consolidated adjusted EBITDA was a record $10.7 billion, up 30% year on year.
+Now, looking beyond what we are just reporting this quarter with robust demand from AI, bookings were extremely strong. And our current consolidated backlog for the company hit a record $110 billion.
+Q3 semiconductor revenue was $9.2 billion as year-on-year growth accelerated to 26% year on year. And this accelerated growth was driven by AI semiconductor revenue of $5.2 billion, which is up 63% year on year and extend the trajectory of robust growth to 10 consecutive quarters.
+Now, let me give you more color on our XPU business which accelerated to 65% of our AI revenue this quarter. Demand for custom AI accelerators from our three customers continue to grow, as each of them journeys at their own pace towards compute self-sufficiency. And progressively, we continue to gain share with these customers.
+Now further to these three customers, as we had previously mentioned, we have been working with other prospects on their own AI accelerators. Last quarter, one of these prospects release production orders to Broadcom. And we have accordingly characterized them as a qualified customer for XPUs. And, in fact, has secured over $10 billion of orders of AI racks based on our XPUs. And reflecting this, we now expect the outlook for fiscal 2026 AI revenue to improve significantly from what we had indicated last quarter.
+Turn to AI networking. Demand continued to be strong because networking is becoming critical as LLM continue to evolve in intelligence, computer classes who grow bigger. The network is the computer, and our customers are facing challenges as they scale to classes beyond compute nodes. For instance, Scale Up, which we all know about, is a difficult challenge when trying to create substantial bandwidth to share memory across multiple GPUs or XPUs within rate. Today's AI rate scales up a mere 72 GPUs at 28.8 terabytes second bandwidth using a proprietary MVLink.
+On the other hand, earlier this year, we have launched Tomahawk 5, we've opened AI with open Ethernet, sorry, which can scale up 512 compute nodes for customers using XPUs.
+Moving on to scaling out across rigs. Today, the current architecture using 51.2 terabit per second requires three tiers of networking switches. In June, we launched Tomahawk 6 and our Ethernet-based 102 terabit per second switch, which flattens the network to two tiers. Resulting in lower latency, much less power.
+And when you scale the clusters beyond a single data center footprint, you now need to scale computing across data centers. And over the past two years, we have deployed our Jericho3 Ethernet router with hyperscale customers to just do this.
+And today, we have launched our next-generation Jericho4 Ethernet fabric routed with 51.2 terabit per second deep offering intelligent congestion control to handle classes beyond 200,000 compute nodes crossing multiple data centers.
+We know the biggest challenge to deploying larger clusters of compute for generative AI will be in networking. And for the past 20 years, Broadcom has developed what Ethernet networking is entirely applicable to the challenges of Scale Up, scale out and scale across in generative AI.
+And turning to our forecast. As I mentioned earlier, we continue to make steady progress in growing our AI revenue. For Q4 2025, we forecast AI semiconductor revenue to be approximately $6.2 billion up 66% year on year.
+Now turning to non-AI semiconductors. Demand continues to be slow to recover. In Q3, revenue of $4 billion was fed sequentially. While broadband showed strong sequential growth, enterprise networking and service storage were down sequentially. Wireless and industrial were flat quarter on quarter as we -- in contrast, in Q4, driven by seasonality, we forecast non-AI semiconductor revenue to grow low double digits sequentially and to approximately $4.6 billion. Broadband, service storage, and wireless are expected to improve, while enterprise working remains down quarter-on.
+Now let me talk about our infrastructure software segment. Q3 Infrastructure software revenue of $6.8 billion was up 17% year on year, above our outlook of $6.7 billion as bookings continued to be strong during the quarter. We booked in fact, total contract value over $8.4 billion during Q3.
+But here is what I'm most excited about. After two years of engineering development by over 5,000 developers, we delivered on a promise when we acquired VMware. We released VMWare Cloud Foundation version 9.0 a fully integrated cloud platform, which can be deployed by enterprise customers on-prem or carry to the cloud. It enables enterprises to run any application workloads, including AI workloads on virtual machines and on modern containers. These provides the real alternative to public cloud.
+In Q4, we expect infrastructure and software revenue to be approximately $6.7 billion, up 15% year on year. And in summary, continued strength in AI and VMware will drive our guidance for Q4 consolidated revenue to approximately $17.4 billion, up 24% year on year, and we expect Q4 adjusted EBITDA to be 67% of revenue.
+And with that, let me turn the call over to Kirsten.
+
+--------------------------------------------------------------------------------
+Kirsten Spears,  Broadcom Inc - Chief Financial Officer, Chief Accounting Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Hock. Let me now provide additional detail on our Q3 financial performance. Consolidated revenue was a record $16 billion for the quarter, up 22% from a year ago.
+Gross margin was 78.4% of revenue in the quarter better than we originally guided on higher software revenues and product mix within semiconductors.
+Consolidated operating expenses were $2 billion, of which $1.5 billion was research and development.
+Q3 operating income was a record $10.5 billion, up 32% from a year ago. On a sequential basis, even as gross margin was down 100 basis points on revenue mix. Operating margin increased 20 basis points sequentially to 65.5% on operating leverage. Adjusted EBITDA of $10.7 billion or 67% of revenue was above our guidance of 66%. This figure excludes $142 million of depreciation.
+Now a review of the P&L for two segments, starting with semiconductors. Revenue for our Semiconductor Solutions segment was $9.2 billion, with growth accelerating to 26% year on year driven by AI. Semiconductor revenue represented 57% of total revenue in the quarter.
+Gross margin for our Semiconductor Solutions segment was approximately 67%, down 30 basis points year on year on product mix. Operating expenses increased 9% year on year to $951 million on increased investment in R&D for [Ledge] AI semiconductors. Semiconductor operating margin of 57% was up 130 basis points year on year and flat sequentially.
+Now moving on to infrastructure software. Revenue for infrastructure software of $6.8 billion was up 17% year on year and represented 43% of revenue. Gross margin for infrastructure software was 93% in the quarter compared to 90% a year ago. Operating expenses were $1.1 billion in the quarter, resulting in infrastructure software operating margin of approximately 77%. This compares to operating margin of 67% a year ago, reflecting the completion of the integration of VMware.
+Moving on to cash flow. Free cash flow in the quarter was $7 billion and represented 44% of revenue. We spent $142 million on capital expenditures. Day sales outstanding were 37 days in the third quarter compared to 32 days a year ago. We ended the third quarter with inventory of $2.2 billion, up 8% sequentially in anticipation of revenue growth next quarter. Our days of inventory on hand were 66 days in Q3 compared to 69 days in Q2 as we remain disciplined on how -- inventory the ecosystem.
+The third quarter within $10.7 billion of cash and $66.3 billion of gross principal debt. The weighted average couponing and years to maturity of our $65.8 billion in fixed debt is 3.9% and 6.9 years, respectively. The weighted average interest rate and years to maturity of our $500 million at floating rate, debt is 4.7% and 0.2 years, respectively.
+Turning to capital allocation. In Q3, we paid stockholders $2.8 billion of cash dividends based on a quarterly common stock cash dividend of $0.59 per share. In Q4, we expect the non-GAAP diluted share count to be approximately 4.97 billion shares excluding the potential impact of any share repurchases.
+Now moving to guidance. Our guidance for Q4 is for consolidated revenue of $17.4 billion, up 24% year on year. We forecast semiconductor revenue of approximately $10.7 billion, up 30% year on year. Within this, we expect Q4 AI semiconductor revenue of $6.2 billion, up 66% year on year. We expect infrastructure software revenue of approximately $6.7 billion, up 15% year on year.
+For your modeling purposes, we expect Q4 consolidated gross margin to be down approximately 70 basis points sequentially, primarily reflecting a higher mix of XPUs and also wireless revenue. As a reminder, consolidated gross margins through the year will be impacted by the revenue mix of infrastructure software and semiconductors and product mix within semiconductors. We expect Q4 adjusted EBITDA to be 67%. We expect the non-GAAP tax rate for Q4 and fiscal year 2025 to remain at 14%.
+I will now pass the call back to Hock for some more exciting news.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+
+          I don't know but exciting, Kirsten, but I do. I thought before we move to questions, I should share an update.
+The Board and I have agreed that I will continue as the CEO of Broadcom through 2030 at least. These are exciting times for Broadcom, and I'm very enthusiastic to continue to drive value for our shareholders.
+Operator, please open up the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Ross Seymore, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ross Seymore,  Deutsche Bank AG - Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hi, guys. Thanks for the question. Hock Tan, thank you for sticking around for a few more years. So I just wanted to talk about the AI business, and specifically, the XPU. When you said you're going to grow significantly faster than what you had thought a quarter ago, what's changed? Is it just the impressive prospect moving to a customer definition. So that $10 billion backlog that you mentioned? Or is it stronger demand across the existing three customers? Any detail on that would be helpful.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          I think it's both, Ross. But to a large extent, it's the fourth customer that we now add on to our roster, which we will ship pretty strongly in 2026 -- beginning of 2026, I should say. So a combination of increasing volumes from existing three customers and we moved through that very progressively and steadily and the addition of a fourth customer with immediate and fairly substantial demand really put our really changes our thinking of what '26 would be starting to look like. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Harlan Sur, JPMorgan.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan Chase & Co - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Hi. Good afternoon. Congratulations on the well executed quarter and strong free cash flow. I know everybody is going to ask a lot of questions on AI, Hock. I'm going to ask about the non-AI saving business. If I look at your guidance for Q4, it looks like the non-AI sing business is going to be down about 7%, 8% year over year in fiscal '25, if you hit the midpoint of the Q4 guidance.
+Good news, the negative year-over-year trends have been improving through year. In fact, I think you guys are going to be positive year-over-year in the fourth quarter. You characterized it as relatively close to the cyclical bottom, relatively slow to recover. However, we have seen some green shoots of positivity, right, broadband, server storage and enterprise networking, you're still driving the DOCSIS upgrade in broadband cable.
+You've got next-gen PON upgrades in China and the US in front of you, enterprise spending on network upgrades is accelerating. So near term, from the cyclical bottom, how should we think about the magnitude of the cyclical upturn? And given your 30- to 40-week lead times, are you seeing continued order improvements in the non-AI segment, which would point you to continued cyclical recovery into next fiscal year?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          Well, if you take a look at that non-AI segment, I mean, you're right. From a year on year Q4 guidance, we are actually up, as I say, slightly couple 1% or 2% from a year ago. It's not much really to shout about at this point.
+And the big issue is the puts and takes. And the put and takes and the bottom line of all this is, other than seasonality that we perceive, if you look at the short term, without looking year on year by looking sequentially, we see in things like wireless and we even start to see some seasonality in server storage these days.
+It kind of all washes out so far. The only consistent trend we've seen over the last three quarters that is moving up strongly is broadband. And nothing else, if you look at it from a cyclical point of view, seems to be able to sustain an uptrend so far.
+I don't think it's -- but as a whole, they are not getting worse, as you pointed out, Harlan, but they are not showing a V-shaped recovery as a whole, that we would like to see and expect to see in cyclical semiconductor cycles.
+The only thing that gives us some hope is broadband at this point, and it is recovering very strongly. But then it was a business that was most impacted in the short downturn of '24 and early '25. So again, one take that with a grain of salt.
+But the answer to you for you is non-AI semiconductor is kind of slow to recover, as I said. And Q4 year on year is maybe low single digit is the best way to describe it at this point. So I'm expecting to see more of a U-shaped recovery in non-AI, and perhaps by late mid '26, late '26, we'll start to see some meaningful recovery. But as of right now, not clear.
+
+--------------------------------------------------------------------------------
+Harlan Sur,  JPMorgan Chase & Co - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Are you starting to see that in your order trend in your order book just because your lead times are like 40 weeks, right?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [8]
+--------------------------------------------------------------------------------
+
+          We are. But we've been track, before we are -- the bookings are up, and they are up year on year in excess of 20%. Nothing like what AI bookings to lie, but 23% is still pretty good, right?
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Vivek Arya, Bank of America.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. And best wishes for the next part of your tenure. My question is on -- if you could help us quantify what is the new fiscal '26 AI guidance. Because I think the last call, you mentioned fiscal '26 could grow at the 60% growth rate. So what is the updated number? Is it 60%-plus the $10 billion that you mentioned?
+And sort of related to that, do you expect the custom versus networking mix to stay broadly what it has been this past year or evolve more towards custom. So any quantification and this networking versus customer mix would be very helpful for fiscal '26.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [11]
+--------------------------------------------------------------------------------
+
+          Okay. Let's answer the first part first. If I could be so bold as to suggest to you, when I -- last quarter when they said, hey, the trend of growth of '26 will mirror that of '25, which is 50%, 60% year on year. That's really all I said. I didn't -- but of course, it comes up 50%, 60% because that's what '25 is.
+All I'm saying, if you want to put another way of looking at what I'm saying, which is perhaps more accurate is we're seeing -- the growth rate accelerates as opposed to just remain steady at that 50%, 60%. We are expecting and seeing 2026 to accelerate more than the growth rate we see in '25. And I know you love me to throw in the number at you, but we are not supposed to be giving you a forecast for '26. But best way to describe it, it will be fairly material improvement.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          And the networking versus custom?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [13]
+--------------------------------------------------------------------------------
+
+          Good point. Thanks for reminding me. As we see -- and a big part of this driver of growth will be XPUs, at the risk of repeating what I said in my remarks, comes from the fact that we continue to gain at our 3 original customers. They have to, they're on their journey and each passing generation they go more to XPUs. So we are gaining share from these three.
+We now have the benefit of an additional fourth significant customer. I should say, fourth and very significant customer. And that combination will mean more exposed. And as I said, at the rate as we create more and more experience among four guys, Networking, we get the networking with this 4 guys, but now the mix of networking from outside this four guys will now be a small bet diluted via smaller share. So expect actually networking percentage of the pool to be a declining percentage going into '26.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Stacy Rasgon, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C Bernstein & Co LLC - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          I was wondering if you could parse out this $110 billion backlog. Did I hear that number right? Could you give some color on the makeup of it -- like how far does that go -- and like how much of that $110 billion is AI versus non-AI versus software?
+
+--------------------------------------------------------------------------------
+Kirsten Spears,  Broadcom Inc - Chief Financial Officer, Chief Accounting Officer    [16]
+--------------------------------------------------------------------------------
+
+          Well, yes, Stacy, we generally don't break up back on digital to give you a sense of how strong the business is as a whole for the company, and it's largely driven buying AI in terms of growth. Software continued to add on a steady basis. And non-AI, as I indicated, has grown double digits. Nothing compared to AI, which has grown very strongly. Give you a sense, perhaps fully 50% of it at least is semiconductors.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Sanford C Bernstein & Co LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Okay. And it's fair to say that semiconductor piece, it's going to be much more AI than non AI.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+
+          Right.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Ben Reitzes, Melius.
+
+--------------------------------------------------------------------------------
+Ben Reitzes,  Melius Research LLC - Equity Analyst    [20]
+--------------------------------------------------------------------------------
+
+          I appreciate it. Hock, congrats on being able to guide to the AI revenue well above 60% for next year. So I wanted to be a little greedy and ask you about maybe '27 and the other three customers or so. How is the dialogue going beyond these four customers? In the past, you talked about having seven now added a fourth of production.
+And then there were three. Are you hearing from others. And how is the trend going maybe with the other three, maybe beyond the '26 into '27 and beyond? How is that momentum, you think, going to shape up?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [21]
+--------------------------------------------------------------------------------
+
+          And you are definitely greedy and definitely overthinking this for me. Thank you. But yes, that's -- as asking for a subjective qualification and frankly, I don't want to give that. I'm not comfortable giving that because sometimes, we stumbled in the production in fairly -- in time frames that fairly unexpected surprisingly. Equally, it could get delayed.
+So I'd rather not give you any more color on prospects, then let's tell you these prospects are real prospects and continue to be very closely engaged towards developing each of their own expense with every intent going into substantial production like the fall we have today a customer.
+
+--------------------------------------------------------------------------------
+Ben Reitzes,  Melius Research LLC - Equity Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Yeah. You still think that 1 million units by goal for these seven though, is still intact?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [23]
+--------------------------------------------------------------------------------
+
+          For the three, I said, now therefore, that's still -- only for the customers, for the prospects, no comments, I'm in no position to judge on that. But for our three, four customers now, yes.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Jim Schneider, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+James Schneider, Ph.D.,  Goldman Sachs Group Inc - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Hock, I was wondering if you could give us a little more color, not necessarily on the prospects, which you do have in the pipeline, but how you view the universe of additional prospects beyond the seven customers and prospects you've already identified.
+Do you still see there being additional prospects that would be worthy of a custom chip. And I know you've been relatively circumspect in terms of the number of customers that are out there and the volume that they can provide and selective in terms of the opportunities you're interested in. So maybe frame for us the additional prospects as you see them beyond the seven.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [26]
+--------------------------------------------------------------------------------
+
+          That's a very good question. And let me answer it in a fairly broad basis. As I said before and perhaps repeat a bit more -- we're very -- we look at this market in two broad segments. The one is simply the guys, the parties, the customers who develop their own L&M. And the rest of the other market I consider is collectively lump as enterprise.
+That is markets that run -- that will run AI workloads for enterprise, whether it's on-prem or GPU, XPU or whatever as a service, the enterprise. We don't address that market, to be honest. We don't. That's because that's a hard market for us to address, and we are not set up to address that.
+We instead address this LLM market. And as I said many times before, it's a very few narrow markets. Few players driving frontier models on consistent on a very accelerated trend towards super intelligence for one -- plagiarizing the term of someone else. But you know what I mean. And they are the guys who would invest, who need to invest a lot initially, my view on training, training ever larger and larger clusters of ever more capable accelerators.
+But also, as for these guys, they got to be accountable to shareholders or accountable to being able to create cash flows that can sustain their path. They start to also invest in influence in a massive way to monetize these -- models. These are the players we work with. These are individually people, players who spend a lot of money on a lot of compute capacity just that they are only so few of them. And we have -- I have indicated identified seven, four of which now our customers, three continues to be prospects we engage with.
+And we're very picky and careful, I should say -- who qualifies under that, and I indicated they are building a platform or have a platform and are investing very much on leading LLM models. And we're ever and I think -- that's about it. We may see one more perhaps as a prospect. But again, we are very thoughtful and careful about even making that qualification. But right now, for sure, we have seven.
+And that, for now, it's pretty much what we have.
+
+--------------------------------------------------------------------------------
+James Schneider, Ph.D.,  Goldman Sachs Group Inc - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Tom O'Malley, Barclays.
+
+--------------------------------------------------------------------------------
+Thomas O'Malley,  Barclays Services Corp - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          I wanted to ask the on the Jericho4 commentary. NVIDIA talked about the XGS switch and us talking about scale across. You're talking about Jericho4 sounds like this market is really starting to develop. Maybe you could talk about why you see a material uplift in revenue there? And why it's important to start thinking about those type of -- as we move more towards inferencing.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [30]
+--------------------------------------------------------------------------------
+
+          Great. Well, thank you for picking that up. Yes, scale across is the near term now, right train, scale up, which is within the rent within which computing within the rank Scale Up, doing across ranks about in the data center.
+But now when you get to clusters that are -- I'm not 100% sure where the cutoff is, but, say, above 100,000 GPU or XPUs that you're talking about probably in many cases because of limitation of power shell, that the data that -- you don't do one single data center footprint site to hand to sit with over 100,000 of those XPUs in one side -- may not easily available land may not be complete -- some outcomes, most of all our customers that we see create multiple data center sites close at hand, not far away within range 100 kilometers.
+It's kind of the level, but be able to then put in homogenous XPUs or GPUs in this multiple location three or four, and network across them so that they behave, in fact, a single cluster.
+That's the coolest part and that technology would require us because of distant deep buffering very intelligent congestion control is technology that exists for many, many years in the likes of the telcos of AT&T and Verizon doing network routing. Except this is for even somewhat more trickier work growth about the same.
+And we've been shipping that to a couple of hyperscalers over the last two years as Jericho3 as the scale of these clusters and the bandwidth required for AI training expands, we now launched this Jericho4, 51 terabit per second to handle more bandwidth.
+But same technology, we have tested, proven for the last 10, 20 years, nothing new. Don't need to create something new for that. It's running an Ethernet, and very proven, very stable. And as I said, last two years, under Jericho3, which around 256 connections on no compute nodes. We've been selling to a couple of our hyperscale customers.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Karl Ackerman, BNP Paribas.
+
+--------------------------------------------------------------------------------
+Karl Ackerman,  Exane Bnp Paribas - Equity Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Hock, have you completely converted your top 10,000 accounts from Sphere to the entire -- Cloud Foundation virtualization stack. I asked because I think last quarter, 87% of accounts had adopted that, and that's certainly a marked increase versus less than 10% of those customers who bought the entire suite before the deal. And I guess as you address that, what interest level are you seeing with the longer tail of enterprise customers adopting BCF? And are you seeing tangible cross-selling benefits of your merchant semiconductor storage and networking business as those customers adopt VMware?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [33]
+--------------------------------------------------------------------------------
+
+          Okay. To answer your first part of the question. Yes, pretty much virtually way over 90% has bought VCF. Now I like to -- I'm careful about choice of what because we have sold them on it and they bought licenses to deploy it doesn't mean they are fully deployed. Here comes the other part of our world.
+which is to take these 10,000 customers or a big chunk of them who have taken more about their vision of a private cloud on-prem and working with them to enable them to deploy and operate it successfully on the infrastructure and on-prem. That's the hard work over the next two years that we see happening. And as we do it, we see expansion across the IT footprint on VCF private cloud running on the data set within their data center.
+That's a key part of it. And we see that continuing. And that's the second phase of my VMWare story.
+First phase is convince its people to convert from perpetual subscription, and so doing purchase VCF. Second phase now is make that purchase, they made on VCF very create the value they look for in private cloud, on their premise, on their IT data centers. That's what's happening. And that will sustain for quite a while because on top of that, we will start selling advanced services security, disaster recovery, even AI running AI workloads on me. All that is very exciting.
+Your second question is, is that able to enable me to sell more hardware? No. Well, it's quite independent. In fact, as they virtualize their data centers, we consciously accept the fact that we are commoditizing the underlying hardware in the data center, commoditizing services, commoditizing, storage, commoditizing even networking. And that's fine.
+And by so commoditizing were actually reducing cost of investments in hardware in data centers for enterprises.
+Now beyond the largest 10,000, are we seeing a lot of success. We are seeing some. But again, two reasons why we do not expect it to be as successful. One is the value, the TCO, as they call it, that comes from it will be much less. But the more important thing is the skill sets that needs to not just deploy that you can get services and also to help them, but to keep all putting it might not be something that they can take on.
+And we shall see. This is an area we're still learning. And it'd be interesting to see -- well, VMware has 300,000 customers. We see the top 10,000 as making has been people and makes a lot of sense, derive a lot of value in deploying private cloud using VCF. We now are looking at whether the next 20,000, 30,000 midsized companies see the same way.
+Stay tuned. I'll let you know.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) CJ Muse, Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+CJ Muse,  Cantor Fitzgerald LP - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I was hoping to focus on gross margins. I understand the guide down 70 bps, particularly with software lower sequentially and greater contributions from wireless and XPUs. But to hit that [ 17 ] spot 7, I either have to model semiconductor margins flat, which I think would be lower or software gross margins to 95% up 200 bps. So can you kind of help me better understand kind of the moving parts there to lap only a 70 bp drop?
+
+--------------------------------------------------------------------------------
+Kirsten Spears,  Broadcom Inc - Chief Financial Officer, Chief Accounting Officer    [36]
+--------------------------------------------------------------------------------
+
+          Yeah. I mean GPUs will be going up along with wireless, as I said on the call, and our software revenue will be coming up just a bit as well.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [37]
+--------------------------------------------------------------------------------
+
+          It means we --
+
+--------------------------------------------------------------------------------
+Kirsten Spears,  Broadcom Inc - Chief Financial Officer, Chief Accounting Officer    [38]
+--------------------------------------------------------------------------------
+
+          XPUs, yes. (multiple speaker) Our part is typically our heaviest quarter, right, of the year for wireless. You have wireless and GPUs with generally lower margins, right? And then our software revenue coming.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Joe Moore, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joseph Moore,  Morgan Stanley & Co Ltd - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. In terms of the fourth customer, I think you've talked in the past about -- customers four and five were more hyperscale, and six and seven work more like the LLM makers themselves. Can you give us a sense for -- if you could help us categorize that? I thought that's fine.
+And then the $10 billion of orders, can you give us a timeframe on that? Thank you.
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [41]
+--------------------------------------------------------------------------------
+
+          Okay. Yes. No. It's towards at the end of the day, all seven LLMs. Not all of them have a current -- has a huge platform we're talking about, but one could imagine eventually all of them will have or create a platform. So it's hard to differentiate the -- coming on the second and the delivery of the $10 billion, I'll probably be in -- around, I would say, the second half of our fiscal year 2026.
+I would say, to be even more precise, likely to be Q3 of our fiscal '26.
+
+--------------------------------------------------------------------------------
+Joseph Moore,  Morgan Stanley & Co Ltd - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay. Q3, it starts or Q3, what time frame does it take to deploy $10 billion?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [43]
+--------------------------------------------------------------------------------
+
+          End in Q3.
+
+--------------------------------------------------------------------------------
+Joseph Moore,  Morgan Stanley & Co Ltd - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          All right. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Joshua Buchalter, TD Cowen.
+
+--------------------------------------------------------------------------------
+Joshua Buchalter,  TD Cowen - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Hey, guys. Thank you for taking my questions. Congrats on the results. I was hoping you could provide some comments on momentum for your first scale up Ethernet and how it compares with UA Link and PCIe solutions out there. how big of a -- how meaningful is it to have at the Tomahawk Ultra product out there with a lower latency? And how meaningful do you think to scale up the Ethernet opportunity could be over the next year as we think about your AI networking business?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [47]
+--------------------------------------------------------------------------------
+
+          Well, that's a good question. And we, ourselves, are thinking about that, too, because to begin with Ethernet, our Ethernet solutions are very disaggregated from the AI accelerators, anybody does. It's separate. We treat them as separate. Even though you're right, the network is a computer.
+We have always believed that Ethernet is open source. Anybody should be able to have choices, and we keep it separate from XPU. But the proof of the matter is, for our customers who use the XPU, we develop, we optimize our networking switches and other components that relate to being able to network signals in any cases, hand-in-hand with it.
+In fact, all this experience have developed with interface that handles Ethernet very, very much so. So that's in a way with XPUs with our customers, we are openly enabling Ethernet as a networking protocol of choice very, very openly.
+And it will not be our Ethernet switches. It could be any other but somebody else Ethernet switches that does it. It just happens to be where the lead in this business, so we get that. But beyond it, especially when it comes to a close system of GPUs, we see less of it, except in the hyperscalers, where the hyperscalers are able to architect the GPUs clusters very separate from the networking side, especially in scale out. In which case, on those hyperscalers, we sell a lot of these Ethernet switches that are scaling out.
+And we suspect when it goes to scaling across now even more Ethernet that are disaggregated from the GPUs that are in the place. As far as experience are concerned, for sure, it's all Ethernet.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Christopher Rolland, Susquehanna.
+
+--------------------------------------------------------------------------------
+Christopher Rolland,  Susquehanna Financial Group LLLP - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Congrats on the contract extension, Hack. So yes, my questions are about competition, both on the networking side and the ASIC side. You kind of answered some of that, I think, in the last question. But do you view any competition on the ASIC side, particularly from US or Asian vendors? Or do you think this is decreasing?
+And on the networking side, do you think UALink or PCIe even has a chance of displacing SUE in 2027, when it's expected to ramp?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [50]
+--------------------------------------------------------------------------------
+
+          Thank you for embracing SUE. I did expect that to come up. And I appreciate that -- well, you know I'm biased to be honest. But it's so obvious, I can't help us being biased because Ethernet is well proven. Ethernet is so known to the engineers, the architects that sits in all these hyperscalers, developing, designing AI data center, their AI infrastructure.
+It's the logical thing for them to use, and they are using it, and they are focusing on it. and the development of separate individualized protocol, frankly, is beyond my imagination why they bought Ethernet is there. It's been well used. It's proven it can keep going up.
+The only thing people talk about latency, especially in scaling up hence, the emergence of NVLink. And even then, as I indicated, it's not hard for us, and we are not the only one who can do that, a few others in Ethernet can do it in the switches. You can just tweak the switches to make the latency super good, better than NVLink, better than InfiniBand less than 250 nanoseconds easily. And that's what we did. So it's not that hard.
+And perhaps, as my say that because we have been doing it as the Ethernet has been around the last 25 years at length. So it's there, the technology that's only to go and create some cooked up protocols that now you have to bring people around. Ethernet is the way we go. And we definitely have competition too because it's an open source system.
+So I think Ethernet is a way to go. And for sure, in developing experience for our customers, all this experience with the agreement of customers are main compatible interface with denim and not some fancy other interface that one has to keep going as bandwidth increase. And we -- and I assure you, we have competition, which is one of the reasons why the hyperscaler is like Ethernet.
+It's not just us. They can find somebody else for whatever reason, they don't like us and we're open to that. It's always good to do that. It's an open source system and there are players in that market, not any core system.
+Switching on to XPU competition. Yes, we hear about competition and all that. It's just -- it's a competition that is an area that we always see conditions and our only way to secure our position is we try to invest and now innovate anybody else in this game. We've been fortunate to be the first one, creating this XPU model of ASICs on silicon.
+And we also have been fortunate to be probably one of the largest IP developers of semiconductor out there, things like serialize -- the serialize sets been able to develop the best packaging been able to design things that are very low power. So we just have to keep investing in it, which we do to outrun the competition in this space. And I believe we're doing a fairly decent job of doing it at this point.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Harsh Kumar, Piper Sandler.
+
+--------------------------------------------------------------------------------
+Harsh Kumar,  Piper Sandler - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Congratulations on all the exciting AI metrics, and thanks for everything you do for Broadcom and sticking around. My question is you've got three to four existing customers that are ramping as the data centers for AI clusters get bigger and bigger, it makes sense to have differentiation, efficiency, et cetera, therefore, the case for XPUs. Why should I not think that your XPU share at these three or four customers that are existing will be bigger than the GPU share in the longer term?
+
+--------------------------------------------------------------------------------
+Hock Tan,  Broadcom Inc - President, Chief Executive Officer, Director    [53]
+--------------------------------------------------------------------------------
+
+          It will be -- it's a logical conclusion, as, you're correct. And we are seeing that step by step. As I say, it's a journey. It's a multiyear journey because it's multigenerational because -- this experience don't stay still either. I'm doing multiple versions, at least two versions, two generation versions for each of these customers we have.
+And with newer generation, they increase the consumption, the usage of the XPU as they gain confidence as the model improves, they deploy it even more. So that's the logical trend that XPUs will keep in these few customers around whereas they successfully deployed and their software stabilizes the software stack the libraries that sits on these chips stabilizes and proves itself out. They will have the content to keep using a higher and higher percentage of their compute footprint in their own XPUs for sure, and we see that. And that's why I think we progressively gain share.
+
+--------------------------------------------------------------------------------
+Harsh Kumar,  Piper Sandler - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          Thank you, Hock.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          Thank you. I would now like to turn the call back over to Ji Yoo, Head of Investor Relations, for any closing remarks.
+
+--------------------------------------------------------------------------------
+Jihyung Yoo,  Broadcom Inc - Head, Investor Relations    [56]
+--------------------------------------------------------------------------------
+
+          Thank you, Sheri. This quarter, Broadcom will be presenting at the Goldman Sachs Communacopia and Technology Conference on Tuesday, September 9 in San Francisco, and at the JPMorgan US AllStar Conference on Tuesday, September 16 in London.
+Broadcom currently plans to report its earnings for the fourth quarter and fiscal year 2025 after close of market on Thursday, December 11, 2025. We public webcast of Broadcom's earnings conference call will follow at 2:00 PM, Pacific.
+That will conclude our earnings call today. Thank you all for joining. Sheri, you may end the call.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+
+          This concludes today's program. Thank you all for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

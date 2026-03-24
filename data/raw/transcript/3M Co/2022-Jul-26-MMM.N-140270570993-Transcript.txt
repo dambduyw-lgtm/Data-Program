@@ -1,0 +1,621 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2022 3M Co Earnings Call
+JULY 26, 2022 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Michael F. Roman
+   3M Company - Chairman & CEO
+ * Bruce Jermeland
+   3M Company - VP of IR
+ * Kevin H. Rhodes
+   3M Company - Executive VP & Chief Legal Affairs Officer
+ * Monish D. Patolawala
+   3M Company - Executive VP and Chief Financial & Transformation Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Andrew Burris Obin
+   BofA Securities, Research Division - MD
+ * Brett Logan Linzey
+   Mizuho Securities USA LLC, Research Division - Executive Director
+ * Charles Stephen Tusa
+   JPMorgan Chase & Co, Research Division - MD
+ * Scott Reed Davis
+   Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research
+ * Deane Michael Dray
+   RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst
+ * Andrew Alec Kaplowitz
+   Citigroup Inc., Research Division - MD and U.S. Industrial Sector Head
+ * Julian C.H. Mitchell
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Nigel Edward Coe
+   Wolfe Research, LLC - MD & Senior Research Analyst
+ * Joseph Alfred Ritchie
+   Goldman Sachs Group, Inc., Research Division - VP & Lead Multi-Industry Analyst
+ * Joshua Charles Pokrzywinski
+   Morgan Stanley, Research Division - Equity Analyst
+ * Nicole Sheree DeBlase
+   Deutsche Bank AG, Research Division - Director & Lead Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by. Welcome to the 3M Second Quarter Earnings Conference Call. (Operator Instructions). As a reminder, this conference is being recorded, Tuesday, July 26, 2022. I would now like to turn the call over to Bruce Jermeland, Senior Vice President of Investor Relations at 3M.
+
+--------------------------------------------------------------------------------
+Bruce Jermeland,  3M Company - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and good morning, everyone, and welcome to our second quarter earnings conference call. With me today are Mike Roman, 3M's Chairman and Chief Executive Officer; Monish Patolawala, our Chief Financial and Transformation Officer; and Kevin Rhodes, our Chief Legal Affairs Officer. Please note that Mike's and Monish's formal comments this morning will be longer than past quarters given the announcements that we made this morning. (Operator Instructions)
+Also note that today's earnings release and slide presentation accompanying this call are posted on the homepage of our Investor Relations website at 3m.com. Please turn to Slide 2. Please take a moment to read the forward-looking statement. During today's conference call, we'll be making certain predictive statements that reflect our current views about 3M's future performance and financial results.
+These statements are based on certain assumptions and expectations of future events that are subject to risks and uncertainties. Item 1A of our most recent Form 10-K and 8-K lists some of the most important risk factors that could cause actual results to differ from our predictions.
+Please note throughout today's presentation, we will be making references to certain non-GAAP financial measures. Reconciliations of the non-GAAP measures can be found in the appendix to these slides and in the attachments to today's press release. With that, please turn to Slide 3, and I'll now hand the call off to Mike. Mike?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Bruce. Good morning, everyone, and thank you for joining us. Today is an exciting and important day for 3M. We are positioning our company for future success by creating more opportunity while reducing uncertainty. We plan to spin off our Health Care business, which will result in 2 world-class public companies that are global leaders with significant growth opportunities in their respective markets.
+We intend to execute a tax-free spin-off, creating a global diversified health care technology leader. New 3M will remain a leading global material science innovator, serving customers across a range of diverse and attractive end markets. Each company will be well capitalized, more agile and focused and well positioned for long-term success.
+Also, we are proactively taking steps to resolve litigation related to Combat Arms Earplugs. Aearo Technologies, a 3M subsidiary, has voluntarily elected to initiate chapter 11 proceedings. This process is intended to resolve claims related to Combat Arms in a manner that is efficient and equitable. 3M has not filed for chapter 11. Both 3M and Aearo expect to continue to operate in the ordinary course.
+And as we announced earlier in our earnings press release, 3M continues to deliver in a challenging environment, with adjusted earnings per share of $2.48 in the second quarter. We also posted organic growth of nearly 5%, excluding the impact of disposable respirators and COVID-related lockdowns in China. Monish will cover our Q2 results in detail after my remarks.
+Please turn to Slide 4. Now is the right time for 3M to act as we position our company to win in a rapidly changing world. As I shared at our investor meeting in February, disciplined portfolio management is foundational to our growth strategy. Our Board and management team actively evaluate strategic options to drive long-term sustainable growth. The importance of portfolio management has never been greater, especially given the extraordinary macroeconomic changes brought about at the pandemic.
+I'll speak to Health Care in a moment, but let me first talk about the strong businesses that will make up New 3M. Our market-leading business groups are aligned to highly attractive end markets with tremendous opportunities in front of them. Each of these business groups grew above 8% in 2021 and are delivering solid results in a challenging environment this year.
+Together, these businesses make up an outstanding portfolio that actively leverages our world-class capabilities. As global megatrends have accelerated, many of those trends demand our customer-driven innovations that aligned to our growth priorities. Areas such as electronics, safety, mobility, digitization, home improvement and sustainability all represent significant opportunities for 3M. 
+An important example of our strategic portfolio management is the progress we have made in Health Care. Through organic investments in innovation, strategic M&A and updates to our operating model, we have positioned Health Care to be successful as a stand-alone enterprise. In 2019, we acquired Acelity and M*Modal, establishing our leadership in Advanced Wound Care and in Health Information Systems. Also, we have divested drug delivery and are in the process of separating our Food Safety business.  
+Our business group-led operating model, which we implemented in 2020, has also enabled our businesses and R&D to be closer to our customers. These actions, in addition to Health Care's strong capabilities, are why we feel now is the right time for it to formally operate as a stand-alone health care leader, especially given important trends that favor our business.
+With shifting demographics, growing demand for virtual and in-home care, a focus on reducing rehospitalizations, advances in health care IT systems and a growing focus on delivering better patient care at a lower cost, our Health Care business is at the intersection of data, analytics and technologies needed to deliver precision medicine. Both companies will sharpen their focus to continue investing and winning in global end markets and have greater flexibility to strategically deploy capital, drive innovation and accelerate growth.
+Turning now to Slide 5. Our actions will drive long-term value for our shareholders. New 3M and Health Care will tailor their capital allocation and investments to drive innovation and growth. As leaders in their markets, their enhanced focus will help position each to respond even faster to shifting industry dynamics and needs. They will both offer distinct and compelling investment profiles appealing to different investor bases.
+These actions will help unlock and unleash value for 3M and the Health Care business and chart an exciting course for our future. At the same time, we are also working to reduce uncertainty by efficiently and equitably resolving Combat Arms Earplug litigation. I will now provide more detail about our planned spin-off of our Health Care business and the opportunities this will create.
+Please turn to Slide 7. Each business will be financially strong leaders in their respective industries. 3M will be an approximately $26.8 billion business and remain a leading provider of innovative solutions for a broad, diverse range of end markets, including industrial, safety, automotive, electronics and consumer. Each of these businesses benefit from 3M science and innovation.
+Our Health Care business drove $8.6 billion in sales in 2021, which includes approximately $400 million in revenue from our Food Safety business.  We intend to complete the previously announced separation of the Food Safety business through a split-off transaction with a targeted closing date of September 1, 2022, subject to approval by NEOGEN shareholders in addition to other customary closing conditions. Our go-forward Health Care business will build upon strong positions in attractive markets, including wound care, oral care, health care IT and biopharma filtration. Next slide, please.
+With our fundamental strengths in science and technology, manufacturing, global capabilities and iconic brands, we are well positioned to capitalize on and invest in key megatrends. A hallmark of 3M is our ability to leverage unique and differentiated technologies across our organization, allowing us to create new solutions required by a world where we are seeing accelerated demand for innovation and sustainability.
+We will continue to actively manage our portfolio with discipline and focus, generate strong margins and cash flow and grow earnings by improving operating rigor. Our capital allocation priorities remain unchanged. These include investing in organic growth, an attractive dividend, strategic M&A and finally, share repurchases. Next slide, please. 
+As we look ahead, innovation, talent and operations will remain core strengths for New 3M. We will drive more customer-focused innovation, leverage data and insights from our retail partners and connect with customers through advanced e-commerce strategies. We will share technology platforms and leverage R&D across the enterprise, which will help drive growth in all of our businesses. Attracting and retaining talented people are top priorities. We will connect them through greater flexibility with our Work Your Way model and continuously strengthen our culture of innovation.
+We will also advance our capabilities through digitization to provide unique solutions and achieve greater end-to-end performance across our global operations. Our innovative manufacturing expertise will continue to be a differentiator and to ensure greater connectivity to customers, we will enhance our service and streamline our operating model. We are equally excited for the future of our Health Care business, which I will explain on Slide 10.  
+Our Health Care business enables better, smarter and safer care, and we'll be well positioned to support customer needs and make the most of attractive opportunities, including a growing focus on infection prevention to help providers reduce related rehospitalizations, hospitals increasing investments and improvements in clinical and operational workflows to drive efficiencies and improve patient experiences, more frequent use of biologics as a first-line choice of treatment.
+In addition, medicines are becoming more complex and advanced requiring specialized, tailored solutions. And the combination of material science and digital science, especially within oral care, is changing the patient experience for the better. With our deep and diverse portfolio of trusted brands, global capabilities, regulatory expertise and leading positions in attractive segments, we expect the Health Care business to generate strong recurring revenues, margins and cash flow. Next slide, please.
+We are excited about the Health Care business we have built with intention and a clear focus on helping improve the health of people around the world. Our business is powered by core strengths, including our proven leadership in multiple care pathways, our position in attractive end markets, an innovation mindset, customer relationships, regulatory expertise and operational excellence. These strengths enable strong sales growth and profitability, and importantly, deliver better patient care. Next slide, please.
+We are well positioned in large and growing health care end markets, which are expected to grow at a strong and steady rate over the next several years. Our Wound Care business is a world leader and comprises a portfolio of innovative products. Our oral care business is another leading platform, which has developed award-winning innovations.
+Health Care Information Systems are increasingly essential as providers seek to deliver better care through comprehensive data and insights. Our biopharma filtration products are critical to manufacturing potentially life-saving medical devices, vaccines, drugs and therapeutics. Now let me turn to some of the specifics of the transaction on the next slide.
+3M plans to pursue a tax-free spin-off and retain a 19.9% stake, which we expect to monetize over time. We expect Health Care will be spun off with net leverage of 3 to 3.5x adjusted EBITDA and will delever rapidly given the business' strong cash flow. Subject to the satisfaction of certain conditions, we anticipate completing this transaction by the end of 2023, and we anticipate no change in 3M's capital allocation priorities through separation.
+In addition, 3M will retain responsibility for non-health care-related litigation, including Combat Arms Earplugs and PFAS. Over the next several months, we will begin our work to stand up these 2 companies, and we'll share updates as we progress.
+Now let me provide some additional background on Combat Arms litigation. Please turn to Slide 15. To provide some context, in 2008, 3M acquired Aearo Technologies, which manufactured Combat Arms Earplugs. Since the acquisition, Aearo has continued to operate as a wholly-owned subsidiary of 3M. These products provided effective hearing protection when used properly, and we stand by their performance. The U.S. military continues to rely on 3M products, including newer versions of the Combat Arms Earplugs.
+Nonetheless, there has been an extraordinary increase in litigation related to Combat Arms. As of June 30, 2022, there were approximately 115,000 filed claims and an additional 120,000 claims on an administrative docket. The multi-district litigation process and the highly variable outcomes it has generated has not provided certainty or clarity. We believe that litigating these cases individually could take years, if not decades. We want to do right by veterans and all stakeholders, and we expect the steps we are taking today will provide greater certainty as we take action to efficiently and equitably resolve claims related to Combat Arms.
+We have made the decision to adopt a new legal strategy. So let me provide a little more context on the actions we are taking. Aearo has voluntarily elected to use well-established chapter 11 procedures to resolve this litigation. Aearo will indemnify 3M for all liabilities related to Combat Arms and certain discontinued Aearo respirator mask products.
+3M has entered into a funding agreement and has committed to fund a trust of $1 billion to resolve all claims determined to be entitled to compensation. This amount is based on the analysis of an experienced estimator of claims in chapter 11. In addition, we are committing $240 million to cover projected case-related expenses. 3M will provide additional funding if required under the terms of the agreement.
+By taking these actions, we expect to provide greater certainty and clarity and help funds go to plaintiffs with claims that are determined to be entitled to compensation sooner. This will help reduce the cost and time that could otherwise be required to litigate thousands of cases.
+Let me now say a few words about our plans to manage PFAS. 3M stands by our record of environmental stewardship. We are already deploying state-of-the-art technology that will help us achieve our goal of a 99% reduction in PFAS discharges from our operations. We are making progress against our goals of improving water quality, reducing water use, reducing plastic use and achieving carbon neutrality.
+In addition, we continue to remediate at sites where 3M historically manufactured or disposed of PFOA and PFOS. Now specifically to PFAS-related litigation. We plan to vigorously defend ourselves. We are preparing our defense for upcoming milestones in the litigation process, and we are well advised of our options. Next slide.
+We are excited about the future of 3M. Our actions today will provide greater focus for our organization. Before I turn it over to Monish, I want to reiterate a few key takeaways. Our investments in innovation, our portfolio management strategy and our realigned operating model will power our future growth. We will have dedicated teams to help facilitate focused execution of our actions announced today.
+Our planned tax-free spin-off will result in a leading global diversified health care technology company. We will create more opportunity for both 3M and the newly stand-alone Health Care business through this transaction, with 2 public companies well positioned to drive future success. In addition, we are taking action to efficiently and equitably resolve Combat Arms litigation. Finally, we remain focused on delivering in a challenging environment. Now I will turn it to Monish to provide an update on our Q2 performance and an updated outlook for the year. Monish?
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [4]
+--------------------------------------------------------------------------------
+Thank you, Mike, and I wish you all a very good morning. Please turn to Slide 17. The 3M team executed well and delivered solid Q2 results by remaining focused on serving our customers while navigating continued supply chain challenges, inflationary pressures along with the geopolitical and COVID dynamics.
+Second quarter total sales were $8.7 billion, which increased 1% on an organic basis versus last year's 21% comparison. Adjusted operating income was $1.8 billion, with adjusted operating margins of 21% and adjusted earnings per share of $2.48. We continue to experience strong demand across most end markets. However, a couple of items had a negative impact on overall Q2 results, which we had highlighted during the quarter.
+First, as forecasted, we experienced a year-on-year decline in disposable respirator sales of approximately $150 million; and second, the Greater China region's COVID-related lockdowns resulted in a sales decline of approximately $140 million year-on-year. The impact was lower than the $300 million headwind we had anticipated as the reopening of our facilities in June went better than anticipated. Our China team did a tremendous job adding additional shifts to ramp up production, distribution and drive productivity to serve our customers.
+Adjusting for these 2 impacts, organic revenue growth was nearly 5% for the rest of 3M in the quarter. Also, the continued strengthening of the U.S. dollar resulted in a foreign currency translation impact of minus 4 percentage points to Q2 total sales growth. This FX impact, combined with the China COVID-related lockdowns, negatively impacted second quarter operating margins by nearly 1 percentage point and earnings by $0.24 per share versus our expectation of $0.30 as discussed during our conference in early June.
+We also continue to support our people and manage the business and supply chain impacts from the ongoing Russia-Ukraine conflict. We also announced additional investments to resolve matters related to our operations in Zwijndrecht and began the process of restarting manufacturing operations, which is progressing to plan. And finally, as I will expand upon later, we are updating our full year expectations, primarily to incorporate the impact of the strong U.S. dollar, along with macroeconomic uncertainty.
+Please turn to Slide 18, where I'll get into more details of the quarter. On this slide, you can see the components that impacted our operating margins and earnings per share performance as compared to Q2 last year. First, we continue to benefit from selling price actions, restructuring savings and strong spending discipline, which helped drive an improvement to underlying margins of 2.9 percentage points or $0.44 to earnings per share year-on-year.
+These actions helped to more than offset headwinds, including the forecasted decline in disposable respirator demand, which negatively impacted Q2 operating margins by 40 basis points and earnings by $0.09 a share. The previously-mentioned China COVID-related lockdown, which resulted in a year-on-year headwind of 70 basis points to operating margins and $0.11 to earnings per share.
+And finally, as discussed during last year's second quarter earnings call, we realized a benefit to both operating margins and earnings in Q2 last year from a Brazilian Supreme Court social tax ruling, which led to a 100 basis point margin and $0.12 per share headwind to this year's second quarter. We also continue to prioritize investments in growth, productivity and sustainability to drive long-term performance and capitalize on trends in large attractive markets, including automotive, safety, health care, electronics, software and home improvement.
+Moving on to raw materials and logistics. Inflationary pressures resulted in a year-on-year headwind of nearly $270 million in the quarter or a negative impact of 3.1 percentage points to operating margins and $0.36 to earnings. Halfway through 2022, we have experienced approximately $480 million of raw materials and logistics headwinds versus our original full year expectation of $350 million to $450 million at the start of the year. We now anticipate this year full year headwind to be in the range of $750 million to $850 million, which we continue to expect to offset through pricing actions.
+As I mentioned earlier, foreign currency translation was a negative 4 percentage point impact or a reduction of nearly $340 million in total sales and over $80 million in operating income net of hedging year-on-year. This resulted in a headwind of 10 basis points to margins and  $0.13 to earnings per share. Other financial items increased earnings by a net $0.10 per share year-on-year, driven by benefits from a lower share count and tax rate.
+Please turn to Slide 19. Second quarter adjusted free cash flow was $1 billion with conversion of 68%. Our year-on-year conversion performance was a result of a higher-than-expected increase in working capital, along with the cash impact from capitalization of R&D for U.S. tax purposes. Working capital improvement is a big piece of how we keep generating good strong cash flow for 3M.
+The global supply chain and logistics environments remain challenging. The data analytics platform that we have created will help us to reduce inventory levels through better demand planning, SKU rationalization and use of visualization tools. We expect the benefits of these efforts to start showing up in the second half and years to come.
+Capital expenditure was $384 million in the quarter and $808 million year-to-date or up 15% year-on-year as we continue to invest in growth, productivity and sustainability. For the full year, we continue to anticipate CapEx investments in the range of $1.7 billion to $2 billion.
+During the quarter, we returned $848 million to shareholders through cash dividends. As we have communicated previously, share repurchases remained suspended in Q2 due to the pending Food Safety separation. We intend to complete the separation through a split-off with the closing date of September 1, subject to NEOGEN shareholder approval and other customary closing conditions. Net debt stands at $13.3 billion, up approximately 4% as we continue to invest in the business.
+Please turn to Slide 21 for our business group performance for Q2. I will start with our Safety and Industrial business, which posted sales of $2.9 billion or up 0.7% organically compared to last year's second quarter. This result included headwinds from the decline in disposable respirator sales of approximately $150 million year-on-year, which negatively impacted Safety and Industrial's organic growth by 5.7 percentage points, along with the COVID-related lockdowns in the Greater China region.
+Our personal safety business declined high single digits organically, primarily due to the decline in COVID-related disposable respirator demand. We continue to anticipate that COVID-related disposable respirator demand will decline as we move through 2022. However, we remain prepared to respond to changes in demand as appropriate.
+Turning to the rest of Safety and Industrial. Abrasives, electrical markets and closure and masking businesses all grew low double digits organically. Roofing granules, automotive aftermarket and industrial adhesives and tapes, all delivered low single-digit organic growth.
+Safety and Industrial's second quarter adjusted operating income was $630 million, down 12% versus last year. Adjusted operating margins were 21.5%, down 2.1 percentage points. Adjusted operating margins were impacted by China lockdowns and manufacturing productivity headwinds, which were partially offset by spending discipline and benefits from restructuring actions. 
+Moving to Transportation and Electronics, which posted sales of $2.3 billion, up 0.5% organically compared to last year. Organic growth was held back by the lockdowns in China, along with the ongoing impacts of the semiconductor supply chain constraints on the automotive and consumer electronics end markets. Organic sales in our auto OEM business were up low single digits versus flat global car and light truck builds as we continue to gain penetration on automotive platforms.
+Our electronics-related business declined low single digits organically with decreases across consumer electronics, particularly smartphones, tablets and TVs. These declines were partially offset by continued strong demand for our solutions in semiconductor, factory automation and automotive end markets.
+Turning to the rest of Transportation and Electronics. Advanced materials and commercial solutions grew organically mid-single digits, while transportation safety was down high single digits. Second quarter operating income was $476 million, down 7% year-on-year.
+Operating margins were 21%, down 80 basis points year-on-year. Operating margins were impacted by manufacturing productivity headwinds due to China's lockdowns and the continued shutdown during Q2 of certain operations in our Zwijndrecht factory. These impacts were partially offset by the strong spending discipline and benefits from restructuring.
+Looking at our Health Care business, which delivered strong quarter sales of $2.2 billion, with organic growth of 4.4%. Our medical solutions and oral care businesses increased low single digits organically. Second quarter U.S. elective medical procedures and oral care volume were approximately 90% to 95% of pre-COVID levels, up sequentially from Q1 levels.
+Health Information Systems grew mid-single digits, driven by strong growth in revenue cycle management. The separation and purification business increased high single digits with sustained demand for biopharma filtration solutions for COVID-related vaccines. And finally, Food Safety was flat year-on-year.
+Health Care's second quarter operating income was $494 million, down 10% year-on-year. Operating margins were 22.7%, down 2.6 percentage points with strong adjusted EBITDA margins of nearly 30%. Year-on-year, operating margins were impacted by manufacturing productivity, investments in the business and costs related to the Food Safety separation. These impacts were partially offset by the benefit from leverage on sales growth, strong spending discipline and benefits from restructuring actions.
+Lastly, our Consumer business posted second quarter sales of $1.3 billion or down 2.5% year-on-year on an organic basis versus last year's 18% comparison. The home improvement business was down high single digits organically while consumer health and safety declined low single digits as both businesses were up against strong comparisons from a year ago. Our stationary and office business performed well, up mid-single digits year-on-year, and home care was up low single digits.
+Consumer's operating income was $247 million, down 15% compared to last year. Operating margins were 18.5%, down 2.2 percentage points year-on-year. Our Consumer business operating margins were impacted by ongoing supply chain constraints and manufacturing productivity impacts. These headwinds were partially offset by strong spending discipline and benefits from restructuring actions. Please turn to Slide 23 for a discussion on our 2022 outlook.
+As you know, the macro environment remains uncertain with mixed trends and signals across geographies and end markets. For example, improving build rate trends in automotive; continued strong demand in semiconductor, data center and factory automation; increasing health care elective procedure volumes; and a strong bounce back in China, following April and May COVID-related lockdowns.
+However, there are also continued challenges and areas of concern that we are monitoring, including the stubborn and evolving impacts of COVID; global supply chain and logistics challenges; persistent and broad-based inflation, which is pressuring consumers' purchasing power and shifting spending patterns; softening trends in consumer electronics; and geopolitical uncertainties, particularly in Europe. We are working through these challenges and are taking actions such that we expect to offset the majority of these headwinds.
+However, as I mentioned earlier, the strength of the U.S. dollar is having an increasing impact on our top and bottom line, which is the primary factor driving our update to full year guidance. Foreign currency translation is now expected to be a full year headwind on of minus 4% versus minus 1% previously. This FX headwind is resulting in a reduction of over $1 billion in annual sales and is also accounting for nearly 80% of the adjustment in our full year earnings expectation. Therefore, we now expect full year earnings in the range of $10.30 to $10.80 versus a prior range of $10.75 to $11.25.
+Given our first half performance, along with the continued uncertain environment, we also believe it is prudent to adjust our organic growth expectations. Therefore, we now expect full year organic growth in the range of 1.5% to 3.5% versus our prior range of 2% to 5%. And finally, we expect adjusted free cash flow conversion to be in the range of 90% to 100%.
+Before I wrap up, let me make a few comments regarding the third quarter. First, we currently anticipate an approximate 5 percentage point headwind to total sales from foreign currency translation. While build rate forecast for automotive have moderated, we see easier comps here in Q3 versus last year. U.S. medical elective procedure volumes are expected to be in the range of 90% to 95% of pre-COVID levels, while oral care volumes are estimated at approximately 90%.
+We expect a headwind of $100 million to $200 million year-on-year from the ongoing decline in disposable respirator demand. We continue to closely watch weakening consumer electronics demand trends and overall consumer sentiment and spending. And finally, looking at raw materials and logistics costs, we anticipate a Q3 year-on-year headwind of approximately $225 million, which we expect to be able to navigate and offset to price actions.
+To wrap up, our team delivered 1 percentage organic sales growth in the quarter, 21% adjusted margins and generated $1 billion in adjusted free cash flow. I want to thank our customers and suppliers for their partnerships and the 3M employees for their hard work and dedication as they continue delivering for our customers.
+While the macro environment continues to be extremely fluid, the 3M team remains focused on serving our customers and delivering a strong second half of the year. We will remain focused on investing in favorable macro trends, increasing operating rigor through a focus on deep root cause and driving working capital intensity to further strengthen cash flow.
+I'm excited about the future of New 3M and our Health Care business. We believe that today's announcements position the company to drive significant long-term value for our customers, employees and shareholders. Our businesses and capital structure are strong, and we are well positioned for success.
+That concludes my remarks for the second quarter. With that, we will now take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Andrew Obin with Bank of America.
+
+--------------------------------------------------------------------------------
+Andrew Burris Obin,  BofA Securities, Research Division - MD    [2]
+--------------------------------------------------------------------------------
+Yes. First of all, congratulations on achieving these key milestones. I'm sure the team worked incredibly hard to achieve that, so congrats.
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Andrew.
+
+--------------------------------------------------------------------------------
+Andrew Burris Obin,  BofA Securities, Research Division - MD    [4]
+--------------------------------------------------------------------------------
+My first question, so maybe not for Mike and not for Monish, Kevin is on the phone as well. So we're getting a lot of questions about just the structure for the Combat Arms. Kevin, could you just talk about the process for sort of ringfencing the Combat Arms liability. You highlighted an estimator.
+How much of it is sort of this -- how much of this estimate is sort of discretionary in nature? How much of it is based on precedents? Just maybe explain the process a little bit better to us, because my understanding is that it is a fairly complex process to come up with a number, but any help would be useful.
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [5]
+--------------------------------------------------------------------------------
+Yes. Maybe -- Andrew, maybe I'll start with it, and Kevin can add some details as well. So as we talked about in the prepared remarks, Aearo Technologies' operating entity in 3M is voluntarily taking on this liability. And it's really about us, 3M, stepping up to do what's right here. Do right by veterans and drive more certainty, drive better clarity for everyone involved. As we talked about, we are committed to fund the trust, and this is based on the analysis by an experienced estimator of claims.
+The third party that we're working with, an economic consulting firm, Bates White, is the one that developed the estimate for us. We believe the $1 billion is the appropriate amount based on that expert analysis, and we are -- as part of this process, we'll provide additional funding if required under the terms of the agreement. But that's the basis for that $1 billion. Kevin, I don't know if you have anything to add to that.
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [6]
+--------------------------------------------------------------------------------
+Yes. Thanks, Mike. I'll just add that the analysis will be explained in an extra report that will be reviewed as part of the chapter 11 proceeding. It's important to note that the chapter 11 court will oversee this process, and the claimants will be represented as well. And the goal is to have the court help Aearo establish this trust funded by 3M, as Mike said, and those seeking compensation can present their claims to the trust rather than going through the litigation process on a case-by-case basis.
+
+--------------------------------------------------------------------------------
+Andrew Burris Obin,  BofA Securities, Research Division - MD    [7]
+--------------------------------------------------------------------------------
+And does this number get updated on a regular basis in the Q or intra-quarter? Or it's just we're going to get big updates as things evolve or no updates at all?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [8]
+--------------------------------------------------------------------------------
+So this is the commitment to fund the trust of $1 billion. At the end of the process when the trust is established, that's when the proceeding will be concluded.
+
+--------------------------------------------------------------------------------
+Andrew Burris Obin,  BofA Securities, Research Division - MD    [9]
+--------------------------------------------------------------------------------
+Got you. And just a follow-up question. I guess this question, for Mike. There's a lot of talk about recession, right? There are headlines that we're technically in a recession. You did address inflation, consumer slowing. But just from your perspective, you have such broad exposure to the economy. What do you think we are in the economic cycle? And how does it sort of figure in your planning for the second half of the year and as you start initial budgeting process for '23?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [10]
+--------------------------------------------------------------------------------
+Yes. Andrew, maybe I'll start. In Q2, we saw most of our end markets remain strong. And like everybody else, we saw some softening in the macro, both IPI and GDP. As we look forward, it's really important in the current backdrop -- economic backdrop to look at individual markets. And we're seeing some positive signs. We see elective procedures continuing to improve kind of sequentially as we go. We'll see a second half improvement in build rates for automotive versus first half.
+There's some areas of softness in our individual markets. We're looking at consumer electronics, for example, that has now an outlook for the total year that will be negative growth for that segment. We're watching, I would say, consumer and retail spending closely with the focus on inventory and the retail customers and also just the general dynamic around spending is some of the challenges with inflation causing some shifts and where consumers are spending their money.
+So we're watching that closely. There's a few other areas that really are looking at. We see Europe and really broadly EMEA down in the second quarter and impacted by geopolitical impacts, COVID, I would say, inflation impacting. So just general -- some softness there as well. So all of this, when you put it together, it's leaving us with some uncertainty around the economic outlook. So that's the way I would wrap it up as we go into the second half. We're cautious about where the economy is going. We're watching it closely.
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [11]
+--------------------------------------------------------------------------------
+Andrew, I just have to add FX too, please, foreign exchange, down 4% for the year, down 5% for the third quarter. As you know, that strong dollar does impact our earnings. And that's why 80% of our guide down was due to FX. So that's the other piece I would add to Mike's comments.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Our next question comes from Scott Davis with Melius Research.
+
+--------------------------------------------------------------------------------
+Scott Reed Davis,  Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research    [13]
+--------------------------------------------------------------------------------
+Congrats on the Health Care spin announcement. That seems like a smart move. I'd hate to climb in (inaudible) here, but on Slide 18, since you guys don't give us price anymore, can you just give us at least some sense of what -- you've got a $0.36 raw material impact, if price came close to offsetting that? Or just give us a little bit of sense of the progress you've made on the price cost equation.
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [14]
+--------------------------------------------------------------------------------
+Sure, Scott. I'll take that. As I've mentioned before, the teams have done a very disciplined approach to pricing actions across multiple markets, multiple geographies. As you know, we don't do just cost plus pricing. So we take into account our competitive position. We take into account market situations, the inflation that has by commodity.
+So when you put all that together, I would say between the businesses and the product lines, that's somewhere between low single digits to high single digits. But if I do a weighted average of that, I would say mid-single digits, Scott, is where we came in on price. So we did offset inflation.
+As I mentioned in my prepared remarks, we are managing inflation through pricing actions. And second half, we continue to see broad-based inflation. So we updated our inflation guide to nearly $750 million to $850 million versus the earlier range we had, which was in the $350 million to $450 million range. And even there, we continue to manage that inflation. We continue to take price. I don't know if I answered your question, but I think that was your question.
+
+--------------------------------------------------------------------------------
+Scott Reed Davis,  Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research    [15]
+--------------------------------------------------------------------------------
+Yes. No, that's helpful, Monish. And just going back to Andrew's question on Slide 15, where you talk about Aearo Technology as being always operated as a wholly-owned subsidiary. Is there some sort of -- is there a litmus test there on whether it was truly integrated? Or funds coming old, ERP systems coming old? I mean, I just remember faintly from the asbestos days that there were kind of lines it couldn't cross to be able to keep something separate and put a liability into a separate entity like this.
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [16]
+--------------------------------------------------------------------------------
+Yes. So Aearo, I'll take this. So Aearo has been a wholly-owned subsidiary since the 2008 acquisition. It has continued to operate and -- it's important to note that the Aearo entities have been involved in the Combat Arms litigation from the beginning. They are named as co-defendants in the litigation and they launched, manufactured and actually sold the majority of the Combat Arms Earplugs that issued before the 2008 acquisition by 3M.
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [17]
+--------------------------------------------------------------------------------
+And Scott, we don't see a reason why we can't have our systems, especially your question on ERPs, separate the 2 entities up.
+
+--------------------------------------------------------------------------------
+Scott Reed Davis,  Melius Research LLC - Founding Partner, Chairman, CEO & Research Analyst of Multi-Industry Research    [18]
+--------------------------------------------------------------------------------
+Okay. So ultimately, there will be a judge's ruling on that, I would assume, perhaps. Is that correct?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [19]
+--------------------------------------------------------------------------------
+Yes. Correct.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Our next question comes from Andrew Kaplowitz with Citi.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD and U.S. Industrial Sector Head    [21]
+--------------------------------------------------------------------------------
+Mike, can you give a little more color on what you're seeing by region? I know you mentioned Europe and potential weakness there in the second half. But you also talked about China and stronger-than-expected improvement in June, and it was down 8% in Q2. So what do you think growth looks like for the rest of the year there? And how worried are you about a bigger slowdown in Europe?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [22]
+--------------------------------------------------------------------------------
+Yes. It's -- maybe just to give you those 2 areas in particular. So China, as Monish highlighted in his prepared remarks, we saw better-than-expected recovery in June to the lockdowns that we were seeing, then the soft start to April, May that we talked a bit about in China. So as we go forward, and for the quarter, you're right. It's down high single digits year-on-year. GDP still looks positive in Q2.
+As we go forward, part of the answer is going to be how quickly does it recover? What is the impact going forward of COVID as any potential additional lockdown? So it's really looking at where we go there. I mean China continues to be an important market for 3M. It's -- the macro backdrop shows a good positive backdrop, but it's really going to be how all things progress relative to COVID and the recovery from COVID than what else comes our way as we go through the quarter and through the rest of the year.
+Back to Europe, our declines there were really led by Consumer and Safety and Industrial. Health Care was still growing strong in the quarter. We saw some strong growth in individual market segments. Back to my comments, the current outlook and the current growth is market dependent as opposed to broad-based one view of everything.
+And so I think Europe is at it. We've got the geopolitical risks there. We've got the impact of the supply chain issues and challenges and inflation as well. So down in the quarter and, we think, a soft outlook as we look at the second half.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD and U.S. Industrial Sector Head    [23]
+--------------------------------------------------------------------------------
+That's helpful, Mike. And then maybe you could give a little more color into how the change in your approaching the Combat Arms situations impacting your total litigation costs. Does it lower 3M's overall litigation costs even in the short or longer term? How does it work in terms of -- because you've been spending, call it, 5% to 6% of EPS has been -- you've separated that for us. Does that now go down, up? How do we think about that with the change today?
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [24]
+--------------------------------------------------------------------------------
+Yes. So the way we work, Andrew, is when we came into the year, we had told you approximately $0.60 of adjusted earnings of litigation-related expenses. That number has been updated for 3 items. Item #1 is the pretax charge that we will take as a part of the Combat Arms litigation, which is approximately $1.2 billion. The second one is the charge that we announced earlier in the quarter about our Zwijndrecht thing, which is $355 million. And for the year, that will be approximately $500 million.
+And then the item which was around $0.60 of litigation-related expenses now with the way this transaction will work out is around $0.55. So put all that together, that's approximately $2.2 billion of adjusted earnings for litigation-related and Zwijndrecht-related items. So hopefully, that answers your question.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Our next question comes from Stephen Tusa with JPMorgan Securities.
+
+--------------------------------------------------------------------------------
+Charles Stephen Tusa,  JPMorgan Chase & Co, Research Division - MD    [26]
+--------------------------------------------------------------------------------
+Are there any -- what are the risks around creating the structure for this entity? How do you kind of gauge the -- in this political environment, any kind of risk to not being able to kind of execute on this? Or your lawyers kind of tell you it's pretty iron-clad?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [27]
+--------------------------------------------------------------------------------
+Yes, Steve, there's certainly -- there are process steps that we will go through as we file today for the Aearo Technologies. And so there are -- we have to work through each of those steps. So there's always decisions that are made along the way. So I think that's part of gaining certainty as we go, and we'll keep everybody updated. I don't -- Kevin, do you want to make any comments specifically?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [28]
+--------------------------------------------------------------------------------
+Yes. Certainly, while most chapter 11 proceedings are contested, Stephen, we've  -- we're prepared to move forward, and we believe the applicable law supports our position as we move forward into this process. And the goal, again, is to remove uncertainty to set up a more efficient and equitable process for establishing a fund to compensate claimants who are entitled to compensation as opposed to the process of continuing to litigate on a claim-by-claim basis.
+
+--------------------------------------------------------------------------------
+Charles Stephen Tusa,  JPMorgan Chase & Co, Research Division - MD    [29]
+--------------------------------------------------------------------------------
+Got it. Helpful. And then just one quick follow-up on how you're kind of preparing for a potential pullback in demand, more broadly. When you look at what happened in COVID, all you guys took a lot of temporary cost out, able to defend the margins pretty nicely. What are kind of the contingencies this time around? Did the things -- are things going to be a little bit different? Or should we look at COVID as kind of like the same playbook if we do see a significant macro pullback in the next couple of quarters?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [30]
+--------------------------------------------------------------------------------
+Yes, Steve. I think, as you've seen, we manage into recessions and through any kind of slowdowns with a broad-based approach. And we'll do what's needed given the economic conditions. As I said, we're watching how each of the market demand areas are developing, how the overall macro is developing, what's going on, on the global economic outlook. And we'll take actions as required, and it will be in what we do in our factories and how we manage our commercial businesses and how we operate the company. So we'll keep you updated as we get a better view.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Our next question comes from Nigel Coe with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Nigel Edward Coe,  Wolfe Research, LLC - MD & Senior Research Analyst    [32]
+--------------------------------------------------------------------------------
+Just wanted to go back to the bankruptcy filing. So when you put Aearo into chapter 11, do you move EBITDA in that business? How does that work?
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [33]
+--------------------------------------------------------------------------------
+Yes, Nigel. Depending on how the bankruptcy proceeding goes, the plan will be to deconsolidate that entity. But the overall revenue and earnings are immaterial in the grand scheme of things.
+
+--------------------------------------------------------------------------------
+Nigel Edward Coe,  Wolfe Research, LLC - MD & Senior Research Analyst    [34]
+--------------------------------------------------------------------------------
+Okay. Okay. We'll move off-line there. And then is the -- I mean there is controversy around the structure and those appeals and the congressional bickering about it. But how contingent is the Health Care separation on a successful filing for Aearo? I mean is one contingent on the other? So can you still go ahead and separate Health Care even if the filing for Aearo is unresolved?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [35]
+--------------------------------------------------------------------------------
+Yes. Nigel. We did announce both actions today. They're really the result of separate kind of strategies and decisions. The Health Care spin was based on, as you know, we actively manage our portfolio. We look at, broadly, where to invest in our portfolio, where acquisitions make sense and how do we get the most value out of it. And that's what was behind the decision to ultimately spin the Health Care.
+We've invested in strategies to create a stronger Health Care company. It's well positioned to succeed and have a great future as a stand-alone company. And that really drove that decision. The decision to really take the steps related to Combat Arms litigation came out of really, first and foremost, the result of the bellwether trial. They were highly variable. We believe it would take years to litigate those claims.
+And so given a choice between a costly litigation process and a better, fair, more efficient resolution, that's what drove the decision to step into the new actions that we're taking. So they were -- they happened to be announced in the same day, but they're really based on separate strategies, and both really helping to set us up for, I think, well positioned for, as we said at the top, greater opportunity with the spin and more certainty with the actions we're taking related to Combat Arms.
+
+--------------------------------------------------------------------------------
+Nigel Edward Coe,  Wolfe Research, LLC - MD & Senior Research Analyst    [36]
+--------------------------------------------------------------------------------
+And then if I can just follow up. We get a lot of questions from investors around, obviously, the $1 billion is what you put in initially. But obviously, the plaintiffs will be at a much, much higher level. So assuming the structure is approved. How does that gap get bridged between the $1 billion you're putting in and obviously, the plaintiffs that are at a much, much higher level? How does that get resolved?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [37]
+--------------------------------------------------------------------------------
+Well, based on what we're doing, there will be a separate process. There will be a different process. Kevin can talk about how that proceeds, but there will be -- in the court that takes responsibility for these proceedings, they will oversee a process there that -- we believe that, as I said, we're committed to a fund that was based on, we think, appropriate analysis from an expert outside firm. But Kevin can talk about the steps of that process and how that resolves.
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [38]
+--------------------------------------------------------------------------------
+Yes. As part of the chapter 11 proceeding, there will be a claims estimation process where the court oversees that process. And we believe that the $1 billion that we have committed based on the external analysis is sufficient to fund a trust for those claimants who are entitled to compensation.
+The proceedings will be the subject of expert reports overseen by the court. The claimants will be represented as well, and we believe this is a number that is required, the funding agreement. If necessary, 3M is prepared to provide additional funding to resolve this matter at the end of the process.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Our next question comes from Joe Ritchie with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Joseph Alfred Ritchie,  Goldman Sachs Group, Inc., Research Division - VP & Lead Multi-Industry Analyst    [40]
+--------------------------------------------------------------------------------
+Congrats on both announcements. My question is for Kevin, actually, because this is all fairly new to us. I'm just curious. Like is there some kind of likelihood that the plaintiffs will come back and want their lawsuits to be heard outside of bankruptcy court?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [41]
+--------------------------------------------------------------------------------
+So once the chapter 11 filing is made, there's an automatic stay as to the [debtor] entity, which, in this case,  is Aearo Technologies. We are also asking for that automatic stay to be extended to 3M. We are funding, according to the terms of the funding, an indemnification agreement. We're committing to fund the trust to help the court set up a mechanism for compensation for those claimants entitled to compensation. We're providing that funding through Aearo. So we think we are entitled to as 3M and hope the court will extend the stay of litigation to 3M, and that would put a stay on the existing litigation in state and federal court.
+
+--------------------------------------------------------------------------------
+Joseph Alfred Ritchie,  Goldman Sachs Group, Inc., Research Division - VP & Lead Multi-Industry Analyst    [42]
+--------------------------------------------------------------------------------
+Got it. Okay. That's helpful. And then can you guys maybe just provide a little bit more color around the timing, like how this structure actually helps to expedite the timing in getting to resolution with the potential payments?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [43]
+--------------------------------------------------------------------------------
+Yes. So the chapter 11 case was just filed this morning. The court has not set a schedule yet.  There have been a wide range of duration for other chapter 11 filings to resolve litigation matters. We're hoping to work through the process and resolve the matter as quickly as possible. We hope that all parties will share that goal and move it along as expeditiously as the court's procedures permit.
+We'll certainly provide updates as the case progresses. And if you think about this in context, we've participated in the MDL process for the past 3 years, taking 16 cases through bellwether trials. We're now at the next step, which is to pair 1,500 cases for trials around the country  while we await the outcomes of our appeals.
+So as compared to the process ahead to litigate each of these cases on a case-by-case basis, we believe that the Chapter 11 proceeding will be more expeditious and certainly, will provide more clarity and a way to more efficiently and equitably provide compensation to those who are entitled to it.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+Our next question comes from Julian Mitchell with Barclays.
+
+--------------------------------------------------------------------------------
+Julian C.H. Mitchell,  Barclays Bank PLC, Research Division - Research Analyst    [45]
+--------------------------------------------------------------------------------
+So maybe just wanted to kind of clarify a couple of things on Health Care as there's been a lot of focus on Combat Arms. On the Health Care side, you've had margins down for several quarters now. I know, Monish, you always say that volume leverage is the main driver of margins, but at Health Care, that hasn't seemed to be the case most recently. So just wondering kind of when those Health Care margins turn around. Are they going to be up year-on-year in the back half?
+And also on Health Care, is the plan that -- it's levered at 3, 3.5x. Is the plan you'd get that sort of step 1, a big dividend, back to the RemainCo at that point when it spins out and then step 2, a year later, so you can start to monetize that just under 20% stake. Is that the way to think about the cash sort of from Health Care?
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [46]
+--------------------------------------------------------------------------------
+Yes. I think both great questions, Julian. I'd start with the first question on margins. As we told you, the EBITDA margins for the second quarter were 30%. As we have talked about before, when you compare prior, you have to take into account the Acelity acquisition and its impact on purchase accounting, et cetera, which depresses the margins. And that's why I would look at EBITDA, which is 30% in second quarter. For the year 2021, we ended at 31% EBITDA. So hopefully, that answers your question on that range.
+Back to, do we see it continuing to improve? Absolutely. I mean this is something that the business is doing a really nice job of continuing to manage inflation with price actions. They continue to drive productivity actions. And as the volume starts, which is back to your point, which is volumes drive the biggest leverage, as we are seeing elective procedures starting to go back up and hopefully, it doesn't get impacted by another wave of COVID, you're going to start seeing that business continue to drive the growth in that area.
+So that answers your question on margin. The team is quite focused on margin, quite focused on driving organizational efficiency through root cause. On your second question about how the dividend works, I'll start by saying this is still 15, 18 months away. But the way it will work at that moment in time when that spin happens, there will be a dividend payout from Health Care, which currently we are saying is going to be levered 3 to 3.5x with positioning for rapid deleveraging because of the strong cash flow that Health Care itself generate.
+As a part of that transaction, 3M will also retain 19.9% equity stake in our Health Care business that we can monetize over time. The whole purpose of -- the whole intent of this transaction is to be as tax-efficient and tax-free for which we will go ahead and file all the requirements that needed to make it tax-free -- and -- but we are in no rush right now to sell the stake once the spin happens, and we'll monetize it over time. And I think that gives us a lot more flexibility for us to pursue strategic options between the dividend that we get as well as the retained stake that we can monetize over time. Hope that helps, Julian.
+
+--------------------------------------------------------------------------------
+Julian C.H. Mitchell,  Barclays Bank PLC, Research Division - Research Analyst    [47]
+--------------------------------------------------------------------------------
+That's great. And then maybe a sort of more prosaic operating guidance question. So if I look at the new guidance, I think it implies sort of $2.70-ish of earnings per quarter in the second half. You did about $2.50 in Q2. I don't think FX is getting easier in the back half. Organic volumes probably not better in the second half given the macros.
+So just trying to understand sort of what do you think is getting better in that back half versus the second quarter or the first half kind of run rate, because you're starting out with that FX headwind. Maybe there's a little bit less of that China $0.11 COVID hit. Anything else you'd call out to drive that sort of step-up in earnings?
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [48]
+--------------------------------------------------------------------------------
+Sure, Julian. And I'll give you all the pieces, and I'll try to give you data between sequential and year-on-year. So if it's confusing, my apologies upfront. But I'll just start first by saying, yes, FX, you're right, continues to be a pressure. As I've said in my prepared remarks, for the third quarter, FX is at 5%. For the year, it is at 4%. So that actually adds additional pressure first half to second half.
+But back to your points on the positives and negatives. So we'll start by one, again, in my prepared remarks, I said China, we still came in with a backlog that we expect to clear in the second half. You'll see that in the third and fourth quarter. We came in $140 million down on a year-over-year basis. So there's recovery there.
+Secondly, if you look at build rates in automotive, first half versus second half, they are up nearly 9%. However, for the year, they are up 5% versus earlier we thought the whole year would be up 9%. We're continuing to see strong demand in semiconductor data centers and factory automation.
+Third, elective procedures, which were in that range of 85% to 90% in the first quarter moved up to 90% to 95%, we expect that to come back to 100% by the end of fourth quarter.
+And then lastly, GDP and IPI is still forecasted to be up 3% to 4% -- 3% for the year versus when we started the year, it was 4%. So for the second half, they're still projecting a GDP up. On the flip side, on the things, to your point, that have become negative, we talked about FX. We are still seeing the stubborn and evolving impacts of COVID.
+Supply chain and logistics pressures continue. We are going to see higher inflation in the second half, but we are managing that inflation with price and offsetting that. We are watching consumer behavior because the broad-based inflation is having an impact on consumers' purchasing power. And then we are seeing softening trends in consumer electronics, especially in TVs. But again, if you look at smartphones on a half-over-half basis, smartphones are supposed to be up around 7% to 8%. However, on a year-over-year basis, they're down 4%, okay?
+So I'm just giving you some data points and hopefully, that helps. And then the last one, Mike already talked about was geopolitical uncertainties, particularly in Europe. But with all that said, I just want to make sure you do understand the team is doing a great job of continuing to manage this, making sure we're doing whatever it takes to first deliver for our customers because that's our most important priority, spending cost discipline, but at the same time, continuing to invest in growth, productivity and sustainability.
+Because as we think about it, Julian, long term, all these trends will play themselves out. There are great areas for investment for New 3M, for Health Care, and we want to keep making sure we're investing for the long run. So all these actions that we are taking are all about setting both these businesses up to be successful in the long run. Sorry for the long answer, but I just want to make sure you got the data points.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+Our next question comes from Josh Pokrzywinski with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joshua Charles Pokrzywinski,  Morgan Stanley, Research Division - Equity Analyst    [50]
+--------------------------------------------------------------------------------
+Just a question on maybe kind of the perspective capital allocation strategy for RemainCo. You said kind of through the separation, no real change, but just given kind of the focus of the liabilities and the cash coming out with Health Care free cash flow margins being pretty high, any change in the way folks should think about something like a dividend policy going forward?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [51]
+--------------------------------------------------------------------------------
+Yes, Josh. I would say -- I'd start with we're continuing to focus on driving growth and our capital allocation priorities reflect that. And then they will remain unchanged. It's first and foremost, about investing in our business. It's about paying an attractive dividend, a high priority for us and continues to be so, looking at strategic M&A that can add value and deliver on greater opportunities for the company. And then it's returning capital to shareholders through share repurchases. And we continue to see that as our set of priorities as we go forward. 
+When you look at New 3M, it's going to be a very strong, focused, well-capitalized business. A leader in highly attractive markets, as we've been talking about on the call. We'll have tremendous cash flow in that business, a strong balance sheet, and as Monish just highlighted, with the proceeds from the spin and the 19.9% retained stake that we can monetize over time, it will get stronger. So we are -- we will be well positioned to continue to execute those capital priorities and continue to create value.
+
+--------------------------------------------------------------------------------
+Joshua Charles Pokrzywinski,  Morgan Stanley, Research Division - Equity Analyst    [52]
+--------------------------------------------------------------------------------
+Got it. That's helpful. And then just -- I know the historical kind of framework on 3M or the portfolio rationale was that a lot of the IP was domiciled at corporate. I think there's some more diverse assets in Health Care, maybe than some of the other industrial businesses. But are there any dissynergies by virtue of either some of the IP or manufacturing process or sourcing that kind of gets separated there when Health Care leaves?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [53]
+--------------------------------------------------------------------------------
+Yes, Josh, we've long talked about the benefit our businesses have in leveraging the fundamental strengths of 3M, and they've certainly been important to building the Health Care business. The technologies that we have are unique and differentiated technologies, our manufacturing capabilities, our global capabilities and our brands. And Health Care as you touched on, with our portfolio strategies, we've built a stronger Health Care business.
+We've done it with organic investments and sometimes leveraging some of those key technologies. We've added acquisitions, significant part of the business now with Acelity and M*Modal coming in as part of the business. We've also stepped in to really focus that business through the divestiture of drug delivery and soon the separation of the Food Safety business. So all of that has positioned Health Care not only to be a strong stand-alone company, well positioned to be able to execute those same strategies moving forward.
+There's always some connectivity to the technologies manufacturing at 3M. The -- I would say, the connection between Health Care and the rest of the company is more limited than the 3 businesses that will make up new 3M. We'll be able to manage that separation well, we think, especially with the focus that health care has on those specific markets. So -- it's been an important part of building it. We think it's well positioned with what we can do in the spin to be able to take it forward.
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [54]
+--------------------------------------------------------------------------------
+Josh, I just want to add a few more things to what Mike just said. We're going to have dedicated teams that are going to drive the separation. Also, just looking at precedent of other [spins] publicly plus some of the experience that we have had with our divestitures in the health care space, we believe the separation cost is going to be somewhere in the range of $1 billion to $1.5 billion that will get played out over time. Some of it will start now and some of it will play out over the next 24 months. But again, it's quite early in the process. The teams are starting to get ramped up. As we get and learn more, we'll definitely keep you posted.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+Our next question comes from Deane Dray with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Deane Michael Dray,  RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst    [56]
+--------------------------------------------------------------------------------
+A couple of cleanup questions here. The first, it just -- this wasn't clear, but is the Board considering any other divestitures or spin? Or is RemainCo 3M portfolio going to be as is on a go-forward basis?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [57]
+--------------------------------------------------------------------------------
+Yes, Deane. Our portfolio strategy, it's a continual strategy. We're always evaluating where we want to make change in our portfolio, adding through M&A, managing to optimize the value. So that's something I will continue really as we go forward. I talk a lot about New 3M. We really believe the 3 businesses that make up that New 3M company will be strong, well positioned for success in their markets. They will leverage well the technology to get the heart of 3M, the fundamental strengths of 3M.
+So it's -- it will be a continual process that we -- and strategy that's important. I think our portfolio strategy really complementing what we do with innovation. We're driving innovation, creating new solutions for customers, building new businesses. At the same time, portfolio management, make sure we're looking broadly at where we're creating the greatest value and how do we need to think differently about it. So that's not going to change as we execute through the spin.
+
+--------------------------------------------------------------------------------
+Deane Michael Dray,  RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst    [58]
+--------------------------------------------------------------------------------
+Got it. And then -- just want to understand, is there a scenario similar to what you're doing in Combat Arms for PFAS where you would consider a similar bankruptcy structure? And just related to this, it wasn't clear in the filing today. Maybe this is a technical question for Kevin, but are you -- is this being filed under a 105(a) bankruptcy structure? Because it certainly sounds that. Because that would require all of those sign-ups and approvals, which would suggest there's going to be an extended process here to get to the finish line.
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [59]
+--------------------------------------------------------------------------------
+Yes, Deane. Maybe I'll take the PFAS part of that question, and then I'll let Kevin answer the 105(a) question. So on PFAS, we continue to be focused on practically managing our environmental stewardship and stepping up and following through on our commitments there.
+We're vigorously defending ourselves in the cases that we have with PFAS, and we're looking to reasonably resolve, remediate where we can. We expect PFAS is going to play out over years, and I would probably leave it at we're well advised of our options.
+
+--------------------------------------------------------------------------------
+Deane Michael Dray,  RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst    [60]
+--------------------------------------------------------------------------------
+Understood. And Kevin?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [61]
+--------------------------------------------------------------------------------
+Yes. So we believe that 105(a) does provide authority as well as other provisions of the bankruptcy code given the Aearo Technologies liabilities that are included. And so our filings are being completed today, and those will spell out the various bases for seeking the relief that we've asked the chapter 11 court to provide.
+
+--------------------------------------------------------------------------------
+Deane Michael Dray,  RBC Capital Markets, Research Division - MD of Multi-Industry & Electrical Equipment & Analyst    [62]
+--------------------------------------------------------------------------------
+Will you also pledge your insurance assets?
+
+--------------------------------------------------------------------------------
+Kevin H. Rhodes,  3M Company - Executive VP & Chief Legal Affairs Officer    [63]
+--------------------------------------------------------------------------------
+So our insurance assets are part of the ability to -- of funds that we can tap into to fund the trust, if those assets will be provided as well as other assets from the company to provide the trust. And I just -- one point to clarify that it's the Combat Arms liabilities as well as some legacy, some discontinued Aearo Technologies respirator and mask claims, which are part of the filing as well. Some of those are for asbestos exposure, which are under 524(g) of the code as well.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+Our next question comes from Nicole DeBlase with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Nicole Sheree DeBlase,  Deutsche Bank AG, Research Division - Director & Lead Analyst    [65]
+--------------------------------------------------------------------------------
+Just maybe a couple of questions on the business. I mean looking at inventory, how would you categorize inventory in the channel versus what's ideal? And I think probably the biggest question would be around how you would view your consumer inventory.
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [66]
+--------------------------------------------------------------------------------
+Yes, Nicole. It's something we watch closely always. It's something that gives us a good indication of the sell-through of each of our businesses. There are certainly some areas that we've seen some inventory buildup there related to COVID lockdowns, as an example. We've added some inventory and built some inventory ahead of some ERP go-live actions that we're taking.
+When we look at the channel inventory, it's been relatively stable. It's having to react to the same kind of supply chain challenges that we are seeing and react to it, disruptions in supply logistics challenges. So it's a little more dynamic than usual, but pretty well aligned with what we're seeing in terms of demand.
+We're watching Consumer closely. There was elevated inventory in the channel as part of that. That's something that has been very publicly talked about that retail leaders are working through. We're seeing some of that as well. We still see strong sell-out point-of-sale demand there. So something that we're watching closely. And again, it's -- I would say it's more dynamic, but maybe except for something like retail inventory, pretty well in line with expected demand.
+
+--------------------------------------------------------------------------------
+Nicole Sheree DeBlase,  Deutsche Bank AG, Research Division - Director & Lead Analyst    [67]
+--------------------------------------------------------------------------------
+Got it. And then just a follow-up. On price cost, so some kind of key commodities have started to come down. At what point could that start to impact your margins positively? Like is that as soon as -- could impact the back half of 2022? Or is that more of a 2023 margin dynamic at this stage?
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [68]
+--------------------------------------------------------------------------------
+Yes, Nicole. We watch this closely. As you know, we have exposure to multiple feedstocks. Luckily not one of them is overly material. You look at polypropylene, you look at resin, you look at logistics, airfreight costs, et cetera. The thing that we haven't yet seen is sustained reduction. So you get data points, like you've seen the data points of oil come down. But how that translates down to the feedstocks, because we don't buy crude oil, is going to play itself out.
+So that's what we are watching. And so I don't know whether it impacts 2022 or 2023. But what we do see still right now is there's broad-based inflation all around that is getting pushed down as tiers are getting involved. And as I told you, we have updated our guidance to $750 million to $850 million of inflation for the year, which is higher than what we thought coming into the year. But at the same time, we are managing that inflation through price. And I think what we'll have to watch is do supply chains get sustainably improved versus 1 or 2 data points.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+Our last question comes from Brett Linzey with Mizuho Securities.
+
+--------------------------------------------------------------------------------
+Brett Logan Linzey,  Mizuho Securities USA LLC, Research Division - Executive Director    [70]
+--------------------------------------------------------------------------------
+Congrats on today's announcements.
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [71]
+--------------------------------------------------------------------------------
+Thanks, Brett.
+
+--------------------------------------------------------------------------------
+Brett Logan Linzey,  Mizuho Securities USA LLC, Research Division - Executive Director    [72]
+--------------------------------------------------------------------------------
+I appreciate the color on the separation cost, the $1 billion to $1.5 billion. But I was hoping you could provide some color, insight on what the go-forward standup corporate structure costs will be for the 2 entities.
+
+--------------------------------------------------------------------------------
+Monish D. Patolawala,  3M Company - Executive VP and Chief Financial & Transformation Officer    [73]
+--------------------------------------------------------------------------------
+Yes. Sure, Brett. So again, I'll give you benchmark data. So we have a placeholder for the Health Care business. There's a bench using standup costs that's approximately $100 million is what we said is public company cost for that size of company. Similarly, right now, what we have penciled in is for New 3M to have around 1.5% of revenue as incremental cost or stranded costs.
+However, as Mike and I have told you multiple times, we are all focused on org efficiency. We are still very early in the process, and we're going to keep working this down. We got time until the spin gets done. So we're going to keep trying to be as efficient as we can and make both companies continue to grow above macro (inaudible) having margin expansion and strong cash.
+
+--------------------------------------------------------------------------------
+Brett Logan Linzey,  Mizuho Securities USA LLC, Research Division - Executive Director    [74]
+--------------------------------------------------------------------------------
+Okay. Got it. And just one last one on the Belgium facility. So you reached the agreement in early July on some of the actions, the new commitments. Could you just provide us with an update how that facility production is ramping? And are you still partnering with a third party there? Are you going to get back to kind of full run rate in terms of your internal sourcing strategy by the end of the year?
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [75]
+--------------------------------------------------------------------------------
+Yes. Brett, we are in the process of restarting the manufacturing operation there. It takes some weeks to do that. We reached the agreement. We were pleased with the outcome of the cooperation that we've had with the local authorities there to resolve the matters and move ahead. So we'll be ramping up to full production here soon. So we're staying in touch with our customers, making sure everybody is aware of our time lines, but it's -- we're in the middle of that ramp up.
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+That concludes the question-and-answer portion of our conference call. I will now turn the call back over to Mike Roman for some closing comments.
+
+--------------------------------------------------------------------------------
+Michael F. Roman,  3M Company - Chairman & CEO    [77]
+--------------------------------------------------------------------------------
+In summary, we are positioning 3M for the future to create more opportunity and greater certainty. There will be 2 world-class, well-capitalized public companies. We will work to efficiently and equitably resolve our Combat Arms litigation, and we will maintain our relentless focus on delivering for our customers and shareholders. We remain focused on driving growth and margin expansion and generating strong cash flow. We're excited about the new opportunities to apply 3M science to life. Thank you for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [78]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, that does conclude the conference call for today. We thank you for your participation and ask that you please disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

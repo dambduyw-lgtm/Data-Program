@@ -1,0 +1,648 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2025 T-Mobile US Inc Earnings Call
+APRIL 24, 2025 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Peter Osvaldik
+   T-Mobile US Inc - Chief Financial Officer, Executive Vice President
+ * Cathy Yao
+   T-Mobile US Inc - Senior Vice President, Investor Relations
+ * G. Michael Sievert
+   T-Mobile US Inc - President, Chief Executive Officer, Director
+ * Srinivasan Gopalan
+   T-Mobile US Inc - Chief Operating Officer
+ * Michael Katz
+   T-Mobile US Inc - President - Marketing, Strategy and Products
+ * Callie Field
+   T-Mobile US Inc - President - Business Group
+ * Jonathan Freier
+   T-Mobile US Inc - President - Consumer Group
+ * Ulf Ewaldsson
+   T-Mobile US Inc - President - Technology
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Benjamin Swinburne
+   Morgan Stanley - Analyst
+ * Craig Moffett
+   MoffettNathanson - Analyst
+ * James Schneider
+   Goldman Sachs - Analyst
+ * Peter Supino
+   Wolfe Research - Analyst
+ * Jonathan Chaplin
+   New Street Research - Analyst
+ * John Hodulik
+   UBS Equities - Analyst
+ * Kannan Venkateshwar
+   Barclays - Analyst
+ * Timothy Horan
+   Oppenheimer & Co., Inc. - Analyst
+ * Gregory Williams
+   TD Cowen - Analyst
+ * Samuel McHugh
+   BNP Paribas Exane - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon, everyone. (Operator Instructions) I would now like to turn the conference call over to Cathy Yao, Senior Vice President of Investor Relations for T-Mobile US. Please go ahead.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Welcome to T-Mobile's first-quarter 2025 earnings call. Joining me on our call today are Mike Sievert, our President and CEO; Peter Osvaldik, our CFO; as well as other members of the senior leadership team.
+During this call, we will make forward-looking statements, which involve risks and uncertainties that may cause actual results to differ materially. We encourage you to review the risk factors set forth in our SEC filings. Our earnings release, investor fact book, and other documents related to our results as well as reconciliations between GAAP and non-GAAP results discussed on this call can be found on our Investor Relations website.
+With that, let me now turn it over to Mike.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Cathy. Hi, everybody, thanks for joining. We're coming to you from Bellevue, Washington today. Got the whole team here.
+And first of all, let me welcome Srini Gopalan, our new Chief Operating Officer, to the team. And can I still say new because you're already making such a big impact? Srini certainly joining us at one of the most exciting times in our history. Welcome to the team, Srini.
+
+--------------------------------------------------------------------------------
+Srinivasan Gopalan,  T-Mobile US Inc - Chief Operating Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Mike. It's great to be here.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+
+          So turning to our results. This was another really strong quarter, showcasing T-Mobile's sized performance versus peers and versus the high expectations we set as well.
+Listen, I get a lot of questions about how we can be this consistent even as the macro environment constantly changes delivering industry-leading customer, service revenue and EBITDA growth yet again. And the answer is simple. It's that our team is relentless when it comes to execution, innovate behalf of customers. And importantly, we are building on T-Mobile's durable advantages of the best network, the best value, and the best team's obsession with delivering for customers and for shareholders quarter after quarter.
+Let's start with wireless. It is all about growth with even more customers coming to T-Mobile in Q1 this year than last year. In fact, we set a new record with our best ever Q1 for total postpaid net additions. Postpaid gross additions were also a Q1 record. In fact, you'll recall that last year, '24, our greatest growth year ever. And yet gross additions were up year-over-year this Q1 versus that year in every single category, across total postpaid, phones, non-phones, and even 5G broadband. This is an important indicator showcasing that customers continue to choose T-Mobile at higher and higher rates.
+We also led the industry once again in postpaid phone, adding 495,000. And importantly, we did it while growing our share of households, not just in solar markets and rural areas, but across the top 100 markets as well. And our momentum is equally strong for T-Mobile for Business, where we continued to lead the industry in both total postpaid and postpaid phone net additions while adding the most ever customers in enterprise, a record quarter.
+Switching back to consumer, our industry-leading value prop continues to encourage new customers to self-select up the rate card. 60% of lines on new accounts continue to load on to our premium plans. That's about double that of our current base. This contributed to postpaid ARPA growth of nearly 4%, our highest Q1 in eight years.
+And we're not slowing one bit on the value and innovation leadership that customers love about T-Mobile. Just this week, we unveiled the latest value propositions from T-Mobile, two very simple choices that we call experience more and experience beyond. Our new experience plans are the best expression of T-Mobile, offering exactly what customers are seeking today. And our new offers are designed to make it even easier for customers to compare and understand the superior value that T-Mobile delivers.
+Okay. Turning to broadband. I'll start with our 5G broadband offering. For the 13th quarter in a row, we led the entire broadband industry and customer growth with 424,000 net additions. We achieved multiple new records from our lowest 5G broadband churn ever to adding the highest ever net business high-speed Internet customers.
+As you can see, our new pricing construct, which is aligned with our mobile offerings on good, better, best tiering is resonating really well with customers. While at the same time, we saw our highest ever Q1 ARPU growth in broadband, showing that the business is in a really good spot.
+Let's turn now to T-Fiber. With the completion of our transaction on April 1 for Lumos, we're now set to officially launch T-Fiber later this quarter. something that's been in pilot for the last 2-plus years. This is the beginning of something great. Another step on our journey of profitably serving even more broadband customers, leveraging our many go-to-market strengths, including our million fixed wireless waitlist. And we can't wait to close our Metronet transaction soon to further expand T-Fiber and bring better broadband choices to more Americans.
+As always, our ability to take share is enabled by our world-leading 5G network, where we have the best assets and a multiyear lead. And yet, we still set pace on implementing the most advanced customer-facing technology. We're excited today to announce that T-Mobile is now the first and only carrier in the country to roll out 5G advanced nationwide, which is enabled by our nationwide 5G stand-alone core. 5G advanced is faster and more dynamic and more efficient. We achieved a record 6.3 gigabits per second download speed in a recent real-world field test.
+And we're also able to better serve our business and customer -- government customers with improved slicing and lower latency. And of course, third parties just continue to affirm our leadership with big awards coming in from both OpenSignal and RootMetrics yet again.
+Now as cool as all this sounds, I want to be clear that we aren't doing these things just to see if we can. We implement the technology advancements at this pace because it creates a superior customer experience, enabling us to squeeze more customer-facing value out of every capital dollar we spend. This is just fundamental to our approach. And it always has been ever since we were a lot smaller, and it remains a core advantage today.
+Speaking of, we continue to rapidly roll out our beta of Now hundreds of thousands of active users. I'm going to remind you T-satellite Is the only mobile phone satellite network that keeps you connected automatically. No apps to open, no searching for a connection, phone pointed at the sky, trying to get a message out.
+And most importantly, no missing messages if you leave the footprint of your terrestrial network without even knowing it. That's our goal. This is a one-of-a-kind service. And our aim is simple, to make T-satellite just work, so you are always connected and reachable even with your phone still in your pocket.
+Now once in a while, we break news on this broadcast. And I want to let you know that after gauging the incredible response from customers, including broader-than-expected interest from competitors' customers, we've set our final launch pricing for T-satellite at just $10 a month. Except the course for our experience beyond and go 5G plans, that will include it for free. And we're going to honor this price for AT&T and Verizon customers as well. Because this is the only place they can get a service anything like this with over 550 satellites in service and count. Commercial service starts in July, and this Gen 1 pricing will be good for at least a year forever.
+Okay, shifting gears. We're not only innovating in network, but a big part of our exciting growth journey centers on a customer experience with digital and AI. Our flagship digital platform, T-Life is clearly resonating with customers. Compared to just last quarter, we've nearly doubled the percentage of our postpaid phone upgrades completed digitally with well over half of upgrades being digital by quarter's end and growing. And our new intent CX AI features pioneered with OpenAI are already significantly reducing the need for customers to reach out to our care team.
+We're solving customer pain points before they happen and meeting our customers exactly where they want. Based on these early results, the audacious multiyear goals in this area that we set out last fall appear to be more than on track.
+Okay. I want to come back to our underlying theme of delivering thoughtful profitable and durable growth. Our best-in-class customer results also translated into industry-leading financial growth across multiple metrics again in Q1. Postpaid service revenues once again grew 8% year-over-year. And overall service revenues grew 5%. That's a rate that is more than triple that of our next closest competitor.
+Core adjusted EBITDA also grew 8% year-over-year, double the average of our wireless peer group. We also delivered $4.4 billion in adjusted free cash flow, a new Q1 record, translating to, once again, industry-leading adjusted free cash flow conversion from service revenues of 26%, a new Q1 record and about double that of our closest competitor.
+We have had a powerful start to 2025. Our story is so simple, and it's consistent. We have built sustainable long-term durable advantages, allowing us to continue to offer a highly differentiated value proposition that's right on point. Our execution, our focus on customers and on setting the standard in innovation and technology transformation are the things that continue to set us apart. We have always aimed to deliver thoughtful, profitable and durable growth, and that's exactly what we continue to do across every area of the business, again in Q1.
+And let me end by saying, we are far from complacent. This team right here, along with our thousands of coworkers come to work every day and act like we are running for our lives. Constantly coming up with new customer ideas and new ways to improve how we serve them to smash the pain points that still make this industry notorious. At T-Mobile, we call this mindset, we won't stop. So we won't stop.
+And for those of you that are counting on us, and I know you are, I want you to know we won't slow down either.
+Okay. Peter, over to you, to give an update on our guidance.
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [6]
+--------------------------------------------------------------------------------
+
+          All right. Thanks, Mike. As you can see, 2025 is off to a strong start. So let me provide an update of our expectations for the full year, with our financial guidance now also reflecting the inclusion of Vistar, Bliss and Lumos.
+Starting with customers, we continue to expect to deliver total postpaid net customer additions of between 5.5 million and 6 million of approximately half will be postpaid phone net additions. Both of these remain our highest ever expectations at this point in the year. We're also increasing our postpaid ARPA growth expectations to be at least 3.5% for the full year as we see continued deepening of customer relationships. This is up from our prior guidance of around 3%. And at the same time, we expect postpaid phone ARPU to grow at 1.5% this year even higher than last year's growth of 1.1%.
+With the higher expectations of ARPA and ARPU, we now expect 2025 organic service revenues to grow at an even higher rate than where we guided last quarter. We expect core adjusted EBITDA to be between $33.2 million and [$33.7 million] for the full year, up just over 5% at the midpoint.
+Turning to cash CapEx. We continue to expect cash CapEx to be approximately $9.5 billion. Finally, we now expect adjusted free cash flow, including payments for merger-related costs, to be in the range of $17.5 billion to $18 billion, driven by both margin expansion and capital efficiency and resulting in industry-leading service revenues to adjusted free cash flow conversion.
+All right. Let me also spend a moment providing some more color on the close of the JV transaction, which acquired Lumos. Going forward, the consumer experience and retail business is fully owned by us, and we also share in 50% of the JV economics. We will treat the acquired customers as a base adjustment in our second quarter results. And as we fuel customer growth, we expect the retail business will be slightly accretive to service revenues and neutral to adjusted EBITDA and adjusted free cash flow this year.
+Additionally, our 50% equity stake in the JV will be reported below the line as an equity method investment and is expected to be immaterial to net income this year. After closing Metronet, we will provide you with a more comprehensive update regarding the contribution of both of our fiber JVs.
+To sum it all up, in Q1, we continue to show we can consistently execute and continue to deliver outsized and profitable growth.
+And with that, I will now turn the call back to Cathy to begin the Q&A. Cathy?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, Peter. Okay, let's get to your questions. (Event Instructions) We will start with a question on the phone. Operator, first question, please.
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+
+          Ben Swinburne, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Benjamin Swinburne,  Morgan Stanley - Analyst    [3]
+--------------------------------------------------------------------------------
+
+          I guess two questions. Maybe I'd love to hear from Srini. I know it's been a short period of time, but you know the company well. Now that you've been in the seat, what do you think is the biggest opportunity ahead of T-Mobile? Anything you think the market, in particular doesn't fully appreciate.
+And I don't know if I can get more out of you guys on T-Fiber, but now that you closed Lumos and you're going to start selling the product a little bit more about sort of the go-to-market and expectations for kind of driving that business into the base, especially the fixed wireless waiting list in your existing wireless customer base. It seems like a pretty big opportunity out of the gate here and how you closed that. So I would love some more color on Lumos now that it's done.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Ben. Well, we'll start with Sirni and then were going to go over to Mike Katz.
+
+--------------------------------------------------------------------------------
+Srinivasan Gopalan,  T-Mobile US Inc - Chief Operating Officer    [5]
+--------------------------------------------------------------------------------
+
+          Okay. Well, Ben, thanks for that question. Yes, it's been about 50 days in. And like you said, I'm not new to this company. I've been on the Board for well over four years, but just some early impressions, nothing quite prepares you for being here.
+It's this incredible combination of a focus on kind of smashing customer problems, huge intensity and commitment to quarter-to-quarter delivery. But also, an incredible boldness for the vision and making a step change difference to this industry and to our performance. So I've really enjoyed my first few weeks here.
+To your specific question on the biggest opportunities, look, I think this company has got something incredibly special in terms of its culture of matching customer problem. I think the big opportunity we have is taking that ultra putting that together with what we have now as easily the best network in this industry along with the huge strides that we've made in our digital capabilities. And Mike talked refly about them, more than half of our upgrades now being done through T-Life. I think the real big opportunity is to bring together this culture, this incredible thing that we've built, along with the best network and now world-class digital technology to continue smashing customer problems in a different and more enabled context.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          Love it. Okay. T-Fiber go-to-market approach, how can we expect, Mike?
+
+--------------------------------------------------------------------------------
+Michael Katz,  T-Mobile US Inc - President - Marketing, Strategy and Products    [7]
+--------------------------------------------------------------------------------
+
+          Yes. No, thanks for the question, Ben. We agree -- we're also really excited about this, and we think it's a big opportunity. And for exactly the reasons that you just said, the assets that we have, we think, make a real difference as we get into the T-Fiber business. And Mike said that we're going to do our launch later this quarter.
+You'll see us leverage some of these capabilities in our go-to-market approach, things like our brand and leveraging our national advertising campaigns we already do for our broadband business today. Things like on the ground distribution. And if you look at a business like Lumos, they've never had the benefit of a big retail distribution in the ground in those markets with big customer flows coming into them that will immediately be able to take advantage of. The customer list with HSI, because HSI is a fallow capacity business. We do have customers, like Mike said, over 1 million that are sitting waiting from T-Mobile.
+Some of those customers happen to be in these markets that we'll immediately be able to serve. So you're going to see us start to and begin once we do our chance to take advantage of those and bring people straight on T-Fiber.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [8]
+--------------------------------------------------------------------------------
+
+          Operator, time for the next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Sam McHugh, BNP Pariba.
+
+--------------------------------------------------------------------------------
+Samuel McHugh,  BNP Paribas Exane - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Sorry, I was on mute. I was saying Srini as well. A couple of questions. One is just on the price up. You managed them incredibly well last year in terms of churn, but some of your peers have struggled more recently, I think, with price ups.
+So as we're looking into Q2, should we think about a pretty decent step-up in churn rates? I guess that's question one. And two, it looks like you could have gone a bit heavier on kind of marketing and promos and trying to win customers in Q1 as we can see the strong EBITDA result. Did you hold back in the first quarter? I'd love to hear your views on kind of industry dynamics.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [11]
+--------------------------------------------------------------------------------
+
+          Thanks, Sam. First of all, on the pricing, what we are out there doing right now is really just completing a project that we started last year to get after some long-outdated plans. First, price increase of this kind in more than a decade. And I think because of that, our customers have a lot of it. I think they understand, especially since we take our time in a test and learn method like we've been rolling this out, we understand how to talk to them about it and explain to them what's behind it.
+And they're excepting it. And so that's gone really well. It's only affected some customers, but it is millions of legacy plans. And the churn or fetter see from that are temporary in nature. I mean, the notifications were in 1Q.
+The bill as changes in Q2, so you see the effects across both quarters. So far, it's coming in just as expected. And again, that shouldn't surprise you because we've been doing this in such a stepwise fashion over a period now of many months of rollout.
+As it relates to promotional intensity, my personal view, and I'd love to turn to Jon Freier next. Is that the nature of competition keeps changing, but the extent of it isn't changing the way a lot of investors think. This is a kind of a misunderstanding out there. I want to be clear that like overall in the industry, while it's competitively intense, the industry overall is more successful now than it has ever been. Let me think about that.
+Overall industry cash flows over the past 12 months are just about 50% higher than 2022 levels, just 3 years prior. That's amazing. And that's on the length of 5G, and it's not on the back of customers. Customers are experiencing 3x more data and 4x better speeds across the industry, not T-Mobile, than just two years ago for every dollar that they spend. So customers are getting more. The industry based on cash flows, which is cash is king, we're successful than it has ever been, even in the environment of the promotional intensity that you're asking about.
+Specifically, on Q1, in every single quarter, we can do more than we do, and we're guided by discipline that allows us to go after the ads that we think are going to make the biggest long-term difference to our business so we can really serve people over the long haul. Maybe you can talk just a little bit about the competitive dynamic that we saw in Q1, John. And how we were able to deliver these outsized results.
+
+--------------------------------------------------------------------------------
+Jonathan Freier,  T-Mobile US Inc - President - Consumer Group    [12]
+--------------------------------------------------------------------------------
+
+          Yes. So as everybody knows, as you can see from the release, so it was just a nominal quarter for us, a 1.3 million total postpaid net additions and leading in the overall gross adds across every single postpaid category. And like Mike said just a few moments ago, the caution is always changing. Sometimes you're competing a little bit more on pricing, on nutritional plans. Sometimes it's a little bit more on devices.
+And what you see in this dynamic is more of a promotional on devices kind of competitive intensity in the marketplace. But that's been pretty generally consistent from the last several quarters. And what we have found is customers continue to love a great product, a deep value in paired with an angle experience. And that's why you're seeing erosiveness that you're seeing from us quarter after quarter after quarter and not just in some of our high-growth areas but also across, like Mike said in his prepared remarks, across our top 100 markets and across smaller markets, rural areas even in our top 10 markets.
+We're still growing across each one of the cohorts that we talked about in our Capital Markets Day where we're number three in share position or number two in share position or perhaps even number one in share position, we're growing across each one of those categories and continuing to find ways to win that's resonating with customers.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [13]
+--------------------------------------------------------------------------------
+
+          I think a lot of people would be surprised to hear we're still gaining share in the top 100 markets versus a year ago. And we're not, but some are. And it just goes to the strength of the differentiation of the value proposition. I think T-Mobile is in a spot right now where it's more differentiated versus the competitors than it ever has been in our history. With the strength of our 5G network, all the things we're doing with T-satellite, the gene kind of benefits of membership benefits that we're able to convey to people and the day-to-day superior experience that only T-Mobile people provide.
+And that's showing up an all-time record Q1 customer results. So my general sentiment on it is there's a great neighborhood this industry, and T-Mobile is the best house in it (inaudible) on the EBITDA result.
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [14]
+--------------------------------------------------------------------------------
+
+          Yes. I mean it's just -- as Mike said, it's every -- the question of are we slowing down in terms of what we could have gone and get is absolutely, we optimize every quarter as we've long said, for the most value creation in terms of the number of nets.
+And Q1, much like on customer growth, much like on subscriber growth, much like on account growth or service revenue growth was very strong from an EBITDA perspective. And that allowed us, course, with the M&A activity as well to increase the guide for EBITDA for the year and have confidence in delivering that guide. As you know, one of the things we're doing this year is investing for some of those amazing opportunities that we laid out a capital market that underpinned the 2027 guidance that we gave.
+And we see a lot of that, whether it's now shifting to new macro site build on a network or continuing to invest in digitalization and the opportunities that that unlocks from a customer value perspective and love and secondarily the cost elements of it. We'll see a lot more of those happen as we get into Q2 and the balance of the year. So that's kind of shaping as I think about EBITDA, but very pleased, obviously, with the Q1 results across all the financial metrics.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [15]
+--------------------------------------------------------------------------------
+
+          Operator, next question please.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Peter Supino, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Peter Supino,  Wolfe Research - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Two, if I may, one on Lumos and Metronet and UScellular. You have a lot of future EBITDA that is coming over the next several years and not in your long-term guidance. You've budgeted the cash for those excluded from your buybacks in your long-term guidance and I wondered when and how you might incorporate those acquisitions in your EBITDA guidance? And then kind of on a parallel M&A track wondering if you could talk a little more about cable assets as theoretical strategic assets for T-Mobile, especially as the number of fiber assets dwindles?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+
+          We'll turn to Peter on the first one, maybe I'll pick up the second one.
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [19]
+--------------------------------------------------------------------------------
+
+          Yes. I mean that's just simple. Honestly, we'll update you subsequent to as and when those acquisitions close. So both for Metronet, as I said earlier, we'll give you kind of a bigger picture around the total T-Fiber strategy once we close that. And UScellular, we'll give an update to the initial figures that we gave in the press release early on as and when we close the transaction.
+But you're absolutely right. It's very exciting to be in a position where those strong 2027 guidance figures that we gave actually excluded all of these elements of M&A. So that's something that includes some of the includes the cash outlays when we talk about the yes, the capital investment profile.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [20]
+--------------------------------------------------------------------------------
+
+          And we'll do that just like we did it for Lumos. So we closed Lumos this quarter. As you saw in our guide, we indicated to you that this will be slightly accretive to service revenues. It will be about neutral to EBITDA this year because it's a growing business, a subscription business. And then overall, between that and our positive momentum on ARPA, we're seeing positive upside to our prior guide on service revenues, probably speaking in closer to 6% than the prior guidance of around 5% based on both those dynamics.
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          Exactly.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          So second question, do we want a cable asset? It's hard to answer that one. I don't want to sort of speculate on rumors all that stuff. But I think we've kind of mostly shown our hand here. Look, we're a growth company.
+I mean, we are a growth company. And so what you show -- what you see is our interest in 5G broadband that has made us the fastest growing overall broadband company in America for 13 quarters. And you've also seen us show our hand in terms of wireline Internet as having an increased interest relative to other things in pure-play fiber. Why? Because it's a growth category.
+And we think it's the most elegant way to serve customers. It's for cost. It's a superior product and it's more consistent with the way we run our company. So I can't talk broadly about rumors and speculation and all that. But our strategy is pretty clear here, and I love the hand we have because we are leaders in broadband today intend to continue to be -- and I think T-Fiber continue to play a bigger and bigger role slowly and systematically.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [23]
+--------------------------------------------------------------------------------
+
+          Operator, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          John Hodulik, UBS.
+
+--------------------------------------------------------------------------------
+John Hodulik,  UBS Equities - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Mike, it seems like churn is up sort of across the board from the wireless carriers here. It seems like the is driven by price actions. So two questions. So first of all, in the past, you've said a bigger switching pool is good for T-Mobile because it allows you to take share. Do you still believe that's the case, number one.
+And number two, do you think we push a little hard on pricing because it does seem like you're seeing a little bit more than I would have thought for the entire industry. Have we pushed as far as you think we can go? And then one quick follow-up. Are you guys seeing any macro pressure in the prepaid market or on the wholesale market that is starting to emerge from what we're seeing in the economy?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [26]
+--------------------------------------------------------------------------------
+
+          Okay. Great. I'll start. Maybe we'll turn back to John on the macro pressure on prepaid and question. So overall, right, you saw across the industry churn was just large and a little elevated.
+And I think there's a number of dynamics there, that probably have more to do with kind of macro questions than competition. I think people -- there's a certain element out there where people are in a time of uncertainty about the future grabbing what they can afford now. And so you're seeing kind of some amount of probably move forward of upgrades and switching. And so churn was a little elevated for everybody and upgrades seem to be happening at pace. And I don't know if that's tariff questions or what's the economy going to look like tomorrow questions.
+I'd say whenever I get asked about the economy, my first answer is we're not really people to ask. I mean we're probably the least canary in your coal mine because people feel so strongly about this category, they will find a way to keep paying their bills. But there might be a little bit of a pull-forward dynamic. And of course, it is competitive out there. But as I said in response to a prior question, I think the nature of that competition just keeps changing. By the way, in the first moment when it changes, sometimes again, you see a little bit of a pull forward, and there was a lot of focus on devices over the past few months.
+Your question about kind of how much more of this can we take -- answer that other than it is competitive. And again, when you look at the lens of the company's overall history and their performance, it's similarly competitive because the company's overall are delivering all-time record success. Certainly, T-Mobile leading the way in our financial growth on things like service revenues, EBITDA and cash flow margins.
+Switching to your second question on -- and is switching still an opportunity for us. Absolutely. And I think you can see that in our all-time record results in Q1 that corresponded with the question. And then what's happening in prepaid, John? And is there anything about the macro environment that might be industry prepaid that or what are your observations.
+
+--------------------------------------------------------------------------------
+Jonathan Freier,  T-Mobile US Inc - President - Consumer Group    [27]
+--------------------------------------------------------------------------------
+
+          Yes, John, thank you for the question. What's happening in our prepaid business is really great. This question that got asked last time in terms of what might be happening with immigration. And I responded, I didn't think that a whole lot was going to be affecting our is because we have a premium monthly subscription business for the most part in our prepaid segment, largely led by our Metro by T-Mobile brand. We're seeing nearly 25.5 million prepaid customers now, and that's turned out to be exactly the case.
+There's been some uncertainty out there that's affecting some transactional pre-brand that's more in other companies versus ours. Our business has been very, very stable in this area. And as you saw that we had another quarter of growth, when you look at the last 4 quarters, 350,000 postpaid net adds over the last 4 quarters, the ticker quarter that we just finished nearly 50,000. In churn, that's actually reduced also on a year-over-year basis by 7 basis points. So we're seeing nice stability in our overall prepaid business.
+What's also happening when you look at any kind of delinquency rates or payment arrangements or anything that's happening with the consumer, none of that's really changing in our business. So it's very nice and stable. As Mike said, we might not be the first canary in the coal mine to tell you what's happening because people find this category so indispensable. And if there ever is any kind of change and there's more of a value orientation where we're ready to serve customers because we know how to serve customers in that kind of an environment as well. So yes, very, very pleased on the overall prepaid business and what we're seeing.
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [28]
+--------------------------------------------------------------------------------
+
+          And I think, John, you asked also about wholesale, and we're seeing there a great question because there's obviously a lot of moving pieces in our wholesale and other service revenue component. And what we're really seeing in underlying trends. So there's long expected things happening there with respect to DISH and track phone, and those are declining as we anticipated.
+What we have in the underlying business, if you take away the expected addition track phone declines is actually growth. And when you take that and couple it with the other service revenue, which is really T ads as well as the M&A from Vistar and Bliss, we believe Q1 was really the low point for us in wholesale and other service revenue, and we anticipate that growth to continue throughout the year.
+And probably we'll end full year in that [2.9 billion-ish] range between the underlying holes growth, again excluding DISH and TracPhone long expected and then T-ads, including SynVistar and our ability to scale those.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [29]
+--------------------------------------------------------------------------------
+
+          Operator, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          James Schneider, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+James Schneider,  Goldman Sachs - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          I was wondering if you could maybe contextualize the contribution you're expecting in broadband in your overall postpaid net additions for the year, do you think you have maintained this pace of high-speed Internet fixed wireless additions above Forland? Maybe give us a little bit of on how much fiber adds you might expect once you close both Lumos and now Metronet by the end of the year or some kind of run rate? And then as a sort of a second question, I want to sort of ask the environment you're seeing right now in terms of gross adds thus far in Q2. Some of your competitors have talked about an elevated gross add environment actually accelerating into Q2. I'm wondering if you're seeing the same thing?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [32]
+--------------------------------------------------------------------------------
+
+          Okay. Great. Jim, thanks. I'm going to turn to Mike. I mean we probably aren't going to give you too much.
+We don't really guide on these metrics, but at least we can tell you a little bit about how we're feeling about it and what we're seeing on 5G broadband and a little preview on T-Fiber.
+
+--------------------------------------------------------------------------------
+Michael Katz,  T-Mobile US Inc - President - Marketing, Strategy and Products    [33]
+--------------------------------------------------------------------------------
+
+          Yes. I mean what we're seeing in 5G broadband is just fantastic. And I think the team that runs this has just done an exceptional job. Mike mentioned in his opening comments, 13 quarters in a row and 5G broadband being the leading broadband provider in this category. And you've heard me say this before, so I'm sorry if you're getting tired of it, but the reason for that, first and foremost, is because it's a -- broadband is an essential category for people, and they're not going to compromise.
+And 5G broadband is meeting the needs of millions and millions of customers across America. And that's really what's driving the growth for us in this category. And you're seeing that reflected in things like churn. Mike mentioned upfront, this is the lowest churn quarter that we've seen in our broadband business. You're seeing it in our We've long been the leader in NPS scores in our 5G fixed wireless business, and that lead is growing.
+And we have the biggest delta between us and the other categories in Q1 that we've ever had. You're also seeing -- we made some adjustments on pricing at the end of the year. Mike mentioned the ARPU gains that we had year-over-year. You're seeing customers like we see in our postpaid portfolio, self-select into the broadband plans that offer them more and more value. So this business is going great.
+And it's one of the things like we talked about when we has given us so much about our opportunity to succeed in fiber as well because we can use a lot of the same capabilities that we've built in running a national scaled fixed wireless business to go succeed at fiber. And I think succeed with some advantage that would enable us to penetrate more and penetrate into the markets where we have fiber. Specific numbers, we're not ready to do that yet. And maybe we'll save that for after we close the next transaction. But it's -- we're really looking forward to it, and I think we're in a great position to succeed.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [34]
+--------------------------------------------------------------------------------
+
+          I think we're very much on track for the 12 million subscribers. We talked about last fall by 2028 as well. As it relates to your question about kind of ad momentum, I'm surprised it took until the fifth question to get that. I'm going to -- I really want to tell Peter to put a spreadsheet and just send them out. But last quarter, we resisted years to give you much inter-quarter color.
+And we're going to do it again. I can tell you a reminder, Q1 was an all-time record in terms of postpaid net additions and gross additions for T-Mobile. We also move on ARPU and ARPA on the strength of self-selection of the rate case, some of the optimizations and the overall competitive dynamic. We also moved up service revenues related to all that marginally. We're defending the highest guide we've ever had on postpaid net additions and therefore, phones for Q2 even better than last year's guide, which was an all-time record year.
+So those are the things I can tell you. Hopefully, you can tell we're feeling great about the year. We think we're very much on track for the things that need to unfold for us to deliver our year as well as our multiyear guidance to you. But we're going to resist the urge to provide intra-quarter dynamics for you. Okay.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [35]
+--------------------------------------------------------------------------------
+
+          Operator, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Craig Moffett, MoffettNathanson.
+
+--------------------------------------------------------------------------------
+Craig Moffett,  MoffettNathanson - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Let me ask the obligatory question about tariffs. Since it's likely that we'll see fairly significant tariffs on handsets coming in. How do you think that plays out in your business? Do you think that we are likely to see higher handset prices? And if so, will that dampen upgrade rates? Or is it likely that those will be absorbed by the promotions that you and your competitors offer? And so I'm just wondering how you think about how that plays competitively?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [38]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Craig. Yes, I mean, it's pretty to predict right now what's going to happen from a tariff standpoint. Obviously, it's a moving target. We certainly understand the goals of the administration.
+It's not clear how much this is going to affect the handset market. I think to the extent that it does land and if it's a material thing. Ultimately, I think we're going to see that the customer is going to wind up having to bear that cost. Taking on something big and the tariff on a our business model is interested in trying to do or able to try to do. So it's going to -- the customer is going to wind up bearing the cost of that.
+And probably the dynamic of that would be a slowdown in upgrade rates, exactly to the premise of your question. And that has other tumble on effects in terms of possible benefits and possible cost to us that we would adjust for. Add it all up. Right now, we haven't seen anything that causes us to think there's any kind of material impact to our business coming either way.
+And obviously, if something changes on that front, our investor community would be the first to hear. But right now, I don't see anything on the horizon that would rise to being material or causing us to second-guess our guidance that we've shared with you. Anything to add to that?
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [39]
+--------------------------------------------------------------------------------
+
+          No, I think that's everything we see today is embedded in that EBITDA guidance. Again, we reiterated CapEx guidance. So we're continuing to build. We're continuing on all of that front. But as you mentioned, it is a very dynamic environment, and we continue to monitor it, of course.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [40]
+--------------------------------------------------------------------------------
+
+          Operator, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Timothy Horan, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Timothy Horan,  Oppenheimer & Co., Inc. - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Comcast said, today, they're seeing more and more subscribers using their mobile devices to replace their home broad. Are you seeing much of that? And I know you have a new price plan out there with 250 gigabit hotspot that intended to maybe help that process? And I guess related to that, are there other things you can do to create almost quad-play like services, so people cut their wireline or broadband?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [43]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks. It's always been a dynamic we've seen, Tim, in the category, especially among the prepaid subsegment. So there's a pretty significant part, for example, of our Metro by T-Mobile base. where their metro phone is their only connection to the Internet.
+And the percentages go down as you kind of move up the prime scale and into postpaid. It's always been a dynamic that we've seen. I don't have any evidence it's really changing in a significant way. But on the other hand, as people are faced with top economic choices and some families are, you do see that they prioritize wireless that we've seen, and we've been seeing it now for nearly a decade that when forced to choose, they would prefer to have wireless than broadband. That's the most important connection in their life. But I'm not seeing a sort of secular change in the dynamic there so far.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [44]
+--------------------------------------------------------------------------------
+
+          Okay. Let's go over to social. We've got a question from Roger Entner for Callie. Callie, talk about the de priority progress? And what do we expect for the year?
+
+--------------------------------------------------------------------------------
+Callie Field,  T-Mobile US Inc - President - Business Group    [45]
+--------------------------------------------------------------------------------
+
+          Thanks, Cathy. And Roger, thanks for the question. Look, I'm seeing the key priority is one of the most exciting growth opportunities ever for T-Mobile for Business. In fact, we just delivered the all-time best ever quarter for first responders with key priority. And I'll tell you our growth is happening across the country in smaller markets in rural areas and top 100 kits.
+We welcomed the city of Las Vegas. We welcomed police department. We welcomed Oklahoma City Police Department and so many more. In fact, it was the border for new account growth with first responders as well. Our funnels are up 50% year-over-year and it really is a pretty fantastic solution for first responders.
+And I'll remind you guys, it is the only truly nationwide slice available for first responders on a 5G stand-alone core architecture. So we're seeing the double the capacity, 2.5x speed and priority along with the most availability and the most reliability really resonate with our first responder customers. And I couldn't be more excited about it. Thanks for the question, Roger.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [46]
+--------------------------------------------------------------------------------
+
+          Thanks, Callie. We'll go back to the phone now. Operator, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Greg Williams, TD Cowen.
+
+--------------------------------------------------------------------------------
+Gregory Williams,  TD Cowen - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          You spoke a little bit about cable M&A, you mentioned pure-play fiber and you being a growth company, and that would be your focus. But there's media reports out there that's saying, you could be presumably passing on the Lumen fiber-to-home assets that could be a fairly attractive price. So you guys have that $20 billion disposal capital envelope. Just curious to hear your thoughts on that type of M&A and that sort of size of a deal to augment your key fiber business?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [49]
+--------------------------------------------------------------------------------
+
+          Yes, thanks for the question. I mean we really have anything new to report here. What I've been saying for a while is that we are interested in the space. We are out there kicking the tires. And our appetite is limited has to be just the right thing.
+And we've kind of shown our preference for pure-play fiber. It doesn't mean we're going to limit ourselves to that, but we've shown our preference for that. We also love the strategy that we've already unveiled. I mean if you think about our fixed wireless product moving to $12 million, our Lumos and Metronet moving to 12 million to 15 million homes passed on top of 12 million customers, that's a pretty footprint already and allow us to be choiceful.
+If there's things out there that we think could really add value and that we could drive a great return for our shareholders like we have in the where we predict IRRs in excess of 20%, then we'd be interested. And probably the simpler and more elegant and more pure play, the better, but it's not a hard and fast rule.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [50]
+--------------------------------------------------------------------------------
+
+          Great. All right. We'll go back to social. This is a question from Chetan Sharma for probably off. Congrats on a great quarter. Could you please give us some insights into how slicing usage is growing across different applications and industry segments?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [51]
+--------------------------------------------------------------------------------
+
+          Yes. Ulf and then maybe Callie, go ahead, Ulf.
+
+--------------------------------------------------------------------------------
+Ulf Ewaldsson,  T-Mobile US Inc - President - Technology    [52]
+--------------------------------------------------------------------------------
+
+          All right. Well, thanks, Chetan, for the question. And as you know, the network team and the company went all in with 5G from the beginning. We had a stand-alone core already back in 2020 launched. And in 2023, we started to play around already with network slicing.
+We started in sports events because it's a great way to show that it really works. We did it for pulp. We did it (inaudible) slide, we can do a critical communication for the events on the network side. All of that has led us in '24 to industrialize the more. I think one of the best examples of this is once a security slide where we can tie SIM security all the way through a slice into the core.
+And Callie mentioned earlier, the key priority is probably the vast demonstration of how this really works. Much more to come. We can see several use cases that are coming up in health care, manufacturing, in retail, where slicing provides the network experience that people really want. And all powered by our former 5G network end-to-end with stand-alone core. Callie.
+
+--------------------------------------------------------------------------------
+Callie Field,  T-Mobile US Inc - President - Business Group    [53]
+--------------------------------------------------------------------------------
+
+          Well, that was very well done. Ulf, just take you out on the road. I just was going to mention, when it comes to broadcasting place, we announced this past quarter interaction that we have with Disney Studios, where we provided private 5G and a network security slice where they were able to broadcast from remote locations to their studios real time, and that was on Lion Stitch. That was a very cool use case. T-SIMsecure, we literally have tens of thousands of SMB customers that are signing up for T-SIMsecure when they don't have a sophisticated IT department, for instance, this is a really fantastic use for them.
+And point-of-sale systems have become fantastic ways for people in sports and entertainment to make sure that they cut down on long lines that they provide security and that the fan experience just the ultimate experience with our point-of-sale life. So that's been really, really great momentum. And I think what I would say here is we're just getting started. I mean key priority and the most scalable and, I think, remailing the pain point and the use case on the head, but we're just getting started here.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [54]
+--------------------------------------------------------------------------------
+
+          And to that, just getting started point, one of the things we announced today is that we're nationwide with 5G advanced, and that makes the slicing capabilities easier because in the early going, part of the channel I sing is each implementation is kind of a bespoke program. And now we're moving into the phase where we can automate implementations for our customers, which just opens up the TAM considerably for us on the kinds of opportunities that Callie and Ulf just talked about. So we're very excited about this moment.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [55]
+--------------------------------------------------------------------------------
+
+          We'll go back to the phone queue. Operator, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+          Kannan Venkateshwar, Barclays.
+
+--------------------------------------------------------------------------------
+Kannan Venkateshwar,  Barclays - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          So Mike, just in terms of the fiber question, I think all of us have kind to basically figure out why $12 million to $15 million is the right number. And I think in the past, you've described this as more of a funding mechanism, wireless being top panel and now funneling people are upgrading people to fiber at some point. But if you end up with 12 million, 15 million fiber passings just seems inadequate broadly, just from a long-term perspective. So it would be great to get your thoughts on why 15 million is the right number for fiber? And then Peter, when we filed the fiber business and the impact on the P&L longer term, I appreciate that you may not want to give us the details right now.
+But directionally, if we think about the business, initially, there might be some fixed payments you have to accrue to the JVs even before revenues start kicking in. So directionally, do these businesses become a drag initially and then over time, they essentially start contributing and become accretive? How should we think about the framework over the next two or three years?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [58]
+--------------------------------------------------------------------------------
+
+          Okay. Kannan, those are two great questions. First, on the question about fiber. Your question really goes to our why. What is our why?
+Why are we doing this? And I'll just kind of return you to our general premise here is actually pretty different than the premise that some others have in this space. And their premises are really based on the deep interplay with all the other products, so-called convergence. And for us, on fixed wireless, there's some of that, obviously, that opportunity. But the much bigger question for us is whether or not we can based on OHA and our embedded investments and our big customer base and our 5G network and our data and our strength of our brand and our distribution whether we can just quite simply make a superior return in wireline fiber than a purely disinterested financial investor could.
+And we think we can. Those first two transactions we do see very strong IRR potential overall. And it's just kind of different than the premise that I think others have in the space. And it sort of showcases why we have the preference. Srini your expert in this space, you've seen the perspective, both from the US, from Europe, maybe a comment on your views on convergence, and how our strategy is different here at TMUS.
+
+--------------------------------------------------------------------------------
+Srinivasan Gopalan,  T-Mobile US Inc - Chief Operating Officer    [59]
+--------------------------------------------------------------------------------
+
+          Yes. Sure. Thanks, Mike. So just picking up from where you left off. We normally tend to refer to convergence as a significant shift in consumer mobile buying behavior, where they move to buying wireless products form their wireline provider.
+And that's the thesis of a few players here. As you said, our thesis on how this market evolves is different. Let me give you two or three data points that kind of support where we stand on this. The first one of those is more than 85% of the US for over 5 years has had the option of buying wireless from their wireline provider.
+Now to the extent that they've chosen to do that, that's built into our run rates. I think the second piece is behind the thesis of convergence is this story that somehow convergence is inevitable in the US like it was in Europe. Now there's a flaw in that theory. It isn't inevitable in Europe.
+Some of the best European markets, whether that's Germany where I recently worked in or the UK have convergence levels that are lower than the US. And that happens because whether this change in consumer behavior or not happens or not, is down to market specific things. And you look at the US, the extent to which we have family plan bundling in I mean the US is probably the only market I know where wireless churn is significantly lower than the line churn, which tells you something about the quality of those wireless relationship.
+You put all of that together and that our thesis and converted is different. That said, we see a significant opportunity to make equity enhancing investments in fiber. And so the question for us is always going to be what's a good investment in fiber versus whether it's big enough. And that's the difference in questions we're answering it.
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [60]
+--------------------------------------------------------------------------------
+
+          Yes. And I think to the very specific question you asked about the $12 million to $15 million, I hate to be give an unsatisfying answer, but it depends. We're going to follow the capital allocation strategy that Peter has laid out over and over again.
+And to the extent that we see opportunities based on all of our strengths embedded capabilities and know-how to make a superior return and therefore, deliver you, our shareholders superior return, we're interested. And that may not mean that $12 million to $15 million is where we end. But it's certainly taken the first two JVs plus our wholesale partnerships where we think we're tumbling to with the transactions already decided on, and we'll see where the future takes us on this one.
+
+--------------------------------------------------------------------------------
+Peter Osvaldik,  T-Mobile US Inc - Chief Financial Officer, Executive Vice President    [61]
+--------------------------------------------------------------------------------
+
+          As you were asking kind of about the long-term growth and how do these play out, I won't speak to Metronet yet, it's not closed. It wouldn't really be appropriate for us to do so. But as I think about this, of, on the Lumos JV, there are no fixed payments. We aren't settling ourselves with fixed payments. All of this is funding accretive growth.
+And that's the exciting part of all of this is, whether it's member, we have 50% economic interest in the JV itself, the InfraCo, which is going to continue to grow in the case of Lumos as well to pass a significant number of households. And for us, it's about customer growth, funding subscribe acquisition. So that's what we're investing in right now. And as you think about what that returns from a value proposition longer term, that's what we're doing here. It's not just funding today's growth, it's funding growth of T-Mobile beyond 2027.
+Even how do we set this company up to be a high company many, many years beyond just the Capital Markets Day that we gave. So it's important, I think, to think about these structures because of the way we did them as cash-generating structures. We talked about Metronet, in particular, on the current land that we put into the press release is the case for this, we are already going to be seeing distributions back before the end of that 2030 period and the 6.5 households -- 6.5 million households passed there. all of this is funding strong value-accretive customer acquisition and creating great long-term value creation for T-Mobile.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [62]
+--------------------------------------------------------------------------------
+
+          Operator, we have time for our last question.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+          Jonathan Chaplin, New Street.
+
+--------------------------------------------------------------------------------
+Jonathan Chaplin,  New Street Research - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Just one for me, following up on the fiber discussion. Does it matter where the fiber locations are to you? Is it a matter of sort of building fiber in markets that don't have fiber today? Or is it more important for you to have markets in big growing cities, which might also be markets where you need mobile capacity at some point in the future? And I would love your thoughts, given that you can get better returns on these assets, been disinterested independent operators, would love your thoughts on market structure? Does it make sense for you guys to deploy fiber in markets that might have two players already or would you stick to two player markets?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [65]
+--------------------------------------------------------------------------------
+
+          Thanks, Jonathan. Let me try to simplify it. The shortest version of the answer is not really. In other words, geography is not one of the primary inputs into our thought process on And the reason for that is that so far, based on our experience in fixed wireless and in our pilots of T-Fiber there's a strong industrial logic for both places where we're highly penetrated and where we're less penetrated. And the obvious industrial logic kind of speaks to itself.
+Where we're highly penetrated, we have more embedded advantages and therefore, less friction. Where we have less penetration, we have more upside. It can be a great front door. And we're just pretty open-minded on that front. And part of it is, if you look at our high-speed Internet business in 5G, it's geographically distributed all over the country because it really isn't about marketing in one city or another or in a rural area versus a suburban area.
+It's about finding pockets all across this country of capacity where no normal amount of mobile anytime soon will take up our capacity and where we approve applicants for fixed wireless. So that's our fallow capacity model. So widely geographically disperse the natural synergies don't inform the decision as it relates to geography. And based on that, I forgot your second half of your question already. What was it again, Jonathan?
+
+--------------------------------------------------------------------------------
+Jonathan Chaplin,  New Street Research - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          It was about geographic. Are we going to go into places with two existing fiber parters -- two broadband player?
+
+--------------------------------------------------------------------------------
+G. Michael Sievert,  T-Mobile US Inc - President, Chief Executive Officer, Director    [67]
+--------------------------------------------------------------------------------
+
+          I mean the very -- our intention is to move quickly and for the majority of our work to be first to fiber. And that's where the returns are best. That means there's probably a cable operator. There may be fixed wireless available in that area. But our intention, generally speaking, generally speaking, is to be first to fiber.
+
+--------------------------------------------------------------------------------
+Cathy Yao,  T-Mobile US Inc - Senior Vice President, Investor Relations    [68]
+--------------------------------------------------------------------------------
+
+          All right. Thank you, everybody. That's all the time we have. We're excited to speak to you again soon. If there are any further questions, you can contact the IR or media departments.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes the T-Mobile's first quarter 2025 earnings call. Thank you for your participation. You may now disconnect and have a pleasant day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

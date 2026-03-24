@@ -1,0 +1,273 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2024 Oracle Corp Earnings Call
+SEPTEMBER 11, 2023 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Safra Ada Catz
+   Oracle Corporation - CEO & Director
+ * Ken Bond
+   Oracle Corporation - SVP of IR
+ * Lawrence J. Ellison
+   Oracle Corporation - Co-Founder, Chairman & CTO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mark Ronald Murphy
+   JPMorgan Chase & Co, Research Division - MD
+ * Raimo Lenschow
+   Barclays Bank PLC, Research Division - MD & Analyst
+ * Mark L. Moerdler
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst
+ * Keith Weiss
+   Morgan Stanley, Research Division - Equity Analyst
+ * Brad Alan Zelnick
+   Deutsche Bank AG, Research Division -  Head of Software Equity Research and Senior US Software Research Analyst
+ * John Stephen DiFucci
+   Guggenheim Securities, LLC, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, everyone, and welcome to Oracle's First Quarter 2024 Earnings Call. Today's call is being recorded, and now I would like to turn the conference over to Ken Bond. Please go ahead.
+
+--------------------------------------------------------------------------------
+Ken Bond,  Oracle Corporation - SVP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Lisa, and good afternoon, everyone, and welcome to Oracle's First Quarter Fiscal Year 2024 Earnings Conference Call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor Relations website. Additionally, a list of many customers who purchased Oracle Cloud Services or went live on Oracle Cloud recently will be available from our Investor Relations website. On the call today are Chairman and Chief Technology Officer, Larry Ellison; and Chief Executive Officer, Safra Catz.
+As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements made today. As a result, we caution you from placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock.
+And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra.
+
+--------------------------------------------------------------------------------
+Safra Ada Catz,  Oracle Corporation - CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Ken, and good afternoon, everyone. As you know, 22 years ago today was a traumatic day for our country. Like many of you, it feels like yesterday when the country lost nearly 3,000 souls. And we at Oracle, we lost 11 employees. I remember exactly where I was when the tragedy unfolded and it is still so hard speaking about it even all these years later. Today, we honor and remember each one of the victims and heroes, and we hope that their memories are a blessing to all of us.
+Now before I go to our Q1 numbers, I thought it would help to start with some of the things that are going on at Oracle that you'll be hearing about over the next couple of weeks. Next week, we have Oracle CloudWorld, which will showcase the latest innovations, including AI on OCI, the progress of Oracle Autonomous Database our multi-cloud strategy, the use of Oracle analytics throughout our portfolio to drive better decision-making and the use of generative AI to differentiate Fusion, NetSuite and our industry application.
+Now CloudWorld is our marquee event each year where current and prospective customers take time out of their busy calendars to join us in person and share their experiences. We know that there are no better spokespeople for our products and services than our existing customers. Our innovation result directly from our development teams interacting with customers to anticipate and build the next generation of products and services. Some of the customers you will hear from next week include NVIDIA, Uber, Ascension Health, Cohere, and many, many, many more. You'll also hear from our expanding set of strategic partners that are driving the Oracle ecosystem, and this includes Amdocs, VMware, Microsoft.
+Overall, it's remarkable the interest we are getting from the ISV community to work with Oracle. There are a lot of discussions going on and you will see more announcements shortly. From a financial standpoint, we see this customer and partner ecosystem as a leading indicator of our income statement. I've been talking with you about our revenue acceleration for some time now. In Q1, our remaining performance obligations or RPO climbed to nearly $65 billion, with the portion excluding Cerner up 11%. We have now signed several deals for OCI greater than $1 billion in total value. And the first week of Q2, we booked an additional $1.5 billion in business, which isn't even included in the Q1 numbers. Approximately 49% of total RPO is expected to be recognized as revenue over the next 12 months. My point here is that customer momentum is continuing to build. This momentum is turning into bookings, and that gives me the confidence that our annual revenue growth will continue to accelerate moving forward.
+Now to the Q1 results, which I remind you I am announcing on day 11, only because day 8, when we were ready, was a Friday and I know none of you like that. So this quarter, we saw a modest currency tailwind, but as always, I'll discuss our financials using constant currency growth rates. Clearly, Q1 was another great quarter with total revenue at the midpoint of guidance and earnings per share $0.02 above the high end of guidance and our cloud growth was 29%. Total cloud revenue, SaaS and IaaS, excluding Cerner was $4 billion, up 29%. Now including Cerner, total cloud revenue was up 29% also, at $4.6 billion and with our IaaS revenue at $1.5 billion, up 64%, and SaaS revenue of $3.1 billion, up 17%.
+Total cloud services and license support revenue for the quarter was $9.5 billion, up 12%, driven again by our strategic cloud applications, Autonomous Database and our Gen2 OCI. Application subscription revenues which includes product support were $4.5 billion, up 11%. Our strategic back-office SaaS applications now have annualized revenue of $6.9 billion and they grew 20%. Infrastructure subscription revenues, which includes license support, were $5.1 billion, up 14%. Infrastructure cloud services revenue was up 64%. Excluding legacy hosting services, Gen2 Infrastructure Cloud services revenue grew 72% with an annualized revenue of $5.6 billion.
+OCI consumption revenue was up 91%. Exadata cloud services revenue was up 46%, and Autonomous Database was up 42%. Database subscription services, which includes license support, were up 6%, highlighted by cloud database services, which were up 44%. Very importantly, as on-premise databases migrate to the cloud, we expect these cloud database services will be the third leg of revenue growth alongside strategic SaaS and Gen2 OCI cloud services.
+Software license revenues were $0.8 billion, down 11% following an amazing Q1 last year of 19% growth, which made it a tough compare this year. So in all, total revenue for the quarter were $12.4 billion, up 8%, including Cerner, up 9% excluding Cerner.
+Shifting to margins. The gross margins for Cloud Services and License Support was 78% with IaaS gross margins improving substantially from last year. And while we've continued to build data center capacity, we've also seen our IaaS margins go higher as these new cloud regions fill up. We monitor our expenses very carefully to ensure our gross margin percentages expand as we scale up. To this point, gross profit dollars of Cloud Services and License Support grew 9% in Q1. Non-GAAP operating income was $5.1 billion, up 12% from last year. The operating margin was 41%, up from 39% last year. As we continue to benefit from economies of scale in the cloud and drive Cerner profitability to Oracle standards, we will not only continue to grow operating income but we will also grow the operating margin percentage.
+The non-GAAP tax rate for the quarter was 18.8% and non-GAAP EPS was USD 1.19, up 16% in USD, up 14% in constant currency. The GAAP EPS was USD 0.86. At quarter end, we had nearly $12.1 billion in cash and marketable securities. The short-term deferred revenue balance was $11.1 billion, up 5%. Operating cash flow for the first quarter was up 9% to $7 billion, while free cash flow was up 21% to $5.7 billion, and I expect that we will see very good results in our free cash flow for the rest of the year. Over the last 4 quarters, operating cash flow was $17.7 billion, up 68%, and free cash flow was $9.5 billion, up 76%.
+Capital expenditures were $8.3 billion over the last 4 quarters, and we're clearly beginning to see the cash flow benefits stemming from our cloud transformation. CapEx was $1.3 billion in Q1 as we continue to build capacity for bookings and our customers' growing needs. Given the demand we have and see in the pipeline, I expect that fiscal year 2024 CapEx will be similar to this past year's CapEx. As always, we remain careful to pace our investments appropriately and in line with booking trends, which is why our gross margins are up in our cloud business. We now have 64 cloud regions live with 44 public cloud regions around the world and another 6 being built. 12 of these public cloud regions interconnect with Microsoft Azure. We also have 9 dedicated regions live and 11 more planned, 9 security regions and 12 EU sovereign regions live with increasing demand for more of each. And of course, we have many, many Cloud at Customer implementations.
+The cost advantages, sizing flexibility and deployment optionality of our cloud region continue to make us so compelling in the marketplace to customers. As we've said many, many times before, we're committed to returning value to our shareholders through technical innovation, strategic acquisitions, stock repurchases, prudent use of debt and a dividend. This quarter, we repurchased 1.3 million shares for a total of $150 million. In addition, we paid out dividends of $3.9 billion over the last 12 months, and the Board of Directors declared a quarterly dividend of $0.40 per share.
+Now before I dive into Q2 guidance, I'd like to share some thoughts on what I see longer term. Per my earlier remarks, we have a great line of sight into the trajectory of the business, given the bookings momentum. We are extremely confident about our revenue acceleration for the year even though in any quarter, there may be small fluctuations. Because we have far more demand than we can supply, our biggest challenge is building data centers as quickly as possible. In addition, we are in an accelerated transition of Cerner to the cloud. This transition is resulting in some near-term headwinds to the Cerner growth rate as customers move from license purchases, which are recognized upfront, to cloud subscriptions which are recognized ratably. Again, excluding Cerner, I remain committed to accelerating our total revenue growth rate this fiscal year as well as maintaining our current high cloud growth rates for the year. And as you will hear at our Financial Analyst Meeting next week, we remain firmly committed to our fiscal '26 financial goals.
+Let me now turn to my guidance for Q2, which I'll review on a non-GAAP basis. If currency exchange rates remain the same as they are now, currency should have a 2% positive effect on total revenue and a $0.03 positive effect on EPS in Q2. However, the actual currency impact may be different. Here we go. Total revenues, including Cerner, are expected to grow from 3% to 5% in constant currency and are expected to grow 5% to 7% in USD at today's rates. Total revenue, excluding Cerner, are expected to grow from 6% to 8% in constant currency and expected to grow 8% to 10% in USD.
+Total cloud revenue, excluding Cerner, again, I give you these numbers so you can see the mainline business, is expected to grow from 27% to 29% in constant currency and is expected to grow 29% to 31% in USD. Non-GAAP EPS is expected to grow between 5% to 9% and be between $1.27 and $1.31 in constant currency. Non-GAAP EPS is expected to grow between 7% to 11% and be between USD 1.30 and USD 1.34. My EPS guidance for Q2 assumes a tax rate of 19%. However, onetime tax events could cause actual tax rates to vary. And with that, I'll turn it over to Larry for his comments.
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [4]
+--------------------------------------------------------------------------------
+Thank you, Safra. So, is generative AI the most important new computer technology ever? Maybe. We're about to find out. Self-driving cars, computer-designed antiviral drugs, voice user interfaces. Generative AI is changing the automobile industry, the pharmaceutical industry, how people communicate with their computers. Generative AI is changing everything. As of today, AI development companies have signed contracts to purchase more than $4 billion of AI training capacity in Oracle's Generation2 Cloud. That's twice as much AI training as we have booked at the end of the last Q4.
+I'm also very pleased to announce that XAI has signed a contract to do training in Oracle's Gen2 Cloud. The largest AI technology companies and the leading AI start-ups continue to expand their business with Oracle for one simple reason: Oracle's RDMA-interconnected NVIDIA superclusters train AI models at twice the speed and much less than half the cost of other clouds.
+But growth in our AI cloud infrastructure business is not the only exciting news we have to report in Oracle. Our cloud applications business is doing quite well and it's about to get even better. In the current quarter, we expect our Cerner Health business to be awarded 2 large new contracts with a total value of over $1 billion. And I'm now also able to announce that all 9 utility companies owned by Berkshire Hathaway are in the process of replacing all their existing ERP systems and standardizing on Oracle's Fusion Cloud applications.
+Let me conclude with a few words about our database business and our upcoming announcement with Microsoft later this week. We will be substantially expanding our existing multi-cloud partnership with Microsoft by making it easier for Microsoft Azure customers to buy and use the latest Oracle cloud database technology in combination with Microsoft Azure cloud services. Safra and I will discuss the details of our expanding partnership at Microsoft headquarters in Redmond on the 14th. Please tune in. And thank you. Back to you, Safra.
+
+--------------------------------------------------------------------------------
+Safra Ada Catz,  Oracle Corporation - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Larry, and maybe Ken, we could start taking questions at this point.
+
+--------------------------------------------------------------------------------
+Ken Bond,  Oracle Corporation - SVP of IR    [6]
+--------------------------------------------------------------------------------
+Absolutely. Before we do that, Lisa, just one quick clarification that we currently have 2 EU sovereign regions live with more to come. Lisa, please poll the audience for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+We'll take our first question from Brad Zelnick with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Brad Alan Zelnick,  Deutsche Bank AG, Research Division -  Head of Software Equity Research and Senior US Software Research Analyst    [2]
+--------------------------------------------------------------------------------
+Congrats on the strong start to the year. Larry, I think it's fair to say you understand the laws of data gravity better than anyone, and you've monetized this fundamental concept as well as anyone over the years. And I recently heard someone say we're moving from a world of data gravity to one of AI gravity, and I'm not sure exactly what that means or if they even knew what that meant.
+But with AI and other use cases attracting more and more data to central clouds with many vendors preaching data sharing instead of what used to be making multiple copies of things and keeping them synchronized, does AI plus cloud in any way break what we've always understood about data gravity? And what does that mean for Oracle?
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [3]
+--------------------------------------------------------------------------------
+Well, you can't build any of these AI models without enormous amounts of training data. So if anything, what AI, generative AI has shown that the big issue about training one of these models is just getting -- that there's a vast amount of data ingested into your GPU supercluster. It is a huge data problem in the sense you need so much data. To train OpenAI, to train ChatGPT 3.5, they read the entire public Internet. They read all of Wikipedia. They read everything. They ingested everything.
+And to specialize, and you take something like ChatGPT 4.0 and you want to specialize it, you need specialized training data from electronic health records to help doctors diagnose and treat cancer, let's say. And we have Partners Imaging, for example, that is ingesting huge amounts of image data to train their AI models. We have another partner of ours in AI ingesting huge amounts of electronic health records to train their models. AI doesn't work without getting access to and ingesting enormous amounts of data.
+So in terms of a shift away from data or a change in gravity to AI, AI is utterly dependent upon vast amounts of training data. Trillion developments went into building ChatGPT 3.5. Multiple times that for ChatGPT 4.0 because you had to deal with all the image data and ingest all of that to train image recognition. So we think this is very good for our database business. And Oracle's new vector database will contain the highly specialized training data like electronic health records while keeping that data anonymized and private yet still training the specialized models that can help doctors improve their diagnostic capability and their treatment prescriptions for cancer and heart disease and all sorts of other diseases.
+So we think it's a boon to our business, and we are now getting into the deepwater of the information age. Nothing has changed about that. The demands on data are getting stronger and more important.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+We'll take our next question from Mark Murphy with JPMorgan.
+
+--------------------------------------------------------------------------------
+Mark Ronald Murphy,  JPMorgan Chase & Co, Research Division - MD    [5]
+--------------------------------------------------------------------------------
+So Larry, companies are starting to understand that OCI has a very fundamentally different architecture than anything else out there in the market because of the nonblocking low-latency network design. I'm wondering if you think it's possible to actually pull farther ahead through some of your other initiatives. For instance, the Azure interconnect, it sounds like you're going to expand that having more regions, running a stronger database, providing greater isolation. Just wondering if you think there's a possibility of extending the lead.
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [6]
+--------------------------------------------------------------------------------
+Well again, we have -- we're on our second generation of data center and our second generation of cloud. Now a lot of people noticed that we were a little bit late to the party. That's because we moved from a first generation, which we were not very happy with, to a second generation which we think solves a lot of problems the other cloud companies have not yet solved. So the nonblocking ultrafast RDMA network is not only useful for training AI models, it's useful for almost everything. It's certainly useful for building a much faster database. It's useful for -- in terms of the automation level we have in our data centers.
+Our data centers are 100% automated. They configure themselves. They run themselves. We don't have a lot of labor. Now that saves us a huge amount of money, a lot of labor cost is saved. But the biggest advantage is if you don't have human beings involved, you don't have human labor, you don't have human errors. You don't have mistakes. You can ensure security. Most security problems are caused by people that make mistakes or people that engage in mischief. We don't have that in our data center. That's another huge advantage.
+Our data centers are -- because they're identical, the only way we could automate them was to make them all the same and they vary only by scale. There are big ones and small ones but they're identical. They all have the same hardware pieces and the same software pieces. They all have the same automation. And that automation allows us to put these data centers in very small countries. We expect to have many, many more data centers than any other cloud provider.
+But we also put those data centers at customers. Nomura Research, NRI, which resells Oracle cloud capacity in Japan, has 2 dedicated regions and are building 2 more. They run the Tokyo Stock Exchange. I don't know of any clouds that are running stock exchanges other than ours. And again, it's because of the extreme reliability and security that we get with all of the automation that's included with our data center. So we have cost advantages. We have performance advantages. We have security advantages. And that's why we're growing much faster than any of the other hyperscalers.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+We'll take our next question from Raimo Lenschow with Barclays Capital.
+
+--------------------------------------------------------------------------------
+Raimo Lenschow,  Barclays Bank PLC, Research Division - MD & Analyst    [8]
+--------------------------------------------------------------------------------
+Larry, you mentioned Berkshire and then moving over to Fusion. I just wanted to talk more in a more bigger picture on the back office systems. Like in the olden days, back office, you wouldn't touch in kind of tougher times because you had big complex projects. But you guys are still kind of growing this nicely with over 20%. Like what are you seeing there? And do you see a change, a pipeline change in customer interest of doing something there?
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [9]
+--------------------------------------------------------------------------------
+Yes. Well, the back office in the cloud is very different than the back office on-premise. And we have a big advantage that we are, by far and away, the biggest, I don't know, 95% of the cloud ERP market in terms of actual live customers using it. And we have an important partnership with JPMorgan Chase, and we'll be announcing some more partnerships in the financial community at the upcoming CloudWorld, where we automate a lot of e-commerce, B2B e-commerce right in the cloud.
+So what is B2B e-commerce between 2 Oracle Cloud customers, 2 Oracle ERP Cloud customers? It's 1 Oracle procurement system talking to another Oracle order management system and financing the transaction through their bank. We automate that entirely in the cloud. If your bank is JPMorgan Chase, they originate the loan right along with your purchase. It's e-commerce for B2B with banking and shipping and insurance, all included enrolled together.
+No one -- we've done a great job as an industry automating e-commerce for B2C. I mean, Amazon, Walmart, others have done a brilliant job in that. We've been doing that for a long time. We have not got the equivalent in B2B commerce because B2B transactions are much more complex. In the cloud, you can get all the parties together, the shippers, the insurance company, the manufacturers, the purchasers, and we can automate that entirely within the Oracle Cloud, one ERP system talking to another, talking to their bank, talking to their insurance, doing the loan origination, getting it shipped and insured. So we make doing business much easier for our customers when they move to a modern cloud ERP system versus the on-premise ERP system that came before.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+We'll take our next question from Mark Moerdler with Bernstein.
+
+--------------------------------------------------------------------------------
+Mark L. Moerdler,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research  Analyst    [11]
+--------------------------------------------------------------------------------
+The top of mind questions I'm getting are related to AI in general as you'd expect. And more specifically as it relates to Oracle, what impact of AI will be on OCI Gen2. Two related parts to the question. The first is the profitability of AI supercomputers and whether, as some clients try to tell me, its low-calorie, empty calorie revenue, or can you maintain margins as this business grows?
+And the second part is about the Oracle ecosystem, and is it strong enough that as workloads transition from model training to inferencing and grounding, could AI compute create a revenue air pocket or are these kind of systems strong enough so you don't have that?
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [12]
+--------------------------------------------------------------------------------
+Well, if -- you're constantly training these models. Keep in mind, you have to bring in new data if you're obviously in the health care field, in the legal field, new cases are being judged, new research is being published all the time. And for your AI models to be relevant, they have to be up to date. So it's not that you train and then do nothing but inferencing thereafter. So your training and your inferencing sit right next to each other.
+As long as we can do this stuff twice as fast as everybody else, that's on the -- by the way, not just on the training side, that's also on the inferencing side, then we're going to be half the cost or better. So we think we're going to be very, very competitive across the board, whether it's training or in inferencing. So we don't -- so we're pretty confident that we've got a cost performance advantage. Again, if you run twice as fast in the cloud, you cost half as much because you pay by the hour.
+So the performance advantage is really an enormous cost advantage for us. We don't see that going away anytime soon. And it applies to inferencing as well as training. Now as far as GPUs -- our GPU is a low-margin business. Not for 100% automated cloud with very, very low cost. We think in some cases, our prices for GPU training, which are very profitable by the way, for us, but are often lower -- our prices are lower than the cost of other hyperscalers doing the training.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+We'll take our next question from Keith Weiss with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Keith Weiss,  Morgan Stanley, Research Division - Equity Analyst    [14]
+--------------------------------------------------------------------------------
+I wanted to drill in on Cerner, basically the 1-year anniversary of that acquisition. And maybe from Larry, get an update on where we are with modernizing that solution and modernizing that product. And basically, whether Cerner has kind of lived up to your expectations thus far? And then maybe for Safra, if we could dig into the expense synergy side of the equation. You guys have done a great job increasing margins on a year-on-year basis in this quarter. How much is left to go within Cerner and getting that margin profile to match the broader Oracle margin profile?
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [15]
+--------------------------------------------------------------------------------
+Okay, I'll talk about the progress on taking the existing Millennium Cerner software and moving it to new Millennium, basically rewriting that software a piece at a time, by the way. It's not going to be a big rip and replace that all. There's a 2-phase process with Cerner. The first thing is to get -- to lift and shift and get the existing system hardened, which we've done and moving the customers to the cloud, which we're in the process of moving everybody to the cloud. That will give them better performance, better security and new features will then start showing up with the system.
+And so there's a 2-phase shift to the cloud, We're well on our way. The next is replace feature after feature after feature of the older Cerner system with a new Cerner system, new Millennium, which we are not coding in Java like we usually do. The new Cerner system is being generated, as you know, generative AI generates code. We have an application generator called APEX. And we are not writing code for the new Cerner. We are generating that code in APEX and it's going extremely well.
+Again, one of the great things about code generators is they don't make mistakes. Well, either they make the same mistake over and over again or they don't -- once you fixed the mistake, you fixed it everywhere. So the code -- we're using a code generator to write the new features in Cerner, and it's coming along very, very nicely. Also on the business side of things, again, we think that Cerner business is going to get stronger and stronger.
+Again, Safra made the point. The old Cerner business, you'd sell license so you sell a big contract and you get a big chunk of revenue in that quarter. Our new business model, as you know, is cloud. So we get a big Cerner award and we get that money now over time rather than all upfront. So that's, if you will, a bit of a revenue headwind, but the Cerner business is doing extraordinarily well.
+
+--------------------------------------------------------------------------------
+Safra Ada Catz,  Oracle Corporation - CEO & Director    [16]
+--------------------------------------------------------------------------------
+And on the expense side, we still have a ways to go, but I think it will become more obvious to you next quarter, the changes we've made as they play out through the income statement more clearly. And so you'll have a better comparison Q2 to Q2, which will be a full non-deal quarter for you to look at. But you know us, we're always looking to save as much as we can and to spend as little while still really transforming Cerner into a modern system in its entirety.
+
+--------------------------------------------------------------------------------
+Lawrence J. Ellison,  Oracle Corporation - Co-Founder, Chairman & CTO    [17]
+--------------------------------------------------------------------------------
+Let me just reinforce what Safra just said. We love to save money. One of the things we did with our data centers is we automated them. We saved labor costs and we saved -- we have better security and better reliability because we eliminated human error. With Cerner, the rewrite of Cerner, it's not armies of programmers that are going to be rewriting this. We are generating the new Millennium software using APEX. And that's also going to save us a lot of human labor and generate higher-quality code and higher-quality user interfaces and better security all at once.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+We'll take our last question from John DiFucci with Guggenheim.
+
+--------------------------------------------------------------------------------
+John Stephen DiFucci,  Guggenheim Securities, LLC, Research Division - Research Analyst    [19]
+--------------------------------------------------------------------------------
+My question is for Safra, I think. Safra, if the organic constant currency cloud growth was in line with what you did last year and what you want to do for this year at 29%, while license, though it was a difficult comp, it was a bit weaker, at least, than the Street was expecting. And I also -- we also realized that cloud revenue for the same amount of business booked will be a lot less than the equivalent license revenue in the quarter.
+But does this mean we're seeing a move with stronger momentum to the cloud this quarter than we have seen? And I guess just to clarify, given your guidance for the second quarter. You said you're maintaining your longer-term stuff. But I just want to clarify, are you maintaining your constant currency organic cloud guidance for the year?
+
+--------------------------------------------------------------------------------
+Safra Ada Catz,  Oracle Corporation - CEO & Director    [20]
+--------------------------------------------------------------------------------
+Yes. Okay, let me start with yes. And as I want to remind you, of course, as I want to remind you, 29% of bigger numbers is more, okay? So last year, we were smaller, and this year, we continue to plan on doing the 29%, maybe better. All of it is dependent on us getting our data centers filled up and built out as fast as possible. The level of demand we have is stunning. Stunning is the only word I can use.
+And I don't want to get overly exuberant simply because we do have to continue to build out our systems, et cetera. And so yes, a very strong momentum to the cloud. And again, with the focus -- we told you, we're bringing our customers to the cloud, and that's going to have us focusing on growing that and stronger momentum there.
+
+--------------------------------------------------------------------------------
+John Stephen DiFucci,  Guggenheim Securities, LLC, Research Division - Research Analyst    [21]
+--------------------------------------------------------------------------------
+Okay, great. Very clear. Yes and yes. Got it.
+
+--------------------------------------------------------------------------------
+Ken Bond,  Oracle Corporation - SVP of IR    [22]
+--------------------------------------------------------------------------------
+All right. Thank you, John, and thank you, Lisa. A telephonic replay of this conference call will be available for 24 hours on our Investor Relations website. Thank you for joining us today, and with that, I'll turn the call back to Lisa for closing.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+That does conclude today's presentation. Thank you for your participation, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

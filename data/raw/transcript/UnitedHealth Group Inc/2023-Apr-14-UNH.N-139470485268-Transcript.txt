@@ -1,0 +1,497 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2023 UnitedHealth Group Inc Earnings Call
+APRIL 14, 2023 / 12:45PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrew Philip Witty
+   UnitedHealth Group Incorporated - CEO & Director
+ * Brian Robert Thompson
+   UnitedHealthcare, Inc. - CEO
+ * Dirk C. McMahon
+   UnitedHealth Group Incorporated - President & COO
+ * Heather Rachelle Cianfrocco
+   UnitedHealth Group Incorporated - CEO of Optum Rx
+ * John F. Rex
+   UnitedHealth Group Incorporated - Executive VP & CFO
+ * Wyatt W. Decker
+   UnitedHealth Group Incorporated - CEO of OptumHealth
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Lisa Christine Gill
+   JPMorgan Chase & Co, Research Division - MD, Head of U.S. Healthcare Technology & Distribution Equity Research and Senior Research Analyst
+ * Benjamin Hendrix
+   RBC Capital Markets, Research Division - Assistant VP
+ * Justin Lake
+   Wolfe Research, LLC - MD & Senior Healthcare Services Analyst
+ * Scott J. Fidel
+   Stephens Inc., Research Division - MD & Analyst
+ * David Howard Windley
+   Jefferies LLC, Research Division - MD & Equity Analyst
+ * Joshua Richard Raskin
+   Nephron Research LLC - Research Analyst
+ * Stephen C. Baxter
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Erin Elizabeth Wilson Wright
+   Morgan Stanley, Research Division - Equity Analyst
+ * Albert J. William Rice
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Kevin Mark Fischbeck
+   BofA Securities, Research Division - MD in Equity Research
+ * Nathan Allen Rich
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Lance Arthur Wilkes
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning and welcome to the UnitedHealth Group First Quarter 2023 Earnings Conference Call. A question-and-answer session will follow UnitedHealth Group's prepared remarks. As a reminder, this call is being recorded. 
+Here is some important introductory information. This call contains forward-looking statements under U.S. federal securities laws. These statements are subject to risks and uncertainties that could cause actual results to differ materially from historical experience or present expectations. A description of some of the risks and uncertainties can be found in the reports that we file with the Securities and Exchange Commission, including the cautionary statements including -- included in our current and periodic filings. 
+This call will also reference non-GAAP amounts. A reconciliation of the non-GAAP to GAAP amounts is available on the financial and earning reports section of the company's Investor Relations page at www.unitedhealthgroup.com. Information presented on this call is contained in the earnings release we issued this morning and Form 8-K dated April 14, 2023, which may be accessed from the Investor Relations page of the company's website. 
+I will now turn the conference over to the Chief Executive Officer of UnitedHealth Group, Andrew Witty.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning and thank you all for joining us today. Growth in the quarter was strong and well balanced across Optum and UnitedHealthcare with revenue increasing 15% to $92 billion. This broad-based growth, combined with the continued focus of our colleagues on tight execution, helped us deliver first quarter adjusted earnings per share of $6.26, up 14% over last year. 
+Year-to-date, UnitedHealthcare increased the number of people served in the U.S. by 1.2 million, about half of this total within our commercial offerings. At OptumHealth, we're now serving nearly 700,000 more patients under fully accountable value-based arrangements compared to just December 2022. 
+Given the strength of these results, we're increasing our adjusted earnings per share outlook for the full year to a range of $24.50 to $25 per share. 
+I know one topic is front of mind for you this morning. So I'll start with Medicare Advantage. With the 2024 Medicare Advantage notice in hand, we now have greater clarity for the short- to midterm evolution of this important program. Our teams are working through the implications of the changes for 2024 and we'll be ready to submit bids in just a few weeks. 
+While we remain concerned about some of the potential unintended consequences of the changes of the risk adjustment model, particularly around adequate diagnosis and support for people with diabetes, complex behavioral needs and more, we do appreciate CMS' decision to phase-in the changes. This phase-in will allow for more time to minimize the impacts on beneficiaries as we lean on the multiple levers available to us, including our ability to manage costs and our relentless focus on member and patient needs. 
+We expect the many years of work and investment our teams have put into products and value differentiation as well as quality measures such as Star scores will enable us to continue to offer leading value to Medicare beneficiaries and to grow strongly for years to come. We're committed to working with CMS as stewards of the MA program, especially with its long-stated goal of promoting value-based care, which remains the best solution to promote equitable access, better health care outcomes, exceptional experiences and lower cost for the system. 
+And importantly, it best supports people who have historically been underserved and who face fragmented, less effective care under traditional fee-for-service. 
+Seniors know that with MA versus fee-for-service, they can access a more integrated and comprehensive suite of critical health benefits, including prescription medicines, vision, dental and hearing care. They can seek care in more convenient settings. They experience better health outcomes, such as an over 40% lower rate of avoidable hospitalizations and consistently derive much greater value. In fact, the typical Medicare Advantage senior spent about $2,000 a year less out of pocket compared to seniors in traditional Medicare. And well over 90% of seniors in Medicare Advantage report they are highly satisfied with their coverage and care. That's why more than 30 million Americans, fully half of all seniors, choose Medicare Advantage today. 
+Over the past year, we focused on improving the consumer experience across our company. This consumer orientation is foundational in support of each of our growth  priorities, including our approach to value-based care. For example, this year, we expect to serve more than 4 million patients in fully accountable value-based care arrangements through Optum, about double where we were at the end of 2021. These patients will be members of UnitedHealthcare benefit plans or one of the many other plans served by Optum. Many of them are in Medicare Advantage. And increasingly, we are serving people with Medicaid or commercial benefits, an important growth focus for the coming years. 
+We spent well more than a decade investing in essential infrastructure and offering extensive practice transition support to enable tens of thousands of care providers to participate in this comprehensive value-based approach. By integrating traditional ambulatory care with specialty, behavioral and pharmacy care across in-clinic, virtual and in-home settings, we're delivering measurably better health outcomes for patients, all while improving access and lowering costs for people and the health care system overall. 
+Our focus on consumers is helping to drive growth within health benefits, including strong growth in our commercial offerings and our early indications are for continued robust commercial growth in 2024. From our employee-centered Surest insurance offer, to our innovative financial services for both members and care providers, to our improved pharmacy home delivery services and 0 co-pays on life-saving drugs, through all of these initiatives and more, we are firmly on track to put the member, patient and consumer at the very heart of what we do. 
+One last note on UnitedHealthcare benefits and the resumption of Medicaid redeterminations. Now that the process has started, we're working with our state partners and others to provide as much information and support as possible so people can understand and access their best coverage options. And we expect to be serving more people in our benefit programs when this process is completed. 
+And now I'll turn it over to UnitedHealth Group President and Chief Operating Officer, Dirk McMahon. Dirk?
+
+--------------------------------------------------------------------------------
+Dirk C. McMahon,  UnitedHealth Group Incorporated - President & COO    [3]
+--------------------------------------------------------------------------------
+Thanks, Andrew. Picking up on redeterminations. For many months, we have been preparing to help people when this activity resumes, as it now has in over 20 states. We are working closely with  Medicaid members to navigate eligibility guidelines and help find alternative coverage options if they are no longer Medicaid-eligible. This effort includes live outreach calls to educate and assist members with renewal process to ensure they retain their existing coverage or can transition to other plans. 
+We are also engaged with employers to extend annual enrollment periods and drive awareness for employees who are eligible for coverage. With extended eligibility and increased subsidies, many people will qualify for other plans, some with no monthly premium. UnitedHealthcare is executing our detailed plans to ensure as many people as possible have uninterrupted access to coverage and care if they are no longer eligible for Medicaid. 
+Let me now turn to the opportunity we have to more deeply and effectively serve people in their homes. Nearly all of the patients we'll add this year in fully accountable value-based relationships will have access to support through our home-based platform. Consumers value and benefit from services delivered in the home and we have expanded our capabilities to serve that need. I'll highlight 4 of our key capabilities in this important area. 
+First, patient assessments, in-home clinical visits designed to identify care needs and help patients with other physical and social needs. This year, we expect to make more than 2.5 million visits to patients' homes and we continue to expand the scope of the clinical services offered in that setting. 
+Next, care transitions. This entails supporting patients into and through post-acute settings, helping people to avoid hospital readmissions after an inpatient stay. This year, we will manage nearly 12 million care transitions, about twice as many as just 3 years ago. This plays an important role in helping people return safely home and in connecting patients with additional in-home support. 
+Third area, senior community care. This is clinical care for seniors who live in skilled nursing and assisted living facilities and dedicated senior housing. Our clinical teams provide additional layers of care and on-call resources. And they coordinate among patients and their primary care provider, facility staff and caregivers, all contributing to strong quality of care and outcomes. 
+And the fourth area of clinical capability is individual care and coordination for Medicare dual and chronic special needs patients. These patients frequently require a more individualized approach to care. On average, these patients are managing 9 different chronic conditions and taking multiple medications. Our high-touch approach leads to better outcomes, including an over 15% reduction in hospitalizations, high patient satisfaction with an NPS of nearly 80 with 99% of our patients in a 4-star or higher plan. 
+Our recent combination with LHC Group expands in-home capabilities. LHC provides high-quality, compassionate home health, hospice and post-acute care services with over 12 million patient encounters each year. We will learn from and build upon LHC's capabilities, expanding the scope and acuity of the care we can provide in a patient's health. 
+And finally, shifting to pharmacy care services. OptumRx just completed another strong growth season. We are winning new relationships by offering the lowest cost and strong service across a wide variety of customers from health plans, to labor and governments and to commercial employers. We help customers obtain the best net cost and we use our clinical expertise to help treat conditions that call for specialty medications. 
+In addition, consumers are benefiting from efforts such as Price Edge, which gives them the best-price option whether on or off benefit; UnitedHealthcare's introduction last year of 0-cost life-saving drugs; and our ability to manage the introduction of biosimilars on equal footing with the existing branded product. In short, we have consumers' backs. 
+With that, let me hand it over to Chief Financial Officer, John Rex.
+
+--------------------------------------------------------------------------------
+John F. Rex,  UnitedHealth Group Incorporated - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Dirk. Fundamental execution has long been an essential aspect of UnitedHealth Group's ability to deliver for all those we serve. We know that if we meet or exceed our commitments and strive to live up to our potential, we will continue to generate high-quality durable growth. 
+Our first quarter performance was highlighted by the strong and accelerating growth achieved across the businesses of UHC and Optum. We accomplished this while continuing to expand upon the foundation, which will drive the future growth you have come to expect from us. 
+Revenue in the first quarter of $92 billion grew by nearly $12 billion or 15% over the prior year with double-digit growth at both Optum and UnitedHealthcare. This growth was achieved by serving more people across all our businesses and importantly, by serving them more comprehensively. UnitedHealth Group served -- UnitedHealthcare served about 1.2 million more people in the first 3 months of the year with strong growth across commercial, Medicare and Medicaid. Optum revenues grew 25% to $54 billion. 
+Care patterns remain largely consistent with recent trends. For example, inpatient trends continue to reflect the growing long-term movement towards ambulatory sites of care. Today, nearly 2/3 of orthopedic procedures are performed in outpatient and other ambulatory settings compared to under 1/4 just 5 years ago. Physician office activity continues to trend toward historic levels, while a few categories such as pediatrics remain lower. Emergency room visits remain modestly lower than historical levels with consumers seemingly more comfortable with virtual and walk-in care. Cancer and cardiac screenings are occurring at roughly pre-pandemic levels, helped in part by focused efforts to ensure people are obtaining appropriate preventive care. As always, we continue to closely analyze data for indications which could signal increasing acuity but have yet to see those emerge.
+Looking now at the performance of the individual businesses in the first quarter. OptumHealth revenues grew by 38% to $23 billion as we expanded the number of patients served under value-based care arrangements. Revenue per consumer served grew by 34% driven by the increase in value-based care patients and in the levels of care we can offer. OptumInsight revenues grew 40% to $4.5 billion. The revenue backlog reached $30.7 billion, an increase of nearly $8 billion over last year, in part due to the addition of Change Healthcare.
+As we have discussed before, in the first half, we expect to continue to increase our integration and investment activities, which were a component in the first quarter results and we expect they will accelerate into the second quarter.
+OptumRx revenues grew 15%, surpassing $27 billion, driven by strong double-digit growth across the businesses, including in our community and home delivery pharmacies. Script growth of 26 million over last year was driven by exceptional customer retention as well as new customer adds.
+We continue to see strong growth in NPS for our specialty businesses, up nearly 10 points since last year. At UnitedHealthcare, revenues of over $70 billion grew 13% with growth in the number of people served across all of our major benefit categories. For example, in commercial, we set out to serve up to 1 million more people this year and are pacing well to that objective given our first quarter performance. Offerings for large employers led the gains as did our newer and more affordable offerings serving both employers and individuals.
+Within Medicare Advantage, we shared with you in November our intention to add 800,000 to 900,000 new members in this year and we now expect to exceed the upper end of that range. The consistent consumer receptivity to our offerings underscores the product stability and value we provide for seniors.
+Medicaid membership grew 570,000 over the year ago quarter. We continue to have momentum in Medicaid with recent wins in Indiana and Texas. And we are honored to advance our existing service to the people of North Carolina, as the state moves towards expanding managed Medicaid offerings.
+Our capital capacities remain strong. Cash flows from operations in the quarter at $16.3 billion reflected an additional CMS payment. Adjusting for this effect, first quarter cash flows from operations were consistent with our outlook and we continue to track well with our full year view to approach $28 billion, about 1.2x net income.
+In the quarter, we returned over $3.5 billion to shareholders through dividends and share repurchases and deployed about $8 billion of growth capital to expand our capabilities to serve more people and grow far into the future.
+As Andrew mentioned, based upon this growth outlook, today, we increased our full year 2023 adjusted earnings outlook to a range of $24.50 to $25 per share. We expect the first half, second half earnings progression to be broadly consistent with our longer-term historical patterns with the second half comprising just slightly more than half of the full year.
+Now I'll turn it back to Andrew.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, John. Our comments on this call gives us a flavor of why we're confident in our outlook for the year and our long-term 13% to 16% earnings per share growth target. Our growth is broad-based and it's driven within and increasingly across our businesses, bolstered, as always, by an enterprise focus on execution on behalf of those we serve.
+With that, operator, let's open it up for questions. (Operator Instructions)
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And we will go ahead and take our first question from A.J. Rice with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Albert J. William Rice,  Crédit Suisse AG, Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+Maybe just because it's been in the news as well the whole review of PBMs and some of the approaches the industry has had historically, maybe I'll just ask you guys to remind us what your approach is relative to rebates, spread pricing and so forth. And then I know OptumRx does a lot more than a traditional PBM. Maybe give people some perspective on the breadth of OptumRx relative to some of the things that are specifically being discussed in Washington today, if possible.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [3]
+--------------------------------------------------------------------------------
+Yes. A.J., thanks so much for the question. Let me make a couple of comments and then I'm going to hand to Heather Cianfrocco, who looks after our OptumRx business. So first off, I mean, I think the entire space of pharmacy is a critical one within health care. It's the most common touch point for the health system. It's also an incredibly significant part of the system in terms of where innovation comes into the marketplace. So where an important set of activities which need to be delivered effectively on behalf of patients, members, consumers.
+Having said that, of course, it's all about affordability and value for money. And there is a real risk, if you see situations where you have essentially monopoly holders, so let's say, drug companies that have a monopoly over a particular product, there needs to be a counterbalance in terms of the price negotiation to make sure that those prices are effectively procured on behalf of members who otherwise would just not have that kind of ability to negotiate.
+That's really the central role that the PBMs play here. There are various mechanisms in which the PBM operates. The rebate mechanism is one that historically has been used in this way. As you well know, A.J., Optum, OptumRx in particular, has led the way in terms of transparency and making sure that, for example, the overwhelming majority of rebates are passed back to the payers of those drugs, typically the plans or the employers who commission us to procure on their behalf.
+As we look more broadly across the whole landscape of the pharmacy marketplace, there are a few things that I think we strongly believe in and we continue to advocate for very significantly. #1, there needs to be a counterbalance to the drug company pricing and the only players in the market right now who are really advocating hard for reducing cost is the PBM.
+#2, at Optum, we are committed to lowest net cost. And whether we get there through rebate or we get there through lower list prices, we don't mind. We're very happy when people cut list prices because that cuts cost. We're very happy when we secure increased rebates because that cuts costs. So we continue to focus on that lowest net cost and we're super committed to transparency. We're also committed to finding ways in which we can bring benefits directly to patients, which is why we led last year with 0 cost pay for the UnitedHealthcare books of business initially for life-saving drugs.
+So that's kind of the big landscape. Now there's more detail in areas that maybe Heather could take you into and I'll pass to her now to give you a little bit more. Heather?
+
+--------------------------------------------------------------------------------
+Heather Rachelle Cianfrocco,  UnitedHealth Group Incorporated - CEO of Optum Rx    [4]
+--------------------------------------------------------------------------------
+Sure. Thank you. And maybe I will just supplement and just say -- A.J., thank you. We are -- certainly, it is in the news. We're mindful of the interest in this essential service. But I guess I'd also point you to the client need for these essential services. Our PBM services not just negotiate with pharmaceutical manufacturers to drive that lowest net cost for drugs available, as Andrew mentioned, but the clinical supports and services through the pharmacy and therapeutics committees and pipeline reviews, that network administration and all of the benefit administration and consultation that we provide to clients of all sizes and types from government to employer to large, sophisticated health plans.
+And I take validation in the fact that, that business model is needed by our clients and it's appreciated. The transparent business model of OptumRx, together with the innovative capabilities, some of our differentiated strategies, like the biosimilar strategy that Andrew mentioned that not just brought competition into the market by bringing up to 3 biosimilars at parity with the originator on the formulary, accepting the high list price and the list price and putting those together and offering them to the clients from our consumer tools like our latest Price Edge that does scan across the market and compares the cash pricing with the members' real-time out-of-pocket cost to make sure they get the best price.
+Those are innovative offerings that I'm really proud that our clients find valuable. And we evolve with those needs. So I think I'd point us to the fact that we had a very strong selling season, one of the highest over the last years, in terms of retention and new clients, shows that the services are needed. We'll continue to evolve our business models to our clients' needs while we continue to engage policymakers and others to make sure that everybody understands the essential value of that PBM service, the distinctive capabilities and transparent business model of OptumRx and in addition, make sure that we ensure client choice and we preserve that function.
+But I guess that also -- I'll just take the opportunity to say, you're right. OptumRx is so much more than just our PBM, which is incredibly important to our clients. We are so proud of them. I'm so proud of the team. You saw the growth in our pharmacies but from our community pharmacies that it just celebrated a 700th opening of our behavioral health pharmacy, a very distinctive offering in the market to our specialty with not just high NPS but a 24/7 clinical model and distinctive capabilities for those members that really benefit from specialty drugs but in oftentimes, need our patient support and assistance, including financial.
+And then, of course, our infusion business, which is very intimate in providing services in the home and we rely on over 1,100 nurses to do that every day. So incredibly proud of the breadth of service across OptumRx but very mindful that our job in the PBM is to serve our clients and preserve their choice.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Heather. And all of that said, I think what is also really validating here, A.J., just look at the growth rate in the first quarter, 15% growth. It really reflects the competitiveness of the portfolio we have. And as I talk to our clients, what they really appreciate is the degree to which we're innovating the pharmacy model, more and more transparency, more and more pressure on bringing down those costs. That's why people are moving to us and it's why they're not leaving us, record levels of retention within this portfolio.
+And just as a marker, about half of our revenues in the OptumRx portfolio come from non-PBM activities. That's all the stuff that Heather just referred to in the second part of her answer. Super nicely balanced business, great growth profile because we're delivering for clients and for their members and employees. So A.J., thanks for raising that question. It's an important topic and we appreciate having the chance to share it.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+We'll take our next question from Lisa Gill with JPMorgan.
+
+--------------------------------------------------------------------------------
+Lisa Christine Gill,  JPMorgan Chase & Co, Research Division - MD, Head of U.S. Healthcare Technology & Distribution Equity Research and Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+I'm going to stick to the PBM side for a minute and just really wanted to hear your comments around GLP-1 drugs. One, how do we think about the cost trend as you think about it from the managed care side of your business? And then secondly, how do we think about really truly managing this new cost of drug that's coming from a pharmacy perspective?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [8]
+--------------------------------------------------------------------------------
+Yes. Lisa, it's a great question. I think, actually, it would be super interesting to hear from the UnitedHealthcare perspective on that. So I may just ask Brian Thompson, the CEO of UHC, to comment there, please.
+
+--------------------------------------------------------------------------------
+Brian Robert Thompson,  UnitedHealthcare, Inc. - CEO    [9]
+--------------------------------------------------------------------------------
+Sure, Andrew. Lisa, let me start with the trends that we're seeing here in 2023 are as planned, overall medical and pharmacy. It's really a good start to the year with our assumptions being validated as we kick off 2023. With respect to GLP, obviously, a lot of discussion. I would say no real change to either our insights or our position. We have seen an increase in trend in GLP-1s. The overwhelming majority of that is in diabetic care and it is as we had expected, low single digits in terms of weight loss use.
+I would say that our on-label usage has been well managed with our authorization requirements. And I think it's important to put it in the context of our overall medical. Keep in mind, pharmacy is about 20% of our overall spend in any one therapeutic class. This one certainly included less than 1%. So increased year-over-year, overwhelming majority in diabetic care, well managed in terms of off-label use and consistent with what we had planned for.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [10]
+--------------------------------------------------------------------------------
+Yes. No. Listen, Brian puts it super well, Lisa. I think from where we sit, as we roll forward -- listen, first of all, it's good news that we're seeing innovation in areas like weight management. That obviously is going to be an important aspect of consideration for people, particularly with comorbidities. Diabetes is an obvious example of that, #1.
+#2, I think as time plays out, what's going to be super critical here is some of the -- we need to get focused on the facts and reality of this marketplace. We need to really be clear about which patients really do benefit from these medicines and make sure we properly understand how they're going to use those medicines. So there's a lot still to learn, I think, as these things progress through their final phases.
+And then finally, of course, we got to see the prices be affordable and that's going to be a key element of how this evolves. And obviously, we keep a close eye on the prices we see in Europe. And just as -- you heard a little bit, our focus on the pharmacy side of the business, of course, encouraged by our insurance side of the business. We're going to be looking for the very, very best pricing on these medicines and we're going to advocate on behalf of members and consumers to get that.
+So still plenty to come here. I think early days, nothing particularly out of expectations, still very much in the range that Brian just described. Lisa, thanks for the question.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+We'll take our next question from Stephen Baxter with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Stephen C. Baxter,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [12]
+--------------------------------------------------------------------------------
+I wanted to ask about the changes the company is making to prior authorization later this year. It would be great to get some background on why you felt like these changes were necessary and how you're going to work to manage the cost implications of the changes once they're made.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [13]
+--------------------------------------------------------------------------------
+Yes. Steven, thanks so much for the question. I'll ask Brian to address that.
+
+--------------------------------------------------------------------------------
+Brian Robert Thompson,  UnitedHealthcare, Inc. - CEO    [14]
+--------------------------------------------------------------------------------
+Steven, thanks for the question. Yes, beginning in the third quarter of this year, we will be eliminating about 20% of our authorization volumes overall. We're also going to be eliminating most medical authorizations altogether for provider groups and systems that have demonstrated a high-quality care and adherence to the requirements over time. I'd say that might be another 10% of our volumes overall.
+We'll continue to evaluate with some new analytics that we have in partnership with OptumInsight and surveillance capabilities to see if there's some additional opportunities over time. Really, though, this is a culmination of a lot of things. And first and foremost, I would say it's our intensifying focus on the consumer experience, really a desire for us to streamline processes, get the latency out of the process. And like I said, leverage new technologies to really get to speed of decisioning and really get to point of care.
+I will say, we're constantly reviewing our prior authorizations but we need to balance, obviously, what we reduce with that need to guard against clinical quality and patient safety. And I would say in this really robust process that we've started here over the last several months that it's really demonstrated the importance of the authorizations that we do have in place.
+So really encouraged by our surveillance capabilities. Don't anticipate any pressure on trend because of it and really see this as a win and satisfier for both our customers and our provider groups alike.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [15]
+--------------------------------------------------------------------------------
+Yes. Brian, thanks so much. I might just add, I think as we play out over the next year or 2, this is also an exciting area for where UHC and OptumInsight can collaborate, lot of technology opportunity to be leveraged here, Stephen.
+And also as you think about the integration of the Change organization into OptumInsight, that gives us new perspective in terms of how we can create network connectivity, to take friction out as well.
+So how do we -- well, you just heard a little bit there from Brian, is how we kind of streamline this space. It's still got an important role at its core. Then there's a ton of opportunity we can bring to really take out a lot of that friction by leveraging technology and the capabilities that we're building up within the new OptumInsight. So really an interesting space across the whole organization. Thanks so much, Stephen and Brian.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Next question comes from Justin Lake with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Justin Lake,  Wolfe Research, LLC - MD & Senior Healthcare Services Analyst    [17]
+--------------------------------------------------------------------------------
+Just wanted to sneak in a couple of quick numbers questions. First, on EPS seasonality. It looks like second quarter -- it sounds like you might be looking at closer to kind of flattish EPS year-over-year. Wondering if you can kind of walk through the moving parts there. I know you talked about spending more money on Change, for instance.
+And then just anything on DCP, what range should we be thinking about there in terms of going forward? Is this a kind of -- it went down in the quarter. Is this a more normal range? Kind of where do you see that kind of settling out for the year?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [18]
+--------------------------------------------------------------------------------
+Yes. Justin, thanks so much. I'll ask John Rex to comment there, please.
+
+--------------------------------------------------------------------------------
+John F. Rex,  UnitedHealth Group Incorporated - Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Justin, so a few thoughts here in terms of seasonality comments. So yes, this quarter reflected some impacts actually from Change also, so I wouldn't call that seasonality. But these are investments we're making as we integrate and we build OptumInsight for the future. And I'd put that in the zone of $100 million or so of impact in the quarter and expect that to be a little bit higher actually in the second quarter also.
+In terms of full year seasonality, also, I just want to give a little commentary on that. I expect that to be kind of in the zone of what we have historically done, where you see just a little bit more than half of the earnings generated in the second half of the year versus the first half of the year. So more similar to, if you look to kind of pre-2019 and back, those kind of patterns, that we would typically show.
+On your commentary -- on your question on DCPs and expectations there, at this level, I would tell you, it's probably more in the level that we typically would have run also pre-pandemic, in terms of the levels of days claims payable that we would typically run.
+A few things just in terms of commentary and just seeing some of the impacts, just so that get really close on it. So in addition to being at what we would consider to be kind of normalized levels here, some business mix impacts. Some of the areas we're growing in and growing rapidly in have somewhat faster payment cycles. In the first quarter, there's usually a little impact also from Part D seasonality. And kind of on the sequential move there, I'd say there's a little -- just a little bit of day count impact also in terms of -- that was affecting those.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [20]
+--------------------------------------------------------------------------------
+Thanks so much, John. Thanks, Justin.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Next question comes from Nathan Rich with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Nathan Allen Rich,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [22]
+--------------------------------------------------------------------------------
+I wanted to ask on Medicare Advantage and the phase-in of the risk model changes by CMS. I guess, how might the prospect for lower rate growth over the next few years impact the relative attractiveness of Medicare Advantage for seniors and the growth of that market? And do you think the risk model changes have any impact on how providers are viewing the attractiveness of full-risk arrangements?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [23]
+--------------------------------------------------------------------------------
+Nathan, thanks so much for the question. So listen, I think as you sort of step back here, a couple of things I'd probably just want to make super clear. First off, we really appreciate CMS' decision to phase-in these changes. That was important and we're very glad to see that. It really allows for the transition to be managed effectively really with we think and a bit -- certainly, our goal is to have a transition here, which really protects the beneficiaries, make sure that it doesn't in any way kind of damage the program. Of course, it requires us to do things a little differently in some areas. But fundamentally, we think that was really important and we very, very much appreciate that.
+As we kind of look out to 2024, we're going to be guided by 2 really important principles here, Nathan. #1, we're going to be doing what's absolutely right for the beneficiaries as we always do. So that's going to guide us in terms of how we are active. And #2, we're going to be driving to sustain our robust membership growth in this space.
+We believe this is an incredibly important program for seniors. We think value-based care as a piece of this program is a crucial and best way of managing members to give them the best quality outcome, best experience and best cost outcome.
+Given our established capabilities and our ability to focus on cost management as well as the broad portfolio of value-based services, clinics, in-house activities provided by Optum, we feel super confident in our ability to manage the evolving funding landscape.
+So overall, yes, it's changed but kind of this change every year. This is a little different change to the changes we've had in other years but it's all -- these programs are always evolving. We feel, given the portfolio of capabilities we have, super well equipped to be able to pull different levers to be responsive to this, to make sure that we can look after beneficiaries.
+I'd also say that the experience we've seen in Optum, the popularity of value-based care for physicians, the way in which they like to be able to concentrate and focus on patients longitudinally, so really think about how to understand, diagnose, prevent, treat, manage that patient through the whole cycle rather than just sporadically through a fee-for-service intervention, that's a sustaining popular thing.
+We brought in about 10,000 or more new clinicians last year between physicians and advanced practice clinicians. I think we're going to do about the same this year. Honestly, we're seeing significant numbers of people coming in. And we would continue to expect to see value-based care continue to be a very important part of the future growth of the marketplace and, of course, for us.
+So as we sit today, of course, we have to do things to respond to the changing environment. We feel good about our ability to do it. And I appreciate the question, Nathan.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+And we will move on to our next question from Josh Raskin with Nephron Research.
+
+--------------------------------------------------------------------------------
+Joshua Richard Raskin,  Nephron Research LLC - Research Analyst    [25]
+--------------------------------------------------------------------------------
+I want to stay on MA and maybe more specifically, if you could speak to the impact to both, I guess, UnitedHealthcare and OptumCare and more specifically, how you plan to balance the need to maintain attractive benefits to grow that membership against your ability to achieve target margins?
+And maybe do you think the industry will grow at similar rates? It sounds like you don't see a material impact long term but I'm just curious if you think 2024 as an industry growth rate looks similar to what we've seen in recent years? And maybe within that, how you expect UHC to fare?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [26]
+--------------------------------------------------------------------------------
+Yes. Josh, thanks so much for the question. Let me ask Brian to give you a few thoughts. Brian?
+
+--------------------------------------------------------------------------------
+Brian Robert Thompson,  UnitedHealthcare, Inc. - CEO    [27]
+--------------------------------------------------------------------------------
+Josh, thanks for the question. I'll just reiterate, I think what Andrew said. Certainly, this 3-year phase-in gives us an opportunity to minimize this impact on beneficiaries. And I will just reiterate the optimism that Andrew shared. Because of that, that gives us time to really evaluate our cost structure.
+First and foremost, I think that's the consideration that we are deeply focused on to make sure that we manage this impact. Look, it's not the first time that we have had to navigate a rate environment like this. So I'll just say we remain optimistic about MA and the value prop that it has broadly. We certainly feel very good about our market position in it. We intend to grow again in 2024, as Andrew had said. We expect the marketplace to continue to grow in 2024. And we continue to lead with the strong momentum that we've demonstrated for many years now.
+So we're obviously in the middle of our benefit planning but I can just share with you that we are encouraged and optimistic.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [28]
+--------------------------------------------------------------------------------
+Great. Thanks so much, Brian. I appreciate it. Thanks, Josh.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+We'll take our next question from Lance Wilkes with Bernstein.
+
+--------------------------------------------------------------------------------
+Lance Arthur Wilkes,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Analyst    [30]
+--------------------------------------------------------------------------------
+Could you talk a little bit about OptumCare and the full-risk patients you've got, specifically the non-UnitedHealthcare patients? And how is the progress going as far as growing that? And how do you see this MA rate environment and high premium environment in commercial employer impacting and potentially accelerating your ability to add non-UHC risk patients?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [31]
+--------------------------------------------------------------------------------
+So Lance, thanks so much for the question. Let me just make a couple of upfront comments and I'll ask Dr. Wyatt Decker, who looks after OptumHealth, to give you a little more detail.
+So first off, you're seeing now, as we head toward the full year here, 4 million or so fully capitated lives within OptumHealth, still under full delegation. That's an incredible progression over the last 2 or 3 years. It's what's really -- you can see a real differentiation. Super important to remember that, that is being supported not just by clinics. Oftentimes, people think about just clinics. Within OptumHealth, this is really broadly integrated support service. So this could be Optima Home. This is in the clinic, it's behavioral, it's virtual. It's a really comprehensive set of capabilities that underpin that and we believe provides fantastic service for the members who are delegated. You see that growth rate continuing to be super strong, 700,000 already transferred this year. It's extraordinary first quarter for OptumHealth.
+As you step back and look underneath the hood of all of that, of course, UHC is a big piece of it. But there is a very substantial non-UHC delegation quantum in there, which continues to grow well. And as I mentioned in my opening comments, an increase in diversification of that value base as a treatment strategy as it moves into commercial risk and also Medicaid. So really important diversification.
+Maybe just talk a little bit why, give a little more detail in terms of how you're thinking about the next year or so.
+
+--------------------------------------------------------------------------------
+Wyatt W. Decker,  UnitedHealth Group Incorporated - CEO of OptumHealth    [32]
+--------------------------------------------------------------------------------
+Yes. Well, thank you, Lance and thank you, Andrew. I would underscore some of Andrew's comments. But most particularly, we have developed a comprehensive and differentiated clinical model of care for value-based care. And that is appealing to all of the large national payers who we work with closely, Lance.
+And so you'll see us continuing to grow our book of value-based care lives with all national payers and regional payers who see the value that we're able to provide both to them and to the members and hence, patients that we serve.
+And you heard a little bit earlier today from Dirk McMahon on our comprehensive home and community offerings and that's just one of our many platforms. And we weave these together in a comprehensive fashion and we think about not just the member, but the person or patient at the other side of this who's on a journey of health care. And some have multiple chronic diseases. Some want to focus on staying healthy and well and some have catastrophic issues that we have to help them navigate effectively. And our ability to do that is unique and differentiated in the health care industry.
+So I think you'll see continued growth with multiple payers. We have enjoyed that this year and will continue to do so as the year progresses. And as Andrew touched on, we really view ourselves not as solely a senior health care provider but as a provider for all walks and ages of lives and particularly commercial. So we have commercial offerings in Texas, in California and Massachusetts today and they're a meaningful part of our 4 million fully capitated lives already today. And you'll see us continuing to grow in those established markets with commercial and multiple payers as well as going into new markets. Thank you.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [33]
+--------------------------------------------------------------------------------
+Thanks, Wyatt. Lance, thanks so much for the question.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Next question comes from Kevin Fischbeck with Bank of America.
+
+--------------------------------------------------------------------------------
+Kevin Mark Fischbeck,  BofA Securities, Research Division - MD in Equity Research    [35]
+--------------------------------------------------------------------------------
+I just want to go back to MA for a minute. You guys -- it sounds like you're saying the MA changes that are happening are not significant enough to -- in isolation as a individual component to take you off your 13% to 16% EPS growth targets over the next few years. I just want to clarify that.
+But then I understand that the 3-year phase-in is important to allow you to adjust to it. But at the same time, trying to understand, if there's a way to think about this. Are you thinking about the impact as being ratable? Or is it a scenario where it's easier to offset it in the beginning because there's always low-hanging fruit and it's harder to offset the impact in year 3? Or is it the opposite, where it's harder to offset the impact in year 1 because you don't have enough time to adjust and it's easier to impact in year 3 as you have more and more time to adjust? Just trying to figure out if there's a difference in how this will play out over the next 3 years and how we should think about your growth?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [36]
+--------------------------------------------------------------------------------
+Kevin, thanks so much for the question. So to your first point, no, you're absolutely right. We remain firmly of the view that the 13% to 16% long-term growth rate of adjusted earnings per share is very much the zone we're in. We -- you see that again this quarter. We continue to believe that is very much in our horizon as we go forward. Obviously, any given quarter might vary around that but that very much is the zone we expect and I made that comment a little bit earlier. So for sure on that.
+Listen, as far as this -- the phase-in comes, this will all depend -- different companies will behave differently, I suspect, through all of this. And we see, of course, this change here. We will be making changes to some things in our costs and other areas, as Brian talked about earlier on. Other providers may choose to do things differently.
+How it plays out, I think, is actually going to be a little bit of a competitive environment, actually and I think it's not something we probably want to get too much into in terms of predicting or sharing exactly how we're going to respond to this. We're getting close to a bid cycle. It's a super important time. We are deeply fixated on making sure that we continue to grow. To do that, we need to make sure that our bids are super competitive. And we're working on that and we'll work our way through it.
+And as I said earlier, the phase-in gives us confidence that we can align with where CMS wants to end up in a way which gives the best chance of beneficiaries being looked after appropriately and that's what we want to try and do. Thanks so much for the question.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+Next question comes from Erin Wright with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Erin Elizabeth Wilson Wright,  Morgan Stanley, Research Division - Equity Analyst    [38]
+--------------------------------------------------------------------------------
+On your commercial risk membership, can you speak to what you are seeing there? And is there anything to glean in terms of how Surest is tracking relative to your expectations?
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [39]
+--------------------------------------------------------------------------------
+Erin, thanks so much for the question. I'm going to ask [Dan Kito], who runs our E&I business to respond. Dan?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [40]
+--------------------------------------------------------------------------------
+Yes. Thanks, Andrew. Thanks, Erin, for the question. And yes, our momentum in the first quarter clearly continued the momentum we had in the back half of last year and puts us well on track, as John said in his prepared remarks, to meet our investor conference goal -- investor conference targets rather, of [$850 million to $1.5 billion] growth. 
+Surest was a component of that. Surest was a component, about -- accounting for about 25% of our growth in the quarter as that product continues to be adopted. We've shared before that 1 in 9 of our national accounts actually have that product today. We're continuing to see that expand down into the middle market currently as the growth of that product continues. And we also are beginning to experience take-up now on a fully insured basis for that product on a risk basis.
+We shared at the investor conference that Surest was available in 12 states on an insured basis with a year-end target for this year of upwards of 35 states. We currently offer that product in 25 states. So it is a meaningful contributor to our growth and we expect it to be so for the remainder of the year and into the future. Thanks for the question, Erin.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [41]
+--------------------------------------------------------------------------------
+Dan, thank you so much. And I just might add something here, Erin, as well. I mean, I think you can see in this Q, you saw it as we rolled into the second half of last year, we're optimistic for the rest of this year. I said earlier that we are expecting continued robust growth on commercial insurance into '24. We really feel like this engine has lit up again and it's super important for the organization. Alongside the fantastic growth you're seeing in the government books of business, in Medicaid and Medicare, we're now seeing the commercial business really come to the fore again, which is a fantastic thing to see within the company.
+What you've also just heard a little bit is the way in which Optum is developing its capability to be ready to add even more value to the commercial. So just as that Optum business has built up strength to complement UHC's leadership in Medicare, for example, you just heard Dr. Decker talking about doing the same thing in commercial. As that growth comes in from Dan's organization, you can see how that could play out, is the super important shift and having all those engines fire in simultaneously is really good for us and it's what's driving this growth we're seeing in Q1. 
+So thanks for the question, Erin.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+Next question comes from Ben Hendrix with RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Benjamin Hendrix,  RBC Capital Markets, Research Division - Assistant VP    [43]
+--------------------------------------------------------------------------------
+We've received a number of questions on the EMIS acquisition in the U.K., especially now with the CMA's phase 2 investigation. And I know you can't comment on that specifically. But I was wondering if you could recap the key strategic priorities with this acquisition and discuss the specific capabilities within the platform that OptumInsight or other businesses can leverage.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [44]
+--------------------------------------------------------------------------------
+Yes. Ben, thanks so much for the question. Yes, obviously, I can't get into the detail of the regulatory review. But a couple of things to say. So for a long time, many years, Optum has had a business in the U.K. Obviously, the U.K. is a very different type of marketplace to the U.S., but it has a couple of interesting -- very interesting components.
+One is, you've got very much a primary care-dominated environment, which is obviously very akin to big pieces of OptumHealth. And it's also a marketplace which has looked to develop its abilities around data and connectivity.
+EMIS, which is the company we are very keen to partner with, we think could be a very important complement to Optum capabilities, particularly as it speaks to helping us connect some of our software capabilities, data analytic capabilities to primary care providers. About 40% of British primary care providers are connected into the EMIS networks. We think that gives a great opportunity to bring fantastic value to the physician practices and then ultimately to the National Health Service.
+And what we'd like to believe, if we're able to go through that transaction, is that it can really allow us to start to create another node of innovation alongside all of our other technology platforms to start to develop technology software platforms and the like, which not only could be used in a market like the U.K. but in other economies around the world which perhaps have slightly different shaped health care systems to the U.S. health care system. 
+So we see this as good for the U.K. We think it's potentially an interesting opportunity to further enhance our investments and progress in technology and software development. And it's why we're keen to continue the process to get the transaction done. And obviously, we will be working diligently on that. Thanks so much for the question, Ben.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Next question comes from Scott Fidel with Stephens.
+
+--------------------------------------------------------------------------------
+Scott J. Fidel,  Stephens Inc., Research Division - MD & Analyst    [46]
+--------------------------------------------------------------------------------
+Was actually hoping just to revisit the full year revenue guidance. Just given the first quarter, clearly, you were pacing better than The Street and you've since closed LHCG. And you're now looking to eclipse the high end of your MA target for the year. So clearly, it seems like there's a lot of upside momentum relative to the initial guidance you gave at Investor Day. I know you don't typically update the revenue guidance intra-quarter or during the quarters but certainly interested if maybe you can give us some refined thinking around that.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [47]
+--------------------------------------------------------------------------------
+Yes. Thanks so much. Let me ask John to comment.
+
+--------------------------------------------------------------------------------
+John F. Rex,  UnitedHealth Group Incorporated - Executive VP & CFO    [48]
+--------------------------------------------------------------------------------
+Scott, yes, good strength and growth really across the businesses in the quarter. And we're through some of those areas really across both UHC and Optum in terms of the strength we're seeing in terms of membership growth; in terms of the performance of the other businesses, OptumRx, a call-out here in terms of the strength they've seen in terms of their new customer wins and retention; and OptumHealth in its growth in value-based lives. So all strong contributors to that.
+And yes, we're a little ahead of kind of where the view was in terms of the external view on revenue guidance. So certainly, we're positively biased in terms of the type of growth that we're seeing across the enterprise. Happy to see that. You're also right, probably not doing any updates here in the first quarter in terms of that full year view at this distance but really a strong place to start the year. Thank you.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [49]
+--------------------------------------------------------------------------------
+Thanks, John.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+Our last question will come from David Windley with Jefferies.
+
+--------------------------------------------------------------------------------
+David Howard Windley,  Jefferies LLC, Research Division - MD & Equity Analyst    [51]
+--------------------------------------------------------------------------------
+I wanted to ask another question on MA and value-based care. I'm wondering if the risk model, Andrew, changes your views about the target member in MA, that is, say, most attractive to target between individual MA versus duals.
+And in value-based care, seeing the nice growth, particularly interesting to us that the eliminations grew a lot, which I'm inferring is intercompany between OptumHealth and UHC. And I'm wondering if that is a signal that duals were a big part of the value-based care add in the first quarter. So kind of a [weeds] question but strategically, basically interested to know if duals are still a very important target for MA.
+
+--------------------------------------------------------------------------------
+Andrew Philip Witty,  UnitedHealth Group Incorporated - CEO & Director    [52]
+--------------------------------------------------------------------------------
+So David, thanks so much for the question. So you're quite right, the eliminations are -- a big piece of that is the Optum Health UHC dynamic and not surprising because you see such a high rate transfer in Q1. A large fraction of that 700,000 is UHC, not -- obviously, others as well but a large fraction. And of course, within that, as we guided last year, significant proportion of dual special need patients who -- most complex patients, really, I think, particularly appropriate patients to benefit from a value-based care approach where you have a really integrated wraparound sort of capabilities. So it's certainly true on all of that.
+I'm going to slightly disagree with your premise here. We're not in the business of targeting a certain type of member or patient. We want to look after Medicare patients and members, whether they are community MA, whether they're dual special need, whether they're complex or not, whether they're early in their disease in an aging patent or advanced in their disease in an aging patent. And then the job for our organization is to mix and match our capabilities to do that as efficiently as possible.
+And the great thing about OptumHealth, David, is that we have such an interesting portfolio of capabilities, which allow us to dial up and down our activities in response to what the patient needs and the way in which they need to be looked after.
+So I would say we're going to be continuing to lean in across the board. It's just as important to us to grow in dual special needs as well as community MA. And I'd say that the progress we make in terms of impacting these folks' lives and the reason why over 90% of members describe this as a high-satisfaction space is because they -- these people need the support at this stage of their life. And we think that between the programs that UHC offer and then the backup that OptumHealth brings in terms of deep clinical engagement really makes a difference and that's what drives us.
+David, appreciate the question. Thank you very much and I'm afraid we're at the end of the call. I hope you leave this call with a sense of our optimism and focus on continued growth for the year ahead. We remain intent on expanding our ability to help improve health care at the system and individual levels and executing with excellence for all those we serve. And we look forward to sharing our progress on this journey with you again in July. In the meantime, thank you so much for your questions and your attention this morning. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+And with that, that does conclude today's call. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

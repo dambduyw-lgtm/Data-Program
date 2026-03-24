@@ -1,0 +1,376 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2025 Mondelez International Inc Earnings Call
+JULY 29, 2025 / 9:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dirk Van De Put
+   Mondelez International Inc - Chairman of the Board, Chief Executive Officer
+ * Luca Zaramella
+   Mondelez International Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robert Moscow
+   TD Cowen - Analyst
+ * Megan Clapp
+   Morgan Stanley - Analyst
+ * Alexia Howard
+   Bernstein InstitutionaL Services LLC - Analyst
+ * Andrew Lazar
+   Barclays Bank PLC - Analyst
+ * Peter Galbo
+   Bank of America - Analyst
+ * Max Gumport
+   BNP Paribas Exane - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Please stand by. Your program is about to begin. If you need assistance during your conference today, please press 0. Good day and welcome to the Mondelez International 2025 second quarter earnings question and answer session. (Operator Instructions)
+On our, on today's call are Dirk Van De Put, Chairman and CEO; Luca Zaramella, CFO, and Shep Dunlap, SVP of Investor Relations. Earlier this afternoon, the company posted a press release and prepared remarks, both of which are available on its website.
+During this call, the company will make forward-looking statements about performance. These statements are based on how the company sees things today. Actual results may differ materially due to the risks and uncertainties. Please refer to the cautionary statements and risk factors contained in the company's 10-K, 10-Q, and 8-K filings for more details on forward-looking statements.
+As the company discusses results today, unless noted as reported, it will be referencing non-GAAP financial measures which adjust for certain items included in the company's GAAP results.
+In addition, the company provides year over year growth on a constant currency basis unless otherwise noted. You can find the comparable GAAP measures and GAAP to non-GAAP reconciliation within the company's earnings release at the back of the slide presentation.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Andrew Lazar, Barclays Bank PLC
+
+--------------------------------------------------------------------------------
+Andrew Lazar,  Barclays Bank PLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Great. Thanks very much and thanks also for putting out the prepared remarks this time this time around. Very helpful. Dirk, it'd be great if maybe you could do a brief walk through of the key geographies and how you see it all playing out in the second half.
+And then Luca, given the additional weakness in North America, what incremental actions can the company take, whether they be on the cost side or maybe more importantly on the demand driving side to accelerate growth there even in the context of a weaker category? Thanks so much.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Andrew. Yeah, maybe quickly, overall, we think the Q2 results are quite good. We had some good pricing. If you discount for the downsizing, we're flattish as it relates to volume mix, and our bottom line is slightly better than expected.
+I think what also is clear is that we have very good global balance in the sense that we see a continued weakness in North America, but we had a strong quarter in the rest of the world, and, since our sales are well balanced between the different continents that really helps us.
+The other one that's important for us is that chocolate and the significant pricing increases and RGM actions that we've done are playing out in line with expectations, so that's good. Our categories are showing continued strength, and we are maintaining our full year outlook. So overall, we feel good about the quarter.
+If I go a little bit around the world, maybe starting in Europe, a good quarter in Europe, with good numbers, strong share gains, clearly the business is very resilient. The consumer is more confident in Europe, still quite fragile and frugal spending, but snacking continues to outpace food, and overall, I would say, we feel pretty good about our European business.
+Consumers are not exactly bullish, but, and they're focused on essentials, but they keep on buying our category even despite the significant price increases that we have to do in chocolate. If I go to the US, a little bit more of a difficult situation there. The, there's a lot of consumer anxiety. They look at a quite uncertain outlook as it relates to their personal finances, job expectations, inflation.
+So they tend to focus more on essential on essential items. The size of the basket is getting very important, absolute price points, there's channel shifting going on. There's more promotions and some pack shifting too. So, overall we see a pretty soft biscuits category, probably performing a little bit better than other snacking categories with holding share, but overall the volume is declining.
+Switching to the emerging markets, we feel very good, double-digit growth. We have a sustained volume and volume growth. We have very good share gains in Brazil, in India, and Mexico. Consumer confidence is softer in these markets. They are worried about their personal finances, job security, inflation.
+So we see the same channel shifts mainly into bulk and discount in places like China. We also see the pack shift, but emerging markets continue to be an attractive growth engine for us. And if you look at our four major markets, we feel good about China, India, Brazil, Mexico has been softer. But overall I would say clearly a strength this quarter in emerging markets.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you for your question, Andrew. So as far as North America goes, first of all, there is clearly a consumer sentiment that is impacting consumption across the board. We have no planned for a material rebound of the category in the rest of the year. So I want to reassure you that in the guidance we have given, we have reaffirmed there is no material improvement of the US general sentiment.
+In terms of passing the plan up, what we have done is, first of all, we have announced incremental pricing that is going to take effect in a few weeks in North America. I won't elaborate much, but we are clearly, at a point in time where we see inflation going up. Our cost base is higher, particularly because of Cocoa, but not only.
+And I think that will boost revenue and top line. We have done quite a bit of work in terms of being very selective. Instead of picking the items, for instance, that we are most impacted by Cocoa, we went pretty much across the board with more limited price increases. We had protected certain points where we see consumers going.
+We also had protected specific formats that consumers favor in during their buying habits. We have a plan that aims at boosting productivity in the second part of the year and, the team has done a very good job in terms of ensuring cost control and I think you're going to see a rebound of the North American profitability, particularly in in Q4.
+The team continues to pursue incremental opportunities, particularly in alternate channels. We mentioned a few times that our shared gains in channels like Club and dollar, in, and dollar and value, they are clearly, outstanding, and we have again the opportunity to get to our fair share or closer to our fair share in those alternate channels.
+So quite a bit of actions that are planned for the second half, but again we are not putting out wishful thinking in terms of category, rebounds, etc. I think it is a fair assumption and safe one.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Peter Galbo, Bank of America
+
+--------------------------------------------------------------------------------
+Peter Galbo,  Bank of America - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Hey, good afternoon, Dirk and Luca. Thanks for the question. I wanted maybe to put a finer point on the previous question, particularly around the lack of change in guidance, for the second half, clearly you had a strong delivery on the first half.
+So, Dirk, maybe you can just put a bit of a finer point on the puts and takes in the second half. It seems like, maybe the US is a bit weaker than you thought, but then there's other pieces that are holding it up. Any other considerations that we should really think about, as we contemplate that.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          Yeah, so, yeah, we're trying to be vigilant and make sure that we can execute against our agenda. I think that we have accounted in our outlook for the tougher areas as Luca was pointing out. So, the ones that we are keeping an eye on, first one would be chocolate. What we've seen in the chocolate in Europe is a very good Easter. We executed well in our RGM and pricing strategy, that's in the market.
+Then in June and July, there was quite a heat wave in Europe and so volumes were lower than expected. In the last two weeks, the temperature has gone down, and we see the volumes come back. So we are quite vigilant on chocolate elasticity for the second half of the year, but it's difficult to read at this stage with this heat wave heat wave in Europe.
+As it relates to the US, we really don't see an immediate change. If anything, I think the consumer will see the full effect of the tariffs in the second half, and so we will see where the consumer confidence and the consumer spending will go.
+And so we have to be careful of that. And I would say those are the two big factors that make us keep our current outlook. There, like Luca said, we've included, I think a realistic view of what is going to happen in those two, and that seems at this stage for me the best stance that we can take.
+
+--------------------------------------------------------------------------------
+Peter Galbo,  Bank of America - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Okay, thanks for that and Luca, maybe just as a follow up, there's obviously been a lot of discussion around, the move in cocoa and cocoa butter in particular, which I think has moved in a pretty favorable direction. So maybe you could just talk about how we should extrapolate that, how you're thinking about it as you begin to contemplate hedging for '26. Thanks very much.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [9]
+--------------------------------------------------------------------------------
+
+          I think when you look at the cocoa market fundamentals, they are going in the right direction. There has been clearly a pressure point in terms of demand. I think you saw the grinding numbers being down 7%, 8%, and that drove a couple of weeks ago. A low level of cocoa price below, the GBP5000 per ton mark. Clearly, we took advantage of that, and it is what we said to you many times, which is many adjacent categories are formulating out of real chocolate and moving into what we call compound.
+The pot count in West Africa is very promising. The weather has been cooperating. And look, notwithstanding the fact that there is still a long way to go. Today with the 50% confidence level, we can say that the season is going to be good in terms of the crop. And so potentially there is a material and meaningful upside between supply and demand into the 2026 season.
+The level of the industry stock is still low, so many are on the watch out still. And so I believe the sentiment, the overall sentiment is that sooner or later, cocoa prices will have to come down. On the cocoa butter, which is the most noble part of cocoa, and it is the one we use the most around the world, and that is what allows you to call chocolate.
+For instance, in places like Europe. It has come down dramatically, I would say, versus last year. It is usually traded as a ratio to the overall cocoa prices. Last year it was, most likely at a certain point in time, even higher than three, and it went almost to four. And today, it, I think we can strike contract with supplier, for most likely half of that price and ratio.
+And so there is a material benefit coming which obviously, is offsetting, the cost we have seen as of late, but in general, we feel like cocoa prices will have to come down.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Megan Clapp, Morgan Stanley
+
+--------------------------------------------------------------------------------
+Megan Clapp,  Morgan Stanley - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Hi, good evening. Thanks so much, maybe another follow up on the second half outlook. There was a comment in the prepared remarks just about some of these headwinds reducing your flexibility, and I guess if I were to look at what's implied in the second half in terms of organic sales growth, it's roughly similar to what you reported in the second quarter and just wondered if we could talk a little bit more about the regions and how to bridge from the second quarter to the second half.
+It does seem like you have good momentum in emerging markets. You'll have more pricing coming through in Europe, understand maybe elasticity is a bit higher, North America's weak, but look, if I understood you correctly, maybe North American could get a little bit better. So what are kind of the offsets that I'm missing that reduce the flexibility in your minds as it relates to the second half? Thank you.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [12]
+--------------------------------------------------------------------------------
+
+          Thank you, Megan. So, as far as outlook goes in the prepared remarks, we make a comment about a little bit less flexibility. What we mean by that is really that the unprecedented heat wave that impacted chocolate in Europe is clearly something we couldn't predict as well as the impact we had, particularly, in the US because of the trade destalking.
+So that's what we really mean by a little bit less flexibility. You might imagine we try to keep always a little bit of a buffer, particularly as we give guidance because things can happen. I think what we see in the last couple of weeks in Europe is the weather being more collaborative with us and we see chocolate consumption coming up and you might imagine it is a little bit hard to distinguish between elasticities and weather consumption.
+But the latest indication is that the volume impact on chocolate is more benign than we have seen in the last, I would say a couple of months. Now, that has implications in terms of shipments in Europe in Q3. And so we are a little bit prudent in terms of projecting Europe, particularly in in Q3. North America, the pure fact is that the major market, category-wise, is at this point down volume wise minus 3%.
+The category started going south. In Q4 and even in Q3 last year, we are lapping, but we are projecting our category volume wise to be down, still 3%. Now there is pricing, so revenue should go up from what you have seen, particularly this quarter on the positive side and clearly top bottom line should go up as well from what you have seen this quarter.
+In emerging markets, we have implemented multiple ways of pricing. We are out with a new price, both in India and Brazil that are the main markets we have in emerging markets. And so again, we need to stay quite prudent and see what happens to elasticities. We don't have reasons to believe that elasticity is going to be worse than what we planned for at this point in time, but again, we want to be on the cautious side.
+Our biscuit business continues to do well, excluding North America. Actually here today, revenue is up. A little bit more than 7%, and again, we project a combination of that. So we really want to be on the prudent side, I would say.
+I'm not suggesting that the guidance is slam dunk at this point in time. You know that in the US, most likely there is a wave of inflation coming up and so we have to be, we have to stay prudent and execute with excellence as I think we have done in most of the cases in the first half.
+
+--------------------------------------------------------------------------------
+Megan Clapp,  Morgan Stanley - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Okay, great, super thorough and helpful, thank you. And then maybe just to follow up on Cocoa, when we came into the year you said there's essentially two scenarios in terms of '26. One is Coco comes down and you have higher earnings upside potential two is it is elevated, you have to take a bit more pricing and you mentioned you took advantage of the recent drop in cocoa prices.
+But how are you thinking about, whether or not you might have to do a little bit more pricing, some more RGM, and I guess how are you thinking about that into the back half of this year?
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [14]
+--------------------------------------------------------------------------------
+
+          So I think, look, this is one of the unknowns of the plan. I think, but I might be proven wrong. I believe that with the new crop data, we will know which direction Cocoa is going to take, particularly for 2026. And I think there are possibly two scenarios. One, it is, it stays elevated, but the other one is it might go down, quite rapidly because if there is a surplus, between supply and demand, I think, there will be material coco availability that will drive prices down.
+In the first case, I think we might need or not, additional pricing based on where Cocoa is. If it stays where it is, I think all the actions that we are about to take from now to the end of the year. In some of the markets, I think will put us in a good spot. I said many times that when I look at the underlying per kilo of cocoa or the chocolate business gross profit dollars, I see a number that I like as we exit the year.
+Remember that pricing as a carryover as well into next year. And so if Cocoa stays elevated, there might be additional pricing, but I think in all in all, we should be in a good spot at the end of the year. If Cocoa comes down, the question becomes, what do we do to protect demand, what do we do to face potentially some competitive actions, etc.
+But in the end, I think the P&L will try because if I apply the elasticity, we have seen on the way up to the way down, there is either material price upside or there is a potential volume rebound. Also remember one critical thing which we said many times, the virtual model of this company has been in the last few years to protect, gross profit dollar growth.
+As opposed to percentages, but it has also been investing, particularly in working in media and in good to market, and we will continue to do so and potentially in 2026, we'll step it up depending on the level of cocoa to the point where we really re-establish a virtual cycle which is volume growth, shared growth, generation of GP dollars and again good cash for the company.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Robert Moscow, TD Cowen.
+
+--------------------------------------------------------------------------------
+Robert Moscow,  TD Cowen - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Hi, thanks for the question and maybe just a couple of things to clarify, Luca. The comment that you need to invest in working media in 2026, a lot of other companies do that when they've reduced media in a given year. So it doesn't sound like that's what you're doing, so maybe you could explain whether that's like a catch up in '26 or not, and then I'll ask a quick follow up.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [17]
+--------------------------------------------------------------------------------
+
+          Yes, Rob, I'll take that. So, the way I would describe it is that we will have a chocolate category whereby the price will have gone up 30% to 50% in the last two years, and what we see is consumers are staying in the category. But they're diminishing their frequency and they're diminishing the quantity bought.
+So we expect that after all the price increases and even if cocoa comes down, I'm not expecting that it will come down enough for us to see significant price reductions in chocolate. We will have to support our brands and make sure that the volume in the category remains or goes back to where it historically has been.
+I don't know where we will end the year, but you could expect chocolate volumes around the world to be down. So far, we see down 6%-7%. That's the latest news on grindings for cocoa. So that's the main reason why we think we will have to reinvest.
+On top of that, as it relates to biscuits, particularly the US, we see a very anxious and weak consumer situation. I'm not expecting that that immediately will be better next year. So I'm expecting that we will have to increase our investment in our brands also in North America next year. Those are the two main reasons why we believe that it is appropriate to increase our media investment next year.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [18]
+--------------------------------------------------------------------------------
+
+          And you're right, we have protected working media. This year what we have got is the nonworking bar. And so I wouldn't say the baseline is terrible, but this year, unlike other years, we haven't increased working media much.
+
+--------------------------------------------------------------------------------
+Robert Moscow,  TD Cowen - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Okay. And my follow up is I noticed Luca that you said, category volume down about 3% in biscuits in the first half, you expect it to be similar in the second half, but then you're also raising prices in the US and you've mentioned that the consumer is under a lot of pressure. Is this one of the flex points that might go the wrong way, and how much pricing do you think you'll raise in the US?
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [20]
+--------------------------------------------------------------------------------
+
+          Look, I'm not going to comment specifically on the amount of pricing yet but as I said, the price increase that we are about to take has been quite surgical. We mentioned to you a few times that, between $3 and $4 per pack, it is the magic of being there and attracting consumers.
+And that's what really, we are about to, not to touch. We will protect those price points. I, we mentioned to you that there are specific pack sizes that are very relevant to consumers like the multi packs. We are keeping those price points. There are brands that are not our top brands necessarily where we're going to go with higher prices and that over time has proven to us that elasticity is not material.
+And then there is a whole host of ideas as to what we have to do to boost consumption in the second half, particularly as it boils down to RGM. And promotions, I think the team has a slate of actions that hopefully will lead to much better brand new results.
+So you're right in saying how do you reconcile the fact that consumers are price sensitive to a price increase, but we have done our homework and we believe there is not going to be a material volume repercussion on consumption in our case.
+
+--------------------------------------------------------------------------------
+Robert Moscow,  TD Cowen - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Alexia Howard, BERNSTEIN.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [23]
+--------------------------------------------------------------------------------
+
+          Hi Alexia.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [24]
+--------------------------------------------------------------------------------
+
+          Hi.
+
+--------------------------------------------------------------------------------
+Alexia Howard,  Bernstein InstitutionaL Services LLC - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Hi, can I start with a question on uses of cash? It seems as though you are taking on a bit more debt in order to repurchase shares. I think you put a $9 billion share repurchase approval over the next three years out at the end of last year. Should we expect that dynamic to continue, how are you thinking about the trade-off between taking on debt and continuing to repurchase our shares at this point?
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [26]
+--------------------------------------------------------------------------------
+
+          Look, the number one ticket item between the balance of cash flow and share purchase and dividend is actually the Forex impact on our debt. Our debt composition is made up of obviously a dollarized space but importantly of the Euro of GBT of the [you call it]. We have diversified the currency nature of our debt over time, and we believe that this is the right action to take.
+The second thing which is not capturing debt is we have meaningful net investment hedges that hedge the composition of the balance sheet and the variety of currencies that we have functionally around the world. So looking at the debt that is impacted by Forex and not looking at the overall balance sheet and the gains, the material gains we are making on the net investment hedges is a little bit misleading.
+But to your point about shares, I stick to what I said in the Q1 call. We have been buying back quite a bit of shares at a very compelling price which was below $60 per share on average. We are going to be very pragmatic. Should the stock for any reasons, and quite frankly, I have to say, when I fast forward and I see Cocoa coming down, when I see Mondeli in a context where many companies are challenged, printing a number on top line, which is quite good.
+As I look at the plans around the world, I believe we are setting ourselves up for a decent 2026. I don't believe necessarily the stock price is going to go down much, I hope from here, but in case it does, we are going to be pragmatic and buy back more stock. And I think in hindsight, as Cocoa normalizes and we look at our normalized earnings, this will be one of the best deployment of capital decisions we have made.
+
+--------------------------------------------------------------------------------
+Alexia Howard,  Bernstein InstitutionaL Services LLC - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. And as a follow up, the weakness in North American volumes. I know you've attributed it to weakness value seeking behavior on the part of consumers. How are you thinking about the GLP-1 impact on these indulgent snacking categories, particularly as we think about pill versions coming out next year? Is there a danger that North America sees continued pressure?
+Obviously, your other regions are doing fine, which is great, but I'm just thinking about how you prepare for that eventuality next year. Thank you, and I'll pass it on.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [28]
+--------------------------------------------------------------------------------
+
+          Yes. Well, I mean from our perspective, there is currently no real impact on our volumes coming from GLP-1. We did an in-depth analysis in North America. And most of the negative volume that we're seeing and the changing in consumer buying is all driven economically, the anxiety about the future, the frustration with the inflation, and so on.
+If we look at the numbers at this stage, the penetration of the drug in the adult penetrate and in the adult population is about 4%. The reduction in calorie intake at this stage is about 11%, and consumers are staying about nine months on the drug.
+The penetration is not going up at this stage. And so if you think about it, 4% of the population reducing their calorie intake by 11%, that is a 0.4% effect on the total population, of the total calorie intake -- and so that is an almost invisible effect for us.
+Even if we extrapolate that for '26, we do not see a major increase in the penetration of GLP-1 ones happening and so I think even in 2016, and to be honest, we even extrapolate it for 10 years. We do not think that the effect will be significant. So, we don't think that the current weakness that we see in the snacking category is driven by GLP-1's, nor will it be in '26.
+
+--------------------------------------------------------------------------------
+Alexia Howard,  Bernstein InstitutionaL Services LLC - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Helpful. Thank you so much. I'll pass.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Max Gumport, BNP Paribas Exane.
+
+--------------------------------------------------------------------------------
+Max Gumport,  BNP Paribas Exane - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Hey, thanks for the question. Just sticking on North America, I wanted to get a better sense for the retailer the stocking that you saw. I'm hoping to get more color on what drove it and how you think it plays out or recovers from here. Thank you.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, it's sometimes difficult for us to put ourselves in the place of the retailers, but we believe that this is driven by a number of things, but in the first place, probably the retailers wanting to manage their cash flow. If you think about it, there's an overall slowdown in consumption. Tariffs were coming.
+They probably wanted to import more from the countries that were going to be affected, so they increased the imports and increased their inventories in certain items and wanted to offset that by reducing other items. The second reason I think is there's an overall slowdown in food consumption and also in snacking. So there's a need for them to have less inventory at this stage.
+For me, those are the two main reasons. As we said, we still have significant opportunity in other channels. So, one of our strategies is to shift more of our pressure into channels like the value channels or e-commerce or the discounters, and that is giving us an opportunity to offset some of that destocking that we've seen in the retailers.
+But overall, I think those were the factors that drove it. We were a bit surprised to still see some of that in Q2, but I think we now have that behind us and Q3 should be clean as it relates to in retailer inventory.
+
+--------------------------------------------------------------------------------
+Max Gumport,  BNP Paribas Exane - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Great. Thanks very much. I'll leave it there.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [34]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          That will conclude the question-and-answer session. I will now turn the program back over to Dirk Van De Put for any additional or closing remarks.
+
+--------------------------------------------------------------------------------
+Dirk Van De Put,  Mondelez International Inc - Chairman of the Board, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Well, I want to thank everybody for their interest, for their attendance to the call, and I can always follow up on more questions with our IR group, and, I'll see you for the call, a quarter from now. Thank you.
+
+--------------------------------------------------------------------------------
+Luca Zaramella,  Mondelez International Inc - Chief Financial Officer, Executive Vice President    [37]
+--------------------------------------------------------------------------------
+
+          Thank you everyone.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Thank you this does conclude today's call. We thank you for your participation. You may disconnect at any time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

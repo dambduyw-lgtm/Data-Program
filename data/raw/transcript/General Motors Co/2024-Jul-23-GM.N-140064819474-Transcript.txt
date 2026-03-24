@@ -1,0 +1,694 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 General Motors Co Earnings Call
+JULY 23, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Ashish Kohli
+   General Motors Co - Vice President of Investor Relations
+ * Paul Jacobson
+   General Motors Co - Chief Financial Officer, Executive Vice President
+ * Dan Berce
+   General Motors Co - President and CEO of GM Financial
+ * Mary Barra
+   General Motors Co - Chairman of the Board, Chief Executive Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * John Murphy
+   Bank of America - Analyst
+ * Chris McNally
+   Evercore ISI - Analyst
+ * Daniel Roska
+   Bernstein Research - Analyst
+ * Dan Levy
+   Barclays Corporate & Investment Bank - Analyst
+ * Dan Ives
+   Wedbush Securities - Analyst
+ * Joseph Spak
+   UBS - Analyst
+ * Tom Narayan
+   RBC Capital Markets - Analyst
+ * Itay Michaeli
+   Citi - Analyst
+ * Mark Delaney
+   Goldman Sachs - Analyst
+ * Ryan Brinkman
+   J.P. Morgan - Analyst
+ * James Picariello
+   BNP Paribas Exane - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning and welcome to the General Motors company second quarter 2024 earnings conference call. During the opening remarks, all participants will be in a listen-only mode. After the opening remarks, we will conduct a question and answer session. We are asking analysts to limit their questions to one and a brief follow-up. (Operator Instructions)
+As a reminder, this conference call is being recorded Tuesday, July 23, 2024. I would now like to turn the conference over to Ashish Kohli, GM's Vice President of Investor Relations.
+
+--------------------------------------------------------------------------------
+Ashish Kohli,  General Motors Co - Vice President of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thanks, Amanda, and good morning, everyone. We appreciate you joining us as we review GM's financial results for the second quarter of 2024. Our conference call materials were issued this morning and are available on GM's Investor Relations website.
+We are also broadcasting this call via webcast. Joining us today are Mary Barra, GM's Chair and CEO; and Paul Jacobson, GM's Executive Vice President and CFO; Dan Berce, President and CEO of GM Financial will also be joining us for the Q&A portion of the call.
+On today's call, management will make forward-looking statements about our expectations. These statements are subject to risks and uncertainties that could cause our actual results to differ materially. These risks and uncertainties include the factors identified in our filings with the SEC. Please review the Safe Harbor statement on the first page of our presentation.
+That the contents of our call will be governed by this language.
+And with that, I'm delighted to turn the call over to Mary.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Ashish, and good morning, everyone. I want to begin today's call by thanking the GM team as well as our dealers, suppliers and other business partners for helping us deliver strong second quarter and first half results, including record revenue in both periods.
+There are four key drivers to our performance and our new higher guidance I'd like to highlight. First, our past investments have created a consistently high performing portfolio of ICE trucks and SUVs from a volume, share and margin standpoint.
+Next, our EV portfolio is scaling well and gaining market share. In fact, our US EV deliveries grew 40% year over year in the second quarter, while the industry grew at 11%. We're encouraged by these early results because disciplined volume growth is key to earning positive variable profits from our EV portfolio in the fourth quarter and maintaining strong ICE margins.
+Third, we continued to deliver stable pricing and our incentives on average have been more than 100 basis points below the industry average for four consecutive quarters.
+And finally, with our new investments, we have even greater focus on margins and capital efficiencies, great vehicles and better execution will continue to differentiate us. In the first half, Chevrolet Silverado and GMC Sierra volumes in the US were up a combined 5% versus a year ago, and we gained 3.5 points of market share with disciplined production and consistent pricing.
+In addition, sales of our redesigned Chevrolet, Colorado and GMC Canyon midsize pickups were up 31% year over year with ATPs up 9%. In SUVs, we're executing a full-court press with 8 all new redesigned compact, midsize and full-size models that began arriving in showrooms during the second quarter.
+They include some of our most profitable nameplates like the Chevrolet Traverse, GMC Acadia and the Buick Enclave, which will be available with Super Cruise for the first time. We designed Super Cruise to let customers drive hands free for hours at a time on far more roads and with far fewer disengagements.
+Broadcasters and edmunds.com rated Super Cruise, the top hands-free driving system because it's confidence inspiring and its technical differences between our system and others, explain why Super Cruise is so smooth. The Chevrolet Equinox, our highest-volume SUV will also be all new and we expect it to be more profitable than the outgoing model, just like our family of midsized, Buick, GMC and Chevrolet SUVs.
+This is a function of several strategic decisions, we've made. First, the styling is bolder and more truck-like for the Chevrolet and GMC, while the Buick Enclave adopts the brand's sophisticated new design language.
+Next, we elevated the comfort and technology features to make them even more desirable. Than we leveraged our proven platforms and component sets for lower cost and greater efficiency. Winning with Synplicity, which is our drive to eliminate unnecessary complexity in the way we engineer and equip our vehicles will help ensure that we can continue to sustain and even improve our margins in the future.
+For example, through smarter contenting and optimizing selectable options. We have been able to eliminate more than 2400 unique parts on 10 vehicles were launching through the first quarter of 2025. And the 2025, Cadillac LYRIQ alone, we reduce the part count 24% from the 2024 model year with no compromises to performance or features.
+The list of parts or subsystems that we no longer need to design engineers, source, install and warehouse is extensive. And includes complex and relatively costly seat assemblies [consoles], door trends and patients. A crucial element is reducing the number of billable electrical combinations, which is delivering hardware and software quality improvements as well as savings.
+The work is helping us meet our $2 billion fixed cost reduction program this year and the savings will be even greater in the future. As I said before, our EV portfolio is growing faster than the market now that our module issues are resolved and we are scaling production. Our early sales are mostly incremental, about 54% of customers are new to GM, and we're working to increase our conquest rate by raising awareness and launching new models.
+Our best-selling ED, so far this year is the Cadillac LYRIQ, and it is now the market leading luxury EV in 22 states, including Florida, Texas and Michigan, the GMC Hummer EV and the Chevrolet Blazer EV are also building momentum. To unleash the next cycle of EV growth, we're scaling production of the Chevrolet Equinox CB with its unique combination of performance, technology, range and affordability.
+We delivered our first thousand units late in the second quarter and the reaction from customers, dealers and the media is very strong. One product reviewer said Chevy seems positioned to grab a piece of the pie that no one else has quite grabbed onto yet, and we think that is spot on. And over the next several months, GMC will launch the Sierra EV and the Cadillac LYRIQ will be joined by the OPTIQ Escalade IQ and [Celestic].
+We're especially excited about the OPTIQ current driver said it [nailed], the compact luxury SUV formula. And next year, when we follow with the Celestic, Cadillac will have a beautifully designed EV in every global luxury SUV segment. We're going to focus on winning new customers with these nameplates as well as with the next-generation Chevrolet Bolt EV, because they represent the largest growth opportunities for us.
+We've also made adjustments to ensure we have a balanced approach as the market develops. This includes deferring viewings for CV., which had been planned for 2024. As we're expanding choice. Other barriers to EV adoption like public charging access are also improving.
+We are working to finalize commercial agreements with Tesla to give our customers access to their charging network via IONNA fast-charging venture we joined is expected to bring its first chargers online before the end of the year, and customers are telling us the drive-through plazas we're rolling out with pilot company are the best public charging experience out there.
+As excited as we are about our portfolio, we are committed to growing responsibly and profitably in any demand environment. Over the next few years, third party forecasters now see the EV market growing steadily, but more slowly than it did over the last few years.
+As a result, we are adjusting our spending plans to make sure we're capital efficient and moving in lockstep with customers. For example, our Ultium Cells joint venture continues to ramp up domestic battery cell supply this year, which is helping drive profit improvement in our EV portfolio.
+As we go forward, we're going to bring additional capacity online in a measured cadence. This will enable us to better optimize our battery chemistry and form factors to meet our customers' needs, on cost and range. We've also decided to reopen the Orient assembly as a battery electric truck plant in mid-2026.
+The new timing is six months later than our plan heading into the year. We're confident that we can meet customer demand for standout EV trucks in the interim by leveraging the production capability and flexibility we have in factory zero. We will also continue to take advantage of the flexibility we have to mix production between ICE and EV at key plants.
+Next I'd like to discuss our results in China. As you know, the market has significant excess capacity and many startups and established competitors continue to prioritize production over profitability. We have been taking steps to reduce our inventories, align our production to demand, protect our pricing and reduce fixed costs.
+But it's clear the steps we have taken while significant have not been enough. We had expected to return to profitability in China in the second quarter. However, we reported a loss and we expect the rest of the year will remain challenging because the headwinds are not easy. We are working closely with our JV partner to restructure the business to make it profitable and sustainable.
+I'll close my opening comments by recognizing the progress cruise has made over the last several months. As you know, cruise has returned to the road in Houston, Phoenix and Dallas, and we recently provided them with bridge financing to support their operational cash needs. They've also made several significant leadership appointments, including hiring Marc Whitten as CEO.
+Marc has decades of experience on the frontlines of technology transformations, which will be crucial as we move forward. Our vision to transform mobility using autonomous technology is unchanged and every mile travelled and every simulation, for instance, closer to because Cruise is an AI first company.
+We have some of the best engineers in tech building a cutting edge AI platform, harnessing the power of large scale Foundation models to continuously improve safe AV performance. The cruise team will also simplify their path to scale by focusing their next autonomous vehicle on the next generation Chevrolet Bolt EV instead of the origin.
+It's a win-win for both GM and Cruise. It addresses the regulatory uncertainty we face with the origin because of its unique designs. Per unit costs will be much lower, which will help cruise, optimize resources and enable them to deliver AV Tech at scale as quickly as possible. And the change will help GM fully leverage our investment in the Bolt EV with a major new customer for the product.
+We think all of these are important steps that will help us attract those who believe in the cruise mission and see the incredible long-term business opportunity of autonomous driving.
+And with that, I will turn the call over to Paul to walk you through our financial results.
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Mary, and I appreciate you all joining us this morning. Our second quarter results were driven by ongoing strong performance from our ICE business and stable pricing across the portfolio that once again outperformed our guidance assumptions for the quarter. And I'm pleased to share that pricing has remained relatively consistent thus far into July.
+As Mary mentioned, sales have been robust. We launched our new midsize SUVs, supporting stable pricing and generating stronger profit margins than preceding models. Highlighting our focus on profitable growth. Recent JD Power data showed that our US incentive gap compared to the industry average is expanding.
+In the second quarter, we ran roughly 150 basis points below the industry. While at the same time, our US retail market share increased by 70 basis points more than offsetting the lower fleet volume to rental companies. Our EV portfolio was gaining momentum.
+In the second quarter, our US EV deliveries were up 34% sequentially from the first quarter, driven by the Chevrolet Blazer EV and the Cadillac LYRIQ and moving forward will also benefit from the Chevrolet Equinox EV, which delivers more than 300 miles of range, and we'll be sub $30,000 after factoring in the consumer tax credit.
+On capital allocation, we repurchased $1 billion of stock in the quarter, retiring another 22 million shares, and in early July, completed the prior $5 billion stock authorization. We ended the quarter with a fully diluted share count of 1.14 billion, a reduction of 18% from a year ago.
+The open market share repurchases supplement the ongoing $10 billion ASR that is projected to be completed in the fourth quarter of this year, bringing our share count down to 1.1 billion.
+As a reminder, on the ASR, we paid the $10 billion upfront in December of last year and immediately retired 215 million shares. In the first quarter, the first tranche was completed and we retired another 4 million shares. In the second quarter, no additional shares were retired under the ASR as the banks continue to cover their positions in the 215 million shares they borrowed at the outset of the program.
+In the fourth quarter, we expect to retire another 20 million to 30 million shares, depending on several factors, including the average share price during that period, bringing the total number of shares retired under the ASR to around 250 million.
+On top of these measures last month, the Board authorized an additional $6 billion for share repurchases. Considering our belief that GM's share price is still undervalued, you should expect us to remain active in future share repurchases.
+Continuing the great progress we have made towards our goal of driving our share count below 1 billion outstanding.
+Getting into the second quarter results, revenue was up 7% to $48 billion, driven by higher wholesale volumes and stable pricing in North America, we achieved $4.4 billion in EBIT-adjusted, 9.3% EBIT-adjusted margins and $3.6 in EPS diluted adjusted. Recall that in 2023, we had inventory valuation adjustments of $1.7 billion for battery cell and EV finished goods inventory.
+We expected the allowance to be substantially lower in 2024 as we improve EV profitability and reduce our inventory levels. We made good progress in these areas during the second quarter and therefore reduced about $300 million of the allowance. And our guidance includes a similar benefit in both the third and fourth quarters totalling around a $1 billion benefit for the full year.
+We achieved adjusted automotive free cash flow of $5.3 billion during the second quarter, similar to last year and driven by our strong core operating performance, coupled with our capital discipline. North America delivered second quarter EBIT-adjusted margins of 10.9%, which resulted in $4.4 billion of EBIT adjusted up $1.2 billion year over year.
+This was driven by higher wholesale volumes, stable pricing, ongoing cost containment, EV valuation allowance benefit and a non-recurrence of the $700 million LG expense that we took last year. Pricing for the quarter was up $300 million year over year and better than what we assumed in our guidance, supported by new products like the Chevrolet Traverse.
+Moreover, our HD pickups and full-size SUVs continue to drive robust demand while maintaining low incentives. We also benefited from our fixed cost reduction program, realizing $100 million from lower marketing spend compared to last year.
+We remain on track to achieve $2 billion of net fixed cost savings by the end of 2024. Dealer inventory levels ended the quarter at 66 days. This is temporarily above where we were tracking earlier in June as we believe some sales for dealers using the CDK platform were delayed until the third quarter. We will continue to monitor our inventory and adjust production as necessary to maintain our targeted inventory levels of 50 to 60 days.
+GM International second quarter EBIT adjusted was $50 million down $200 million year over year. China equity income was a loss of $100 million, down $200 million year over year. Mary already touched on the difficult China market and the immediate steps we have taken with our JV partner to return to profitability as soon as possible.
+EBIT adjusted in GM International, excluding China equity income was $150 million flat year over year, but improved more than $50 million sequentially from the first quarter. GM Financial has consistently performed well with second quarter EBIT adjusted of $800 million, up $50 million year over year and tracking in the range of $2.75 billion to $3 billion for the full year.
+They continued to drive portfolio growth and paid a $450 million dividend to GM during the quarter. Cruise expenses were $450 million in the quarter, down $150 million from a year ago, reflecting a reduction in operational activities and a technology improvement focus intended to meet the high performance bar expected for EVs.
+We are very conscious of spend while at the same time, efficiently expanding operations across Phoenix, Dallas and Houston. In addition, Mary explained how utilizing the next generation of the Chevrolet Bolt EV will aid in scaling our robot-taxi business to create a more cost effective and scalable option. However, the decision to pause the production of Cruise Origin triggered a charge of roughly $600 million, which we recorded as a special item in the second quarter.
+Let's move now to our updated guidance. Given the positive momentum we've seen thus far and our confidence in the rest of the year we are raising full year 2024 guidance to EBIT adjusted in the $13 billion to $15 billion range. EPS diluted adjusted in the $9.50 to $10.50 per share range and adjusted automotive free cash flow in the $9.5 million to $11.5 billion range.
+Our cash flow guidance increases larger than our EBIT increase, primarily due to production alignment to market demand and further working capital benefits over the balance of the year.
+I'd also like to address why the implied second half EBIT adjusted is around $2.5 billion lower at the midpoint of our guidance range compared to the first half. There are three main reasons: first, we are assuming a bigger pricing headwind. Our guidance assumes pricing to be down 1% to 1.5% year over year in the second half versus essentially flat in the first half, which is a substantial improvement from where we started the year.
+Second, roughly $1 billion of costs are second half weighted. This includes about $400 million higher marketing spend to support more launches in the back half of the year. The remainder is related to higher commodity prices, particularly copper and aluminium and the timing of other EV costs, which we do not anticipate to be ongoing.
+Third, EV volumes are expected to build sequentially every quarter to achieve our full year target of 200,000 to 250,000. We produced and wholesaled 75,000 GM Ultium EVs in the first half of the year and expect this number to accelerate as we launch and ramp our new vehicles. As a result, mix will be a bigger headwind in the back half of the year as EVs have a variable profit lower than the portfolio average.
+We continue to monitor EV demand and inventory levels very closely. We acknowledge that Altium wholesales outpaced customer deliveries by about two to one for the first half of the year. This, however, is common when introducing a new vehicle given the need to build availability, options and customer awareness. As time goes on. If customer deliveries were to continue lagging wholesales, we will take proactive steps to balance production levels.
+The last item on EVs is that I'm pleased to report that we are making good progress towards achieving vehicle variable profit on our EV portfolio in the fourth quarter. Key drivers to reach this goal include, improved manufacturing scale and efficiencies, including module and pack assembly, reduce cell costs from improved scale and performance at our Ultium Cells JV, including working through our inventory of cells produced with higher battery raw materials.
+This has helped reduce our average cell cost by roughly $30 a kilowatt hour sequentially from the first quarter, and we expect further improvements in the second half of the year. And finally, improved vehicle mix as we scale our electric full-size trucks and SUVs.
+In closing, we are committed to maintaining the strong financial performance we accomplished in the first half of the year and consistently adhering to our capital allocation framework. It is underpinned by a focus on cost containment, capital efficiency and agility in navigating the complexities of our business. We are differentiating ourselves from our peers with superior product offerings and improving execution.
+We are market leaders in the truck and full-size SUV segments, growing market share in affordable SUVs and our refreshed midsize SUVs are some of the fastest growing vehicles in the segment. While yielding higher profitabilities than the preceding models.
+At the same time, we are growing and improving profitability on our EV portfolio, along with developing a world-class software organization and making steady progress at cruise. As always, our customers and their safety will be at the center of everything we do and is fundamental to our continued success.
+This concludes our opening comments, and we'll now move to the Q&A portion of the call.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          As a reminder to analysts, we are asking that you limit your questions to one and a brief follow-up so that we may get to everyone on the call. (Operator Instructions)
+Dan Levy with Barclays.
+
+--------------------------------------------------------------------------------
+Dan Levy,  Barclays Corporate & Investment Bank - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Thank you for taking the questions. Wanted to start first with a question on pricing. If you could just provide a bit of context on the pricing strength. We've seen not only in 2Q, but in 1Q, if you just look at the incentives, are clearly up, but your pricing has actually been net flat on any color behind this?
+And then maybe you could just talk to the sustainability of this in light of the fact that we've seen some inventory normalization, but price has held in on and do you view this price as sustainable beyond this year. Factoring in that there is going to be some increase in and incentives as inventory ticks up further from here.
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Yeah, good morning, Dan, and thanks for the question, first of all. So, what I would say is that obviously, we've been very disciplined about our commercial strategy and going to market. And despite the fact that we've seen a little bit of pressure year-over-year on incentives, we've actually widened the gap in the quarter against our competitive set.
+So demand for our vehicles is strong. And I think some of the offsets are our truck sales were up 5% in the quarter, we continue to pick up share, and that's helped to offset some of the lower ATP vehicles. And we've seen in the growth in the tracks, for example.
+So I think we've been saying for a long time that our consumer has held up really well and it's been resilient and we expect that to continue to be the same way. I think a big part of that is the strategy that we've undertaken about being very disciplined in inventory and more data flow about producing the vehicles that we know that the customers are demanding. And when you combine that with the incredibly strong portfolio we have, I think this is the result.
+
+--------------------------------------------------------------------------------
+Dan Levy,  Barclays Corporate & Investment Bank - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. As a follow-up, I wanted to ask about your EV strategy. And this is in light of maybe some of the potential changes we may be seeing in the regulatory environment, given the upcoming (inaudible) know there's obviously one candidate in the US presidential elections talked about pulling back the EV mandate and maybe there's some implications on things like IRA or EPA?
+And if -- so, to what extent if we see a pullback in some of these standards, does that modify your EV strategy? Is your EV strategy, one that is, driven more by regulations or do you view your EV strategy as a bit more fixed part given the long-term strategic goals of GM and also just the longer planning cycles for [products]?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Thanks for the question. Our strategy is to offer consumers choice, we've got an incredible portfolio of vehicles, both EV and ICE and we've got flexibility. So we know we can win more customers as they embrace EVs. We're seeing that right now with 54% of the EV sales being new customers that are new to GM.
+And so we do think the market will for EVs will continue to grow. And we've got the performance, the technology and the range that customers want, especially when you look at our portfolio with the Equinox coming out right now, the affordability of that vehicle along with when we have the Bolt next year, if we're giving consumers that choice and as I've said, EVs are fun to drive, instant torque, I think our EVs have beautiful designs, the right range, the right performance.
+So again, we'll be guided by the consumer and regardless of what the regulatory environment is, regardless of what we're going to work to maximize because we've got that flexibility between ICE and EV. So I think we're in a very strong position. I think we also have to look at though the investments (inaudible) made in EVs, we're creating thousands of jobs all over the country, including Ohio, Michigan and Tennessee.
+So I'm pleased with where our strategy is. I think regardless of what happens from a regulatory perspective, we're going to be well positioned with our port with our ICE and with our EV portfolio.
+
+--------------------------------------------------------------------------------
+Dan Levy,  Barclays Corporate & Investment Bank - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Itay Michaeli, Citi.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citi - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. Good morning, everyone, and congrats on the quarter. Maybe a first question for Paul back on the second half bridge and thank you for the color. On the 1.5% negative pricing assumption, as I compare to what you're assuming for the industry in the second half?
+And also how should we think about at a high level sensitivity to if the volume targets second half of the year, a little bit that the funds are becoming lower, I think about the puts and takes in the model for that.
+And secondly, maybe for Mary, on crews on how you're thinking about strategically on taking cruise to market as a rideshare operator as opposed to maybe finding partners to deploy on the next book.
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [9]
+--------------------------------------------------------------------------------
+
+          And I think retail, I'll go ahead and start with the first two questions. On the second half, we tend to stay very, very focused on what we see for pricing for ourselves. Obviously, there's a lot of noise going on with different incentive strategies, different inventory levels, et cetera.
+So that's an assumption that we bake in based on what our -- what we're seeing in the market and making sure that we're projecting the right amount of conservatism against our cash flow targets and plans. So we started the year saying down 2 to 2.5.
+We've got through the first half of the year, essentially flat. And what I would say is July to date looks very similar to June. So we're going to continue to push through month by month quarter by quarter on the portfolio that works for us.
+So we've managed to do that through various incentive strategies and various inventory pushes that we've seen from our competitors. And we're going to just be focused on meeting our customer demand the best we can.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Okay. And as it relates to cruise and we've worked very hard as you look at what's happening with artificial intelligence applications across many industry, customers have an expectation of higher performance from technology than they necessarily do in our case for other human beings.
+So our target now instead of being better than an average driver is to be better than a role model driver and tremendous work has gone on over the last few months. So as we are rolling out now into three cities as I mentioned the technology is much more advanced to be better than a role model driver.
+We've also expanded our safety metrics and to make sure it measures across many scenarios. So I'm very confident as we now have the vehicles operating and we're on the path very quickly to get to back to driverless with much safer technology, again, getting to this better than a role model driver. So when I look at that, we can provide an exceptional driver experience as we continue to grow.
+Now when you talk about us what is the right balance between expansion, capital demands and partners and or investors, we're very open and we're seeing significant interest in cruise. So as we move into this next phase, we're going to be looking at what's the right efficient way to go forward with crews from a robotaxi business from a cruise perspective.
+But also we are staying very laser-focused on the personal autonomous vehicle opportunity for GM. So we think we're well positioned, we'll share more as we go through the year, but we have significant outside interest from a partner and investor perspective.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citi - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Perfect. That's all very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [12]
+--------------------------------------------------------------------------------
+
+          Let me just go back. I think I missed the second part of your question on the sensitivity of the EV volume from that. So you saw what are we originally gave our guide on production. We are at 200,000 to 300,000. We talked about being able to get to variable profit positive in the low 200 thousands.
+We're still holding to that, although with the 200 to 250, we pulled that from the second half to the fourth quarter. So I know it doesn't give you a specific answer, but directionally, obviously, scale is a big part of what we're doing. All a lot of the battery costs, cell cost improvement that we've seen is it's been driven by efficiency and scale with the plant.
+So it's something that we continue to watch and we're continuing to strive for, but nothing more specific than that.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citi - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Joseph Spak, UBS.
+
+--------------------------------------------------------------------------------
+Joseph Spak,  UBS - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone. Paul, thanks for all the additional color on costs in the back half, I guess to counter some of those higher costs you mentioned or you still have the fixed cost savings program, you're on track for the $2 billion. If we're sort of tracking this, it looks like you did maybe $1 billion last year and maybe $400 million the first half, so another $600 million in the back half. I just want to make sure that sort of ballpark correct.
+And if it is and just maybe some color on why it's actually accelerating or higher because I think like if we think about last year, the costs also were more back-end loaded. So it's sort of a tougher comp so what else is being done here to drive the cost savings higher?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [16]
+--------------------------------------------------------------------------------
+
+          Yeah, good morning, Joe. Thanks for the question. So I would say directionally, your math is pretty accurate on about the $1.4 billion of the $2 billion, I would look at the biggest cost increase that we highlighted on the call is about $400 million of marketing spend and that is first half to second half.
+So marketing spend overall is still down significantly and the team has done a great job of driving more efficiency into what we're doing. But obviously, with the launches that we have in the second half of the year, there's a there's a significant lean in to drive that customer awareness and we think that's actually an opportunity for us to help us scale and to help us see us outsized share gains in EV.
+So I would say it's timing within the larger pool of significant savings initiatives out of that category. That's the biggest piece of it, but we're continuing to work on it, and we believe that we'll be successful in that $2 billion cost reduction target that we laid out and we're not going to stop there.
+
+--------------------------------------------------------------------------------
+Joseph Spak,  UBS - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Okay, thanks for that. First half, second half clarification on the marketing. And then, Mary, just on the origin decision, obviously some cost savings, but I guess is there also -- and I know I think you're still undergoing the strategic review for cruise, but does this also indicate a change in going market strategy and sort of not having that purpose-built vehicle, like what were some of the other considerations is sharing just not really you think viable for that business model? Are there other use cases versus what you're originally planning for?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Yeah, I think the main reason is with going to switching from the origin to the bowl is we extinguish the regulatory risk. Remember it because that origin doesn't have steering wheels and some other motor vehicle safety standard components. It doesn't meet motor vehicle safety standards that requires a legislative change.
+We've been working on that. It's been difficult to get done. And with that, if we don't get that legislative change or authorization from a government perspective, we're limited in the number of origins we could put out.
+So as we looked at this, we thought it was better to get rid of that risk and then when we looked at the [bold], it's been, I think, a very good product for the initial rollout from an EV perspective, where we have over 5 million miles traveled and it allows us to be more capital efficient and get better scale on the bold EV as we roll it out next year based on the Ultium platform.
+So I would say it was mainly driven by the uncertainty that we have from a regulatory perspective.
+
+--------------------------------------------------------------------------------
+Joseph Spak,  UBS - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Daniel Roska, Bernstein Research.
+
+--------------------------------------------------------------------------------
+Daniel Roska,  Bernstein Research - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, everybody. Thanks for taking my question. Dan from Bernstein, maybe following on the EV question we've had, could you elaborate a bit on your outlook for emissions compliance, kind of if we stay within the current EPA framework, kind of what level of drivetrain mix credit would you expect to need to have to achieve the 27 targets.
+And then following on from Dan's question earlier, if any administration or either administration should decide to revisit the EPA target, could you outline what you would expect what the time line would be to actually be effective for 2027.
+So what is the latest point in time, when an administration and the EPA would need to kick off kind of that process to revisit the 27 target?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [22]
+--------------------------------------------------------------------------------
+
+          Sure. Well, either for General Motors to comply with the existing regulations, we have many levers that we can pull, including how we plan our portfolio, the technology that we use on the vehicles we can utilize credits from prior and future model years and purchase credits as well as have a robust EV portfolio.
+And so we look at this on a regular basis based on what's happening with EV adoption with based on what's happening with the regs and make those decisions. So it's something we have a lot of flexibility and obviously we intend to meet the regulatory environment. It's really hard for me to predict on what the timeline would be, if something is going to change.
+I would say that we just we look at our portfolio on a regular basis with not only on what we know the rigs to be and make sure we have a plan there. And then we do scenario planning for what potentially could happen and then we have that range of opportunities.
+So we'll continue with that process. I mean, if you think about it for the last several years, the regulatory environment has not been certain, I would say what's really important to us. So the company overall is to have a regulatory certainty. And so we'll be watching with interest as we as we get past the election and look at what the what the what the regs will be, if they change at all. But I think we have the flexibility test to moderate based on what we see.
+
+--------------------------------------------------------------------------------
+Daniel Roska,  Bernstein Research - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Thanks Mary. And maybe following up if the regulations for 27 kind of stay, as they are right now with a more ambitious path, what role could a mild or full hybrid kind of play in your portfolio. And if they stay as ambitious as they are right now, would you consider to kind of increase your focus on hybrid drive frames in the US?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [24]
+--------------------------------------------------------------------------------
+
+          Well, as we've said, we plan to have hybrids in key segments not across the board, but in key segment segments in the 2027 time frame it because of where the regulatory environment looks to be right now. So we have that opportunity, we can decide what we put on the fleet or what segments we put on based on where we see the regulatory environment. So that's definitely one of the technologies that we can leverage. And as we've already said, we plan to have hybrids in key segments in the 27 timeframe.
+
+--------------------------------------------------------------------------------
+Daniel Roska,  Bernstein Research - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for confirming that.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Ryan Brinkman, J. P. Morgan.
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  J.P. Morgan - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking my question. Obviously, it is the strong performance in North America, but just the driver of the total company results, certainly congrats on that. I think to ask though, on the performance in China, including after it was a little surprising to see the equity loss fairly consistent with 1Q despite a solid rebound in both for sales and non-consolidated revenue.
+I know you don't provide a detailed bridge for the non-consolidated up specifically, but from the sequential volume change, it would seem to imply either price or mix or cost headwind quarter over quarter. I'm guessing price given some of the comments from other automakers in that country, but perhaps you can fill us in there.
+And then, I'm not sure if you're able to comment on what actions might be being considered in conjunction with their partner. But should we expect more that you are ready in a portfolio of vehicles, maybe any deals that you expect could gain greater traction?
+Or are you contemplating more rightsizing actions or some combination? And if you were to undertake right-sizing actions. I can't really remember you reducing capacity in that country before at least not structurally. So perhaps you could update us and what kind of flexibility you might have in that market to take capacity out, how does it compare to North America today, for example, or maybe to Europe in the past when you operated in that region? Thank you.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [28]
+--------------------------------------------------------------------------------
+
+          Yeah. First off, we continue to see the challenges in China, very few people are making money, and a lot of OEMs are prioritizing production over profitability. So I think the work that we've been we have been on more disciplined than most in our pricing, and we are launching some new vehicles that we're seeing positive traction, but it's a difficult market right now and with frankly, it's unsustainable because the amount of companies losing money there cannot continue indefinitely.
+And really when you get into the type of pricing war that's going on now it's really a race to the bottom and you destroy residuals. There's nothing good that comes from the behavior that we're seeing right now. Having said that, we are taking -- we've taken several steps of getting our inventory write up, launching some products that we think are either going to be better received than some of the NEVs we had a couple of years ago, especially hybrids and full electric.
+And then as it relates to the work that we're doing with our partner out of respect for our partnership, I will read more details as the decision is made, but I'm not going to go into detail of all the different items that we're contemplating.
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  J.P. Morgan - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. And maybe you could comment quickly, too, on the trend in your other international operations, including and consolidate operations in Korea and Brazil to curious on the trend there.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [30]
+--------------------------------------------------------------------------------
+
+          In Q2, when you say the trend you're talking about, I can't keep a little bit more what your -- specifically --
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  J.P. Morgan - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          The trend in the profitability in those markets for you.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          Yeah, I would say in our GM International markets outside of China, we're seeing strong pricing. If you look at South America, for example, Chevy is considered a premium or luxury brand, and we've got a really strong portfolio with great, great brand loyalty and brand recognition. And we're seeing -- we're able to hold and hold pricing and compete by the way because of the value of the Chevy related branded products.
+Again, in differ, we're seeing that across to varying levels across all of the international markets. So again, disciplined execution pays off over the longer period. And this is a long, game that we play when we look at managing our brand strength, managing the residuals of our products, et cetera.
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  J.P. Morgan - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Dan Ives, Wedbush.
+
+--------------------------------------------------------------------------------
+Dan Ives,  Wedbush Securities - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks. Other question with when you think about new GM customers looking at EVs and that trend's been high. Is that something that you expect to continue or maybe even could accelerate depending on the models and the price points when you look out the next call, one to two years?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Absolutely, Dan, I believe when you look at the portfolio entries that we have coming, the fact that we have fresh design to performance and technology on these vehicles along with the range is great. So for those that are already EV and tenders that might want to replace the existing EV, they have any the response we're getting from dealers about the new Equinox CB is just outstanding.
+When they say they look at the design of the vehicle, the performance and the affordability, especially with the consumer tax credit. So I think we have an opportunity to continue to outperform where the industry is, and we're going to look to build on that because we really believe in our portfolio, that's why we're spending the marketing dollars to make sure we get the awareness and our dealers are excited. So I feel like we're well positioned to continue that growth.
+
+--------------------------------------------------------------------------------
+Dan Ives,  Wedbush Securities - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Great. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          John Murphy, Bank of America.
+
+--------------------------------------------------------------------------------
+John Murphy,  Bank of America - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Good morning, everybody. I just wanted to follow up on pricing, (inaudible) you guys updated your guidance a little bit optimistic, more optimistic about what's going on in the second half. And you had one full year and had good performance in the first half.
+But you know, as we think about pricing, there's two components, I think, being left out of the equation. I mean, the first is over the last two years, we've seen a 400 basis point increase in loan rates. (inaudible) \on $50,000, ATP that's $2,000 a year for your ownership cycle, it's $8,000 headwind to your consumer.
+And you have dealers earning twice as much as they did in 2019 now, so they have in our $2,000 to kind of potentially throw into the yard to the equation to help get deals done. So there's now as rates come down and dealers get more realistic about what they can earn on your vehicles, you there are a lot of room to support pricing where it is -- and potentially (inaudible) forbid as rates come down, pricing to go up, right.
+I think everybody kind of has this view is it's going to fade, but you might be much more resilient and stronger over the next year or two, then people are expecting. What's your take on sort of those two points?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [40]
+--------------------------------------------------------------------------------
+
+          Thanks, John. What I would say is it starts with the portfolio. When you look at the refreshes that we've done and what we brought to market and what's still to come with the midsize SUVs, I think the team has done really an incredible job, and that that's actually held up quite well, even as we went to higher interest rates.
+And despite the fact that payments have gone up, we've seen demand hold pretty steady across the board. So we want to maintain some level of consistency, which is -- make sure that we approach the plans of the forward calendar with a little bit of conservatism on the pricing side, versus what we're seeing in the market today because that it's really all about continuity on cash flow and margin performance.
+So I think it's a strategy that's worked well for us. Like I said, despite the fact that we've taken that assumption down in the back half of the year from where we started the year, and we're still not seeing that in the month of July today.
+So I think this helps us be more nimble, be more agile and look around corners. But our commercial team is doing a really good job of go-to-market strategies and really looking at it on a month by month product by product basis to drive our optimal margin performance.
+
+--------------------------------------------------------------------------------
+John Murphy,  Bank of America - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          So we really should think about this as a planning assumption as opposed to an actual forecast. Is that a fair statement?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [42]
+--------------------------------------------------------------------------------
+
+          Yeah, that's the way we have consistently referred to it.
+
+--------------------------------------------------------------------------------
+John Murphy,  Bank of America - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Okay. And then just one follow-up. Your cap (inaudible) when look at your tables, I always ask about this is 108% in North America, two shifts straight time. God forbid, we saw an actual increase in unit volume on you're up 5% to 10% a year for you and maybe the industry alike.
+What kind of costs would flow back into the system? Would we be thinking about mostly variable costs on the I mean, obviously with that high cap, you might think that you might have a little bit of fixed cost that could come in as well but I'm just curious how you would think about that cost flow as if we got a real volume lift of up 5% to 10%?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [44]
+--------------------------------------------------------------------------------
+
+          Well, first of all, we'd be very excited about that because I think it's a huge opportunity. And I think for the most the bulk of it, it would be variable cost increases as we've got the equipment, adding shifts, increasing line rates. So and it's I was funded to take volume up, and I think we're well prepared to do that and it would mostly be variable.
+
+--------------------------------------------------------------------------------
+John Murphy,  Bank of America - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Super helpful. Thank you so much, guys.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          Chris McNally, Evercore.
+
+--------------------------------------------------------------------------------
+Chris McNally,  Evercore ISI - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Thanks so much team. Great quarter. For maybe just a question around the variance that maybe remains in the guide. So has been discussed and just high level, the pricing has gone from 2% assumption for the full year to sort of your 0.75% given your second half comments, if I just run that pricing variance of 50 basis points for this just the second half, up $400 million our variance.
+Maybe you can go through some of the other aspects that are sort of left to be determined because it seems like there's a lot in your control. So maybe your China and any of the cost reductions, just how we can sort of fill that other $1.5 billion in the variance in the guide?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [48]
+--------------------------------------------------------------------------------
+
+          Yeah. So thanks for that, Chris, and thanks for the kind words. What I would say is that if you look at from where we started, the year was about probably $2 billion of trend line improvement from our initial guide. We've taken our guidance up now by $1 billion. The other point I would say is largely China underperformance we started the year thinking that we were going to be similar to last year's profitability.
+Obviously, we've taken that down. And then the second big area is really on EV volumes. So despite the fact that they come in at a lower contribution, we were projecting on the higher volumes of variable profit contribution in the third quarter and that has now been kicked out a little bit on the lower volumes.
+That explains really the bulk of it. But I'm really pleased that we've been able to take our guidance up now in two consecutive quarters and we're a $4 billion at the midpoint ahead of where we were at the beginning of the year.
+
+--------------------------------------------------------------------------------
+Chris McNally,  Evercore ISI - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          That's a great summary, because that was my second question is so okay, so pricing from being year $2 billion better, $1 billion is now reflected in the guide. And the $1 billion offset is a combination of some China variance, it's underperforming probably second half is a little bit left to be determined and also EV volumes.
+Is that a fair summary?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [50]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Chris McNally,  Evercore ISI - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Perfect. Thanks so much, team.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Mark Delaney, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Mark Delaney,  Goldman Sachs - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Yes, good morning and congratulations on the strong results and thanks for taking my question. You mentioned watching EV inventory levels closely and using demand as a guide for how fast you ramp up EV production to the extent GM does less than the 200,000 EV wholesales this you're currently contemplating, could the company still be variable profit positive in the fourth quarter, perhaps with incremental cost actions?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [54]
+--------------------------------------------------------------------------------
+
+          Hey, Mark. Thanks for the kind words, and I appreciate the question. I would say that when we started the year, we were looking at getting to variable profit in the low 200,000 range. We're obviously continuing to do the work that we need to do on the lower volumes.
+And we see that. I mean, to the extent that we see volumes going lower, we obviously have to adjust to that. But we're really focused on the long term here, and that is the trend and trajectory of scaling up in the business, we're already seeing meaningful cost improvements as we ramp up the battery cell plants and really come off some of the kind of imported cells and things that we were doing last year.
+So this is a journey for us, and it's one that we're absolutely focused on doing so we don't want to end up in a situation where we're just producing to a target and the demand isn't there. We've seen what happens when you do that and you've got residual value implications, which stay with you for a long, long time.
+So that balance is what's most important to us and continuing along the journey. So we're focused right now on that 200 to 250 and believe that we can hit the variable profit positive in the fourth quarter, and we're going to continue to work towards that as best we can.
+
+--------------------------------------------------------------------------------
+Mark Delaney,  Goldman Sachs - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          Understood. Thanks. My other question was on GM Financial, looks like you slightly raised the EBIT outlook for the year to $2.75 billion to $3 billion. And I think as of the first quarter, you are thinking in $2.5 billion to $3 billion maybe talk about what's driving the slight uptick in GM Financial, more broadly on the financial market in auto finance, we've heard and read about some rising delinquencies for the industry more generally maybe speak about GM Financial and any change in delinquency rates? Thank you.
+
+--------------------------------------------------------------------------------
+Dan Berce,  General Motors Co - President and CEO of GM Financial    [56]
+--------------------------------------------------------------------------------
+
+          Yeah, hi, this is Dan Berce. So on the first part of your question, with respect to the uptick in the lower end of the guide. We obviously had a strong first half at GMF earning $1.6 billion of which puts us in a really good position to hit in that range of [275] to [300]. The couple of factors that would be headwinds in the second half or that we're going to have less lease terminations in the second half, along with the expectations for from mildly lower used car pricing.
+And then the second factor in the second half is that our credit typically seasonally in the second half is weaker than the first half. So our provisions will be higher. So that's really the reason for on a slightly weaker second half. Now with respect to your question about credit trends.
+First of all, baseline, our portfolio at GMF is 75%-plus prime and we're seeing very, very steady performance for the prime customer. They still have excess savings, they -- obviously, the job market is strong and so that piece of our portfolio has been really stable.
+Now the less than prime like other lenders, we've seen a bit of deterioration, mostly from vintages in '22 and '23. And more recently, we've seen stabilization, albeit at slightly higher levels, but we've seen stabilization in that part of our portfolio.
+
+--------------------------------------------------------------------------------
+Mark Delaney,  Goldman Sachs - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          Tom Narayan, RBC.
+
+--------------------------------------------------------------------------------
+Tom Narayan,  RBC Capital Markets - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the questions. My first one is on level two plus subscription take rate. Tesla is seen with many would describe as somewhat disappointing, I think single digit percentage take rates of its FSD product, BMW told us last week, they're seeing 30% plus take rates on its five series in California and its pricing is a lot lower than Tesla's.
+Just curious if you've given your take rates on Super Cruise or if you had any commentary on what you think drives demand there, there's a saying that safety is boring, perhaps it was all about pricing. Just love to hear any thoughts there? And then I have a follow up.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [60]
+--------------------------------------------------------------------------------
+
+          Our Super Cruise ramp has been slow because of some of the chip availability that we have. We're now expected by year end this year to have at Super Cruise on 22 nameplates and in some cases on uptrend, for instance, on the new Traverse, it's standard.
+So I don't have the specific take rates because it's part of it is, it comes with the vehicle and some of it, it can be something they can subscribe to. So we can follow up with you after the fact on that.
+
+--------------------------------------------------------------------------------
+Dan Berce,  General Motors Co - President and CEO of GM Financial    [61]
+--------------------------------------------------------------------------------
+
+          And Tom, I'll just add. It's just it's a little bit too early because we're coming through that trial period and significant volumes. So we should have a lot more color, I would say over the next 12 to 18 months as we start to see people lapse out of their three year period and getting to that. But it's obviously something that we're watching and the commercial teams all over.
+
+--------------------------------------------------------------------------------
+Tom Narayan,  RBC Capital Markets - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Great. Thanks. And then as a quick follow-up actually to Joe's approved question. I understand that the pivot here to bolt, but I remember the decision to do origin was largely an economic one. So just curious if you're still in tandem to the new approach still going to continue maybe lobbying for this purpose-built vehicle to regulators? Thanks.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [63]
+--------------------------------------------------------------------------------
+
+          Yeah, we definitely will be looking for -- yeah, frankly, more than just what the vehicle is, but to have the right regulatory environment to release this technology that we believe definitely improved safety of miles traveled for everyone. So we're going to continue to work hard to continue to allow autonomous technology for rideshare and from a [PAP] perspective to continue.
+And frankly, leverage -- switching to the Bolt at this time because of the regulatory environment actually improves our purchase costs. So we think it's a win-win, but we're in the early phases of what rideshare is going to be and how we're going to leverage autonomous technology. I do think in the future, there's going to be opportunity for a vehicle like the origin.
+And so that remains open to us at the right time. This was about getting cost down at cruise and being able to scale and without regulatory uncertainty.
+
+--------------------------------------------------------------------------------
+Tom Narayan,  RBC Capital Markets - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          James Picariello, BNP Paribas.
+
+--------------------------------------------------------------------------------
+James Picariello,  BNP Paribas Exane - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Hi, good morning, everyone. To follow up on China challenges are expected for the second half. But just to put a finer point on this is the expectation for JV losses to sustain in the third and fourth quarters? And then just high level, what are the pillars here to GM's China strategy going forward? What should turn this around as we consider next year and beyond?
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [67]
+--------------------------------------------------------------------------------
+
+          Well, I think critical is we've got to get the our structural cost rate to the new realities of this market. And so we are fully recognizing that the ongoing challenges that we have. And so we're going to -- there's really a three-pronged strategy. We got to execute the plan to align production to the current retail reality, get rid of the existing higher inventories and then aggressively reduce the structural costs.
+From SGMW perspective, we actually maintained a stable market share as this operation is very important and also supports some of the global emerging markets through exports for a General Motors perspective. And then as we've talked about in the past and Paul mentioned it. We have the premium channel. We believe we have an opportunity to export with very low capital investment are very capital efficient, I should say, to take some of our most iconic products and export them into the market at the top end.
+So I think when we look at the strength of the Buick brand and the China brand, there's a path forward in this market that we do believe over the course of the midterm is going to resume to growth. So that is our plan on it. And I'm not going to predict where we're going to be exactly in second quarter. I will just tell you we're working aggressively to improve that situation and leverage what we have in GMW and also the opportunity that we'll have with the premium channel.
+
+--------------------------------------------------------------------------------
+James Picariello,  BNP Paribas Exane - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Got it. That's helpful. And then just with respect to the second half versus first half can you provide additional color on the $1 billion in additional costs that were referenced for the second half? What's driving that outlay? And has this number changed versus your prior guidance?
+
+--------------------------------------------------------------------------------
+Paul Jacobson,  General Motors Co - Chief Financial Officer, Executive Vice President    [69]
+--------------------------------------------------------------------------------
+
+          Yeah, James. So the biggest piece of it, as we highlighted, is about $400 million of it marketing spend, which is seasonally weighted towards the second half of the year in conjunction with a number of the launches that we have. We knew that going into the year. The other big pieces of it, I would say there are some commodities and EV costs retimed. So these are a little bit new just as we've kind of pivoted on our assumptions going forward.
+The commodities look, we're going to respond to that and we always do. But those are the three biggest categories I would say on the second half. And the team is working through it and feel good about our performance so far.
+
+--------------------------------------------------------------------------------
+James Picariello,  BNP Paribas Exane - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Appreciate it. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+          I'd now like to turn the call over to Mary Barra for her closing comments.
+
+--------------------------------------------------------------------------------
+Mary Barra,  General Motors Co - Chairman of the Board, Chief Executive Officer    [72]
+--------------------------------------------------------------------------------
+
+          Thank you very much, and I hope everybody can see that from our results and our new higher guidance, we are making the most of every opportunity we have in ICE and in EV and leveraging our core strengths. We're being flexible and opportunistic, but also importantly, we're being very disciplined, a better cruise is moving forward once again, and there's significant opportunity there.
+We're going to continue to return significant capital to our owners as we move forward and the opportunity presents itself. If you look back, this was a great first half and we're going to build on it and continue to improve the business, and we have more opportunity to continue to do that to drive our future success.
+We're going to expand on all these topics at our Investor Day in Spring Hill, Tennessee. And so I hope you will attend. You're going to have a chance to drive our newest ICE and EV products and see close up our cell manufacturing expertise and our manufacturing flexibility.
+We think it's compelling and we look forward to having that session with all of you. So thank you very much for joining. And I hope you have a great day.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+          Thank you. That concludes the conference call for today. Thank you for joining, and you may disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

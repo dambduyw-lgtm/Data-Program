@@ -1,0 +1,451 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2026 Salesforce Inc Earnings Call
+DECEMBER 03, 2025 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marc Benioff
+   Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder
+ * Miguel Milano
+   Salesforce Inc - President, Chief Revenue Officer
+ * Srinivas Tallapragada
+   Salesforce Inc - President and Chief Engineering Officer and Customer Success Officer
+ * Michael Spencer
+   Salesforce Inc - Executive Vice President - Finance and Strategy and Investor Relations.
+ * Robin Washington
+   Salesforce Inc - Co-President, Chief Financial Officer, Chief Operating Officer, Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Kirk Materne
+   Evercore Inc - Analyst
+ * Raimo Lenschow
+   Barclays Services Corp - Analyst
+ * Brad Sills
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Brad Zelnick
+   Deutsche Bank AG - Analyst
+ * Brent Thill
+   Jefferies LLC - Analyst
+ * Keith Weiss
+   Morgan Stanley & Co Ltd - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon, everyone. My name is Leila and I will be your conference operator today. At this time, I would like to welcome you to the Salesforce third-quarter fiscal 2026 conference call. This conference is being recorded. (Operator Instructions)
+At this time, I would like to turn the call over to Mike Spencer, Executive Vice President of Finance and Strategy and Investor Relations. Sir, you may begin.
+
+--------------------------------------------------------------------------------
+Michael Spencer,  Salesforce Inc - Executive Vice President - Finance and Strategy and Investor Relations.    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon, and thanks for joining us today on our fiscal 2026 third-quarter results conference call. Our press release, SEC filings and a replay of today's call can be found on our website. Joining me on the call today is Marc Benioff, Chair and CEO; Robin Washington, Chief Operating and Finance Officer. We also have Srini Tallapragada, President and Chief Engineering and Customer Success Officer; and Miguel Milano, President and Chief Revenue Officer, joining us for the Q&A portion of the call.
+Some of our comments today may contain forward-looking statements that are subject to risks, uncertainties and assumptions, which could change. Should any of these risks materialize or should our assumptions prove to be incorrect, actual company results or outcomes could differ materially from these forward-looking statements. A description of these risks, uncertainties and assumptions and other factors that could affect our financial results or outcomes is included in our SEC filings included in our most recent report on Forms 10-K, 10-Q, and any other SEC filings.
+Except as required by law, we do not undertake any responsibility to update these forward-looking statements. As a reminder, our commentary today will include non-GAAP measures and reconciliations between our GAAP and non-GAAP results and guidance can be found in our earnings materials and press release.
+And with that, let me hand the call over to Marc.
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [3]
+--------------------------------------------------------------------------------
+
+          All right. Great job, Mike. And thanks, everyone, for joining us today. Well, as you can see, first of all, great seeing everyone at Dreamforce. We're so happy that you are all with us.
+And now you can see we've delivered strong results for the quarter across all of our key metrics. We're continuing to execute on the path to our $60 billion dream that we outlined in detail with you -- all of you at Investor Day. And we delivered really strong bookings. Miguel is here. He's going to talk to you about that.
+And we have delivered incredible results with Agentforce. It's really exceeding our expectations. You're going to hear all the details, but I think that you could see 3.2 trillion tokens delivered for our customers. It's all exceeding our expectations. We're going to get into all of that detail as well.
+That's the core of our organic innovation. We're making these disciplined strategic acquisitions like Informatica, also now online in the company. We're really excited about the harmonization, integration, federation that Informatica plus Data 360 plus MuleSoft is giving us, and that's going to strengthen our overall leadership in data and, of course, AI.
+And we're ensuring that we have the distribution capacity, that's extremely important for us because we are a direct seller in place to support long-term growth, and Miguel has made some fantastic investments over the last 12 months in all of our core segments, we're going to talk about that as well.
+And finally, Robin is going to speak in more detail about the capital allocation strategy and the investments that we're making for fiscal year '27, which we're getting very excited about and a very clear focus on our continued path for, I would say, very sustainable, profitable, durable growth, and innovation in the company.
+Now, you are all at Dreamforce. You saw that energy, the level of customer success, it exceeded my expectations, and you saw how we're bringing humans, data, AI apps together to build the Agentic enterprise. And we just couldn't be more excited about that and how customers are receiving the message. Every CEO I met at Dreamforce. And I mean, every CEO I speak to just in the last couple of days, I had some great meetings.
+And I'll tell you that -- everyone knows that they want to get to the next level in their business to bring AI in, become more productive, become more efficient, become elevated as Matthew said in the opening video. But they all know they now -- they've got to become these agentic enterprises. And I don't think for a lot of them two years, three years ago, maybe even a year ago, they really understood that opportunity, and they are now more motivated than ever to do it.
+We're going to hear about that some story, great stories from the quarter -- and of course, we've all read that crazy MIT study where customers went off trying to build their own models and try to build their own toolkits and this and that and DIY it and now they realize the real value from AI is delivering, number one, customer agents, and we have so many examples, but now I think about $500 million in Agentforce revenue, talking about customer agents, but also -- and what's really exciting here at Salesforce.
+And some of you have seen it, but probably a lot of you haven't is employee agents. And we've really delivered an incredible new framework deeply integrated into our Slack product. Every Salesforce employee already uses it every day I do, and it's the core of every demonstration we give to our customers to show how we have unleashed with Slack, something new called Slackbot, which is really the heart of our employee agent strategy, and you're going to see that.
+It's incredible. It is able to go not only through Slack, but and not only through the whole Internet, but also through all of our customers' data that they have basically provisioned in a secure way through Salesforce as well and deliver a context. And I'll tell you -- now before I do a customer visit or call or whatever it is, I'll just kind of sit right down. I was with a really good friend of mine.
+Just this weekend, I had lunch with him, and he's a top venture capitalist and he had been a huge investor in the Coinbase. And I'll tell you that we're just sitting there, just talking about, hey, tell me about everything with your venture capital company, tell me everything about this venture capitalist and then also tell me everything about Coinbase and the company and our relationship.
+And then it's able to deliver to me an absolute and complete not only analysis, not only a summarization, not only all of the detail, but next steps, how to sell, what I should do exactly for the customer.
+And I love demoing this to customers because they don't think it's possible. And then when they see it, they say, wow, this is what AI was meant to be. And I'm like, this is context, this is data. This is apps. This is the best of the large language models and delivering it all to you. Well, anyway, let's get into the quarter.
+Q3 revenue was $10.26 billion. It's up 9% year over year, 8% in constant currency. Our non-GAAP operating margin came in strong at 35.5%. And cRPO was outstanding. You see already $29.4 billion, up 11%. Miguel is going to talk about this great quarter we had -- the best quarter, I think we've had actually in three years and 11% in constant currency and RPO is nearly $60 billion, growing 12% year over year. Kind of huge numbers, but very exciting, considering we've also rebuilt all the products as well and delivering this AI future for everyone.
+This really is signaling to us that it's a strong pipeline of future revenue as customers ground their AI future in Agentforce. In the third quarter, operating cash flow was a whopping $2.3 billion, up 17% year over year. Free cash flow was $2.2 billion, up 22% year over year, and we expect to finish the year with nearly $15 billion in operating cash flow. That was pretty awesome, I think. I think it's more operating cash flow at $15 billion than even Walmart.
+So that's awesome. Agentforce and Data reached nearly $1.4 billion in ARR in the quarter, up 114% year over year, including Agentforce ARR of about $540 million, 330% year over year. And I think all of our account executives, (inaudible) I think we've got about 15,000, I don't know what the exact numbers out there are all selling this now.
+People really can understand it. We can demo it, we can show it. But I think you've all seen like what our customers are doing. And the one I love and that I use because I'm a huge customer is Williams-Sonoma's version of Agentforce, which they call all of [Olive]. And if you haven't been on the Williams Support -- Williams-Sonoma's website and seen the sous chef that they call alive and used it, I think the quality is what I'm most impressed with that it's really very, very good.
+You don't see hallucinations. You see really kind of the customer personality, the quality, the ability to deliver value, and they are saying that's about 60% of their chats.
+We've got a whole another level to go with them with voice, which is coming, which is very exciting. This is our fastest-growing product ever. And every Salesforce app now not just sales, service, marketing, commerce, all of them, Tableau, Slack, our new ITSM, supply chain products, they've all been rebuilt, and Sreeni's here, he's going to talk about what we've done to bring Agentforce into every product we have and we transform Agentforce from being a product to a platform, so that all of our apps can reason, learn, take action, collaborate with users, but it's really about humans and apps and the AI and the data all working together.
+And that is what's so exciting that every part of our platform is now so deeply integrated and because all of the data is unified. And every app shares the same metadata. They speak the same language, and you really get that feeling when you are using the Slackbot and Srini will tell you about it because all of a sudden Slackbot is able to like read across all of our data, but then talk directly to you and give you that elevated experience.
+So when an LLM is interacting with Agentforce, it's getting that strategic context from our data from the data on the Internet as well, from the data that it's been trained in. And then how you -- knows how your business operates, it's really able to give you that. And that's because Salesforce is unique in that we have data that makes business more valuable. It's that customer data, the service data, the sales data, the marketing data and then we're able to deliver it in a tremendously friendly way.
+We've rebuilt all of our products to deliver this agentic enterprise really just getting going. I think Srini will tell you we were really brainstorming a few years ago when we first created our GPT series, we were starting to begin to integrate the large language models. I don't think we exactly knew that at this point, we'd be able to deliver this incredible customer agent experience and this incredible employee agent experience.
+In fact, 6 of our top 10 deals in the quarter are now driven by companies that just want to transform with Agentforce. And that's a big thought because a year ago, we're basically just trying to ship the product. It was just coming out of beta. It was like a very strong version 1, but it's more than a strong version 1 now. And I think everyone can go and look at that example with Williams-Sonoma or with SharkNinja or with -- I mean there are so many great examples that I use every day. I know Miguel has got his remarkable pad in front of him.
+So I think that just a year since we introduced Agentforce, we've closed over 18,500 Agentforce deals. 9,500 of them are paid transactions, it's up 50% quarter over quarter. All of our reps now kind of have the acuity. They've got the nomenclature, they're enabled. That was a huge lift for us to start to bring the whole company into this AI revolution and give them the tools and now these great customer examples. And it's happening around the world.
+I just got back from Japan and I saw it there. I was in the UK. I saw it there. I've seen obviously throughout the whole United States. It's really a global phenomenon. So Agentforce is now powered.
+Here's a few interesting things. Agentforce has powered 1.2 billion large language model calls, that's interactions when agents invoke a model to understand contacts and decide the next best action. Across the apps, you've seen the omnichannel supervisor like built into the service cloud, where all of a sudden, I'm a customer. I'm coming into the website even like Salesforce to help.salesforce.com or any of our customers' websites.
+And I'm in there, and I'm working and then all of a sudden, I've hit kind of the limit of what the LLM can do, I can escalate immediately, also write to a human. And that's where the humans and the agents and the AI and the data all have to work together.
+And our top 50 customers, including -- and Miguel has got this story in his pocket, but Falabella, Vivint, DIRECTV. There's so many great stories, more than 200 million Agentforce LLM calls in Q3 alone, on track to power another 2 billion over the next year. And those LMs now are calling these agent force actions such as updating the opportunities, creating a case, handling service inquiry and the number of average weekly actions has now risen about 140% Q over Q.
+So we're really seeing the adoption and the usage. And that's what we're exciting. And here's the number we really haven't focused on, I think, in an earnings script, and I don't even think we hit it last time exactly, but Agentforce has processed more than 3.2 trillion tokens. So 3.2 trillion tokens of LLM gateway so far. And we're going to start talking about that concept.
+We saw that in OpenAI's recent announcement that we were in their [Trillion] Token Club. And of course, we use all of the large language models. The -- they're all great. We love all of them. We love all of our children, but they're also all just commodities, and we can have the choice of choosing whatever one we want, whether it's Open AI or Gemini or anthropic or what there's other open source ones, they're all very good at this point.
+So we can swap them in and out. The lowest cost the best one for us, making us basically the top user of these foundation models. And that point that we did 3.2 trillion tokens, let Bilbo Baggins know that we've got adoption and usage happening here with this large language model gateway. That was just out to J.R.R. Tolkien himself, but that's the end of the jokes for the call.
+In October alone, token usage was nearly $540 billion, up 25% month over month. And I just don't think any other enterprise software company has that's quite like this. This isn't your Clippy. This is not your kind of a good AI demo. This is real enterprise adoption of agentic AI and capability at scale globally. And those numbers are going to keep growing as customers put Agentforce to work across their business, but not every task or step in the workflow needs to call the LLM, we call that determinism. And determinism is really important because for those of us who grew up in software, we used to call it if then statements, but now we call it determinism.
+But determinism is that, hey, if I need to do this, go to the LLM, but I probably don't need to go to the LLM, just do that. So that is going to even reduce our costs further and not hit the LLM as much as we do. And that's why we built hybrid reasoning and agent script and our AI teams are just crushing it on that. And we're getting customers the best of both worlds, combining LLM driven reasoning and deterministic precision. We had strong performance across Agentforce Service, Agentforce Sales, and Slack.
+And those three apps are just a powerful combination for just us at Salesforce, we use those every single day, we live on them. It is really the hat trick for Salesforce with large customers to say, let us show you what we're doing in service. Let us show you what we're doing in sales. Let us show what we're doing in Slack. And it's a Wow experience right now. It's only going to get better.
+And in fact, if we included the full contribution of Agentforce, just in service, we used to call it Service Cloud, now we call it Agentforce service, but you look at Agentforce service, we would show an additional point of growth in Q3. Now Mike likes to carve off the agent thing, revenue, Heath wants to have it in his own line, blah, blah, blah, it's a huge argument between me and Mike. and the reality is, look, you're not going to have agent for service or agent for sales without the AI. So it's just moving.
+And Slack is now where it's coming all together. And that is this incredible conversational interface for every app, every agent, every workflow. I'm going to get to a really cool point in a second. When we released this new Slack bot every -- you've got to see it. So you've all got friends or Salesforce employees, take them aside and have them show you Slackbot. And just do whatever query you want and say, hey, I'm talking to this customer, I'm talking to that.
+I tell me this, I -- and you are going to see some incredible things, how it has the ability to search across Salesforce and build agents and create things and do this incredible work on your behalf.
+Now I'll tell you -- and I'll just tell you that for me, Slackbot is like chatting with just one of our Ohana that knows everything about Salesforce. So it's pretty awesome, but nearly 90% now of all of the Forbes top 50 AI companies are using Salesforce. Let's just think about that for a second. 90% of all the Forbes top 50 AI companies, those are the Anthropics and Open AIs, and the blah, blah, blah companies, okay, that is our cognition cursor figure AI, okay.
+They all average about four clouds each already. And 80% of them are using Slack to run their business. So if you're with those companies, hey, say, hey, show me how you're using Slack. They may not have Slackbot yet because we've only turned it on for a small number of customers who are about to hit the switch and everybody is going to see this employee agent power. So that most people have seen that customer agent power.
+Now they're going to see the employee agent power. And they're going to see how it's built on Agentforce, how it's built on the apps and how it's built on the data. Now with all these companies, we're really partnering with them. So we can really leverage the best of what they're building, the frontier models, the agents and even Srini's using the coding agents now.
+And look, you've heard me say this over the last few years. And we kind of -- Miguel is going to come to this point, but we all know the speed of innovation in the last three years as far out seeded the speed of customer adoption and customers have been racing to catch up to what we've been doing. But we do see that changing.
+And we saw that at Dreamforce. And I know all of you saw that also that customers are really saying, yeah, I'm going to use this now, I'm going to do this. I'm going to put in my customer agents. I'm going to put my employee agents. I'm going to get my omnichannel supervisor. I'm going to harmonize my data. I'm going to federate my data. I'm going to upgrade my apps.
+And customers in production with Agentforce have jumped now 70% year quarter over quarter. So customers in production with Agentforce jumped 70% quarter over quarter. That's the stats that we're looking for. Great companies like Uber, like Conagra, like LY, like Williams-Sonoma, like all these great companies that we've been talking about and the consumption flywheel is gaining traction.
+In the quarter, more than 50% of new Agentforce bookings as well as 50% of Data 360 in bookings came from existing customers, expanding their investment, which was awesome and really showed adoption. And we are very focused on adoption more than ever before, especially as an Agentforce. Data 360 is the foundation for every Agentforce deployment, and it's accelerating in Q3, Data 360, the product formerly known as Data Cloud.
+In Q3, Data 360 ingested 32 trillion records. 32 trillion records, up 119% year over year, and that includes 15 trillion through zero-copy data integration up 341% year over year. So Dentsu, Moody's, KPMG, Ferguson, Zoom and dozens more invested in Data 360 in the quarter. And I couldn't be more excited about completing our acquisition of Informatica. It's three months ahead of schedule as we like it here at Salesforce. We like things ahead of schedule, and we like them under budget.
+And I'll tell you, Amit. I know all of you know Amit, his team are great. We're thrilled to have them. And when we were doing the due diligence on the company, and we saw a lot of things in the labs that we're looking forward to bringing to the market because, look, that data layer, and I haven't done the math exactly, but I think if you do some of the math, I think it's about a $10 billion business for us next year now.
+When you look at Data 360 plus MuleSoft plus informatica and Mike has got his pencil out trying to figure out if I'm right, but I think I am. When you look at a $10 billion business, that's the first layer, that's data. So Informatica with Data 360 MuleSoft I mean that is taking everything to this new level. And when you get into the world of harmonization integration federation, and then you're trying to deliver it to the AI, the intelligence, the accuracy, the reliability to wipe out the hallucinations, delivering the AI context.
+Now we're seeing momentum across multiple sectors. We had incredible wins this quarter, Miguel is going to talk about CVS Health and Telecom Argentina and TD Bank and the IRS, somebody who's going to be getting a big check from all of us, they are all now on Agentforce. So your IRS agents or Agentforce agents and [NG] and so many more are becoming agentic enterprises. And Costco, we love Costco. It's -- well, we love all of our retailer friends equally.
+They are all of our children. But we do love that Costco warehouse experience. It's a great expansion for us in the quarter. We're driving AI and digitization across everything they do for their members. We're doing some incredible things there with Google.
+And we worked with Javier, if you don't know, Javier, probably one of the top, I don't know, five, one, two -- I mean, best CIOs have ever worked with in the whole industry. Was it at Coke? Was it at P&G? Was it at Mondelez now, somehow Costco got them. I still don't know how Costco got Javier, but congratulations to Costco. So many times, having great results there.
+So really excited to see these customers, especially these big customers. And of course, we know General Motors, we love Mary, amazing, how one of her new Escalade IQ, she's tired of me telling her how much I love it. Expanding Salesforce across the automotive cloud, Data 360, MuleSoft, Agentforce Sales, Agentforce service. But really cool Agentforce tossed their other collaborative product. We won't talk -- tell you what it is, you probably know the name. And they're now using Slack.
+So Mary, we're thrilled that you're doing that. We love working with you. You're an incredible CEO, and you're showing the world how to turn an iconic company into an agentic enterprise, great products and great systems and with Agentforce, Mario's speeding up case resolution for her call centers. Slack is now the company's primary communications hub, scaling to 96,000 employees in just nine months.
+Last month, we launched Agentforce IT Service or Agentforce ITSM or you know that what company that we're targeting. We never really went after this before. And then all of a sudden, we realize we have the top service product in the world, and then we've got the top field service product in the world. And customers want this kind of trinity from us that includes IT service. And for whatever reason, because we had certain people in our company, won't go into the names who didn't want to build it and building that database that drives it.
+Well, already, we're selling product and really doing a phenomenal job there. The former CEO of AI, [Muddu] is running this thing. And PenFed went live with ITSM with agents for IT service, and we've got all kinds of customers who've bought products from these competitors who never deployed them or don't like these guys.
+Well, guess what? We are going to deliver some incredible capabilities. And we think that -- well, you look at PenFed, I think they went live with agents for IT service, as well as member service and collections, they're projecting a 30% reduction in operational expenses and $2 million in savings with this product is killer. So tell your friends who need ITSM, they can get it now from Salesforce. And we're seeing incredible momentum also.
+And here's another competitive situation. In Life Sciences cloud. And with Life Sciences cloud, with new bookings tripling year over year, always been a strong vertical for us, but we have this partner who decided to become our competitor, Veeva, and we're taking market share from Veeva. They even had to talk about it in their earnings call that they lost all these deals to us, but they have not seen the losses yet that are coming, highlighted by a notable new win at Helion this quarter, but just in the past few months.
+More than 120 industry leaders have selected life science cloud. I was talking to the CEO of one of the top 5 life sciences companies just yesterday, he's a good friend of mine. And going to life sciences cloud, all led by the way, with Pfizer and Albert who decided to be the first one and so grateful to him. And it's a great product. It includes 5 of the -- top 5 of the top 20 pharma companies already, but you're going to see them all use life sciences cloud and most recently, Novartis is gone Salesforce, Life Sciences cloud and, I don't know, all of Takeda, all of them are going to go.
+And our Public Sector Solutions ARR also grew 50% year over year in Q3, really cool products. I was just in Washington, D.C. last week, mentioned the IRS. I was with the Treasury Secretary. I was with a number of the Cabinet Secretary.
+All of them are rebuilding what they're doing, reautomating. And we want to help all of them, and I'm inspired to see some of the largest, most impactful government agencies running their businesses and their critical workflows and their agents and their data on Salesforce, including the Air Force, Army, Dan Driscol. We're really proud to work with Dan and the Army and just told me came in and delivered his recruiting goals, nine months early using agent for sales and Department of Agriculture, and of course, we run the whole Veterans Affairs, we've got 120 apps there now.
+And it used to be a huge problem with Veterans Affairs for the whole country and veterans were not getting the service and support they needed, and we cleaned that up for them. And as I mentioned also the IRS, but for everyone we're in there, doing our best, and we're delivering at very reasonable cost and on budget and we're not -- we're really excited to be working with the government and helping them to become agentic enterprises.
+And we're really excited to work with the IRS. I just want to say the Office of the Chief Counsel has automated up to 98% of manual activities decreasing the time to fully open a tax court case from 10 days to 30 minutes. Another division, saving an estimated 500,000 minutes a year retiring multiple legacy systems. And now Agentforce with IRS is going to be able to further optimize automate, accelerate business process across the entire agency. And I just want to congratulate Secretary Paulson for his tremendous leadership and what he's done in transforming the IRS and also all of the treasury.
+This week, we launched the UK's first AI police officer. We work with multiple police departments to roll out Bobby. Everybody loves Bobby, it's the Agentforce Service agent that is the public's first point of contact for nonemergency calls and Bobby autonomously provides instant responses on more than 90 topics and police departments have already seen a 20% reduction in non-emergency demand, and they are just getting started. And this is what real enterprise adoption looks like.
+No other companies delivering agents of the scale. And when you look at what others in our space are doing, the difference is clear. We're delivering this capability to a global customer base, more than 150,000 Salesforce customers and 1 million companies are now on Slack, now have the immediate opportunity to work side-by-side with agents and Agentforce and the apps are already using every day to become elevated.
+And that's why we're uniquely positioned for this new area. We have the strategy of the platform, the global scale. And I would say also, our core values very much trust, customer success, quality and sustainability remain very much intact. I also want to thank all of our incredible Ohana for everything they've done during the quarter to make this quarter so successful, make Dreamforce so successful and all the world tours that are happening and so many great customer stories, but I especially want to thank all of our Ohana who have done 10 million volunteer hours to support the communities where they live and work. It is -- we are so grateful to them.
+And now I'd like to throw it over to Robin.
+
+--------------------------------------------------------------------------------
+Robin Washington,  Salesforce Inc - Co-President, Chief Financial Officer, Chief Operating Officer, Director    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Marc, and good afternoon, everyone. It was great to see many of you at my first reinforces as CofO which was unforgettable. The energy was incredible, as Mark just talked about a though the quarter, as you can see from our bookings momentum. We're excited to see our customers' transformation to the Agentic Enterprise accelerate, driven by Growth 360 playbook, including multi-close pricing and packaging, our balanced portfolio and continued innovation.
+I just want to share a few key data points with you. More than 70% of our top 100 wins included five or more clouds. In pricing and packaging, new bookings for Agentforce One addition and A for X, or as we call it, Agentforce for apps, our most premium SKU doubled quarter over quarter. Our consumption flywheel is spinning. Agentforce accounts and production increased quarter over quarter. And more than 50% of Agentforce bookings came from existing customers refilling the tanks.
+Agentforce and Data 360 ARR was up 114% year over year. This is inclusive of Agentforce ARR, which is up 330% year over year. Clearly, we have the winning formula here.
+So let's turn to the results of the quarter. Revenue in the third quarter was $10.26 billion, up 9% year over year in nominal and 8% in constant currency, driven by the trifecta of Agentforce, Data 360, and Agentforce Sales and Service Performance. This was partially offset by a faster-than-anticipated mix shift to cloud for Tableau and on-prem revenue timing in Tableau and MuleSoft.
+As we've shared with you before, the on-prem portion of MuleSoft and Tableau revenue is recognized in period, which creates less predictability revenue quarter-over-quarter. Subscription and support revenue grew 10% year over year in nominal and 9% in constant currency. Q3 revenue attrition ended the quarter at approximately 8%, in line with recent trends. We delivered another quarter of profitable growth, with Q3 non-GAAP operating margin up 240 basis points and GAAP operating margin up 130 basis points.
+The strong performance this quarter was driven in part by timing of expenses and a bad debt expense adjustment based on our strong collection performance. Current remaining performance obligation, or cRPO, ended Q3 at $29.4 billion, up approximately 11% year over year in nominal and constant currency, inclusive of a $200 million foreign exchange tailwind. This better-than-expected performance was driven by strong bookings and a modest benefit from early renewals and the timing of on-prem revenue.
+And I'm pleased to share that for the first time since fiscal year 2022, net new AOV growth outpaced AOV growth. From a geographic perspective, we saw strong business growth in North America and EMEA, led by France and the U.K., while Asia Pacific was more constrained, particularly in Australia and India. From a segment perspective, we continue to see strong performance in our small and mid-market business and enterprise growth accelerated this past quarter.
+From an industry perspective, business services and consultancy, healthcare and life sciences and retail and consumer goods performed well, while comes in media and manufacturing automotive and energy were more measured. As committed, I wanted to quickly update you on the progress we made on our three strategic priorities.
+First, customer success. Repeating what Mark said, our top priority is accelerating Agentforce and Data 360 adoption. We are relentlessly reallocating our resources to high-growth areas and it's paying off. Q3 was one of our biggest pipeline generation quarters ever, and customers leveraging our forward-deployed engineers are seeing 33% faster deployment times.
+Second, operational excellence. As Customer Zero, our STR agent, has worked hundreds of thousands of leads, generating tens of millions in incremental pipeline. We see that same velocity with Agentforce on help.salesforce.com, which passed 2 million conversations this quarter. It took nine months to reach the first million and just half that time to double it, another clear example of our internal consumption flywheel taking off.
+The third area I want to cover is responsible capital allocation. Informatica enhances our trusted data foundation, and it will be accretive within 12 months. We also returned more than $4 billion to shareholders in Q3. We continue to see a meaningful opportunity to invest in ourselves and we are on track for a 50% step-up in share repurchases in the second half of this fiscal year.
+Turning to guidance. I want to frame our outlook, inclusive of Informatica. To help you model this clearly, where relevant, I'll give our organic performance, layering the acquisition impact and then provide the consolidated figures for Q4 and fiscal year '26.
+Starting with subscription and support revenue. We are reiterating our fiscal year '26 organic subscription and support growth guidance of approximately 9% year over year in constant currency. This is fueled by continued momentum in Agentforce and Data 360, partially offset by weaknesses in marketing and commerce and the on-prem dynamic for MuleSoft and Tableau. Informatica will contribute approximately 80 basis points of additional growth, resulting in total subscription and support growth of slightly under 10% year over year in constant currency.
+Turning to total revenue. We are narrowing our fiscal year '26 revenue guidance on an organic basis to $41.15 billion to $41.25 billion, growth of approximately 9% in nominal and 8% in constant currency. This is attributed to a $25 million FX headwind since last quarter and the on-prem dynamic for Tableau and MuleSoft. We anticipate a contribution of approximately 80 basis points from Informatica resulting in fiscal year '26 revenue of $41.45 billion to $41.55 billion or approximately 9% to 10% in nominal and approximately 9% in constant currency.
+Before I turn to profitability, I want to highlight that with our current trajectory of net new ALP growth, we project to finish fiscal year '26 with half two net new AOV growth ahead of half two AOV growth.
+Turning to margin. As a result of the close timing of Informatica, we are maintaining our non-GAAP operating margin guidance at 34.1% and adjusting our GAAP operating margin to 20.3%. We are raising our annual guidance on operating cash flow growth to approximately 13% to 14% growth as a result of our strong Q3 bookings performance. We expect capital expenditures to remain slightly below 2% of revenue, resulting in free cash growth of approximately 13% to 14%.
+Organic cRPO growth for Q4 is expected to be approximately 11% year over year in nominal and 9% year over year in constant currency. As a reminder, we are lapping our acquisition of OM in Q4 FY25, which represents slightly under 1 point of impact.
+Inclusive of Informatica, we expect cRPO growth of approximately 15% year over year in nominal, including a $500 million FX tailwind, resulting in approximately 13% constant currency growth.
+Consistent with our Investor Day outlook, we remain on track to reaccelerate revenue in 12 to 18 months. In closing, our momentum is building, fueled by Agentforce. We are executing against our FY30 framework and investing with discipline, positioning us incredibly well for the future.
+Finally, a big thank you to all our employees for their dedication and hard work delivering a successful Q3.
+I'll turn it back to you, Mike.
+
+--------------------------------------------------------------------------------
+Michael Spencer,  Salesforce Inc - Executive Vice President - Finance and Strategy and Investor Relations.    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Robin. And with that, we're going to move to the Q&A portion of our call. Operator, can we please move to the first question?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Keith Weiss, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Keith Weiss,  Morgan Stanley & Co Ltd - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Excellent. Thank you guys for taking questions. Congratulations on real quarter. And also great to see you guys putting your money where your mouth is and the accelerated share buybacks, expressing your conviction and sort of the value of Salesforce's stock where it is.
+I had a question for Miguel and trying to sort of tap into your experience in talking to these large customers because there's still a very big mismatch in the marketplace in terms of what we hear from investors in terms of the expectation that generative AI is going to be injurious to the SaaS-based application layer that enterprise customers are going to try to build their own functionality or going to try to replace solutions like Salesforce with DIY solutions that they can build around these models, versus what we're seeing in the inflection in your business. So can you talk to us a little bit about what you're hearing from customers in their applicator or a desire, if they have one of building out their own applications versus going to a vendor like Salesforce to try to get to this generative AI functionality or capabilities?
+
+--------------------------------------------------------------------------------
+Miguel Milano,  Salesforce Inc - President, Chief Revenue Officer    [3]
+--------------------------------------------------------------------------------
+
+          Keith, thank you so much. That's spot-on question. And it's the heart -- I think it's the heart of the matter. And I think there is a really different perspective on what is really happening. This past quarter, I was in 3 continents, 12 countries, I talk to 400 customers, many one-on-ones, many one to two several dinners.
+And the reality is very different. There is something very large, very important, and I want to emphasize this, I don't think we've made Marc and Robin enough justice to what is happening right now in front of us. This is -- there is a new very large secular demand trend, which is the agentic enterprise.
+Every single company in the world, small, medium, large wants to become an agentic enterprise, some -- at a company that is conversational that is much smarter that empowers employees by giving them extra information that is able to execute autonomously, but also probabilistically on one side, when AI wants to execute; deterministically, when you want the current workflows to be executed.
+And this is to increase growth, to reduce costs, to improve customer satisfaction and every customer wants to do it. Now the problem is they've been experimenting. They've been experimenting for two years. They've gone from experimentation now to frustration a little bit. And now they are all saying, you know what, this is hard.
+This is much harder than we thought. They all want to go to scale because the opportunities, which is a multitrillion market cap opportunity, it's in front of us. The TAM is a multitrillion for us, and they want to go all in, they know it's hard because LLM cannot do this alone. And now to answer your question, the last mile is hard. And last mile is hard because companies need the context.
+For enterprise AI to be successful and accurate in the enterprise, you need the context, you need the data, you need the metadata, you need deterministic workflows. You don't want the agents to be essentially executing based on what they found in an LLM. You want the agents to execute in a deterministic way the same workflows that that company had already qualified the apps for the years that humans are already using. And they need AI that is embedded where the humans are.
+That's why it's so important to have the data with the context to have the apps, the deterministic workflows to have the AI where the humans are, and only Salesforce can do that. And we are seeing an incredible increase in demand ahead of us. We are winning. You're seeing the bookings. I'm very proud of the quarter that we delivered. I'm very thankful to my team, the whole employee base as far as I'm also very thankful to our customers and are very thankful to our partners.
+
+--------------------------------------------------------------------------------
+Michael Spencer,  Salesforce Inc - Executive Vice President - Finance and Strategy and Investor Relations.    [4]
+--------------------------------------------------------------------------------
+
+          Marc, do you want to add anything to that?
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [5]
+--------------------------------------------------------------------------------
+
+          No, I think that was great.
+Thanks, Miguel.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Raimo Lenshow, Barclays.
+
+--------------------------------------------------------------------------------
+Raimo Lenschow,  Barclays Services Corp - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Michael, can I stay on that subject a little bit? You've been expanding the sales -- your sales rep quite a bit, and that's still part of the plan. How do you think about the ramping of those? And how do you also think about productivity for those extra reps coming on? Thank you.
+
+--------------------------------------------------------------------------------
+Miguel Milano,  Salesforce Inc - President, Chief Revenue Officer    [8]
+--------------------------------------------------------------------------------
+
+          I have to credit Marc for that. We had a seminal moment a year ago where we, particularly Marc he saw the demand coming. And he told us let's invest in capacity. Let's also invest in enablement. So I became six months ago also the enablement leader for the company. And we have now, today, 20% more capacity in place. We're going to finish the year with 15% more capacity enabled, already, we call it ramped.
+This is fundamental. It takes 6 to 12 months to -- on average, to ramp ace. We've done all the hard work, exactly at the moment that the demand is coming at us. So I see the pipelines growing. The top of the funnel is growing. We've never seen a pipe gen quarter like we did in Q3 with essentially very healthy double-digit growth in pipe gen, above our expectations.
+Next year, pipeline -- open pipeline is, again, double-digit healthy growth on open pipeline, that matching the double-digit healthy growth on enabled capacity. It is very exciting. We are ready to capture the opportunity. And again, this is not just one more cloud that now we are very excited, Agentforce, data cloud is going to have 10%, 20% on the business that we do with every customer.
+The Agentic enterprise is a new paradigm. Customers will have -- we'll use Salesforce in a totally different way. They will use Salesforce to be the platform for detailed labor for sales, for service, for marketing. And the impact on the way we can monetize those relationships is exponential. It's not linear growth, it's exponential.
+Robin alluded to that at Investor Day. We were talking about 3 times, 4 times the ability to multiply the monetization on customers because, by the way, they're getting 3 times or 4 times or 10 times more value from our products. I've already seen a lot of examples of companies that had a great relationship with us, had a multi-cloud relationship with us.
+Sales, service, all our core clouds, we're very excited. And then Agentforce and Data Cloud came. They decided to become an agentic enterprise. They understood the last mile problem, they bet on Salesforce and now the bookings that we do with them, the AOV had doubled, tripled, in some cases, multiplied by four and five, and we are just getting started. We just want to get every single one of our 150,000, 200,000 customers through the agentic enterprise journey. And for each of them, there is going to be a multiplier effect.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Brad Zelnick, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Brad Zelnick,  Deutsche Bank AG - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Great. Thanks so much, and my congrats on an amazing quarter. Marc, at this point, even without Informatica and now more so with it, you have one of the largest infrastructure businesses in all of software, well over $10 billion in scale. What Salesforce's competitive advantage in infrastructure? And how do you not only get credit for it in its own right but leverage these core capabilities to drive the overall company's success?
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [11]
+--------------------------------------------------------------------------------
+
+          Really appreciate the question, Brad. I think, number one, I just want to make sure everybody realizes we're not building data centers at Salesforce. We're preserving our gross margins and our cash flow. But we will use the data centers that are being built. And we will take advantage of the lower cost that we're seeing in the market from the incredible build-out of data centers.
+But yes, you're right. Our data infrastructure is incredible. We call it our data foundation. And I think you realize it composes, as I mentioned, three key things: Informatica, Data 360, our data cloud and also MuleSoft.
+And together, you're right, I think it will do about $10 billion next year in business. So this is a very significant software business. But it's fundamental, it's key for every one of our customers to move to this data foundation. And we are still at the beginning of that journey with so many of our customers. And one of the keys to it is -- it's federation.
+And I just came back from Japan, as I mentioned, one of the most important companies in Japan, other than Salesforce is IBM. IBM has about 8,000 employees in Japan. We have about 4,000 employees in Japan. We have -- I think we're the largest software company in Japan right now.
+And the ability to federate Data 360 to the IBM Mainframe, which is technology that we just introduced in Tokyo two weeks ago at world tour, that idea that you're running Agentforce, but it is being fueled by not only the data in Data 360, but simultaneous the data in your IBM Mainframe. So that infrastructure is critical to delivering the AI that is accurate, that is reliable, that is low in hallucinogens.
+And this is fantastic for the company, and it is not something that is totally independent. It's deeply integrated with everything that we do. So all of our apps, Agentforce, our customer agents, our employee agents, everything is built on this fundamental foundation. I couldn't be more excited about it.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Brent Thill, Jefferies.
+
+--------------------------------------------------------------------------------
+Brent Thill,  Jefferies LLC - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Great. Marc, the halo effect the Agentforce is having. I mean it seems that sales and service were stable at high single-digit growth, Slack accelerated growth. Can you just speak to what you think this is doing for your other clouds and maybe even drilling them the slack resurgence?
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [14]
+--------------------------------------------------------------------------------
+
+          Well, you're right on it, Brent. I think that it's an accelerator on the core. And I think that we're -- to address the question that went to Miguel where there was a false narrative that somehow the core is in jeopardy because of these large language models. And while the large language models are very important and they will expand in functionality I'm sure, over time, the reality is, is that our ability to take our core applications extend them and deliver another level of value beyond what we were doing before.
+Now we had already been doing predictive AI and all the kind of Einstein AI. But now with Agentforce, it's another level, and you could see it really at Dreamforce when we're demoing Agentforce Service with the omnichannel supervisor and the ability for the agent and the humans to interact autonomously. That was just awesome. It's because it's humans and agents and the apps and the data. And that, I think, is what is really driving this forward and it's happening in sales, it's happening in service, it's happening in the Slack and I'm confident it's going to happen in marketing.
+It's going to happen in commerce. It's going to happen across every Tableau, across every single product. Every single product had to be rebuilt, so that took some time. I'd love for Srini to come in kind of talk about that. But now as we deliver those Agentforce products and you saw each and every one of them at Dreamforce, how far they are Customers are excited to get to that next level.
+
+--------------------------------------------------------------------------------
+Srinivas Tallapragada,  Salesforce Inc - President and Chief Engineering Officer and Customer Success Officer    [15]
+--------------------------------------------------------------------------------
+
+          Just to come those two questions. If you really look at agents, agents need context, really. And they need tools. And what is context? To get context, you need data across the enterprise, some in the company, which is in the platform, some you want to federate it, which is what we call data copy and some through ingest, which is why Informatica case.
+You need to understand where all the data is in the company. You need a catalog. You need a metadata. You need to organize all these data, and you need tools. This is what is enterprise context. Without having an enterprise context, it's very, very hard. And that's what our data foundation gives with Informatica, MuleSoft, and Data 360.
+On top of that..
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [16]
+--------------------------------------------------------------------------------
+
+          And Srini, you really drill into that because people still don't understand.
+
+--------------------------------------------------------------------------------
+Srinivas Tallapragada,  Salesforce Inc - President and Chief Engineering Officer and Customer Success Officer    [17]
+--------------------------------------------------------------------------------
+
+          So just so you know, just on ingest, for example, in quarter over quarter on Data 360, people have built their lake, just in Data Cloud, our ingest has increased by 38%, and zero-copy has increased by 52% growth in terms of records. But this is unstructured data.
+So it's just not the structured data. It's all your documents, all your knowledge articles, all your user manuals. That has increased by 109% growth. And then this is how you create create this unified profile or unified product ID, unified customer master, unified account master. That's what a unified context you want in a real-time profile. That's very hard to do.
+But just if you have this context, it's not enough. You need the deterministic place for reasoning, where deterministic, where non-deterministic. Then you need the tools. The agents have to take actions. Some of the actions are in Salesforce already, the jobs to be done over 25 years.
+For each vertical, we have really deep understanding of not just a sales rep does. We know what a sales step does in a financial industry, different from what a sales rep does in pharma, which is different from what a sales rep does in a telecommunications industry. So that's the jobs to be done.
+Imagine you need the context, you need the jobs to be done, you need the tools. And sometimes you have back-end systems where you need those APIs. That's why MuleSoft is very important.
+Now if you just think these three are enough, it's not enough because once you go live, you need an eval, you need to know how the agents are performing. You need auditing, you need compliance, you need local data residency tools. This is what we are finding enterprises yourself are realizing that it's good news actually for me.
+When I talk to CIOs, I see two types. People who are really advanced who are visionaries who started two years back, do it yourself. They really understand the pain point. They are the ones who are moving fast to the platform. And then there are some people who still think they can do it and we'll convert them over years. So I see people who have -- who know what it takes and so they know the day to day three problems and some people who still think.
+So to do this, it was not easy, correct? You had to build a platform. So four years back, we started with a Hyperforce layer. Then we created a data layer. We have to pull the data lake, a lake warehouse that's what Data 360 was. We rebuilt the entire infrastructure on the platform, on the hyperscalers, we have to rewrite our entire metadata layer to do not thousands of records but millions of objects. Then we had to rewrite all our applications, our core sales.
+It's no longer a Sales Cloud, it's agent for sales. So because when I talk to Miguel, he doesn't just want a sale, he wants to transform his function into agent sales function and even on on customer success. So my job is not to do customer success. I want to write a agentic customer success. This is why help.salesforce.com is important. That's what you're seeing. So imagine each of these applications are changing.
+But this framework is hallowing another thing. When we started doing ITSM, normally it would have taken a long time. But because we had the foundation of the data layer, the agent force layer, the metadata layer, suddenly building an agentic ITSM became very easy and that's what you are trying to see the leverage, same with life science cloud. So we're not trying to build the regular way, but this took time. And now that we have this customer success you are seeing, this is what is going to make it a differentiator, and that's our promise to our customers.
+One more right thing is our customers two years back, they would ask me, what model are you supporting, where is it, what hyperscale you run. They don't ask me any of those things now because we abstract all that complexity for them. That's the original promise of Salesforce when we said no software. Basically, that's what it is.
+We bring the customers to the future. We want to help our customers go to the agentic enterprise. And that's what we are doing. And all our forward deployment motions with our own PS services, with our customer success team, also with our SI partners, heavily invested with Accenture, Deloitte, PwC, and other global partners to really ensure that we also jointly partner with them and in a lot of places, we are co-selling them.
+They're having combined FD train. And this together is what it takes to generate the agentic enterprise. And that's how all these points we are trying to tie together. Hopefully, that answers your question.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Kirk Materne, Evercore Partners.
+
+--------------------------------------------------------------------------------
+Kirk Materne,  Evercore Inc - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Congrats on the momentum around Agentforce. Miguel, I think this one's for you. When Agentforce first came out, there was a lot of questions from partners, customers about pricing, just confusion, trying to get a handle on that. It seems with the momentum, people are more comfortable with that. And sort of the second part of there's still a lot of concern among investors about as Agentforce helps customers maybe keep headcount stable or even lower headcount in certain areas.
+How does Salesforce monetize in that kind of situation. And I was wondering if you could just touch upon that a little bit because I think that would be helpful to people to understand how AOV grows even in, say, a stable or declining headcount situation.
+
+--------------------------------------------------------------------------------
+Miguel Milano,  Salesforce Inc - President, Chief Revenue Officer    [20]
+--------------------------------------------------------------------------------
+
+          Thank you so much. Listen, Agentforce is at the heart of the agentic enterprise transformation. The momentum that we saw in Q3 is pretty significant, is unheard of, is beyond our expectations. And I want to differentiate between momentum on the bookings, okay?
+Bookings is one part of the equation. The hardest part of the equation is the adoption. Now, on bookings, we saw the numbers of the 70% more customers in production.
+I think there is one statistic that we haven't mentioned, which is very powerful. We said that 50% or more of the bookings came from customers refilling the tank. Robin alluded to that. But I don't know if you remember two quarters ago, I was super excited. I had to dig very deep to find that three customers came and refill the tank in Q1. In Q3, 362 customers refilled the tank. That's an incredible testimony of the success that Agentforce is having in a very short time frame.
+Now the other thing that we've learned is pricing matters. It's very complex. We've gone long ways. We've had different ways of pricing the product. And now I think we have the whole portfolio of different commercial frameworks to meet customers where they are where they want to be.
+My favorite one, of course, is the extreme. Those customers that are really determined to become an agentic enterprise before their peers in their industry, they realized that the last mile is very hard. They know that Salesforce is the last mile with humans with the apps, with the data and the context, they go all in with us.
+And they ask, Miguel, we don't want to be trapped here in two or three years because consumption, we used to have 10 different metrics, make it easy for us. And we went to them and we tell them, listen, give me a fluffy, we'll give you -- we pull all the power, all the power of Salesforce, including FDs from Srini and we will deliver the Agentic Enterprise promise. We have actually a point of view for every industry that includes hundreds of agents that have already been defined. We have a database of agents with their roles, with their workflows that they have to trigger on how they configure them. And we have the Phase 1, Phase 2, Phase 3 and customers just buy on AELA.
+We did 16 AELAs in agentic enterprise license agreement. In Q3, we have about 100 AELAs in the pipeline, and all these are multimillion-dollar deals and it is very exciting, but it gives the customer the predictability that they need. Now there are other customers that are more cautious, and they -- I'm going to do the extreme...
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [21]
+--------------------------------------------------------------------------------
+
+          -- drill in here. so here, we have this enterprise license agreement we call the agentic enterprise license agreement.
+When we first started with Agentforce, we were talking about, oh, it's going to be so much per conversation. It was this type of pricing may be transaction-based pricing, usage-based pricing, but customers have pushed for more flexibility we've moved fast to that. How has that really hit the market, explain why that is so important for customers?
+
+--------------------------------------------------------------------------------
+Miguel Milano,  Salesforce Inc - President, Chief Revenue Officer    [22]
+--------------------------------------------------------------------------------
+
+          Because Marc, good question by the way. You and me came up with the AELA concept when we visited a few customers in Europe from Unilever to P&I We had great conversations. And we realized that they wanted to move. They wanted to transform, but they were afraid about all these metrics, consumption, et cetera. So we -- what we're doing now is very simple.
+We are putting the whole menu of options to them. We also have a very successful SKUs that we launched, which are Agentforce for sales or Agentforce for service that are seat-based SKU. People talk about seat versus consumption-based pricing. The reality is there are a lot of customers that want to seat based because seat-based gives you the predictability.
+So we've sold a lot of seat-based licenses for Agentforce and data cloud in Q3. In fact, that SKU has doubled year-on-year. It's very massive success there. And -- but we also have customers from the beginning that they want to just pay per conversation or per agentic actions. So we have the whole portfolio, and we are meeting and I love the sentence that Robin illuminated me with a while ago is we are meeting customers where they are.
+Every customer is a different point in their journey. So pricing is not -- we put pricing away from the table. And by the way, we also have flex pricing.
+If customers are -- now going to the second part of the question. If customers are worried, okay, I don't want to invest here too much because I already have my service agents in this -- in the call centers and my sales people and what if that reduces, we have flex agreements where if you decide that because the future of agentic is human and agents working together. In most companies, humans are also going to increase. But if they decrease in some areas, you redeploy them but they may not need a license as far as well, you can use that payment to Salesforce into credits, into an AELA or into a seat-based license. So we have the full flexibility.
+Now humans and agents, I think you guys always ask the same thing on whether the number of seats is increasing, the price is increasing. Well, for our clouds, we are seeing both increasing, which is exciting. And we have the flexibility for customers if they want to move investment from one area to the other. So far, we are seeing that the power of the agentic enterprise is when agents augment humans, and they work together side by side with humans.
+
+--------------------------------------------------------------------------------
+Michael Spencer,  Salesforce Inc - Executive Vice President - Finance and Strategy and Investor Relations.    [23]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Kirk.
+Operator, we'll take last question, please.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Brad Sills, Bank of America.
+
+--------------------------------------------------------------------------------
+Brad Sills,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Wonderful. Marc, a question for you. I remember at the analyst meeting that we had at Dreamforce. You referred to some efforts to kind of get back to the basics and in the sales channel in pipeline. I think you had mentioned that there were -- the leads were there, but you weren't watering the leads or the seeds were there, you weren't watering the seeds.
+I would love it if you could elaborate on that effort to kind of focus back on kind of back to the basics lead generation -- what impact that has had on the pipeline. Thank you so much.
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [26]
+--------------------------------------------------------------------------------
+
+          Okay. Well, I think that maybe this is our greatest accomplishment of the year. Of course, Srini has done a phenomenal job as well as Steve and the entire technology team in building an Agentforce. There's no question, the product is more exciting than ever before. We went through this in detail today.
+But I think that probably the most exciting thing that we have done this year from my perspective is not only have we delivered this incredible piece of technology, but we've radically enhanced the capacity of the distribution organization at a level that we have not done in years.
+This is very important, not for this year, but for the subsequent years. And this investment that we made this year in the capacity is going to pay off across all six segments. I just want you to remember Salesforce sells to companies, zero to 200 employees, 200 to 1,000, 1,000 to 5,000, 5,000 above the, US government and across our ecosystem or the software industry. And to really address all six segments, it's critical for us to have the capacity to do that.
+Miguel, what is your total capacity increase for the year so far?
+
+--------------------------------------------------------------------------------
+Miguel Milano,  Salesforce Inc - President, Chief Revenue Officer    [27]
+--------------------------------------------------------------------------------
+
+          20 -- as of today, 23%.
+
+--------------------------------------------------------------------------------
+Marc Benioff,  Salesforce Inc - Chairman of the Board, Chief Executive Officer, Co-Founder    [28]
+--------------------------------------------------------------------------------
+
+          About 23% capacity increase. And then we do four critical things. Not only have we delivered more capacity, we have, as Miguel said, train them, enable them. Obviously, these concepts that we're talking about a agentic Enterprise we've created this. We're envisioning this.
+We're defining what the future is with this. So we have to enable them and train and give them the ability to deliver that in every one of these market segments.
+Number two, that core capacity, we have to look at that across every single one of those segments. Several of those segments are delivering mid-double-digit growth at a level that we have not also seen in years. Huge shock to us. And we really think that so many of these segments are just on fire and doing incredibly well. And then three is we have to link the compensation plans of these incredible sellers to these goals, all the goals that you've kind of heard as outlined in the script.
+And the last thing is we measure the participation of each seller across each segment across each geo, across every operating unit and find out why are they selling or why are they not selling this product and this geography in this segment. So it's a radical level of management. I would say that our ability to do that today far exceeds where we were even just three or four years ago.
+And Miguel, I think, is done a phenomenal job in making that happen. And I think that when we're running the largest Salesforce in software industry, which is what we have and the ability to deliver that across all of these segments with what I think is the most competitive piece of software we have ever had across every industry, every geography, across every segment, it's a Herculean task.
+And Q3 you look at these numbers and you saw we were guiding, I think, that we were going to do 9% CRPO growth, and it went to 11% because Miguel crushed it. And I'm really excited about Q4, but especially, I'm excited about fiscal year '27 and fiscal year '28, because of the capacity increases that we're making now.
+
+--------------------------------------------------------------------------------
+Michael Spencer,  Salesforce Inc - Executive Vice President - Finance and Strategy and Investor Relations.    [29]
+--------------------------------------------------------------------------------
+
+          Well, thank you, Brad, and thank you, everyone, for joining us today. We look forward to seeing everyone over the coming weeks. Take care.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Thank you for joining. This concludes today's call, and you may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

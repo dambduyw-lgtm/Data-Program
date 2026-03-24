@@ -1,0 +1,413 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2025 Abbott Laboratories Earnings Call
+APRIL 16, 2025 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert Ford
+   Abbott Laboratories - Chairman of the Board, Chief Executive Officer
+ * Michael Comilla
+   Abbott Laboratories - Vice President, Investor Relations
+ * Phil Boudreau
+   Abbott Laboratories - Executive Vice President, Finance & Chief Financial Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robert Marcus
+   JPMorgan Securities LLC - Analyst
+ * Joshua Jennings
+   TD Cowen - Analyst
+ * Joanne Wuensch
+   Citi - Analyst
+ * Marie Thibault
+   BTIG - Analyst
+ * David Roman Roman
+   Goldman Sachs & Company, Inc. - Analyst
+ * Lawrence Biegelsen
+   Wells Fargo Securities, LLC - Analyst
+ * Travis Steed Steed
+   BofA Global Research - Analyst
+ * Vijay Kumar
+   Evercore Inc. - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning and thank you for standing by. Welcome to Abbott's first-quarter 2025 earnings conference call. (Operator Instructions) This call is being recorded by Abbott. With the exception of any participants' questions asked during the question-and-answer session, the entire call, including the question-and-answer session, is material copyrighted by Abbott. It cannot be recorded or rebroadcast without Abbott's express written permission. I would now like to introduce Mr. Mike Comilla, Vice President, Investor Relations.
+
+--------------------------------------------------------------------------------
+Michael Comilla,  Abbott Laboratories - Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone and thank you for joining us. With me today are Robert Ford, Chairman and Chief Executive Officer; and Phil Boudreau, Executive Vice President, Finance, and Chief Financial Officer. Robert and Phil will provide opening remarks. Following their comments, we'll take your questions.
+Before we get started, some statements made today may be forward-looking for purposes of the Private Securities Litigation Reform Act of 1995, including the expected financial results for 2025. Abbott cautions that these forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those indicated in the forward-looking statements.
+Economic, competitive, governmental, technological and other factors that may affect Abbott's operations are discussed in Item 1A, Risk Factors, to our annual report on Form 10-K for the year ended December 31, 2023. Abbott undertakes no obligation to release publicly any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.
+On today's conference call, as in the past, non-GAAP financial measures will be used to help investors understand Abbott's ongoing business performance. These non-GAAP financial measures are reconciled with comparable GAAP financial measures in our earnings news release and regulatory filings from today, which are available on our website at abbott.com.
+Note that Abbott has not provided the related GAAP financial measures on a forward-looking basis for the non-GAAP financial measures for which the company is providing guidance because the company is unable to predict with reasonable certainty and without unreasonable effort, the timing and impact of certain items, which could significantly impact Abbott's results in accordance with GAAP.
+Unless otherwise noted, our commentary on sales growth refers to organic sales growth, which is defined in the press release issued earlier today. With that, I will now turn the call over to Robert.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks Mike. Good morning, everyone and thank you for joining us. As we progress through 2025, it is clear that we are operating in an increasingly dynamic environment. Abbott was built not just to operate but to succeed in rapidly evolving environments like this.
+We have consistently demonstrated our ability to navigate the complexities arising from a range of global circumstances, including the repercussions of a global pandemic, global financial crisis, numerous geopolitical events, just to name a few. And the current evolving economic environment influenced by new tariff policies represents another global development that we are prepared to adeptly manage.
+The proven benefits of our diversified business model are evident now, a result of the strategic framework that drives our global manufacturing and supply chain operations. While tariffs will have a financial impact with 90 manufacturing sites around the world and decades of experience executing our global network strategy, we're well positioned to implement mitigations to help manage the impact of the tariffs.
+I'll now shift our focus to discussing our results for the quarter. Overall, we achieved our target growth objective delivering high single digit sales growth and double-digit earnings per share growth. First quarter of sales grew 7% or more than 8% when excluding COVID testing sales.
+First quarter, adjusted earnings per share of $1.09 grew 11% versus the prior year and finished at the high end of our guidance range. I'll now summarize our first quarter results in more detail before turning the call over to Phil, and I'll start with nutrition.
+Their sales increased 7% in the quarter. Growth in a quarter was driven by high-single-digit growth in adult nutrition and double-digit growth in US pediatric nutrition. In pediatric nutrition, our relentless focus on research, innovation, and product quality continues to make our Similac family products the number one choice for parents in the United States. In adult nutrition, growth of 8.5% was driven by growing demand for Abbott's Ensure family of products that serve as a source of complete and balanced nutrition for people with a wide range of nutritional needs.
+Moving to diagnostics, sales declined 5% in the quarter due to the year-over-year decline in COVID-19 testing sales resulting from a much weaker COVID season, which primarily impacted growth in our rapid diagnostics business. In core laboratory diagnostics, low-single-digit growth in the quarter reflects the impact of volume-based procurement programs in China. Excluding China, core laboratory sales grew 6.5%. And wrapping up in diagnostics, we remain on track to go live by the end of the year with two new manufacturing and R&D investments in Illinois and Texas, totaling $500 million related to expanding our US transfusion diagnostic business. Our diagnostic business, our transfusion business is responsible for screening the US blood supply.
+Our current blood screening system, Alinity S runs diagnostic tests to identify various antibodies and antigens that may be present in donated blood. We have developed a new system called Alinity N that will allow Abbott to enter the molecular nucleic acid testing segment of the blood screening market.
+This advanced technology is capable of detecting DNA and RNA of several diseases that could potentially contaminate blood donations. The nucleic acid testing market opportunity is estimated to be around $1 billion and represents an attractive new growth opportunity for our business.
+Turning to EPD, where sales increased 8% in the quarter. Growth was broad based across the markets we serve, led by double-digit growth in more than half of our key 15 markets. We continue to make great progress on building a best-in-class portfolio of biosimilars that spans across several large and attractive therapeutic areas.
+In January, we entered into an agreement that provides added commercialization rights to four additional biosimilars across emerging markets in Asia, Latin America, the Middle East, and Africa. Through the various collaboration agreements we have executed, we have now added a total of 15 biosimilar products projected to contribute to sales over the next three years.
+And I'll wrap up with medical devices, where sales grew 12.5%. In Diabetes Care, sales of continuous glucose monitors were $1.7 billion in the quarter and grew more than 20%, including growth of 30% in the United States. In Electrophysiology, sales grew 10%, which included double-digit growth in the US and high-single-digit growth in international markets.
+In March, we announced that Abbott obtained CE mark earlier than expected for our Volt PFA system to help treat patients battling atrial fibrillation. We have already initiated the launch of Volt and will further expand the rollout across European markets over the course of the year.
+In Structural Heart growth of 15% was driven by strong performance across our market leading portfolio of surgical valves, structural interventions, and transcatheter repair and replacement products. Growth in the quarter was led by continued share gains in TAVR and growing adoption of TriClip.
+In March, new two-year data from the TRILUMINATE clinical trial was presented at the American College of Cardiology Conference. The data showed that patients receiving TriClip had a statistically significant reduction in the occurrence of heart failure-related hospitalizations along with sustained reductions in tricuspid regurgitation and life-changing improvements in quality of life.
+In Rhythm Management, growth of 6% was led by consistent and sustained market penetration of AVEIR, our innovative leadless pacemaker, and Assert, our newest implantable cardiac monitor. In Heart Failure, growth of 12% was driven by our market-leading portfolio of heart assist devices, which offers treatment for chronic and temporary conditions.
+In January, CMS issued national coverage decision to cover CardioMEMS, a small implantable sensor that provides early warning indications that help doctors treat heart failure. This expanded coverage will broaden access to CardioMEMS for those with Medicare Advantage plans and help further expand coverage to those with commercial insurance plans.
+In Vascular, growth of 6% was led by double-digit growth in vascular imaging and vessel closure products and growth in Esprit, our below the knee resolvable stent. In March, we announced the start of our US pivotal trial to evaluate our coronary intravascular lithotripsy system in treating severe calcification in the coronary arteries prior to implanting a stent.
+We expect to complete enrollment in this trial next year and file for FDA approval shortly thereafter. We look forward to entering this large and fast-growing segment of the coronary intervention market and expect this to become a meaningful growth driver for our vascular business.
+And lastly, in Neuromodulation. We began treating patients in our TRANSCEND clinical trial, a first of its kind trial designed to evaluate using deep brain stimulation to address treatment-resistant depression, which represents a market opportunity exceeding $1 billion.
+So in summary, we delivered another quarter of top-tier performance. Sales grew high single digits and earnings per share grew double digits. We expanded gross margin by 140 basis points and operating margin by 130 basis points compared to the prior year.
+The pipeline continues to provide a steady cadence of new growth opportunities with more than 25 key new products forecasted to launch over the next three years, and we remain on track to deliver on the financial commitments we set at the beginning of the year. I'll now turn the call to Phil. Phil?
+
+--------------------------------------------------------------------------------
+Phil Boudreau,  Abbott Laboratories - Executive Vice President, Finance & Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Robert. As Mike mentioned earlier, please note that all references to sales growth rates, unless otherwise noted, are on an organic basis. Turning to our first-quarter results, sales increased 6.9% or 8.3% when excluding COVID testing-related sales. Adjusted earnings per share of $1.09 increased 11% compared to the prior year and finished at the high end of our guidance range and above the consensus estimate.
+Foreign exchange had an unfavorable year-over-year impact of 2.8% on the first quarter sales. During the quarter, we saw the US dollar weakened, which resulted in a favorable impact on sales compared to exchange rates at the time of our earnings call in January.
+Regarding other aspects of the P&L, the adjusted gross margin profile was 57.1% of sales, which increased 140 basis points compared to the prior year. This increase was driven by delivering on the underlying organic margin expansion we forecasted and also included an added benefit of more favorable fall-through from foreign exchange.
+Gross margin expansion has always been a significant element of Abbott's company culture. At any point in time, a substantial number of margin improvement initiatives are underway that span across our businesses as well as our functional areas, including supply chain, marketing and other administrative groups. I'd like to take a moment to acknowledge the valuable contributions from our Abbott employees around the world who are driving these exceptional margin expansion results.
+Turning our focus back to the first quarter results. Adjusted R&D was 6.7% of sales, and adjusted SG&A was 29.5% of sales in the first quarter. Adjusted operating margin was 21% of sales, which reflects an increase of 130 basis points compared to prior year.
+Based on current rates, we now expect exchange to have an unfavorable impact of around 1% on the full-year reported sales, which includes an expected unfavorable impact around 0.5% on the second quarter reported sales. Lastly, for the second quarter, we forecast adjusted earnings per share to be in the range of $1.23 to $1.27. With that, we'll now open the call for questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Robert Marcus, JPMorgan.
+
+--------------------------------------------------------------------------------
+Robert Marcus,  JPMorgan Securities LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning. Congrats on a good quarter. Robert, I'll just ask them both together since they're sort of related. First, on the full-year guidance update. It looks like it moves a little lower when you back out the -- or it stays the same when you back out COVID testing but moves a little lower including that. But you were able to hold EPS for the full year, even including the recently announced tariffs, and I guess that's the elephant in the room is tariffs. So maybe you could walk us through the impact of that, how it hits the balance sheet and P&L timing. We're all trying to figure out what does it look like on a full year. So maybe some of the offsets, you talked about the flexibility in the manufacturing footprint, how you're using that to your advantage? And I'll leave it there. Thanks a lot.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Sure, Robbie. Yeah, I mean, listen, I think the maintaining of our guidance range, we had a great first quarter here and achieved what we wanted to achieve from a target growth perspective, high single-digit sales growth, double-digit EPS growth. We talked about getting back to that to that formula, and you know, excluding COVID testing sales, which I can tell you right now, our lowest gross margin product, we grew over 8%.
+So I think on the top line, everything that we've kind of put in place, we feel very good about as evidenced in our first quarter. Gross margin expansion is a key element of our plan to get back to double-digit EPS and to your question on tariffs. It's going to be an important -- definitely an important muscle to exercise here, and really strong performance here.
+I think we guided 70 basis points of improvement, and we saw about 140 in the first quarter. So a really strong performance from the team there. And then the pipeline to kind of sustain the growth run. I think you saw a lot of activity this first quarter, whether it's the Volt CMA at the beginning of our IVL trial, the NCD for CardioMEMS, the new data on TriClip. So there's a lot of great activity therewhen you think about kind of how we guided at the beginning of the year. Everything is pretty certain for us in terms of how we're executing and the expectations we have on the products. I guess the only aspect there of maybe some uncertainty that you raise is the tariff piece. And I'd say prior to tariffs -- prior to the whole tariffs, we were even considering -- given the momentum that we were seeing in the base business, we've been considering raising our EPS guidance. But tariffs are here. So we felt reaffirming our guidance is already, I think, a pretty strong statement.
+We've completed a pretty strong assessment of every possible different type of scenario, not just in what it could -- how it could impact us, but more importantly, Robbie, how -- what are the different scenarios to be able to mitigate it.
+So the team has been working very diligently. I think we only took a break over the weekend to watch the playoff and then we went right back to it. And I can tell you, we’re very comfortable right now with the information that we've got. And obviously looking at potential scenario that could arise down the road that we can cover an impact of tariffs, which I'd say really two geographies, the United States, and China.
+So right now, we estimate the tariff impact to be a few hundred million dollars. That's a half-year impact because I don't see any impacting Q2. And then we start to kind of see the impact happening in Q3. But there are other items here that I'd say are variables related to the tariffs that help offset.
+I can tell you there's not a lot of R&D slowing down or SG&A slowing down in those mitigation plans. But you know, there are other variables to consider here. FX, we could see what's going on with the dollar as this discussion of tariff is ongoing.
+Interest rates, tax, I mean there are a lot of, let's call it, levers that we've got at our disposal, put it this way, to be able to mitigate. Our job here is to manage this in the aggregate and contemplate here trade-offs of the decisions we're working on. I think the key thing here that as we're going through it over the last 10 days is there are definitely short-term things that can be done to mitigate and close gap, and we will be looking at those and delivering on those. But I think more importantly, Robbie, is how can you actually look at these on an ongoing basis. One thing we have learned from tariffs is they don't go away. So whatever comes, it stays and it stays for a while. I look at the tariffs that went in place in 2017, they're still there. So we need to think about how do you mitigate this more in a long-term sustainable way. So yeah, you can use a balance sheet, and you can build some inventory. And we'll probably do some of that. But if your entire strategy is build the inventory, well, guess what's going to happen in 2026 or whenever that inventory runs out. So we're really looking at the manufacturing network and optimizing it. As I said in my comments -- prepared comments, we've got 90 manufacturing sites across the world. We have the manufacturing strategy and a framework that's been in place for decades, Robbie, and you know they weren't, it's a framework that hasn't been put in place because of tariffs, but it's going to serve us well - that same framework when we think about more long-term planning for tariffs.
+So I understand the temptation that many of you will have to just to take this number that I've given a few hundred million dollars and then just double it as an annualized impact. I think it's a little bit too early to do that. And like I said, our manufacturing network has got the ability on a more long-term basis to mitigate this considerably. And you just got to have intent.
+You got to have a balance sheet, obviously, to be able to make the CapEx investments. Some of them take longer; some of them could do it pretty fast. I mean, think about what we did during COVID, we built three ISO certified GMP cleanroom manufacturing sites. We did it in three months.
+So there is an opportunity to do that also. But I think the key thing here is how do you balance the short term, the medium term and the long term. And we're not putting everything in a short term, even though we are going to leverage some of those variables that I talked about, FX, interest, tax, et cetera. But we're really focusing on how to mitigate this going forward.
+
+--------------------------------------------------------------------------------
+Robert Marcus,  JPMorgan Securities LLC - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Thanks a lot.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Lawrence Biegelsen; Analyst; Wells Fargo.
+
+--------------------------------------------------------------------------------
+Lawrence Biegelsen,  Wells Fargo Securities, LLC - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking the question. Robert, I just wanted to focus on the EP franchise. We're headed into the Heart Rhythm Society meeting next week. You just got approval for Volt in Europe. You put up a nice balanced quarter here, so maybe just kind of give us a kind of a state of the union and how you're feeling about that business in 2025 and beyond and just remind us of kind of the US approval timeline for Volt.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          Sure. Well, listen, I've always felt bullish about our strategy. I think many of you in your reports a couple of years ago, probably wouldn't have anticipated that. Last year with all the PFA that we would have been the second fastest-growing competitor. And that's basically the strategy that the team delivered, but more importantly, the execution of it. So I think we had great success, and you saw that success continue into Q1 without Volt. So I think the announcement of Volt was a little earlier than we expected, and that's a good thing, obviously, and the initial feedback that my team has shared with me has been very, very positive. Obviously, we're going to start with a rollout, where we'll focus a little bit on the users that were part of our clinical trial, and then we'll start to kind of ramp up that as we go into the second half of the year.
+I think the data that was presented at the European Heart Rhythm meeting was very strong. It stacked up very well against the other products. Obviously, it's always difficult to compare the trial to trial. There's different patients. there are different kind of protocols, but I think in general, the data that presented was very strong. and I think the integration here is key. I think we continue to be the market leader in the mapping of PFA cases, at least that's what we saw in Q1. And so we've got a built-in scale and capability here to drive the adoption. I think that some of the advantages that I think our product has, we've talked about, not just the integration, but I think the balloon feature is perfect for PVI. A lot of stability optimizes contact. As I think we've said, not only in conferences, but I also said we think contact matters and visualization of contact matters. I think there's less muscle contraction, especially with lower anesthesia or the use of just sedation.
+So anyway, I think the product is going to do really well. I think it's going to do what we intended it to do. Related to timelines here in the US, we'll be reporting data out, and we'll be submitting it this year. And I'm very optimistic that we should see an approval, as I'm cautious here, Larry, because I hate giving predictions. But I'd say, right now, our timeline is probably beginning of next year. Might be surprised on that, but I think that's a good kind of base case to have. And then the investments in the business has gone very well, too. I think the teams have done a really good job, not only with the mapping and the infrastructure we have out in the field. but also the R&D focus there.
+We've completed enrollment of our FOCALFLEX trial for CE Mark, and you know that's combining the RF and the PFA on the TactiFlex catheter. So I feel good. I feel good about where we are, feel good about what the team is doing. And as we accelerate the launch of Volt into international markets in the second half of the year, I think I said in the beginning of this year, I think the second half of the year will be better than the first half.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Travis Steed, BofA Securities.
+
+--------------------------------------------------------------------------------
+Travis Steed Steed,  BofA Global Research - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the question. Just a few follow-ups on the tariff side for the few hundred million half-year impact. Just wanted to make sure that assumes kind of current rates as they are today and curious if -- I assume China is probably the bigger portion of that. If there's any color you could kind of give on how you got to that impact. And it sounds like you really don't want us kind of to run rate that into '26 yet because you think there's a lot of offsets. And when you think about the offsets, curious is the Nairobi protocol included in that? Do you think kind of the diabetes business fits under that protocol? How much of this can you offset with pricing or do you think a lot of the offsets are really going to be around -- kind of moving around manufacturing and changing around the supply chain?
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Yeah, sure. I think your question on FX rates, yeah, we're making an assumption that on that mitigation as rates are as of today. You can make an argument that some of them have kind of gotten even, the dollar has gotten even weaker versus some of them. So yeah, we're making that assumption.
+Regarding US and China, I'd say, right now on that initial forecast, I'd say there's -- I'd say that's pretty evenly split. But I think as we think about mitigations more long term, I think we've got opportunities across both of them. I think there's one thing that is important to just to keep in mind is we've always had a view with our manufacturing framework. And like I said, this has been in place for decades.
+Two key tenants here, Travis. One, align the manufacturing as close as possible to the customer and then have an appropriate amount of redundancy. So the advantages of being close to your customer, I mean, you can get efficiencies and a lot of cost advantages there. It allows you to tap into local talent. But more importantly for us, it's always when you match your infrastructure costs with your revenue. That serves as a natural hedge against FX.
+So it doesn't do much for it to protect the top line, but it definitely helps protect the EPS. And so, a very large percent of our sales here in the US are sourced from US products and then we try and mitigate risk by spreading that manufacturing network out. So a good example of that is Libre, for example, where we've got six manufacturing sites for Libre, six, a total of six. And of those six, two are in the United States. And obviously, those manufacturing in the United States serve the US demand.
+And then the other sites outside of the United States service, OUS demand, we did that with COVID too, where Binax was made in the US, for the US and Panbio was made outside the US for international markets. So that's going to allow us to kind of mitigate a lot of this. If we had put all of our manufacturing in Southeast Asia, or put all of our manufacturing in Europe, then that might be a little more complicated. But we've always had a view of kind of be able to spread it out and mitigate the risks that way. Tariff wasn't on the list of risks, but it provides a lot of maneuverability on this. So yeah, I think you mentioned different opportunities to be able to offset impacts. Yeah, you mentioned one, but there are lots of other opportunities to do that. And we're looking at all of those to help to be more sustainable, but somebody could decide to not want to be part of those agreements. So we've got to really leverage the manufacturing and the manufacturing network that we have if you really want to make it sustainable. And I think those are the two areas that we're going to be looking at and focusing on those two markets.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          David Roman, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+David Roman Roman,  Goldman Sachs & Company, Inc. - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for all the color here on tariffs, obviously, a topic we're watching very closely. Maybe you could switch over to some of the business performance metrics here. And could you maybe talk to us a little bit about the broader diagnostics strategy here, certainly understanding the unique dynamics of VBP influencing the business in China.
+But as you think about where you're positioned and how you accelerate this business back toward end market growth, what are the key products that can help you do that? And how are you thinking about M&A in this category to support a turn in the growth rate?
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [13]
+--------------------------------------------------------------------------------
+
+          Yeah, sure. Listen -- yeah, a little disappointing on the diagnostics side. Yeah, part of it was COVID, but we've also got some improvements to be made here. I'd say specifically in China, David, to your point, I mean, we're seeing growth in our business, in our diagnostic business everywhere except China. Outside of China, this quarter, we grew around 7%, which has been in line with our core lab overall growth rate.
+US grew 7%. And if you remove kind of the capital piece and just focus on the consumables, it was over 8%. EMEA grew 7%. Latin America grew mid-teens. Our transfusion business grew 7%. So I think we're seeing good performance here.
+It's really been a challenge here, as I mentioned, and as you mentioned, which is China. And it's really price driven on VBPs. I think, if you look at what's happened in other VBP, at least the ones that we've been part of, when you bid on those businesses, yeah, you have a price hit. But you have an offset because you're part of a smaller group of competitors, you're picking up volume.
+This one here was very different in that everybody, all manufacturers stayed on the market, maintained our contracts, but we took these price hits. So we're really here faced with the price hit and no volume offset.
+So the team is doing a good job right now, I'd say, at navigating this. We're going have to do better in some of the other geographies. And I know the teams are looking at how to accelerate even more our growth rate in the other markets.
+It's a delicate balance here also, David. As you probably know, you can get more growth. But you're going to have to place a lot more capital, and that's going to hit your gross margin. So we've kind of looked at this being kind of between a 7% to 9% growth where we can grow above the market and still expand margins.
+The team is looking carefully at how to do that but offset some of that challenge coming out of China, we're just going to have to go through this, and it's still an important market. It's still got good profitability. But you're just going through the cycle here of VBP that is a little bit different from what we've seen in the past where you don't have the volume offset.
+Your question on M&A, yeah, this is a -- we believe diagnostics is critical to health care. 70% of health care decisions involve a diagnostic test, which is why we've been investing in this business, talking about expanding our portfolio in the blood bank business with the nucleic acid testing system. I think that's going to be a great opportunity for our business. We're excited about showing the product for our customers this year and start working on really composing an offering here that you can have both serology and nucleic acid testing with Abbott. Combined with all the automation and all the other digital service we provide, we think it's a real strong offering there.
+Are there opportunities in diagnostics? Yeah, sure, there are. I've been public about areas that we would be looking at in M&A world being medical devices and diagnostics. But we've got opportunities to do that, but we've also got opportunities to do it organically.
+
+--------------------------------------------------------------------------------
+David Roman Roman,  Goldman Sachs & Company, Inc. - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          And maybe just a related follow-up on that last point. I think on the last call, it sounded like M&A might become a more important part of your capital allocation strategy. Maybe just update us on how you're thinking about that and any comments on how NEC might be influencing capital deployment priorities?
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [15]
+--------------------------------------------------------------------------------
+
+          Absolutely no impact whatsoever on capital allocation priorities. And update on commentary on M&A, I mean, David, there is no update in the sense that the mindset hasn't shifted, right, which is, yes, we're looking at opportunities in devices and diagnostics. Yes, we have opportunities to add to our business. We've got a strong balance sheet to be able to do that.
+We're going to look at things strategically. We're going to look at things also from a financial lens. I can -- we can be selective in the sense that we feel that we've got a growth model here that allows us to sustain this organic growth rate, this high single-digit organic growth rate.
+So it allows us to ensure that we're not only being strategic about it also being disciplined about how we're thinking about it. As I said, our ROIC matters to us; profitability matters for us. I think even more important in today's environment, protecting your EPS, protecting your profitability, I think, is an important piece for us. It's going to be important. So regarding an update on M&A thoughts, there's no update on our thinking on our framework.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Vijay Kumar, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Vijay Kumar,  Evercore Inc. - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Robert, just on maybe the top line here, the 7.5% to 8.5% organic, which is -- that's pretty impressive considering the macro. What drives the back half acceleration rate when we look at Q1 starting point of 7%? Are we looking at Volt stepping up? Or is this China which is assuming China improves in the back half. Maybe walk us through from Q1.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Yeah. I think, it's -- when we guided back in January, Vijay, we kind of guided to this second half better than first half. And there's a couple of things there. First of all, I think you've got the impact of new kind of product launches kind of ramping up, and that obviously contributes to the growth rate in the second half.
+You mentioned one product, that's one. But as you're familiar with our pipeline, we've got a lot of recently launched products that as you go scaling up, that scale goes building and then it goes accelerating. So I think that's a key driver.
+And then the second part, I'd say, is comps. If you remember, the VBP really started to really impact us kind of last year, Q3, Q4. So I expect that lapping some of those kinds of VBP components in diagnostics will be a contributor.
+And then if you remember, also last year, in Q3, we had some challenges in our nutrition business. Just some commercial execution challenges that we had a pretty big significant kind of drop in our nutrition and our international nutrition business. And the team has been making good progress there in terms of regaining the share in some of those markets.
+And so that's the other component, I would say, is like these are two pretty big comps. If you look at Q3, that was a pretty kind of low point, I'd say, for our nutrition business in the year. So that's kind of a high level how the math works.
+
+--------------------------------------------------------------------------------
+Vijay Kumar,  Evercore Inc. - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Understood. And maybe one on the gross margins here. I think the prior guide, you mentioned perhaps 60 to 80 basis point step up. Is this I guess, the tariff, is that hitting gross margin? Is that a cog impact? How should we think about gross margin share for the back half?
+
+--------------------------------------------------------------------------------
+Phil Boudreau,  Abbott Laboratories - Executive Vice President, Finance & Chief Financial Officer    [20]
+--------------------------------------------------------------------------------
+
+          Yeah. Vijay, it's Phil. And yes, exactly what you highlighted here. We guided a strong gross margin into the year after a nice sequential growth each quarter last year and very pleased with Q1 delivering on that actually being a little bit better than what we had modeled or forecasted here, along with the benefit of the FX movement here. So those help serve as some of the offsets to the tariffs, which largely be felt in the gross margin.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          Joanne Wuensch, Citi.
+
+--------------------------------------------------------------------------------
+Joanne Wuensch,  Citi - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Good morning. And thanks for taking the question and all of the information. I’d like to pivot a little bit to some of the products and particularly the AVEIR product, which you announced, you've begun clinical trials for. And on a second question, some of your Structural Heart products, this is another quarter of double-digit revenue growth in that segment. That would be great. Thank you so much.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [23]
+--------------------------------------------------------------------------------
+
+          Sure. It's great to talk about products a little bit, Joanne, so thanks about that. Yeah. So your first question on IVL, listen, we're excited to enter this category. This is a $1 billion opportunity right now. We think we see there's a lot of growth.
+If you remember, this asset came to us through the CSI acquisition that we did a few years ago. So we saw this is like a really interesting asset that was in there that we could kind of add value. The team has been working on it. And it's great to see that we started to enroll patients in the trial.
+It's too early to think about kind of timelines here, like precise time lines from a quarterly perspective. But I expect to complete enrollment of this trial next year and file for approval next year. I think the catheter that we put into the trial is being viewed as very easy to deliver and it seems like a great tool here to treat severe calcification.
+So I've gotten like early, early data on kind of the first cases. They seem to all go very well. Praise from the interventionalists on the deliverability of it and I think that's always an important part, given our experience in the world of stents. Deliverability is super important so that seems like it's hitting the mark there. And then we also know that there's obviously a peripheral market for this. If you think about our portfolio in our vascular business, this would complement it very well. So I know the team is working on a peripheral program there, too, and we'll provide updates on that as we progress. But yeah, excited about the opportunity. I think it's going to be a meaningful growth driver here for our vascular business, which we've already started to see an improvement on the growth rate and this will obviously help sustain it.
+Yeah, on your question on structural Heart, yeah, 15% growth. We've always talked about Joanne, this being like moving away from being a single product company and MitraClip to be a full portfolio product. And the investments that we made in R&D during those years post integration of St. Jude and really kind of building a best-in-class portfolio here, I think is going to pay off. It's paying off now, and I think it's going to pay off long term also.
+Navitor is doing really well. We've talked about the opportunities that we have in TAVR. Good share gains in Europe and looking forward to see this investment that we've been making in the US in terms of building our commercial presence, expanding it. I’m looking forward to seeing that team be able to start to really gain momentum as we progress throughout the year.
+Keep in mind, we're only in 25% of the cases -- 25% of the implanting hospitals here in the US. So I think there's a great opportunity for us there. And then TriClip is another one that's been doing very well. The launch continues to go super.
+In terms of market share, I think TriClip here is now clearly the preferred option. Safety plays a major role in deciding what to choose. And the safety record here is is pretty excellent, not just in the clinical trials but also in the real world.
+So I expect this to annualize at around a quarter billion dollars, but really gaining a lot of momentum as we exit the year for a couple of things. One, we were launching a next generation of the clip, and that's just going to further enhance the ease of use. It simplifies all of the prep work.
+I've been to a couple of cases. And it's not a pain point, but it's just a nice thing to have to be able to reduce some of that device prep work before. So I think the team has done a really good job there. We obviously saw the CMS has published their NCD. I expect that to hit mid-year, and that's another great opportunity. But the two-year data, I think, was pretty significant at ACC and really showed -- I know there's a lot of question marks about the endpoint a year ago, but that really wasn't powered for one year. And you're starting to see now the benefits on that hard data come out. I think that plays a huge role when you got the safety and you've got the heart endpoint.
+So all in all, I think the Structural Heart business is going to continue to be in these teen growth rates, and we've got opportunities for international expansion, too. So -- and then plus all the R&D work that's ongoing, whether it's balloon-expandable, next-generation MitraClip, next-generation TriClip, next-generation Amulet, I mean it's just really stacked up, and the team is doing a good job. So looking forward for that business to continue to be a contributor in the next few years.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Josh Jennings, TD Cowen.
+
+--------------------------------------------------------------------------------
+Joshua Jennings,  TD Cowen - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Robert, I was hoping to maybe a little bit early for this, but I was hoping you could share either what Abbott is doing individually or plans to do along with conjunction with AVAMED and the industry to potentially seek exemptions in the US, China, Europe? And should investors hold out hope that exemptions for the med devices industry specifically could be secured?
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          Josh, I mean, Abbott, hope is not a strategy for us, so I would stick away from that. But are we talking with industry association, sharing data, sharing information. I think the key thing here is always just getting some of the facts and the data is always important. And I think that, that's obviously an opportunity that exists to at least make sure that everybody who's making decisions are aware of the facts and the data and the implications.
+So are we actively involved with AdvaMed? Yes, we are. But I also think that we have to understand what the data is, and I have to understand what the implications. I'd say at the highest level, the med tech industry and you guys know this is whatever, $650 billion, $700 billion kind of industry. US companies have a very high share of that global industry around at least over 50%.
+So I think it is in the interest of the US to make sure that we protect the innovation, that we protect the investment in R&D. And a lot of the manufacturing in medtech is done, I would say, mostly in the US already. So yes, there's opportunities to have conversations, and that's part of our strategy. But hope is not one of them. So we're working through weekends and thinking about how we're going to do this on a long-term basis here.
+
+--------------------------------------------------------------------------------
+Joshua Jennings,  TD Cowen - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Understood. Thanks for that. And then just one follow-up. The macro conditions are evolving rapidly. There have been some events Abbott specifically with the NEC litigation over the past 12 months. Just was hoping for an update on how you and your team are thinking about the diversified model at Abbott. It served the company well for decades. But any updates just on the potential to unlock value number of other competitors have been either divesting or spinning out business units. I was hoping to get your thoughts here in early 2025.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [28]
+--------------------------------------------------------------------------------
+
+          Sure. I mean, you threw a couple of things in there. The fact that we have this ongoing litigation on NEC doesn't necessarily kind of lead us down a path of whether businesses are here to drive -- are driving value or not. So I'm going to move the litigation piece aside here to be quite honest with you.
+Listen, we've always looked at the value of our diversification and what it does. It provides a lot of shots on goal as long as you're in the right places. It provides a lot of shots on goal and then it allows us to manage through moments of uncertainty in the global market and I made reference to that in my opening statements and we've shown plenty of examples of how that model has actually helped us. The key thing here is, are these businesses operating at the highest level and are we driving the value through them? I mean you guys can do sum of the parts. I think that we're pretty fairly valued, I guess, if you were to kind of do that analysis, there's always going to be a little bit of a disconnect there, but I think we're operating these businesses each at the highest level. And I think they provide us with a strategic advantage that very few healthcare companies have.
+We have a unique perch where we get to see the entire spectrum of health care through nutrition, through diagnostics, through pharmaceuticals, through medical technologies. And we think that's a competitive advantage.
+But we look at our portfolio always on an ongoing basis. We continue to evaluate whether there's opportunities to create value. I talked about these questions we ask ourselves, is there an opportunity to create value, and is there somebody else that could be a better owner of our business? For me right now, those two questions are no, they're not, and we just got to keep driving and executing. But I think you've seen us as a company. We've engaged in these probably long before these were the portfolio moves de jure, I'd say that we're seeing right now. You've got to ask yourself some of these moves, have they created value to shareholders? I think that's always a fundamental question.
+
+--------------------------------------------------------------------------------
+Michael Comilla,  Abbott Laboratories - Vice President, Investor Relations    [29]
+--------------------------------------------------------------------------------
+
+          Operator, we'll take one more question, please.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Marie Thibault, BTIG.
+
+--------------------------------------------------------------------------------
+Marie Thibault,  BTIG - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          I wanted to ask a question here on Rhythm Management. I think this is the second or third quarter that we've seen really strong results, particularly in the US. And I assume some of this is because of AVEIR. Can you catch us up to date on where we are in terms of the rollout. Some of the new data we might be seeing at HRS on left bundle branch and some of the other opportunities we should be seeing there in AVEIR.
+
+--------------------------------------------------------------------------------
+Robert Ford,  Abbott Laboratories - Chairman of the Board, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Marie. Yeah, listen, I think AVEIR remains one of the -- probably one of the most underappreciated opportunities here in our portfolio. I think rarely do you have an opportunity to completely change the standard of care. And I predict that we're going to see that standard of care change at least in the pacing market.
+Next five years, I think that the majority of this market is going to be leadless. And I'd say that the key thing for us was to think about, okay, if we think that this is going to be a complete change in paradigm and standard of care, we got to make sure that we build a strong enough foundation for that to happen.
+It is a different implant technique than physicians have been accustomed and have been trained for decades. So as I've said, we were going to go -- I guess you could say we're going to go a little slower to go fast. If you can argue what we've been doing, I mean I think -- this will probably exit the year at about half a billion dollars.
+So I think the team has done a really good job at establishing that foundation. We've seen an increase in accounts. So we've increased our accounts by about 50%. The amount of physicians that have been trained, have been increased by 50%.
+We've more than doubled the amount of implants per day we're doing. Now that's not just the expansion of new accounts, but we've actually seen a 30% increase in the monthly implants of the early adopters. So not only are we increasing the penetration to new accounts, but we're also seeing deeper penetration and usage in the accounts that we've already opened. So that gives me confidence on the statement that I made that I think this is going to be a complete change in category. And so much so that we've been obviously investing from an R&D perspective on next-generation leadless products.
+We're going to have a next-generation version come out we're working on that's going to increase the battery life by about 25%. So that's going to be good and important as we think about more increased penetration, younger implants, younger population implants.
+And then we also talked about developing a leadless conduction system pacing product. This has got a breakthrough designation by the FDA. I'm not going to get too ahead of me in terms of HRS what you'll see, but our goal is to start the pivotal trial for this product in 2026. So the point here is, we believe this is going to fundamentally change. We've made the investments to prepare the market, train the market, condition the market. And we're also making investments in the pipeline also because we believe that's where the standard is going to go.
+So I think if you look at our CRM business, you're seeing the impact of that strategy, which is okay. This has been a business that historically has been flat from our perspective in a low single-digit kind of growth market over the last couple of years. Thank you for pointing that out.
+We've been growing around 7%. And I think it's really part of the strategy. So we look forward to HRS. We look forward to what we're going to be presenting across the entire EP portfolio, not just on the CRM side, on the structural side and also on the ablation side. So I think we think we're going to have a real good HRS and good data there, too.
+Listen, I'll just -- I get that there's a lot of questions on tariffs. We've been doing a lot of work, a lot of modeling, but more importantly, a lot of ways to think about how to mitigate the impacts. Part of my push to the team and push to myself, quite frankly, is we need to figure out how to do this in a way that's sustainable and not just using gap closures, which we will use for sure, but how do we make this more sustainable.
+I found it interesting we did not get a single Libre question. So you guys are very concerned on tariffs and macro, but all good there. We've had a good start to the year and I anticipate that, that momentum is going to continue.
+The gross margin and the operating margin expansion is very important, and I think it's even more important now with the dynamics that we're in. But we're not doing that at the expense of the pipeline. The pipeline continues to provide great new growth opportunities. And like I said, I think the diversified model here, I think to Josh's question, I think it serves us very well.
+There's a lot of moving pieces, maybe to Robbie's point, but our job here is to make all that -- translate all that complexity and all those moving pieces into sustained and reliable growth and performance, which is what we've been doing and what we're going to continue to do. Which is why we've reaffirmed our guidance here and so we look forward to updating you guys as we go through the year. So with that, I'll wrap up and thank you for joining us.
+
+--------------------------------------------------------------------------------
+Michael Comilla,  Abbott Laboratories - Vice President, Investor Relations    [33]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and thank you all for your questions. This now concludes Abbott's conference call. A webcast replay of this call will be available after 11 AM Central Time today on Abbott's Investor Relations website at abbottinvestor.com. Thank you for joining us today.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Thank you. This concludes today's conference call. Thank you for your participation. You may now disconnect. Everyone, have a wonderful day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

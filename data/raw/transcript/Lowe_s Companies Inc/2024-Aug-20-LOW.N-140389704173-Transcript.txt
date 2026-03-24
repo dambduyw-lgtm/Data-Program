@@ -1,0 +1,650 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 Lowe&apos;s Companies Inc Earnings Call
+AUGUST 20, 2024 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Joseph Mcfarland
+   Lowe's Companies Inc - Executive Vice President - Stores
+ * Marvin Ellison
+   Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer
+ * Brandon Sink
+   Lowe's Companies Inc - Chief Financial Officer, Executive Vice President
+ * Kate Pearlman
+   Lowe's Companies, Inc. - Vice President, Investor Relations & Treasurer
+ * William Boltz
+   Lowe's Companies Inc - Executive Vice President - Merchandising
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * David Bellinger
+   Mizuho Securities - Analyst
+ * Christopher Horvers
+   JP Morgan - Analyst
+ * Steve Zaccone
+   Citi - Analyst
+ * Scot Ciccarelli
+   Truist Securities - Analyst
+ * Zachary Fadem
+   Wells Fargo Securities, LLC - Analyst
+ * Simeon Gutman
+   Morgan Stanley - Analyst
+ * Kate McShane
+   Goldman Sachs - Analyst
+ * Brian Nagel
+   Oppenheimer & Co., Inc. - Analyst
+ * Robert Ohmes
+   Bank of America Securities - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (video playing)
+Good morning, everyone, and welcome to Lowe's Companies second-quarter 2024 earnings conference call. My name is Rob, and I'll be your operator for today's call. As a reminder, this conference is being recorded. I'll now turn the call over to Kate Pearlman, Vice President of Investor Relations and Treasurer.
+
+--------------------------------------------------------------------------------
+Kate Pearlman,  Lowe's Companies, Inc. - Vice President, Investor Relations & Treasurer    [2]
+--------------------------------------------------------------------------------
+
+          Thank you and good morning. Here with me today are Marvin Ellison, Chairman and Chief Executive Officer; Bill Boltz, our Executive Vice President, Merchandising; Joe Mcfarland our Executive Vice President, Stores and; Brandon Sink our Executive Vice President and Chief Financial Officer.
+I would like to remind you that our notice regarding forward-looking statements is included in our press release this morning, which can be found on Lowe's Investor Relations website. During this call, we will be making comments that are forward-looking, including our expectations for fiscal 2024 actual results may differ materially from those expressed or implied as a result of various risks, uncertainties and important factors, including those discussed in the Risk Factors, MD&A and other sections of our annual report on Form 10-K and our other SEC filings.
+Additionally, we'll be discussing certain non-GAAP financial measures. A reconciliation of these items to US GAAP can be found on a quarterly earnings section of our Investor Relations website. Now I'll turn the call over to Marvin.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Kate, and good morning, everyone, and thank you for joining us. Second quarter sales were $23.6 billion with comparable sales down 5.1% from the same period last year. While we're pleased that we delivered positive comps in Pro and online sales. We continue to manage through softness in DIY demand. Although this remains a challenging industry backdrop for the homeowner, I'm pleased with our team's ability to effectively manage the business.
+This is reflected in our disciplined expense management across the company along with continual progress on our perpetual productivity improvement or PPI initiatives. These efforts helped us respond to the pullback in DIY discretionary projects and unpredictable weather across the country to deliver better than expected flow through while improving the customer experience. Later in the call. Joe will provide more detail on our improved customer service results in Q2.
+We're also encouraged to see results from our ongoing investments in our Total Home strategy this quarter, allowing us to deliver mid single digit positive comps in Pro and 2.9% comparable sales growth online.
+This demonstrates the importance of these strategic investments and shows that our Total Home strategy is gaining traction. Even in this pressured macro environment, our resilient small to medium Pro customers are responding to the way we've transformed our product and service offerings to meet their needs. Bill and Joe will provide more detail on our successful Pro initiatives later in the call.
+When it comes to online sales, we delivered growth across all three business areas, driven by continued improvement in conversion rates as customers responded to our compelling offers and to our new expanded same-day delivery options that are now available on multiple platforms.
+In Q2, we added Uber Eats to our list of delivery partners, which also includes DoorDash, Shipt, and Instacart. In addition to our last mile technology partner, OneRail provides a fully integrated solution available on lowes.com and in store.
+As we continue to evolve our omnichannel strategy, we've learned that having multiple delivery platforms, extend our reach into both urban and suburban areas and helps us drive incremental sales with different types of customers, especially younger generations who are more digitally savvy.
+We're also reaching a broader customer base and making a deeper connection with our new and existing customers through our marketing campaigns, featuring sports icons like Lionel Messi widely recognized as the best Soccer player in the world, we have very effectively leveraged our partnership with Messi to gain exposure to our new DIY loyalty program, MyLowe’s Rewards.
+Overall, we're very pleased with our MyLowe’s Rewards loyalty program which just launched nationwide in March. And through this program, we've learned more about our customers' lifestyle and purchasing trends, which will allow us to curate meaningful offers for them now and in the future.
+Now let me tell you about how we're leading the way with innovation and home improvement. Lowe's is working with Apple to help customers visualize and design their dream kitchens using Apple vision Pro. This past quarter, we piloted an in-store design experience for our customers in three test markets where with the help from a Lowe's associate customers could wear the Apple vision Pro and use a Lowe's Style Studio app to explore and customize hundreds of kitchen designs in 3D. Products, fixtures and appliances all available at Lowe's.
+This is just one example of how we're leaning into innovation. While we're also working with leading platforms like in Nvidia, Open AI and Palantir to develop AI solutions for both our customers and associates to help us improve how we sell shop and how we work.
+Before I close, let me give you an update on the trends we're seeing in the macro environment. At the beginning of the year, our full year outlook reflected our expectation that macro and consumer trends in 2024 would be similar to the back half in 2023.
+That assessment has turned out to be accurate. And yet there's still remains a great deal of uncertainty, particularly around interest rates, rates and inflation. In terms of housing, specifically, we're seeing significant implications as a result of a lock-in effect.
+Simply put, people aren’t moving nearly as often as they typically do because current mortgage rates are so much higher than their existing rates. And as a consequence, housing turnover is hovering near its lowest levels since the mid 1990s.
+And the preference for spending on services, especially for the more affluent consumer, has persisted much longer than expected. That said, the three core drivers of our business remain strong. Home prices continue to appreciate which is sustaining historically high levels of home equity disposable personal income is now growing faster than inflation, and the aging housing stock means people will need to make repairs and improvements in their homes.
+When you combine those factors, which trends like a large number of millennials forming households, baby boomers aging in place and people continuing to work from home, we remain optimistic about the medium to long-term outlook of the home improvement industry.
+And in the meantime, our operating philosophy in this challenging home improvement, macro environment is very straightforward. We will continue to invest in technology and innovation. We will offer our customers, value and differentiation whenever and however they choose to shop, and we will be incredibly disciplined with our expense management.
+We will achieve this by improving our operational efficiency through our PPI initiatives and making the right investments in our Total Home strategy. Although we are unable to call the date for the recovery in home improvement, we are confident that we’ll be in a strong position to take share when the market begins to inflect.
+In closing, I want to thank our frontline associates for their dedication to our customers and communities. One of the best parts of my job is visiting stores every week. And in the first half of this year I have personally visited all 15 geographic regions. These store visits give me an opportunity to personally thank our wonderful associates for their hard work and provide me with invaluable insights into how we can continually enhance our customer experience.
+Thank you again for joining us this morning. And with that, I will now turn the call over to Bill.
+
+--------------------------------------------------------------------------------
+William Boltz,  Lowe's Companies Inc - Executive Vice President - Merchandising    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Marvin, and good morning, everyone. Despite continuing softness in DIY discretionary demand, we're pleased that we delivered positive online comps in mid single digit positive pro comps this quarter. We now have the right brands for Pros, the right inventory quantities and the right product assortments to meet the needs of this demanding customer.
+Our strong pro performance in this challenging macro environment means that our efforts to transform the Pro customer experience are working. Now turning to our results in building products where we delivered above-average comps in rough plumbing, electrical and millwork and positive comps in building materials, driven by continued growth in Pro across all building materials subdivisions.
+Within rough plumbing. We also drove strong results in some hot weather categories like air circulation in HVAC, and we continue to deliver strong results in water heaters. Just one warm weather example. We recently rolled out Mr. Cool, mini split air conditioners in 1,200 stores.
+These ductless systems are known for their advanced technology, energy efficiency and ease of installation, which means our DIY customers can now install their own mini HVAC system without having to hire a professional installer.
+Now let's shift gears to home decor. We continue to see persistent pressure in bigger ticket DIY discretionary projects in flooring and kitchen and bath, consistent with the trends that began in third quarter of 2023.
+And we continue to lead the industry in appliances, and we are pleased with our overall performance where we delivered above-average comps and double digit growth in pro sales. When you put it all together, we have the whole package for customer shopping for new appliances.
+We have the widest assortment of the leading brands. We have a simple and seamless shopping experience, both in-store and online. And we have a best in class fulfillment solution with next-day and two-day delivery options. Thanks to our multiyear investment in our market delivery infrastructure. And we continue to bring the most innovative products to market like the Lowe’s exclusive Hisense, convertible four door refrigerator, which has a fingerprint resistant finish and an extra storage drawer with different temperature settings that can be controlled over WiFi from your mobile phone.
+In paint, we are now partnering with Sherwin-Williams to offer customers free same-day delivery nationwide since painting is the number one home improvement project, we're making it easy and convenient for customers to order paint and paint supplies online and get it all delivered quickly right to their door.
+This delivery option is just another added convenience, especially if you happened to run short or out of supplies in the middle of a painting project. Now let's talk about Hardlines were unfavorable weather pressured traditional spring seasonal categories like lawn and garden and seasonal and outdoor living.
+Given our DIY customer mix, sales pressure in these two DIY dominant categories greatly impacted overall comp sales for the quarter. In outdoor power equipment the addition of Toro now gives us the strongest lineup in the industry, along with John Deere, Ariens, EGO, Craftsman, Husqvarna, Kobalt and SKIL. No one can beat it. In tools, we're expanding our collection of private branded Kobalt tools with a 24 volt paint sprayer, multi-material cutter, and finish nailer.
+And with our introduction of Klein Tools and their new KNECT system, which is an impact rated system of sockets, drivers and ratchets that are compatible with both hand tools and power tools. This system is proprietary to Klein.
+The number one brand for electricians and HVAC professionals and KNECT is also exclusive to Lowe's in the home center channel, where we now have the largest assortment of Klein tools in home improvement retail.
+During the quarter, we were also pleased with the success of our Craftsmen day's events, where we highlighted Craftsman products from multiple merchandising divisions with more than 100 products featured both in-store and online. As we look ahead to Q3 in the fall season, we have a strong product lineup ready for the fall, starting with Halloween.
+It's bigger than ever before with everything from new animatronics to inflatables, along with fall cleaning and fall harvest. And with the decor that can last the entire fall season, it is already available online and in-store.
+Shifting gears, we continued to deliver on our perpetual productivity improvement or our PPI initiatives , our marketing team is rebranding our retail media network program to a simpler platform where we help our brand partners meet a wide range of marketing objectives from performance on shelf and new product launches to seasonal promotions and multi-product sales were also pleased with the progress we've made working with our suppliers to take out costs that we absorbed over the last few years.
+We continue to work together with our suppliers to claw back these costs while also looking to reinvest into our marketing and merchandising strategies to drive traffic and sales. As I wrap up, I want to once again thank our supplier partners and our merchants for their partnership and hard work and bringing our customers the best brands, innovative products and compelling offers that offer value and new solutions for our customers' home improvement needs.
+Thank you. And now I'll turn the call over to Joe.
+
+--------------------------------------------------------------------------------
+Joseph Mcfarland,  Lowe's Companies Inc - Executive Vice President - Stores    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Bill, and good morning, everyone. I'd like to start by recognizing our frontline associates. Their dedication to serving our customers is reflected in continued improvement in our customer satisfaction scores over last year.
+And while we continue to elevate the customer experience, we also managed staffing well in a dynamic environment and achieve greater payroll productivity. We achieved this improvement in customer service and productivity by continuing to ship associate time from non-customer facing areas to focus on selling and assisting customers, which leads me to a question we often hear from our investors, namely through our perpetual productivity improvement or PPI initiatives, negatively impact our customer experience.
+Let me address that head on. We found that the opposite is true for a number of years now, we've been working smarter with tech-enabled solutions that make our associates more productive while enhancing customer service. At the same time, the new in-store mode on our mobile app is a great example when customers enter our store they can enable, in-store mode using the Lowes.com app on their phone, providing them with the detailed product and location information to help them navigate the store with ease.
+In addition to being a tremendous customer resource in-store mode also helps free up associates so they can spend more time selling and focusing on customers who need help.
+And we're already working on the next innovations to the in-store mode to further streamline the shopping experience. Our PPI initiatives are also enabling us to reduce returns, which are now at historic lows for our company. There are a number of factors driving these results beginning with returns desk associates are using our modern omnichannel system, which makes the process as easy as a quick scan with the system immediately accounting for return policies.
+Second, we're collecting more precise information on why an item was returned, so we can work together with our vendors to address any issues and prevent returns from happening in the first place. Third, we've identified key inflection points in our supply chain to reduce damages on more fragile items like appliances to better ensure that they arrive in pristine condition, therefore, reducing returns.
+Even though we've already made substantial progress on our productivity journey, our team is already piloting some of the next round of innovations on our PPI roadmap. I'm looking forward to sharing more details about these initiatives at our Analyst and Investor Conference in December.
+Shifting gears now to Pro, where we continue to gain momentum with our core small to midsize pro customer as we delivered mid-single digit positive pro comps this quarter.
+The recent investments we've made in Jobsite delivery and high-velocity Pro SKUs are paying dividends, making easier for us to fulfill larger orders and quickly replenish inventory within our store and we're delivering outsized growth in pro online sales as pros appreciate the enhanced online shopping experience that we've created specifically for them.
+Looking ahead, we were pleased to hear from pros in our recent survey that their backlogs remain healthy and consistent with last year. And what's also encouraging is that 75% of pros are confident in landing new business. Our EVP of Pro and Home Services Quonta Vance will discuss the next phase of our pro growth strategy at the December Analyst & Investor Conference.
+Before I wrap up, I want to thank our associates who contributed to our disaster relief efforts to help customers recover from storms, including hurricanes, Beryl and Debbie. Lowe’s command center merchandising teams and supply chain teams went into action to pre-stage merchandise at key locations to be able to quickly respond to customers' needs, both before and after the storms.
+I'd like to extend my appreciation to all of our associates for their tireless efforts to serve our communities in their time of need.
+And now let me turn it over to Brandon.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Joe, and good morning, everyone. Beginning with our Q2 results, we generated GAAP diluted earnings per share of $4.17. In the quarter, we recognized a pre-tax gain of $43 million on deferred consideration associated with the 2022 sale of our Canadian retail business.
+Excluding this benefit, we delivered adjusted diluted earnings per share of $4.10. My comments from this point forward will include certain non-GAAP comparisons that excluded this benefit where applicable second-quarter sales were $23.6 billion with comparable sales down by 5.1%. Comp sales were pressured by continued softness in DIY, bigger ticket projects, in line with our expectations.
+Also unfavorable weather pressured sales in seasonal categories. Comparable average ticket was up 0.8%, helped by strength in Pro heavy categories as well as less average selling price pressure in appliances as we begin to cycle the normalization of promotions within the category, comparable transactions declined 5.9% with pressure from DIY project spend as well as lower seasonal transactions, partly offset by growth in pro transactions.
+Our monthly comps were down 6.4% in May, 4.1% in June and 4.9% in July. Colder and wetter weather in May was quickly followed by intense heat across much of the country in June and July, with both weather patterns pressuring outdoor spring activity.
+Gross margin was 33.5% in the second quarter, down 19 basis points from last year due to continuing supply chain investments, partly offset by lower transportation costs and ongoing PPI initiatives. Adjusted SG&A of 17.3% of sales delevered 87 basis points due to sales deleverage as well as the cycling of a favorable legal settlement.
+These impacts were partially offset by continued enterprise-wide PPI efforts and our quick pivot to manage expenses in line with sales that were adversely impacted by inconsistent weather trends. Adjusted operating margin rate of 14.4% declined 114 basis points in the adjusted effective tax rate of 24.2% was in line with prior year.
+Inventory ended the quarter at $16.8 billion, down $581 million compared to Q2 of last year as we continue to align inventory levels with demand while also investing in High Velocity Pro items.
+Turning now to capital allocation. During the quarter, we generated $2.7 billion in free cash flow. We repurchased 4.4 million shares for $1 billion and paid $629 million in dividends at $1.10 per share. We also announced a 5% increase to $1.15 per share for the dividend paid on August 7th. Capital expenditures totaled $426 million as we continue to invest in modernizing our technology infrastructure and our strategic growth priorities.
+Adjusted debt to EBITDAR finished the quarter at 3.03 times, and we delivered a return on invested capital above 30%. Now turning to our financial outlook. Sales in the first half of the year performed largely in line with our expectations. But as Marvin mentioned, the home-improvement backdrop remains challenging and consumer sentiment remains weak.
+Based on these factors, we are updating our full year 2024 outlook. We are now expecting sales in the range of $82.7 billion to $83.2 billion, with comparable sales in a range of down 3.5% to down 4%. We also now expect full year adjusted operating margin in a range of 12.4% to 12.5% as we continue to tightly manage expenses while also investing in our strategic priorities.
+Additionally, we expect full year net interest expense of approximately $1.4 billion and to repay a $450 million bond maturity in September. We also expect capital expenditures of approximately $2 billion and an adjusted effective income tax rate of approximately 24.5%. This results in an updated outlook for adjusted diluted earnings per share of approximately $11.70 to $11.90.
+Now to assist you with your modeling here a few points to consider for the back half of the year, we are expecting third and fourth quarter comp sales to be roughly 200 basis points better than our second quarter results. Given the easier prior year compares.
+And we also expect operating margin rate for the second half to be roughly in line with prior year with Q3 approximately 70 basis points below prior year rate in Q4 to be approximately 50 basis points above prior year rate.
+The quarterly differences are driven by the timing of merchandising, PPI initiatives as we turn to our inventory as well as comparisons to prior year incentive compensation expense and year end discretionary bonuses.
+And finally, we are reconfirming our capital allocation priorities. We will continue to invest in the business to drive long-term growth while maintaining a 35% targeted dividend pay-out ratio and then use the remaining cash flows to fund share repurchases.
+This disciplined approach to capital allocation, combined with improved operating performance, almost tripled our ROIC over the past five years. In closing, we are confident in our ability to execute at a high level as we navigate these near term market uncertainties while making the right investments in our Total Home strategy, all while continuing to drive sustainable shareholder value. And with that, we will open it up for your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, we are now ready for questions.
+(Operator Instructions)
+Simeon Gutman, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Simeon Gutman,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone. I have one question about top line and then second about margin. For the first question on the spread between DIY and Pro. I don't think we have that for every quarter, but call it 15 point spread it looks like the highest number in a long time, if that's fair and it would imply you're taking share in Pro, but it looks like you're losing some in DIY, is that fair. And then if you look across geographies, how does the spread vary? You know, is it a function of the Pro spread? Is it a function of the DIY and then what's causing that spread to vary if so?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          So thanks. This is Marvin, I'll take the first part of that, I think what’s difficult for us to determine in home improvement is where you actually losing or gaining share specifically in the categories of DIY and Pro. I get the foundation of your question, but one thing we can confirm for sure or is that our Pro business is growing.
+So we do believe that we're taking share just based on the maturation of the strategic initiatives that you heard from me, Joe and Bill, as we look at the DIY, what the best way for me to explain and answer the question is our sales are much more concentrated in bigger ticket DIY discretionary purchases.
+And when you look at big ticket discretionary projects in the second quarter, the DIY demand was softest in those categories and in those projects., As you mentioned, we're still roughly approximately 75% DIY so any pull back in these big ticket discretionary categories is really more of a disproportionate impact to us.
+So I don't know that we're losing share in. DIY as much as the dynamic of these big discretionary projects in the quarter affected us. And that's really the way we're looking at it. Now here's the good news. The good news is we feel great about our assortment from a merchandising perspective.
+We feel great about our pricing, our execution, our marketing, and we believe this is just a macro issue that we're dealing with relative to DIY big ticket discretionary. So when we look at Q2, even though it was a challenging economic environment, we feel great that we could grow mid single digit positive comps in Pro, we could deliver almost 3% growth online, and we're still managing through macro headwinds with DIY discretionary spend.
+So we believe that when the DIY market inflects, at some point in the future, we're in a perfect position to take overall market share and home improvement because of the strength we're seeing in Pro and online.
+So then, I’ll let Brandon take it to take the second part of i.--
+Assuming your question on geographic difference is, really pretty consistent. Marvin mentioned the growth in pro that's driven by both transactions and ticket. But when we look across our geographic divisions, very consistent performance in taking share regionally consistently there.
+And then on the DIY side, again, to really no notable geographic differences outside of the hurricane impact that we saw around the July timeframe with hurricane Beryl coming to the Houston geography. But other than that, really consistent.
+
+--------------------------------------------------------------------------------
+Simeon Gutman,  Morgan Stanley - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay. And then my follow up on margin. It looks like in the second half, the conversion of the relationship between the comp and the margin, it looks a little weaker than maybe the first half. It doesn't look terrible given the comp, but it looks a little weaker.
+So I want to ask if that’s because of anything Lowe’s is doing differently, how you're managing your business, how you're making investments or is it simply a function of those things Brandon? You mentioned some of the lap of incentive comp. I think there was one other thing. So is it internal or external?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Simeon, it's really the latter. The updated full year operating margin outlook is very consistent and look at it annually with our rule of thumb, 14 basis points of contraction on the downside for every point of comp decline. And as you mentioned, second half quarterly differences are driven mainly by the timing of the merch PPI initiatives as we turn through the clawback.
+then what we're cycling over as it relates to prior year incentive compensation, we called out last year, $140 million of frontline bonuses that we paid in Q4. So it's really a function of those two things. Gross margins for the year. As we've said consistently, we expect roughly flat for the full year, and that's what's embedded in the operating margin outlook.
+
+--------------------------------------------------------------------------------
+Simeon Gutman,  Morgan Stanley - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Perfect. Thanks. Good luck.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Steve Zaccone, Citi.
+
+--------------------------------------------------------------------------------
+Steve Zaccone,  Citi - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning. Thanks very much for taking my question. I wanted to follow-up on just understanding the guidance cut as well. It seems like the pro is kind of outperforming expectations since you had a dig a little deeper into the DIY side of the business and a partner, some of the categories on home decor and hard lines, what's really the biggest change to our outlook?
+And given the fact that sales have been coming in a little bit weaker than expected for longer , does that temper your view on a potential recovery in DIY demand?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          So Steve, and thank you for the question. I'll take the first part of it at look, I think for us when we think about our guidance change for the year, it really comes down to just being prudent and being cautious based on the macro environment and the overall customer sentiment, specifically around big ticket DIY discretionary spend.
+We were all aware that we have an environment of elevated interest rates and inflation. And because of that, the DIY customer is just on the sidelines, waiting for some form of an inflection to take place. So we can't call when that's going to happen.
+But we felt based on what we saw in the second quarter, that it was prudent just to take a cautious approach to our guidance for the second half. And really that's what we decided to do. I’ll let Brandon take the rest of your question.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [11]
+--------------------------------------------------------------------------------
+
+          Just a little more context on the guide, as we mentioned in the prepared remarks, first half really largely in line with our expectations. When you exclude the weather impact ex that we experienced on as we looked into the second half, just as Marvin said, we still continue to see a very cautious consumer home improvement backdrop that remains challenged and for those reasons, we decided to make an adjustment to the guide and it does capture ongoing both DIY and Pro trends.
+And we're continuing to manage through the DIY challenges and the big ticket discretionary. But we are still seeing strength, especially in the small to medium Pro.
+And that's reflected just as a reminder, we're cycling a pretty big DIY beyond what pull back, which started in Q3 of last year. Again as it relates to the big ticket discretionary. So the break down as it relates to comp, we are expecting just like we've seen here in the first half, roughly flat average ticket in the second half as the Pro growth is offsetting some appliance pricing pressure that we're seeing.
+And then we expect to see the transactions is the offset. That's where the pressures at and we continue to expect that to be challenged as homeowners less engaged with the home improvement activity in the second half guide. So that’s a bit more of a breakdown as it relates to second half guide.
+
+--------------------------------------------------------------------------------
+Steve Zaccone,  Citi - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Helpful. Thanks for that extra color. A brief follow-up just on pricing. There has been focus on pricing and the risk of promotions impacting the industry. If demand stays weak, you actually saw ticket growth in the quarter, but do you see that as a risk at all, just pricing and promotions kind of trickling into the industry if demand stays weak?
+
+--------------------------------------------------------------------------------
+William Boltz,  Lowe's Companies Inc - Executive Vice President - Merchandising    [13]
+--------------------------------------------------------------------------------
+
+          Yes, Stephen, this is Bill. So we actually see the promotional activity remaining relatively stable when you get around certain events, Memorial Day, July, fourth, etc. You've got offers that are out there that are seasonally relevant. And we tried to make sure that we're out there, meeting the consumer at that time as well.
+And so when you look at Q3, we've got Labor Day in front of us. So we're going to be out there, making sure that we've got seasonally relevant offers that are out there for that time as we shift gears into the fall season, but from a from a promotional activity were relatively stable.
+And we're seeing on the US appliance side that we're back to more of a normal activity as it relates to how the appliance industry is going to market. So nothing really out of the normal.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [14]
+--------------------------------------------------------------------------------
+
+          And this is Brandon. I would just reinforce the ticket increases, not a function of pricing so much as it's just the strength that we're seeing in the Pro business, which is lifting ticket. And then as Bill mentioned, the cycling of the promo environment inappliances, broadly speaking, as it relates to pricing environment, largely stable here over the last couple of years, there's always pockets of activity that we see that the tickets been in the pricing environment has been largely consistent since 2022.
+And the industry continues to be discipline and rational. So for those reasons, we expect to take it to continue to hold as we look across the second half of the year.
+
+--------------------------------------------------------------------------------
+Zachary Fadem,  Wells Fargo Securities, LLC - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks for the detail. Best of luck in the second half.
+Thanks, Steve.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Christopher Horvers, JP Morgan.
+
+--------------------------------------------------------------------------------
+Christopher Horvers,  JP Morgan - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Thanks and good morning. So first, a clarification to confirm you expect third quarter and fourth quarter comps to be basically the same or are sequentially improving over the year? Related to that, how much do you think weather actually was a headwind to comp in the second quarter? And any comment on where you are turning quarter to date relative to the updated expectations?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          So Chris, first question, the comps are relatively evenly split. When we look at Q3 and Q4 as what's embedded in the guide. And then the question on weather impact and in particular as it impacted our DIY seasonal business. So we did see unfavorable weather in Q2 at pressured sales, cold and wet weather in May, followed by the intense heat that we saw in June and July.
+Just as a reminder, we are cycling over a strong seasonal performance last year Q2, we saw that especially in live goods and smaller outdoor projects and the outside of just seasonal. The intense weather also impacted other outdoor, call it non-seasonal projects like exterior paints and decking.
+And then the last thing I'll call out, we did see pressure in big ticket discretionary seasonal categories like patio and grills. But that was largely expected as we've been managing those seasonal buys down to more recent trends that we've seen. So that was the pressure that was mainly of where we saw the deceleration in comps from as we move from June to July.
+And then I would say as it relates to your question on August, very much plan out through the first two plus weeks, very much in line with what we guided in Q3.
+
+--------------------------------------------------------------------------------
+Christopher Horvers,  JP Morgan - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Understood. And then in terms of the gross margin outlook. So it would seem like you're basically expecting gross margin to be down again, perhaps more significantly in the third quarter is that fair. And then as you think about the flow of the vendor clawbacks, this would imply that really the clawbacks are starting in the fourth quarter and then will sort of continue into the first half of 2025. Thanks very much.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [20]
+--------------------------------------------------------------------------------
+
+          Yeah, Chris. So not down. We are expecting it to be up both in Q3 and Q4 of this year. But again, on the year, roughly flat and I'll mention just a couple of the pushes and pulls we continue to make the supply chain investments are nearly complete with the rollout of market delivery investments. We're making early innings on pro fulfillment.
+And then as you mentioned, the merch and supply chain, PPI initiatives, the clawback is going to continue to benefit, it really starts to accelerate into Q3, Q4. And as you mentioned, turning into 25, there's a lag effect there. Just with how that turns through inventory.
+Transportation costs continues to be a good guide for us as we leverage our scale. And then credit and shrink expect those to be roughly flat for the full year and a great job by the teams managing pressures in those two lines. So you're seeing that largely those things played out here in Q2 with the progression that we saw nicely from Q1 to Q2 and those same things roughly play out for the full year.
+
+--------------------------------------------------------------------------------
+Christopher Horvers,  JP Morgan - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thank you. Have a great Labor Day.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [22]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Scot Ciccarelli, Truist Securities.
+
+--------------------------------------------------------------------------------
+Scot Ciccarelli,  Truist Securities - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Good morning, guys. I guess high-level question on your earnings algo. This will be basically the 3rd year of negative comps. I guess theoretically if comps were to stay negative in '25. Is there a point where de-leverage actually accelerates because of the fixed costs nature of your model?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [25]
+--------------------------------------------------------------------------------
+
+          Yeah, I would say, Scott, we expect our kind of rule of thumb and the algorithm. We expect that still holds and it's directional and it applies mainly to the fiscal year. We still see plus 10 basis points on the upside for every incremental point of comp and then 15 basis points on the downside.
+That's what's reflected in our full year guide. And we're working really hard to kind of stay consistent with that it's not a natural output. And with all the work we've been doing across the portfolio with PPI and then you reference our overall road map.
+We'll talk more about 2025 in December. But really the framework still hold everything we've been driving from a PR standpoint, offsetting investments we're making in gross margin on the SG&A side, same thing, investing or offsetting investments that we're making in wages, inflationary pressures, strategic investments, and it really comes down to the fixed cost leverage and our ability to grow top line but when we do that, we believe we stay consistent with that framework and we can see the expansion.
+
+--------------------------------------------------------------------------------
+Scot Ciccarelli,  Truist Securities - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Helpful. And then just a quick follow-up. Did additional changes to incentive comp has a significant impact on second quarter and your back half outlook. In other words, is that something we have to kind of consider as we think about '25 earnings outlook?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          No, very consistent. The only thing from a incentive compensation standpoint is what I referred to with the noise in Q4 on the 140 discretionary pay-out in Q4, but largely consistent there. Nothing that would need to change or be factored in.
+
+--------------------------------------------------------------------------------
+Scot Ciccarelli,  Truist Securities - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for that.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Kate McShane, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Kate McShane,  Goldman Sachs - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Thanks for taking our question. We were wondering if you could speak to how you're managing your inventory levels. I know inventory was down on a dollar basis in the quarter. But how are you thinking about inventory in the context of maybe a slightly more cautious demand environment second-half as well as possibly having to manage a higher ocean-freeight environment.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [31]
+--------------------------------------------------------------------------------
+
+          Hey, Kate, we're really pleased with the ability to manage inventory. We continue to manage it with the sales trends that we're seeing. And as inventory declined faster than sales. Inventories down at 3.3% year over year.
+We remain focused on making the investments in Pro depth and brands to support and accelerate the Pro growth that we've talked about. We feel like we're in a great position on in-stock levels. And then from a seasonal inventory standpoint, also in a good spot as we've managed the seasonal buys to the trends we're seeing.
+And I think you also mentioned your freight rates from a transportation standpoint, we continue to see lower transportation costs as we've leveraged our scale to drive the lower rates that we've seen with our carriers. We are mostly insulated from that because we have contract pricing and we see those favorable rates kind of extending through the first part of 2025.
+We expect the favourability that we've seen in Q2 to kind of extend through the remainder of the year. And that's baked in our gross margin guide.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          And Kate, this is Marvin. One thing we don't talk a lot about is how we've converted our regional distribution centers to be more of a flow through of product versus stocking of product. If you go back six years, ago, these RDCs were basically the traditional hub and spoke distribution centers that basically held in store inventory and replenish stores.
+And that really put a lot of pressure on turns and overall inventory position with over the years, the team has converted that to being majority flow. So we're just becoming more of a cross-dock type of environment and we have a very small percent of the inventory being stock. That will continue to evolve over time.
+And as Brandon noted, as we continue to make investments and finalize our build-out of our market delivery. That also puts us in a great position to continue to be the industry leader in appliances without having to hold that inventory the way we did years ago in the back of every store.
+So there are cost of things that we're working on, that's going to give us the ability to improve our in-stock position, but also improve our turns at the same time.
+
+--------------------------------------------------------------------------------
+Kate McShane,  Goldman Sachs - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Robert Ohmes, Bank of America.
+
+--------------------------------------------------------------------------------
+Robert Ohmes,  Bank of America Securities - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. Really just two quick questions just on the back half and just going forward from here, the PPI initiatives have been amazing on the expense side. How much room is left? At what point do you get to diminishing returns on that in terms of managing expenses?
+And, when we look at the back half, is it really more incentive comp and bonus comparisons that support SG&A being lower than it might otherwise be versus PPI initiatives?
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [36]
+--------------------------------------------------------------------------------
+
+          Robbie, this is Brandon, SG&A and PPI. We're really proud of the progress that we've made with PPI. and broader expense management. We’re offsetting over $500 million in associate wages, inflationary pressures and strategic investments that we're making here in 2024 the road map covers all aspects of the Company stores, merchandising, supply chain technology, our back office expense for infrastructure you hear, Joe and Bill kind of referenced a number of things going on there, and I would say we have great alignment across the organization to continue to maintain that discipline on, as Joe mentioned, increasingly able to enhance our customer experience while also driving productivity with tech-driven solutions.
+So I’ll toss it to Marvin, anything else you want to add there?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [37]
+--------------------------------------------------------------------------------
+
+          I'm going to just let Joe and Bill talk a little bit about PPI to Brandon’s point. We are incredibly pleased with the progress that we made initially. Our productivity improvement initiatives were focused almost exclusively on store operations.
+And now we've created culture where every functional area is driving their own PPI initiatives to not only drive improvements in the business and productivity, but also just drive overall efficiencies. I'm going to let Joe talk a bit about operations and then Bill will talk about merchandising and what we're going to be seeing not only in the back half of the year, but going forward. So Joe we’ll start with you .
+
+--------------------------------------------------------------------------------
+Joseph Mcfarland,  Lowe's Companies Inc - Executive Vice President - Stores    [38]
+--------------------------------------------------------------------------------
+
+          Robbie, thanks for the question. And while we've made a lot of progress, we're only in the middle innings of the productivity journey, a lot of runway still in front of us, now talking about things in the past front-end transformation.
+We're not even 50% through our front-end transformation. This is not only focused on the operations side, but also the sales side. And so we worked hand-in-hand in things like our activity-based labor model that we continue to invest in.
+We've continued to refine the advanced labor management tools that we're using today and also the MST program that is added at 30,000 plus associates to the sales floor and so as the teams continue to work together and we continue to see a lot of runway ahead and streamlining the back end processes are still in front of us and a lot more to go. And so I'll toss it over to Bill for.
+
+--------------------------------------------------------------------------------
+William Boltz,  Lowe's Companies Inc - Executive Vice President - Merchandising    [39]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks, Joe. And Robbie, on the merch side and I hit on a couple of them in my prepared remarks. We are working on costs with suppliers is an ongoing, you know, process and merchants do that on a daily basis through product line reviews, business reviews, but certainly productivity is part of what we do on it on a weekly basis and making sure that we've got the right stuff in the stores and online, I hit on Retail Media Network as you know, part of what we're doing as well, making sure that we're working with our vendor partners to look at different options in regards to how we put marketing strategies together.
+Our private brand work that we've been doing over the last six years, we focus on opportunities where we can put private brands into our assortments, those opportunities to put those products into our assortment typically come with a higher margin. And so that offers that opportunity to put, you know, better in performing product in the assortment.
+So it's just a few examples on the merch side.
+
+--------------------------------------------------------------------------------
+Robert Ohmes,  Bank of America Securities - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          That sounds great. Thanks so much, guys.
+
+--------------------------------------------------------------------------------
+William Boltz,  Lowe's Companies Inc - Executive Vice President - Merchandising    [41]
+--------------------------------------------------------------------------------
+
+          Thanks, Robbie.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          David Bellinger, Mizuho Securities.
+
+--------------------------------------------------------------------------------
+David Bellinger,  Mizuho Securities - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking the questions. So again, good continued progress on the Pro of mid-single digits. What's the next iteration for your pro customer that are there additional levers we can see take shape, maybe more brand loyalty working upstream with somewhat larger Pro? And does Lowe's do anything today in terms of trade credit with the Pro customer?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [44]
+--------------------------------------------------------------------------------
+
+          Now I'd say, David, thank you for the question. I think first, if we could take a step back and think about what we've done thus far and one of the things that we identified from the very beginning of this transformation was the fact that we needed a very consistent and coherent approach to how we serve the Pro customer.
+And it really started with service levels in the store because regardless of what level of fulfillment and fulfillment capabilities you have in home improvement stores will still be an incredibly important part of the fill-in project nature need for a pro customer.
+And so our service levels were subpar at best. And so Joe and team have done an incredible job of elevating those standards. And then we had to get our product assortment, right? We had customers who no longer shopped with us because there were brands that they were loyal to that literally had stopped selling to Lowe's.
+And so Bill and his team has done an equally incredible job of bringing those brands back to us. Bill noted in his prepared comments, just the success of our relationship with Klein tools and Klein was one of those customers that when we arrived was no longer doing business, we'll close and it remains the number one brand for electrical and HVAC pros.
+And then we had to get committed to our inventory levels. We talk a lot about job lot quantities, but we had to do that in a way that we gave PROS confidence and also in a way that we would not leave our stores vulnerable for large purchases that we could replenish quickly.
+And so after we establish those foundational things, we knew that the next step was creating stickiness where you would give those customers a reason to shop us versus the competition rolled out our loyalty program a little over a year ago and then we rolled out a more sophisticated CRM platform.
+And now we're continuing to build on all of those things with more job site fulfillment. So Quonta Vance, our EVP of Pro and home services at our upcoming Analyst and Investor Conference is going to lay out our long-term vision of where we plan to take Pro, and that's going to have a lot to do with identifying segments in Pro that we are barely scratching the surface today from a share standpoint that we're going to start to pursue in addition to ways we're going to enhance fulfillment and how we're going to be able to bring a more digitally friendly relationship with Pro’s.
+So they can have a larger selection of product choices and do it in a more seamless nature. We're incredibly excited about our Pro customer. And as I said earlier, we believe strongly that the pressure that we're feeling with the discretionary big ticket DIY is in large part a macro influence issue.
+And so as we now have momentum with the Pro momentum with our digital strategy, we believe that when a marketplace in inflects and the DIY customer starts to have a strong confidence in making those discretionary purchases that we're going to have the full flywheel effect of our market share gains.
+In the meantime, we're going to be incredibly disciplined on these key parts of our business. But we're very excited about what we're doing and probably more importantly, what we're going to be doing in the future.
+
+--------------------------------------------------------------------------------
+David Bellinger,  Mizuho Securities - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Thanks, Marvin. And that's very helpful. And then I also wanted to ask on the rural store performance, and I'm not sure if you called that out in the prepared remarks, just any change in trend there. And then secondly, there's been some mention of faster delivery times one-day two-day shipping in those markets for a major e-commerce player. How should we think about any potential impact for the more rural load store base just given that development.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [46]
+--------------------------------------------------------------------------------
+
+          So the great thing about our gig network and the work that we've done online is we're serving all customers and giving them ability to get same-day, next-day fulfillment across all of our partners. We feel really good about what's happening in our rural markets they perform to our expectations.
+We are piloting a lot of unique and different initiatives in some of these stores. And you could argue that we're pressure testing some of these locations to see what works and what does not work one thing I will tell you is that we're still very excited about what we're doing with our workwear initiative, specifically with Carhartt.
+We're excited with what we're seeing with our pet food and pet initiative overall. And what we're seeing with just ATV and other activities, our rural customers participate in. But we were pleased with our overall performance. We're pleased that we're able to take this digital gig platform and serve customers in both urban, suburban and rural area that it can work just continuing to build on that, and we'll provide more context when we get together in December. But we think rural is going to be a significant part of our growth strategy.
+
+--------------------------------------------------------------------------------
+David Bellinger,  Mizuho Securities - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you very much
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Zach Fadem, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Zachary Fadem,  Wells Fargo Securities, LLC - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Good morning. If we assume the Fed starts easing in the next couple of months, what level of rate cut or rate level do you think is the right level to start stimulating demand in the category again? And is there anything in your history that would suggest a faster recovery one way or the other in Pro or DIY site?
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [50]
+--------------------------------------------------------------------------------
+
+          Yeah, this is Brandon. As it relates to the interest rate environment. So for us, it's difficult to know at what absolute interest rate level, we're going to see our consumers fully engage or how long the demand will lag the actual rate cuts that we're seeing. And we absolutely, as we sit here today see pent-up demand in the business.
+But on the flip side, when we look at consumer sentiment that continues to remain weak, we are hopeful that the lower rates, the drops that we're seeing are going to have a dual impact of one relieving pressure on consumers and then secondly, driving the existing home sales activity.
+But the reality is when we look at the lock-in effect, the majority of homeowners are still at 4% mortgage rates or less. So even if we do see, some level of decrease that we do believe there still might be a reluctance to engage. So we're staying close to it beyond the rates. Marvin reiterated the primary drivers of our business, and that's been consistent.
+So we're balancing rate activity with some broader recovery that we see across some of these other metrics that we track very closely.
+
+--------------------------------------------------------------------------------
+Zachary Fadem,  Wells Fargo Securities, LLC - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Got it. And thanks, Brandon. And I don't want to front run the analyst day too much, but you have talked about a long-term margin for this business of about 14.5%. And given where we are today and the changes that have have occurred since you first provided that that outlook, curious if it's still the right way to think about the business long term and what level of top line and near-term recovery, do you think we need to see to reach that level?
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [52]
+--------------------------------------------------------------------------------
+
+          Yeah, I will hold off on getting too much into that detail. I think the punch line, Zach, is the framework still holds. It is as we look relative to what we talked about in December '22, I think the degree of step back now that we've seen in '23. And now that what we're seeing in '24 is a little bit worse than our original expectations, but we're not going to call the turn or the inflection point we do believe there's a lot of pent-up demand. We do have a lot of confidence in the medium to long term drivers.
+When we do get back to kind of that mid-single digit recovery in comp that we've traditionally seen in home improvement. We believe we can outpace that with the initiatives that we have in place and the degree and the timing of the expansion on operating margin, again is going to be contingent on the pace in which that top line recovers.
+
+--------------------------------------------------------------------------------
+Zachary Fadem,  Wells Fargo Securities, LLC - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Got it. Thanks for the time.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [54]
+--------------------------------------------------------------------------------
+
+          Rob, we have time for one more question.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          Brian Nagel, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Brian Nagel,  Oppenheimer & Co., Inc. - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Thanks for taking my questions. So my first question of I guess that's a bit of a follow-up to that, prior question was on rate and I’m going to go a different direction, I think you as an operator we as investors, are waiting for a more accommodative rate environment to underpin better demand within Home Improvement.
+Last question is, as you look at your business and we've seen that while ways continuing to take hold maybe even intensify over the past couple of quarters, where are the incremental risks where the business actually get weaker here before we get that rate relief? If you will.
+
+--------------------------------------------------------------------------------
+Brandon Sink,  Lowe's Companies Inc - Chief Financial Officer, Executive Vice President    [57]
+--------------------------------------------------------------------------------
+
+          Brian, this is Brandon. At mortgage rates are obviously coming down. We expect that to continue to come down further as we turn into '25. But we look at consumer sentiment, existing home sales housing, the housing affordability, those are still concerns.
+We continue to see pressure. Their consumers are still showing a preference for services versus goods, especially in home improvement and improvement in these macro trends ,we should see and drive sustained an increase in discretionary projects and DIY traffic.
+So particularly in the bigger ticket categories, which is what we're watching for, that's the inflection that we expect. But in terms of the timing and our ability to call out on that, that's what's unclear to us at this point?
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [58]
+--------------------------------------------------------------------------------
+
+          So Brian, this is Marvin. I'll take another angle to your question. And so for us, obviously, we don't have crystal ball to call the inflection when that will happen nor to Brandon's earlier comments, can we pinpoint what rate environment we have to be in before it starts to positively affect this DIY discretionary pullback for big ticket.
+What we're trying to do is in this headwind environment that we're in is just continuing to leverage our great balance sheet to invest in technology and innovation to make sure we continue to execute our Total Home strategy, which is allowing us to pick up share in pro, improve online business, continue to build out a technology platform for our home installation business, which was incredibly neglected from a technology standpoint for many, many years because we know that when the inflection happens in the DIY returns, we want to be perfectly positioned to really take share, not just in DIY, but also across all the other elements that I talked about.
+So rather than sitting back and waiting, we are aggressively working in this downturn, leveraging our balance sheet to do these aggressive investments and position ourselves. So when it happens, whenever the macro inflection occurs, we just want to be ready to take advantage of it and we think we will be.
+And so we're just fortunate that we have the ability to continue to be aggressive in all of those areas. And just preparing for the eventual time when the market will open back up again, and we're going to be prepared when it does.
+
+--------------------------------------------------------------------------------
+Brian Nagel,  Oppenheimer & Co., Inc. - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          So that's very helpful. I appreciate it. And my quick follow up, I guess is more for you Brandon, but just with respect to the commentary around Q3 so, comps in Q2 were down, call it 5%.
+You talked about 200 basis points improvement. So I think in response to someone else's question, you said you're basically right there now. So does that mean the business is running to a negative three is that the math.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [60]
+--------------------------------------------------------------------------------
+
+          So I’ll rescue Brandon and from that question and answer for you, we tend not to be that precise, you know, with current monthly trends, but the best way for me and us to answer that question, Brian, and I appreciate the question is when we look at our current business trends, they are reflective of the guidance we gave understanding that our business will fluctuate throughout the quarter and so we're not going to give a specific comp percent other than to say, we feel confident that our current trends reflect the guidance we gave. And I think that's probably the best efficient way to answer it.
+
+--------------------------------------------------------------------------------
+Brian Nagel,  Oppenheimer & Co., Inc. - Analyst    [61]
+--------------------------------------------------------------------------------
+
+          Appreciate it. Thanks, Marvin. Thank you.
+
+--------------------------------------------------------------------------------
+Marvin Ellison,  Lowe's Companies Inc - Chairman of the Board, President, Chief Executive Officer    [62]
+--------------------------------------------------------------------------------
+
+          Thanks for the question.
+
+--------------------------------------------------------------------------------
+Kate Pearlman,  Lowe's Companies, Inc. - Vice President, Investor Relations & Treasurer    [63]
+--------------------------------------------------------------------------------
+
+          Thank you all for joining us today. We look forward to speaking with you on our third-quarter earnings call in November.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+
+          This concludes the Lowe’s second quarter 2024 earnings call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

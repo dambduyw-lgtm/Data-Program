@@ -1,0 +1,787 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2025 Honeywell International Inc Earnings Call
+JULY 24, 2025 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Sean Meakim
+   Honeywell International Inc - Vice President, Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Nicole DeBlase
+   Deutsche Bank AG - Analyst
+ * Nigel Coe
+   Wolfe Research LLC - Analyst
+ * Andrew Obin
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Julian Mitchell
+   Barclays Services Corp - Analyst
+ * C. Stephen Tusa
+   JPMorgan Chase & Co - Analyst
+ * Joe Ritchie
+   Goldman Sachs International - Analyst
+ * Scott Davis
+   Melius Research LLC - Analyst
+ * Sheila Kahyaoglu
+   Jefferies LLC - Analyst
+ * Deane Dray
+   RBC Capital Markets Inc - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Thank you for standing by and welcome to the Honeywell second quarter 2025 earnings conference call. (Operator Instructions) y
+Please be advised that today's call is being recorded. I would now like to hand the call over to Sean Meakim, Vice President of Investor Relations. Thank you. You may begin.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning and welcome to Honeywell's second quarter 2025 earnings conference call.
+On the call with me today, our Chairman and Chief Executive Officer, Vimal Kapur; and Senior Vice President and Chief Financial Officer, Mike Stepniak. This webcast and the presentation materials, including non-GAAP reconciliations, are available on our investor relations website.
+From time to time, we post new information that may be of interest or material to our investors on this website. Our discussion today includes forward-looking statements that are based on our best view of the world and of our businesses as we see them today and are subject to risks and uncertainties, including the ones described in our SEC filings.
+This morning, we will review our financial results for the second quarter, share our guidance for the third quarter, and provide an update on full year 2025. As always, we'll leave time for your questions at the end.
+With that, I'll turn the call over to Chairman and CEO, Vimal Kapur.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Sean, and good morning, everyone.
+Honeywell again delivered solid results in the second quarter, meeting or exceeding all our financial commitments in a time of significant global economic change. Our organic sales and orders growth both accelerated during this quarter as we are seeing the benefit of our consistent spending and execution on new product development across our businesses.
+Given the strong 4-star performance, we are raising sales and earnings guidance for the full year while incorporating into our outlook all currently known tariffs and the uncertain business conditions going forward. Our proactive, multi-pronged mitigation efforts, coordinating closely with suppliers and customers on productivity and pricing initiatives have been working as planned, and because of our systemic approach, we are in a position to deliver strong sales, profit, and cash flow growth in 2025.
+As our business leaders have been solely focused on meeting and exceeding our financial commitment, management and the board have been fulfilling our promise to transform our portfolio ahead of our upcoming separation to best position each of the future independent companies for success. Throughout the comprehensive portfolio review I initiated shortly after becoming CEO, we have diligently analyzed how to further simplify and optimize Honeywell.
+Earlier this month, we entered the final stage of this process, announcing our intention to pursue strategic alternatives for our productivity solution and services and warehouse and workflow solution businesses. The results of this pursuit, whatever they may be, will clarify the stand-alone automation company go forward strategy and value proposition.
+With many changes in flight, our dedicated separation management offices have kept us right on track to execute our spinoff transactions both on time and without commercial disruption. Let's now turn to slide 3 for further update on the formation of three industry leading public companies.
+We continue to make great progress along with the path to separate into three independent companies, which we believe will maximize long-term value for all Honeywell stakeholders as independent entities with clear alignment and purpose, increase organization agility, and customize capital allocation priorities, each will be better positioned to accelerate future growth opportunities.
+Given the pace of our progress, we cannot narrow the timing for the spinoffs of this advanced materials to Honeywell shareholders to the fourth quarter of this year. So Solstice will trade under the ticker, SOLS, on the Nasdaq Stock Exchange.
+A few weeks prior to the spin, the Solstice leadership team will host an investor day in New York. They will lay out in detail, the powerful investment case for this innovative market leader in the secularly growing advanced material market that will carry on Honeywell's legacy of operational excellence. We hope you will join CEO, David Sewell, and his team at this event.
+We're also making great progress on Aerospace spin, which is planned for the second half of next year. Last month, Aerospace President, Jim Currier, and I, presented an investor reception ahead of Paris Air Show. Jim highlighted Aero's industry leading position as a mission critical supplier of systems across aerospace verticals and platforms.
+In addition, he provided insights into drivers for a strong growth profile underpinned by a broad aerospace and defense upcycle which we enhance with a powerful decoupled sales initiative, ongoing supply chain transformation effort, and robust research and development investments over time. We look forward to providing you with more details on stand-alone Honeywell aerospace in coming quarters.
+And yet, we are not waiting for the separation to reshape our portfolio for future growth. We continue to selectively deploy capital towards acquisition, announcing two new deals in the past couple of months. We are also looking to recycle capital, as I discussed earlier, by pursuing alternative for businesses that do not fit our future.
+In combination of these actions will drive value creation as we await becoming separately publicly traded vehicles. If you turn to slide 4, I will discuss our recent portfolio announcement in more detail.
+In June, we agreed to GBP1.8 billion bolt on purchase of Johnson's Matthey's Catalyst Technologies business. We have long identified our UOP process technology business as a natural owner of this highly complementary business because it gives us additional capabilities in sustainable methanol, sustainable aviation fuel, hydrogen, and ammonia to better serve our extensive customer base.
+It also brings attractive sales from Catalysts which fit very well with our existing offerings. The transaction is expected to close in the first half of 2026 and will enhance our growth and margin profile over time while providing a strong financial return.
+In early July, we also announced a technology tuck in acquisition of Li-ion Tamer that enhances our building automation capability in high-growth energy storage and data center end markets. While the smaller deals do not often get much invested attention, in aggregate, they can accelerate our strategic roadmap and boost growth with a lower risk profile.
+We recently announced our intent to evaluate strategic alternatives for our PSS and warehouse automation businesses. Just as we want to acquire businesses such as Catalyst Technologies and Li-ion Tamer, where we believe we are natural owner, we must also acknowledge when the time comes then we better owner of parts of our portfolio.
+We're looking to create a purely automation company with a consistent business model and focus of end markets in which we have durable competitive advantages. Both PSS and Integrated have strong customer bases, long history of innovation, and best-in-class operation, and we will evaluate options for them from a position of strength. To avoid interfering with the review process, we will hold further updates until it's completed.
+I will now turn it over to Mike to provide more details on our excellent second quarter results.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Vimal, and good morning, everyone. Let's begin on slide 5.
+In the second quarter, we build upon a strong start to the year as we, again, exceeded our guidance for organic sales growth and adjusted earnings per share. Our results demonstrate the resilience of our accelerator operating system to adapt to changes in the environment quickly and deliver on our financial commitments. At the same time, we remain committed not to compromise on our investment and growth initiatives as we're beginning to see evidence of our progress.
+Second quarter sales grew 5% organically, with 3 out of 4 segments above this level. Defense and space and UOP led grow up with double-digit performances. Segment profit expanded 8% from the prior year in line with sales, and segment margin finished nearly flat and within our guidance range.
+Margin expansion in building automation and industrial automation and lower corporate costs were slightly more than offset by margin pressure in aerospace technologies and energy and sustainability solutions. An increasing in research and development expense, up 60 basis points as percentage of sales from the previous year to 4.6%, pushed down current period margin at the segment level but will enhance future period growth.
+Earnings per share in the second quarter was $2.45 per share, up 4% from the prior year; while adjusted earnings per share was $2.75 per share, up 10% year over year. Organic and inorganic segment profit growth, as well as the lower tax rate, more than offset headwinds from higher interest expense and lower pension income. You can find a bridge for adjusted earnings per share from 2Q '24 to 2Q '25 in the appendix of this presentation.
+Orders were $10.5 billion in the quarter, up 6% year over year, excluding the effect of acquisitions and the budgets, led by strong double-digit increase in aerospace orders. Backlog grew 10% organically from the prior year to a new record of $36.6 billion.
+Second quarter free cash flow was $1 billion, down roughly $100 million from the previous year as tariff-related cost inflation pushed up inventory levels and capital project spending expanded as planned.
+We continue to dynamically allocate our excess cash flow and balance sheet capacity based upon the best opportunities the market presents to us. During the second quarter, our capital deployment was well balanced with $2.2 billion used to complete the accretive acquisition of Sundyne and over $2.4 billion returned to shareholders, roughly $1.7 billion of share repurchases and $700 million of dividends. We also allocated $300 million for capital projects.
+Now let's turn to slide 6 to discuss our second quarter performance by segment. I will give a high-level view of results and with additional commentary provided on the right-hand side of the slide.
+In the second quarter, Aerospace Technologies grew 6% organically, highlighted by another strong quarter of our Defense & Space and commercial after-market businesses. Segment margin contracted 170 basis points to 25.5% as 11% output growth, commercial excellence and productivity actions were more than offset by higher cost inflation and the impact of case acquisition.
+In Industrial Automation, sales were above our guidance range, coming in flat on an organic basis. Segment margin expanded 20 basis points to 19.2%, driven by productivity actions and commercial excellence, which more than compensated for cost pressures. In May, we completed the sale of the PPE business, which will be accretive to organic growth and margins in the second half of the year.
+Building Automation delivered another quarter that surpassed our expectations, with sales increasing 8% organically from the previous year. Second quarter margin expanded 90 basis points year-over-year, led by volume leverage and full quarter benefit from Access Solutions.
+Energy & Sustainability Solutions sales grew 6% organically in the second quarter, exceeding our expectations driven by double-digit growth in UOP. Segment margin contracted 110 basis points to 24.1% as volume leverage and benefit from the margin accretive LNG acquisitions were more than offset by impact from a customer settlement as well as cost inflation. Now I move to slide 7 to discuss our third quarter and full year guidance.
+Our first half outperformance has given us confidence to increase our outlook for the year, even as we remain cautious regarding the lagging effect on business demand from tariff announced in recent months. Despite this, our framework for the year remains largely unchanged.
+We are factoring in non-tariffs as they are written, assuming any moratoria means a later revision to higher rates, net of all of our mitigation options. Keeping in close communication with our customers and suppliers, we remain committed to fully offsetting the effect of these tariffs with a combination of productivity, pricing and alternative sourcing as we balance protecting both margins and demand. We are raising the lower end of our full year organic sales growth guidance range by 200 basis points.
+Factoring in our first half performance and recent short-cycle order trends, we now project growth of 4% to 5% for the year or 3% to 4% when excluding the prior year impact from the Bombardier agreement. Our year-to-date results have exceeded previous expectations while maintaining a pragmatic approach to the back half.
+We have increasingly seen large energy projects in Catalyst spend, which can carry attractive incremental margins in our Europe and Process Solutions business pushed out into 2026 because of macroeconomic and legislative uncertainty.
+Full year sales are now projected to $40.8 billion to $41.3 billion driven primarily higher by better organic growth, tailwinds from foreign currency translation and the additional revenue from the Sundyne acquisition in June. We expect year-over-year organic sales improvement to be similar in both the third and fourth quarter when excluding the impact of the Bombardier agreement in the fourth quarter of last year.
+We anticipate third quarter organic sales growth of 2% to 4% which equates to $10 billion to $10.3 billion. For the full year, we now expect our overall segment margin to be up 40 to 60 basis points or be down 30 to 10 basis points ex-Bombardier, reduced margin expectations from the prior guidance stem from the high decrementals of delayed energy project work and the lagged effect of pricing relative to tariff-related cost pressures in our aerospace business.
+In the third quarter, segment margin is anticipated to be in the range of 22.7% to 23.1%, down 90 basis points to down 50 basis points from the prior year with BA margins expanding margin roughly flat, higher margin contracting modestly and aero margins similar to its second quarter level.
+We now expect full year earnings per share of $10.45 to $10.65, up 6% to 8% or up 1% to 3%, excluding the 2024 impact of the Bombardier agreement. Earnings per share in the third quarter is anticipated to be $2.50 to $2.60, down to up 3% to 1% from the prior year. I will provide further details on changes to our full year EPS guidance later in the presentation.
+We continue to expect free cash flow for the year between $5.4 billion to $5.8 billion, down 2% to up 5% ex-Bombardier, which remains approximately in line with adjusted earnings per share growth. We give additional information on changes in free cash flow from the prior year in the appendix. Having deployed $7.8 billion in the first half of the year for share repurchases, acquisitions, dividends and couple of projects, we remain opportunistic in allocating additional capital beyond that already committed for the rest of the year.
+To summarize, our strong execution in the first half has raised the bar for the year even as we prioritized setting further expectations in a highly dynamic environment. Focusing on what we can control, our company remains poised for strong performance ahead of our pending separations. I'll now turn to slide 8 to give a high-level overview of our outlook by segment with further details by business unit provided in the commentary portion of the slide.
+In Aerospace Technologies, we continue to anticipate full year sales growth in the high-single digit range or mid-single digit to high-single digit when excluding the impact of the 2024 Bombardier agreement. Supported by supply chain analog and elevated global demand amid geopolitical complex, our Defense and Space business should lead segment growth for the year. Commercial aftermarket growth remains consistent with air transplant currently stronger than business aviation.
+We still expect commercial OE sales to recover and grow in the back half of the year as customers work down existing inventories, allowing our sales to better align OE build rates. For the third quarter, organic sales are expected to be up mid-single digits to high-single digits led by defense and space with continued solid growth in commercial aftermarket and commercial we no longer address.
+Margins for the third quarter should be consistent with the prior quarter. For the full year, margins are expected to approach 26% as volume leverage is more than offset by the impact of acquisitions and the tariff-driven cost inflation temporarily outpaces pricing.
+In Industrial Automation, we are increasing our 2025 sales outlook to down low-single digits to down mid-single digits given second quarter top line results and short-cycle orders holding up better to date than initially feared in April, though still down year-over-year. Order declines are not contained to [IEA] short-cycle businesses given long-cycle pressures from delayed energy customer CapEx decisions.
+We expect full year [IEA] margin to be roughly flat versus 2024. And as incremental tariff-related cost inflation and volume deleverage are offset by commercial excellence, improved productivity and second half accretion from the PPE sell.
+For the third quarter, we also anticipate a similar sales performance as full year as growth in sensing, thermal solutions and warehouse and workflow solutions is offset by muted demand in and project timing delays in core process solutions. Margins are expected to contract modestly from the previous year but increased sequentially.
+In building automation, we are raising our 2025 sales outlook for the second consecutive quarter as 2Q sales exceeded expectations and second half prospects have improved from our view in April given solid order trends. As a result, we now expect mid-single-digit to high single-digit organic sales growth.
+Products & Solutions should grow at similar rates through the second half driven by software-led new product introductions, momentum in the US and high-growth regions and customer wins in focused verticals. For the third quarter, we anticipate sales to be up mid-single digits as comps from the prior year become modestly more difficult in the back half. We expect building automation to expand margins meaningfully for the third quarter and for the year, supported by volume leverage and productivity actions.
+In Energy & Sustainability Solutions, we're slightly reducing our organic sales growth outlook to reflect a more cautious capital spending posture from (inaudible) energy customers. We now expect full year sales to be flat to up slightly.
+Advanced materials should lead growth in the second half on improving demand tailwinds and the uplift from easing priority comps in fluorine products. We anticipate full year ESS margin to remain roughly flat as commercial excellence and uplift from the LNG acquisition are offset by less favorable mix from reduced high-margin project and (inaudible) and cost inflation.
+In the third quarter, we expect ESS sales to decline low-single digits with growth in Advanced Materials, offset by lower ERP projects and a headwind from the timing of catalyst shipments shifting forward into the second quarter. Just as for the full year, margin is anticipated to be around flat to 2024. Now let's move to slide 9 to walk through our 2025 EPS bridge.
+With the organic segment growth contributing an additional $0.13 per share for the full year, in line with our view in the prior quarter, while second quarter results finished above our guided range. The performance included a couple of cents of benefit above the line from the Sundyne acquisition and a few extra weeks of owning PPE.
+It also included some UP catalyst shipments that were expected to occur later in the year. As a result, we are largely maintaining our outlook for the second half of the year with some pluses and minuses under the surface.
+Organic sales should be better, both in building automation and industrial automation, which we do not anticipate being down as much as contemplated in April. However, segment margin will be pressured some in IA because of negative mix from reduced demand for energy projects and in aerospace because of pricing increases lagging behind tariff-related cost inflation. Acquisitions are now expected to add roughly $0.40 per share to 2025 EPS with some time being added into the mix.
+The impact of FX, quarterly tax rates and below-the-line items are fairly straightforward in the bridge. As the company focuses its transformational efforts on completing 2 spin-off transactions, repositioning projects have slowed. However, we anticipate more spending in the second half of the year and a return to a normalized level post separation. Additional details on these items are available in the appendix of this presentation.
+I'll now hand the call back over to Vimal to conclude our prepared remarks.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Mike.
+Honeywell performed admiringly in the first half of 2025 with back-to-back quarters that delivered earnings above the high end of our target ranges. Our investment in innovation is gaining traction, driving improved sales growth and yet another record quarter for our backlog.
+On the back of this operational momentum, we are raising our organic sales growth and adjusted earnings per share guide for the year while being mindful that we may not yet have felt the full impact of escalation of global tariff rates in recent months. Business demand has remained resilient in more sectors and geographic region thus far, but we are well prepared for potential changes ahead in the macro regulatory and geopolitical environment utilizing a playbook that has served us well over many cycles.
+As our businesses focus on delivering our financial targets, we have also made substantial progress in transforming our portfolio to maximize their value. Through separation, acquisition and divestitures, we are simplifying Honeywell for investors, customers and our future shapers. All our transactions are proceeding according to plan.
+Even as the first chapter of my tenure as CEO comes closer to an end, with the conclusion of the comprehensive portfolio review, our dynamic approach to capital allocation and portfolio optimization remains evergreen. We are confident that the combination of our accelerating growth and high return capital deployment will compound the value of Honeywell going forward.
+With that, Sean, let's take questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, Vimal.
+Vimal and Mike are now available to answer your questions. We ask that you please be mindful of others in the queue by only asking one question and one related follow-up. Operator, please open the line for Q&A.
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Julian Mitchell, Barclays Bank.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays Services Corp - Analyst    [3]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+Just maybe wanted to start off with aerospace to try and understand kind of the moving parts there. I suppose it sounded in Paris as if there was a bit more confidence around sort of supply chain issues and getting those resolved, and that might help the commercial top line, but it seems something sort of moved the other way. So just trying to understand is that BGA or large commercial? What's the pace at which commercial OE sales improve?
+And on the margin front, should we think about this sort of 25% to 26% margin being the new sort of baseline for the next 12 or 18 months?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [4]
+--------------------------------------------------------------------------------
+
+          Good morning, Julian. How are you?
+So I would say, first, orders in aerospace, extremely strong, continue to be strong on all fronts, defense and space, commercial OE, et cetera. What we see in our commercial OE in the second quarter, it's really a transitory item.
+I would say we experienced some destocking with one of our OEMs, and we expect those -- our shipments to normalize to the OE build rates in the second half. So I feel very confident that you'll see better OE profile from us in the second half. But like I said, we feel quite bullish on aero performance for the year.
+From a margin standpoint, as we talked earlier, we were integrating case and that's about 100 bps drag for us year-over-year. That's going to start to normalize in the next year. Case by the way, is growing revenue this year at high-double digits. So it's ahead of our pro forma, really encouraged by that. And we also year-over-year are putting about $200 million of incremental R&D into the aerospace business to help support our NPI growth and new revenue next year.
+So I think in the second half, margin profile for Aero will be better than what you've seen this quarter. And like I said, I'm quite confident about the high single-digit growth on revenue for the rest of the year.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [5]
+--------------------------------------------------------------------------------
+
+          The only thing, Julian, I'll add is everything what Mike said is all transitionary issue items. If you see the margin-related discussions we have, the OE mix as a transition because of the destocking. R&D is -- we evaluate it to a level we can perform for the future, so that's going to become new normal. And then case acquisition is only going to become a tailwind in the future.
+So these are not your other question, is that a new baseline? Answer is no, because these issues are transitionary, and we have very high confidence on the Aero margin projections we have laid out.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays Services Corp - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Got it. And just following up on that, Vimal. So the sort of R&D hike, you think by the end of this year, kind of R&D to sales in Aero shouldn't be a headwind next year and then case margins start to improve over the next year or so.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [7]
+--------------------------------------------------------------------------------
+
+          Both statement are true and then the OE destocking issue also goes away because the rates will convert the normal baseline. That's why I mentioned these are all transitionary issues.
+By the way, on the R&D spend, the R&D spend rise is not only in aerospace. It's across all 4 segments of Honeywell. We feel continued confidence on our ability to accelerate organic growth through new products. We see part of that happening in building automation, pockets of industrial automation, aerospace, we talked about wins.
+But overall, we have a meaningful acceleration of R&D spend for the right projects. and this is going to set up a new baseline for Honeywell for the future. So this is, again, a transitionary for the overall company. We don't expect that to repeat in the year ahead at the same level.
+
+--------------------------------------------------------------------------------
+Julian Mitchell,  Barclays Services Corp - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Great, thank you.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [9]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Andrew Obin, Bank of America.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+Can we just talk a little bit about UOP. And my question is very strong growth this quarter, but you're seemingly talking it down for the second half of the year. Can we just understand what verticals drove the upside and what verticals are driving the downside if we could disaggregate it. Thank you.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [12]
+--------------------------------------------------------------------------------
+
+          So I'll say, Andrew, for the quarter 2, we had two favorable items. We had a big licensing agreement with a customer, which gave us strong growth. And also, catalyst sales were much stronger in Q2. So some of the catalysts got pulled through from second half to first half. So that's more of a cycle of this long-cycle business.
+To the second part of your question, the impact we see is energy project spend is moving more to the right. Part of it is, I would say, economic uncertainty with have settled in and some of the regulatory items which got clarified with OB3 regulations so we do believe they will settle. But clearly, we saw pressure on that for rest of the year, which we have reflected in our guide for ESS business and to a certain degree, also in [IEA] process automation.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [13]
+--------------------------------------------------------------------------------
+
+          And I would just add that just looking at the OB3 and the IRA, it's mostly preserved for us, so it's not really a headwind for us into next year. Yeah.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          I got you. And then on Industrial Automation, just to follow up. So HPS, similar dynamics. So is it fair to say that when you say weakened demand and price cost deleverage in the second half in the slide that it mostly relates to HPS, and that's what's driving sort of slightly lower margin outlook there? Is that the key driver?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [15]
+--------------------------------------------------------------------------------
+
+          Yes. Primarily, I would say in case of HPS, the same energy projects, the projects part of the business will see the similar pressure. The services side remains strong. Mike, anything you want to add on the...
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [16]
+--------------------------------------------------------------------------------
+
+          I would just say I continue to be prudent about the second half. I love moving parts. I feel confident we'll be able to deliver on the guide that we put up from and just continue to be prudent on the second half, especially around the short cycle orders.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          But you don't have one specific industry vertical region to call out other than this big tariff uncertainty.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [18]
+--------------------------------------------------------------------------------
+
+          That's correct.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [19]
+--------------------------------------------------------------------------------
+
+          No, absolutely right. I mean, in fact, we see much more balanced growth across the world now. Of course, the US remains the leading growth, no doubt about it. But the headwinds we saw a couple of quarters last year in particular on Europe and China have subsidized now, so the growth is more normalized across the globe with the US being the leading growth.
+
+--------------------------------------------------------------------------------
+Andrew Obin,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [21]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Nigel Coe, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research LLC - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning, everyone. Just want to pick up on maybe the first couple of questions.
+Just on the energy project. timing, I guess. Is that mainly on the clean energy project? Or is it just large process projects in general?
+And then maybe just final point on Aero margins. It seems like tariff inflation should be better news today than it was back in April. So I'm just curious what additional inflationary pressures you see in Aero.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [24]
+--------------------------------------------------------------------------------
+
+          So [9-level] energy project, just to kind of dig into a little detail you're asking for. I'll provide into a couple of buckets.
+LNG remain very strong. The business we acquired is performing extremely well, and we remain very bullish on LNG. So that's going to benefit ESS, that's going to benefit process auto mission because our two-in-a-box strategy.
+Sustainable fuels projects are the ones which are most impacted moving to the right. I think they were primarily policy around IRA, how will they fold out at OB3. Now things have got cleared up in last 10 days. So we do believe that should bring up the positive momentum.
+On the traditional refining petrochemical side, I would say that we saw higher catalyst spend in Q2. In fact, a few got accelerated, which led to strong performance for Q2. But we do see some weakening demand there. I think customers are more cautious on making large catalyst spend in certain segments.
+But overall, I think the performance, we had a chance to attend OPEC meeting a couple of days back, and the outlook for energy segment remains extremely bullish across the coal gas refining, biomass base products coming down in the future. So our outlook remains extremely bullish. I think we're just going through a typical cycle in the energy right now.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [25]
+--------------------------------------------------------------------------------
+
+          And then on the Aero question, what I would tell you is that if you look at tariffs, tariffs -- when we incur tariffs, we pay them in 10 days. It's easy to pass tariffs as far as timing on short-cycle businesses.
+When it comes to aerospace and our OE contracts, these matters take a longer time because you have to open the contract, and these contracts usually are set for 10 years and prescribe Cerner frameworks. So the team is working through it, and it will take them a little bit longer to get that price aligned with the cost as we obviously keep in mind how we impact our customers.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research LLC - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          And Mike, could you maybe just touch on the changes to the R&D tax expensing for tax purposes? You've got about a billion dollars of deferred tax assets to the balance sheet. So just how does that unwind over the next couple of years?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [27]
+--------------------------------------------------------------------------------
+
+          Yes. So I would say it's obviously net positive for us. And we'll -- right now, we're just evaluating it with our tax team thinking through given we have all those things going on and the separation on how to unwind in the best way, -- it's -- I would say, it's a tailwind for us for '26 and '27. But we'll have more to say about it as we go into next year. But you are correct, this is a tailwind for us.
+
+--------------------------------------------------------------------------------
+Nigel Coe,  Wolfe Research LLC - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Stephen Tusa, JPMorgan.
+
+--------------------------------------------------------------------------------
+C. Stephen Tusa,  JPMorgan Chase & Co - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [31]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+C. Stephen Tusa,  JPMorgan Chase & Co - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Just trying to like get to the margin guide for the year. You guys given some good detail. I guess, for -- I think, to get into the range, is building automation like close to 28 this year, is that roughly the right ballpark?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [33]
+--------------------------------------------------------------------------------
+
+          I would say it really depends how you look at it and where you look at it. On the product side, we obviously see the incrementals are extremely high for us right now. Projects is a bit lower, but I would say incrementals are quite high.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [34]
+--------------------------------------------------------------------------------
+
+          Yes, Stephen, this is Sean. I obviously thinking about the full year, that's probably a little bit aggressive. But in terms of is that business capable of delivering a number like that, it has the capability of doing so.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [35]
+--------------------------------------------------------------------------------
+
+          It's fair to say, Stephen, that will be the highest margin business in our portfolio in 2025, so that'll be a fair statement.
+
+--------------------------------------------------------------------------------
+C. Stephen Tusa,  JPMorgan Chase & Co - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Okay. And then just one follow-up just on the hedge. I guess the contingency you guys had put into place last quarter. What's the -- what's kind of the status of the contingency, obviously, a better visibility now, but just curious as to where that went.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [37]
+--------------------------------------------------------------------------------
+
+          Yes, so I would say we learned a lot over the last 90 days. When we're talking last time, we're evaluating tariffs live. I think if you look at the guide that we just gave, I feel high level of confidence we can deliver that. Third quarter, obviously, is a very important quarter for us.
+Like we said earlier, that some of the longer cycle project milestones have moved out on us. And then, we had some of the demand on capitalist software to be softer, but on the other hand, building automation and IA short cycle orders are better. So I think net-net, we're kind of in the very similar spot that we were last quarter.
+
+--------------------------------------------------------------------------------
+C. Stephen Tusa,  JPMorgan Chase & Co - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Okay, great. Thanks a lot.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Scott Davis, Melius Research.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research LLC - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Hey. Good morning, Vimal and Mike and Sean.
+Guys, can we talk a little bit about Quantinuum? I mean, it looks like it's still bleeding a little bit of cash for you guys, but what are the hurdles specifically? What are you guys looking for to be able to get that to an IPO-ready situation?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [41]
+--------------------------------------------------------------------------------
+
+          Scott, I would say the -- in principle, we are committed to deconsolidate so that plan is not changing. And then actually, as we speak, we are doing the fundraise so that we could capitalize the company between now and the IPO time.
+To your specific question, I think we are looking at more commercial evidence which can prove the revenue stream for it. We had a big win in Qatar when President was visiting there. There was a big announcement that Qatar is going to invest for Quantinuum infrastructure.
+So wins like that gives the investor confidence on the for revenue stream. And the way I see timeline today is end of 2017 is, I would say, the outline at the most. Can we pull it forward by a couple of months or quarter, yes, that possibility always remains. So we're working with that kind of timeline
+And we do have a good visibility on commercial progress between now and then to execute that. We also expect, Scott, to unveil the plans of Quantinuum in the Q4 time frame. So we'll keep all our shareowners informed on some of the progress we are making, and we'll share that on a more broader basis.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research LLC - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay. That's helpful, Vimal.
+And just to switch to the R&D, it's -- and we don't have to make a big deal out of this. But the timing, I don't think I've ever seen a company prior to a breakup increased R&D spend. So I'm just kind of curious, is that -- is that a message coming from the businesses that they felt like they were behind? Or is there just -- it just happened to be a little bit of just -- it is what it is. I'll just stop there. I don't want to make...
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [43]
+--------------------------------------------------------------------------------
+
+          This is part of the message I've been saying since last year that Honeywell organic growth with the strength of improving our fundamentals, so the two fundamentals we were focused on improving our processes, are we investing in the right spot? Do we have the right talent the basics?
+And then we made decision sometime in last year to accelerate R&D where we think we have opportunity to grow. And you can imagine hiring people in the domains we play like aerospace, energy is a very, very long cycle. So I can't make a decision in June and people show up in July. This is much, much longer than that.
+So principally, across the board, we're investing R&D escalation acceleration. It's higher than aero compared to others, but we are also growing R&D spend across the board. And my strong conviction is that it's really preparing Honeywell for the future for the better organic growth because we are putting bets in the right spots.
+Some evidences are already seen in some segment with our acceleration of our organic growth, but more to come as we go along. So it's really not linked to Spain, I would say. I treat those two as two separate event, but we are just getting better prepared as an organic growth driver company compared to what it was historically.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [44]
+--------------------------------------------------------------------------------
+
+          Because I see it as a good thing for us, given where we want to go from a top line growth standpoint, migration to higher growth verticals, this investment is good for us and has a high ROI for us in 2026.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [45]
+--------------------------------------------------------------------------------
+
+          And it's actually put -- I mean, in the -- should have mentioned to you, we are always at the median or R&D spend. So I think this is going to push us more towards upper quartile now as the year closes. And I'm sure as you observe the number will start transiting ourselves on the money we invest for growth.
+
+--------------------------------------------------------------------------------
+Scott Davis,  Melius Research LLC - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Sheila Kahyaoglu, Jefferies Group.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies LLC - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Good morning, guys, and thank you. If I could ask two aerospace questions, please.
+The first one on aftermarket. The 7% growth decelerating from 15% in Q1 and lagging some of the early reports from peers. How do we think about what weighed on that growth? Was it air transport, business aviation? And how are you thinking about the full year there?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [49]
+--------------------------------------------------------------------------------
+
+          I would say, Sheila, that the aftermarket is normalizing for us. And I think you should -- the range they receive in the second quarter, that's kind of the range we're expecting in the second half. We see -- as we're catching up with demand, et cetera, we see this as a kind of more normal go-forward rate for us. As you see, the hours are fairly stable, both on ATR and business. And I think that's kind of a new normal for us going forward.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies LLC - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Okay. And then if I could maybe hone in on the aerospace OE decline once again, if that's possible. Why the destocking now and it seems like deliveries are actually increasing. Was it related to one specific platform or is it inventory across multiple platforms?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [51]
+--------------------------------------------------------------------------------
+
+          It's predominantly has the impact from North America platforms on reside. And if you think about last year, et cetera, we were shipping a lot into our OEs inventories. And now they're depleting these inventories, they have better visibility in terms of how much safety stock they need. So we're working ourselves for this blip -- and I think that's going -- at least based on everything I know today, it's going to normalize some in the third quarter, and then we should be back to normal in the fourth quarter.
+
+--------------------------------------------------------------------------------
+Sean Meakim,  Honeywell International Inc - Vice President, Investor Relations    [52]
+--------------------------------------------------------------------------------
+
+          And then, Sheila, I would just add the nuance is not everything is the same inside of OE. And so electromechanicals where we've had the supply chain challenges and continue to work towards making sequential improvement, whereas electronic solutions have been caught up for quite a while. And so, you can see a little bit of a difference in terms of what those needs look like for customers between those two businesses.
+
+--------------------------------------------------------------------------------
+Sheila Kahyaoglu,  Jefferies LLC - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          Chris Snyder, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [55]
+--------------------------------------------------------------------------------
+
+          Thank you.
+I wanted to ask about portfolio actions. Vimal, you guys have remained quite busy here in the first of '25 after you announced the separation in Q4 of last year. So should we assume that everything of has been completed or announced at this point?
+And then just on some of the strategic reviews, I think I understand why PFS doesn't fit the aftermarket business. But warehouse is both automation and aftermarket driven, so it does fit the characteristics that Honeywell is looking for. Can you just talk about that one that doesn't fit in the future portfolio?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [56]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Chris. I'm going to say the first part of your question, yes, we are complete on the portfolio review what I started two years back. So from this point onward, we do not expect any major portfolio exits, if I can use the word, normal way could we do things? I mean, we are a large company, so there could be something is always happening. But fundamental, we have completed the process.
+The decision on Intelligrated and PSS was more of a sectorial decision, to look at the end markets we want to participate. And one of the automation is a very large market. It's a $500 billion TAM. So we have a very large opportunity in those swim lanes of the three verticals we have now built for ourselves, industrial process and buildings.
+So within that, now, we are making choices. And we obviously want to bias towards verticals which are higher growth so that we could deliver high growth to our shareowners. And our belief playing in this segment of logistics and warehouse and transport, these are very good segments. But they also have demonstrated certain rates of growth and lumpiness, which we believe are less or fit to our portfolio in the future.
+So it's a choices to be made. We are making some additions, some subtraction. The warehouse automation does bring very strong aftermarket, but I think it's more of the end market participation choices we are making, and that was the driver of the decision.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [57]
+--------------------------------------------------------------------------------
+
+          Thank you. I appreciate that.
+And then I just want to follow up on building automation. Just been a really impressive turnaround here over the last year. So can you -- and it seems like the global non-res backdrop has not been too accommodative. So can you just maybe talk to company-specific actions that drive the turnaround in growth? And are we seeing revenue synergies from the big security acquisition you guys did last year? Thank you.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [58]
+--------------------------------------------------------------------------------
+
+          I think there are three strategies, which are, by the way, going to be the strategy for new Honeywell as we unveiled that in late 2026.
+First is how we make our mix towards higher growth verticals. So in case of buildings, we are focused on 3 or 4 markets, hospitals, hotels, data centers, airports and high-growth regions. So one is pivoting more towards that. That's action 1.
+Action 2 is mining installed base. We have a large installed base, how we mine it hire and deliver high single-digit growth in services. That's certainly working in building automation. And finally, the new product acceleration, the comment I mentioned to the Scott's question, we have elevated R&D even in building automation, and they are the most ahead in delivering higher growth with new products.
+So when you pull the three things together, we are participating in high-growth markets, we are mining our installed base better, we are turning more new products. That's becoming the driver for higher growth.
+The final point there is -- we had some pressure in some geographies like there was a drag in China, there's a drag in Europe in some pockets, those have normalized now. So the building automation growth is double digit in North America, but like low-single to mid-single in other different parts of the world. So that also helps because we don't have any pullbacks from some other geographies, which normalizes our results here.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [59]
+--------------------------------------------------------------------------------
+
+          Thank you, Vimal. Appreciate that.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          Andy Kaplowitz, Citigroup.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [61]
+--------------------------------------------------------------------------------
+
+          Hey. Good morning, everyone.
+Can you give a little more color into what you're seeing in defense and space as it continues to accelerate here? I think the growth you've talked about in the past has been pretty balanced between the US and international, but I think international defense (inaudible) just starting to accelerate. So could you talk a little bit more about what you're seeing?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [62]
+--------------------------------------------------------------------------------
+
+          Yes. I think the defense and space growth is driven by both on the supply chain healing because it was last to heal, we have much more mechanical content in defense and space compared to commercial. So that's certainly seen as part of our results.
+And on the demand side, the orders remain very strong, both domestically and international defense, which is our strength, is growing double digit, and it will remain so for many years to come. We see strength in Europe, we see strength in parts of Asia like Korea, et cetera.
+So I think it's a combination of accelerated demand with the geopolitical circumstances in the world and the supply chain healing, which is giving us the performance in defense and space as we are demonstrating.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [63]
+--------------------------------------------------------------------------------
+
+          And then Vimal, I want to ask you about a couple of other initiatives you've been working on direct material productivity and harnessing AI. You seem to mention quite a bit today cost inflation you're facing across the portfolio, but I imagine a lot of that should have been expected. So update us on your ability to offset that with your initiative here around direct material savings and then maybe how sticky have your price increases been that you've made here this year.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [64]
+--------------------------------------------------------------------------------
+
+          I think the pricing initiatives have been quite sticky. I think we have been very thoughtful to build a strategy now, which protects our earnings but also protects our volume. That is in a playbook we have been doing for 2025.
+And it's a tough balance because you don't want to raise the price to a point that you destroy demand. And we have been able to execute that with the minor exception of the Aerospace OE, which Mike mentioned earlier, because there's a lag on given the nature of the contract.
+But across Honeywell, we have been able to execute our pricing quite successfully. What's also helping is productivity is very meaningful, which is also giving us more optionality or to what extent we want to go pricing in a certain segment and versus the margins, we can drive margins through productivity.
+Value engineering, in particular, is performing extremely well, and that's where AI is playing a role. We have been deploying use of AI to self-determine design of the boards versus engineers taking months and months to figure out that they want to do this design or some other design, so that gains you time.
+So something which was used to take two or three months or take a week. So that accelerates the net savings we can drive in us in a given year. And what gives me and my confidence is that value engineering is becoming a meaningful lever for Honeywell now. We can count on it, we can financially plan it. and that can become a lever for us to think about price versus volume, not only for 2025, but in the years to come.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [65]
+--------------------------------------------------------------------------------
+
+          And Andy, from a financial framework, and we talked a little bit about it before in terms of looking at our six quarters rolling forecast, et cetera. What I'm really focused with the team is on demonstrating growth over a longer period of time, consistent growth.
+And like Vimal said, really focusing on the top line growth and then on the bottom line growth. And then within that, whether it's price volume mix, teams have a little bit more view in terms of managing based on the verticals they're in, customers set, et cetera. So -- but really, just setting the framework on delivering over a longer period of time on a consistent basis.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [66]
+--------------------------------------------------------------------------------
+
+          Appreciate the color, guys. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Deane Dray, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets Inc - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, everyone.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [69]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets Inc - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          I was hoping to get some color on free cash flow. So you boosted the EPS guide, but cap free cash flow guidance the same. Just are there any puts and takes related to free cash flow for the second half you'd like to highlight?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [71]
+--------------------------------------------------------------------------------
+
+          Sure. So we have a pretty broad range on cash flow, the $5.4 billion to $5.8 billion. If you look at the moving pieces, I would say our inventory got a little bit worse just because of what we are facing right now in Aero. That hopefully, will normalize in the second half.
+On the other hand, have a little bit of tailwind from stronger collections and higher sales and pricing. So net-net, we're the same. We're really focusing on moving towards that 90%-plus conversion in 2026.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets Inc - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Great. And then just a related question. Anything in the second half on price cost that you particularly want to highlight here?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [73]
+--------------------------------------------------------------------------------
+
+          So I think, generally, if you think about our guide, our price probably vis-a-vis the last time we talked, we probably -- 100 bps better. So if thought about price of 1% to 2%, now it's 2% to 3%. Volume is probably going to be 1% to 2%.
+And then from a cost price standpoint, short-cycle businesses will offset. And then Aero, like I said earlier, is still working through their OE contracts, and that should normalize going towards year-end and early half of next year.
+
+--------------------------------------------------------------------------------
+Deane Dray,  RBC Capital Markets Inc - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Great, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+
+          Joe Ritchie, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs International - Analyst    [76]
+--------------------------------------------------------------------------------
+
+          Hey. Good morning, guys.
+I just want to make sure I understand the relationship between the tariffs and the demand contingency. And so it seems like the moratorium is you kind of kept the kind of tariff rates at a higher rate. And if the moratorium were to become permanent, I'd assume that maybe the demand contingency gets released to some degree. Just trying to make sure that I understand that correctly. And are there any specific segments that you could see benefiting in the second half of the year if, in fact, tariffs come in at lower rates permanently?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [77]
+--------------------------------------------------------------------------------
+
+          Sure. The way I look at the second half if you think about the short-cycle businesses, they're managing through it quite well. We haven't seen any prebuy or demand distraction there. So building automation is doing well. IA is doing better than what we thought it was going to do. It's really about our energy business.
+And these orders and how they convert into revenue because we're at the point now of the year where we get an order on an energy project, it takes a while to engineer it so revenue might fall out of the year. So we're just managing that piece, looking in the first half of next year and then also monitoring our catalyst orders, which have been a little bit softer from a forecast standpoint vis-a-vis what we expected.
+And that's really just a behavior that our customers can exhibit. When they have sometimes a choice, they might delay those catalyst orders for a quarter or atwond still operate their refineries and their facilities with adjusted lower output.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs International - Analyst    [78]
+--------------------------------------------------------------------------------
+
+          Got it, Mike. That's helpful.
+And then maybe just my quick follow on the strategic alternative announcement on PSS and warehouse. It kind of looks like the demand environment there is getting a little bit worse again, so kind of bouncing along the bottom. I guess, Vimal, I know that we can't bank on any outcome here, but I guess, how are you thinking about the timeline for a decision to be made on that piece of the business?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [79]
+--------------------------------------------------------------------------------
+
+          So we'll kick -- we kicked out the process, Joe, just last week now after we made the announcement. I think we get a better clarity by end of the year on the strategic options, which are available. As you can imagine, there are multiple choices. So we do expect to have the first part of it, that what choice we're going to execute it. So time is hard to put a timeline here.
+If it was, then we would have stated an more certainty. That's why we are putting strategic options. But I would say, before end of the year, we should be able to provide more clarity on the specific timeline.
+Now my desire list, if I want to talk, yes, we want to have as clean portfolio when the spin gets completed. That's one of the reason we initiated the strategic review now so that we could somehow converge the timing. But as you can imagine, these processes are -- you can't put a certainty of timeline around it at this point.
+
+--------------------------------------------------------------------------------
+Joe Ritchie,  Goldman Sachs International - Analyst    [80]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you, guys.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+
+          Nicole DeBlase, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Nicole DeBlase,  Deutsche Bank AG - Analyst    [82]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks. Good morning, guys.
+Maybe just starting with some of the order trends that you guys saw throughout the quarter. How would you say that orders progressed each month and then into July, it sounds like maybe energy was the only area where you saw a discernible difference. But if you talk a little bit about IABI more on the short cycle side through the quarter, that would be helpful.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [83]
+--------------------------------------------------------------------------------
+
+          Sure. So I would tell you overall orders, 6% up. Really pleased with that, better orders than in the first quarter. Aero led the orders grow for us, once again, very strong orders on both on Defense & Space and commercial.
+Building automation was low-single digits, but it had tougher comps. So we didn't see anything there. And then for [IAA] and ESS, I would say we saw strong first two months and June was a little bit softer. Going into July, on the other hand, orders are continuing to be strong. So June might have been kind of a false positive.
+In general, I feel like orders are sticking. And second quarter was better than the first quarter. And in terms of what the teams showed us for the third quarter and the forecast, we don't see a lot of concern in our order rate slowing down.
+
+--------------------------------------------------------------------------------
+Nicole DeBlase,  Deutsche Bank AG - Analyst    [84]
+--------------------------------------------------------------------------------
+
+          Okay. Got it. That's really helpful.
+And then there's a lot of discussion around what you guys are doing from a portfolio perspective, but I don't think we talked much about future M&A plans, and you guys have clearly been a lot more active recently. How does the M&A pipeline look today? And what is your appetite for doing more deals before the spin happens?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [85]
+--------------------------------------------------------------------------------
+
+          So Nicole, we absolutely are building our pipeline. We are going to be slightly slowing down given the activity we have on the spins in motion and some acquisition integration work we are doing. But we are not slowing down on building the pipeline. The pipeline remains strong and we'll execute opportunities as they become available.
+I think what gives me more confidence is that we're getting much more comfortable not only doing the normal deal but also acting like a sponsor to do carve-out deals. We have demonstrated that capability repetitively now over the last two years. And that additional skill increases our optionality now because we are willing to go to other partner, suggest an optionality for them to create value for both sides. And that gives me confidence that we can remain active in the portfolio side in the years ahead so more to come. We'll continue to build our portfolio as a higher priority item under my leadership.
+
+--------------------------------------------------------------------------------
+Nicole DeBlase,  Deutsche Bank AG - Analyst    [86]
+--------------------------------------------------------------------------------
+
+          Thanks, and then I'll pass it on.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+          We have reached the end of the question-and-answer session. I would now like to turn the call back over to Vimal Kapur for closing remarks.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [88]
+--------------------------------------------------------------------------------
+
+          Thank you. I want to again once thanks my deep appreciation to our shareowners, our Honeywell team and our customers for their continued support during the transition time for the company. And we are excited for the future and look forward to sharing more of our progress as we deliver on our commitment.
+Before we close out today's call, I want to take a moment to remember our pivotal former leader of Honeywell that we lost this week, Larry Bossidy. Larry was the Chairman and CEO of AlliedSignal and led the company's acquisition of Honeywell in 1999. He was a forefather of operational excellence that Honeywell is known for today and served as combined company's Chairman and CEO until his planned retirement in 2000.
+He then came out of the retirement briefly to offer his leadership again as Chairman and CEO during a challenging period of our company; and under Larry's deep leadership, the Board hired Dave Cote, new CEO, and setting up the company for the next two decades of tremendous value creation. He was a remarkable leader, a committed family man and our thoughts are with his family and friends at this point of time.
+So thank you again, everyone, for listening, and please stay safe and healthy.
+
+--------------------------------------------------------------------------------
+Operator    [89]
+--------------------------------------------------------------------------------
+
+          This includes today's conference call. We thank you for your participation. You may now disconnect from the conference. Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

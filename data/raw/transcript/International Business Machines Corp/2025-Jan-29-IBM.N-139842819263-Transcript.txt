@@ -1,0 +1,403 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2024 International Business Machines Corp Earnings Call
+JANUARY 29, 2025 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Olympia McNerney
+   International Business Machines Corp - Global Head of Investor Relations
+ * Arvind Krishna
+   International Business Machines Corp - Chairman of the Board, Chief Executive Officer
+ * James Kavanaugh
+   International Business Machines Corp - Chief Financial Officer, Senior Vice President - Finance and Operations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Amit Daryanani
+   Evercore ISI - Analyst
+ * Ben Reitzes
+   Melius Research - Analyst
+ * Wamsi Mohan
+   BofA Global Research - Analyst
+ * Jim Schneider
+   Goldman Sachs - Analyst
+ * Brent Thill
+   Jefferies - Analyst
+ * Erik Woodring
+   Morgan Stanley - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome and thank you for standing by. (Operator Instructions)
+Today's conference is being recorded. If you have any objections, you may disconnect at this time. Now I will turn the meeting over to Olympia McNerney, IBM's Global Head of Investor Relations. Olympia, you may begin.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. I'd like to welcome you to IBM's fourth-quarter 2024 earnings presentation. I'm Olympia McNerney, and I'm here today with Arvind, Krishna, IBM's Chairman, President, and Chief Executive Officer; and Jim Kavanaugh, IBM's Senior Vice President and Chief Financial Officer.
+Will post today's prepared remarks on the IBM website within a couple of hours and a replay will be available at this time tomorrow. To provide additional information to our investors, our presentation includes certain non-GAAP measures. For example, all of our references to revenue in signings growth at constant currency. We provided reconciliation charts for these and other non-GAAP financial measures at the end of the presentation, which is posted to our investor website.
+Finally, some comments made in this presentation may be considered forward-looking under the Private Securities Litigation Reform Act of 1995. These statements involve factors that could cause our actual results to differ materially. Additional information about these factors is included in the company's SEC filings.
+So with that, I'll turn the call over to Arvind.
+
+--------------------------------------------------------------------------------
+Arvind Krishna,  International Business Machines Corp - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you for joining us today. Let me start by reflecting on our strong close to 2024 and performance over the mid-term model. Then get into more detail on the execution of our strategy. We are pleased with the progress we've made in 2024, delivering revenue growth of 3% and $12.7 billion of free cash flow. We saw continued acceleration in software at our highest level of cash flow generation in many years.
+As we close out the mid-term model we laid out at the end of 2021, I am proud of our achievements. We met or exceeded our target metrics for revenue growth, profitability, and free cash flow growth. We set out a plan for mid-single digit growth and we delivered on it, growing our revenue by 6% CAGR over this period.
+All of our segments delivered revenue growth in line with our model over the last three years. Software grew ahead of our goal of mid-single digits, and this momentum continued with 9% growth in 2024. We committed to accelerate the growth of Red Hat and we delivered double digits for the year.
+Infrastructure performed in line with our model as we invested in innovation and transform the business model. Consulting met the model for high single-digit growth although we acknowledge 2024 was below model.
+We are confident that our investment in partnerships and skills as well as our early leadership and GenAI, position us to accelerate consulting growth as we move forward. Overall, our technology momentum and consulting signings bolster our confidence in our future performance.
+Before getting deeper into our execution, I'll make a few comments on the macroeconomic environment. As we look at the broader environment, IBM's mission to help businesses leverage technology, to both scale revenue and grow profitably, is more critical than ever.
+Geopolitical tensions, interest rate volatility, supply chain vulnerabilities, demographic shifts, evolving cyber threats, operating headwinds of businesses worldwide. In this context, technology is key to drive sustainable growth.
+IBM's combination of advanced technology and deep consulting expertise positions us to uniquely deliver end-to-end business transformations. We ended the year content on enhancing our portfolio. Software is now about 45% of our business with more than $15 billion of ARR growing at double digits.
+We delivered strong and accelerating revenue growth of 11% in the fourth quarter, which includes eight points of organic growth and strength across the portfolio. This growth was led by Red Hat, up 17% in the quarter.
+Our early leadership in generative AI, and the Consulting Advantage platform have positioned us well in today's evolving market. In infrastructure, z16 is our most successful program in history, highlighting customer adoption and continued reliance on the mainframe. We see more opportunities ahead as our infrastructure solutions play a crucial role in helping clients bring AI workload closer to the data and we will launch z17 in the middle of 2025.
+Let me now address our progress in generative AI. We continue to gain momentum, with our GenAI book of business growing to over $5 billion inception to date, up by about $2 billion quarter over quarter. Approximately one-fifth of this book of business comes from software and the remaining four-fifths is Consulting.
+Our AI portfolio is tailored to meet the diverse needs of enterprise clients, enabling them to leverage a mix of models: IBM's, their own open model from Hugging Face. Meta, and Mistral. IBM's Granite models designed for specific purposes; a 90% more cost efficient than larger alternatives. Additionally, RHEL AI and OpenShift AI provide clients with a consistent and scalable AI foundation built on open-source technology.
+This quarter, we saw strong traction in our watsonx middleware solutions and AI assistants, including watsonx.gov, watsonx.ai, watsonx Code Assistant for Z, watsonx Orchestrate, as well as products embedding AI such as Concert. And Consulting remains key to designing and implementing AI use cases, driving watsonx deployment.
+Through the year, we introduced key innovations that are resonating with clients. This quarter, we launched OpenShift Virtualization Engine to meet growing virtualization demand. In infrastructure, the Telum II processor enhances IBM Z's AI capabilities and performance.
+We just announced RISE with SAP on IBM Power Virtual Server, offering the fastest and easiest migration from on-premises to cloud for the 10,000-plus clients who use SAP and IBM Power. The Consulting Advantage platform is integrating our technology and industry expertise to drive business transformation.
+With more than 75 quantum systems deployed worldwide, our focus on emerging innovation is clear. This quarter, we announced a collaboration with the State of Illinois to establish a National Quantum Algorithm Center in Chicago. M&A remains a key enabler of our strategy. The acquisition of Neural Magic strengthens our AI solutions with advanced model optimization.
+Clients worldwide cross IBM to lead transformations. Notable examples this quarter include NatWest and Lockheed Martin, leveraging our Granite models for advanced AI applications.
+L'Oreal is partnering with IBM to use our AI, consulting, and research capabilities to develop foundation models for cosmetics formulation. We also collaborated with UFC and Ferrari, helping them tap into IBM’s AI and consulting expertise to drive operational efficiency.
+Announced earlier this month, IBM and the UK Home Office will partner on the Emergency Services Network, supporting more than 300,000 emergency responders in Great Britain.
+Our ecosystem continues to expand as we strengthen our partnerships with leading technology providers, including AMD, Palo Alto Networks, SAP, Amazon, Microsoft, and CoreWeave. These partnerships allow us to go innovate and deliver greater value to clients.
+Before I conclude, let me touch on our outlook. We see continued momentum in our business, driven by our focused strategy, enhanced portfolio and culture of innovation. For 2025, we expect revenue growth inflecting higher to 5% plus and about $13.5 billion of free cash flow. I look forward to sharing more details at our upcoming Investor Day on February 4.
+I will now hand over to Jim to walk you through the details of the quarter. Jim, over to you.
+
+--------------------------------------------------------------------------------
+James Kavanaugh,  International Business Machines Corp - Chief Financial Officer, Senior Vice President - Finance and Operations    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Arvind. For the full year, we delivered about $63 billion in revenue, $11.2 billion of operating pre-tax income, and operating earnings per share of $10.33. And we generated $12.7 billion of free cash flow, our strongest level of free cash flow generation in many years and our highest reported free cash flow margin in history.
+Revenue growth, combined with 120 basis points of operating pre-tax margin expansion, drove 9% operating pre-tax profit growth, 14% free cash flow growth, and 7% operating diluted earnings per share growth. We are pleased with these results, delivering durable revenue growth in our re-positioned business and exceeding our expectations on profitability, free cash flow and earnings per share.
+Revenue performance for the year was led by Software, up 9%, with strength across our portfolio. We achieved Rule of 40, driven by the combination of accelerating growth and margin expansion throughout the year.
+Consulting revenue was up 1%, and continued to be impacted by a dynamic market environment as clients reprioritize spending. While Infrastructure was down 3% reflecting product cycle dynamics, we delivered more than 120% program to program growth for z16, our most successful program in history.
+Our portfolio mix, operating leverage, and yield from productivity initiatives generated strong operating gross margin and operating profit performance. For the full year, we expanded operating gross profit margin by 130 basis points. Our operating pre-tax margin expanded by 120 basis points, ahead of our expectations and well above our model.
+These results represent our highest levels of operating gross margin and operating pretax margin in many years.
+Now, turning to a deeper dive on the quarter. We generated $17.6 billion of revenue, up over 2% at constant currency and ahead of our expectation. Software growth accelerated to 11%, with strength across our key categories of Red Hat, Automation, Data & AI, and Transaction Processing.
+Consulting was down 1%. This quarter we achieved record levels of signings and strong sequential growth in our generative AI book of business reflecting our early leadership in the areas our clients are prioritizing. Infrastructure was down 6%, reflecting product cycle dynamics in our eleventh quarter of z16.
+Looking at our profit metrics, in the fourth quarter we expanded operating gross margin by 50 basis points and operating pre-tax margin by 40 basis points. We are pleased with this strong performance driven by our portfolio mix, operating leverage, and ongoing productivity initiatives similar to the full year.
+This allowed for continued investments to drive innovation in our portfolio which you can see in our higher R&D expense, up 13%. Our operating tax rate was 14%, which is flat versus last year. And our operating earnings per share of $3.92 was up 1%.
+For the full year, we generated $12.7 billion of free cash flow, up $1.5 billion and growing 14%. The largest driver of this growth comes from adjusted EBITDA, up about $900 million year over year. We realized $500 million in proceeds from the Palo Alto QRadar transaction, which was a small contribution to free cash flow given the payout of structural actions and foregone profit.
+We also delivered sustainable lower cash requirements through changes in our retirement plans. As we close out the mid-term model we introduced in 2021, we’ve grown free cash flow faster than revenue in each of the last three years, have exited 2024 with our highest free cash flow margin in reported history, and our free cash flow run rate is above our mid-term model.
+In terms of cash uses for the year, we invested over $3 billion on acquisitions, and we returned just over $6 billion to shareholders in the form of dividends. Looking at the balance sheet, we ended the year with a strong liquidity position with cash of $14.8 billion, which is up $1.3 billion year over year.
+Our debt balance ended the year down $1.6 billion at $55 billion, including approximately $12 billion of debt associated with our financing business.
+Turning to the segments, Software revenue growth accelerated to 11% in the fourth quarter, driven by strength across the portfolio, with growth of 17% for Red Hat, 16% for Automation, 11% for Transaction Processing and 5% for both Data & AI and Security. We are pleased with how we finished the year, exceeding the Rule of 40, and the growth driver expectations we set back in January.
+Let me dive in a little deeper on each of these growth drivers. We continue to see momentum in Red Hat with fourth-quarter revenue growth of 17%, fueled by six consecutive quarters of double-digit bookings growth. This performance reflects the continued demand for our hybrid cloud solutions as clients are prioritizing application modernization on OpenShift containers and Ansible automation to optimize their IT spend and reduce operational complexity.
+OpenShift is now a $1.4 billion ARR business, growing about 25%, and we continue to see increased volume in OpenShift Virtualization engagements. In addition to the strength in subscriptions, we saw a recovery in the consumption-based services business. Looking forward, Red Hat’s six-month revenue under contract, a reflection of the strong bookings performance mentioned, continues to grow in the mid-teens.
+We delivered strong results in our recurring revenue base and are seeing momentum from innovation across our portfolio. Our Hybrid Platform & Solutions ARR was $15.3 billion, up 11%. Transaction Processing delivered another strong quarter, driven by growing capacity demands, solid renewal rates, and increasing contribution from our generative AI product, watsonx Code Assistant for Z.
+We continue to introduce new products, which are making a meaningful impact on Software’s results. We have confidence in our portfolio with our market leading businesses centered around Hybrid Cloud, Automation, Data, and Transaction Processing.
+In the quarter, about eight points of our growth was organic, led by demand for our generative AI products like Concert and our AI assistants. We launched new products such as the next generation of watsonx Code Assistant that provides coding support for multiple languages, and Guardium Quantum Safe that helps organizations monitor and manage their cryptographic security to fix vulnerabilities.
+And these investments in generative AI are paying off, with the Software AI book of business reaching about $1 billion inception-to-date in the fourth quarter.
+Our performance continues to benefit from our recent acquisitions. We are seeing growing contribution from the StreamSets and webMethods assets acquired in the second quarter. And at the end of 2024, we closed the acquisition of Neural Magic, which strengthens our AI capabilities in performance engineering and model optimization. And we are looking forward to the opportunities that the pending HashiCorp acquisition will bring.
+Looking at Software profit for the quarter, gross margin expanded, and segment profit was up over 220 basis points year to year, reflecting operating leverage driven by our revenue performance.
+In Consulting, revenue was down 1%. Throughout the year we have operated in a dynamic macroeconomic environment. We continue to see clients reprioritizing their IT spending toward digital transformation and AI initiatives for cost optimization and operational efficiency as we wrap on a strong above market performance in 2023.
+Our focus remains on rapidly evolving our offerings and enhancing investments in skills and capabilities to align with these priorities. Our ability to address client demands drove signings growth of 23% in the quarter, our highest fourth quarter signings in recent history.
+Generative AI contributed about $1.5 billion of new bookings in the quarter as clients see the value our extensive industry and enterprise AI expertise can bring to accelerating their digital transformations. This strong signings performance takes our book-to-bill ratio up to 1.21 over the last twelve months.
+Our overall backlog remains healthy, up 8% year over year and our backlog erosion levels remain stable. Our Red Hat practice delivered another record-breaking quarter of signings and double-digit revenue growth. And we now have annual revenue of nearly $3 billion.
+In the quarter, strategic partnerships were a growth contributor both in signings and revenue with solid performance from partnerships with AWS and Azure. We are actively investing to enhance our skills and capabilities to address our clients’ top priorities with acquisitions like Accelalpha, a global Oracle services provider, which closed in the fourth quarter.
+And earlier this month we announced our intent to acquire Applications Technology Software, a consultancy known for driving business transformation with Oracle Cloud Applications.
+Turning to our lines of business, Business Transformation revenue grew 2% driven by continued strength in transformational projects for data, finance, and supply chain. Both Technology Consulting and Application Operations declined in the quarter.
+Similar to last quarter, there was strength in cloud-based application services across modernization, development, and management but we continued to see clients reprioritize spending away from on-prem customized services.
+Looking at Consulting profit, we delivered segment profit margin of nearly 12%, a sequential expansion of almost one point, as we continue to realize the benefits of our productivity actions.
+Moving to the Infrastructure segment, revenue was down 6%, reflecting product cycle dynamics. Hybrid Infrastructure was down 8% and Infrastructure Support was flat. Within Hybrid Infrastructure, IBM Z revenue is down 20% in the quarter. This is the eleventh quarter of z16 availability, and the combination of resiliency, reliability, and security continues to resonate with clients.
+Nearly three years in, this product cycle has outpaced prior cycles and program to date installed MIPs have increased over 30% as clients’ capacity needs continue to grow. IBM Z remains an enduring platform for mission critical workloads, driving not just hardware adoption but also the related software, storage and services.
+Distributed Infrastructure revenue grew 2%. This performance was fueled by double-digit growth in Storage, as we introduced new innovation in the quarter designed to give clients the ability to scale storage capacity to meet growing data demands to support the next generation of AI workloads and projects.
+For Infrastructure profit, we expanded gross profit margin nearly two points sequentially. Our segment profit margin was down 320 basis points in the quarter, reflecting where we are in the product cycle and continued investments in innovation. For the full year our segment profit margin was 17.5%.
+Now, let me bring it back up to the IBM level to wrap up. As Arvind mentioned we met or exceeded our mid-term model target metrics for revenue growth, profitability, and free cash flow growth. And we have fundamentally repositioned our business to a software-led, integrated platform.
+Let me now turn to 2025 guidance, and our two-key measures of success, revenue growth and free cash flow. We expect constant currency revenue growth inflecting higher to 5%-plus. And we expect to grow free cash flow faster than revenue growth with about $13.5 billion of free cash flow. Given the continued strengthening of the dollar, we expect currency to be about a two-point headwind to revenue growth for the year.
+Our revenue expectations are underpinned by accelerating growth across our business. In Software, given the strength of our portfolio, investment in innovation and the contribution from acquisitions, we expect revenue growth approaching double digits. We continue to see strength in Red Hat, with mid-teens growth for the year.
+In Consulting, the combination of our backlog levels, record signings in the fourth quarter, and our book of business in GenAI support an acceleration in growth to low-single digits. And with our new mainframe launch in mid-2025, we expect Infrastructure to be about a point contribution to IBM’s overall revenue growth.
+For the full year, we expect IBM’s operating pre-tax margin to expand by over half a point. Portfolio mix and ongoing productivity initiatives continue to drive margin expansion, mitigated by the impact of dilution from acquisitions. Our tax rate for the year should be in the mid-teens and as always, the timing of discrete items can cause the rate to vary within the year.
+For free cash flow, we expect to generate about $13.5 billion in 2025. Given the strong fundamentals of our business, we expect double-digit adjusted EBITDA growth which is the primary driver of our free cash flow. This will be offset by cash tax headwinds and higher CapEx.
+Our productivity initiatives have enabled investments in innovation, skills, and go-to-market capabilities including our ecosystem. We have accomplished this while simultaneously growing our operating profit margin and free cash flow, which in turn has increased our financial flexibility.
+This remains our playbook going forward, having executed on $3.5 billion of annual run rate savings exiting 2024, supporting our strong free cash flow growing in excess of revenue.
+Looking to the first quarter, I expect our constant currency revenue growth rate to be similar to the fourth quarter. We expect workforce rebalancing fairly consistent with the prior year. We are also wrapping on the $241 million gain from the divestiture of The Weather Company.
+Excluding the year-over-year impact of the gain, we expect about 50 basis points of operating pre-tax margin expansion. It is hard to predict discrete events, but our best view is that the first quarter tax rate could be a few points lower than the full-year rate, but still a headwind over last year.
+In summary, we have delivered durable growth over the mid-term model and expect to drive an upwards inflection. We have repositioned our business and are excited about 2025 and beyond. We look forward to discussing more details at our upcoming Investor Day on February 4.
+Arvind and I are now happy to take your questions. Olympia, let’s get started.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, Jim. Before we begin the Q&A, I'd like to mention a couple of items. First, supplemental information is provided at the end of the presentation. And then second, as always, I'd ask you to refrain from multi-part questions.
+Operator, please open up for questions.
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Amit Daryanani, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Amit Daryanani,  Evercore ISI - Analyst    [3]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question. Good afternoon, everyone. Can you just talk a little bit about what they think about the count to 25 guidance you folks have provided if you could just provide some context around linearity and how that could play out.
+Maybe you can talk about H1 versus H2 perspective, given some of the Consulting and mainstream tailwinds could be a bit more back half. If you just touch on, kind of, pull us out with the second half weighted in the linear, that would be helpful as you think about '25.
+
+--------------------------------------------------------------------------------
+James Kavanaugh,  International Business Machines Corp - Chief Financial Officer, Senior Vice President - Finance and Operations    [4]
+--------------------------------------------------------------------------------
+
+          Amit, thank you very much. Appreciate the question overall. Obviously, we're very pleased, as we talked about in the prepared remarks about how we finished on a strong note over-delivering on revenue, profitability, earnings per share, free cash flow.
+That gives us the conviction and confidence as we guided in 2025 with above-street revenue growth at 5%-plus at constant currency and a very strong free cash flow engine, a $13.5 billion growing nicely and continuing to grow that free cash flow margin.
+But if you look underneath it, linearity, when you get to that point, yes, first half, I would tell you you got to answer this by segment. We've got a very strong portfolio, which is executing extremely well on software. We see a pretty normal history as we move through our first half, second half. Obviously, you do have seasonality between 1Q and 2Q versus 3Q and forth. But that is -- we got a very hard and we're going to continue to invest in innovation.
+Second, on Consulting, we feel pretty good about how we concluded the year with our highest recorded ever signings quarter up 23%. We entered the year with a backlog of plus 8%, a strong book-to-bill that at 1.21. We're still dealing with a very dynamic environment around client-prioritizing spend.
+And I think it's prudent for us right now, though we call Low single digit for the year, to see that accelerate as we move through the year. So I would see more of a second half play than a first half play.
+And then you get to infrastructure. We did extremely well at the end of a three-year cycle. Our most promising program and mainframe, ever overall, delivering 122%. Yes, first quarter, we expect about -- again about a similar point impact IBM's growth.
+But second quarter on, we're back to growth above our model through the year. And that's what gives us confidence in the guide that we called for the year. So a little bit of a mix shift, definitely strengthen software, which is going to drive this business being 45% IBM.
+But when you bring it all together, maybe it's a pointless first half on revenue versus industry versus second half. But from a free cash flow perspective, we're pretty similar to history overall.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [5]
+--------------------------------------------------------------------------------
+
+          Great. Operator, let's take the next question.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Wamsi Mohan, Bank of America.
+
+--------------------------------------------------------------------------------
+Wamsi Mohan,  BofA Global Research - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Yes, thank you so much and congrats on a really strong free cash flow performance. Arvind, would love to get your thoughts around M&A, particularly as we may be entering a period of relatively low regulatory overhang at the same time, you are delivering record cash flows.
+And if I could, I would love to get some of your thoughts on [deep seek] and any implications that you see for the industry broadly or for IBM, in particular. Thank you.
+
+--------------------------------------------------------------------------------
+Arvind Krishna,  International Business Machines Corp - Chairman of the Board, Chief Executive Officer    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Wamsi. We are looking forward to a regulatory environment that's a bit more rational and a bit more [frugal] competition. So I think what that implies for us is that we think reasonable deals have a very good chance of getting through in a reasonable amount of time and not being held up for years.
+So with that context, that means, obviously, we are going to lead and more, which is reasonable. If you look at our free cash flow and you look at what we are setting out for the year, that could leave as much as $7 billion or a bit more than that during the year, after accounting for the dividend.
+We always look at a three-year flexibility. I think that's the best way of looking at it, Wamsi. So if you look at a three-year flexibility, you can kind of borrow ahead. But we do kind of want to live within sort of what we can afford. And if we find targets that meet our criteria here, we are going to lead and get things done.
+I'm going to just finish that by saying how she has been waiting out there for almost a year. We certainly hope that with a friendlier environment, that gets done soon, and that then begins to open up the aperture for getting more deals done.
+So I think hopefully that addresses both the cash flows and the regulations around M&A. So (technical difficulty), I think was a point of validation. We have been very vocal for about a year that smaller models and more reasonable creating times are going to be essential for enterprise deployment of large language models.
+We have been down that journey ourselves for more than a year. We see as much as 30-times reduction in insurance costs using these approaches. As other people begin to follow that route, we think that this is incredibly good for our enterprise clients, and we will certainly take advantage of that in our business. But I believe that others will also follow that route.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [9]
+--------------------------------------------------------------------------------
+
+          Operator, let's take that question.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Jim Schneider, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Jim Schneider,  Goldman Sachs - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Thanks for taking my question. I was wondering if you, maybe, highlight two topics, one on Consulting and one on the AI software side. On the Consulting side of things, it's good to see the bookings that you're seeing. But can you maybe give us, historically, and the context is IBM tends to lag the Consulting business relative to some of your peers.
+But what does the level of confidence you have in the revenue yield and revenue recovery you talked about for the back half of the year? And how do you feel about the revenue yield today versus a year ago? And then secondly, on the AI Software side, you mentioned the $1 billion book of business, particularly within software. That's pretty substantial.
+And while there's been moving parts in terms of which products have gotten traction, which are the products of the ones you mentioned, do you think are really going to be sort of stand out in the next couple of years from a software performance perspective? Thank you.
+
+--------------------------------------------------------------------------------
+James Kavanaugh,  International Business Machines Corp - Chief Financial Officer, Senior Vice President - Finance and Operations    [12]
+--------------------------------------------------------------------------------
+
+          Thank you, Jim. I'll take the first one and then Arvind can handle the second one around the products and software overall. We take a look at it from a consulting perspective, we've been talking about, we have been operating along with every other consulting company in a very dynamic macro-economic environment.
+As with any technological shift, there are going to be reprioritization of spending that is occurring. Clients, some are IBM, we are cutting back on discretionary-based spend so we can fuel investment into digital transformation GenAI overall.
+We've been seeing that play out throughout 2024. By the way, on top of our above market performance in gaining significant share over the last six quarters starting in 2023. Now, why have we been so maniacally focused on the GenAI ramp and are greater than $4 billion book of business right now coming out six quarters in, which we believe, by the way, we're in a very early leadership position around that.
+We're so maniacally focus because enterprise clients are making their strategic provider of choice decisions. And we are feeling very good about that greater than $4 billion book of business, which by the way, is already north of 5% of our total backlog, which is, as I told Amit in the first question, is up 8% coming into 2025.
+Why is that important? Because that is going to be a long-term future vector of growth for consulting for us to win that has a multiplier effect that will drag our software component of our business going forward. So we feel pretty good while right now early in the cycle, it has less yield, it has higher durations. But we think the TAM opportunity and that multiplier effect are going to grow into each other. And that's one of a couple of components and why we have conviction of inflecting back to growth in 2025 with Consulting overall.
+
+--------------------------------------------------------------------------------
+Arvind Krishna,  International Business Machines Corp - Chairman of the Board, Chief Executive Officer    [13]
+--------------------------------------------------------------------------------
+
+          Thanks, Jim. So let me take the question, Jim, on the thoughts about the software products which I think will be standouts.
+I got to begin with our watsonx family. Our watsonx encapsulates our primary products that incorporate LLMs and AI technology. Our watsonx Code Assistant on how we help our clients modernize their infrastructures, our Code Assistants on how people leverage it for Java, for Ansible have been absolute standouts and have been in market for almost a year.
+That the rest of the watsonx family also, whether it's about deploying models using AI or getting the data ready and governance, have also been very strong drivers. And the piece that most people have not been paying attention to, I want to point out, is in the Red Hat family, both Red Hat for getting models deployed on a single server with GPUs, as well as what we now go to be doing with our Neural Magic acquisition on how do you optimize and get the most effective use as of the hardware using Red Hat.
+And then when you have large deployments leveraging OpenShift for AI deployment, or the final rounding out of the products. To be candid, LLMs will induce many other things. For the products I called out are the ones where we counted as direct AI products and directly driving the business. And that's what is counted in the numbers that Jim laid out.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [14]
+--------------------------------------------------------------------------------
+
+          Operator, next question.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Ben Reitzes, Melius Research.
+
+--------------------------------------------------------------------------------
+Ben Reitzes,  Melius Research - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Yes, thanks a lot. A lot of the couple of questions were asked. So I'm going to ask about infrastructure, and I also wanted to congratulate you guys. Your mix shift towards software is really resonating. But I'm going to ask about infrastructure and two aspects. One is tied to it within software is TPP, super profitable on an 11%.
+I just wanted to see where that sit in terms of your guidance for the year and how sustainable that is. And I think that the AI system is having a big impact on that. And so changing the way we may be thinking on that.
+And then with regard to infrastructure, which is a little bit tied to that segment, maybe I'm wrong, in terms of the mainframe and that delta and growth, if you could just be a little more prescriptive there and talk about why you have confidence that this will be well-received cycle. Really appreciate it. Thank you.
+
+--------------------------------------------------------------------------------
+James Kavanaugh,  International Business Machines Corp - Chief Financial Officer, Senior Vice President - Finance and Operations    [17]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Ben. This is Jim, I'll take this. First of all, thank you for the compliments. Team has worked extremely hard. We laid out a very ambitious three-year road map a few years ago when we spun off Kyndryl that repositioned IBM.
+And as we talked about in prepared remarks, team is executed and met or exceeded every single one of those targets that we put out to the street. So a lot of hard work here. But the beauty is we got a lot more to go, which we're extremely excited about will talk about that next week at Investor Day.
+But let's talk about TPP. First of all, I can't talk about TPP. to the heart of your question without talking about the absolute tremendous execution of what's been happening, what our mainframe cycle. You know, this has been one of the longest programs and most consistent in terms of revenue growth that we've ever seen.
+And I think it's an association of the value of our enduring platform and a hybrid cloud era overall. 120%-plus prior program, 70% of the clients on mainframe are growing MIPS. That is a very different profile than where we were 10 years ago. And the install MIPS are up 3x over the last few cycles.
+Now why is that important? We run mainframe, yes, mission critical workloads for what, 97% of the mission critical transactional processing around all of -- many of the different industries banking, retail, airlines, you name it, but we run it as a stack economic platform play.
+TP is the mission-critical software on top of that. It is a key growth contributor, capitalizing on those mainframe stack economics, high source of revenue, high source of profit to fuel investment flexibility of us continuing this engine of innovation and software, and it also provides a solid incumbency based on multiplier effect.
+We grew our transaction processing 10% in 2024, exiting at 11%. The underlying dynamics of that, I would say about four points of that growth, is due to the capitalization of the underlying workloads that are driving mainframe. About three points of that is the investment in the new innovation that we've been bringing to the mainframe platform call that Watson Coda system for Z and how we monetize the value of GenAI.
+And then about three points of that is back to historical price optimization. If you look at 2025, our guidance where we called software continuing to accelerate approaching double digit, I will say, prudently right now between Arvind and I, a consistent mid-size, single-digit growth in TP., and we'll see how that plays out with the new cycle of mainframe in '25.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [18]
+--------------------------------------------------------------------------------
+
+          Operator, let's take the next question.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Brent Thill, Jefferies.
+
+--------------------------------------------------------------------------------
+Brent Thill,  Jefferies - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Thanks. This is Bo on for Brent. Arvind, it would be great to get your view of the business climate, more specifically on the software side, but also more generally across business segments. What are you hearing from customers? And how are they thinking about their software budget in 2025?
+
+--------------------------------------------------------------------------------
+Arvind Krishna,  International Business Machines Corp - Chairman of the Board, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+
+          Thanks. I've been quite public and quite vocal around this topic. So let's acknowledge many of the things that occupies a media headlines. And then as a consequence, the do all of our business leaders. Geopolitical tensions, maybe on a better track right now, but certainly not solved. Interest rates, inflation, demographics, lack of skilled labor supply chain. I think these issues all carry over into 2025.
+That said, and I did spend last week at Davos when they get to meet a few hundred of your colleagues from around the world. I would tell you there is more optimism in the business climate and there is more optimism on the growth that is possible in '25 compared to '24.
+And we know all reasons for that. Is it pro-innovation, is a pro-growth, is it pro-regulation, reducing friction. All those things I believe are going to result in a bit the environment in 2025.
+That then translates into how our company is going to grow. To a person, everybody believes technology is now essential for helping them grow. How can you service customers better? How can you market better? How can you reach people? How can you get things done in minutes instead of hours? Software is the basis for all of those capabilities.
+I think to a person, the budget that they will touch last, if there was ever an issue, is that software budget. So that is what is giving us confidence also, as Jim talked about approaching double digits in software is that software is essential to help people go to achieve their business goals.
+And if you can get ahead in this year, it'll probably keep you ahead. So it becomes kind of a gift that keeps repeating for our clients.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [22]
+--------------------------------------------------------------------------------
+
+          Operator, let's take the next question.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Erik Woodring, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Erik Woodring,  Morgan Stanley - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you so much for taking my questions and congrats on a really strong free cash flow, performance and guide. One clarification quickly what was just --Jim, just want to make sure when we think about the 2025 outlook, is that inclusive or excluding how HashiCorp?
+And then my broader question again for you, Jim, is just if you could walk through and quantify a bit more detail some of the free cash flow puts and takes as we as we go into 2025, just between the cash taxes, the CapEx, the EBITDA growth, any more detail would be super helpful to us as we think about our model. Thanks so much.
+
+--------------------------------------------------------------------------------
+James Kavanaugh,  International Business Machines Corp - Chief Financial Officer, Senior Vice President - Finance and Operations    [25]
+--------------------------------------------------------------------------------
+
+          Thanks, Erik. And again, thanks for the compliments to the team here collectively around the world. Means a lot.
+Yes, short answer on Hashi, as always, we guide all. So we fully expect to close the Hashi transaction in a relatively soon period of time. As we saw in the K that was issued by HashiCorp overall, we fully expect that in this new administration environment.
+So all in, revenue growth, profit margin guidance that we gave, and free cash flow, which by the way is growing faster than revenue.
+When you take a look underneath, we're extremely pleased on how we finished the last couple of years overall. Highest free cash flow margin in the history of our great company for 115 years. And oh, by the way, we exited 2024 with a free cash flow run rate above our mid-term model of what we laid out three years ago, consistently growing free cash flow well in excess of revenue overall.
+So that's what gives us the confidence and conviction that all of the tough work on our portfolio optimization that has shifted much more to a software-centric-lead hybrid-cloud platform company, the productivity, which by the way, executing north of $3.5 billion exit run rate. We got out in front of that.
+I would call that discipline; I would call that execution of a company. Gives us the conviction and confidence in our guide in 2025. That takes into account that dilution effect. Hashi in itself is probably about a point of revenue growth IBM in the year.
+And it's probably, many of you have done the math, in all $300 million, give or take of dilution, by the way, still a very attractive financial model, coupled with the strategic fit and synergy because we do believe adjusted EBITDA were well on our path of a within 12 months accretive and free cash flow within two years accretive. Overall, if you've been following Hashi's results.
+But the underlying dynamics of our free cash flow drive, over 100% of it's going to be delivered by high-quality, sustainable, adjusted EBIT growth that is driving this company to a sustainable, durable mid-single digit growth, now 5%-plus. The underlying operating leverage we continue to generate in this business will drive double-digit adjusted EBITDA growth in 2025 that just to put some dollar amounts around it.
+That's probably over $1.5 billion in itself.
+Now mitigating some of that, one, we are going to continue to invest in this business and that CapEx number is going to go up a couple hundred million dollars as we invest in our software, our GenAI, our next generation, our mainframe, et cetera, Quantum, by the way, we continue to invest in.
+Two. with that incremental profit dollar, we're going to pay more cash tax. That's a couple of hundred million more of their and, three, to the heart of your question, the net interest opportunity loss overall will probably be another couple of hundred million dollars overall.
+So when you put those pieces together, the way I would kind of qualify it high-quality, sustainable free cash flow generation engine that's going to deliver faster and revenue growth.
+
+--------------------------------------------------------------------------------
+Olympia McNerney,  International Business Machines Corp - Global Head of Investor Relations    [26]
+--------------------------------------------------------------------------------
+
+          Operator, next question, please. Operator, can we have the next question? Operator, can we take the next question? Operator, can we have the next question please?
+Brian Essex, can you ask your question, please?
+All right. Just please bear with us. We're having an issue with our operator will be back in a minute. All right, apologies, we're having a technical issue with our operator. So apologies that we can't finish our Q&A. We look forward to taking more questions and answers at our upcoming Investor Day on February 4. Let me turn it to Arvind for closing.
+
+--------------------------------------------------------------------------------
+Arvind Krishna,  International Business Machines Corp - Chairman of the Board, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          Thanks, Olympia. We do apologize, from all of us. We look forward to your questions, but we will get multiple hours with the team, as Olympia said on February 4. I do hope that all of you that couldn't get your questions in, could come that day and ask your questions. Just to wrap up. as we wrap on our mid-term model, and Jim explained some of this, we executed our strategy and deliver sustained revenue growth and cash.
+The changes we've made to our business over the last couple of years and our performance reinforces my confidence in this next chapter of our growth. I look forward to continuing this dialogue and through the years.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

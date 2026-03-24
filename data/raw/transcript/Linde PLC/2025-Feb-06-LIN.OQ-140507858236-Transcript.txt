@@ -1,0 +1,468 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2024 Linde PLC Earnings Call
+FEBRUARY 06, 2025 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Matthew White
+   Linde PLC - Chief Financial Officer, Executive Vice President
+ * Juan Pelaez
+   Linde PLC - Investor Relations
+ * Sanjiv Lamba
+   Linde PLC - Chief Executive Officer, Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Duffy Fischer
+   Goldman Sachs - Analyst
+ * Steve Byrne
+   Bank of America - Analyst
+ * Patrick Cunningham
+   Citigroup - Analyst
+ * Michael Leithead
+   Barclays - Analyst
+ * Jeff Zekauskas
+   JP Morgan - Analyst
+ * Michael Sison
+   Wells Fargo - Analyst
+ * Peter Clark
+   Bernstein - Analyst
+ * Steven Harr
+   Morgan Stanley - Analyst
+ * John Roberts
+   Linde PLC - Analyst
+ * Ross Sandler
+   BNP Paribas - Analyst
+ * John McNulty
+   BMO Capital Markets - Analyst
+ * David Begleiter
+   Deutsche Bank - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Michael Leithead,  Barclays - Analyst    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, good day, and thank you for standing by. Welcome to the Fourth Quarter and full year 2024 earnings teleconference and webcast. (Operator instructions)
+And I would now like to hand the conference over to Mr. Juan Pelaez, Head of Investor Relations.
+
+--------------------------------------------------------------------------------
+Juan Pelaez,  Linde PLC - Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Bobby, thank you again, everyone, and thanks for attending our 2024 fourth quarter earnings call and webcast, compromise, Head of Investor Relations, and I'm joined this morning by Sanjiv Lamba, Chief Executive Officer, and Matt White, Chief Financial Officer.
+Today's presentation material are available on our website at linda.com in the investor sections, please read the forward-looking statement disclosure on page two of the slides and note that it applies to all statements made during this teleconference. The recognition of the adjusted numbers are in the appendix to this presentation. Sanjiv will provide some opening remarks, and then Matt will give an update on the nice fourth quarter financial performance and 2025 outlook, after which we will wrap up with Q&A.
+Let me now turn the call over to Sanjiv.
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks a lot and good morning, everyone. Looking back, 2024 was another successful year for the Linde organization. I'd like to personally thank the 60 plus growth while the copy of individual step decades long cultural mindset and operating rhythm, and it can best be exemplified by the results shown on slide three. From my perspective, there are four key categories, but Lindy must accept day-in and day-out to maintain a long-term industry leading position.
+Of course, we must deliver on our key financial metrics and remain responsible stewards of our owners capital. That's a given, but we have is this sustainable leadership position for that and the long-term that requires continued investment in our people and surrounding communities. As well as doing our part to help improve the environment.
+Finally, we must position ourselves for the future to ensure resilience and continuous growth and improvement. We can never be complacent based on past performance. I want to start with our people and communities because when the success has always been and always will be attributed to employees, ownership mentality and collective efforts, we continuously strive to be good corporate citizen in thousands of communities where we live and work. Also having a safe and diverse workforce is a top priority in order to ensure Lindi's competitiveness for many years to come.
+And you can see the improvements we've made from an already leading position more work is to be done. And I fully expect to leverage technology in that effort. But I am pleased to see the progress made to date. While people and communities are a priority efforts towards ensuring a sustainable environment of becoming more challenging every day. I think it's fair to say we're seeing more extreme weather now than in prior years. And here at lending, we will continue to do our part to help the environment through an increased focus on low carbon power. Linde increase its active low-carbon renewable energy consumption by 19% year-over-year in 2024 for over 40% of our total power consumption is now low-carbon based. These are just a few of the many accomplishments, and I want to encourage you to read our annual report for many more.
+Furthermore, it is rewarding to see us sustainability efforts being recognized by some of the most prestigious names, such as the Dow Jones, which included Lindy units sustainability world index for the 22nd consecutive year. In addition, we pride ourselves and help customers avoid more than two times our CO2 emissions through the use of our products and services, but there is much more work ahead to achieve our ambitious sustainability goals, including reducing our greenhouse gas emissions 35% by 2030 plan.
+Turning to financial performance. Linde once again led the industry across key metrics, 25.9% ROC EBIT margins increased 190 basis points to 29.5%, EPS, increasing 10% XFS and $7 billion of capital return to shareholders from the significant excess free cash flow. These are the best metrics in the industry. So by a wide margin, this provides us with a source of pride and ownership. But we also recognize this is the box valuations are derived from a combination of past performance and future expectations.
+So we must continuously position ourselves for future growth regardless of the macro economic conditions, positioning for future styles with a concise strategy and a capital allocation policy at Linde, we know that investments we make and the ones we avoid are equally important because mistakes in this industry can have long lasting consequences is why sticking to our core business while maintaining disciplined contract terms is critical to building safe, reliable and profitable supply infrastructure. The year ended with more than $10 billion in backlog, including a record sale of gas backlog of $7 billion. Included in this is a two plus billion dollar rate in Canada, which is a great example of a high quality project in our core geographies.
+This project not only has fixed payment structure with predictable returns, but materially improves our local supply density in a fast growing region for clean energy, I fully expect to be announcing new projects and customers in the near future for drilling in industrial gases in more than just mega projects. We have to continue keeping our eye on smaller opportunities as well, ensuring that they add attractive annuity-like growth. During 2024, we once again set a record for small on-site visits, signing 59 long-term agreements or a total of 64 plants, all of which will increase reliability and strengthen our network density.
+Acquisitions of small tuck-in packaged gas opportunities also remain an important part of synergize growth with 18 signed transactions with annualized revenues of approximately EUR200 million. All in 2024 was another successful year despite the many challenges. That being said, it's time to move forward and look ahead, all of you have seen the new earnings guidance for 2025.
+And therefore, I believe it's important to reiterate the components of our long-standing EPS growth algorithm. On slide 4 for many years now, we've defined our EPS growth into three categories, of which both capital allocation and management actions are within our control and the economy is not capital allocation. Representatives contributions from a long-standing and stable capital management policy. The main elements include our contractual project backlog, share repurchases, small bolt-on acquisitions and capital structure efficiencies generally achieved through interest and tax management.
+It's important to note that our backlog definition is unique in our industry. It only includes incremental growth from contractually committed customers with fixed payment elements and termination provisions to ensure a minimum return on capital. While no other company follows a strict interpretation, it certainly provides the greatest certainty of backlog, EPS contribution in any environment. Similarly, the majority of acquisitions are justified on cost synergies owned and therefore provide a high degree of confidence on capital return and thus EPS generation.
+Finally, share repurchases are an attractive and flexible use of excess free cash flow as project startup, the highly consistent EPS contribution from overall capital allocation. All of these elements have historically contributed 4% to 6% EPS growth. And I feel confident this will continue for the years to come. Management actions represent daily self-help initiatives, our employees, and to take to ensure growth regardless of the macro climate, digital solutions and AIR. increasingly supporting productivity, price and cost management, which are controllable initiatives deeply embedded into our culture and operating rhythm at which allow us to grow earnings regardless of the economy. History has proven for these to be the largest compound value generators as they are not directly correlated to overall economic activity. This combination of capital allocation and management actions is expected to deliver 10 plus percent EPS growth each year with margin expansion and 2025 is no exception for the pre or post merger. These two components have been the dominant drivers of our long-term double-digit EPS growth capital.
+While I remain confident in our ability to deliver on this 10%, we are constantly striving to find more opportunities to improve. Conversely, we cannot control the third category, which represents macro economic factors for Linde. These are two factors that matter. The most foreign exchange rates and industrial production as a proxy of base volume trends. Recall that we are a US dollar functional company with approximately two thirds of earnings denominated in foreign currencies and thus exposed to FX translation. Similarly, while our customers are off another long-term contracts with fixed facility fees, the incremental gas they consume is a function of their own production rates, which typically highly correlates to industrial demand. Hence why global IP is a generic proxy for our customer gas consumption of base volumes. The current 2025 guidance range assumes a 4% FX translation headwind for the midpoint of the range assumes 0% IP growth environment.
+Overall, it's clear the growth algorithm is well intact. But we have our work cut out regarding unfavorable FX translation since that time as a surprise, as you may recall from our statements last quarter and subsequent self-help actions that we initiated. Furthermore, we will continue to identify and execute additional management actions to mitigate macro weakness. Eventually these economic headwinds that will convert to tailwinds as we always do, and until then, you can be rest assured entirely. The organization will be focused on creating shareholder value and maintaining a long-term industry leadership no matter the environment.
+I'll turn the call over to Matt to walk through our financial results.
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Sanjiv. Fourth quarter results can be found on Slide 5 sales of $8.2 billion are flat to prior year, down 1% sequentially for both the prior year and sequential comparisons. Foreign currency translation was a 2% headwind excluding FX and cost pass-through, underlying sales grew 2% versus last year and were flat from the third quarter. Price increases of 2% over 2023, 1% sequentially, continued to track with globally weighted inflation. Volume growth was flat as contribution from the project backlog for the Americas and Asia-Pac offset lower base volumes and demand.
+The sequential volume decline is primarily attributed to softer Amir metals and mining volumes and seasonality factors in a bag in general economic trends mostly followed our prior guidance, although the FX impact was worse than expected from a significant strengthening of the USD toward the back half of the fourth quarter, operating profit of $2.5 billion grew 9% and resulted in a 29.9% margin, primarily from management actions around price cost and productivity. EPS $3.97 grew 11% or 13% excluding FX. The 9% CapEx increase is entirely driven by contractual projects as base CapEx decreased from a combination of currency productivity and lower base volumes. I anticipate this trend to continue as we execute on the record $7 billion sale of Gas backlog to support future growth.
+Further details on capital management can be found on Slide 6. Full year operating cash flow ended at $98.4 billion with almost 60% accuracy in the second half. As mentioned in prior calls, I expect this split to remain due to seasonality of specific cash outflows, including incentive payments, taxes and interest. The pie chart on the right shows the full year capital allocation. We invested $5 million back into the business with half underpinned by secured high quality growth opportunities. And we returned $7 billion to shareholders in the form of dividends and stock repurchases. Retreat in this amount of capital to our owners year after year requires a disciplined capital allocation policy and a very healthy balance sheet two things that are much easier said than done. I'll wrap up with guidance on Slide 7.
+For initiating full year EPS guidance of $16.15 to $16.55, representing a 4% to 7% growth or 8% to 11% when excluding an estimated 4% currency headwind. As mentioned earlier, the 4% impact from the accounting translation of foreign earnings, which experienced a rapid strengthening of USD toward the end of 2024. Recall, this is merely a projection as we're required to book the actual month average rate to the income statement methodology used for this estimate is consistent with prior practice by using the forward curves on a weighted basis for each foreign currency at the start of the month.
+Historically large currency devaluations have often been followed by periods of more significant local inflation with 2024 to be in a recent example is centers and anticipate incremental pricing opportunities to recover the currency devaluation impact. These potential pricing opportunities are not baked into the guidance range at this time since the amount or timing of subsequent inflation is difficult to estimate dynamic and from the current environment and best assumes flat base volumes.
+As Sanjiv mentioned, our base volumes derive customer supply contracts. Their growth is a function of gas consumption from our contracted tanks and cylinders, hence why local industrial production tends to be the best proxy. First quarter EPS guidance range is $3.85 to $3.95, with similar assumptions to the full year. At this time, we believe it's appropriate to remain prudent with a more cautious economic outlook if things turn out better. So too, will our results in this they worsen will take additional mitigating actions regardless of the economy. I'm confident lending will continue to create shareholder value through our time-tested execution culture, disciplined capital allocation and proven management actions. This has been embedded in our DNA for decades and over the years.
+While many have claimed builds simply copy, this model all have failed because here it Lindy, we're often imitated, but never duplicated. I'll now turn the call over to Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [1]
+--------------------------------------------------------------------------------
+
+          And I will now begin the question and answer session.
+(Operator instructions)
+And your first question comes from the line of Michael Leithead, Barclays.
+
+--------------------------------------------------------------------------------
+Michael Leithead,  Barclays - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          There's a lot of political noise out there right now between tariff potential, new administration, some pullback on green energy funding. How has your discussions with potential project partners evolved at all really trying to get at, say, projects that are pre-FID today, have those discussions slowdown or picked up at all?
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          So Mike, as we have referenced in previous calls, we have seen the will take a little bit more time and apply a bit more rigor before going to FID. I think it's a good thing because you do need that when you're doing multibillion-dollar projects to vacate. And I think we're seeing that fee is continuing in their bills and there obviously is some uncertainty around the regulatory framework and requirements in terms of what the new administration may or may not do.
+So one thing I do want to emphasize, though, and I think in the context of clean hydrogen, this is particularly important. People tend to think about the IRA and there's a lot of talk around what happens to the area of new administration within the IRA. There is a specific provision and IRS provision in fact, both 45Q, which predates the IRA. It actually goes back to around 2008 when it was implemented and above 90% of the projects that we are developing in the US, we are actually looking at 45Q. as a potential incentive. And I think we feel fairly confident that that structure around the 45Q. will remain as given particularly that it predates the IRS. I just want to provide that specific clarification because I get a lot of questions around that.
+But generally, we were seeing people take a bit more time to get to FID. And we are seeing that they are actually being a little bit more rigorous in their approach before they make a final call in terms of putting capital on the ground.
+The other point, I'd just quickly add to that, Mike, as you're aware that in the past, we've talked about in all, I think it was actually two years ago, we talked about $8 billion to 10 billion in in clean energy investments from a lending perspective. We're about halfway there, given the two projects, large projects we've already announced North America, they're obviously continue to develop projects elsewhere. Those two garden projects, we're working on a boat likely to see another phase which likely means that we'll see equivalent investment there plus the other projects as well. So when I look at the overall pipeline, I feel pretty good about the quality of projects that we're pursuing and the box to go getting to that $8 billion to 10 billion of investments over the next few years looks pretty much intact.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Steven Harr, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Steven Harr,  Morgan Stanley - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          So it kind of looks like exiting your margins are now like 200 basis points ahead of America's maybe 100 times the cost pass through. So do you think your Americas margins will gain ground and 25? And that also has a second piece of that. So I think the gap is kind of winding versus a packer. I was wondering if you could also kind of frame the opportunity there.
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          And so if you go back historically at all, but five years ago, many of you asked the same question when Americas margins were leading and I think a back and in mail were at 17% and 19%. And we had said Juan and I want to repeat again today that they're getting our business, our Genius and there is no impediment to getting to the highest margin to see anywhere in our business. The one thing often point out when we have this conversation on margins of each one of our segments as a country or a business that has a margin with a full number in front of it.
+And in many ways, we encourage our businesses, each of the segments to push and trying to understand what those successful businesses with a 40 plus percent margins are doing to ensure that we can bridge the gap. So to answer your question, both for AmeriGas and APAC, my expectation remains that margins will continue to improve. And again, we've said in our prepared remarks earlier on you should expect to see margin expansion in 2025 for Linde PLC overall, which obviously is an aggregation of the different segments.
+I'd say to you that I'd probably say that that margin expansion range is between 20 basic points to 50 basis points. Typically, that's what we expect longer term. Obviously, we've been delivered to the rig well in excess of that, and that's obviously set up some expectations, but expect margin expansion. Each of those segments will continue to grow margin, no impediment to APAC bridging that gap. And of course, America's got a solid business which will continue to expand the margin as well.
+
+--------------------------------------------------------------------------------
+Steven Harr,  Morgan Stanley - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Duffy Fischer, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Duffy Fischer,  Goldman Sachs - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          You talk about IP being your biggest KPI., which is fair, roughly, what is the leverage if IP is up or down 1%, how much EPS does that generally drive for you? And then if you would maybe just take a spin around the world, what are you seeing IP. new guiding flat is proof and but where do you see potential for things to be better or worse than that? A little bit about IP correlation of and I'll give you a walk around the world.
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [9]
+--------------------------------------------------------------------------------
+
+          So to start, as you probably know, we said we split our volumes and to project and base and our project volumes sold track our startup. So that is completely independent of any IP or macroeconomic factor and it's purely contractual based on the fifth element. So that one as part of the capital, our allocation contribution of the EPS algorithm. But to your point, when you think about base volumes, as Sanjiv mentioned, we have the rental which affects regardless that gets back to the resiliency of our model. As you recall, about 65% of our revenues are fairly resilient, but of the molecule that they take either in the cylinder our way, either in the tank for liquid and to some extent over fixed fees and the pipe, that's just going to be a function of their production.
+So from that tends to best proxy to IP and so I would say within the base volume piece, it aligns now to your point, we tend to get higher IP leverage in developing country. Trees are where they are expanding more of what you look at as intensity of gas per capita, whereas in more developed nations, it's closer to one to one ratio. You tend to see on the IP and the base volume tracked. So that's how I would think about that when you look around the world, I think we can all agree that have some countries report Ip is not equal at all countries.
+But when we adjust for what we feel are a little bit of some noise in the numbers, what we've been seen as IP close to zero, maybe tens of bps globally weighted in our businesses, some of what it's been arranging, but some will have to see how it plays out going forward. I think I may add a drag. As you know, Americas has been pretty solid and I think China dependent upon which number you actually want to use it can range anywhere from close to zero to the official number of 5%. And that's how I would kind of see the IPO, but I'll hit up SIG.Maybe can give you a little walk around the world, just with general color on trends.
+
+--------------------------------------------------------------------------------
+Duffy Fischer,  Goldman Sachs - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          So that's helpful. And just on the ground and you on how IP plays into our equation, but also how we think about it.
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [11]
+--------------------------------------------------------------------------------
+
+          Let me just walk you through the world-leading is a question. I'm sure it's on many people's minds number. If I break that down and powered by by two different perspectives, I'll start off with the markets that we have the end markets and use that as a guide for its stake to kind of define what we're expecting and then talk about different geographies as well. So starting off with resilient and more markets by their very nature, you expect them to grow. And therefore, we expect low to mid single-digit growth in our resilient end markets, driven primarily by electronics and food and beverage. Industrial sector, obviously, most cyclical impacted by the industrial activity and demand. We do expect lower volumes there versus last, we expect flat low volumes, particularly in metals and chemicals.
+If I now think deal perspective and talk about geographies, and I'm going to start off with maybe the Americas, our expectation, low-single-digit growth in the Americas in all across the related end markets. The industrial sector also expected to be kind of flattish against what we see last year. I will specifically talk about the USD and the US. I'd say to our current view remains, and I've said this before, right, U.S. volumes and sales at a high watermark, our expectation remains that the first half of the year likely to be flattish.
+That's what we're hearing from our customers towards the back end of the year, the second half for sure, we are expecting increased momentum across the US and we will see that play through in how we see the Americas volumes and and growth activity come true. On the other hand, a bit of a contrast, unfortunately, in Europe, we expect to see continued softening. This is primarily invest in Europe, also a little bit in Eastern Europe, but primarily invest in Europe. The resilient end markets will continue to grow there is a good trajectory there and we'll expect that.
+But metals, manufacturing, chemicals, energy all expected to be softer in lower volumes versus previous year. So Europe unfortunately is a drag at the moment. Now as far as Asia Pacific as concern outside of China, because that's on a number of your minds and I was in China two weeks ago, I spent a week with the team talking to our customers, meeting a number of CEOs and getting a flavor of what I think is going to happen in China. And I think my short summary is, from our perspective, we don't expect anything significant in China in 2025.
+We're not baking in any kind of recovery. I think industrial volumes and activity will remain stable. But flat, no recovery in any of those sectors, metals and mining specifically, it's likely to be negative year on year for a number of reasons driven partly by demand, but equally by some large turnarounds that customers are taking in the cost deal. So we're going to see that play in Q1 and Q2. But again, metals and mining unlikely to see any growth to one sector in China that is growing day and we'll continue to grow is their electronics sector, a lot of energy and a lot of money has been put into that sector by the government as well.
+So we do expect that that will play out and continue to see some level of growth. If I was looking at China, both broadly, I'd say to you to trends of particular note coming out of my business for us that the government has recognized the need for support. If it's got to get to the personal private consumption and the property market to pick up, it's set a lot of things not in US stimulus has gone into the market. So we haven't seen any improvements other than the fact that the last quarter you saw a bit of improvement from industrial activity for exports.
+But we haven't really seen private consumption pickup happen. They're all in all kinds of subsidies in place that they're putting out there is small, but hopefully they will have an impact over a period time. And so I'd say to you, I wouldn't hold my breath for 2025 in terms of improvement. But beyond that longer term, certainly we will see the China market stabilize and probably grow at a small phase of a used to. But certainly we will expect to see growth come back. The rest of Asia Pacific is largely flat versus previous year, except for India, which is obviously the growth story at the moment.
+And given our strong presence in India, we are making the most of it was more than our fair share feel really good about where that's going as kind of a view around what we see across the world and expect in 2010.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of David Begleiter, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+David Begleiter,  Deutsche Bank - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          What are your concerns, if any of the pack filling the playbook will be now employed products, given the recent management change would that be a negative cooling the shift away from focusing too much on mega projects world could that change resulting even more more rational industry pricing environment.
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [14]
+--------------------------------------------------------------------------------
+
+          If I didn't get their question entirely, but I'm going to answer it anyway. Linde has a leadership position in the market because of a number of factors. I said in my prepared remarks, you cannot replicate and adding back, but it really nicely. You can drive Gabi, but it never never really duplicate what leaves developed over over many decades. And that's built into our operating rhythm that's built into our performance culture.
+And more importantly, it is built into the networks that we have developed across the world where because of the network density we have, we're able to get the margin improvement that we see it alters your with the customer and have a pricing power we have that was demonstrated in the margin expansion that you have consistently seen over the last five years. We will continue to work on that. What others will or won't work on really the question you will need to address them. But I think Linde is the market leader as we reflect that in the behaviors we put out there in the marketplace consistently.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Ross Sandler, BNP Paribas.
+
+--------------------------------------------------------------------------------
+Ross Sandler,  BNP Paribas - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          And Got a question on healthcare where I think you've been around 0% organic growth every quarter in 2024. I was wondering if you could talk about what you've seen on price versus volume than it does any specific area that is preventing a big headwind, as you can expand into what to watch you're thinking for 2024 sites for this one?
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [17]
+--------------------------------------------------------------------------------
+
+          You've heard me say this before that in the healthcare space, we expect long-term kind of mid single digit growth and that's what we would expect. Now you build the healthcare sector is made up of two subsegments, if you like, the hospital care business, which is growing reasonably well and well on its way. And then obviously the whole gave us around the world, which tends to be moving forward as well.
+Now we have as you're aware in from past calls, we have said that we were doing some portfolio rationalization in our home care business, how the US and in many ways, what the numbers you're seeing at the moment are reflecting some of that rationalization that has been done in that Linde business that is moving forward.
+Well, as you know, the homecare business, in particular, given the inflationary environment that we see has to work really hard and productivity efforts, I'm happy to see that in idling care, we are really seeing that progress being made. So it's looking pretty robust and resilient things done at some stable last, these portfolio actions that you would see the long-term kind of mid-single low to mid-single digit growth that we would expect from healthcare overall.
+
+--------------------------------------------------------------------------------
+Ross Sandler,  BNP Paribas - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          And second, it is sort of lead on the project side you talked mostly about decarbonization related projects that could be signed in the future. You didn't mention Electronic Systems specific reasons for that.I don't think we've seen significant new assigned using electronics on your side with the next couple of years. And is an area where we should be remixing new projects.
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [19]
+--------------------------------------------------------------------------------
+
+          I'm only tell you that 20% of my all-time record sales of our backlog is electronics. We are executing on the electronics projects as we speak, and I'm more than happy to tell you that we'll be announcing new wins very shortly as well. So I'm not sure whether that question really address the specific point. But I think a really good about electronics and our specific position in there. In fact, we took our Board recently to the to our Phoenix facility with Cell CSMC., which you know has been a very successful project for TSMC. So feel really good about executing a number of projects as we speak. There are starting up and providing impact and we continue to win more than our fair share.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of Jeff Zekauskas, JPMorgan.
+
+--------------------------------------------------------------------------------
+Jeff Zekauskas,  JP Morgan - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thanks very much for in in 2024 for your cash flow from operations was up 1%, even though your EPS grew about 10%. Would say that the press number and so when you look at 2025 and year EPS growth of four to seven cash flow from operations, corn to grow higher or lower?
+And then secondly, in terms of market share in the overall industrial gas market market share pretty much constant for all of the major players, or are you gaining share overall or losing share there are any share shift?
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          Matt talk about the cash flows, and we'll talk about the market.
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [23]
+--------------------------------------------------------------------------------
+
+          So far on the OCF, it's your point that tend to look at EBITDA operates two OCF rates, so similar to what you're saying, but instead of EPS EBITDA. And to your point, though they should grow similarly and the ratio we tend to always look to achieve on OCF to EBITDA is usually in the low 80s. And your exact point of what we had occur over the last probably, I would say 24 months, give or take is this unwinding of our end engineering portfolio as we worked out the sanction projects. And so what that created or do you have a large influx of deposits of cash that stopped then we had to settle the payments to basically suppliers and you had a very rapid acceleration of an unwind. So that created a large outflow of cash associated with the engineering business.
+And that's what's created a slower growth of OCS relative to EBITDA because essentially what you had with some liabilities, which are the contract liabilities, if you look at that specific line has been quite favorable. And what is it and what the liabilities are unwinding on the wind down, but they're not cash generative. So that's why they create that unfavorable aspect on the working capital line that you see. So that is what's been driving this inability for the EBITDA and OCF to grow together. We've substantially gotten through all that in our engineering business. I expect 2025 to be a lot closer aligned on those growth rates. But this is normally this is how the engineering, the percent completion business where it's normally, it's spread over a four-year build cycle. So you don't notice it. But given the events of the sanction projects that got compressed into a much tighter structure as we had to deal with the Accenture projects.
+
+--------------------------------------------------------------------------------
+Jeff Zekauskas,  JP Morgan - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          And let me talk about market share cycling, Jeff, to be honest, we don't spend a lot of time thinking and talking about market share.
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [25]
+--------------------------------------------------------------------------------
+
+          I think it's something that we can segment down and talk about specifics and that's what I'm going to do for you. Somebody to start off by just reminding you record a sale of Gas backlog logos, seven plus billion, right asset, good test of their market share is habit. And to be honest, the winning more than our fair share of those large projects, which are, as I will remind you, as we said in our prepared remarks, these are contracted growth with a good solid terms and conditions, including termination guarantee team, a minimum of $1 of capital that is that as guaranteed.
+So just as a reminder, that very some very rigorous definition of backlog where we are selling today with our record backlog of demonstrates on the larger project site in how we are positioned in terms of market share.
+
+--------------------------------------------------------------------------------
+Jeff Zekauskas,  JP Morgan - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          For the merchant and package business.
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [27]
+--------------------------------------------------------------------------------
+
+          The console market share is less relevant.
+
+--------------------------------------------------------------------------------
+Jeff Zekauskas,  JP Morgan - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          What is more important than which is where we spend most of our time thinking about network density?
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [29]
+--------------------------------------------------------------------------------
+
+          Clearly you have network density, you are the leading player in that market, usually BioMar. So it's very important to make sure the network density is what you drive through the decisions you make in terms of how you manage your business on a day-to-day basis. So I feel pretty good about the network that we develop and the strength of our market position in each one of those net was which actually results.
+And as I said earlier, getting the margin expansion that look for and getting the market position and the strength of our relations with our customers because of those networks that we've developed. So I'll just summarize spending to ship to continue to move forward given these elements that I just talked about.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Steve Byrne, Bank of America.
+
+--------------------------------------------------------------------------------
+Steve Byrne,  Bank of America - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          I was wanting to better understand the 59, some small on-site wins. Maybe more specifically, how would you compare the the contract terms of those small loan, so versus the loan side? So I would assume these are long term take or pay agreements, some level, maybe even have your own employees on site. So how would you how would you compare the returns on these projects versus for big ones we remove. Can you comment on boots, what are the gases that are driving the small on sites, a year business oxygen for oxyfuels or hydrogen, etcetera?
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [32]
+--------------------------------------------------------------------------------
+
+          As a fantastic question, Steve and I I really wanted to somebody raises the banks are doing that 59 long-term contracts. You would ask you to read, we signed 59 long-term contracts and are building 64 funds. All this happened in the space of the last 12 months. So feel really good about breaking the record. Now let's talk about the profile of the smaller. I get excited about small onsites because from so many different perspective, they are actually a perfect way of generating annuity income for this business.
+And you can imagine that building 64 plants will be starting up more than one plant a week to make sure that revenue and cash generation happens. Let's talk about returns, terms and conditions and the types of gases, something good to start with the types of guests, reusable oxygen, nitrogen. And indeed, in the future, we expect to see electrolyzer base hydrogen, which is currently not included in our definition for small cells headwinds. But at some stage, we'll see that as a developing portfolio element added onto the small on-site oxygen nitrogen, largely obviously, and I'll give you a great example.
+So we've been working with many customers, outtakes one, Owens, Illinois, where we've been supporting them on their decarbonization efforts. In this particular case, we have a piece of applications technology called Optimal's that we have developed and we have deployed that successfully across a number of class customers was July being a good example of what are those where we are able to recover, do heat recovery, which allows them to get significant efficiency and reduced natural gas consumption has run the throughput of their bonuses at a significantly higher level.
+That's a good example of small on-site goes on site actually, so that we do the same with paper and pulp with the same with electronics, etcetera, which is where we would largely used nitrogen as an example. So both of these gases dry, our small as a portfolio and our kind of largely equally split between the different technologies that we apply.
+And when the tons of these smaller sized contracts range between 10 and 15 years, exactly identical to what you would typically see on the on the laws, on-site visit of the divisions are all more identical as well, same fixed fee elements that we talk about similar profile in terms of cash flows. What tends to happen though, is that the execution time line for these projects as much shorter, typically we'd be able to deploy a small on-site anywhere between nine to 15 months.
+As you know, the large on-site presence, yes, on larger projects that we do tend to take longer in terms of their construction and commissioning period. So again, a very nice piece of another small loan size. We're able to derisk the execution as well because the execution or a portion of the civils is carried out by the customer and again, helps us both implement and construct quickly, but also how the customer take the risk around the civils piece as well that brings me to returns. And our returns, typically, both small, all sites are above what we would see on average, what some of the large projects.
+So feel really good about the return, highly accretive to our portfolio. And again, you've been seeing over the last four or five years, we've put a lot of focus. We are developing this part of the portfolio and are really seeing the benefits of that in the 59 lottery contract we sign and the 64 plants to be building up some all in, I think, really good part of the portfolio. We are very excited about it.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Michael Sison, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Michael Sison,  Wells Fargo - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Hi, this is Avio automate things to keep my question on this. The sort of touched on earlier in the call, but I wondered if you could just clarify the contribution from pricing versus productivity and cost management. When we're talking about forward looking guidance to the acquired for the year?
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [35]
+--------------------------------------------------------------------------------
+
+          So we don't split that out but as you mentioned on the algorithm, so we've got 10 plus percent in the combination of the capital allocation contribution and the management actually contribution. And for purposes of guidance, I'd say roughly split 50-50 or so 5% at this stage. Historically, management actions have been the larger contribution, but we always need and want to think about that as a spread right to think about when in isolation to us, does it make a lot of sense because you'll see very different inflation levels and different countries.
+So the local spread of price to cost inflation is a critical metric for us because of that positive spread is what's part of the compound value creation of the model. So it's a very local discussion, but the spread needs to remain positive. That's a big component of the margin expansion of long-term margin expansion as well. But I'd say for purposes of the guidance right now, just assume it's roughly half from management actions at the 10% and half from capital allocation of the 10%, so five and five.
+And as Sanjiv mentioned, we're obviously going to continue to take actions to trying to improve on that. But that's what's laid out in the guidance at this stage so that Inc.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of John McNulty, BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+John McNulty,  BMO Capital Markets - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          On sort of question around the $10 billion backlog between sale of gas and sale of equipment on how much of the equipment at this point is locked in where we don't have to worry about tariffs or maybe the benefit of the strong dollar? And how much of it is there a little bit of exposure on how should we be thinking about that?
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [38]
+--------------------------------------------------------------------------------
+
+          So again, as you said, $10 billion in backlog, about 3.1 or 2.2 of that sits in a in the SOE. side, the sale of equipment side and the balance seven plus sitting in a in the sale of gas side. So as far as does that concern, obviously, we've been looking at at the portfolio this OE side, our contractual protection typically takes care of that. So we go in with form pricing with our contractors and wherever necessary. We have contractual protection to make sure that events like the tariffs, etcetera, get adequately covered on the sale of gas side, where we're doing a lot of the procurement.
+We're obviously managing and tracking that quite closely. We did that study recently for a US projects and actually the impact of tariffs as is diminimus. So really we are not seeing any impact there now experience over the past has been there. What data IP data for a while now, including the first round of the administration a few years ago was that it did get introduced typically didn't really impact. And our form offers that we that we put it on the procurement cycle, but also more importantly, we got some benefit typically out of devaluation of currencies that more than offset the tariff impact is there was impact of any any significant.
+So all in ICU, we've looked at tariffs as part of what we've done in the past, and we've got to manage that adequately at this point in time. We feel pretty good about where our projects done.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Peter Clark, Bernstein.
+
+--------------------------------------------------------------------------------
+Peter Clark,  Bernstein - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          I want to go capital, so pump hydro ask something that's been asked before, but I'm not terribly surprised with the guidance, but maybe a bit off on the ForEx and I can do using the sales line or slightly lower. But I'm assuming you've got some very profitable markets in there that have been hit very hard the currency. I'm thinking, Mexico, maybe Brazil a bit in that guidance of an allied to that. The tariff risk I know gas is their travel. I know it's mostly for customers in the region, but again, some of these very profitable markets, homes risk in terms of tariffs. And again, Mexico would be a classic in terms of our just just how you think around that as well.
+
+--------------------------------------------------------------------------------
+Matthew White,  Linde PLC - Chief Financial Officer, Executive Vice President    [41]
+--------------------------------------------------------------------------------
+
+          So we'll start with the FX, you actually hit on the two bigger ones, Brazil and Mexico, where the larger ones, I would say, if you think about the evolution of FX through 2024 on some of the European based currencies, as you probably know, were almost quite favorable odds flat in the beginning of 2024. But in 14, what you were seeing were a lot of Latam currencies devalue are very fairly materially from the pace of actually pace of the one that Brazilian reais and then Argentinean peso, as you can imagine, which is on a on a managed devaluation, which uses hyper currency inflation. So Latam currencies, we're probably seeing more of the brand in the first half to two-thirds of the year.
+But what we saw in the fourth quarter, just given some of the geopolitical and political events was a significant flight to the dollar. I think DXY index is probably the best indicator that if you sort of look at DXY, I am right around the beginning of the prior to the US elections to where it ended in the year. I'd appreciate it almost 10%. I think you gave a pretty good indication of the six major basket currencies of which that index is comprised of how much those major currencies we saw that both.
+So that was I would say it was a two stage impact on the rates and what that ended up with some of the more larger currencies like the EURO, the sterling etcetera, really devalued in the back half of the fourth quarter. So that I would say that with the dynamic we saw, it will be a little bit right now. We'll obviously, as we mentioned, we book on the average rate each month. And then we'll see if the devaluations do create inflationary aspects, I think Sanjiv advantage in the tariffs and in general, as you can imagine, our impact on the tariffs is really indirect. We don't since we're so localized to your point, we don't have much direct impacts.
+And you mentioned the equipment, which is small and that tends to self-correct. So it really just comes down to a function of the customers that we supply and what production line. I will say I have given our leading density positions and a lot of these economies, we feel quite good that we are there to capture where products move to because I think at the end of the day, what you have to ask yourself, if these tariffs is production shifting or will there be a reduction of production, but it should basis we feel quite good will capture where it goes. And if there is a net reduction in the question will be from so time will tell on that. But this is more going to be a function of that IP we talked about and we'll see how it plays out. But given the guide we gave on a basically a zero IP. at the midpoint from will have to see how how things play out.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          And your next question comes from the line of Patrick Cunningham, Citigroup.
+
+--------------------------------------------------------------------------------
+Patrick Cunningham,  Citigroup - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Just on the step-up in CapEx for 2025. Is most of them have been driven by the two large projects in? Is the step up from those projects more meaningful in 2026 as well?
+
+--------------------------------------------------------------------------------
+Sanjiv Lamba,  Linde PLC - Chief Executive Officer, Director    [44]
+--------------------------------------------------------------------------------
+
+          So Patrick, the hub we just referenced, the sale of Gas backlog being an all-time high at $7.1 billion paid. That's the reason why you're seeing the step-up in CapEx and obviously, sitting within that are the two large projects that we're executing around the Clean Energy's, but also a number of Alec electronics projects, etcetera. So that's driving the CapEx number as things stand.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Your next question comes from the line of John Roberts, Linde PLC.
+
+--------------------------------------------------------------------------------
+John Roberts,  Linde PLC - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Your competitor had a large nonrecurring helium sale in the quarter.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [47]
+--------------------------------------------------------------------------------
+
+          Portions of this transcript marked (technical difficulty) indicate audio problems. The missing text will be supplied if a replay becomes available.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

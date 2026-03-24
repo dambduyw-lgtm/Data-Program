@@ -1,0 +1,671 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2021 Eli Lilly and Co Earnings Call
+FEBRUARY 03, 2022 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Anne E. White
+   Eli Lilly and Company - Senior VP & President of Lilly Neuroscience
+ * Anat Ashkenazi
+   Eli Lilly and Company - Senior VP & CFO
+ * Kevin Hern
+   Eli Lilly and Company - VP of IR
+ * Daniel M. Skovronsky
+   Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs
+ * David A. Ricks
+   Eli Lilly and Company - Chairman, CEO & President
+ * Jacob S. Van Naarden
+   Eli Lilly and Company - Senior VP & President of Lilly Oncology
+ * Patrik Jonsson
+   Eli Lilly and Company - Senior VP, Chief Customer Officer, President of Lilly USA & President of Lilly Immunology
+ * Michael B. Mason
+   Eli Lilly and Company - Senior VP & President of Lilly Diabetes
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Seamus Christopher Fernandez
+   Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals
+ * Michael Gennaro DiFiore
+   Evercore ISI Institutional Equities, Research Division - Equity Research Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Aaron Gal
+   Sanford C. Bernstein & Co., LLC., Research Division - Senior Research Analyst
+ * Alice Jennifer Nettleton
+   Wolfe Research, LLC - Research Analyst
+ * Kerry Ann Holford
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - Research Analyst
+ * Chris Shibutani
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Vamil Kishore Divan
+   Mizuho Securities USA LLC, Research Division - MD
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, thank you for standing by, and welcome to the Lilly Q4 2021 Earnings Call. (Operator Instructions) As a reminder, today's conference is being recorded.
+I would now like to turn the conference over to Vice President of Investor Relations, Kevin Hern. Please go ahead.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [2]
+--------------------------------------------------------------------------------
+Good morning. Thank you for joining us for Eli Lilly and Company's Q4 2021 Earnings Call. I'm Kevin Hern, Vice President of Investor Relations. And joining me on today's call are Dave Ricks, Lilly's Chair and CEO; Anat Ashkenazi, Chief Financial Officer; Dr. Dan Skovronsky, Chief Scientific and Medical Officer; Anne White, President of Lilly Neuroscience; Ilya Yuffa, President of Lilly International; Jake Van Naarden, CEO of Loxo Oncology at Lilly and President of Lilly Oncology; Mike Mason, President of Lilly Diabetes; and Patrik Jonsson, President of Lilly Immunology and Lilly USA. We're also joined by Lauren Zierke, Kento Ueha and Sara Smith of the Investor Relations team.
+During this conference call, we anticipate making projections and forward-looking statements based on our current expectations. Our actual results could differ materially due to a number of factors, including those listed on Slide 3. Additional information concerning factors that could cause actual results to differ materially is contained in our latest Form 10-K and subsequent Forms 10-Q and 8-K filed with the Securities and Exchange Commission.
+The information we provide about our products and pipeline is for the benefit of the investment community. It is not intended to be promotional and is not sufficient for prescribing decisions. As we transition to our prepared remarks, please note that our commentary will focus on non-GAAP financial measures.
+Now I'll turn the call over to Dave.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+Thanks, Kevin. 2021 was another outstanding year for Lilly as we delivered strong top and bottom line growth and positive pivotal readouts for 5 important assets with the potential to launch in the next 2 years. As we move into 2022, we continue to build on this foundation and are determined to deliver on our long-term outlook to drive top-tier revenue growth, expand operating margins and innovate to develop and launch new medicines for patients that address significant unmet needs.
+Unpacking our 2021 performance on Slide 4. You can see the progress we've made on our strategic deliverables. Q4 revenue [growth] was 8% and was driven by volume growth of 11% while when excluding revenue from COVID-19 antibodies, revenue grew 6% for the quarter and 10% for the full year. This volume-driven performance is attributable to our key growth products, which grew by 28% and now account for 61% of our core business in Q4.
+On our non-GAAP, gross margin was 76.1% in Q4, a decrease of approximately 250 basis points, driven by increased sales of COVID-19 antibodies, which have a lower gross margin profile. Our non-GAAP operating margin was 31.7%, representing a decrease of approximately 130 basis points as a result of the lower gross margin percent just mentioned. For pipeline milestones, we have shared several important updates since our Q3 earnings call, including additional positive Phase III readouts for mirikizumab in ulcerative colitis and lebrikizumab in atopic dermatitis, the initiation of a rolling submission in the U.S. for pirtobrutinib in mantle cell lymphoma and our submission of bebtelovimab to the FDA for emergency use authorization for the treatment of mild to moderate COVID-19.
+We also continue to put our cash flow to work to create long-term value and recently announced our plans to make significant investments in new manufacturing sites in both North Carolina and Ireland. These investments will bolster the resilience and capacity of our supply chain as we launch new products to drive meaningful long-term growth. In addition, this quarter, we announced strategic research collaborations with a focus on new modalities as we continue to augment internal discovery capabilities.
+Finally, on financials, we announced a 15% increase to the dividend for the fourth consecutive year. And in Q4, we distributed nearly $800 million to shareholders via the dividend and completed another $750 million in share repurchases.
+Moving to Slides 5 and 6. You'll see a list of key events since our Q3 earnings call, including several important regulatory, clinical, business development and COVID-19 therapy updates we are discussing today or that were part of the discussion during our December 15 investment community meeting.
+So now I'll turn the call over to Anat to review our Q4 and full year 2021 results.
+
+--------------------------------------------------------------------------------
+Anat Ashkenazi,  Eli Lilly and Company - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Dave. Slides 7 and 8 summarize financial performance in the fourth quarter and full year 2021. I'll focus my comments on non-GAAP performance.
+In Q4, revenue grew 8% and revenue excluding COVID-19 antibodies increased 6%, highlighting solid momentum for our core business. Full year revenue growth was 10% on that latter basis. Gross margin as a percent of revenue declined 250 basis points to 76.1% in Q4. The decrease in gross margin percent was driven by higher sales of COVID-19 antibodies with shipments this quarter of bamlanivimab and etesevimab also having lower gross margin profile compared to bamlanivimab sales in the base period.
+Total operating expenses grew 5% this quarter. Marketing, selling and administrative expenses increased 2% while R&D expenses increased 7%, driven by higher development expenses for late-stage pipeline opportunities, including donanemab, pirtobrutinib and tirzepatide, which were partially offset by lower development expenses for COVID-19 therapies. We invested approximately $40 million in research and development for COVID-19 therapies in Q4, bringing our total COVID-19 R&D investment to approximately $400 million for the full year.
+Operating income increased 3% compared to Q4 2020, and operating income as a percent of revenue was 31.7% for the quarter, a decrease of 130 basis points. This decrease was driven by lower gross margin percent partially offset by lower marketing, selling and administrative expenses as a percent of revenue. Full year operating margin was 29.9%, in line with our expectations.
+Other income and expense was an expense of approximately $7 million this quarter compared to an expense of $31 million in Q4 2020. Our Q4 effective tax rate was 10.3%, a decrease of 280 basis points driven primarily by net discrete tax benefits. At the bottom line, we delivered solid growth as earnings per share increased 8% in Q4 and 20% for the full year.
+On Slide 9, we quantify the effect of price, rate and volume on revenue growth, and we continue to be encouraged by the growth seen across key geographies. This quarter, U.S. revenue grew 13%. Excluding revenue from COVID-19 antibodies, revenue grew 11% in the U.S. This growth driven by volume was led by Trulicity, Taltz, Jardiance, Verzenio and Olumiant. The net price decline of 2% in the U.S. this quarter was driven by lower realized prices for insulins, primarily due to changes to estimates for rebates and discounts. For the full year, our U.S. net price decrease of 1% was in line with our expectations.
+Moving to Europe, revenue in Q4 declined 3% in constant currency. Excluding the impact of the loss of exclusivity for Alimta, revenue grew 11% in constant currency, driven primarily by volume growth for Trulicity, Olumiant, Taltz and Verzenio. We are encouraged with the momentum of our business in Europe and expect continued growth excluding Alimta.
+In Japan, revenue in Q4 decreased 14% in constant currency. Revenue in Japan continues to be negatively impacted by decreased demand for several products that have lost market exclusivity, including Cymbalta and Alimta as well as by the COVID pandemic. With key growth products now representing 56% of total Japan revenue, we expect to return to growth beginning in 2023.
+In China, revenue grew 13% in constant currency, primarily driven by volume from our continued uptake of Tyvyt and Trulicity as well as the timing of supply for Cialis to the third-party selling the product. Q4 revenue growth was negatively affected by the updated 2022 NRDL price reductions on inventory already in the channel especially for Tyvyt. In 2022, we expect the NRDL price reduction headwind to largely offset volume growth in Q1, but we also expect volume growth to accelerate throughout the year and exceed the impact of these price reductions. Moving forward, we're excited about the significant growth we're seeing in China, over 40% in constant currency in 2021, with improved access expected to continue to drive future growth.
+Revenue in the rest of the world increased 16% in constant currency this quarter, driven primarily by sales of neuro medicine.
+We continue to expect a mid-single-digit net price decline in 2022 for the U.S., Europe and Japan. In China, the expanded NRDL access for our products should lead to significant volume increase but also high double-digit decline in price. As a result, we expect total company net price decline in the high single digit in 2022. At the bottom of the slide is the price, rate and volume effect on revenue for all 2021, which shows strong double-digit volume-driven revenue growth across most major geographies. As shown on Slide 10, our key growth products continue to drive robust worldwide volume growth. These products drove 14 percentage points of growth this quarter and continue to bolster our overall performance and outlook.
+Slide 11 further highlights the contribution of our key growth products. This quarter, these brands generated over $4.2 billion in revenue and made up 61% of our core business revenue. In Q4, these newer medicines grew by 28%, and Trulicity, Jardiance, Taltz and Verzenio all continued to outgrow their respective classes. We are particularly pleased with the continued market growth of both the GLP-1 and the SGLT2 classes where Trulicity and Jardiance are market leaders. We are also encouraged by the strong uptake of Verzenio we saw in Q4, driven by the approval and launch of the adjuvant indication, which has led to an inflection in both new and total prescriptions.
+On Slide 12, we provide an update on capital allocation. In 2021, we invested $9.3 billion to drive our future growth through a combination of R&D expenditures, business development outlays and capital investments. In addition, we returned approximately $3.1 billion to shareholders in dividends and repurchased approximately $1.3 billion in stock. Our capital allocation priorities remain unchanged as we continue to fund our marketed products and expected launches, invest in our pipeline, evaluate opportunities for external innovation to augment our future growth prospects and return excess capital to shareholders.
+On Slide 13 is our 2022 financial guidance we issued in December. As I shared then, the financial impact from the loss of exclusivity of Alimta in Europe and Japan will continue in the first half of 2022 while the impact from Alimta's U.S. patent expiry will start with the limited launch from a single generic company in Q1 before the full launch of additional generic entrants starting in Q2. We expect roughly $375 million of revenue from COVID-19 antibodies in Q1 from the shipment of the remaining doses attributable to last November's U.S. government purchase agreement. We continue to invest in our bright future, advancing promising R&D opportunities and preparing for exciting potential launches from our late-stage pipeline, which we believe will help drive top-tier revenue growth through at least 2030.
+Now I'll turn the call over to Dan to provide an update on our pipeline.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [5]
+--------------------------------------------------------------------------------
+Thank you, Anat. 2021 was a remarkable year for Lilly's pipeline. We delivered positive data on 5 molecules: tirzepatide, donanemab, pirtobrutinib, mirikizumab and lebrikizumab, all of which have the potential to launch in the next 2 years. And we're excited about the potential these molecules hold for patients. In addition, we launched and submitted several key new indications for in-market products, including important new indications for Verzenio and Jardiance. And also, we advanced our early-stage pipeline.
+Just a few weeks ago, we provided an extensive R&D update across our therapeutic areas and shared our excitement about the next wave of innovation coming from Lilly. As a result, today's R&D update will be brief and focus on the progress we've made since our last earnings call.
+Slide 14 shows select pipeline opportunities as of January 31, and Slides 15 and 16 show a recap of 2021 key events and potential key events for 2022. In diabetes, with the recent submission in Japan, we've now submitted tirzepatide across all major geographies for the treatment of type 2 diabetes. We look forward to potential approvals for this important medicine this year. We anticipate U.S. regulatory action in type 2 diabetes as well as the top line readout from SURMOUNT-1, both by midyear. In Japan, we submitted Jardiance for heart failure with preserved ejection fraction and received approval for Jardiance for treatment of heart failure with reduced ejection fraction.
+Moving to oncology. We shared encouraging updated data at ASH for pirtobrutinib for both chronic lymphocytic leukemia and mantle cell lymphoma. We continue to progress this molecule and initiated another Phase III study in first-line CLL comparing pirtobrutinib to chemoimmunotherapy. During our December meeting, we also announced the initiation of a rolling submission for pirtobrutinib for MCL in the U.S. We plan to complete this submission this year with anticipated regulatory action in early 2023, and we're excited to potentially bring this important medicine to patients on this accelerated timeline.
+For Verzenio, we received approval for high-risk early breast cancer in Japan for the cohort 1 population study to monarchE and are pleased that this approval represents 90% of the intent-to-treat population. We've also made the difficult decision to terminate further enrollment in the Phase III study of Verzenio for HR+/HER2+ early breast cancer in response to the changing treatment landscape and global enrollment challenges. Importantly, this decision does not change our commitment to and investment in breast cancer. In addition, we began a Phase III study for selpercatinib for the treatment of adjuvant RET-positive non-small cell lung cancer, and we also dosed the first patient in the U.S. trial of our BCL-2 inhibitor.
+In immunology, we announced positive top line data for our Phase III maintenance study of mirikizumab in ulcerative colitis. We're pleased that the study met all primary and key secondary endpoints, and we look forward to submissions in the first half of this year. We also announced positive top line Phase III results for lebrikizumab in combination with topical corticosteroids, and we're encouraged that data to date has demonstrated a competitive profile for treatment of atopic dermatitis. We await maintenance data for lebrikizumab in the first half of this year in advance of global submissions which are expected by the end of 2022.
+Moving to baricitinib. We announced last week that based on top line efficacy results from 2 Phase III trials, we've decided to discontinue the Phase III development program for lupus. For atopic dermatitis in the U.S., we're in ongoing discussions with the FDA but do not have alignment with the agency on the indicated population, which could possibly lead to a complete response letter. We expect regulatory action for this indication very soon. Finally, we have submitted baricitinib for alopecia areata in the U.S. and hope it will become the first medicine approved for patients living with this disease later this year. In our early phase immunology portfolio, we started a new Phase I study for a CD19 antibody and we've discontinued our oral IL-17 inhibitor.
+Moving to neurodegeneration. In our early-phase pipeline, we announced that we've received Breakthrough Therapy Designation for N3pG4, an additional amyloid-lowering agent for which we intend to initiate pivotal trials by the end of this year. We have evidence that this therapy has completely and rapidly cleared amyloid plaque, and we're exploring flexible dosing regimens, including subcutaneous dosing. For the treatment of Alzheimer's disease, we also began a Phase II trial for our O-GlcNAcase inhibitor, an oral small molecule targeting tau. While donanemab has been a primary focus for investors, we're pleased with the continued clinical advancement of the rest of our neurodegeneration pipeline.
+Now turning to donanemab. In December, we initiated 2 additional Phase III studies: TRAILBLAZER-ALZ 3, our prevention study for asymptomatic Alzheimer's disease; and TRAILBLAZER-ALZ 4, our head-to-head plaque clearance study compared to Aduhelm. It's been less than 1 year since we published the positive randomized controlled TRAILBLAZER-ALZ study, which demonstrated clinically meaningful benefits on endpoints of cognition and function. Since then, we have focused investors on the need for replication from our well-designed expanded Phase III study, TRAILBLAZER-ALZ 2, which is now fully enrolled and expected to read out in mid-2023. While a lot has happened in this space during this last year and more events are likely before we get top line results next year, what hasn't changed for us is the importance of the TRAILBLAZER-ALZ 2 readout and our confidence in both donanemab and the unique study design. Given the impact of this devastating disease, we believe that if TRAILBLAZER-ALZ 2 provides positive confirmatory data, we can't see a scenario where there's not global reimbursement, patient access and broad use of donanemab.
+We noted last year that we had low expectations for the use of donanemab during the period between potential accelerated approval and the availability of confirmatory Phase III data in mid-2023. We're disappointed with the position that Centers for Medicare and Medicaid Services has taken in its draft national coverage determination decision, and those low expectations could now extend for some months beyond the TRAILBLAZER-ALZ 2 readout if reconsideration of CMS coverage determination is required, given historical timelines for this process. While the accelerated approval pathway was instituted by the FDA to allow for earlier approval of drugs that treat serious conditions and fill an unmet medical need, hence providing valuable access to more patients faster than what is available under clinical trials, the NCD as currently written essentially negates that patient benefit in Alzheimer's disease.
+Still, we intend to complete our application for accelerated approval for donanemab yet this year, but we now move completion of the accelerated approval submission out of Q1. We expect further volatility and expectations as competitor Alzheimer's disease trials read out prior to our definitive data. We remain confident in the differentiation of donanemab and in our uniquely designed TRAILBLAZER-ALZ 2 study and importantly, the long-term opportunity to help patients with donanemab remains unchanged.
+Lastly, with respect to our progress with COVID-19 therapies, earlier this year, we submitted a request to the FDA for Emergency Use Authorization for bebtelovimab for treatment of mild to moderate COVID-19 for patients at high risk for progression to severe COVID-19, including hospitalization or death. This is the third antibody we have developed for the treatment of COVID-19, and authentic virus and pseudovirus assays demonstrate that bebtelovimab retains neutralization activity against Omicron as well as all other known variants of concern. We've produced several hundred thousand doses of bebtelovimab and stand ready to supply as needed if this antibody receives EUA from the FDA.
+In addition, we've also submitted a supplemental NDA for baricitinib for treatment of hospitalized patients with COVID-19 and expect regulatory action by the middle of this year. Baricitinib currently has an EUA for this indication. We're proud of the therapies we've delivered to help combat the COVID-19 pandemic, and we'll continue to do our part as public health needs emerge.
+In summary, Q4 was another productive quarter for R&D at Lilly, capping what was an outstanding year of pipeline progress on behalf of patients. Now I'll turn the call back to Dave.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [6]
+--------------------------------------------------------------------------------
+Thanks, Dan. Before we move to Q&A, let me summarize the progress we made during 2021. We delivered strong revenue growth in our core business, propelled by our key growth products. We continue to invest heavily in our pipeline and made significant progress in 2021 generating positive Phase III data for 5 new potential medicines, tirzepatide, donanemab, pirtobrutinib, mirikizumab and lebrikizumab, that we expect we will launch in the next 2 years. We also delivered positive data and launched important new indications for Jardiance and Verzenio while we continue to bolster our pipeline through business development with a focus on new modalities. Finally, we returned $4.35 billion to shareholders via the dividend and share repurchases and for the fourth consecutive year, announced a 15% dividend increase.
+As we move into 2022, we are excited to continue the progress of turning pipeline value into cash flow, starting with the potential launch of tirzepatide and the submissions of donanemab, pirtobrutinib, mirikizumab and lebrikizumab. These opportunities remind us that our purpose has never been more relevant and highlight the promise of turning science into treatments or cures for some of the most challenging human diseases like diabetes, obesity, Alzheimer's, cancers and autoimmune disorders. We are steadfast in our commitment to improve the lives of millions of patients who rely on us and are confident in our business outlook.
+So now I'll turn the call over to Kevin to moderate the Q&A session.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [7]
+--------------------------------------------------------------------------------
+Thanks, Dave. (Operator Instructions) Lois, please provide the instructions for the Q&A session, and then we're ready for the first caller.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question is from Seamus Fernandez from Guggenheim.
+
+--------------------------------------------------------------------------------
+Seamus Christopher Fernandez,  Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals    [2]
+--------------------------------------------------------------------------------
+So first, Dan, can you just give us a little bit of the thought process for pushing out the accelerated filing for donanemab? It certainly makes sense, but how much did the NCD actually work into that calculus versus needs or requests from the agency for additional data?
+And then the second question, just really wanted to get a better understanding of where you guys think -- the SURMOUNT-1 data sets, where the thresholds would be. We're seeing 68-week data from Wegovy coming in at about 15% to 17% in a nondiabetic patient population. Just wanted to get a sense of some of the pushes and pulls that we should be thinking about in the context of the SURMOUNT-1 data set.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [3]
+--------------------------------------------------------------------------------
+Thanks, Seamus. We'll go to Dan for the question on accelerated approval time line and then Mike Mason on expectations for SURMOUNT-1.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [4]
+--------------------------------------------------------------------------------
+Yes. Thank you, Seamus. It's a good question. Look, I think, as I said, the purpose of accelerated approval is to try and get medicines to help patients faster. Without access, that benefit is mainly negated, unfortunately, and clearly, a very frustrating period for patients to have approval of a drug and no reimbursement. So the CMS draft NCD proposal weighed heavily in our considerations around timing and clearly reduces some of the ability to help patients faster that we were hoping for with the accelerated approval.
+With respect to the other part of your question, which is how about requests from the FDA or new data or anything like that, there are none of those factors here. We haven't had such requests. So it's really about CMS and about our own team's ability to just get all of the data together and get the right amount of safety data compiled in a way that the FDA can analyze. So we'll continue to work towards accelerated approval yet this year but no longer in Q1.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [5]
+--------------------------------------------------------------------------------
+Thanks, Dan. Mike?
+
+--------------------------------------------------------------------------------
+Michael B. Mason,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes    [6]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question. We are excited to see the SURMOUNT-1 data. There's good theory on why someone who lives with obesity would have greater weight loss on a product like tirzepatide than those that have type 2 diabetes. Those theories tend to play out when we looked at the novo semaglutide step program where those who had -- didn't have type 2 diabetes had 6 or 7 percentage points greater weight loss than those that had type 2 diabetes.
+We don't know what it's going to turn out to be for SURMOUNT-1. We do believe that it's going to be higher in the non-type 2 diabetes patient than what we saw in the SURPASS studies. Good thing is we don't have to wait too long for those results. We expect those in the first half of this year. And so we'll be patient and look forward to the results, and I think we'll be excited by what we see.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [7]
+--------------------------------------------------------------------------------
+Thanks, Mike. Seamus, thanks for your question.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+And the next caller is Ronny Gal from Bernstein.
+
+--------------------------------------------------------------------------------
+Aaron Gal,  Sanford C. Bernstein & Co., LLC., Research Division - Senior Research Analyst    [9]
+--------------------------------------------------------------------------------
+The first one is around the N3pG4 in early AD. You're starting a second agent fairly quickly. Can you talk about other distinguishing features for this product versus donanemab? Is it just that it removes plaque best? Are there also others? For example, is it removing preferentially parenchymal plaque versus vascular plaque?
+And the second, you kind of mentioned your expectation for the NCD, but can you confirm to us that you do not expect the NCD to materially change in its final form versus the draft form? And if you can talk a little bit about the process of requesting a change to that entity once we have confirmatory data for the amyloid beta-removing drugs.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [10]
+--------------------------------------------------------------------------------
+Thanks, Ronny. We'll go to Dan for the first question on N3pG4 and then Anne for the question on the NCD expectations.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [11]
+--------------------------------------------------------------------------------
+Yes. Thanks, Ronny. On N3pG4, originally, we started working on this molecule because of antidrug antibodies that we saw and continue to see against donanemab. Because of those ADAs, we've dosed donanemab at pretty high levels. And that in combination with the formulation of donanemab have precluded the ability of generating a subcutaneous dosing form. So that was an important consideration, those 2 things I would say, for development of N3pG4.
+It binds the same epitope as donanemab. So our understanding and data suggests that it clears exactly the same types of plaques. That's important to us. I think we've seen compelling efficacy here in TRAILBLAZER from donanemab, and we want more of the same in the next molecule. So no differences here in type of plaque. I think speed of plaque removal, our expectations are it should be similar to donanemab, which is to say quite rapid. And the big advantage here is likely to be around dosing and administration.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [12]
+--------------------------------------------------------------------------------
+Thanks, Dan. Anne?
+
+--------------------------------------------------------------------------------
+Anne E. White,  Eli Lilly and Company - Senior VP & President of Lilly Neuroscience    [13]
+--------------------------------------------------------------------------------
+Well, thanks, Ronny. We believe more than likely the final NCD in April may not change very much. Really what matters most to us is ensuring rapid availability of donanemab for patients with that confirmatory Phase III data. And so that's going to be our focus with CMS. We believe that well-designed and controlled registration trials like TRAILBLAZER-ALZ and ALZ 2 should certainly provide sufficient evidence of clinical benefit for donanemab and that a CD is not needed or appropriate for donanemab.
+We're also going to see confirmation with CMS, really to your question, once this Phase III efficacy and safety have been established, that donanemab and other medicines with this level of verified evidence would be fully covered by CMS. And we want that path for this coverage to be clearly laid out. As Dan mentioned, it may take some months after the TB 2 readout to work through that, but we'll certainly focus on that. We have been and will continue to meet with CMS to make our points known and to work through what that process is.
+And I think our -- I think as Dan alluded to, what we believe is that with Phase III confirmatory data and ultimately, an FDA traditional approval, we cannot envision a reason why CMS would treat Alzheimer's disease differently than any other class of medicines. I mean this would really be unprecedented. And I believe the pushback from the patient community, from their caregivers and from those that advocate for them would be significant and CMS would have, we believe, no choice but to change it. So our focus is on that Phase III data.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [14]
+--------------------------------------------------------------------------------
+Thanks, Anne. Ronny, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+The next caller is Vamil Divan from Mizuho Securities.
+
+--------------------------------------------------------------------------------
+Vamil Kishore Divan,  Mizuho Securities USA LLC, Research Division - MD    [16]
+--------------------------------------------------------------------------------
+Maybe one follow-up on donanemab and then one other one unrelated. So in terms of -- obviously, I appreciate what you're saying around the accelerated approval and kind of changing your time line there. I'm just wondering what TRAILBLAZER 4 and if there's any reason -- I'm kind of wondering what the rationale for that trial is now given the limited uptake of Aduhelm to this point. I know we get data later this year, but I'm just wondering what makes -- if there's any sort of change in strategy or thinking around the need for that trial and what exactly that might accomplish?
+And then my second question, sort of unrelated. You mentioned around Olumiant the updates from last week, but you also have submitted for alopecia areata. I'm just wondering if you could maybe just talk a little bit about what you see for the potential, I guess, for the JAK class overall in that space but also for Olumiant specifically just given obviously the safety concerns we've seen around that product and the class from before.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [17]
+--------------------------------------------------------------------------------
+Thanks, Vamil. We'll go to Dan for the question on TRAILBLAZER 4 and then Patrik for your question on alopecia areata.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [18]
+--------------------------------------------------------------------------------
+Yes. Thanks, Vamil. You raised a good point on TRAILBLAZER 4, which is a head to head against Aduhelm. Of course, there was a lot of excitement and patient interest and investigator interest in this trial because it's 2 drugs compared to each other. So -- on the other hand, as you point out, from a commercial perspective, the importance of showing superiority to Aduhelm may have dramatically diminished, but that's okay.
+We're still committed to doing this trial. I think from a scientific perspective, there'll be important conclusions. We have a hypothesis, for example, that the more rapid and deep plaque clearance could lead to greater improvements on biomarkers. I think those kinds of assessments can only be done in a head-to-head study. So this will still be an important contribution to our overall understanding of Alzheimer's disease.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [19]
+--------------------------------------------------------------------------------
+Thanks, Dan. Patrik?
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP, Chief Customer Officer, President of Lilly USA & President of Lilly Immunology    [20]
+--------------------------------------------------------------------------------
+Thank you very much for the question. Well, we submitted Olumiant for alopecia areata to the FDA late last year, and it's now submitted to most of European and the Japanese regulatory bodies. There are currently no treatments approved for alopecia areata so we have an opportunity here to be first in disease with Olumiant. And we have been encouraged with the data that we have seen from both BRAVE 1 and BRAVE 2, both based upon physician assessment as well as self-assessment by patients.
+And there is truly an unmet need in this space. We have currently approximately 360,000 patients diagnosed in the U.S., and we believe at least 100,000 of those would be eligible for a treatment with JAK. And based upon the profile that we have seen from other assets, we believe that we can launch here with a competitive profile to help patients with alopecia areata.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [21]
+--------------------------------------------------------------------------------
+Thanks, Patrik. Vamil, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+The next caller is Steve Scala from Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+I assume that you are deep in labeling discussions on tirzepatide. What questions is FDA asking? Are you anticipating the label to read that tirzepatide is a first-line injectable or for use after other injectables fail? And since another very well managed diabetes competitor has had supply issues, I'm curious where tirzepatide is being manufactured and whether the plant has been inspected.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [24]
+--------------------------------------------------------------------------------
+Thanks, Steve. We'll go to Mike Mason for both of those questions.
+
+--------------------------------------------------------------------------------
+Michael B. Mason,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes    [25]
+--------------------------------------------------------------------------------
+Thanks, Steve, for the question. The tirzepatide submission in the U.S. is going quite well, no surprises in that. We are not getting any unusual questions.
+We're confident in our supply and confident in our supply chain. We'll be ready for launch. Our -- we did comprehensive studies for our SURPASS-5 pivotal studies for the U.S. So I think that will give us a broad label and the label we need for success. So I think things are progressing quite nicely. We're quite confident going into our launch.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [26]
+--------------------------------------------------------------------------------
+Thanks, Mike. Thanks for the questions, Steve.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+The next caller is Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [28]
+--------------------------------------------------------------------------------
+Maybe just following up on the tirzepatide front. Can you just help maybe also set some expectations of the launch as we think about 2022 into 2023? So maybe specifically, how long should we think about post approval until you'd expect broad coverage of tirzepatide? And when we maybe compare and contrast, I guess, the large -- the last large GLP-1 launch of Ozempic, are there similarities or differences we should think about as we think about kind of the state of the market today, the data you'll have, et cetera? Just to help us -- I think we all think about this is a great long-term opportunity but more just the nearer-term dynamics with that.
+And then my second question was just on insulin in 2022. Can you just elaborate a bit more about how to think about the magnitude of price erosion we could see for that franchise relative to what we saw in 2021? I'm just trying to get a sense of how different is the market dynamic, I guess, this year versus last.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [29]
+--------------------------------------------------------------------------------
+Thanks, Chris. We'll go to Mike for both of those questions as well.
+
+--------------------------------------------------------------------------------
+Michael B. Mason,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes    [30]
+--------------------------------------------------------------------------------
+Yes. Thanks for the questions. As we approach the tirzepatide launch, we'll be playing for the long term and making sure that we set the foundations up strongly for long-term success. When you have a retail product like this that goes to nearly 100,000 primary care physicians as well as needing broad access, there's little that you can do to really accelerate the launch in the first 6 months. You're also working to get access and having support programs so patients will have a good out-of-pocket experience at launch. And so I wouldn't look for the first 6 months to see a real accelerated uptake of net revenue versus other GLPs in that first 6 months. I think that will be a focus for us of just laying the strong foundations, being patient focused, getting access, driving awareness through a broad subset of physicians. That will give us that foundation to be successful long term.
+And then on insulin, when we look at the Q4 results, we did have in particular a greater-than-usual decline in our price, and that was really due to kind of a double-whammy effect. We have significant adjustments from our gross sales to our net sales. And so if our estimates are off just a little bit, that could have a significant impact on our net revenues. And so what we saw actually was that in the comparison period, in Q4 of 2020, we've experienced some positive onetime gains, and then in this quarter, we saw some negative onetime adjustments. So that's what led to what looks like a greater-than-expected net sales decline.
+And I think for our portfolio, we have provided guidance that we would be at about mid-single-digit decline. I think we'll see that greater for insulin than our net portfolio, but I don't see anything largely unexpected in '22 versus where we've seen the trends over the last couple of years.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [31]
+--------------------------------------------------------------------------------
+Maybe just to add something there, Chris. That's -- a dynamic as well is patient assistance. And as you know, Lilly has led, over the last 3 years, with a number of solutions to reduce out-of-pocket costs given the problems in the insurance markets. And those have been, in addition to the normal competitive dynamics in terms of gross to net, an important solution for patients -- actually, out-of-pocket costs for -- correct me, Mike, if I get this wrong, for patients in the U.S. dropped over the last 3 years from $34 to $21 per month on average for Lilly insulins. That's quite a bit lower than our competitors.
+But that does hit the price line for us, either through the now 70% off insulin lispro product, which is available, or through the buy-downs we do at the point of sale to $35 per month. So that's in the background. There is sort of a terminal quantity to that but we have seen good adoption. And I guess the good news is patients are taking advantage of that and it's showing up and retaining volume. It does hit the net price line though.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [32]
+--------------------------------------------------------------------------------
+Thanks, Dave and Mike. Chris, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+The next caller is Tim Anderson from Wolfe Research.
+
+--------------------------------------------------------------------------------
+Alice Jennifer Nettleton,  Wolfe Research, LLC - Research Analyst    [34]
+--------------------------------------------------------------------------------
+This is Alice Nettleton on for Tim Anderson. So a question on donanemab. The premise of donanemab is that you only dose to plaque negativity. However, to determine plaque negativity, you need a minimum of 2 PET scans and quite possibly 3, maybe even more. The CMS draft guidance only covers 1. Even if it ultimately gets revised to be more generous, if it doesn't also include increased coverage of PET scanning, then you could argue Lilly is uniquely disadvantaged versus competitors. Would be curious to hear your thoughts on this.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [35]
+--------------------------------------------------------------------------------
+Thanks, Alice. We'll go to Anne White for that question.
+
+--------------------------------------------------------------------------------
+Anne E. White,  Eli Lilly and Company - Senior VP & President of Lilly Neuroscience    [36]
+--------------------------------------------------------------------------------
+Well, thanks. And as you said, we're pleased that CMS acknowledged that there is an important role for amyloid PET in patient identification. We certainly agreed to that as well. And using amyloid PET to monitor plaque reduction and then confirm clearance is incredibly important, we believe, for patients receiving these therapies and incredibly important for the health care system because it provides clarity as to when you can essentially stop dosing of medicine. Once you've cleared the target, we believe that's the time to stop dosing. And as you know, in our data, we've shown that 40% even clear their plaque in 6 months.
+So incredibly important, we believe that the value that, that brings to the health care system far outweighs any cost that it might bring, and we've done those analyses. So it's very, very clear that when you take into account all the costs of these medicines, the infusion, the safety monitoring, you're much better off with clarity of when that plaque is cleared and stopping dosing. It's a unique attribute of donanemab that we've certainly talked to CMS and others about and they've recognized. So we believe the value proposition here is quite strong and look forward to working with CMS to get the amyloid PET CED revised in the near future.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [37]
+--------------------------------------------------------------------------------
+Thanks, Anne. Alice, thanks for your question.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+The next caller is Andrew Baum with Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [39]
+--------------------------------------------------------------------------------
+A question on lebrikizumab and then one on Verzenio. So on lebrikizumab, part of the premise in terms of differentiation versus dupi, given the IL-13 mechanism, is a lower instance of ocular events, particularly conjunctivitis, which are frequent with dupi and patient problematic. I know you haven't fully shared the data, but I wonder whether you could talk to whether the data will support that premise and positioning in the market.
+And then second, in relation to Verzenio. Given you're now rolling it out for the adjuvant setting, could you talk to what are the key barriers to adoption among oncologists? Is it tolerability in the adjuvant setting? Is it screening for the Ki-67 patients or some -- or the financial factors? And how can you resolve them?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [40]
+--------------------------------------------------------------------------------
+Thanks, Andrew. We'll go to Patrik for the question on lebrikizumab and then Jake for the question on Verzenio.
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP, Chief Customer Officer, President of Lilly USA & President of Lilly Immunology    [41]
+--------------------------------------------------------------------------------
+Thank you very much, Andrew. Based upon the data that we've seen so far, we believe that we have a competitive asset with the market leader for atopic dermatitis. And we were very encouraged with the efficacy results with more than 50% of the patients achieving at least an EASI of 75. And also consistent across all the different measures, IGA, EASI and Pruritus NRS, it met all the key secondary endpoints.
+Specific to your question on conjunctivitis, we need to wait for the 52-week data. In the induction data, we didn't see any difference to existing biologics. But the cases that we saw were all mild to moderate. And 1/3 of those had a history of conjunctivitis, and only a few of them discontinued treatment. So we are looking forward to the database lock of the maintenance treatment during the second -- first half of this year.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [42]
+--------------------------------------------------------------------------------
+Thanks, Patrik. Jake?
+
+--------------------------------------------------------------------------------
+Jacob S. Van Naarden,  Eli Lilly and Company - Senior VP & President of Lilly Oncology    [43]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question. So I think as it relates to the key barriers to adoption, I think the biggest one in the overlay, and then I'll get more specific, is just that this represents really the first new standard of care in this setting in 20 years. And so there are just a lot of physicians who have entrenched behavior and comfort with what they're doing. And so the first barrier is really around education and getting a comfort level-changing behavior. And so that -- we have a lot of tactics in place to do that, to make sure that the data on the agent are known and to answer questions that physicians may have.
+More specifically, you highlighted a few things that are good things to know, which is the Ki-67 testing requirement and the interpretation of those results and integrating them into patient selection is a new thing for docs in this setting; as well as the diarrhea management, which is a real phenomenon with Verzenio. We have protocols in place that allow it to be managed, and it tends to be a short-term side effect that can be managed. But there are a lot of physicians out there who've literally never written a prescription of Verzenio because they've been historically large IBRANCE users. And for that segment in particular, there's an education component to get them comfortable and ensure they're using the protocols that we think work really well for diarrhea management. That all having been said, we're happy with what we're seeing so far, but it is early days obviously in this launch trajectory.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [44]
+--------------------------------------------------------------------------------
+Thanks, Jake. Andrew, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+The next caller is Geoff Meacham from Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - Research Analyst    [46]
+--------------------------------------------------------------------------------
+Just have a couple of quick ones. For tirzepatide in obesity, what investments have to be made to help evolve the payer attitudes towards obesity as more of a medical condition? Obviously, it has a lot to do with benefit/risk, starting with SURMOUNT-1, and you have a competitor leading the charge as well.
+And then the second question is for pirtobrutinib. Was -- the decision to file in MCL, was it based more on unmet need and the opportunity versus regulatory feedback? I want to get a little bit more clarity on that. And with the Phase IIIs in CLL not completing for at least a few years, was there more consideration for those towards an interim look being built in? I'm just trying to think of the potential lag in commercial availability between the 2 indications.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [47]
+--------------------------------------------------------------------------------
+Thanks, Geoff. We'll go to Mike for the first question and then Jake for the second.
+
+--------------------------------------------------------------------------------
+Michael B. Mason,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes    [48]
+--------------------------------------------------------------------------------
+Yes. It's a good question on obesity and what it's going to take to unlock and build that marketplace. When you look at historically, the agent just had kind of limited weight loss. And because of that, they didn't really drive good health outcomes and that limited access, limited physicians from writing that. So we think, first of all, just having an agent like tirzepatide that could have significant and clinically meaningful weight loss is the first step of the evolution of the marketplace and the interest in that, and we've seen that in market research.
+And then we've got to begin to build the evidence to show that significant weight loss from tirzepatide will lead to hard outcomes, and that's what we're doing in our extended indication focus. We've announced a heart failure -- HFpEF study. We announced in December a sleep apnea study as well as an important morbidity/mortality study or MMO study that will look at hard outcomes for other potential outcomes like CV and others. We'll give you more information on that coming up. We also have a chronic kidney disease mechanism-of-action Phase II study that will help demonstrate why tirzepatide may work for that patient population and doing work in NASH.
+And so I think it's important for us to demonstrate -- I think we're confident that -- with the level of weight loss that we'll see with tirzepatide, that, that should lead to hard outcomes. That should then lead to earlier use of an agent like tirzepatide to really slow and disrupt the progression of obesity and really turn this into more of a preventive versus waiting for the heart outcomes to show. But that's going to be the evolution of it. We've got an extensive Phase III program in order to demonstrate the evidence we think we need to -- in order to unlock and grow access over time.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [49]
+--------------------------------------------------------------------------------
+Thanks, Mike. Jake, on pirtobrutinib?
+
+--------------------------------------------------------------------------------
+Jacob S. Van Naarden,  Eli Lilly and Company - Senior VP & President of Lilly Oncology    [50]
+--------------------------------------------------------------------------------
+Yes. So to the first part of your question around the decision to file for mantle cell, you framed it as was it unmet need versus regulatory feedback. And the answer really is both. So we've had a longitudinal conversation with the agency around this indication, showing them our clinical data at various snapshots over time. And we got to a point where we had agreement on the key components of what an NDA could look like from a clinical package perspective. And so that informed our decision to file.
+In other words, this was not a sort of unilateral Lilly decision. This was done very much in concert with FDA. And I think they and us realized the unmet need of patients in the setting and the potential proposition of pirtobrutinib there. Obviously, the ultimate approval is subject to an FDA review. So nothing's done until it's done, of course.
+As it relates to the potential lag between a mantle cell approval and a CLL approval, I think it's just too early to really comment because the latter, CLL, is really subject to the enrollment dynamics of the Phase III program. And it's just a little too early days for us to really say exactly which one of those studies will be the first to read out and when because it is so enrollment kinetics contingent. So over the course of this year, we'll have a lot more information about that, I presume, and be in a better position to prognosticate about CLL timing.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [51]
+--------------------------------------------------------------------------------
+Thanks, Jake. Geoff, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+The next caller is Louise Chen from Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [53]
+--------------------------------------------------------------------------------
+So my first question is on lebrikizumab. If it's approved, do you expect sales to come from share gains from DUPIXENT or new patient starts? And then second question is on pirtobrutinib. Do you see an opportunity for the drug in first-line treatment? And if so, do you think you need to wait for the head-to-head results before that becomes a meaningful opportunity for you?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [54]
+--------------------------------------------------------------------------------
+Thanks, Louise. We'll go to Patrik for the question on lebrikizumab's source of business and then back to Jake on pirtobrutinib.
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP, Chief Customer Officer, President of Lilly USA & President of Lilly Immunology    [55]
+--------------------------------------------------------------------------------
+Thank you very much, Louise. I think first and foremost, if we look at the atopic dermatitis space, it's pretty much where psoriasis was a decade ago. And we see a very low biologic penetration into those patients in need of treatment beyond topicals today. So we definitely see an opportunity to significantly grow the market in atopic dermatitis. But as I mentioned earlier, we also believe that we have an asset here that is very competitive with the market leader. So I would foresee that we will see an uptick both in terms of -- driven by market growth as well as competing very successfully with DUPIXENT.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [56]
+--------------------------------------------------------------------------------
+Thanks, Patrik. Jake?
+
+--------------------------------------------------------------------------------
+Jacob S. Van Naarden,  Eli Lilly and Company - Senior VP & President of Lilly Oncology    [57]
+--------------------------------------------------------------------------------
+So the pirtobrutinib opportunity we see primarily and certainly initially is in patients who have been previously treated with a BTK inhibitor or more. Obviously, we think there's a potential for the drug in the first line, and that's why we're running studies there.
+We have 2 studies that we're running in first-line CLL. One is, as you mentioned, a head-to-head study against ibrutinib. The other -- which will take a long time to read out because of the natural history of the control arm. The other is a study we just recently started against chemoimmunotherapy. That study will read out much, much quicker and, therefore, allow for the drug to be labeled in the first-line setting.
+And I think what we've learned particularly from other newer entrants in this space is that you really need to generate a differentiating data set in some way, shape or form and then have the labeled indications that allow physicians and patients to have choice. And I think in particular, the Calquence acalabrutinib program has shown that you really actually don't necessarily need direct head-to-head data to suggest differentiation or for at least physicians to perceive differentiation in different drugs so long as you have a labeled indication that allows for on-label prescribing and reimbursement. So one of the reasons that we initiated the first-line chemoimmunotherapy study was to have a path to that first-line label more quickly and allow patients and physicians to make choices.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [58]
+--------------------------------------------------------------------------------
+Thanks, Jake. Louise, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+The next caller is Umer Raffat with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Michael Gennaro DiFiore,  Evercore ISI Institutional Equities, Research Division - Equity Research Analyst    [60]
+--------------------------------------------------------------------------------
+This is Mike in for Umer. Just 2 for me. One on tirzepatide. If tirzepatide is priced at a slight premium over Trulicity on a list basis, that could theoretically mean a massive increase on a net basis. So given where prices are paid in government channels for Trulicity, can you remind us what percent of Trulicity is Medicare, Medicaid and VA? And how different is that price versus your commercial price?
+And switching gears to donanemab. For TRAILBLAZER 3, I was wondering if you guys had finalized the stat methodology for assessing the primary endpoint. I know a little while back, you had a nice poster on TRAILBLAZER 2 showing how the primary endpoints were assessed via Bayesian analysis versus MMRM. Just kind of remind us where -- if anything has been finalized for the methodology for assessing the primary endpoint in TRAILBLAZER 3?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [61]
+--------------------------------------------------------------------------------
+Thanks, Mike. We'll go to Mike Mason for the questions around tirzepatide pricing and Trulicity segments in the U.S. and then Dan for the question on TRAILBLAZER 3. Mike?
+
+--------------------------------------------------------------------------------
+Michael B. Mason,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes    [62]
+--------------------------------------------------------------------------------
+Thanks, Mike, for your question. Obviously, I won't be able to talk in too much detail around the list price or [net] price for tirzepatide. Maybe the best way to answer your question is that typically for a new product, you tend to get commercial access first, then Part D, then followed by Medicaid and other channels.
+And yes, the commercial net prices are typically higher than Part D and Part D is typically higher than Medicaid. So you will see kind of the evolution of any retail product to be a higher net price at the beginning of the life cycle. And then as the lower -- if you reach volume in lower-priced segments, you'll see that decline like we've talked about over -- with Trulicity over the last couple of years.
+Now we will have extensive patient support programs in the first 6 months for tirzepatide. So again, I wouldn't be looking too much at that for tirzepatide in the first 6 months. But overall, over the first couple of years, I think any product, you'll see that dynamic. For your specific question on Medicaid, with Trulicity, that's currently around 10% of the volume. Thanks for the question.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [63]
+--------------------------------------------------------------------------------
+Thanks, Mike. Dan?
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [64]
+--------------------------------------------------------------------------------
+Yes. Thanks, Mike, for the question on TRAILBLAZER 3. It's a good question you raised because this is a really interesting population. These are patients who have amyloid plaque in their brain but they're still cognitively normal. So what kind of endpoint is appropriate for a population like that? In our view, we're looking at progression metrics. So do they progress to a CDR rating that indicates that they now have impairment?
+So it's a bit of a binary outcome for each patient. Did they progress or did they not progress? And then you have an event-driven study with Kaplan-Meier type analysis. So that's how we're thinking about TRAILBLAZER 3 right now. And probably -- we haven't published the design paper yet, but that may yet be forthcoming. And that study is currently enrolling.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [65]
+--------------------------------------------------------------------------------
+Thanks, Dan. Mike, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+The next caller is Carter Gould with Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [67]
+--------------------------------------------------------------------------------
+I guess just first for Dan. Maybe to clarify, I mean, the language you're using around no longer Q1. I noticed -- I guess you guys weren't explicitly confirming to 2Q, so just -- maybe just clarifying then. Is that sort of time unknown, just still some time in '22? Or is it just going to kind of spill over by a couple of weeks or months?
+And then maybe for Jake on Tyvyt. When we spoke in December, I thought you were pretty balanced, if not even maybe negative on the prospects for approval based on some of the commentary around data coming out of China. Now that you've got the questions in hand, I don't know if your stance has changed or if you have any additional color to add.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [68]
+--------------------------------------------------------------------------------
+Thanks, Carter. We'll go to Dan for the question on donanemab and then Jake on sintilimab in the U.S.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [69]
+--------------------------------------------------------------------------------
+Yes. Thanks, Carter. Exactly -- you noted it correctly, which is that we're saying no longer Q1 and not providing more specificity than that. We do anticipate completing the submission yet this year. I think importantly here, we're trying to take investor focus off of like the exact timing of accelerated approval, given our very limited expectations for the impact of that accelerated approval commercially.
+We're still pursuing it. We think there's some opportunity to help patients faster through it. But I don't think investors should look at that as a big commercial inflection point. It's really around our ability to communicate the TRAILBLAZER 2 confirmatory Phase III data and then work with CMS, hopefully, before that or immediately after that to make sure there's access once we have that confirmatory data. So that's the timing, I think, investors should be focused on.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [70]
+--------------------------------------------------------------------------------
+Thanks, Dan. Jake?
+
+--------------------------------------------------------------------------------
+Jacob S. Van Naarden,  Eli Lilly and Company - Senior VP & President of Lilly Oncology    [71]
+--------------------------------------------------------------------------------
+Thanks for the question on sintilimab. So as you know, we have the FDA Advisory Committee meeting with Innovent a week from today. Our position on the matter really hasn't changed nor have our expectations. We believe that the risk/benefit of the agent is demonstrable on the basis of the well-conducted study, and we believe the results of the study are indeed applicable to a U.S. population. And we'll make our case in that respect a week from today.
+That having been said, we understand the stance of the agency may have changed or maybe we may have misinterpreted it a few years ago. And so we'll await the FDA's presentation on that topic and the feedback from the ODAC members. But we think this product, if approved, could be meaningful for patients in the United States as a result of our disruptive pricing strategy. But we obviously don't know if we'll be able to execute on that.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [72]
+--------------------------------------------------------------------------------
+Thanks, Jake. Carter, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+The next caller is Kerry Holford from Berenberg.
+
+--------------------------------------------------------------------------------
+Kerry Ann Holford,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [74]
+--------------------------------------------------------------------------------
+Two questions, please. Firstly, on Olumiant, I wonder if you could break out for us the proportion of sales in the quarter that were related to use in COVID and what your expectations are here going forward and also whether you can expand on the discussions you've had with the FDA on the atopic dermatitis indication and why you think a CRL could be forthcoming. If additional studies would be required, would you continue to pursue in this indication?
+And then secondly, on (technical difficulty), we obviously have the positive headline data from the Phase III. So I'm wondering when you will publish the full data and whether we'll get to see that ahead of your filings.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [75]
+--------------------------------------------------------------------------------
+Okay. Thanks, Kerry. We'll go to Patrik for those questions.
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP, Chief Customer Officer, President of Lilly USA & President of Lilly Immunology    [76]
+--------------------------------------------------------------------------------
+Okay. Thank you very much. Let's start with Olumiant in COVID-19. If you look at the Q4 performance of Olumiant, I think you should assume that the underlying business in rheumatoid arthritis outside of U.S. and atopic dermatitis continue to be strong. And in the U.S., the trend hasn't changed either when it comes to rheumatoid arthritis.
+In the U.S., a significant chunk of sales from Olumiant is coming from COVID-19 in Q4 and a minor chunk outside of the U.S. as well. It's really hard to predict the pandemic, but we expect to see continued sales from Olumiant also in 2022 for treating hospitalized patients with COVID-19. However, at an enterprise level, we don't foresee it to be material.
+For your second question in terms of atopic dermatitis, let me first reinforce that we are very confident when it comes to the risk/benefit profile of Olumiant across all the indications approved and studied. And we conducted 8 Phase III studies for atopic dermatitis in U.S. and outside of the U.S. And those were conducted in patients -- moderate to severely ill patients suffering from atopic dermatitis in need of systemic treatment. And that's really where we believe Olumiant is bringing the biggest benefits to patients early on in the treatment paradigm while FDA currently has a position of saving Olumiant for the refractory patients, where we see the incremental value of Olumiant to be quite limited.
+And if that doesn't change, it's likely that we will receive a complete response letter. And if so, we will continue to focus our efforts on the very successful launches that we have seen outside of the U.S. for atopic dermatitis as well as a very strong rheumatoid arthritis franchise with -- as well as preparing for, hopefully, an approval of alopecia areata in the U.S. and other markets later on this year.
+Moving on to mirikizumab. Yes, we had recently the readout of LUCENT-2 just prior to the end of last year. And we met the primary endpoint and all the secondary endpoints. And we didn't only achieve statistical significance but also clinically meaningful difference when it comes to clinical, symptomatic, histologic and endoscopic measures. And we have also conducted the first study ever with an IL-23p19 where we have demonstrated reduced bowel urgency, which we know is a major concern today for both clinicians but mainly for patients. So therefore, we are looking forward to submit mirikizumab for ulcerative colitis during the first half of this year and most likely become the first IL-23p19 in this very important space with a big unmet need and with a profile that we believe is very competitive versus both currently approved medicines and other biologics and JAKs in development.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [77]
+--------------------------------------------------------------------------------
+Thanks, Patrik. Kerry, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [78]
+--------------------------------------------------------------------------------
+The next caller is Chris Shibutani with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Chris Shibutani,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [79]
+--------------------------------------------------------------------------------
+A question about the timeline plans for filing for dmab. It's been an arena of influence from different parties, the agency, CMS, where it appears as if there is sort of instruction that have breadth of scope across multiple different a-beta antibodies. So would you say that since we know that competitor data is upcoming for additional approaches later this year, does that impact your view on your approach and timing for filing dmab?
+And then a second question would be on tirzepatide, the anticipated transition in type 2 diabetes. Trulicity has been very strong. But can you perhaps give us a better sense about how you expect that transition to play out? I think broadly, there's confidence in the profile that tirzepatide eventually will succeed in continuing the franchise position in type 2 diabetes. But would you expect for the initial tirzepatide launch to come primarily and importantly from the incidence population? Or will there be patient switching? A little insight into how that actual transition could play out in your view would be helpful.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [80]
+--------------------------------------------------------------------------------
+Thanks, Chris. We'll go to Dan for the question around donanemab filing timelines and then Mike for the transition with Trulicity and tirzepatide franchises.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP, Chief Scientific Officer & President of Lilly Research Labs    [81]
+--------------------------------------------------------------------------------
+Thanks, Chris. You raised a good point with competitor readouts for amyloid-lowering drugs coming yet this year. We have to take into account expectations for those readouts. I think from our perspective, those readouts could be challenging.
+Obviously, we designed donanemab as a molecule -- our dosing strategy, our clinical trial strategy, including who we enrolled and what endpoints we look at, in order to maximize the ability to see a positive signal. Other trials haven't done that. So therefore, it's obvious that we would think that those trials should have lower probability of success.
+I think if those trials are not successful, competitor readouts fail either because CDR Sum of Boxes is just too noisy an endpoint and that can go both ways, it could help or it could hurt, we saw that in the 2 aducanumab readouts; or because they have too many patients who are outside the optimal window of tau pathology because they're not doing that; or because they lower plaques too slowly. If any of those turn out to be correct and those trials turn out to be negative, I think that could further solidify CMS's reluctance to reimburse these drugs under accelerated approval.
+It doesn't really fundamentally change our thinking though. As I said before, the key event for us is readout of our Phase III study. I think we've optimized everything for our chances of success. And regardless of competitor readouts, if we have a positive Phase III readout on top of our already first positive randomized controlled trial in TRAILBLAZER 1, that is a very good position for donanemab, and our expectation is that's a drug that will become globally available to patients and highly used by patients.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [82]
+--------------------------------------------------------------------------------
+Thanks, Dan. Mike?
+
+--------------------------------------------------------------------------------
+Michael B. Mason,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes    [83]
+--------------------------------------------------------------------------------
+Yes. Thanks for the question on Trulicity and tirzepatide. We're blessed to have both products. We're going to be taking -- again, from a long-term perspective on tirzepatide and Trulicity, our goal is to continue to grow the market in type 2 diabetes and then really expand the incretin class into the obesity market. Within type 2 diabetes, our goal not only is to expand the market but continue to expand our share of market within the incretin market.
+When you look at the way we promote our products, we take a very patient-centric approach to identifying those patients who could best benefit from a product like tirzepatide. In our market research, as we put the profile of tirzepatide up against 16 therapies, including Trulicity, both payers and health care professionals and people who live with diabetes see the superior profile of tirzepatide when you compare that to Trulicity, our Phase III trials that showed greater weight loss, better A1c control. And it's an exact same device as Trulicity. So there is obviously interest in the product, and they do see it as a superior product from Trulicity.
+Now what will -- what I believe will happen is that we will grow our overall share and you'll get a portion of patients who may have gone on Trulicity or may be on Trulicity and maybe out of control who needs greater weight loss or greater A1c control and those patients will go on tirzepatide. So we do anticipate that there will be some conversion from Trulicity over to tirzepatide, but our focus is really going to be making sure that we grow the overall class and grow the overall share of market for the Lilly incretin franchise.
+We don't think it's appropriate to necessarily promote conversion of products. We are doing well on Trulicity, so it's not going to be a kind of internally focused conversion strategy. It's going to be very much a patient-focused product. For those patients who are out of control or need additional weight loss, tirzepatide can offer that. So we're quite excited about the opportunity to have 2 incretins in our portfolio and grow the overall class. Thank you for the question.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [84]
+--------------------------------------------------------------------------------
+Thanks, Mike. Chris, thanks for your questions.
+
+--------------------------------------------------------------------------------
+Operator    [85]
+--------------------------------------------------------------------------------
+The next caller is Evan Seigerman from BMO.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [86]
+--------------------------------------------------------------------------------
+All right. Well, if Evan is not there, we -- the queue's exhausted. We'll go to Dave for the close.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [87]
+--------------------------------------------------------------------------------
+Okay. Thank you, Kevin. We appreciate everyone's participation in today's earnings call and of course, your interest in our company.
+2021 was an incredible year for the company as we produced strong financial results and delivered important pipeline progress in each of our core therapeutic areas on behalf of the patients who rely on us. We entered 2022 with positive momentum and great focus on execution to deliver on the meaningful opportunities we have ahead of us.
+So thanks for dialing in today, and please follow up with our IR team if you have questions we have not addressed on the call. Have a good one. Take care.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

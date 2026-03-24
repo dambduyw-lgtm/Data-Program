@@ -1,0 +1,656 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2021 U.S. Bancorp Earnings Call
+JANUARY 19, 2022 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Andrew J. Cecere
+   U.S. Bancorp - Chairman, President & CEO
+ * Terrance R. Dolan
+   U.S. Bancorp - Vice Chairman & CFO
+ * Jennifer Ann Thompson
+   U.S. Bancorp - EVP, Director of IR & Economic Analysis
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Betsy Lynn Graseck
+   Morgan Stanley, Research Division - MD
+ * Robert Scott Siefers
+   Piper Sandler & Co., Research Division - MD & Senior Research Analyst
+ * John Eamon McDonald
+   Autonomous Research LLP - Senior Analyst Large-cap Banks
+ * Bill Carcache
+   Wolfe Research, LLC - Research Analyst
+ * Erika Najarian
+   UBS Investment Bank, Research Division - Analyst
+ * Michael Lawrence Mayo
+   Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+ * Kenneth Michael Usdin
+   Jefferies LLC, Research Division - MD and Senior Equity Research Analyst
+ * David Joseph Long
+   Raymond James & Associates, Inc., Research Division - Senior Analyst
+ * Gerard Sean Cassidy
+   RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+ * John G. Pancari
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst
+ * Vivek Juneja
+   JPMorgan Chase & Co., Research Division - Senior Equity Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to U.S. Bancorp's Fourth Quarter 2021 Earnings Conference Call. Following a review of the results by Andy Cecere, Chairman, President and Chief Executive Officer; and Terry Dolan, Vice Chair and Chief Financial Officer, there will be a formal question-and-answer session. (Operator Instructions) This call will be recorded and available for replay beginning today at 11:00 a.m. Central Time through Wednesday, January 26, 2022, at 10:59 p.m. Central Time.
+I will now turn the conference call over to Jen Thompson, Director of Investor Relations and Economic Analysis for U.S. Bancorp.
+
+--------------------------------------------------------------------------------
+Jennifer Ann Thompson,  U.S. Bancorp - EVP, Director of IR & Economic Analysis    [2]
+--------------------------------------------------------------------------------
+Thank you, Natalia, and good morning, everyone. With me today are Andy Cecere, our Chairman, President and CEO; and Terry Dolan, our Chief Financial Officer. During their prepared remarks, Andy and Terry will be referencing a slide presentation. A copy of the slide presentation as well as our earnings release and supplemental analyst schedules are available on our website at usbank.com.
+I would like to remind you that any forward-looking statements made during today's call are subject to risk and uncertainty. Factors that could materially change our current forward-looking assumptions are described on Page 2 of today's presentation, in our press release and in our Form 10-K and subsequent reports on file with the SEC. I'll now turn the call over to Andy.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Jen. Good morning, everyone, and thank you for joining our call. Following our prepared remarks, Terry and I will take any questions you have.
+I'll begin on Slide 3. In the fourth quarter, we reported earnings per share of $1.07 and generated total revenue of $5.7 billion. We saw strong balance sheet growth this quarter, including deposit growth of over $18 billion or 4.3% compared with the third quarter. Average loans grew by 2% linked quarter or 2.7%, excluding the impact of loan forgiveness related to PPP.
+We are encouraged by the loan growth momentum, and we have a positive outlook for 2022, given improving client sentiment and business conditions and continued strength in certain focused commercial portfolios such as ABS lending and supply chain financing.
+The significant increase in liquidity provided by the strong deposit inflows this quarter puts us in a favorable position to support future balance sheet growth. Deposit growth provided the opportunity for tactical investment and cash management strategies that pressured the net interest margin for the fourth quarter but was both accretive to net interest income and maintained asset sensitivity for our rising rate environment.
+Turning to fees. Underlying client acquisition and market share trends across our business lines were healthy and payment sales trends continued to improve on a year-over-year basis. This quarter, we released $145 million of loan loss reserves, reflecting continued strong credit quality, including a record low net charge-off ratio.
+In the lower right quadrant, you can see that our book value per share totaled $32.71 at December 31, which was 1.5% higher than September 30. Our CET1 capital ratio was 10% at December 31.
+Slide 4 provides key performance metrics. Slide 5 highlights trends in digital engagement. Digital transactions now account for over 80% of total transactions and digital loan sales account for 2/3 of total loan sales.
+Turning to Slide 6, we continue to believe our initiatives aimed at connecting our banking customers with our payment products and our services and our payments customers with our banking products and services will allow us to grow our small business relationships by 15% to 20% and related revenue by 25% to 30% over the next few years.
+Now let me turn the call over to Terry, who'll provide more detail on the quarter.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Andy. If you turn to Slide 7, I'll start with a balance sheet review followed by a discussion of fourth quarter earnings trends. Average loans increased 2.0% compared with the third quarter, driven by a 2.6% increase in commercial loans, which benefited from new business activity and improved utilization rates.
+Retail loan growth was driven primarily by higher credit card balances, growth in residential mortgages and strong production of installment loans, including auto lending. At December 31, PPP loan balances totaled $1.4 billion compared to $2.4 billion at September 30. Excluding PPP loans, fourth quarter average loans grew by 2.7% on a linked-quarter basis.
+Turning to Slide 8, total average deposits increased by $18.4 billion or 4.3% compared with the third quarter. We continued to see a favorable mix shift with an average -- with average noninterest-bearing deposits increasing by 5.4% and average savings deposits increasing by 4.4%, while higher-cost time deposits declined by 3.0%.
+Slide 9 shows credit quality trends. The ratio of nonperforming assets to loans and other real estate was 0.28% at December 31 compared with 0.32% at September 30 and 0.44% a year ago. Our fourth quarter net charge-off ratio of 0.17% improved on both a linked quarter and year-over-year basis.
+Borrower liquidity and stronger asset valuations continued to support repayment and recovery of problem loans. Our reserve release was $145 million this quarter, primarily reflecting strong credit quality metrics. Our allowance for credit losses as of September 30 -- 31 (sic - December 31) totaled $6.2 billion or 1.97% of loans.
+Slide 10 provides an earnings summary. In the fourth quarter of 2021, we earned $1.07 per diluted share. These results included a reserve release of $145 million.
+Turning to Slide 11, net interest income on a fully taxable equivalent basis of $3.2 billion came in a little higher than our expectations. The $47 million decrease compared with the third quarter was driven by an $82 million decline in PPP interest and fees, partially offset by earning asset growth.
+Our net interest margin declined by 13 basis points on a linked-quarter basis to 2.40%. The net interest margin decline was related to a 6 basis point impact from lower PPP loan interest and fees and a 6 basis point impact from elevated liquidity and related investment portfolio and cash management strategies aimed at optimizing our asset sensitivity going into 2022.
+Slide 12 highlights trends in noninterest income. Compared with a year ago, noninterest income declined by 0.6% as compared -- as strong growth in payments revenue, trust and investment management fees, deposit service charges and commercial product revenue was more than offset by a decrease in mortgage revenue, reflecting the interest rate environment and lower securities gains and other fee revenue.
+On a linked-quarter basis, noninterest income declined by 5.9%, primarily reflecting seasonally lower payments and capital markets revenues and declining mortgage banking revenue as expected.
+Slide 13 provides information on our Payment Services businesses. Sales volumes in each of our 3 businesses expect -- exceeded pre-pandemic levels in the fourth quarter despite some Omicron-related softness in late December. We expect year-over-year payments momentum to continue into 2022 as lagging sectors, such as airline, hospitality and corporate T&E, benefit from a continued cyclical recovery toward pre-pandemic levels and as our multiyear investments in e-commerce and tech-led drive secular growth improvements.
+As we saw in our earnings press release this morning, effective January 3, U.S. Bank has eliminated fees for certain non-sufficient funds. We believe this is not only the right thing to do for customers, but it is a smart business decision.
+For some time, we have been at the forefront of using digital technology to help our customers avoid overdraft charges, and our efforts have helped our customers more easily and effectively manage their money, which has contributed to increased customer satisfaction. This latest move is simply the next step in the process.
+Turning to Slide 14, noninterest expense increased by $104 million or 3.0% compared with the third quarter. This increase was driven by higher medical claims within employee benefit expense and higher professional services expenses, higher marketing and business development costs. Tax credit amortization expense was also higher in the fourth quarter, in line with typical seasonal trends.
+Slide 15 highlights our capital position. Our common equity Tier 1 capital ratio at December 31 was 10.0%, which decreased slightly compared with September 30, driven by risk-weighted asset growth and the impact of acquisitions completed near the end of the quarter.
+As a reminder, at the beginning of the third quarter, we suspended our share buyback program due to our recent announcement that we have agreed to acquire Union Bank. We continue to expect that our share repurchase program will be deferred until the second half of 2022. After the closing of the acquisition, we expect to operate at a CET1 capital ratio between our target ratio and 9.0%.
+I will now provide some forward-looking guidance. We expect both net interest income on a taxable equivalent basis as well as our net interest margin to be relatively stable on a linked-quarter basis, with growth expected in subsequent quarters.
+With our base case -- under our base case scenario, which incorporates 3 rate hikes, we expect full year 2022 net interest income on a taxable equivalent basis to increase at a mid-single-digit pace. We expect mortgage revenue to be slightly lower in the first quarter on a linked-quarter basis, in line with slower refinancing activity in the market.
+Payments revenue is seasonally lower in the first quarter. On a year-over-year basis, we expect total revenue to increase at a high single digit pace, driven by double-digit growth in both merchant processing revenue and corporate payments revenue.
+We expect credit card revenue to be stable on a year-over-year basis as high single digit growth in credit and debit card fees is offset by lower prepaid processing fees. Excluding the prepaid headwind, which will abate after the first quarter, we expect total payment revenue to increase at a low-teen rate on a year-over-year basis in the first quarter.
+We expect other revenue to approximate $125 million to $150 million per quarter over the course of 2022. We expect expenses to be relatively stable in the first quarter compared with the fourth quarter.
+Credit quality remains strong. Over the next few quarters, we expect the net charge-off ratio to remain lower than historical levels but will normalize over time as the effects of the pandemic continue to subside. For the full year 2022, we expect our taxable equivalent tax rate to be approximately 21.0%. I will hand it back to Andy for closing comments.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, Terry. Fourth quarter results were in line with our expectations, and we are starting off the year with momentum building across our lending and fee businesses. We feel good about the trajectory of loan growth and are well positioned to benefit from a rising rate environment. We expect client acquisition growth and account penetration to drive market share gains across our fee businesses.
+In particular, we believe 2022 will be another good year for our payments business. Due to the Omicron surge, year-over-year sales growth has slowed somewhat in the past few weeks from the exceptionally strong pace we saw in the second half of 2021. However, growth rates remain strong, and we believe this will likely prove to be a speed bump rather than an extended slowdown. Nonetheless, the situation is fluid, and we'll continue to monitor trends closely and update you along the way.
+Our investments in technology to support our digital transformation and payments ecosystem initiatives are paying off, and we continue to look for uses of capital that will drive higher returns. In the fourth quarter, we acquired TravelBank, a fintech that provides tech-driven expense and travel management solutions to help businesses manage their operations more efficiently.
+Also in the fourth quarter, we closed on the acquisition of PFM Asset Management, which not only increased our assets under management but has enhanced our position in a niche area within the money market world.
+We are looking forward to closing our previously announced acquisition of Union Bank later this year. The addition of Union Bank will increase our scale, improve our market share in a demographically attractive market and add over 1 million consumer clients and over 190,000 business banking customers to whom we can offer our leading digital capabilities and our expansive product set. The strategic and financial benefits of this combination will accrue to shareholders over many years.
+But the numbers only tell part of the U.S. Bank story. As we start a new year, I want to emphasize that how we do things will continue to be as important as what we do. And so in closing, I'd like to thank our employees who come in every day with the goal of doing the right thing for our customers, our communities, their fellow employees and all our constituents. Thank you for helping to make 2021 a successful year and positioning us well for the future. We will now open up the call to Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Your first question is from the line of Scott Siefers with Piper Sandler.
+
+--------------------------------------------------------------------------------
+Robert Scott Siefers,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [2]
+--------------------------------------------------------------------------------
+Let's see. Maybe, Terry, I was hoping you could please discuss in just a bit more detail your updated thoughts on rate sensitivity given some of the changes in the balance sheet in the fourth quarter.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [3]
+--------------------------------------------------------------------------------
+Yes. So we had the opportunity, because of the deposit flows, to be able to both invest in investment securities to help a little bit in terms of the fourth quarter. But we also, at the same time, utilize hedging strategies to keep the duration of that part -- of those purchases relatively short.
+And the expectation, Scott, is that when long-term rates rise, which we're starting to see now, that we're going to be able to unwind those swaps and to be able to take advantage of the rising rate environment. So we did all of that fundamentally to be able to maintain as much asset sensitivity going into 2022 as we possibly could.
+
+--------------------------------------------------------------------------------
+Robert Scott Siefers,  Piper Sandler & Co., Research Division - MD & Senior Research Analyst    [4]
+--------------------------------------------------------------------------------
+Perfect. Okay. Good. And then perhaps either for Andy or Terry, maybe just a thought or comment regarding the anticipated kind of composition of loan growth through 2022. Certainly, it sounds like a constructive outlook, but maybe just kind of commercial versus consumer as you see it.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [5]
+--------------------------------------------------------------------------------
+Yes. So maybe I'll just kind of start with fourth quarter. One of the things we saw in the fourth quarter, not only strong consumer continuing, but the C&I portfolio actually starting to expand very nicely. And we talked a little bit about that.
+So as we look into 2022, we continue to expect that consumer credit is going to continue to strengthen. Auto lending may be a little bit more moderate than it was in 2022, but I think credit card continues to be very strong as payment rates come down. And then we also would expect that residential mortgage portfolio loans would be growing.
+But I think the real story is that we're now starting to see a nice shift with respect to the commercial -- the C&I portfolios. We're continuing to see growth in certain segments like asset-backed securitization, lending and some of those sorts of things that we saw earlier in the year. But at the end of the -- in the fourth quarter -- in the end of the fourth quarter, we saw a nice expansion of utilization rates. I think it was like 60 basis points on average third versus fourth quarter, but in December, it was up almost 2.5%. And we would expect to kind of see that.
+I think the other thing I would say is that sentiment on the commercial side, people are rebuilding their inventories. I think from a supply chain perspective, they still have some concerns about that. And so I think that they're being cautious about making sure that they have inventory to be able to run their business. And I think they're starting to make business investment ahead of the consumer spend that they see and the economic growth that they see in 2022. So Andy, what would you add?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [6]
+--------------------------------------------------------------------------------
+Terry, I think you hit the high points. And 2 changes in trends in the fourth quarter that look positive going into 2022, Scott. Number one, as Terry mentioned, the increase in utilization rates, which we haven't seen for a number of quarters. And secondly is the start of the decline in payment rates, which helps credit card volumes. So those are 2 positives I'd call out as well.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Your next question is from the line of Gerard Cassidy with RBC.
+
+--------------------------------------------------------------------------------
+Gerard Sean Cassidy,  RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst    [8]
+--------------------------------------------------------------------------------
+Andy, coming back to the big transaction that, obviously, you guys are doing, you touched on all the benefits the Union Bank will bring to the table to U.S. Bancorp. Can you share with us what the update is on the regulatory approval process?
+There's a lot of, obviously, uncertainty in Washington today at the Fed and other regulatory agencies with the heads -- new heads coming in over time. Maybe an update there. Could this be delayed? Is there -- what is the risk of it just being delayed getting the approval?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [9]
+--------------------------------------------------------------------------------
+Yes. Thanks, Gerard. So we submitted our application in early October. We've been working with Union Bank, and we have a number of acquisition teams, both on our side as well as the Union Bank side, working on integration activities, including technology and -- as well as the business lines. And we've been responding and working with the regulators in terms of questions on the submission, which is normal course for this process.
+So we continue to believe that this will close in the first half. It may be later in the first half, but that's our continued belief with the conversion in the late third quarter or September-October time frame. So nothing to have us believe that it would be any different from that. And we're preparing for that time frame.
+
+--------------------------------------------------------------------------------
+Gerard Sean Cassidy,  RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst    [10]
+--------------------------------------------------------------------------------
+Very good. Obviously, there's a lot of discussion on your call and other calls about asset sensitivity and what the outlook is for this year. But pivoting for a moment, I'm kind of looking at what we're all going to be talking about on the fourth quarter call for '22 in January of '23. And I get a sense it might be more about credit than it is today.
+And you guys have stood out as being some of the best underwriters in the industry. Can you share with us what are you seeing out there in terms of underwriting from your competitors? Are people getting more aggressive to generate revenue, loan growth? Or no, everybody is still pretty conservative?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [11]
+--------------------------------------------------------------------------------
+Yes. Gerard, I think the way I would kind of describe it, from our perspective, we haven't changed our credit box really at all. We really try to underwrite through the cycle. I think that there has been a lot of competition in the industry for loan growth over the last 12 months. And as you know, when the cycle turns, it's the decisions you make today that are going to end up impacting you 2 or 3 years down the road.
+So I do think that credit normalizes as we go through the year. I don't know if we quite get back to where we were pre-pandemic, but I think that it will start to migrate in that direction. I would say that if there is a loosening from an underwriting perspective, maybe [we'll] stretch it a little bit more with respect to structure. But it has been competitive, both from an underwriting perspective as well as from a pricing perspective out there.
+
+--------------------------------------------------------------------------------
+Gerard Sean Cassidy,  RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst    [12]
+--------------------------------------------------------------------------------
+And just to follow up on that quickly, Terry. How about exceptions? Are you seeing more exceptions to the credit underwriting box to get deals done?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [13]
+--------------------------------------------------------------------------------
+Again, from our perspective, we really haven't changed our approach at all. Again, I think from a competitive standpoint, again, they're focused on being as competitive as they possibly can in terms of the underwriting and their structures and their pricing. So -- but from our perspective, we haven't really changed our approach.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Your next question is from the line of John McDonald with Autonomous Research.
+
+--------------------------------------------------------------------------------
+John Eamon McDonald,  Autonomous Research LLP - Senior Analyst Large-cap Banks    [15]
+--------------------------------------------------------------------------------
+Andy, maybe from a high-level perspective, you might not want to give specific guidance, but just kind of your thoughts about the revenue and expense dynamics that you're looking at heading into '22. Maybe some thoughts on the revenue headwinds and tailwinds that you're looking at and how you plan on managing inflation on the expense base. And just kind of overall, how does operating leverage feel as a goal for this year.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [16]
+--------------------------------------------------------------------------------
+Sure, John. And Terry gave a little guidance on net interest income for the year, but I will talk about the full balance sheet and income statement. We continue to expect mid-single-digit earning asset growth for the year. That loan momentum that we talked about looks positive going into 2022. We would expect revenue growth of 3% to 4%, John, on a full year basis as well as positive operating leverage of at least 100 basis points for 2022.
+
+--------------------------------------------------------------------------------
+John Eamon McDonald,  Autonomous Research LLP - Senior Analyst Large-cap Banks    [17]
+--------------------------------------------------------------------------------
+Got it. And then on the -- maybe just a question on the NII guide, Terry. You mentioned 3 hikes. Just what's the cadence of what you've built in on that? And is there any rule of thumb for what one Fed hike of 25 basis points does to the NIM or NII, everything else equal? That might be helpful for us.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [18]
+--------------------------------------------------------------------------------
+Yes. So our base case, as we said, bakes in 3 rate hikes really starting in the second quarter, and then kind of as you might expect through the rest of the year. What we -- if you go back to our -- just our disclosures at the end of the third quarter, it really hasn't changed a lot.
+A 50 basis point shock is about 3.5% from a net interest income standpoint. So that -- I would kind of refer you back to that. If you think about 3 rate hikes kind of on that pace, you're probably talking about the equivalency of about a 35 basis point shock. So if you're kind of doing the math, you can kind of go to that.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [19]
+--------------------------------------------------------------------------------
+And Terry, all those numbers are the impacts of net interest income. In addition, we have our waivers, which totaled about $70 million a quarter, John. And you get about 2/3 of that back at the first rate hike of 25 basis points and about 90% of it back at the second rate hike.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Your next question is from the line of Betsy Graseck with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Betsy Lynn Graseck,  Morgan Stanley, Research Division - MD    [21]
+--------------------------------------------------------------------------------
+A couple of questions. Just on the guide, a couple of cleanups. The NII, mid-single-digit pace, is that a Q-on-Q from 1Q? Or that's a full year '22 versus full year '21, excluding Union Bank?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [22]
+--------------------------------------------------------------------------------
+That -- everything is excluding Union Bank, and it's tended to be the guidance that we're giving for 2022.
+
+--------------------------------------------------------------------------------
+Betsy Lynn Graseck,  Morgan Stanley, Research Division - MD    [23]
+--------------------------------------------------------------------------------
+Right. So that's versus full year '21.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [24]
+--------------------------------------------------------------------------------
+Full year versus full year. Yes.
+
+--------------------------------------------------------------------------------
+Betsy Lynn Graseck,  Morgan Stanley, Research Division - MD    [25]
+--------------------------------------------------------------------------------
+Right, right, right. Okay. All right. I just want to make sure. And then when I'm thinking about the positive operating leverage of at least 100 basis points, that's obviously a nice uptick from what you've been doing recently. Can you -- over the past couple of years, I guess.
+Can you kind of highlight, is this a function of the rate environment being better primarily? Or is it also from some of the investment spend that you've been making that you are leveraging and basically able to switch on the optimization side of the investment spend?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [26]
+--------------------------------------------------------------------------------
+Yes, Betsy. I would say, it's kind of a combination of both. I mean, the improving revenue environment certainly helps that. But we have been, as you say, making some significant investment in digital capabilities. And as that investment matures, we kind of fully expect that we would see some operating efficiencies on the expense side.
+We have been working through tech modernization, which that helps us. And we're always looking for kind of -- from a continuous improvement point of view, trying to optimize the branch network as well as our operations. So I think it's a combination of both.
+
+--------------------------------------------------------------------------------
+Betsy Lynn Graseck,  Morgan Stanley, Research Division - MD    [27]
+--------------------------------------------------------------------------------
+Okay. And on the investment spend side, there'll be some in integrating Union Bank, of course. But beyond that, where would you be targeting investment dollars from here?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [28]
+--------------------------------------------------------------------------------
+Yes. I think that when we think about our technology investment, continuing to have investment in our mortgage business and our digital mobile app capabilities, but a strong focus on real-time payments, money movement and on the whole B2B side of the equation is going to be important. And then of course, we've been talking about the ecosystem between our payments business and our business banking. And so we'll continue to make investment there.
+So I think it's kind of a continuation of many of the same themes that we've had over the last year. We -- on a core basis, we really don't expect any significant increase in the investment levels, but we continue to expect that we will maintain those investment levels going forward.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Your next question is from the line of Ken Usdin with Jefferies.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [30]
+--------------------------------------------------------------------------------
+A couple of NII cleanups, please. So you mentioned that PPP was an $80 million decline, which I think was bigger than what you had anticipated previously at $60 million or $70 million. I'm just wondering, what is in -- what kind of PPP decline do you still have in that first quarter outlook for NII, flat sequentially?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [31]
+--------------------------------------------------------------------------------
+Yes. So I mean, the decline from third to fourth quarter was the most significant. It was a little bit higher than what we had expected. Part of that is because some of what we had expected to occur in 2022 actually kind of got pulled forward into the fourth quarter. Currently, in our baseline, our expectation is that there will be a very immaterial decline in PPP going from fourth to first. It's about $15 million, $16 million. So it's pretty insignificant.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [32]
+--------------------------------------------------------------------------------
+Okay. And is that the last kind of meaningful step-down from there? Does it pretty much wind out from there? Just trying to get to like that baseline where we can move past the PPP.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [33]
+--------------------------------------------------------------------------------
+I really -- we look at 2022 as being past PPP in all respects. So yes, I would agree that the first quarter is probably the last step-down that we have. And again, it's not really significant, and it's incorporated into our guidance.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [34]
+--------------------------------------------------------------------------------
+Yes. Okay. Second question, obviously, you did decide to buy securities, looks like, $30 billion-something. The yield on the book went down a little bit. Just wondering if you can help us understand the premium and delta and also just where you're buying versus runoff, front book, back book at this point.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [35]
+--------------------------------------------------------------------------------
+Yes. So you're right, we did step up the investment portfolio a lot. It has to do with what I talked about earlier in that deployment of excess cash. We made that deployment in the fourth quarter. And while we did it in treasuries, we swapped it short. And so that is why you see net interest margin coming down as well as the yields related to the investment portfolio coming down.
+But we also did that because we want maximum flexibility. As rates -- as long-term rates start to rise, we would expect to kind of unwind that, the benefit coming through in 2022. So that's kind of how we're positioning it in terms of the overall investment portfolio. A vast majority of it was shorter term and with the hedging strategies.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [36]
+--------------------------------------------------------------------------------
+And just to follow up on that. So when you say you unwind it, do you mean that you're at the right size now? Or you'd rather see it go into loans? Meaning, like how do you think about the mix of the balance sheet and earning asset mix as you look further ahead?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [37]
+--------------------------------------------------------------------------------
+Yes. And as we go forward, I would expect that our investment portfolio will be relatively flat to fourth quarter levels. That's kind of our expectation. So the vast majority of earning asset growth is more on the loan side than it is in other areas.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Next question is from the line of John Pancari with Evercore.
+
+--------------------------------------------------------------------------------
+John G. Pancari,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst    [39]
+--------------------------------------------------------------------------------
+Just on the loan growth front, I heard the color you gave in terms of some of the drivers you saw in the quarter on the commercial side, et cetera, the end of period balances came in a fair amount above average. Is that a good indicator as we model out?
+And then separately, anything you can attribute, aside from just the continued macro strengthening, to the notable strength you saw in end-of-period growth this quarter? I mean it's better than a lot of your peer banks. Any calling efforts or pricing campaign or anything else to call out on that front?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [40]
+--------------------------------------------------------------------------------
+Yes. So you're right, John, we did see some pretty significant growth in terms of end-of-period balances. I think that that sets us up well with respect to 2022. One of the things, it's a little bit hard because you have LIBOR transition and everything else happening. We don't know whether or not some of that is just people pulling forward LIBOR a little bit into 2021.
+But when we talk to our customers, I guess, the thing that we see is that the underlying momentum, the underlying sentiment is pretty strong. They're actively out building their inventories again. And all those sorts of things, I think, is when we think about kind of our baseline growth going into 2022 why we're pretty optimistic.
+But you are right, the end-of-period balance growth was pretty significant for us. And it wasn't because of any one specific thing that we were doing. It was pretty broad-based across segments, across categories and across geographies.
+
+--------------------------------------------------------------------------------
+John G. Pancari,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst    [41]
+--------------------------------------------------------------------------------
+Got it. That's helpful. And then separately, on the payments side, just higher level, given the clearly intensely competitive payments backdrop, I want to see if you can kind of elaborate on U.S. Bancorp's value proposition in the payments business as we continue to get this macro reopening or strengthening.
+And as T&E spend rebounds as you've been flagging, how would you characterize your positioning in terms of a value proposition for customers?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [42]
+--------------------------------------------------------------------------------
+Yes, John. So we've talked about the fact that we're trying to really weave together our banking products together with our payment products in a comprehensive product set to help businesses -- business banking customers basically manage the way they're running their cash flows and their business on a day-to-day basis. And that's our value proposition, is that combination of payments and banking and easy-to-use dashboard information to help them run their businesses and manage their cash flows on a day-to-day basis.
+That's consistent with the TravelBank acquisition that we made in the third quarter and other acquisitions, Bento and others, that we made earlier in the year. So that's the objective, and we'll continue to focus on that. And I would highlight the simplicity component of that, the navigation, the simplicity of use, is a real key to that on a go-forward basis.
+
+--------------------------------------------------------------------------------
+John G. Pancari,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Equity Research Analyst    [43]
+--------------------------------------------------------------------------------
+Got it. All right. And then one follow-up to that, Andy. Just regarding that strategy, do you think you need bolt-on deals or anything on the fintech side to continue to affect that strategy? Or do you think you have what you need?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [44]
+--------------------------------------------------------------------------------
+I think we've made a lot of investment, both organic as well as acquisition, in this capability. We're going to continue to focus on it, as Terry mentioned, but I think we have most of what we need. We just continue to model -- refine the capabilities and simplify the offering.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+Your next question is from the line of Bill Carcache with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research, LLC - Research Analyst    [46]
+--------------------------------------------------------------------------------
+I wanted to follow up on Slide 6. Within your business banking relationship at the left, there was a modest increase in the number of customers that are now also payments customers from last quarter. Can you frame for us what the revenue benefit is of seeing that light blue region continue to grow over time? And how high can that 28% go?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [47]
+--------------------------------------------------------------------------------
+Well, again, we think that we can get additional movement on both of those charts, more banking customers using payments capabilities and more banking using payments. We talked about the number of customers, the revenue, and that total bucket is about $1.5 billion as we think about the penetration. So that's the base we're working with.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research, LLC - Research Analyst    [48]
+--------------------------------------------------------------------------------
+Understood. And then maybe separately, can you give a little bit of color on the process for converting some of those business banking customers, the business banking-only customers in that dark blue region to also be users of your payment products? Just curious what the receptivity has been so far. And --.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [49]
+--------------------------------------------------------------------------------
+Yes. It's --.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research, LLC - Research Analyst    [50]
+--------------------------------------------------------------------------------
+Have you come across any pushback from customers who may already be using alternative payment solutions? Or has the customer base been broadly receptive?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [51]
+--------------------------------------------------------------------------------
+I would say that it's early innings, Bill, let me start there. But I think the fundamental offering, which is a simple, easy-to-use combination of banking and payments products in one simple dashboard to help them manage their cash flows is a receptive thought from a consumer -- from a business standpoint. So -- and that's really what we're focused on.
+Again, many of the customers have a banking product or a payments product, but it's weaving it together for that offering that we're focused on. And the receptivity of that has been pretty strong.
+
+--------------------------------------------------------------------------------
+Bill Carcache,  Wolfe Research, LLC - Research Analyst    [52]
+--------------------------------------------------------------------------------
+Got it. And then lastly, if I could squeeze in one final one on the increase in expenses attributable to compensation and employee benefits. Can you parse out for us how much of that was a function of greater production versus inflationary pressures? And how much of that upward pressure you'd expect to persist?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [53]
+--------------------------------------------------------------------------------
+Yes. I mean, certainly, what we ended up seeing, for example, in the capital markets business, it was stronger. So some of it is related to production incentives. A fair amount of it in the fourth quarter is also related to performance-based incentives that are driven by the overall performance of the company. So we did -- we certainly did see that.
+I would say, and maybe, Andy, you want to comment as well, certainly, there is a lot of competition for talent that's out there. And I think the pressure is especially when you're looking for high-skilled areas in technology and development and payments and/or digital sort of space. If you're in the hiring mode, you're paying top dollar in order to be able to acquire that. But that competition for talent is certainly increasing out there.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [54]
+--------------------------------------------------------------------------------
+I think that's right, Terry. And sometimes it takes a little longer and sometimes it's a little bit more expensive, but that's all been incorporated in the guidance that we offered for 2022.
+And then as a reminder, we -- the other area that is challenging in this environment is entry-level employees on the branch side. And we get the benefit of having Union Bank combine with us this year, which I think is a positive. And as we talked about, we're committing to front-line employees on the branch side to employment. And in this environment, that's a positive.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+Your next question is from the line of David Long with Raymond James.
+
+--------------------------------------------------------------------------------
+David Joseph Long,  Raymond James & Associates, Inc., Research Division - Senior Analyst    [56]
+--------------------------------------------------------------------------------
+The last remaining question I have is related to your reserve level. And if you look back pre-pandemic, I think you guys are targeting close to 2% in reserves. You're below that now, just below that. What is the right CECL level of reserves for U.S. Bancorp herein? And within your current reserves, on the qualitative side, how much do you have built in for maybe Omicron or the pandemic still as part of that?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [57]
+--------------------------------------------------------------------------------
+Yes, David, I mean, probably the way I would describe the last one is we still certainly believe that there's some level of uncertainty that's out there in the economy. And so we take that into consideration when we go through the different scenarios that we kind of model out.
+Maybe kind of coming back to your first question, what is the right level? I mean, obviously, that's going to end up based upon economic outlook and what happens with respect to credit quality. But what I would say, and you're right, we started the pre-pandemic or at the adoption of CECL at about 2%. When you end up looking at the mix of the portfolio and how it shifted, we're kind of right at -- we're right at kind of the level that we had started with, I guess, is the way I would describe it.
+From a reserving point of view, kind of -- I would just kind of keep in mind from -- in terms CECL, you have to provide for loan growth on day 1. And so as loan portfolio start to grow across the industry, I think the dynamic of reserve release will probably change a bit going into 2022. And again, all of that has been kind of taken into consideration when we're thinking about our baseline forecast for 2022.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+Your next question is from the line of Mike Mayo with Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Michael Lawrence Mayo,  Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst    [59]
+--------------------------------------------------------------------------------
+I'm going to give the question and I'll give a wind-up and I'll come back. But my question is, why are you not planning for even higher positive operating leverage in 2022? And as you know, going back in time, there was either some combination of Jerry Grundhofer, Jack Grundhofer or Richard Davis, who said, "If you grow revenues faster than expenses, great things happen."
+And I've asked this question before -- for the last 5 years, you guys have had negative operating leverage. And during that time, the stock price has barely moved as of year-end when banks are up almost half and the market has doubled. So I think there's some relationship between the 2.
+So it's good that you're guiding for positive operating leverage in 2022. I think that would be the first year in 6 years when you'd achieve that on a core basis. But I think you're guiding for 7% to 9% revenue growth for this year. So I guess that implies 6% to 8% expense growth, which still seems to be a lot of spending. I get it, there's wage pressures.
+So it seems to me that just from the benefit of rates, you can get positive operating leverage, which means the tech investments aren't paying off to the bottom line. Maybe -- I don't question whether they're paying off. You're a conservative, trustworthy bank. But are the tech investments paying off in a way that we as investors can see those? And why don't you have higher positive operating leverage guidance?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [60]
+--------------------------------------------------------------------------------
+Yes. Well, let me start with revenue just because I want to make sure that we're all on the same page. Earlier in the comments, we talked about the fact that we expect total revenue growth in 2022 to be in the range of 3% to 4%.
+And when you think about the components of it, Mike, the net interest income is probably going to be at the higher end or maybe even a little bit above that range, but fee income is probably going to be growing at the lower end or maybe a little bit below that range.
+And the primary drivers when you think about fee income, we're still going to see, in a rising rate environment, mortgage banking revenue coming down. And then in our, at least, residual portfolio, end-of-term losses will be coming -- or end-of-term gains will be coming down a bit, and that shows up in other income.
+So I think that there's a couple of things that will mute the growth in fee income. The other thing that we talked about a little bit earlier is some changes in terms of our overall -- our overdraft pricing, and that's going to have a bit of a drag in terms of deposit service charges in terms of fee income.
+So the range of growth again for 2022 in terms of total revenue is in that 3% to 4% range. So maybe that kind of level-sets us with respect to our guidance or our expectations for revenue.
+On the expenses, and I'll have Andy kind of weigh in, but at least 100 basis points of positive operating leverage is kind of what our expectation or target is. That's going to be balancing short-term and long-term expectations in terms of investment. But we're very committed to being able to deliver at least that in 2022. So Andy, what would you add regarding the investment?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [61]
+--------------------------------------------------------------------------------
+Yes, Mike. Just to comment on your question overall, we've been focused on making the necessary investments in our digital capabilities and our payments business as we've talked about that. We've talked to you about that. And our objective is to position ourselves to be successful in this environment. And I think we are.
+We're in a strong position. And I think you're going to start to see the benefits, both from a revenue growth standpoint as well as an expense efficiency standpoint, particularly as we see the secular trends starting to increase overall.
+So we made those investments eyes wide open, very intentional, at the same time, balancing some short-term expense opportunities on the operating core basis. So -- but I think on a go-forward basis, you're going to see positive operating leverage because of those investments.
+
+--------------------------------------------------------------------------------
+Michael Lawrence Mayo,  Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst    [62]
+--------------------------------------------------------------------------------
+So just to follow up on the technology part. When we think about your level of investment, is that still increasing? Is it increasing at a slower rate? And my understanding was your past investments were for foundation-building, non-revenue areas. And now the investments are for revenue areas. So if you could just think in terms of the tech investing relative to the payoff, where are you in terms of reaping those benefits?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [63]
+--------------------------------------------------------------------------------
+Yes, Mike, we're in level-off. So we're not going to continue to see increases in those investments. We did see some increases in the past 5 years, but I think we're at a level-set area right now, number one.
+Number two, we migrated from about 40-60 defense and offense to 60-40 offense right now. So most of the investments we're making are for revenue-generating areas, digital capabilities, payments, business banking and the other things we've talked about.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [64]
+--------------------------------------------------------------------------------
+And the other thing that I would just add maybe is -- and this is really more kind of looking into 2023, we don't really see a need to increase the amount of investment even with bringing Union Bank into the U.S. Bank fold. And that's because, as we've talked about in the past, most of this is just a lift and shift from their systems to ours. And so we'll be able to leverage all the investments that we've been making and bring a lot of digital capabilities to their customer base.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+Your next question is from the line of Vivek Juneja with JPMorgan.
+
+--------------------------------------------------------------------------------
+Vivek Juneja,  JPMorgan Chase & Co., Research Division - Senior Equity Analyst    [66]
+--------------------------------------------------------------------------------
+Couple of questions. Credit cards over period end was up only, it seems like, 1.5% linked quarter. You saw a bigger jump in, certainly, the Fed weekly data. Any color on what's going on there, why it was slow for you guys?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [67]
+--------------------------------------------------------------------------------
+In terms of credit card revenue, credit card and debit card revenue?
+
+--------------------------------------------------------------------------------
+Vivek Juneja,  JPMorgan Chase & Co., Research Division - Senior Equity Analyst    [68]
+--------------------------------------------------------------------------------
+Credit card loans, period-end loans.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [69]
+--------------------------------------------------------------------------------
+Yes. What's really being still impacted, at least for us, is the payment rate is still relatively high. It did peak in the third quarter. It came down just a little bit in the fourth quarter. So until we start to see that measurably improve, I think that's going to end up impacting growth rates of credit card loan balances.
+Our expectation, though, Vivek, is that those payment rates do start to migrate down nicely as 2022 goes -- progresses. And so I do think that that's going to be a bit of a tailwind for us as we think about loan growth. And it will also help net interest margin and, obviously, net interest income.
+
+--------------------------------------------------------------------------------
+Vivek Juneja,  JPMorgan Chase & Co., Research Division - Senior Equity Analyst    [70]
+--------------------------------------------------------------------------------
+Okay. Second question. The merchant processing decline in fees that you saw quarter-over-quarter, was that all Omicron-related in -- coming in December? Or was there something else going on there, too?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [71]
+--------------------------------------------------------------------------------
+Yes. From third to fourth quarter, that's really -- I mean, very, very little is really related to Omicron. We did see a little bit of a slow up that was kind of late in December. Really, what is happening there is that as sales continue to pick up in travel, and that sector, that tends to be a little bit of a different rate or -- and so it's more of a mix thing than it is anything else, Vivek.
+
+--------------------------------------------------------------------------------
+Operator    [72]
+--------------------------------------------------------------------------------
+Your final question is from the line of Erika Najarian with UBS.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Investment Bank, Research Division - Analyst    [73]
+--------------------------------------------------------------------------------
+I'm trying to figure out, given your outlook for positive operating leverage, why the stock has opened so weakly. So maybe following up on Vivek's question, I think that The Street had anticipated a much lower or lesser seasonal step-down in payments. So what happened with the interchange rate in the quarter?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [74]
+--------------------------------------------------------------------------------
+Yes. I mean so let me just kind of step back. And when we think about kind of seasonality in the payments business overall, usually, from third to fourth quarter, credit and debit card, depending upon the amount of investment we're making at that particular point in time, is usually -- fourth quarter is a little bit better than third quarter. But merchant and corporate payments, typically, fourth quarter is seasonally lower. And that's fundamentally kind of what we saw, both in terms of merchant and corporate.
+Now corporate ends up getting impacted by government spend, which tends to be highest in the third quarter. You got the effect of holidays impacting travel and all sorts of things with respect to payments and that sort of thing. That's why that tends to step down. So I think what we ended up seeing is fairly similar to what we would have expected in terms of the seasonality of the businesses.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Investment Bank, Research Division - Analyst    [75]
+--------------------------------------------------------------------------------
+And the lower interchange rate that you mentioned on Slide 12, was there anything unusual there?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [76]
+--------------------------------------------------------------------------------
+Yes. I mean the -- again, I think that that ends up getting impacted by the mix of the business. So as travel grows, the interchange rates and the margins associated with that particular business in the merchant acquiring is at narrower spreads. And so as that is recovering, it ends up impacting the margins a little bit.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Investment Bank, Research Division - Analyst    [77]
+--------------------------------------------------------------------------------
+Got it. Okay. And just to take another step back. On your net interest income guide for 3 rate hikes, mid-single-digit, what kind of deposit betas are you assuming? I think everybody is very well aware that your corporate trust deposits are quite rate-sensitive. But has there been a change in your mix since the '15, '18 rate cycle?
+And in general, what have you baked into your NII guide for deposit repricing? And what do you expect to actually happen?
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [78]
+--------------------------------------------------------------------------------
+Yes. So maybe at a high level, typically, what we see in the early stages of rising rates is that deposit betas don't move a lot in any of the different categories. But you are right, the trust -- corporate trust deposits tend to be a little bit more sensitive as you get into maybe the second or third rate hike.
+And so when we think about maybe that first 50 basis points, we would expect deposit betas to probably be in that 15 to 25 range and then progressively getting a little bit stronger as the cycle continues. But -- and that's kind of how we think about it.
+Now I would say that when we have looked at the mix of business we have had today versus, let's say, 4, 5 years ago, we have kind of a strong mix of consumer base, where we have seen a lot of the growth in deposits in 2021, was actually on the consumer side of the equation as opposed to some of the other businesses. And so the deposit betas, my expectation of deposit betas, especially in the early stages, are probably a little bit lower than what we have experienced in the past.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Investment Bank, Research Division - Analyst    [79]
+--------------------------------------------------------------------------------
+Got it. And just maybe a last one for Andy. As we think about USB in a cost-inflationary environment, but in an environment where -- as you said to Mike, where your investment spend is steady state, what is really the underlying -- forget to '22, but going forward next 3 years, what is the underlying expense growth of this company?
+And you had mentioned, I think, at a conference in 2021 that low 50s is something that you could achieve from an efficiency standpoint. Is that something that can only be achieved with the deals that you have pending?
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [80]
+--------------------------------------------------------------------------------
+So Erika, part of achieving that is also getting back to a more normal revenue environment, which we're starting to migrate to with rates, as we've talked about in terms of our assumptions. I would expect next year, again, that revenue growth to be well below -- that expense growth to be well below revenue growth, and that -- positive operating leverage. And I would expect us to achieve that on a go-forward basis.
+We've made the investments to position ourselves to be successful. Those investments are going to result in additional revenue, but also importantly, more efficiencies in the operations. Those digital capabilities allow us to do things more effectively and more efficiently. We've also optimized the branch network, and we're going to continue to focus on that.
+So it's sort of this balance, Erika, of optimizing the current to continue to invest for the future, and that's what we've done and that's what we'll continue to do.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+We do have a follow-up from the line of John McDonald with Autonomous Research.
+
+--------------------------------------------------------------------------------
+John Eamon McDonald,  Autonomous Research LLP - Senior Analyst Large-cap Banks    [82]
+--------------------------------------------------------------------------------
+Two quick follow-ups, one for Terry, one for Andy. Terry, could you quantify the impact of the changes you're making, the customer-friendly changes, to the NSF and OD fees and what that might be for this year on a go-forward basis as well?
+And then Andy, just kind of wondering, with all the dynamics in Washington, people are worried about the deal approval process for you and others getting delayed. What's the cost of that to the organization? Are you doing a lot of prep work that gets put on hold? And if you kind of end up -- If you do end up waiting longer for approval, what kind of cost is that to the organization? And just some thoughts on that would be helpful.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [83]
+--------------------------------------------------------------------------------
+Yes. So let me address the overdraft. If you end up looking at our call reports, 2021, I think, our overdraft fees were about a little less than 2% of total revenue or $340 million in '20. On a fully implemented sort of basis, we would expect that that impact of the changes we're making is probably in that $160 million to $170 million. And it'll -- we'll probably end up realizing about 75% of that next year.
+And the other thing that I would just mention is that with fee waivers, from a fee income standpoint, and we've taken both these things into consideration, fee waivers will help offset most of that.
+
+--------------------------------------------------------------------------------
+John Eamon McDonald,  Autonomous Research LLP - Senior Analyst Large-cap Banks    [84]
+--------------------------------------------------------------------------------
+Okay. Terry, sorry. Just next year, does that mean like next -- this year? Or --.
+
+--------------------------------------------------------------------------------
+Terrance R. Dolan,  U.S. Bancorp - Vice Chairman & CFO    [85]
+--------------------------------------------------------------------------------
+Yes, in 2022, we would realize about 75% of the full effect.
+
+--------------------------------------------------------------------------------
+John Eamon McDonald,  Autonomous Research LLP - Senior Analyst Large-cap Banks    [86]
+--------------------------------------------------------------------------------
+Yes. Okay.
+
+--------------------------------------------------------------------------------
+Andrew J. Cecere,  U.S. Bancorp - Chairman, President & CEO    [87]
+--------------------------------------------------------------------------------
+And John, we're not incurring a lot of incremental expense right now as part of the integration efforts. We have teams working on it, but they're not what I would call incremental in nature. The impact of a delay would be really delaying the efficiencies and the cost takeouts that we projected for you, and that would be the principal impact.
+
+--------------------------------------------------------------------------------
+Operator    [88]
+--------------------------------------------------------------------------------
+I will turn the call back over for any closing remarks.
+
+--------------------------------------------------------------------------------
+Jennifer Ann Thompson,  U.S. Bancorp - EVP, Director of IR & Economic Analysis    [89]
+--------------------------------------------------------------------------------
+Okay. Thank you, everyone, for listening to our earnings call. Please contact the Investor Relations department if you have any follow-up questions.
+
+--------------------------------------------------------------------------------
+Operator    [90]
+--------------------------------------------------------------------------------
+This concludes the U.S. Bancorp's Fourth Quarter 2021 Earnings Conference Call. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

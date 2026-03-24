@@ -1,0 +1,580 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2023 Bank of New York Mellon Corp Earnings Call
+OCTOBER 17, 2023 / 2:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Dermot William McDonogh
+   The Bank of New York Mellon Corporation - Senior Executive VP & CFO
+ * Robin Antony Vince
+   The Bank of New York Mellon Corporation - President, CEO & Director
+ * Marius Merz
+   The Bank of New York Mellon Corporation - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Alexander Blostein
+   Goldman Sachs Group, Inc., Research Division - Lead Capital Markets Analyst
+ * Glenn Paul Schorr
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Research Analyst
+ * Rajiv K. Bhatia
+   Morningstar Inc., Research Division - Equity Analyst
+ * Brennan Hawken
+   UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials
+ * Robert Henry Wildhack
+   Autonomous Research US LP - US Capital Markets Specialty Financials Analyst
+ * Ebrahim Huseini Poonawala
+   BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research
+ * Michael Lawrence Mayo
+   Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst
+ * Steven Joseph Chubak
+   Wolfe Research, LLC - Director of Equity Research
+ * Kenneth Michael Usdin
+   Jefferies LLC, Research Division - MD and Senior Equity Research Analyst
+ * Brian Bertram Bedell
+   Deutsche Bank AG, Research Division - Director in Equity Research
+ * Gerard Sean Cassidy
+   RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst
+ * James Francis Mitchell
+   Seaport Research Partners - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to the 2023 Third Quarter Earnings Conference Call hosted by BNY Mellon. (Operator Instructions) Please note that this conference call and webcast will be recorded and will consist of copyrighted material. You may not record or rebroadcast these materials without BNY Mellon's consent.
+I will now turn the call over to Marius Merz, BNY Mellon's Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Marius Merz,  The Bank of New York Mellon Corporation - Head of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, operator. Good morning, and thank you, all, for joining our third quarter earnings call. As always, we will reference our financial highlights presentation, which can be found on the Investor Relations page of our website at bnymellon.com. 
+I'm joined by Robin Vince, President and Chief Executive Officer; and Dermot McDonogh, our Chief Financial Officer. Robin will start with introductory remarks before Dermot takes you through the earnings presentation. Following their remarks, there will be a Q&A session.
+Before we begin, please note that our remarks include forward-looking statements and non-GAAP measures. Information about these statements and non-GAAP measures are available in the earnings press release, financial supplement and financial highlights presentation, all available on the Investor Relations page of our website. Forward-looking statements made on this call speak only as of today, October 17, 2023, and will not be updated.
+With that, I will turn it over to Robin.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Marius. Good morning, everyone, and thank you for joining us. Before we get to the earnings call, I'd like to address the horrific terrorist attack on Israel and the ongoing conflict in the surrounding region. We're heartbroken as we continue to witness a human tragedy unfold. And I'm immensely grateful and proud of our employees in Israel who despite everything that they have been going through, continue to deliver uninterrupted service to our clients. Our hearts go out to colleagues, clients and community members in the region.
+Now, I'll share some brief comments about our financial results for the third quarter and will then give a quick overview of some of our strategic priorities. BNY Mellon delivered solid financial performance and continued progress on the steady transformation of our company.
+As you can see on Slide 2 of the financial highlights presentation, we reported earnings per share of $1.22 versus $0.39 in the third quarter of last year. Excluding notable items, which primarily impacted last year's results, EPS of $1.27 increased by 5% year-over-year. We generated a return on tangible common equity of 20% on $4.4 billion of revenue, up 2% year-over-year and a pretax margin of 29% in the third quarter. 
+These results once again highlight the efficacy of our prudent and proactive asset and liability management amid a rapidly evolving operating environment.
+Net interest revenue was up 10% year-over-year as we continued to maximize the positive aspects of rising interest rates. Our strong liquidity position allowed us to reduce our wholesale funding footprint. And despite the significant steepening of the curve, unrealized losses in our investment securities portfolio remained well contained.
+Our 20% return on tangible common equity, together with all of these actions, allowed us to continue to deliver attractive capital returns to our shareholders, while further strengthening our capital and liquidity ratios to be prepared for a wide range of macroeconomic outcomes.
+As I've just rounded out the first 12 months in my seat, I'd like to take a step back for a moment and reflect on our work to date and where we're headed. Through a series of strategic reviews, we have affirmed what we believe to be our key assets. Number one, our client reach and breadth of engagement. Our top-tier clients from all regions of the world both trust and want to do more business with us.
+Number two, our collection of market-leading businesses. We're a broad-based financial services company with a balance and diversification that makes us stronger, and our unique business mix sets us apart from our competitors. And number three, our culture of teamwork. Our people are naturally collegial and seek out opportunities to work together to serve our clients and communities.
+These assets are hard to replicate, and it's rare that they exist together. But as I have acknowledged before, the company's long-term financial performance track record hasn't lived up to the quality of this franchise. As a result, we've committed to drive higher underlying growth, consistently deliver positive operating leverage and improve our pretax margin over time.
+As an important mark of clarity and focus to help tie together where we are heading and why, we recently communicated 3 strategic pillars to our employees around the world: One, be more for our clients; two, run our company better; and three, power our culture. These 3 pillars are not fundamentally changing the businesses we're in, instead, they drive at how we operate and who we are day to day for our clients.
+As I've said before, strategy is important, but ultimately, just a set of words. Actually doing it and how we do it matters a lot. While this was just 1 quarter in what will be a multiyear transformation, I'm optimistic about the steady improvements we are seeing inside of BNY Mellon. And I want to share with you some of this perspective that gives us confidence that we're on the right track with the work that we are doing under each of these pillars.
+First, I'm encouraged by the pace of progress towards making BNY Mellon a better-run company. Our businesses have historically operated largely in silos. We've run somewhat like a corporate conglomerate with a holding company that owns a series of vertically self-sufficient subsidiaries. This has led to clunky client journeys, wasteful duplication and a lack of joined-up thinking. We have many opportunities to run our company better and more efficiently, to reduce bureaucracy. And we need to be smart and disciplined with how we spend so our investments in the business go further.
+I've talked to you before about our efficiency initiative, comprising about 1,500 ideas developed by those who often see items ripe for improvement most clearly and closely, our people. This program, internally, we call it Project Catalyst, is well underway, and we started to see some early benefits in our financial results.
+As you may recall, in January, we set out to essentially halve our expense growth rate this year to roughly 4% growth excluding notable items, compared to roughly 8% ex currency in 2022. We have made good progress against this goal. With less than 3 months left in the year, we are confident that we will outperform our 4% expense growth target for 2023, all while self-funding over $0.5 billion of incremental investments this year.
+As we've started the budgeting process for 2024, we are determined to bend the cost curve further. We're now working to adopt a platform's operating model, which will help us to do things in one place, do them well, and elevate overall execution. And we're embracing new technologies so we can be more productive, more efficient and focus on growth. Automation of processes and investment in operations digitization and AI across the firm will make it easier for our employees to do their jobs, and subsequently channel their energies toward new innovations which brings me to our work towards being more for our clients. Our financial results in the quarter tell a tale of 2 cities. Against the backdrop of seasonally slower summer months, we once again saw outperformance in some of our differentiating businesses. Strength in Clearance and Collateral Management continued, and we saw healthy underlying growth in Pershing as well as solid momentum in Asset Servicing. This was offset by continued softness in Investment Management fees and lower foreign exchange revenue, given the subdued market backdrop.
+Our path to higher underlying growth is clear. In addition to always being on the hunt for new clients, we have to deliver more to our existing clients, develop new products and do a better job at connecting the adjacent ones. Our new Chief Commercial Officer has hit the ground running as we start operationalizing 1BNY Mellon across the organization to sharpen our commercial focus and elevate the client experience across the firm. At the same time, we're pushing forward with innovative new client solutions that leverage the adjacencies among our businesses. While still early days, initial client wins with our recently launched solutions, as well as the quality of our pipelines, are encouraging.
+Pershing X's new open architecture Wealth Management platform, Wove, is off to a promising start, including a couple of client agreements already signed, several prospective clients in active contracting and a steadily growing pipeline. As an example, Integrity, a nationwide insurance and financial services firm, with a network of over 0.5 million agents and advisors, has selected our Wove platform to support their wealth management business. With Wove, we are also connecting solutions from across BNY Mellon. For example, Integrity will have access to third-party models and institutional-grade solutions from our specialist firms in Investment Management and broker-dealer clearing and custody solutions through Pershing.
+In another example, Pershing expanded their long-standing relationship with Lincoln Investment, as the company transitions their self-clearing business on to Pershing's custodial platform and selected Wove to provide a suite of technology solutions to its financial professionals. As we onboard additional clients through the remainder of 2023, we are planning to start disclosing relevant financial information and leading indicators for you all to keep track of Wove's growth trajectory at the beginning of next year.
+We also signed the first external client, a leading G-SIB owned European asset manager, for our recently launched Buy Side Trading Solutions. Without a doubt, we expect our more prominent solutions, like Wove and buy-side trading, to move the needle on growth over time. But we are leaning into innovation to solve the evolving client challenges across all of our businesses. For example, in Treasury Services, we were one of the first banks to go live on FedNow, the Federal Reserve's new instant payment rail. This allows us to expand our capabilities for corporations, nonbank financial institutions and fintechs. And as a service provider, we are helping our financial institutions clients access instant payments, remain competitive and provide best-in-class service for their customers.
+As another example, this quarter, the business announced the launch of Bankify, an open banking payment solution that, as an alternative to credit or debit cards and third-party payment platforms, helps organizations receive consumer payments from bank accounts with a seamless user experience and guaranteed settlement.
+Let me conclude by saying that we are optimistic about the opportunity in front of us and our strategic objectives for the short, medium and long term are clear. We are innovating and pushing forward on our multiyear growth investments, all the while remaining disciplined to deliver positive operating leverage and pretax margin expansion. As I've said all along, the path to transforming BNY Mellon into a consistently high-performing company will take some time. But for 2023, we are on track to deliver what we said we'd deliver at the beginning of the year while making steady progress toward our strategic priorities.
+I'm proud and appreciative of our people's dedication to be more for our clients, run our company better and power our culture, collectively to unlock BNY Mellon's potential.
+With that, over to you, Dermot.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Robin, and good morning, everyone. I will start on Page 3 of the presentation with our consolidated financial results for the third quarter.
+Total revenue of $4.4 billion was up 2% year-over-year. Net interest revenue was up 10% year-over-year, primarily driven by higher interest rates, partially offset by changes in balance sheet size and mix. Fee revenue was flat. Growth on the back of higher market values, net new business and the favorable impact of a weaker dollar was offset by the Alcentra divestiture in the fourth quarter last year, lower foreign exchange revenue and the mix of AUM flows.
+Firm-wide assets under custody/administration of $45.7 trillion were up 8% year-over-year, reflecting higher market values, client inflows, the weaker dollar and net new business. Assets under management of $1.8 trillion were up 3% year-over-year, reflecting the weaker dollar and higher market values, partially offset by the Alcentra divestiture. Investment and other revenue was $113 million in the quarter, reflecting continued strength in fixed income trading.
+Expenses were down 16% year-over-year on a reported basis, primarily reflecting the goodwill impairment associated with our Investment Management reporting unit in the third quarter last year. Excluding notable items, expenses were up 3% year-over-year. Provision for credit losses remained low at $3 million in the quarter as the impact of reserve builds to reflect continued uncertainty on the outlook for commercial real estate was largely offset by reserve releases related to financial institutions.
+As Robin noted earlier, reported earnings per share were $1.22. Excluding notable items, earnings per share were $1.27, representing 5% growth year-over-year. We delivered positive operating leverage. Our pretax margin was 29%, and we generated a return on tangible common equity of 20%.
+Turning to capital and liquidity on Page 4. Consistent with the prior quarter, we returned $450 million of capital to our shareholders through common share repurchases, and we paid approximately $330 million of dividends to our common stockholders, reflecting our previously announced 14% dividend increase which became effective in the third quarter. Taken together, we returned 82% of earnings to shareholders in the quarter or 107% on a year-to-date basis.
+Our Tier 1 leverage ratio improved sequentially by approximately 40 basis points to 6.1%, reflecting a decrease in average assets and an increase in Tier 1 capital driven by capital generated through earnings, net of capital returned through buybacks and dividends. Unrealized losses related to available-for-sale securities remained roughly unchanged in the quarter. The CET1 ratio was 11.4%, representing an approximately 30 basis point improvement compared with the prior quarter, reflecting lower risk-weighted assets and an increase in CET1 capital. Just like our regulatory capital ratios, our liquidity ratios further strengthened in the quarter. The consolidated liquidity coverage ratio was 121%, a 1 percentage point improvement compared with the prior quarter. And our consolidated net stable funding ratio was 136%, well in excess of the regulatory requirements.
+Next, on Page 5, net interest revenue and further details on the underlying balance sheet trends, which I will describe in sequential terms. Net interest revenue of $1 billion was down 8% quarter-over-quarter, driven by changes in balance sheet size and mix, partially offset by higher interest rates.
+As we expected, temporary deposits related to the debt ceiling impasse in the second quarter left in July and along with seasonally low balances in August, average deposits for the quarter decreased by 5% sequentially. In line with our expectations, interest-bearing deposits were down 3% and noninterest-bearing deposits were down 16%. You will remember from prior earnings calls that we expected noninterest-bearing deposits to moderate to approximately 20% of total deposits in the second half of this year, which is consistent with our deposit mix in the third quarter. Following seasonal troughs in August, we saw the anticipated pickup in monthly average balances in September, and again, some modest growth in the first 2 weeks of October. Average interest-earning assets were down by 6% quarter-over-quarter. This reflects a reduction in cash and reverse repo by 11%, while we actively reduced wholesale funding. Our investment securities portfolio was down 4% and loan balances were up 1%.
+Moving to expenses on Page 6. Expenses for the quarter were down 16% year-over-year on a reported basis and up 3% excluding notable items. This year-over-year increase was driven by higher investment and revenue related expenses, the unfavorable impact of the weaker dollar as well as inflation, partially offset by efficiency savings and the Alcentra divestiture. I'll talk more about our outlook for expenses in a moment. But as Robin mentioned earlier, it is worth highlighting that for 2023, we are expecting to fully self-fund over $0.5 billion of incremental investments through efficiency savings.
+Turning to our business segments starting, with Securities Services on Page 7. As I discuss the performance of our Securities Services and Market and Wealth Services segments, I will comment on the Investment Services fees for each line of business described in our earnings press release and the financial supplement. Securities Services reported total revenue of $2.1 billion, up 1% year-over-year. Fee revenue was flat. 2% growth in Investment Services fees was offset by a 19% decline in foreign exchange revenue on the back of lower volatility and volumes. Net interest revenue was up 12%.
+In Asset Servicing, Investment Services fees were up 3%, driven by higher market values, healthy net new business and  the weaker dollar, partially offset by lower client transaction activity. The strength of our balance sheet as well as the stability, breadth and depth of our solutions remain clear differentiators that position us well with clients confronted with a persistently challenging market environment and an evolving competitive landscape.
+For example, ETF assets under custody/administration were up over 20% year-over-year and the number of funds serviced on our platform continued to grow at a healthy clip. In Alts, assets under custody/administration and related Investment Services fees both grew in the mid-single-digit percentage range despite the number of fund launches having slowed significantly over the past year.
+Within Issuer Services, Investment Services fees were down 2%. Growth from net new business and Corporate Trust was more than offset by the absence of fees from elevated Depositary Receipt cancellation activity in the third quarter of last year.
+Next, Market and Wealth Services on Page 8. Market and Wealth Services reported total revenue of $1.4 billion, up 6% year-over-year. Fee revenue was up 5%, and net interest revenue increased by 6%.
+In Pershing, Investment Services fees were up 2%, reflecting higher fees on sweep balances, partially offset by the impact of lost business and lower transaction volumes consistent with the decline in U.S. equity exchange volumes. Despite the continued headwind from the ongoing deconversion of the regional bank client highlighted in the second quarter, Pershing saw $23 billion of net new assets on the platform this quarter, reflecting positive momentum in the underlying business. As Robin mentioned earlier, the momentum around Wove is building with both new and existing clients. While at the same time, ongoing investments in the core Pershing platform to enhance advisor experience and lead with innovative solutions have positioned us well to capitalize on the heightened pace of change in the RIA community. In Treasury Services, Investment Services fees decreased by 1% as growth from higher client activity was offset by higher earnings credits for noninterest-bearing deposit balances.
+In Clearance and Collateral Management, Investment Services fees were up 16%, reflecting broad-based growth across U.S. and international Clearance and Collateral Management. In particular, we saw strength in domestic clearance volumes, reflecting elevated volatility and U.S. treasury issuance activity and continued migration from the Fed's reverse repo facility to traditional tri-party collateral management balances. Recent macro trends, including heightened volatility, uncertainty associated with monetary policy and bank's regulatory capital requirements, as well as the recent consolidation in the banking sector, further reinforce the value of our tri-party collateral management service. In addition to expanding our platform both in the U.S. and internationally, we continue to innovate new solutions for our clients to better utilize their collateral.
+Turning to Investment and Wealth Management on Page 9. Investment and Wealth Management reported total revenue of $827 million, down 4% year-over-year. Fee revenue was down 2% and net interest revenue declined 33% year-over-year. Assets under management of $1.8 trillion increased by 3% year-over-year. As I mentioned earlier, this increase reflects the weaker dollar and higher market values, partially offset by the Alcentra divestiture. In the quarter, we saw $15 billion of net outflows from long-term strategies, driven by client de-risking and rebalancing and $7 billion of net inflows into short-term strategies led by our Dreyfus money market fund complex.
+In Investment Management, revenue was down 4% year-over-year, primarily reflecting the Alcentra divestiture and the mix of AUM flows, partially offset by higher performance fees as well as the impact of higher market values and the weaker dollar. In our Wealth Management business, revenue decreased by 5%, driven by lower net interest revenue and changes in product mix, partially offset by higher market values. Client assets of $292 billion increased by 14% year-over-year, reflecting higher equity market values and cumulative net inflows.
+Page 10 shows the results of the Other segment. I will close with our current outlook for the rest of the year. Based on market-implied forward interest rates at the end of last month, our net interest revenue outlook for the full year '23 remains unchanged for 20% growth year-over-year. Moving to expenses. We are making good progress on bending the cost curve while protecting our important investments to accelerate growth and deliver superior client experiences. Where we sit today, I am confident that we will outperform the target of 4% expense growth excluding notable items that we communicated in January, and we remain determined to drive that growth rate down to 3% for the full year '23. This reflects our expectation for a sequential step-up in expenses excluding notable items in the fourth quarter, with seasonally higher business development expenses, as well as discrete increases for professional services and occupancy.
+And finally, we expect to continue stock buybacks at a pace consistent with the second and third quarter. This is in line with our full year outlook to return 100% of earnings or more to shareholders over the course of '23, while maintaining our strong capital ratios, mindful of the significant uncertainties relating to the operating environment.
+In conclusion, our financial results this quarter highlight the effectiveness of our balance sheet management and tangible progress on our journey towards higher operational efficiency and scalability. While we have more work to do, our teams around the world are embracing change. And our pace of bringing innovative new client solutions to the market gives us confidence that revenue growth will follow over time.
+With that, operator, can you please open the line for Q&A?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from the line of Steven Chubak with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Steven Joseph Chubak,  Wolfe Research, LLC - Director of Equity Research    [2]
+--------------------------------------------------------------------------------
+I wanted to start off with a question on the NII outlook. I was hoping you could just give some thoughts on the deposit trajectory if rates are higher for longer and the Fed continues to engage in QT. And given we're at that 20% lower bound for NIBs where do you expect that to ultimately settle out as a percentage of deposits.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Sure, Steven. I'll take that, and good morning. So, I guess the way I'd like to answer the question is just start with January where we gave the guidance to the market of 20% NII growth for the year. And we've been consistent with that on the call since then, and we reconfirmed that guidance today for 20% for the full year.  
+Now, the world has played a different hand to us over the course of the year since January. We had the bank turmoil in March, and we had the debt ceiling impasse over the summer. And clients used us as the port in a storm during that time, and we saw surges in deposits, and so that benefited us.  
+Now over the course of the summer, we see those deposits leave and we feel we've reached an inflection point of puts and takes between the natural organic flow versus our surge deposits leaving. So we feel the pace of decline has slowed. We feel like we hit the trough in August, and we've seen modest pickup in deposits in September and into October.  
+So overall, that, and when you take the asset side of the balance sheet and how liquid we are on the asset side and how that's rolling down, you might want to know that as the balance sheet continues to roll down, we have a yield pickup of 200 to 300 basis points, which what gives us a lot of confidence in our estimate for the year and outlook into '24.  
+As it relates to NIBs, we always said that it was going to be 20% to 25% through the cycle. The trough happened during the summer months and has stayed in the 20% ZIP code. So we feel overall pretty good about NIBs as a percentage of total deposits being in the 20% range.
+
+--------------------------------------------------------------------------------
+Steven Joseph Chubak,  Wolfe Research, LLC - Director of Equity Research    [4]
+--------------------------------------------------------------------------------
+Very helpful. And just for my follow-up on the expense outlook. You've spoken about the commitment to improve operating margins. You cited a number of efforts, Robin, to deliver efficiencies across the platform.  
+As we look out to next year, given a lower NII exit rate relative to the first half for you and for some of your industry peers, wanted to get a sense as to how much flexibility is embedded in your expense plans and your ability to drive expenses lower potentially in a more challenging revenue backdrop.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [5]
+--------------------------------------------------------------------------------
+Steven, I'll start. So look, we've said on every call this year that bending the cost curve is a very important strategic objective for the firm. And we're attacking structural expenses in a number of different ways. And that's just continuous execution day in, day out, blocking and tackling.  
+The result of all that blocking and tackling has caused us to outperform the 4% guidance that we gave in January, and we're determined to push that number to closer to 3%. While we don't believe the work is over this year and we're now in the middle of budget season, and we are determined to bend the cost curve into next year and to continue to deliver that positive operating leverage.
+And we go at it in a number of different ways: rationalizing vendors, rationalizing locations, remixing our headcount and how we hire. This year was our biggest campus class ever, double last year, and we'll continue to build on that. So there are a lot of things happening underneath the hood that give us a high degree of confidence that we'll be able to continue to bend the cost curve into '24 and beyond.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Ebrahim Poonawala with Bank of America.
+
+--------------------------------------------------------------------------------
+Ebrahim Huseini Poonawala,  BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research    [7]
+--------------------------------------------------------------------------------
+Just maybe following up on the discussion around deposits. I think Dermot, you used the word trough multiple times. Just give us a sense of -- obviously, you've called it right this year in terms of how things have played out. But just give us a sense of is it about the mix or the granularity of your deposits or the client behavior that you've seen that gives you confidence that this 20%, what you saw in August towards the trough? And if we are in a period through next year where there are no rate cuts, it's higher for longer, like where does the negative surprise come from, if any?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+Thanks for the question. So, look, this has been a journey for the last 15 months. We took a view at the beginning of last year that the Fed was going to hike quite significantly, and we positioned the balance sheet in a way to do that. And so, when we talk about deposits, I think it's very important to look at both sides of the balance sheet at the same time in terms of how we're positioned on the asset side. We have a lot of the balance sheet in cash, which benefits from the higher interest rates. Our fixed rate securities are going to roll down over the next -- a decent amount of the fixed securities, I think it's a quarter a year roll down over the next couple of years. And that gets us a pickup of 200 to 300 basis points. And at the beginning of the year, we did forecast a mid-single-digit decline in deposits and that bottoms-up analysis.
+And also, it's important to remember that clients of BNY Mellon are not just with us for deposits, they come into our ecosystem. And just remember, it's a $1.3 trillion cash ecosystem that we have, and they come in for a variety of different reasons. It's a portfolio of businesses that give us our deposit makeup. So, when we look at it at a portfolio level, we get a lot of confidence around the stability of the deposit base.
+And look, there were a lot of gives and takes this year through the bank turmoil in March and the debt ceiling impasse, which benefited us, and that's moderated. And those deposits have left for higher-yielding opportunities.
+But we feel like the summer slowdown, the seasonal slowdown that we experienced in August and the conversations that we have and talking to our deposit team, we feel very good about where we are on the deposit balance now and the pickup that's happened in September and October. And that gives us the confidence to say here today that 20% NII is a good number, which I think should be good for you guys to know that we've been consistent in our approach over the whole year.
+
+--------------------------------------------------------------------------------
+Ebrahim Huseini Poonawala,  BofA Securities, Research Division - MD of United States Equity Research & Head of North American Banks Research    [9]
+--------------------------------------------------------------------------------
+That's helpful. Thank you. And I guess maybe if I heard you correctly, I think you mentioned $0.5 billion of investments are self-funded. That's about 4% of your expense base. Is that $0.5 billion -- I'm just wondering the relevance of that number. Is that something that we should think about either go forward sort of incremental investment spend that you need to self-fund through efficiencies as we, from the outside, try to figure out what expense growth could look like next year? Just if you could contextualize that $0.5 billion in investments and what that means going forward.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [10]
+--------------------------------------------------------------------------------
+So, the way I think about that and the message that I would like to give you is, it gives a message of discipline in that we've halved the growth rates, we're going towards 3%,and within that 3% growth, we've had the financial discipline to be able to self-fund $0.5 billion of investments that we are confident that will deliver further efficiency in years ahead and revenue opportunities. So, it's both powering the top line and automating and driving further efficiency. And we look to continue to do that into the budget season this year and next year.
+And this year, we doubled the efficiency saves that we have typically achieved in past years. And that's both bottoms up. I think we both have mentioned it in our prepared remarks, the catalyst project that we're roughly 40% the way through. And we're doing real work day in, day out that is driving that expense growth down and is delivering opportunities for us that we will harvest in the quarters to come.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [11]
+--------------------------------------------------------------------------------
+Ebrahim, I'd add just a couple of things to that. One, we've been very deliberate about not cutting our way to glory, but rather working at the problem at a pretty fundamental level, so that we can both manage our expenses for the necessary operating leverage, which we want to achieve, but also sowing the seeds for future efficiencies and future fee growth. And so, that's really the way in which we're thinking about it.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Ken Usdin with Jefferies.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [13]
+--------------------------------------------------------------------------------
+Hey, thanks. Good Morning. Just one more follow-up. So, yes, it's great to see the 20% for the year reiterated. And obviously, as discussed, that implies a lower fourth quarter exit. But I want to, more importantly, understand the moving parts from there, and at what point can you see that stability going forward in terms of some of the things on the front book side helping versus where deposit costs could continue to go up. Just trying to understand if we're at a stable DDAs, can you see a path early next year to get that NII point near stable? And just let me start there.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [14]
+--------------------------------------------------------------------------------
+So, I don't really want to give guidance for next year today, Ken. We will do that in January. I got a lot of questions about that at Barclays as well.
+So, I feel good about the 20%. I feel good about the deposit pipeline that we have. We've talked on previous earnings calls about our strategic pivot a couple of years ago where we centralized all our deposit businesses in one area. And so, I feel very good about how we're managing the deposits, how we're pricing the deposits.
+We're a little bit different to other institutions in that we have -- our clients are sophisticated. So, cumulative basis are not materially changed from last quarter. They're in the 80% ZIP code, and we've passed on the rates. So, I think it's important to note that there's no material pricing lag to catch up here. 
+And so, we kind of feel the absolute level of deposits is pretty good. We feel very good about our outlook for the rest of the year. But look, the world is very uncertain. And who knows what comes tomorrow. And for '24, we'll give you more detailed guidance in January but I feel pretty good about where we are today.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [15]
+--------------------------------------------------------------------------------
+Yes. And Ken, I'll just add to that just to draw your attention to really emphasize 2 things. Number one is, when we started off the year and we gave the guidance of 20% for NII growth over the course of the year, clearly, the year has turned out differently. But I think the power of the Global Liquidity Solutions team that we've put together has really been able to prove our ability to be agile in this space, a little bit irrespective of the environment. I don't want to be complacent with that comment because clearly, the world can change. But we saw a lot of things over the course of the first 3 quarters of the year. I think the team has done a very good job adapting to those and maintaining the consistency.
+And you'll remember Dermot's comments earlier in the year, which is we thought NIBs were hanging in a little higher than we would have expected them to be. And we've always expected them essentially to come down to this level. It just happened a little later than we thought. But obviously, we've been fine with that.
+And then the second comment is remembering the inputs in terms of the diversification. Dermot said it earlier, but it really is critical to our deposits franchise. We've got the Issuer Services business with Corporate Trust, which drives on one set of inputs to their deposit algorithm. We've got a clearing and collateral management business, which has a different set of drivers. We've got our Treasury Services business, which has yet a different set of drivers. And of course, we have our Asset Servicing business as well.
+So, that breadth and diversification just creates four different outcomes. And I think you've seen that over the course of this year. So, we're not sitting here today giving guidance for next year, but the fourth quarter NII is probably a pretty decent place to start if you think about the world.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [16]
+--------------------------------------------------------------------------------
+Okay. Got it. Thank you. And just one question on Pershing. It's great to see the Wove start and the good commentary you have about the momentum. Just wondering, we know that there was going to be a client deconversion coming out of that as well. Did we see that in the third quarter result? Or is that still a pending yet to happen?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [17]
+--------------------------------------------------------------------------------
+So, we expect that to happen over several quarters, Ken. I think the important point -- so it happened over both quarters. I think second quarter was a little bit more than the third quarter, but we do expect that to work its way through over the next several quarters.
+I think the important point I'd leave you with on Pershing, in addition to the Wove development, is the fact that we added $23 billion of net new assets in the quarter and the underlying strength of the business and our ability to provide solutions to our clients in that space is really, really terrific to see.
+
+--------------------------------------------------------------------------------
+Kenneth Michael Usdin,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst    [18]
+--------------------------------------------------------------------------------
+Yes. And that's what I'm hoping for that you can offset that with the organic growth. That's what I'm getting at.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Yes. We believe we have the confidence to earn our way out of that over the next several quarters.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Mike Mayo with Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Michael Lawrence Mayo,  Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst    [21]
+--------------------------------------------------------------------------------
+Hi. I think you guys have been pushing for stronger fee growth, and that's a slog, but meantime, you're certainly bending the cost curve, as you say. I guess, Robin to your opening comments about a conglomerate with a bunch of silos and breaking those down certainly is a key to growing revenue faster. How can you actually implement horizontal integration among these disparate businesses and by breaking down their silos? Like do you have any proof points or evidence now, or is this more like a 3- to 5-year plan?
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [22]
+--------------------------------------------------------------------------------
+Sure, Mike. So, look, this approach of de-siloing the company is clearly one of our critical pillars. And we put that under the heading of run the company better in terms of our internal conversations. And so, there are many things that we're doing. We're really looking at what is it that we do across the company where we have like capabilities.
+So, we have some examples of that on the business side. A recent example is we had institutional clearing and settlement that we actually did in our Pershing business, but we also have an institutional clearing product in our Clearance and Collateral Management business. So, we've moved the piece from Pershing into our Clearance and Collateral Management business. So, now it's all together. 
+And I could give you 5 other examples that are just like that, of us rearranging pieces on the business front end inside the company to be able to be more joined up in terms of how we approach clients. And so, that is essentially truly making sure that we have consistent client-facing platforms in terms of how we're doing business.
+Then on the supporting side of the organization, and if you think about our company a little bit like a platforms business, we have all these world-leading platforms, the largest security lending company in the world, the largest collateral manager, the largest asset servicing custodian with AUC, et cetera, et cetera. What we hadn't done is adapted the way we run the company to actually look like that. So, we've decided to adopt this more platforms-like operating model, where we're taking things that we -- in terms of the support that we provide for our businesses and reducing that duplication.
+So, I'll give you an example. On the call center side, we used to have 7 call centers. Those 7 call centers were each essentially providing a service to their respective businesses. Now, we're moving at the beginning, but moving towards a single consistent contact center that can provide the service to all 7 of those businesses and frankly, do it in a better, cheaper way, which is providing more capability to our clients. Even note the difference in the word "call center" versus "contact center" because there's a client benefit associated with that. So, look, we're at the beginning of this thing, but we think a platforms operating model is very fit for purpose for our company, and it should really simplify how we work, improve the client experience and employ our own employees.
+And we've got other proof points. We talked about deposits. Dermot was describing the better outcomes that we think we've had as a result of implementing Global Liquidity Solutions. That is a consistent deposit approach across the company. We've got KYC as an example as well. We used to do KYC in each of our businesses. We're bringing that together to have a KYC platform. So, there are a lot of proof points that we've got in various stages of development here in addition to the actual pilots that we did specifically for a platforms operating model.
+
+--------------------------------------------------------------------------------
+Michael Lawrence Mayo,  Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst    [23]
+--------------------------------------------------------------------------------
+So, when you add it all together, you said next year, you expect to have positive operating leverage. Is that in aggregate positive fee operating leverage? And how can you have such confidence at this stage?
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [24]
+--------------------------------------------------------------------------------
+So, look, we're committed to positive operating leverage over time. And I don't want my second year as CEO to be one where we have negative operating leverage. So, we are focused on positive operating leverage next year. That's aggregate operating leverage to answer your question.
+And one of the reasons why we have confidence in that is because we've been investing on both the revenue side and on the expense side in the short-, medium- and long-term perspective. Dermot just went through a few things that we've done specifically for 2023, but the platforms conversation, and the answer I just gave to you, that's an investment in medium- and long-term efficiencies. And we haven't seen any of the benefit of that really yet.
+And the same thing is true on the revenue side. Some of the shorter-term things that we've done, the enthusiasm around  1BNY Mellon, the referrals that we've had across the business, we've talked about that in prior quarters. But now, we're moving to the medium- and longer-term benefits, which are really getting the benefit of our Chief Commercial Officer and her approach to operationalizing 1BNY Mellon. That's a more medium-term opportunity. And then long term, really harnessing the benefits of these product investments that we've made with things like Wove and Buy Side Trading. So, we've been seeding on the revenue side and the expense side, short, medium and long term as we try to manage for this operating leverage over time.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Alex Blostein with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Alexander Blostein,  Goldman Sachs Group, Inc., Research Division - Lead Capital Markets Analyst    [26]
+--------------------------------------------------------------------------------
+Hi. Good morning, guys. Thanks for the question. Maybe shift gears a little bit. I was hoping to spend a minute on capital nice to see the capital ratios build over the course of the quarter. So, I guess, as you're thinking on the buyback on a forward basis, given that it's been a little bit lighter over the last couple of quarters, how are you thinking about that over the next 12 months? And maybe just a reminder, in terms of how much capital do you expect to accrete back to your capital ratios from securities maturing over the next, call it, 6 quarters or so?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [27]
+--------------------------------------------------------------------------------
+So, I'll take that one, Alex. And good morning. So, I would say for the next quarter, no really change in the buyback. It's going to be consistent with the last couple of quarters. Going back to 1 of the 3 things that we said in January, buybacks was one of those and we committed to buying back 100% or more of earnings  returning 100% or more of earnings to our shareholders over the course of the year, and we're on track to do that.
+I would say, as we look out in the world today, it's very different to where it was in January. You still have the huge volatility in the rate environment, it was 100 basis points in Q3. The geopolitics are very uncertain at the moment. And then last but not least, you've got Basel III, and advocacy and what's going to happen there. So, there are a lot of things to be worried about. And at this stage, we'd rather be on the cautious end of things and see no real need to change our stance on buybacks in the short term.
+As it relates to your specific question, we have about $2.3 billion of unrealized losses in our AFS portfolio, and we expect about half of that to come back into capital over the next 12 months. So, from where we sit here today, we continue to build capital. We feel very good about our capital position. Ratios are healthy. Liquidity is healthy. And at the right time, we'll communicate a change in stance on that, but for now, steady as she goes.
+
+--------------------------------------------------------------------------------
+Alexander Blostein,  Goldman Sachs Group, Inc., Research Division - Lead Capital Markets Analyst    [28]
+--------------------------------------------------------------------------------
+Great. Thanks for that. And then, there's one business that I was hoping to kind of double click into, which is Clearance and Collateral Management. We've seen really good growth there for the last several quarters now. I think it's up 11% year-to-date versus last year. 
+Can you maybe help us unpack some of the sources of that growth between what's been really market and maybe somewhat elevated volumes given everything that's been going on in Treasurys, versus more baseline growth in that business as we're thinking about building off of this baseline?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [29]
+--------------------------------------------------------------------------------
+So, look, CCM, Clearance and Collateral Management, very big business for us. I would say a couple of things. A lot of volatility in the market this year, significant volumes, lots of Treasury issuance. All of that helps that business. I think we continue to innovate as well internationally, and so we spend a lot of time on the road with clients overseas. Because of our strength in the U.S., we feel that we have a lot of value to add in the international space, and so we look to build our international business from here.
+I think in the medium term, we still see that business continuing to grow given the level of treasury issuance and what's happening in the market. So, we feel good about the underlying growth.
+Also, a lot of people might think of it as a Steady Eddy type business, but I have to say the amount of innovation that we do under the hood in terms of serving our clients' needs with new solutions and how they can optimize their respective balance sheets and fund it on our platform is very, very pleasing to see. So, we feel very good about the state of the business and the trajectory from here.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Brennan Hawken with UBS.
+
+--------------------------------------------------------------------------------
+Brennan Hawken,  UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials    [31]
+--------------------------------------------------------------------------------
+Good morning. Thank you for taking my questions. I'd love to start on Pershing. I'm curious if you could maybe give a little color on what drove the strength in Pershing revenues. I know you flagged higher fees on sweep balances, but we're seeing other wealth management firms flagging headwinds there. So, curious about whether or not you can provide some color on that and what's driving the resilience for Pershing?
+And then I know that it's going to be several quarters before we see the decommissioning that you referenced. Any sense you can give for size of that headwind that we should expect? Thanks.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [32]
+--------------------------------------------------------------------------------
+So, on the last question first, we don't really give specific guidance on the deconversions, but look, as I said on an earlier question, we feel the underlying strength of the business, you're always going to take your lumps and things that happen that you wouldn't expect to happen. And we feel we have the ability and the confidence and the people and the strategy and the products to earn our way out of that. So, Pershing is a very -- it's a very strong business for us. It's in our most profitable segment, markets and wealth Services and we feel very good about the margin of that segment and of Pershing in particular.
+Just kind of double-clicking on your original question, there are many things that make up the fees that are coming into Pershing. They're transactional, which is correlated to U.S. exchange volumes, asset-based, based on equity market levels and balance- based. And so, again, when you take the portfolio approach that we have with our business and the different composition of the fees and then the amount of clients that we're onboarding, that  that leads you to a nice good fee outcome for the business overall.
+And so, look, Pershing is market leading. We're #1 with broker-dealers. We're very important to the RIA community. We have a lot of excitement in the marketplace around our Wove product and so, we have -- that's attracting new clients to our system as well as existing clients who are excited about that product. And that gives us belief that by adding to our existing platform new products, we'll be able to be a more meaningful player than we are today.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [33]
+--------------------------------------------------------------------------------
+And Brennan, I'll just add one thing. You used the term underlying momentum, I think, and it's very true in the business. If we'd been on this call maybe a year ago, someone would probably have asked me, did I think that we could compete with the self-clearing changes that were going? I remember we had these conversations about the puts and takes of the various different flows in the market.
+This quarter, we announced Lincoln, who was self-clearing, joining our platform because they just see the benefits of the economies of scale that we can provide, the capabilities that we have.
+And then, of course, with an eye to Wove and the opportunity to be able to really provide that advisor set of solutions in the same way as the classic Pershing platform provides the investor set of solutions. So, we feel quite good about the feedback that we're getting. And remember as well that we have this relatively unconflicted business model in terms of the fact that we're not running our own large RIA sales force next to our business. And we think that some of our clients really appreciate that.
+
+--------------------------------------------------------------------------------
+Brennan Hawken,  UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials    [34]
+--------------------------------------------------------------------------------
+Yes. That's all very helpful color. Thank you for that. And then, I'd like to ask a follow-up question on the noninterest bearing. So, you flagged that there was some growth quarter-to-date. Is it possible to quantify or give us a rough idea about what kind of growth we'd be talking about? And are you also seeing corresponding growth in the overall deposit base along with the trend in the NIBs? Thanks.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [35]
+--------------------------------------------------------------------------------
+So, I think I used the word modest in my prepared remarks for September off the seasonal lows. And I also used the word inflection point with the puts and takes between the level of activity as a result of March and the debt ceiling impasse. We feel we've reached a more natural level for deposits. 
+And if you go back to the remarks in January, we went -- declined in the deposit base of mid-single digits from where we were at the beginning of the year. And so, that's really, largely, how it's played out with albeit a different zigzag to what we thought was going to be at the beginning of the year.
+And look, the important thing to walk away from the call with is we feel confident with the outlook and the guidance that we're giving today of 20%. And that's made up of a ton of different factors both on the deposit side and on the repricing on the asset side. So, we think of the 2 as very joined up and interlinked. And don't really want to get into specific numbers, but we feel pretty good about where we're at.
+
+--------------------------------------------------------------------------------
+Brennan Hawken,  UBS Investment Bank, Research Division - Executive Director and Equity Research Analyst of Financials    [36]
+--------------------------------------------------------------------------------
+Okay. And are those trends applying to both the broad deposit base as well as the NIBs -- just...
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+Yes, I think it's fair to say that. Yes.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Rob Wildhack with Autonomous Research.
+
+--------------------------------------------------------------------------------
+Robert Henry Wildhack,  Autonomous Research US LP - US Capital Markets Specialty Financials Analyst    [39]
+--------------------------------------------------------------------------------
+Morning, guys. I appreciate the update on the strategic priorities. I'm curious on the do more for clients front. How is the progress you've made and are making there manifested itself so far? Are you seeing an uptick in organic growth, new business wins, anything like that? And, then the obvious follow-on from there is when do you think that we could expect to see that progress manifest itself and whether see revenue growth or operating leverage more broadly? Thanks.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [40]
+--------------------------------------------------------------------------------
+Yes, it's an important question, Rob. So, the way that we have laid out be more for our clients internally is in a few different threads. So, the first is delivering more to existing clients. And you've heard from us before on this, so many of our clients have a single business relationship with us, a single product, single solution. And so, we just have the opportunity, frankly, to have them be able to do more things with us by connecting the dots and offering more to our current clients.
+I'll give you a stylized example. So, if you're an Asset Servicing client today, you probably do some securities lending with us. You may or may not do some foreign exchange with us. If you do those 2 products with us, why wouldn't you do some margin segregation with us? If you do margin segregation with us, you're in our collateral ecosystem, why wouldn't you do more collateral management with us?
+If you're in that ecosystem, you're starting to touch the cash ecosystem. And so, why wouldn't you also be open to some of the cash liquidity related solutions we have? And if you're touching that, you're adjacent to Treasury Services. And so, why wouldn't you also be interested in some of our Treasury Services products?
+And so, that's exactly -- the fact that we haven't done that is the ultimate manifestation of the problem with silos for a company like ours because our businesses are pretty adjacent to each other. So, that is a very important focus. It is the top priority of our new Chief Commercial Officer to really drive the operationalization of making all of that a reality as opposed to just a sort of an internal call to action in the company.
+The second thread is developing new products and connecting adjacent products. Different than the first example, so the 2 things which are inextricably related to each other could potentially be sold as a solution. If you look elsewhere in the technology industry, there are often multiple pieces of software that are bundled into one aggregate solution, which is actually what clients buy.
+We haven't done as much of that because our products have been strewn across the company in their respective silos. So, by being able to look more horizontally, we get to be able to gather up the products and think about the world a little bit more along the lines of solutions. And you've seen us do that with some of our Asset Servicing clients more recently, where we've done these bigger, more bundled deals and there are more opportunities for that.
+And then the third opportunity is to just win more market share and brand-new clients. Now to be fair, we do know a lot of the clients that are out there in the world, 90% plus of Fortune 100 companies, 97% of global banks. So that's not the biggest opportunity of all of them. But we want to be in the hunting business as well, and so we'll go find those clients that we don't currently do business with and actually engage them as well. So, there are a lot of threads under that whole umbrella of being more for clients.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Gerard Cassidy with RBC.
+
+--------------------------------------------------------------------------------
+Gerard Sean Cassidy,  RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst    [42]
+--------------------------------------------------------------------------------
+Robin, can you expand upon your comments about FedNow? You touched on it, how you're one of the early adopters who are in the test phase and just what implications are once this goes live throughout the system?
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [43]
+--------------------------------------------------------------------------------
+So, immediate payments are one of those disruption opportunities that don't come along that often in the overall ecosystem. And you have to remember that the U.S. is actually less advanced, in some respects, in terms of the speed and the efficiency of payments versus some other large countries around the world.
+And so, we look at this as say, well, we have a large installed client base that's pretty rooted in some of the classic payment methods. We are a large check clearer. We're a large payments provider. And we also have a pretty unconflicted approach because we're not really in the credit card business, which creates a little bit of fee disruption risk if you are in that business to embracing instant payments.
+And so, we identified this some years ago that this would be an opportunity that we would want to participate more in, and that's exactly what we've been doing. So we've been live on The Clearing House rails for a while. We're now live on the FedNow service. Those are essentially competitor instant payment services to each other. But now we are going to be focused, as I think the rest of the industry will be on the network effect that's going to be required to really adopt these instant payment rails.
+And so, we're a provider to small and midsized banks, helping them to access the rails. We think there are a bunch of things that you can do with these new rails that you couldn't do with some of the old rails. Request for payment is a great example. The opportunity to really deliver e-billing, instant requests for payments that can be met with instant perfectly timed payments. There's a lot of control there.
+There's also some security opportunities. Who wants to give their bank account, and ABA number out and their credit card number out when you're dealing with various billing-based solutions. And so, operationalizing all of that with our clients is important. We just launched Bankify, as I mentioned in my prepared remarks. That allows consumers to be able to use these rails a little bit more efficiently. 
+And so look, it's early days in this disruption, and I don't want to call exactly how and when it's going to occur. But we feel, over time, this is a good new technology. And as we do see more network effect and these use cases start to go live, it provides a lot of client value. And so at the end of the day, I think that client value is going to win out, and we want to help them to do that.
+
+--------------------------------------------------------------------------------
+Gerard Sean Cassidy,  RBC Capital Markets, Research Division - MD, Head of U.S. Bank Equity Strategy & Large Cap Bank Analyst    [44]
+--------------------------------------------------------------------------------
+Great. And then, Dermot, you touched on with deposits. The challenges the banking system faced earlier in this year and Bank of New York was looked at as a safe haven in some people's minds, and your deposits have reflected that as you pointed out.
+Can you share with us if QT stays with the Fed through the end of next year, what kind of impact are you guys thinking that could have on deposits throughout 2024? Thank you.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [45]
+--------------------------------------------------------------------------------
+So, I think it's a bit too early for me, Gerard, to  give you guidance for '24 on that. But like as I said earlier, we feel we've reached a more normalized level given what happened in March and then the debt ceiling and who knows what's going to happen from here?
+But our balance sheet is positioned for higher for longer. We have a lot of the balance sheet in cash. Our fixed income securities are going to roll off a quarter a year over the next few years. And the pickup in yield from that is about 200 to 300 basis points. So, when we look at the balance sheet together, we feel very good about our NII for the next while.
+January will be when we give you more detailed guidance for how we think about it for '24. But our deposit base and how our clients are in the ecosystem -- and look, if they're not with us for deposits, we want them to be in our Dreyfus money market fund complex and be using our products and services. So, we don't want to lose the cash. We can put the cash into other products. 
+So, I think we feel very good about where the deposit franchise is now. We feel very good about the pipeline of activity that's coming our way. But who knows? And we are prepared and risk managed to a higher for longer continued QT, et cetera, et cetera, et cetera.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [46]
+--------------------------------------------------------------------------------
+And Gerard, just to add one point to that when it comes to the rates markets. We've avoided trying to have a crystal ball on exactly what it is -- that's going to happen. We said we think resilience is a commercial attribute for us. You highlighted the benefit of that resilience that we saw earlier on in the year, as clients really came to us as a safe refuge. And obviously, we're very happy to help them with that.
+But that also means that we have views about what might happen. We have views about how we position our balance sheet, but ultimately, we are positioning to be able to deal with any of these eventualities. I sat on a trading desk for the first 10 years of my career. And the current level of 10-year rates is at the bottom end of the range over that period of time. So, there's absolutely no reason why the curve can't move further from here. It's moved 100 basis points since mid-July at the 10-year point. And so, we are positioning ourselves to be able to be adaptable to however the world is going to unfold, and Dermot commented on that when it came to our capital ratios earlier on.
+Now, there are some things that have played out exactly as we thought. Other things that have played out a little differently. I think the treasury has done a very good job in coordinating with the Fed, as they have ramped up the issuance of bills, in particular. And that has worked very gracefully with the roll down of essentially $1 trillion at this point of the RRP.
+So, the interplay between reserves, between RRP, between the very high levels of issuance coming out of the Treasury, these are all significant inputs. And our data shows us that there's actually been less foreign buying in the Treasury market over the course of this year. And so, there's going to be a supply and demand dynamic that's going to occur further out the curve, which I don't think anybody can predict, but you certainly have to be ready for the different ways that could play out.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Brian Bedell with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Brian Bertram Bedell,  Deutsche Bank AG, Research Division - Director in Equity Research    [48]
+--------------------------------------------------------------------------------
+Great. Thanks. Good morning, guys. Thanks for taking my question. Maybe just a nuance on the net interest revenue by segment. So, just the Securities Services versus the Market and Wealth segment. It looked like there was more pressure on the Securities Services business NII versus the second quarter. Just wondering if that is more of the lull in NIBs that you referenced, Dermot, in August? And if you think that might just normalize as we move into the fourth quarter? And I guess, and/or are you doing things internally in terms of the growth initiatives that you just talked about, Robin, a couple of answers ago, that might accelerate the NIR in that segment much more rapidly over time?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [49]
+--------------------------------------------------------------------------------
+So, let me deal with the first question. So, I would say there is nothing really noticeable underneath the hood that is nuanced that is different by different segments. If you think about Asset Servicing, our Issuer Services as a segment, it's made up of 3 businesses: Asset Servicing, Depositary Receipts and Corporate Trust.
+Corporate Trust as a business tends to attract a higher level of NIBs due to the nature of that business. Q3 would have been a seasonally quieter period for that business. Debt issuance activity was more muted. So, that would explain a little bit of that.  And Asset Servicing,  let's just say, like how clients are behaving with us at the moment in the ecosystem. But I wouldn't really call anything out that is noticeably different. And we think about our deposits as one platform centrally managed under one roof, and that's how we manage it.
+
+--------------------------------------------------------------------------------
+Brian Bertram Bedell,  Deutsche Bank AG, Research Division - Director in Equity Research    [50]
+--------------------------------------------------------------------------------
+Okay. Great. And then, just maybe just a follow-up on the -- actually in the other -- investment and other revenue, there's one area there that's been growing quite nicely sequentially for now, 3 straight quarters. It's the other trading revenue line. And the size of that is now --  if you continue with this type of growth for the next 2 or 3 quarters, you'll be approaching your FX trading revenues. I just wonder if you talk about the drivers of that and whether you see that type of growth path continuing?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [51]
+--------------------------------------------------------------------------------
+Look, the key feature of that business this quarter as it has been all of this year really has been the strength of our fixed income trading. You do have a little bit of seed capital gains in there as well, but it's predominantly the fixed income trading. So, we feel very good about it in the overall scheme of the quarter and the results. It's a small number in the big scheme of things, but we like what we have there.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Glenn Schorr with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Glenn Paul Schorr,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Research Analyst    [53]
+--------------------------------------------------------------------------------
+I know we've touched on this throughout the question, so you can be brief, but I want to put it in a different package. So, it's not lost on you, we've seen a lesser ability to predict or control client behavior from some of the peers when it comes to all things deposits. And so, I don't know if there's a way to give it the attribution, but is there -- is it all related to your business mix and client base? Do you think your consolidated deposit efforts have actually moved the needle? Just trying to get inside your confidence relative to what we've seen elsewhere. Thanks. And I don't know how much of that is depletion of nonoperating balances anyway, so now you know most of what's left is operating. So thanks a lot. Sorry if repetitive.
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [54]
+--------------------------------------------------------------------------------
+So, I will give you 2 dimensions to that answer, Glenn. One is we have a portfolio of businesses that attract both interest-bearing and noninterest-bearing deposits. Corporate Trust, Treasury Services, Asset Servicing, Clearance and Collateral Management being the primary ones. They all have different characteristics about them, and they do things in slightly different ways. So, it gives you a portfolio effect so that you feel like you have a diversified deposit platform. I think that's important point number one.
+Important point number two is how we manage and price the deposits. If you came to BNY Mellon 3 years ago, you would have all of those deposits in different lines of business. They would have all handled their clients separately. They would have all priced their deposits separately And you would have ended up with suboptimal outcomes when you aggregate that up from the BNY Mellon's standpoint.
+Now we've got Global Liquidity Solutions. It's one team that interfaces with each of the line of the businesses. But we price consistently, we manage consistently, and we have a pipeline that we think of as one firm. I think you add all that together, you get the 1BNY Mellon effect, you get the strategy effect and you get the line of business effect, and that gives us confidence that we have a good handle on our deposit franchise and where we want to be from here.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Rajiv Bhatia with Morningstar.
+
+--------------------------------------------------------------------------------
+Rajiv K. Bhatia,  Morningstar Inc., Research Division - Equity Analyst    [56]
+--------------------------------------------------------------------------------
+Great. Good morning. Just following up on the deposit conversation. I mean, by my calculations, your deposit betas rose quite a bit in the quarter. I guess, can you comment on what your U.S. dollar versus non-U.S. dollar deposit betas were in the quarter? And then, how do your deposit betas differ across your lines of businesses such as Asset Servicing, issuer servicing, Pershing and payments?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [57]
+--------------------------------------------------------------------------------
+So, thanks for the question. I guess 75% of our book is dollars, roughly 10 euro, roughly 10 sterling and the rest, other. As it relates to betas, I think of it in cumulative beta terms. The cumulative beta of our dollar book is around 80%, which I think I said earlier, and that hasn't materially changed quarter-over-quarter. Sterling and euros are about 50%, 60%, respectively, give or take a little bit.
+And so, we feel, as it relates to passing on the pricing, the clients that we have are sophisticated, largely passed on the prices as they come through. And it may grind a little bit higher from here. But overall, we feel pretty good about where the book is, where it's priced. You may see some modest catchups and lags here or there. But overall, we think it's where it should be, given what's happened in the market.
+
+--------------------------------------------------------------------------------
+Rajiv K. Bhatia,  Morningstar Inc., Research Division - Equity Analyst    [58]
+--------------------------------------------------------------------------------
+Great. And then your deposit betas by lines of business?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [59]
+--------------------------------------------------------------------------------
+I don't have that level of detail with me, so we can follow up with you off-line.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+Our next question comes from the line of Jim Mitchell with Seaport Global.
+
+--------------------------------------------------------------------------------
+James Francis Mitchell,  Seaport Research Partners - Research Analyst    [61]
+--------------------------------------------------------------------------------
+Hey. Good morning. Just a question. You guys have had a lot of success in improving the organic growth in things like Pershing, collateral management, but Investment Management has been sort of left out of that discussion. Long-term flows outside of liability management have been negative last year. So, do you see an organic growth opportunity there? Are you investing in that business? And how do you improve that organic growth from here?
+
+--------------------------------------------------------------------------------
+Dermot William McDonogh,  The Bank of New York Mellon Corporation - Senior Executive VP & CFO    [62]
+--------------------------------------------------------------------------------
+Thanks for the question, Jim. Look, we said on a couple of calls ago that where the margin of that business is at the moment, we feel we have work to do. We're not happy with it. There are a bunch of things that have happened last year that are feeding into this year that have caused a remixing by our clients out of active strategies into passive, which are lower fee paying out of equities into fixed income.
+So, there's rebalancing going on under the hood, and we're kind of attacking it in a number of different ways. One being getting after structural expense inefficiencies. And we've talked a lot about that today, and that's -- this segment is no different to that. So, we're attacking it there. We're rolling out new products, and that's going to take time to build AUM, but do that in a first-class way. We kind of think organic growth will come on the back of that.
+Inside of BNY Mellon, we have a very powerful distribution platform. So, we're very focused on really energizing the distribution platform to support our boutique asset managers and we've made some leadership changes there this year. And we're going to begin to see the fruits of that in the coming quarters.
+So, we're going at it in a number of different ways. And some of the asset management boutiques are performing very well, and we're very happy with them. And some of them have work to do, and we're very focused on it, and we're not sitting idle wishing it to happen. We're active in trying to make it happen.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+And our final question comes from the line of Mike Mayo with Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Michael Lawrence Mayo,  Wells Fargo Securities, LLC, Research Division - MD, Head of U.S. Large-Cap Bank Research & Senior bank Analyst    [64]
+--------------------------------------------------------------------------------
+Hi. Just as a follow-up. You've been giving a lot of optimism. I know you have to execute, but you said you're bending the cost curve. NII should do pretty well the way you're positioned for rates. You're investing for growth. You're shooting for positive operating leverage next year, so it's -- all sounds pretty good. When you think about the risk to the company over the next year, what are the main risks that come to mind that you think you need to pay a little extra attention to, whether it's macro or micro?
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [65]
+--------------------------------------------------------------------------------
+So, I'll just start, Mike, with the way that you set up the initial part of the question. You're right. We are optimistic about the potential that we have in the company and the opportunities that our franchise and our businesses afford us. Now we haven't lived up to that potential. But the reason why you detect the optimism, I think, in the way that we talk about it is because we do have an inherent optimism that this is absolutely a doable proposition to unlock that potential.
+Now, it's a ton of work. As Dermot just said in answer to a different question, we're not going to wish our way there. And maybe that's one of the things that we've really doubled down on now as a leadership team, is that we have to work the problem, and we have to work the problem through all of these different angles in order to really be able to unlock the potential.
+And as I said in my prepared remarks, there's a cultural change that we need to create in the company to take what has otherwise been a great culture, but take it to the next level, power it forward, that really allows us to de-silo and operate more broadly across the board. And you and I just talked about that a few minutes ago. We have to execute to get it done.
+So, of course, there, it follows from that, that if really evolving the culture to de-silo and to move towards this platform mindset and getting things done in execution are critical to us unlocking our potential, then the biggest risks in the company in some respects from an internal point of view, become not doing those things.
+So, we are laser-focused on doing those things, tracking those things and as a leadership team, really coming together to make sure that we're holding each other to account for the respective parts that everybody in the leadership team of the company plays in moving that forward. So, that's the reason for the optimism but also the reason for the constant humility associated with the fact that it's execution that's going to get the job done.
+Now in terms of the outside world, there's clearly a ton going on in the world. We've got geopolitical tensions through a continuum all the way to war in many regions of the world right now. We have all of the uncertainty still of rates and inflation in the economy. Here in the U.S., that creates uncertainties. There's the ever-present cyber risk, which we always take very seriously.
+And those things are always collectively on our minds. We don't pretend to predict exactly how things are going to occur. We try to prepare for them as best we possibly can, recognizing that.
+that's what our clients need from us as we help them to adapt to this environment, and that we manage through it. So, that's sort of the way that I think about both the internal and external answer to your question.
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+And with that, that does conclude our question-and-answer session for today. I would now like to hand the call back over to Robin with any additional or closing remarks.
+
+--------------------------------------------------------------------------------
+Robin Antony Vince,  The Bank of New York Mellon Corporation - President, CEO & Director    [67]
+--------------------------------------------------------------------------------
+Thank you, operator, and thank you, everyone, for your interest in BNY Mellon today. If you have any follow-up questions, please reach out to Marius and the IR team. Be well.
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+Thank you. This does conclude today's conference and webcast. A replay of this conference call and webcast will be available on the BNY Mellon Investor Relations website at 2 p.m. Eastern Standard Time today. Have a great day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

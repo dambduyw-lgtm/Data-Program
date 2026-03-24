@@ -1,0 +1,471 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2024 Coca-Cola Co Earnings Call
+JULY 23, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * John Murphy
+   Coca-Cola Co - President, Chief Financial Officer
+ * Robin Halpern
+   Coca-Cola Co - Vice President
+ * James Quincey
+   Coca-Cola Co - Chairman of the Board, Chief Executive Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Dara Mohsenian
+   Morgan Stanley - Analyst
+ * Andrea Teixeira
+   JPMorgan Chase & Co - Analyst
+ * Lauren Lieberman
+   Barclays Bank PLC - Analyst
+ * Bryan Spillane
+   BofA Securities - Analyst
+ * Bonnie Herzog
+   Goldman Sachs Group, Inc. - Analyst
+ * Stephen Powers
+   Deutsche Bank AG - Analyst
+ * Robert Moskow
+   TD Cowen - Analyst
+ * Christopher Carey
+   Wells Fargo Securities, LLC - Analyst
+ * Robert Ottenstein
+   Evercore ISI - Analyst
+ * Filippo Falorni
+   Citigroup Inc. - Analyst
+ * Charlie Higgs
+   Redburn Atlantic - Analyst
+ * Kaumil Gajrawala
+   Jefferies - Analyst
+ * Kevin Grundy
+   BNP Paribas - Analyst
+ * Peter Grom
+   UBS Investment Bank - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          As time, I'd like to welcome everyone to the Coca-Cola company's second quarter 2024 earnings results conference call. Today's call is being recorded. (Operator Instructions) I would now like to introduce Ms. Robyn Halpern, Vice President and Head of Investor Relations. Miss Halpern. You may now begin.
+
+--------------------------------------------------------------------------------
+Robin Halpern,  Coca-Cola Co - Vice President    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and thank you for joining us I'm here with James Quincey, our Chairman and Chief Executive Officer, and Dan Murphy, our President and Chief Financial Officer. We've posted schedules under financial information in the Investors section of our company website reconcile certain non-GAAP financial measures that may be referred to this morning to results.
+As reported under generally accepted accounting principles. You can also find schedules in the same section of our website that provide an analysis of our gross and operating margins. This call may contain forward-looking statements, including statements concerning long-term earnings objectives, which should be considered in conjunction with cautionary statements contained in our earnings release and in the company's periodic SEC reports. Following prepared remarks, we will take your questions. Please limit yourself to one question re-enter the queue to ask follow-ups. I will now turn the call over to James.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Robin, and good morning, everyone. After a good start of the year, we continued our momentum in the second quarter, in a world with a wide spectrum of market dynamics. Our all-weather strategy is working. We're winning in the marketplace by leveraging our scale and continuing to foster a growth mindset, given our strong year-to-date results, we are raising both our top line and our bottom line guidance today.
+This morning, I'll start by discussing the current operating environment and reviewing our second quarter performance, then I'll explain how we're enhancing our capabilities to drive more effective and efficient operations, including leveraging digital and enabled innovations to ultimately contribute to our earnings growth.
+Finally, John will discuss our financial results of the raise 2024 guidance. In the second quarter, we grew volume, generated strong organic revenue growth and expanded margins while continuing to invest in our business. We also gained value share. This culminated in 7% comparable earnings per share growth despite the 10% currency headwinds and 2% headwinds from bottler re-franchising.
+Overall, our industry remains attractive and is expanding. We believe we're well positioned to capture the vast opportunities available to us, but we're continuing to navigate many varying market dynamics locally to deliver our Global objectives.
+In Asia Pacific, we had strong performance across most of our footprint in Asiana and South Pacific. The refranchising of the Philippines is off to a good start. In the Philippines we grew volume by double digits and drove strong value share gains by increasing focus on affordable packages, including accessible price points and refillable offerings.
+Growth across Asiana and South Pacific was driven by strong end-to-end execution across our sparkling portfolio. Our business in India recovered nicely from a slower start to the year, driven by Sprite and Fanta as well as strong local brands such Thumbs up Maaza and strong end-to-end execution across our growth flywheel will lead to double digit volume growth. In China Consumer confidence remains subdued. We continue to focus on our core business and invest behind profitable long-term growth.
+Lastly, in Japan and South Korea, we generated volume growth during the quarter on one value share. We successfully relaunched Ayataka a much loved local tea brand in Japan, and we're also benefiting from stronger execution in e-commerce channels.
+In India, the external environment remains mixed. In Europe, we saw pressure in our away-from-home business due to some reduced foot traffic and adverse weather in Western Europe. To capture value we're investing in several highly anticipated activations, including music festivals, the EURO 2024 football championship and of course, the Paris Olympics.
+We're increasing our focus on brands with strong momentum across our total beverage portfolio, including Fuze Tea, Powerade and our promising sparkling innovations such as Coke lemon and reformulated Sprite. In Eurasia and Middle East, geopolitical tensions and economic uncertainty continued to impact our business. We're working closely with our local partners to navigate these headwinds while investing for the long term.
+In Africa, despite multiple currency devaluations, strong integrated execution led to robust performance across our markets. For example, in Nigeria, our system quickly responded to the intense inflationary environment by focusing on affordable packages, including accessible price points of refillable offerings and increasing outlet coverage to win both volume and value share.
+Across Africa, we grew volume in mid-single digits and similarly one, both volume and value share. In North America, we generated robust top line and bottom line growth and one value share. Our volume decline was driven by softness in away-from-home channels. To offset this, we're partnering with foodservice customers to market food and drink combo meals to drive traffic and beverage incidents. Excluding mainstream packaged water at home, volumes held up well.
+Fairlife and trademark Coke finished number one and number two as the at-home retail sales growth leaders for the industry during the quarter. Our juice business also had a strong quarter and recent innovations, including Sprite chill and Topo Chico supporters are off to a solid start.
+In Latin America volume momentum continued led by strength in Mexico and Brazil. Growth was driven across our entire total beverage portfolio. Coca-cola Zero Sugar had a standout quarter with over 20% volume growth. And we're continuing to take integrated execution to the next level by increasing investments behind cold drink equipment to win share of visible inventory and create additional consumer demand.
+Finally, in Global Ventures, despite pressures in key markets such as United Kingdom and China, we generated organic revenue growth and expanded margins. Customers driving loyalty through targeted promotions like [free] drop and innocent gained value share in Europe.
+Putting it all together, despite an ever-changing external environment, our business remains very resilient. The power of our portfolio, amplified by our system's unique capabilities is a clear advantage. While we're delivering on our near-term commitments, we're also building capabilities and innovating across our flywheel to become a more agile and effective and efficient organization.
+Starting with marketing and innovations. Last year, we stood up studio X, which is our digital and organizational ecosystem that integrates marketing capabilities and connects them to our global network structure. We're producing tailored content at scale and with speed and are able to measure impact in real time. We're also refining our innovation process to prioritize bigger and bolder bets, and we're removing barriers to deliver a more holistic approach towards the time to launch. I think the best way.
+We know that innovation that grow in the 2nd year have a much greater, multiyear success and deliver far greater impact. So we focused on sustaining investment. I have consistently improves second-year performance success rates in each of the past four years. Continued innovation successes include Sprite and Fanta reformulations, Fuze Tea in Europe, and they made zero sugar in North America among many others.
+As a result of these combined initiatives, we have greatly improved our ability to rapidly produce and deliver marketing content, integrate activations with timely innovations and scale successes to drive the greatest impact.
+One example from the second quarter, Coca-Cola's partnership with Marvel, which featured nearly 40 different limited edition, flexible graphics and QR codes now packaging to connect consumers with unique augmented reality experiences. We're collaborating closely with Marvel Studios and the Walt Disney company and tapped into the best in class animation and activation to quickly scale to over 50 markets.
+As a result of this and other growth initiatives. Trademark Coca-Cola grew volume and volume and value share during the quarter. Our marketing and innovation transformation journey contributed to trademark Coke, winning creative Brand of the Year for the first time ever at the Cannes Lions in June, we won 18 different awards that came live beyond marketing innovation with flexing our muscle in revenue growth management and integrated execution to sustain competitive advantage.
+Even in markets with very well-developed capabilities, there's potential to be even better. For example, Mexico as one of the markets at the forefront of revenue growth management and has the highest cold drink equipment density in the world. During the quarter, we drove affordability with refillables and premiumization with single-serve transactions per system also added over 80,000 coolers year to date.
+Through these and similar initiatives, we grew volume mid-single digits during the quarter, continuing the momentum for the past few quarters. Each day, consumers enjoy approximately 2.2 billion servings of our products, translating into about 800 billion servings annually. This kind of scale gives us unique insights into the consumer, which helps us to better tailor offerings.
+Emerging technologies, including those enhanced by II have the potential to create value for retailers and consumers. For example, we're piloting an AI-based price pack channel optimization tool across several markets that evaluates opportunities to better tailor solutions to drive incremental volume and revenue. Early results show that tools helps improve both our offerings and speed to market. Our system is also piloting an AI-driven initiative to push personalized messages to retailers with suggested items based on previous orders and market data.
+Initial pilots indicate that retailers who received the messages are over 30% more likely to purchase recommended SKUs, which resulted in incremental sales for our retailers. And the system were just scratching the surface of what's possible. And we're taking steps to seize opportunities down the road.
+To sum it all up, while we recognize there's still much work to be done to capture the vast opportunities available. We're encouraged by our year-to-date results and efforts to improve every aspect of how we do business.
+As we look forward to the second half of the year, the external backdrop remains uncertain, including some signs of pressure in various consumer segments across developed markets. However, thanks to the power of our portfolio and the unwavering dedication of our system employees, we are confident we will deliver on our updated 2024 guidance and longer-term commitments.
+With that, I'll turn the call over to John.
+
+--------------------------------------------------------------------------------
+John Murphy,  Coca-Cola Co - President, Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, James, and good morning, everyone. In the second quarter, we delivered strong results we grew organic revenues 15%. This consisted of 2% unit case growth. Concentrate sales were ahead of volume by 45 points, driven primarily by timing of concentrate shipments and some disruptions in the global supply chain that we partly expect to reverse next quarter. Our price mix growth of 9% in the quarter was primarily driven by two items, one, approximately 5 points of intense inflationary pricing across a handful of markets to offset significant currency devaluation and to an array of pricing and mix actions across our markets.
+Excluding the impacts from concentrate shipment timing and pricing from markets with intense inflation. Organic revenue growth during the quarter was at the high end of our long-term growth algorithm. Comparable gross margin was up approximately 200 basis points driven by underlying expansion and the benefit from bottler refranchising, partially offset by currency headwinds come from the operating margin expanded approximately 120 basis points.
+Comparable operating margin expansion was less than comparable gross margin expansion due to less benefit from bottle refranchising and greater currency headwinds to comparable operating margin. Putting it all together second quarter comparable EPS of $0.84 was up 7% year over year despite 10% currency headwinds and 2% headwinds from bottle refranchising. Free cash flow was approximately $3.3 billion, down approximately $700 million versus the prior year due to higher tax payments, cycling working capital benefits from the prior year and higher capital expenditures. We continue to take actions to achieve a fit for purpose balances that will best support our growth agenda.
+During the quarter, we raised approximately $4 billion in cash by issuing long-term debt for general corporate purposes. This may include prefunding of upcoming payments related to the IRS tax case and the share life contingent consideration. With respect to our IRS tax case, which we continue to vigorously defend. We're making progress toward next steps, and we expect we will be able to move forward on appeal by the end of the year.
+Given the continued outperformance of Paradise we recorded a charge of $1.3 billion during the quarter. Our estimated final payment related to this acquisition is $5.3 billion, which will be made in 2025. We are encouraged by fairlife performance and the value it has created for our company. So far this year, we've realized nearly $3 billion in gross proceeds from bottle refranchising and streamlining our equity investments will continue to prioritize higher growth businesses and take passive capital off the table.
+Return on invested capital is 24%, up approximately 5 points from three years ago. Our balance sheet is strong, as demonstrated by our net debt leverage of 1.5 times EBITDA, which is well below our targeted range of 2 to 2.5 times, we have ample capacity to pursue our capital allocation agenda, which prioritizes investing to drive further growth, continuing to support our dividend and staying dynamic, agile and opportunistic.
+As James mentioned, we're proactively managing our portfolio to deliver on our commitments. Our updated 2024 guidance reflects the momentum of our business in the first half of the year and our confidence in our ability to execute on our plans during the second half of this year. We now expect organic revenue growth of 9% to 10% and comparable currency-neutral earnings per share growth of 13% to 15%.
+Fossil refranchising is still expected to be a four to five point headwind to comparable net revenues, and we now expect a one to two point headwind to comparable earnings per share. Based on current rates and our hedge positions, we now anticipate an approximate five to six point currency headwind to comparable net revenues and an approximate eight to nine point currency headwind to comparable earnings per share for full year 2024.
+This increase in currency headwinds is driven by a small number of intensive inflationary markets. While the rest of the currency basket is relatively neutral to our results. All in, we now expect comparable earnings per share growth of 5% to 6% versus $2.69 in 2023. There are some considerations to keep in mind. We expect unit cases and concentrate shipments to be relatively in line with each other for the full year 2024. Please keep in mind, there are two extra days in the fourth quarter. Taking everything into consideration. We expect earnings growth during the remainder of 2024, we'll be weighted towards the fourth quarter.
+To summarize, we're encouraged by our track record and the underlying momentum of our business. Our system remains incredibly focused and motivated to drive growth. We're continuing to drive quality top line growth, expand margins, grow comparable earnings per share and improve the return profile of our business. And we're confident we will deliver on our guidance and longer-term objectives.
+With that, operator, we are ready to take questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Dara Mohsenian, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Dara Mohsenian,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. It'd be helpful to get an update on North America given questions around consumer spending. Could you just discuss any demand impact you're seeing on your business, any variance in channel performance and how that informs your view going forward? And then also as we transition to a more normalized cost environment. Can you give us any perspective on what's a more sustained price mix run rate going forward in North America? Thanks.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Yes, sure. No problem. Firstly, overall, it would be fair to say that the consumer sentiment is aggregate good is actually pretty strong, pretty resilient within that. There are some soft spots, particularly I think which has been relatively put out there already some softness in away-from-home channels with a little lower traffic. And so some increase in value seeking for combo meals.
+So definitely there's a piece of the lower-income consumers, which are either going out slightly less for when they do go somewhere looking for a greater value through combo meals. And then, of course, in the at-home channels, the business slightly greater focus by those consumers on getting kind of value deals or promo deals.
+Having said that, there's just so much consumers of spending on more premium categories or more premium price points and experiences. So that's all aggregating out of other sort of resilience for the average overall consumer.
+Within that, I think we've done we've done very well. We've seen strong growth across the portfolio. We saw strong growth in grape Coke trademark in finalizing Topo Chico in children. So and in aggregate, we wee one value share in the core source of our broad-based growth and some hotspots in terms of demand up demand down, but overall resilience of the consumer.
+And as you look out, that's the first thing that I think is worth underlining in North America in particular is the nature of the price mix. Remember that our North American business, I typically compared to the other parts of the world, we consolidate a set of vertically integrated businesses and a set of franchise concentrate businesses such that the growth of a channel or a category can produce a mix effect independent of pricing in the marketplace.
+As you look at the 11 points of price mix in the second quarter in North America, it's important to understand that only half of that is actually price. The other half is mix. And so when the juice drinks and fairlife and the juice business grows, Topo Chico grows and the sun is weak, you get a you get a mechanical business mix effect that makes the price mix look like it's gone up, but it hasn't really in the marketplace.
+So think of it as half of it is business mentioned half of it is real pricing in the marketplace, which gets you to a much more logical match to the level of inflation that's selling out going on in the marketplace in general, such that I think in North America and actually overall in general around the world, excluding the high end high, the intensive inflation markers as I mentioned in the comments.
+We see that inflation is largely coming into the landing zone. Yes, central banks would like to squeeze out another point or so. But generally, we're getting that. And I think that's reflected in our prospects. We still have input costs sort of going up, typically the agricultural loans rather than the metal or commodity-based ones. But in the end, our strategy remains yes, there will be cost inflation. Yes, we'll look to put through, yes, we'll work on productivity. But any pricing we're going to take we're going to have to earn with the marketing in the innovation and the execution. But it is, as I said earlier, approaching that normalization zone.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Lauren Lieberman, Barclays.
+
+--------------------------------------------------------------------------------
+Lauren Lieberman,  Barclays Bank PLC - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Great. Thanks so much. I'd love to have a similar conversation about Western Europe and because James, you mentioned a bit on also slowness in away-from-home, but the summer sports kind of has already kicked off or June. June was certainly part of it. And so and then the weather has been challenging, but maybe a little surprising to see the softness in the unit case volume in [Namibia]. And let me ask you about just a similar run through as you just did in North America on the dynamics, particularly in Western Europe?
+Thanks.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+
+          Yes. So let me let me first just separate Europe from EMEA, which obviously includes the Middle East and Africa. Africa had I had a strong our second quarter volume, good volume growth, building on good volume growth in the first quarter. Our price mix, obviously there's a lot of swings and roundabouts macroeconomically going on in Africa. But actually net-net, the Africa business had a really good quarter winning volume and value share, managing through the inflation and growth on good volume growth and good price growth.
+The flip side is Middle East. Obviously, the conflict is continuing to affect the business in that part of the world. And so there's some headwinds there and then if it comes to Europe within EMEA or Europe was overall not where we'd like to be. We'd like to see a little more growth coming out of the European business. And really it's a complete mix across the countries in Europe. And there is more pressure on the away-from-home in the west and the east.
+Yes, some of the sporting programs. I've certainly health, whether it was UA. This has already happened or Olympics, which is imminently going to stop. Some of the sporting has held. But there's been there's been some pressure on the away from home, as I said in the West. And so the immediate consumption packs have been growing slower than ever, that strong strong programs, but not yet enough to offset the weather in some of the countries as the same general effect as the US in terms of the lower-income consumers, speaking of value in doing less away-from-home trip. So big picture, Europe, not too dissimilar from the US, perhaps a little worse weather and a little more sporting events, but in an aggregate sense, very similar.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Bryan Spillane from Bank of America.
+
+--------------------------------------------------------------------------------
+Bryan Spillane,  BofA Securities - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Hey, thanks, operator. Good morning, everyone. John, just a question for you. Two points maybe related to the concentrate shipments. One is I think we've talked about expecting that the lineup by the end of the year. But I guess can you talk a little bit about what's driving this, how much of it is, you know, the Red Sea and I don't know just it's maybe more difficult to get stuff around versus just kind of the regular, you know, timing differences. And I guess what's underneath this is should we expect a little bit more volatility in the near term, just around unit shipments versus units, just simply because the world's a little bit on unsettled right now. And the second, if you can just give us a perspective on how much margin gross margin benefited from the excess shipments in the quarter?
+Thanks.
+
+--------------------------------------------------------------------------------
+John Murphy,  Coca-Cola Co - President, Chief Financial Officer    [9]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Bryan. So on the first question, yes, we had number of events during the quarter that that affected the relationship between unit cases and concentrate. You mentioned a couple of them there. I'm just in the Red Sea at Singapore. In last time, we had a some restocking in the wake of the floods in Brazil and in our India operations, we had some some stocking up to anticipate some future demand. So a range of factors, none of them with a to the common thread to them. Our guidance assumes a more normal second half of the year. But as you rightly highlighted, there is likely to be something ahead of us that we have not anticipated.
+And then, if that were to happen. We'd certainly we certainly advise, but our goal is over the over the longer haul is to continue to have cases and gallons in line. With regards to the to the in the gross margin impact, there's a slight benefit on both some the gross and operating margins related to stocking and but it's in the 10 basis points and and again, reflected in our guidance years to go with that some with that leveling out that we expect.
+Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Bonnie Herzog from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Bonnie Herzog,  Goldman Sachs Group, Inc. - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          All right, thank you. Good morning, everyone. I did want to ask a little bit more about your away-from-home business. James which you did touch on. I guess I was hoping to hear how much your business in this channel decelerated in Q2 versus Q1 and what your outlook is for the remainder of the year? And then assuming growth in the channel moderates further, how do we think about the impact this may have on your top line and margins and maybe just touch on any initiatives you've implemented to accelerate growth in this channel moving forward? I think that would be helpful. Thank you.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [12]
+--------------------------------------------------------------------------------
+
+          Sure Bonnie, I don't think it would be, Tom. I don't think it would be worth saying that the deceleration going on as we come on into the second quarter from the first quarter. And if you just step back a bit and look at what happened. And I think we were already calling out some softness in away-from-home in the back end of last year.
+So I would I would characterize it more as it's been a slow build from the back half of last year through the first and the second quarter maybe a little more negative than the back half last year. But really it's just it's been a kind of a slow softening, rather anything major and abrupt that is not in like accelerating off a cliff. It's kind of a slow softening that's kind of just running at a software level and when thinking about away from home in the US.
+And then in terms of what we're doing about it, which is obviously the key question is we really got being more focused on how can we make sure what we bring to bear in the away-from-home channels in a sense all the thinking that we have historically done for affordability and price pack architecture in some of the mom-and-pop and at-home channels and make sure working with our partners across the different channels that we can provide that, whether it's the meal combos or whatever format of offering so that there's a laddering of pricing to allow people to stay within the category and the channel. And so those are rolling out as we speak, we would expect to see them making an impact and in the years to go.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Steve Powers, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Stephen Powers,  Deutsche Bank AG - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Hey, thank you and good morning. Maybe, John, just to so maybe a wrap around is the margin driver conversation and the impact of mix and concentrate timings that are year to date, the underlying margin performance both in the quarter and year to date, I guess as strong as I'm some penciling it out, right. I don't feel like you're expecting a material difference in the underlying margin performance of the business in the back half despite the slower concentrate sales and some of the macro drivers for play that back and confirm that and if there are any material differences, maybe just help us as to what are the drivers.
+
+--------------------------------------------------------------------------------
+John Murphy,  Coca-Cola Co - President, Chief Financial Officer    [15]
+--------------------------------------------------------------------------------
+
+          Sure, Steve. Thanks, so on gross margin, just to maybe highlight the big drivers there are underlying performance and a structural changes we have in the quarter, most of which now it is as relates to our refranchising activity and then how does a currency impact.
+So say, year to date were were reflecting almost 200 basis points of increase. And that's primarily driven by across a structural from an underlying with some some offset on currency. And for the second half of the year, typically that the margin profile in the second half of the year is slightly slightly lower than the first half. But I would I would say the overall trends in the second half of the year will be similar to what we've seen in the first half.
+And maybe just to step it down one down to the operating margin line, not similarly, we have had more benefit on the underlying margins in the first half of the year than on structural and then second half of the year, I expect it to be more even. And yet, as we've discussed in prior calls, we sort of reserve the right to stay flexible in the event that we make investment decisions that are linked to what's happening in our many markets around the world. But the overall direction of travel on both the drivers and operating line is our margin profile to be strengthening and to be pretty much in line with some of the previous conversations you've had on this topic.
+Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Filippo Falorni, Citigroup Inc.
+
+--------------------------------------------------------------------------------
+Filippo Falorni,  Citigroup Inc. - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, everyone. I wanted to ask about the Latin America business, it continues to be a very strong driver of your total company growth with a very strong unit case. Volume, still very strong price mix. There was obviously some temporary impacts with the flooding in Brazil. But just curious, A., what is working? Well, I know your bottler relationship have improved significantly over the last couple of years and also just a general sense of how the consumer is behaving in your key markets, Brazil, Mexico and some of the other countries?
+Thank you.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Sure, yes, it Latin America had another strong result in the quarter mix, you know, sustain the volume momentum, as you mentioned, clearly being driven from Mexico and Brazil. It's a pretty broad-based category. Our success story including not just Coke trademark, but now Coke Zero or 20% volume growth. Obviously, part of this is a long-term capability and momentum building approach with our bottlers in Latin America are really bringing together all of the components of the strategy that we talk about, whether it be the the marketing transformation focused on innovation and the execution of pop up price packaging in the marketplace, particularly in markets like Latin America, making sure we both have premiumization and opportunities, but also critically important affordability options, whether that be with no regular packaging returnable packaging up, but really making sure we have ways of keeping people in the franchise and all executed by the by the bottling system, which has really doubled down, not just on traditional execution and putting more coal doors out there after the digitization of their relationships with the retailer.
+So I'm really a representation of what is possible when all the elements of the strategy of the system are executed in the marketplace. I think it's worth noting that obviously, yes, strong volume performance of 5%. Please do take in mind and the price mix is heavily affected by the Argentinian high inflation. And two thirds of the price mix is actually due to Argentina. And so that leaves you about roughly six, four of normal inverted commas pricing for the rest of the countries. And nevertheless, a very strong result in Latin America. Very pleasing and looking forward to seeing that continue into the future.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Chris Carey from Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Christopher Carey,  Wells Fargo Securities, LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Good morning. I wanted to ask a question on just balance sheet cash flow specifically around fairlife. Clearly it's a positive development that fair life continues to do so well, the liability does, however, continue to grow.
+John, can you just maybe comment on what you can do to perhaps limit the negative impact from raising additional capital to cover fair life cover the escrow payments and specifically from a from a cash flow perspective in the next 12 to 18 months? And and perhaps just an overall view on how you see net interest expense versus income trending as you have some of these major payments to happen.
+Thanks.
+
+--------------------------------------------------------------------------------
+John Murphy,  Coca-Cola Co - President, Chief Financial Officer    [21]
+--------------------------------------------------------------------------------
+
+          Sure, Chris. Thank you befor saying that we're very pleased with the performance of fairlife and the the Anders and his insights with Adam relative to the to the overall construct of the deal we have in place there.
+And with regard to the broader free cash flow conversation, yes, there is the sources sources we have of cash from operations and in the short term, as we continue to refranchise some of our businesses from the proceeds that come in from that.
+During the second quarter, we also went into the debt market and we issue some long-term debt. And so it's really a combination of those three that we are managing very, very closely deal with the end of this year and into 2025 on the outflows that that could be that we see.
+Balance sheet remains strong as we go into 2025 with a clear line of sight as to what needs to be taken care of. And yet, as we have discussed on many occasions relative to our overall capital allocation strategy, we will continue to invest in the business as appropriate to support the dividend file. We take care of the fair life acquisition and the tax payment that is it is on the horizon relative to the IRS tax case. So all in all, it's going to be a convenient just saying 18 months to work through. But we feel very confident that the work we've done today it prepares us well to manage through it.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Andrea Teixeira from JPMorgan.
+
+--------------------------------------------------------------------------------
+Andrea Teixeira,  JPMorgan Chase & Co - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. I'm sure James will the price mix in North America, you mentioned about half of the 11 points driven by mix and the other pretty much price pivots to quite driven by innovation. Can you talk about the cadence of what you expect going and moving ahead of Parship done amazingly well on into chain there in terms of the marketing campaigns and marketing in and around packaging and all of that, our GM playbook that you have been booking ahead, is that any additional gains you expect and how we should be thinking, I guess, maybe even not only North America, but also in Brazil and Mexico, how to think of additional gains in there and as well as in India?
+Thank you.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [24]
+--------------------------------------------------------------------------------
+
+          Sure. I mean, absolutely, we're going to continue to press ahead with the marketing with the innovation with the price factor with the execution. That's the way we are if to take a reasonable level of pricing, clearly, some of the inflationary effects and some of the mix effects are likely to become more so subdued as we go into the back half of the years. So I'm not expecting, for example, in North America, it half of it is for mix and half of it is from a coal pricing. I think the mix piece will start to trend down over time and in part it does so because it starts cycling itself.
+And so I think it is the key for me is to look through the kind of the mix and the inflation effects of thinking about core pricing. And if you do that as a whole company level and look at the second quarter in its totality, again, there is obviously a big piece of it was inflation. You take it out and you're at the four ish percent in core pricing offer 2% volume there. You are right in the sweet spot of the top end of the algorithm that we've been that we've been looking to deliver on. And so I think that does not have that kind of the central role assumption is that kind of a landing zone for these for these effects like inflation and mix and starting to see more of the price mix being the core actions across the strategy, flywheels driving the business.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Kaumil Gajrawala from Jefferies.
+
+--------------------------------------------------------------------------------
+Kaumil Gajrawala,  Jefferies - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          You delivered 2% case volume growth and then look across sort of the rest of Staples, we're seeing quite a bit of slowdown in volumes.
+I think you're positive everywhere with the exception maybe of North America. Can you maybe just talk a bit more because you're you provided your operating environment views, but also innovation, new sports, sporting events, these types of things. What should we be looking at it over the medium term in terms of volume growth?
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          Yes. So we as from a strategy perspective, we have taken the approach over the last number of years to not say, even longer, but it's critically important, particularly when times get tougher to trying to keep as many, the consumers in the franchise as possible rather than trying to re-recruit them at some later stage. And therein are focused not just on marketing innovation, but affordability within the price pack architecture.
+Clearly an objective of ours is not to see negative volumes and to make sure we keep people in and use all the elements to do that. And so as you said, we got 2% in the quarter. We've got we've had a run rate that we've talked in the past, and it remains through today that that central long-term growth algorithm, we're looking for a revenue of 46%, and we've set ourselves the ambition of staying in the 5% to 6% range with a balance of volume and price mix for those essentially a way you've split that you're saying two to three in volume and two to three in price come out. We're kind of in that range in the quarter with the 2% volume. So I think in the long run, we will continue to pursue that.
+I talked earlier this year and that, you know, in the shorter term, it's likely to be slightly more price and slightly less volume, which was kind of exactly what happened in the second quarter. So it would not surprise me. And as we go through the rest of the year, that that remains true that we see slightly less volume than the kind of standard algorithm and slightly more prices as pricing tends towards inflation tends towards the landing zone.
+And I think that's likely to be true as we go into the as we go through the rest of the summer. Hopefully the weather gets a bit better, but we're likely to see that slightly less volume, slightly more price and probably a repetition of where that volumes coming from in terms of the rest of the year, the Post is largely being the developing economies, Latin America, India, Africa, Southeast Asia, and to some extent, Japan and kind of weighing on it a little because of the parts of North America and Europe, channel and income specific and some of the disruptions from the Middle East.
+But net-net we think we've got a strong strategy that's playing out and is winning. And we are confident that we can drive that to get that balanced algorithm of growth through the rest of this year for our guidance and into the future.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Robert Ottenstein from Evercore ISI.
+
+--------------------------------------------------------------------------------
+Robert Ottenstein,  Evercore ISI - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Great. Thank you very much. I'd like to go back to North America, but look at it more on a category basis on for the first half of the year with more emphasis on going to be the second quarter and I get your thoughts on a couple of things. Number one, it looks like for the first time that I can think of sparkling is doing better than energy as a sector. I love to get your thoughts on maybe what the drivers are there. And second, sports drinks, how your new strategy is working, combining Powerade and body armor under one management team? And then third, any other particular things that you're seeing on the category side that are worth noting? Thank you.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [30]
+--------------------------------------------------------------------------------
+
+          Yes, sure so and definitely North America had a good second quarter from the standouts in terms of growth, clearly actually what was interesting is actually if you look at the Nielsen universe and you look at which to trade Marks provided most dollar retail growth in Q2. And the answer is fairlife and Coca-Cola. And so you know it away, you can see that as a sort of microcosm for the overall strategy working, you've got broad ends as the portfolio working and it's being executed in the marketplace and driving really, really substantial growth.
+Good performance by fairlife good performance by overall Coca-Cola with growth, obviously being led by Coca-Cola Zero in the sports categories are getting better. We had some positive volume growth in body armor and Powerade. And we're really starting to see the kind of stabilization with the marketing and the innovation and some pack price work going on there. We're not yet gaining all the share we want to gain. But out, we've stabilized and starting to turn the corner with some of those innovations on zero and [flash IB] and Powerade ourselves a good, a good kind of step forward and turning the corner and clearly looking to do better, I'm not sure there's much more to say, great quarter end low net loss.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Peter Grom from UBS.
+
+--------------------------------------------------------------------------------
+Peter Grom,  UBS Investment Bank - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Thank you, operator, and good morning. So I guess I just wanted to follow up on Robert's question just specifically on energy drinks, right? I mean, it's one of the few categories where we've seen a pretty notable change here. So do you have any perspective, James, on what may or may be driving the weaker comments in that as you look ahead, would you anticipate maybe some of this pressure to be short-lived or is there something you're seeing that would suggest this weakness can persist through the balance of the year and into maybe '25? Thanks.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+
+          Sure. I think before you need to kind of break it, break it up a bit. I mean, firstly, look, we've had a great partnership with Monster, tremendous value for Monster for US Coca-Cola and for the bottling partners. And clearly, in the case of the US. There's been what happens in every category when when people create a category and there's one or two brands is people look for the white spaces and start to innovate and start to bring new news to the category. And I think that's what's happening in energy, particularly in the US. And so I think working with Monster that will respond to the evolution of the way the consumers look at the category.
+I think it's also important to understand that the energy category, it's one of the categories that respond to an overall consumer need state of being fueled for their lives. And so company point of view, we see that as something where we bring multiple brands to bear against that, the state and each each brand and each category, it needs to play its part in kind of delivering on that. And each one has to do their own work to do it. But I think there's more to be done across the board and including in the Monster Energy portfolio and working with them on that.
+And then I think internationally, there's robust growth in the energy category and making good progress around the world in different ways and different forms side, one has to kind of pull apart our energy category and look at it kind of geographically to see that overall, it's still got some good growth and there's different jobs to be done in different parts of the world.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Charlie Higgs, Redburn.
+
+--------------------------------------------------------------------------------
+Charlie Higgs,  Redburn Atlantic - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Hi, James, John, thank you both. Well, I've got a question on Asia Pacific and the performance in Q2, please, where volumes were up 3% and price mix was down 3%. Can you talk a bit more about the volumes up three and specifically how China performed and what you're seeing on the ground there in China in Q2 and then the price mix down three, is that purely just negative geographic mix from India, Philippines source Japan? What was the negative pricing within that? Thank you.
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Yes, sure I'll take it in reverse or Charlie that. Yes, the negative pricing is more than driven by the mix effect. So core pricing is positive. If you went operating unit by operating unit. But all over iron price mix is negative because of the way the mathematics of the thing works. But the central answer there is more than just geography mix who is consuming core pricing and taking it at a minus three.
+And then if I go back to the performance of the different operating units, clearly the big swing in Asia-Pacific is driven by the bounce back of India. You will remember that in the first quarter, India when we had a soft first quarter and the second quarter was very strong. And so that produces obviously a big swing in the result. So India had a good double digit growth of volume in the second quarter.
+We're still very bullish on India still very realistic in terms of it won't be a straight line into the future, but they certainly had a good quarter in the second quarter. We also saw good volume growth across Southeast Asia, including also volume growth across Japan and South Korea, volumes were negative in the China operating unit.
+There's two parts to this story. The first is yes, there's a general macro softness as the overall economy works through some of the structural issues around real estate pricing, et cetera, et cetera. Within the things that we control, we have essentially been prioritizing and restructuring where we invest across the category portfolio and focusing more on sparkling and juice drinks and teas and de-prioritizing what is essentially a case pack water where we are not don't make money in China. So the overall volumes were negative in China, but that's entirely driven by the deprioritization of water. And actually, the I think the sparkling volume was slightly positive in China Q4.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Kevin Grundy from BNP Paribas.
+
+--------------------------------------------------------------------------------
+Kevin Grundy,  BNP Paribas - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Great, thanks. Good morning, everyone. Some questions for John. Please just kind of building on some of the questions early on cash flow, can we get an update, please on timing of potential bottler refranchising?
+I think it's probably largely a question on CCBA and understanding that market conditions may potentially dictate. But can you help us how you're currently thinking about potential timing there? And then as you're thinking about value creation for shareholders. How much does the EPS solution come into that we hear that from shareholders, sometimes if at all as you're thinking about moving forward with that?
+Thanks.
+
+--------------------------------------------------------------------------------
+John Murphy,  Coca-Cola Co - President, Chief Financial Officer    [39]
+--------------------------------------------------------------------------------
+
+          So regarding the timing we're we're not giving out dates as to as to when we expect the refranchising process to to finish. We're staying very thoughtful, disciplined and recruiting new partners and the areas that are still outstanding. And so there's good work underway, but no, no imminent decisions, and we'll advise as that work bears fruition. But them I think the overall message is we continue to be very clear internally on the path forward, and we'll expect over the next couple of years to have the bulk of the refranchising.
+With regard to the the impact on EPS dilution. It says it's a mechanical effect that comes from the broader strategic decisions that we've that we believe are right for the Coca-Cola company. And overtime for the Coca-Cola system. The refranchising work that started back in the midterm teams is demonstrating time and again, that the overall system benefits, when does this step change and overall performance. And with that step change, we benefits over the longer haul.
+So as you've seen this year, there is a a mechanical impact on the EPS line, but longer term, we think that the the broader, the broader value proposition of the Coca-Cola company is staying very focused on what we do best and having a balance sheet and that's designed to support what we do. Best working in partnership with great offers around the world is the recipe for for us to meet and exceed our long term cross model.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Robert Moskow from TD Cowen.
+
+--------------------------------------------------------------------------------
+Robert Moskow,  TD Cowen - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Hi. Thanks for the question. Maybe I missed it, but did you make any commentary about your intentions on marketing investment for the year, whether anything's changed since the start of the year? I think you talked about maybe some surgical efforts in certain markets and certain categories. But I assume that there's no there's no signal here that it needs to be incremental investment to improve volume?
+
+--------------------------------------------------------------------------------
+James Quincey,  Coca-Cola Co - Chairman of the Board, Chief Executive Officer    [42]
+--------------------------------------------------------------------------------
+
+          Let me attack the answer to that. But our bias is to lean in and invest where we see opportunities. And to the extent that we continue to invest to see the opportunities we continue to invest. And if we see more opportunity, we'll have ethanol. And the contrary is also true. If we see softness, it doesn't warrant further level of investment, then we will look to pull back having said that there's nothing particularly in the guidance. This trying to tell you is changing radically in one direction or the other.
+Yes, we continue to see the need for marketing pressure it's not a fixed sum that it's not subject to inflation some, but there's nothing in the guidance is trying to tell you something radically different. It's very much we continue to invest and drive top line. And we see the two marching together. Okay. Thanks, Robert. That was that was the last question.
+So to summarize, we're building a culture that emphasizes improving every aspect of how we do business. We have lots of opportunities in front of us. We think we're well positioned to capture these opportunities, and we're confident that we will successfully execute our strategy and create value for our stakeholders. Thank you for your interest, your investment in our company and for joining us this morning. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

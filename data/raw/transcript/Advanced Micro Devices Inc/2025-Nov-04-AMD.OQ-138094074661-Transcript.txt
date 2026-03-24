@@ -1,0 +1,574 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2025 Advanced Micro Devices Inc Earnings Call
+NOVEMBER 04, 2025 / 10:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Matt Ramsay
+   Advanced Micro Devices Inc - Vice President - Financial Strategy & Investor Relations
+ * Lisa Su
+   Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director
+ * Jean Hu
+   Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Vivek Arya
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Joshua Buchalter
+   Cowen and Company LLC - Analyst
+ * Thomas O'Malley
+   Barclays Services Corp - Analyst
+ * Stacy Rasgon
+   Bernstein Research - Analyst
+ * Timothy Arcuri
+   UBS AG - Analyst
+ * Antoine Chkaiban
+   New Street Research LLP - Analyst
+ * Joseph Moore
+   Morgan Stanley & Co Ltd - Analyst
+ * CJ Muse
+   Cantor Fitzgerald - Analyst
+ * Aaron Rakers
+   Wells Fargo Securities LLC - Analyst
+ * Ross Seymour
+   Deutsche Bank - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Greetings, and welcome to the AMD third-quarter 2025 conference call. (Operator Instructions) As a reminder, this conference call is being recorded.
+It is now my pleasure to introduce to you Matt Ramsay, VP, Financial Strategy and Investor Relations. Thank you, Matt. You may begin.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Advanced Micro Devices Inc - Vice President - Financial Strategy & Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, and welcome to AMD's third-quarter 2025 financial results conference call. By now, you should have had the opportunity to review a copy of our earnings press release and the accompanying slides. If you have not had the opportunity to review these materials, they can be found on the Investor Relations page of amd.com, we will refer primarily to non-GAAP financial measures during today's call. The full non-GAAP to GAAP reconciliations are available in today's press release and the slides posted on our website. Participants in today's conference call are Dr. Lisa Su, our Chair and CEO; and Jean Hu, our Executive Vice President, CFO and Treasurer. This is a live call and will be replayed via webcast on our website.
+Before we begin the call, I would like to note that Dr. Lisa Su, along with members of AMD's executive team will present our long-term financial strategy at our Financial Analyst Day next Tuesday, November 11 in New York. Dr. Lisa Su will present at the UBS Global Technology and AI Conference on Wednesday, December 3. And finally, Jean Hu will present at the 23rd Annual Barclays Global Technology Conference on Wednesday, December 10.
+Today's discussion contains forward-looking statements based on our current beliefs, assumptions, and expectations, speak only as of today and as such, involve risks and uncertainties that could cause results to deliver material -- to differ materially from our current expectations. Please refer to the cautionary statement in our press release for more information on these factors that could cause actual results to differ materially.
+And with that, I will hand the call over to Lisa.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Matt, and good afternoon to all those listening today. We delivered an outstanding quarter with record revenue and profitability, reflecting broad-based demand across our data center, AI, server and PC businesses.
+Revenue grew 36% year over year to $9.2 billion. Net income rose 31% and free cash flow more than tripled led by record EPYC, Ryzen and Instinct processor sales.
+Our record third quarter performance marks a clear step-up in our growth trajectory as the combination of our expanding compute franchise and rapidly scaling data center AI business drives significant revenue and earnings growth.
+Turning to our segments. Data Center segment revenue increased 22% year over year to a record $4.3 billion led by the ramp of our Instinct MI350 series GPUs and server share gains. Server CPU revenue reached an all-time high as adoption of fifth-gen EPYC turn processors accelerated rapidly, accounting for nearly half of overall EPYC revenue in the quarter. Sales of our prior generation EPYC processors were also very robust in the quarter, reflecting their strong competitive positioning across a wide range of workloads.
+In loud, we had record sales as hyperscalers expanded EPYC CPU deployments to power both their own first-party services and public cloud offerings. Hyperscalers launched more than 160 EPYC-powered instances in the quarter, including new turn offerings from Google, Microsoft Azure, Alibaba, and others that deliver unmatched performance and price performance across a wide range of workloads. There are now more than 1,350 public EPYC cloud instances available globally, a nearly 50% increase from a year ago. Adoption of EPYC in the cloud by large businesses more than tripled year over year as our on-prem share gains are driving increased demand from enterprise customers for AMD cloud instances to support hybrid compute.
+We expect cloud demand to remain very strong as hyperscalers are significantly increasing their general purpose compute capacity as they scale their AI workloads. Many customers are now planning substantially larger CPU build-outs over the coming quarters to support increased demands from AI, serving as a powerful new catalyst for our server business.
+Turning to enterprise adoption. EPYC server sell-through increased sharply year over year and sequentially, reflecting accelerating enterprise adoption. More than 170 fifth-gen EPYC platforms are in market from HPE, Dell, Lenovo, Super Micro, and others, our broadest portfolio to date with solutions optimized for virtually every enterprise workload.
+We closed large new wins in the quarter with leading Fortune 500 technology, telecom, financial services, retail, streaming, social, and automotive companies as we expand our footprint across major verticals. The performance and TCO advantages of our EPYC portfolio, combined with our increased go-to-market investments and the expanded breadth of offerings from the leading server and solutions providers position us well for continued enterprise share gains.
+Looking ahead, we remain on track to launch our next-generation 2-nanometer Venice processors in 2026. Venice silicon is in the labs and performing very well, delivering substantial gains in performance, efficiency and compute density. Customer pull and engagement for Venice are the strongest we have seen, reflecting our competitive positioning and the growing demand for more data center compute. Multiple cloud OEM partners have already brought their first Venice platforms online, setting the stage for broad solution availability and cloud deployments at launch.
+Turning to data center AI, our Instinct GPU business continues to accelerate. Revenue grew year over year driven by the sharp ramp of MI350 Series GPU sales and broader MI300 series deployments. Multiple MI350 series deployments are underway, with large cloud and AI providers with additional large-scale rollouts on track to ramp over the coming quarters.
+Oracle became the first hyperscaler to publicly offer MI355X instances, delivering significantly higher performance for real-time inference and multimodal training workloads on OCI's set of scale supercluster. Neo cloud providers Crusoe, DigitalOcean, TensorWave, Vultr, and others also began ramping availability of their MI350-series public cloud offerings in the quarter.
+MI300 Series GPU deployments with AI developers also broadened in the quarter. IBM and Zyphra will train multiple generations of future multimodal models on a large-scale MI300x cluster. And Cohere is now using MI355X at OCI to train its command family of models. For Inference, a number of new partners, including Character.AI and Luma AI, are now running production workloads on MI300 series, demonstrating the performance and TCO advantages of our architecture for real-time AI applications.
+We also made significant progress on the software front in the quarter. We launched ROCm 7, our most advanced and feature-rich release to date, delivering up to 4.6x higher inference and 3x higher trading performance compared to ROCm 6. ROCm 7 also introduces seamless distributed inference, enhanced code portability across hardware and new enterprise tools that simplify the deployment and management of instant solutions. Importantly, our open software strategy is resonating with developers. Hugging Face, VLFM, SGLang, and others contributed directly to ROCm 7, as we make ROCm the open platform for AI development at scale.
+Looking ahead, our data center AI business is entering its next phase of growth with customer momentum building rapidly ahead of the launch of our next-gen MI400 series accelerators and Helios rack scale solutions in 2026. The MI400 series combines a new compute engine with industry-leading memory capacity and advanced networking capabilities to deliver a major leap in performance for the most demanding AI training and inference workloads. The MI400 series brings together our silicon, software, and systems expertise to power Helios, our rack scale AI platform designed to redefine performance and efficiency at data center scale.
+Helios integrates our Instinct MI400 series GPUs, Venice EPYC CPUs and Pensando Nick in a double-wide rack solution optimized for the performance, power, cooling, and serviceability required for the next generation of AI infrastructure and supports Meta's new open rack wide standard. Development of both our MI400 series CPUs and Helios rack is progressing rapidly, supported by deep technical engagements across a growing set of hyperscalers, AI companies and OEM and ODM partners to enable large-scale deployments next year.
+The ZT Systems team we acquired last year is playing a critical role in Helios development, leveraging their decades of experience building infrastructure for the world's largest cloud providers to ensure customers can deploy and scale Helios quickly within their environments. In addition, last week, we completed the sale of the ZT manufacturing business to Sanmina and entered a strategic partnership that makes them our lead manufacturing partner for Helios. This collaboration will accelerate large customer deployments of our rack scale AI solutions.
+On the customer front, we announced a comprehensive multiyear agreement with OpenAI to deploy 6 gigawatts of Instinct GPUs, with the first gigawatt of MI450 series accelerators scheduled to start coming online in the second half of 2026. The partnership establishes AMD as a core compute provider for OpenAI and underscores the strength of our hardware, software and full stack solution strategy.
+Moving forward, AMD and OpenAI will work even more closely on future hardware, software, networking, and system-level road maps and technologies. OpenAI's decision to use AMD instant platforms for its most sophisticated and complex AI workloads sends a clear signal that our instinct GPUs and ROCm open software stack deliver the performance and TCO required for the most demanding deployments. We expect this partnership will significantly accelerate our data center AI business with the potential to generate well over $100 billion in revenue over the next few years.
+Oracle announced they will also be a lead launch partner for the MI450 series, deploying tens of thousands of MI450 GPUs across Oracle Cloud Infrastructure beginning in 2026 and expanding through 2027 and beyond. Our Instinct platforms are also gaining traction with sovereign AI and national supercomputing programs.
+In the UAE, Cisco and G42 will deploy a large-scale AI cluster powered by Instinct MI350x GPUs to support the nation's most advanced AI workloads. In the US, we are partnering with the Department of Energy and Oak Ridge National Labs to build Lux AI, the first AI factory dedicated to scientific discovery together with our industrial partners, OCI and HPE. Powered by our instinct MI350 series GPUs, EPYC CPUs, and Pensando networking, Lux AI will provide a secure open platform for large-scale training and distributed inference when it comes online in early 2026.
+The US Department of Energy also selected our upcoming MI430x GPUs and EPYC Venice CPUs to power discovery the next flagship supercomputer at Oak Ridge designed to set the standard for AI-driven scientific computing and extend US high-performance computing leadership. Our MI430X GPUs are designed specifically to power nationscale AI and supercomputing programs, extending our leadership, powering the world's most powerful computers to enable the next generation of scientific breakthroughs.
+In summary, our AI business is entering a new phase of growth and is on a clear trajectory towards tens of billions in annual revenue in 2027, driven by our leadership rack scale solutions, expanding customer adoption, and an increasing number of large-scale global deployments. I look forward to providing more details on our data center AI growth plans at our Financial Analyst Day next week.
+In Client and Gaming, segment revenue increased 73% year over year to $4 billion. Our PC processor business is performing exceptionally well with record quarterly sales as a strong demand environment and breadth of our leadership Ryzen portfolio accelerates growth.
+Desktop CPU sales reached an all-time high with record channel sell-in and sellout led by robust demand for our Ryzen 9000 processors which deliver unmatched performance across gaming, productivity, and content creation applications. OEM sell-through of Ryzen-powered notebooks also increased sharply in the quarter, reflecting sustained end customer pull for premium gaming and commercial AMD PCs. Commercial momentum accelerated in the quarter, with Ryzen PC sell-through up more than 30% year over year as enterprise adoption grew sharply, driven by large wins with Fortune 500 companies across healthcare, financial services, manufacturing, automotive, and pharmaceuticals.
+Looking ahead, we see significant opportunity to continue growing our client business faster than the overall PC market based on the strength of our Ryzen portfolio, broader platform coverage and expanded go-to-market investments.
+In gaming, revenue increased 181% year over year to $1.3 billion. Semi-custom revenue increased as Sony and Microsoft prepared for the upcoming holiday sales period. In gaming graphics, revenue and channel sell-out grew significantly, driven by the performance per dollar leadership of our Radeon 9000 family. FSR 4, our machine learning upscaling technology that boosts frame rates and creates more immersive visuals saw rapid adoption this quarter with the number of supported games doubling since launch to more than 85.
+Turning to our Embedded segment. Revenue decreased 8% year over year to $857 million. Sequentially, revenue and sell-through increased as the demand environment strengthened across multiple markets, led by test and emulation, aerospace and defense and industrial vision and healthcare. We expanded our Embedded product portfolio with new solutions that extend our leadership across adaptive and x86 computing.
+We began shipping industry-leading Versal Prime series Gen 2 adaptive SoCs to lead customers, delivered our first virtual RF development platform to support several next-generation design wins and introduced the Ryzen Embedded 9000 series with industry-leading performance per watt and latency for robotics, edge computing, and smart factory applications. The design momentum remains very strong across our Embedded portfolio. We are on track for a second straight year of record design wins already totaling more than $14 billion year to date, reflecting the growing adoption of our leadership products across a broad range of markets and expanding set of applications.
+In summary, our record third-quarter results and strong fourth quarter outlook reflect the significant momentum building across our business, driven by sustained product leadership and disciplined execution.
+Our data center AI, server, and PC businesses are each entering periods of strong growth, led by an expanding TAM, accelerating adoption of our Instinct platforms and EPYC and Ryzen CPU share gains. The demand for compute has never been greater as every major breakthrough in business, science and society now relies on access to more powerful, efficient and intelligent computing. These trends are driving unprecedented growth opportunities for AMD. I look forward to sharing more on our strategy, road maps and long-range financial targets at our Financial Analyst Meeting next week.
+Now, I'll turn the call over to Jean to provide additional color on our third quarter results. Jean?
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Lisa, and good afternoon, everyone. I'll start with a review of our financial results and then provide our outlook for the fourth quarter of fiscal 2025.
+We are pleased with our strong third quarter financial results. We delivered record revenue of $9.2 billion, up 36% year over year, exceeding the high end of our guidance, reflecting strong momentum across our business. Our third quarter results do not include any revenue from shipments of the MI308 GPU products to China. Revenue increased 20% sequentially, driven by strong growth in the Data Center, and the Client and Gaming segment, and modest growth in the Embedded segment.
+Gross margin was 54%, up 40 basis points year over year, primarily driven by product mix. Operating expenses were approximately $2.8 billion, an increase of 42% year over year, as we continue to invest aggressively in R&D to capitalize on significant AI opportunities and go-to-market activities for revenue growth.
+Operating income was $2.2 billion, representing a 24% operating margin. Taxes, interest expense, and other totaled $273 million. For the third quarter of 2025, diluted earnings per share were $1.20, compared to $0.92 a year ago, an increase of 30% year over year.
+Now turning to our reportable segments, starting with the Data Center. Data Center segment revenue was a record of $4.3 billion, up 22% year over year, primarily driven by the strong demand for fifth-generation EPYC processors and Instinct MI350 series GPUs. On a sequential basis, Data Center revenue increased 34%, primarily driven by a strong ramp of our AMD Instinct MI350 series GPUs.
+The Data Center segment operating income was $1.1 billion or 25% of revenue compared to $1 billion a year ago or 29% of revenue, driven by higher revenue, partially offset by higher R&D investment to capitalize on significant AI opportunities.
+Client and Gaming segment revenue was a record of $4 billion, up 73% year over year and 12% sequentially, driven by strong demand for the latest generation of client and graphic processors and stronger sales of console gaming products.
+In the Client business, revenue was a record $2.8 billion, up 46% year over year and 10% sequentially, driven by record sales of our Ryzen processors and richer product mix. Gaming revenue rose to $1.3 billion, up 181% year over year and 16% sequentially, reflecting higher semi customer revenue and strong demand for our Radeon GPUs.
+Client and Gaming segment operating income was $867 million or 21% of revenue compared to $288 million or 12% a year ago, driven by higher revenue, partially offset by increase in go-to-market investment to support our revenue growth.
+Embedded segment revenue was $857 million, down 8% year over year. Embedded was up 4% sequentially as we saw certain end market demand strengthen. Embedded segment operating income was $283 million or 33% of revenue compared to $372 million or 40% a year ago. The decline in operating income was primarily due to lower revenue and end market mix.
+Before I review the balance sheet and the cash flow, as a reminder, we closed the sale of ZT System manufacturing business to Sanmina last week. The third quarter financial results of the ZT manufacturing business are reported separately in our financial statements as discontinued operations and are excluded from our non-GAAP financials.
+Turning to the balance sheet and cash flow. During the quarter, we generated $1.8 billion in cash from operating activities of continuing operations and the free cash flow was a record of $1.5 billion.
+We returned $89 million to shareholders through share repurchases resulting in $1.3 billion in share repurchases for the first three quarters of 2025. Exiting the quarter, we have $9.4 billion authorization remaining under our share repurchase program. At the end of the quarter, cash, cash equivalent and short-term investments were $7.2 billion. Our total debt was $3.2 billion.
+Now turning to our fourth quarter 2025 outlook. Please note that our fourth quarter outlook does not include any revenue from AMD Instinct MI308 shipment to China. For the fourth quarter of 2025, we expect revenue to be approximately $9.6 billion, plus or minus $300 million. The midpoint of our guidance represents approximately 25% year-over-year revenue growth driven by strong double-digit growth in our Data Center and Client and Gaming segment, and a return to growth in our Embedded segment.
+Sequentially, we expect revenue to grow by approximately 4% driven by double-digit growth in the Data Center segment with strong growth in server and the continued ramp of our MI350 series GPUs. A decline in our Client and Gaming segment with client revenue increasing and the gaming revenue down strong double digits and double-digit growth in our Embedded segment.
+In addition, we expect fourth quarter non-GAAP gross margin to be approximately 54.5%. And we expect non-GAAP operating expenses to be approximately $2.8 billion. We expect net interest and other expenses to be a gain of approximately $37 million. We expect our non-GAAP effective tax rate to be 13% and diluted share count is expected to be approximately 1.65 billion shares.
+In closing, we executed very well, delivering record revenue for the first three quarters of the year. The strategic investments we are making position us well to capitalize on expanding AI opportunities across all our end markets, driving sustainable long-term revenue growth and earnings expansion for compelling shareholder value creation.
+With that, I'll turn it back to Matt for the Q&A session.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Matt Ramsay,  Advanced Micro Devices Inc - Vice President - Financial Strategy & Investor Relations    [1]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Jean. John, we can go ahead and pull the audience for questions now.
+
+--------------------------------------------------------------------------------
+Operator    [2]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Vivek Arya, Bank of America Securities.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [3]
+--------------------------------------------------------------------------------
+
+          Thank you for the question. I had a near-term and medium-term question. For the near term, please, I was hoping if you could give us some sense of the CPU-GPU mix in Q3 and Q4. And just tactically, how are you managing this transition from your MI355 towards MI400 in the second half of next year? Can you continue to grow in the first half of next year from these Q4 levels? Or should we expect some kind of pause or digestion before customers get on board the MI400 series?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [4]
+--------------------------------------------------------------------------------
+
+          Sure, Vivek. Thanks for the question. So a couple of comments. We had a very strong Q3 for the Data Center business. I think we saw a strong outperformance in both the server as well as the data center AI business. And a reminder that, that was without any MI308 sales.
+The MI355 has ramped really nicely. We expected a sharp ramp into the third quarter, and that proceeded well. And as I mentioned, we've also seen some strengthening of the server CPU sales and not just, let's call it, near term, but we're seeing our customers are giving us some visibility in the next few quarters that they see elevated demand, which is positive.
+Going into the fourth quarter, again, a strong Data Center performance, up double digits sequentially; and up in both server and data center AI, again, on the strength of those businesses. And to your question, I mean, we're not guiding into 2026 yet, obviously. But given what we see today, we see a very good demand environment into 2026. So we would expect that MI355 continue to ramp in the first half of '26.
+And then, as we mentioned, MI450 series comes online in the second half of 2026, and we would expect a sharper ramp as we go into the second half of 2026 of our data center AI business.
+
+--------------------------------------------------------------------------------
+Vivek Arya,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          And for my follow-up, there is some industry debate, Lisa, about OpenAI's ability to kind of simultaneously engage with all three merchant and the ASIC suppliers, just given the constraints around power and CapEx and their existing kind of PSC partners and so forth. So how are you thinking about that? Like what is your level of visibility in the initial engagement?
+And then more importantly, how it kind of broadens out into '27, is there a way that one can model what the allocation would be? Or just how should we think about the level of visibility in this very important customer?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [6]
+--------------------------------------------------------------------------------
+
+          Yeah, absolutely, Vivek. Look, we're very obviously, very excited about our relationship with OpenAI. It's a very significant relationship. Think about it as it's a pretty unique time for AI right now. There's just so much compute demand across all of the workloads. I think in our work with OpenAI, we are planning multiple quarters out ensuring that the power is available, that the supply chain is available.
+The key point is the first gigawatt we will start deploying in the second half of '26, and that work is well underway. And we continue -- just given where lead times are and things like that, we are planning very closely with OpenAI, as well as the CSP partners to ensure that we're all prepared with Helios, so that we can deploy the technology as we stated.
+So I think overall, we're working very closely together. I think we have good visibility into the MI450 ramp and things are progressing very well.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Thomas O'Malley, Barclays.
+
+--------------------------------------------------------------------------------
+Thomas O'Malley,  Barclays Services Corp - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Good morning, taking my question and congrats on the good results. I had a first question on Helios. Obviously, with the announcement at OCP, customer interaction has to be growing.
+Could you talk about into next year, what your view is on discrete sales versus system sales? When do you see that crossover kind of happening? And just what initial responses have been from customers after getting a better look at it at the shelf?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [9]
+--------------------------------------------------------------------------------
+
+          Yeah, sure. Tom, thanks for the question. There's a lot of excitement around MI450 and Helios. I think the OCP reception was phenomenal. We had numerous customers and, frankly, bringing their engineering teams to understand more about the system, more about how it's built.
+There's always been some discussion about just how complex these rack scale systems are, and they certainly are, and we are very proud of the Helios design. I think it has all the features, functions, reliability, performance, power performance that you would expect.
+I think the interest in MI450 and Helios has just expanded over the last number of weeks, certainly with some of the announcements that we've made with OpenAI and OCI as well as the OCP show with Meta. I think overall, from our perspective, I think things are going really well in both the development as well as the customer engagements there.
+So in terms of rack scale Solutions, we would expect that the early customers for MI450 will really be around the rack-scale solutions. We will have other form factors as well for the MI450 series, but there's a lot of interest in the full rack scale solution.
+
+--------------------------------------------------------------------------------
+Thomas O'Malley,  Barclays Services Corp - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Super helpful. And then as my follow-up, it's a broader question as well and similar to kind of what Vivek asked. But -- if you look at the power requirements that are out there for some of the early announcements into next year, they're pretty substantial. And then you also have component issues that you're seeing across interconnected memory, just from your perspective as an industry leader, where do you think that the constraint will be? Will it come first with components not being available?
+Or do you think that both data center footprint in terms of infrastructure and/or power is the gating factor to some of these deployments into next year just as we really see some larger numbers starts to get deployed.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [11]
+--------------------------------------------------------------------------------
+
+          Thank you. Yeah. Sure, Tom. I think what you're pointing out is what we, as an industry, have to do together, the entire ecosystem has to plan together, and that is exactly what we're doing. So we're working with our customers on their power plans over the next, actually, I would say, 2 years from a silicon and a memory and a packaging in a component supply chain. We're working with our supply chain partners to make sure all of that capacity is available.
+I can tell you from our visibility, we feel very good that we have a strong supply chain that is prepared to deliver sort of these very significant growth rates and large amount of compute that is out there. And I think all of this is going to be tight. I think there is a -- you can see from some of the CapEx spending that there's a desire to put on more compute and we're working closely together.
+I will say that the ecosystem is very -- I would say, works very hard when there are these types of, let's call it, tightness out there. And so we also see things open up as that we're working -- getting more power, getting more supply, all of those things. So the net-net is I think we are well positioned to grow significantly as we transition into the second half of '26, into '27 with the MI450 and Helios.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Joshua Buchalter, TD Cowen.
+
+--------------------------------------------------------------------------------
+Joshua Buchalter,  Cowen and Company LLC - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Hey guys, thank you for taking my question. Actually I wanted to start on the CPU side. So you and your largest competitor in that space have talked about near-term strength supporting AI workloads on general purpose servers from agentic, maybe you could speak to the sustainability of these trends. And they called out supply constraints. Are you seeing any of those in your supply chain? And like are we in a period where we should think about the CPU business on the data center side as being a seasonal?
+Or should we expect normal seasonality in the first half of next year?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [14]
+--------------------------------------------------------------------------------
+
+          Thank you. Sure, Josh. A couple of comments on the CPU server side. I think we've been watching this trend for the last couple of quarters. And we started seeing, let's call it, some positive signs in CPU demand actually a couple of quarters ago. And what's happened as we've gone through 2025 is now we see sort of a broadening of that CPU demand. So we have a number of our large hyperscale clients are now forecasting significant CPU builds into 2026.
+And so from that standpoint, I think the positive demand environment. And it is because AI is requiring quite a bit of general-purpose compute, and that's great. It catches our cycle as we're ramping turns. So the turn ramp has gone extremely fast, and we see good pull for that product as well as consistent strong demand for our general product line as well.
+So back to seasonality as we go into 2026, I think we expect that the CPU demand environment into 2026 is going to be, let's call it, positive. And so we'll guide more as we get into the end of the year, but I would expect a positive demand environment for CPUs as we see this demand. I do feel like it's durable. It is not a short-term thing. I think it is a multi-quarter phenomenon as we're seeing just much more demand as these AI workloads really turn into -- you have to do real work.
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [15]
+--------------------------------------------------------------------------------
+
+          Got it. Thank you both. So Josh, on the supply side, we have supply to support our growth and especially in 2026 well prepared for the ramp.
+
+--------------------------------------------------------------------------------
+Joshua Buchalter,  Cowen and Company LLC - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Got it. And for my follow-up, Lisa, in your prepared remarks, you highlighted progress you guys have made on ROCm 7. I know this has been an area of focus. And can you maybe spend a minute or two talking about where you feel you're at competitively with ROCm? How wide is the breadth of support you're able to offer to the developer community?
+And what areas do you still have work to do to close any potential competitive gap?
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [17]
+--------------------------------------------------------------------------------
+
+          Thank you. Yes, Josh, thanks for the question. Look, we've made great progress with ROCm. ROCm 7 is a significant step forward in terms of performance and sort of all the frameworks that we support. It's been really, really important for us to get sort of day zero support of all the newest models and native support for all the newest frameworks.
+I would say most customers who are starting with AMD now have a a very smooth experience as they're bringing on their workloads to AMD. There's obviously always more work to do. We're continuing to augment the libraries and the overall environments that we have, especially as we go to some of the newer workloads where you see training and inference really coming together with reinforcement learning. But overall, I think very strong progress with ROCm. And by the way, we're going to continue to invest in this area because it's so important to really make our customer development experience as smooth as we can.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          CJ Muse, Cantor Fitzgerald.
+
+--------------------------------------------------------------------------------
+CJ Muse,  Cantor Fitzgerald - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Yeah, good afternoon. Thank you for taking the question. I guess first question, as you think about the 355 to 400 transition and moving to full rack scale, is there a framework that we should be thinking about for gross margins throughout calendar '26?
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [20]
+--------------------------------------------------------------------------------
+
+          Yes, CJ, thanks for the question. I think in general, as we said in the past, for our data center GPU business, the gross margin continued to improve when we ramp a new generation of products, typically at the beginning of the ramp, you go through a transition period, then you will normalize the gross margin. We're not guiding 2026, but our priority in data center GPU business is to really expand the top line revenue growth and the gross margin dollars, and of course, at the same time, it will continue to drive the gross margin percentage up, too.
+
+--------------------------------------------------------------------------------
+CJ Muse,  Cantor Fitzgerald - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Very helpful. And I guess maybe, Lisa, to kind of probe kind of your growth expectations through '26 and beyond. And you talked about tens of billions of dollars in '27. Can you kind of speak at a high level how you're thinking about OpenAI and other large customers? And how we should be thinking about the breadth of your customer kind of penetration throughout calendar '26, '27.
+Any help on that would be super.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [22]
+--------------------------------------------------------------------------------
+
+          Sure, CJ. And we'll certainly address this topic in more detail at our Analyst Day next week. But let me give you some maybe higher level points. Look, I think we're really excited about our road map. I think we have seen great traction amongst the largest customers.
+The OpenAI relationship is extremely important to us, and it's great to be able to talk at the multi-gigawatt scale because I think that really is what we believe we can deliver to the marketplace.
+But there are numerous other customers that we are in deep engagement with. We talked about OCI. We also announced a couple of systems with the Department of Energy that are significant systems. And we have many other engagements. So the way you should think about it is there are multiple customers that we would expect to have, let's call it, very significant scale in the MI450 generation.
+And that's sort of the breadth of the customer engagements that we've built, and it's also how we're (inaudible) the supply chain to ensure that we can supply certainly our OpenAI partnership as well as the numerous other partnerships that are well underway.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Stacey Razian, Bernstein Research
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Hi guys, thanks for taking my questions. My first one is for data center in the quarter, what grew more year over year on a dollar to percentage basis? The servers or the GPUs --
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [25]
+--------------------------------------------------------------------------------
+
+          Yes. Stacy, I think our commentary was data center grew nicely year over year in both of the areas, both for servers as well as data center AI.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Yes. But could you -- I mean, just directionally, did one -- which one grew more than the other? I'm not even asking for numbers just directionally.
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [27]
+--------------------------------------------------------------------------------
+
+          Directionally, they are similar, but server is a little bit better.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Okay. And then on the guidance, you said that servers -- I mean, data center overall up double digits. You said server is up strong double digits. What does that mean? Is that like more than 20%?
+Or like how do I -- how do I think about what you mean by strong double digits? Because again, I'm trying to -- like I mean, for the GPUs for the year, like do you think you're -- I mean, you were saying roughly like $6.5 billion or something last quarter for the year. Do you think it's still in that range? It kind of feels like you're still there.
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [29]
+--------------------------------------------------------------------------------
+
+          Stacy, here is what we guided. We guided sequentially data center will be up double digits. And we said server will go up strongly. And at the same time, we also said that MI350 also going to ramp. So we did not -- I don't think what you just mentioned was what we guided.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Okay. So I mean if you say servers are up strongly, does that mean they're up more than the Instinct because you didn't really make that commentary on Instinct.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [31]
+--------------------------------------------------------------------------------
+
+          No. Look, Stacy, let me say it. So data center sequentially, double-digit percentage, both server and data center AI are going to be up as well. And from the standpoint of where they are, I think we're pleased with how both of them are performing. The strong double-digit percentage comment perhaps was applying to the year over year commentary.
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [32]
+--------------------------------------------------------------------------------
+
+          Stacy, here's what we guided. We guided the sequentially data center will be up double-digits. And we said several will go at the same time. We also said that M 350 also going to ramp.
+
+--------------------------------------------------------------------------------
+Stacy Rasgon,  Bernstein Research - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          So we have to, I don't think what you just mentioned what the, what we guided. 00, okay. So I mean if you say servers are up strongly, does that mean they're up more than the instinct because you didn't really make that commentary on instinct.
+
+--------------------------------------------------------------------------------
+Jean Hu,  Advanced Micro Devices Inc - Chief Financial Officer, Executive Vice President, Treasurer    [34]
+--------------------------------------------------------------------------------
+
+          No, look, Stacy, let me say it. So data center. Sequentially double-digit percentage both server and data center AI are going to be up, as well, and from the standpoint of, where they are, I think we're pleased with how both of them are performing the strong double-digit percentage comments of perhaps was applying to the year over year commentary.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Timothy Arcuri, UBS.
+
+--------------------------------------------------------------------------------
+Timothy Arcuri,  UBS AG - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Thanks a lot. Lisa, I know it's only been a month since you announced this idea with OpenAI, but can you give us maybe some anecdotes of how this has influenced your position in the market with other customers? Like are you engaged with customers that you wouldn't have been engaged with if you hadn't done this deal? That's the first part of the question.
+And then the second part relates to a prior question, which is that it looks like they could be something like half of your data center GPU revenue in the 2027, 2028 timeframe. So how much risk in your mind is there around that single customer for you?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [37]
+--------------------------------------------------------------------------------
+
+          Sure, Tim. So let me say a couple of things. First of all, the OpenAI deal has been in the works for quite some time. We're happy to be able to talk about it broadly and also talk about the scale of the deployments and the scale of the engagement being multiyear, multi-gigawatt. I think all those things were very positive.
+We've had a number of other engagements as well. I think over the last -- if you were to ask specifically over the last month, I would say that it's been a number of factors. I think the OpenAI deal was one of them. I think having -- being able to show the Helios rack in full force at Open Compute was also a very important milestone because people could see the engineering and sort of the capabilities of the Helios rack. And if you're asking whether we've seen a increase of interest or an acceleration of interest.
+I think the answer is yes. I think customers are broadly engaged and perhaps broadly engaged at a higher scale, which is a good thing.
+And then from the standpoint of customer concentration, I think a very key foundation for us in this business is to have a broad set of customers. We've always been engaged with a number of customers. I think we're (inaudible) the supply chain in such a way that we would have ample supply to have multiple customers at similar scale as we go into the '27, '28 time frame, and that's certainly the goal.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Aaron Rakers, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Aaron Rakers,  Wells Fargo Securities LLC - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks, for taking the questions. I'm curious on the server strength that you're seeing if there's a way to unpack how we think about unit growth versus ASP expansion as we move through the turn product cycle? And how do you guys just kind of think about that going forward?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [40]
+--------------------------------------------------------------------------------
+
+          Yes. So Aaron, on the server CPU side, turn certainly is more content. So we see ASPs grow as turn ramps. But I also mentioned in the prepared remarks that we're actually seeing a very good mix of general still there. So turn is ramping very quickly.
+But we are also seeing general demand continue well as the hyperscalers are not able to move everything to the latest generation immediately.
+So from our standpoint, I think it's broad-based CPU demand across a number of different workloads. This is -- a little bit of this is, let's call it, server refresh, but it seems like from our customer conversations, the workloads are broadly due to the fact that AI workloads are spawning to more traditional compute, so more build-out is necessary.
+I think going forward, one of the things that we see is there is more of a desire for the latest generation. And so as much as we're happy with how turn is ramping. We're seeing actually a strong pull on Venice and a lot of early engagement in Venice, which kind of says a lot about kind of the importance of general purpose compute at this point in time.
+
+--------------------------------------------------------------------------------
+Aaron Rakers,  Wells Fargo Securities LLC - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Yeah, thanks. As a quick follow-up, I'm curious not to feel maybe the discussion from next week. But Lisa, you've been very consistent, like $500 billion of total AI silicon TAM opportunity and obviously progressing above that. I'm curious as we think about these large megawatt kind of deployments, how you think about the updated views on that AI silicon TAM as we look forward?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [42]
+--------------------------------------------------------------------------------
+
+          Well, Aaron, as you said, not to take too much away from what we're going to talk about next week. Look, we're going to give you a full picture of how we see the market next week. But suffice it to say, from everything that we see, we see the AI compute TAM just going up. So we'll have some updated numbers for you. But the view is, whereas $500 billion sounded like a lot when we first talked about it, we think there is a larger opportunity for us over the next few years, and that's pretty exciting.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Antoine Chkaiban, New Street Research.
+
+--------------------------------------------------------------------------------
+Antoine Chkaiban,  New Street Research LLP - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Thank you so much for taking my question. So I'd like to ask about whether the developing relationship with OpenAI could be a tailwind to the development of your software stack. Can you maybe tell us about how the collaboration works in practice and whether the partnership contributed in making ROCm more robust?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [45]
+--------------------------------------------------------------------------------
+
+          Yeah, Antoine, thanks for the question. I think the answer is yes. I think all of our large customers contribute to, let's call it, a broadening and deepening of our software stack overall. I think the relationship with OpenAI is certainly one where our plans are to work deeply together on hardware as well as software as well as systems and future road map.
+And from that standpoint, the work that we're doing together with them on [Triton] is certainly very valuable.
+But I will say beyond OpenAI, the work that we do with all of our largest customers are super helpful to strengthening the software stack. And we have put significant new resources into not just the largest customers, but we are working with a broad set of AI native companies who are actively developing on the ROCm stack. We get lots of feedback. I think we've made significant progress in the training and inference stack, and we're going to continue to double down and triple down in this area.
+So more customers that use AMD, I think all of that goes to enhancing the ROCm stack. And we're actually -- we'll talk a little bit more about this next week, but we're also using AI to help us accelerate the rate and pace of some of the ROCm kernel development and just the overall ecosystem.
+
+--------------------------------------------------------------------------------
+Antoine Chkaiban,  New Street Research LLP - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Maybe as a quick follow-up. Could you tell us about the useful lives of GPUs? I know that most CSPs depreciate them over 5, 6 years. But in your conversations with them, I'm just wondering if you see or hear any early indication that in practice, they may be planning to sweat those GPUs for longer than that?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [47]
+--------------------------------------------------------------------------------
+
+          I think we have seen some early indications of that, Antione. I think the key point being, clearly, there's a desire to get on the latest and greatest GPUs when you're building new data center infrastructure. And certainly, when we're looking at MI355, they're often going into new liquid cooled facilities, MI450 series as well. But then we're also seeing the other trend, which is there's just a need for more AI compute. And from that standpoint, some of the older generation, MI300x is still doing quite well in terms of just where we see people deploying and using especially for inference.
+And from that standpoint, I think you see a little bit of both.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Joe Moore, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Joseph Moore,  Morgan Stanley & Co Ltd - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. You mentioned MI308. I guess what's your posture there to the extent that if there is some relief that you're able to ship, do you have readiness to do that? Can you give us a sense for how much of a swing factor that could be?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [50]
+--------------------------------------------------------------------------------
+
+          Sure, Joe. So look, it's still a pretty dynamic situation with MI308. So that's the reason that we did not include any MI308 revenue in the Q4 guide. We have received some licenses for MI308, so we're appreciative of the administration supporting some licenses for MI308. We're still working with our customers on the demand environment and sort of what the overall opportunity is.
+And so we'll be able to update that more in the next couple of months.
+
+--------------------------------------------------------------------------------
+Joseph Moore,  Morgan Stanley & Co Ltd - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Okay. But you do have product to support that market if it does open up? Or are you going to have to start to kind of rebuild inventory for that?
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [52]
+--------------------------------------------------------------------------------
+
+          We've had some work in process. I think we continue to have that work in process, but we'll have to see sort of how the demand environment shapes up.
+
+--------------------------------------------------------------------------------
+Joseph Moore,  Morgan Stanley & Co Ltd - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Okay, thank you very much.
+
+--------------------------------------------------------------------------------
+Matt Ramsay,  Advanced Micro Devices Inc - Vice President - Financial Strategy & Investor Relations    [54]
+--------------------------------------------------------------------------------
+
+          Thanks, Operator. I think we might have time for just one more caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          Ross Seymour, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ross Seymour,  Deutsche Bank - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Thanks for squeezing me in. Lisa, this might take longer than the amount of time you have left before the top of the hour, but there's been so many of these multi-gigawatt announcements from OpenAI how does AMD truly differentiate in there? When you see that big customer signing deals with other GPU vendors and ASIC vendors, et cetera, how do you attack that market differently than those competitors to not only get the 6 gigawatt initially, but hopefully more after that.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [57]
+--------------------------------------------------------------------------------
+
+          Sure, Ross. Well, look, what I see is actually this environment where the world needs more AI compute. And from that standpoint, I think OpenAI has kind of led in the quest for more AI compute. But they're not alone. I think when you look across the large customers, there is really a demand for more AI compute as you go forward over the next couple of years.
+I think we each have our advantages in terms of how we are positioning our products. I think MI450 series, in particular, I think, is an extremely strong product, rack-scale solution, overall. When we look at compute performance, when we look at memory performance, we think it's extremely well positioned for both inference as well as training.
+I think the key here is time to market, it's total cost of ownership, it's deep partnership and thinking about not just MI450 series, but what happens after that. So we're deep in conversations on MI500 and beyond. And we certainly think we're well positioned to not only participate but participate in a very meaningful way across the sort of the demand environment here. And I think we have learned a ton over the last couple of years with our AI road map. We've made significant inroads in terms of just what the largest customer needs from a workload standpoint.
+So I'm pretty optimistic about our ability to capture a significant piece of this market going forward.
+
+--------------------------------------------------------------------------------
+Ross Seymour,  Deutsche Bank - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Great. And I guess as my follow-up, it will be a direct follow-on to that. You did a unique structure by granting some warrants with this deal. And I know they're -- they best according to a price that would be very accretive and make everybody happy. Do you think that was a relatively unique agreement? Or given that the world needs more processing power that AMD is open to somewhat similar, conceptually similar creative ways to address that demand over time with other equity vehicles, et cetera.
+
+--------------------------------------------------------------------------------
+Lisa Su,  Advanced Micro Devices Inc - Chairman of the Board, Chief Executive Officer, President, Executive Director    [59]
+--------------------------------------------------------------------------------
+
+          Sure, Ross. So I would say it was a unique agreement from the standpoint that unique time in AI, what we wanted, what we prioritized was really deep partnership and multiyear, multigeneration significant scale. And I think we got that. We got a structure that has extremely aligned incentives, everybody wins, right? We win, OpenAI wins and our shareholder win -- sort of benefits from this.
+And all of that accrues to the overall road map.
+I think as we look forward, I think we have a lot of very interesting partnerships that are developing, whether they're with the largest AI users or you think about sovereign AI opportunities. And we look at each 1 of these as a unique opportunity where we're bringing sort of the whole of AMD, both technically as well as all the rest of our capabilities to the party. So I would say OpenAI was pretty unique, but I would imagine that there are lots of other opportunities for us to to bring our capabilities into the ecosystem and participate in a significant way.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, that does conclude the question-and-answer session, and that also concludes today's teleconference. We thank you for your participation. You may disconnect your lines at this time.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

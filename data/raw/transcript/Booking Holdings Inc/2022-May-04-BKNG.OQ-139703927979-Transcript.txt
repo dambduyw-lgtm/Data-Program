@@ -1,0 +1,401 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2022 Booking Holdings Inc Earnings Call
+MAY 04, 2022 / 8:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * David I. Goulden
+   Booking Holdings Inc. - Executive VP & CFO
+ * Glenn D. Fogel
+   Booking Holdings Inc. - President, CEO & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Eric James Sheridan
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Kevin Campbell Kopelman
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Justin Post
+   BofA Securities, Research Division - MD
+ * Mark Stephen F. Mahaney
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Internet Research
+ * Brian Thomas Nowak
+   Morgan Stanley, Research Division - Research Analyst
+ * Lloyd Wharton Walmsley
+   UBS Investment Bank, Research Division - Analyst
+ * Douglas Till Anmuth
+   JPMorgan Chase & Co, Research Division - MD
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to Booking Holdings First Quarter 2022 Conference Call. Booking Holdings would like to remind everyone that this call may contain forward-looking statements, which are pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are not guarantees of future performance and are subject to certain risks, uncertainties and assumptions that are difficult to predict. Therefore, actual results may differ materially from those expressed, implied or forecasted in any such forward-looking statements. 
+Expressions of future goals or expectations and similar expressions reflecting something other than historical facts are intended to identify forward-looking statements. For a list of factors that could cause Booking Holdings' actual results to differ materially from those described in the forward-looking statements, please refer to the safe harbor statements at the end of Booking Holdings' earnings press release as well as Booking Holdings most recent filings with the Securities and Exchange Commission. 
+Unless required by law, Booking Holdings undertakes no obligation to update publicly any forward-looking statements whether as a result of new information, future events or otherwise. A copy of Booking Holdings' earnings press release, together with an accompanying financial and statistical supplement, is available in the For Investors section of Booking Holdings' website, www.bookingholdings.com. 
+And now I'd like to introduce Booking Holdings' speakers for this afternoon, Glenn Fogel and David Goulden. Go ahead, gentlemen.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [2]
+--------------------------------------------------------------------------------
+Thank you, and welcome to Booking Holdings' First Quarter Conference Call. I'm joined this afternoon by our CFO, David Goulden.
+I am pleased to begin by reporting that our first quarter was a record. Our customers booked $27 billion in gross bookings, the highest quarterly amount ever. The continued improvement in our room night trends increased accommodation ADRs, and significant growth in our global flights products all contributed to achieving this gross bookings record. 
+In our accommodations business, we saw a meaningful improvement from last year with first quarter room nights declining only 9% versus Q1 2019, which was an improvement of 12 percentage points from our fourth quarter 2021 results. Our bookings continue to strengthen in April, with room nights increasing 10% and gross bookings up over 30% versus 2019, making April a record month for gross bookings and the first month that global room nights exceeded 2019 levels. 
+At Booking.com, I'm encouraged by the strong gross bookings already recorded for the summer period, which are over 15% higher than at the same point in 2019. In Western Europe and North America, gross bookings for the summer period are now over 30% ahead of where we were at this point in 2019, though I note that a high percentage of these bookings are cancelable. 
+Of course, our brands, our other brands, we are seeing the benefits of the global recovery from the pandemic with strong travel demand in the U.S. for Priceline, a rapid recent improvement in trends in Asia for Agoda, an uptick in international flight searches at KAYAK, and the return of diners to restaurants for OpenTable. 
+In many countries, especially across Europe and Asia, travel restrictions were eased in the first quarter, which we believe has contributed to the strengthening of travel demand trends. As we have said before, when leisure travelers believe it is safe to travel and restrictions are lifted, people book travel. With that being said, there are still restrictions and inconveniences imposed on travelers today by some countries, though we believe that the industry is moving in the right direction and progressing back to normalcy. 
+While we are pleased with the trends we are seeing right now across our brands, as we look towards the rest of the year, we are cognizant of the potential for macro uncertainty and are aware that inflation or other macro factors may have an impact on consumer demand. Now before providing further updates on our business, I want to address the devastating war in Ukraine. Since first hearing the terrible news of Russia's invasion of Ukraine, our first priority was the safety of our colleagues and supporting them through this time. We worked closely with our employees and their families in Ukraine to provide them with safe refuge, and we have continued to support humanitarian efforts in the region. 
+As we previously disclosed, in early March, we suspended travel services in Russia and Belarus. By mid-March, Booking.com developed and launched a no-commission initiative that enabled properties in select European countries to offer free or heavily discounted accommodations to refugees fleeing Ukraine. We believe that about 30,000 refugees have been provided with places to stay through this initiative so far. We continue to work closely with our hotel and home partners and expect to expand this program to more properties in the region. 
+As an example, Booking.com has partnered with Hilton and the UN Refugee Agency to make it easy for NGOs to book temporary accommodations on behalf of refugees fleeing the war in Ukraine. These rooms have been made available for free by Hilton at hundreds of their properties across Europe, which we, in turn, are providing through our platform. I am very proud of our team's quick actions to help our employees, customers, partners and the many people impacted by these tragic events. And of course, we all hope this barbaric violence ends soon. 
+Let's now turn to the progress we're making in our business. We continue our work strengthening our core combination business by driving benefits to our traveler customers and to our supply partners. For our customers, we are focused on their critical needs of value, choice and convenience. With this high degree of customer focus, we aim to increase loyalty, frequency, spend and direct relationships with our customers over time. In March, our unique active customers at Booking.com were within 95% of 2019 levels, driven by strong growth in returning customers who had not made a previous booking in over a year. In the first quarter, we saw a higher mix of customers booking directly with us than in any of the last 3 quarters' first quarters -- 3 years' first quarters. 
+We see the strongest direct repeat customer behavior in our mobile app. And when compared to other platforms like desktop or mobile web, we continue to see more of our business shift to the app with over 40% of our room nights booked through our apps in the first quarter. Booking.com's app hit a new record in terms of monthly active users in Q1 and continue to be the #1 downloaded OTA app globally according to a third-party research firm. As I said before, the app is a critical platform as it allows us more opportunities to engage directly with travelers, and ultimately, we see it as the center of our connected trip experience. We will continue our efforts to enhance the app to build on the recent success we have seen here. 
+For our supply partners, we strive to be a valuable partner to all accommodation types on our platform, which primarily means bringing incremental demand to properties from the broad audience of potential customers on our platform. For alternative accommodations, our global mix of room nights in the first quarter increased to about 31%, a couple of points higher than in Q1 2021. We continue to work on improving our alternative accommodation product globally, with an additional focus on the U.S. market. We've been working closely with property partners to identify opportunities to improve our platform to better fit their needs. Related to these efforts, we launched partner liability insurance for our alternative accommodation supply partners with global coverage in the first quarter. In addition, we are making progress on an enhanced payment solution for professional property managers that we're rolling out in the U.S. 
+In the first quarter, we saw the largest sequential net increase in alternative accommodation properties on Booking.com since the start of the pandemic. While the net increase in Q1 was still a modest number of properties, we are aiming to build on this growth throughout 2022 by continuing to improve our alternative accommodation offering and attracting more partners to our platform. And this week, we launched a new campaign in the U.S. to promote Booking.com to alternative accommodation owners and managers who want to grow their business with us. 
+Let me now talk about the progress we've made in our interrelated strategic priorities of payments and the connected trend. We believe both of these priorities will further enhance the strength of our core accommodations business and support its continued growth. On payments, 34% of Booking.com's gross bookings were processed through our payment platform in the first quarter, which is our highest quarterly level ever. This year, we are focused on continuing to increase supplier adoption of payments while introducing new products and features that, over time, will improve the customer and partner experience and bring new revenue streams to our platform. 
+We will continue to position Booking.com as an attractive and trusted payment service for both travelers and our supplier partners across hotels, alternative combinations, cars, flight and attractions. Furthermore, Booking.com's payment platform helps deliver a more seamless and frictionless booking experience, which are important elements of our larger connected trip vision. 
+On our connected trip vision, we continue to make progress as we work on the foundations, such as developing a flight offering on Booking.com, which is now live in 40 countries. This flight offering gives us the ability to engage with potential customers who choose their flight options early in their discovery process and allows us an opportunity to cross-sell our accommodation and other services to these flight bookers. 
+We have seen that in over 70% of our flight bookings on Booking.com, the flight was the first or only product that was booked. This helps confirm the value of flights as the starting point of many people's booking journey, and it is an anchor part that we can utilize to cross-sell accommodations and other products. A meaningful percentage of bookers who first book a flight, then book an accommodation. We will continue our work to further optimize the cross-sell opportunity and build on the early positive signals that we are seeing so far. Flights continues to be a source for new customers, with about 1/4 of all flight bookers in Q1 being new customers for Booking.com. 
+We've also seen recent success driving incremental room nights in experiments where discounts were applied to nonaccommodation products that were attached to the transaction. To put it simply, we believe having more products on the shelf increase our merchandising opportunities and helps us sell more room nights. 
+Finally, as I previewed on our last earnings call, we published our 2021 sustainability report and our Climate Action Plan in March. In our Climate Action Plan, we highlighted the significant emission reductions we've already achieved, in part driven by sourcing 100% renewable energy for our offices by the end of last year. And we are committed to more than halving our emissions by 2030 and achieving net zero emissions by 2040. We are proud of the emissions reduction achieved and ambitious targets set for our own business. 
+But as I said before, we believe our greatest influence on sustainable travel is through making it easier for travelers to find and book sustainable options. We are addressing this opportunity through our work with our Travel Sustainable badge program, which now includes over 100,000 properties that can highlight their sustainable practices to customers on Booking.com. 
+In conclusion, I am encouraged by the strength we are seeing in bookings, the level of summer travel on our books and the potential for a very busy travel year ahead. As we discussed last quarter, in this recovery environment, we will continue to lean into performance marketing channels and appropriate ROIs as we look to bring more customer demand to our platform. Overall, we believe we are well positioned to continue capturing this returning travel demand, and we will continue our work executing against our strategic priorities. As I said before, we are focusing on building a larger and faster-growing business with more products that is sustainable and generates more earnings dollars for the long run. 
+I'll now turn the call over to our CFO, David Goulden.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+Thank you, Glenn, and good afternoon. I'll review our results for the first quarter and provide some color on the trends we've seen so far in the second quarter. All growth rates for 2022 are relative to the comparable period in 2019, unless otherwise indicated. Information regarding reconciliation of non-GAAP results to GAAP results can be found in our earnings release. 
+Now on to our results for the first quarter. On our February earnings call, we discussed the improvement in trends we've seen so far in 2022, with room nights getting back to about flat versus 2019 in the first half of February after declining 21% in January. Just hours after our earnings call on February 23, the terrible news broke that Russia had invaded Ukraine. As a result, we saw an immediate negative impact on our room night trends, particularly in Eastern Europe. 
+Despite this impact towards the end of the month, room nights for the full month of February came in about in line with 2019 levels. In early March, we suspended the booking of travel services in Russia and Belarus. This led to a loss of new bookings as well as significantly elevated levels of cancellations of reservations for these countries. Additionally, we saw some slowdown in booking trends within Europe as travelers took in the news of the invasion. We disclosed that total room nights for the week ending March 6 were down about 10%, and that slowdown was driven by Eastern Europe, primarily Russia, and to a lesser extent, by Western Europe, which remained modestly above 2019 levels. 
+I'm pleased to say that compared with the first week in March, we saw our overall trend improved during March driven mainly by Europe, resulting in room nights being down about 4% for the month, which is only a modest pullback from where we were in February. For the first quarter, room nights were down 9%, an improvement from down 21% in Q4 and our best quarter results since the onset of the pandemic. Excluding Russia, Ukraine and Belarus, our room nights were down about 2% in March and down about 6% for the first full quarter. 
+For Q1, on a regional level, room nights in Europe and the rest of the world were both down mid-single digits. Asia was down about 35%, with all 3 improving from Q4 levels. The U.S. has strong growth versus Q1 2019, similar to what we saw in Q4. Mobile bookings, primarily through our apps, represented about 60% of our total room nights in the first quarter. Our apps were over 2/3 of our mobile bookings and over 40% of total room nights. In the first quarter, we continue to see an increased mix of our total room nights coming to us through the direct channel versus Q1 2019 and Q1 2022. 
+The international mix of our total room nights in Q1 was about 40%, an encouraging increase from about 33% in Q4. Q1 international room nights were down about 30% compared to Q1 2019 levels, an improvement from the almost 40% -- for the almost 50% decline in Q4. The improvements in international bookings we saw continued to be driven mainly by travel plans within Europe. And these cross-border bookings continue to have, on average, longer length of stay and a shorter booking window than comparable bookings in 2019. 
+We saw strong growth in our domestic room nights for the first quarter, also an improvement from Q4. Our cancellation rates were about in line with 2019 levels in Q1 despite the impact of the Russian invasion of Ukraine. The booking window in Q1 at Booking.com contrasted less versus 2019 than it did in Q4, and this booking window expanded versus the first quarter of 2021. 
+For our alternative accommodations at Booking.com, the global mix of room nights increased to about 31% in Q1, a couple of points higher than 2021. Within Europe, our mix of alternative accommodation continues to be meaningfully higher than the global average. 
+Gross bookings increased 7% in Q1 versus 2019 and were up 10%, excluding Russia, Ukraine and Belarus. This 7% increase in gross bookings was 16 percentage points better than the 9% room nights decline due to 18% higher accommodation constant currency ADRs, and also due to strong flight bookings across the group, partially offset by about 4 percentage points of negative FX movements. 
+As Glenn mentioned in his remarks, the $27 billion of gross bookings in Q1 is a new record for us, higher than the previous record of $25 billion in Q1 2019. March '23 -- 2022 was the first month our gross booking exceeded $10 billion in a single month. This was up 17% versus March 2019 and compares to up 18% in February and down 11% in January. Our accommodation constant currency ADRs benefited by about 3 percentage points from regional mix and about 15 percentage points from rate increases in most of our regions, notably -- most notably Europe and North America and especially in higher-demand, leisure-oriented destinations. Constant currency ADR growth versus 2019 accelerated from 13% in Q4 to 18% in Q1, primarily due to higher rates in Europe. 
+Airline tickets booked in the first quarter were up 152% versus 2019 and up 69% versus 2021, driven by continued expansion of Booking.com's flight platform as well as continued flight ticket growth at Priceline. Consolidated revenue for the first quarter was $2.7 billion, which was down 7% versus 2019 and down about 2% on a constant currency basis. Revenue as a percentage of gross bookings was about 150 basis points below Q1 2019, in line with our expectations, due primarily to differences between gross bookings -- the timing differences between gross bookings and revenue recognition. Our underlying accommodation take rates were about in line with Q1 2019 levels. 
+Marketing expense, which is a highly variable expense line, decreased 4% versus Q1 2019. Marketing expense as a percentage of gross bookings decreased about 50 basis points versus Q1 2019, which is better than our expectations, mainly due to higher-than-expected marketing ROIs. Sales and other expenses were up 58% versus Q1 2019 due to a higher volume of merchant gross bookings and higher third-party call center costs. About 34% of Booking.com's gross bookings were processed through our payments platform in Q1, up from 13% in Q1 2019. Compared to Q1 2021, sales and other expenses as a percentage of gross bookings were about 30 basis points higher. 
+Our more fixed expenses in aggregate were about in line with our expectations, up 12% versus Q4 and up 17% versus Q1 2021. Adjusted EBITDA was $310 million for the quarter, which was better than our expectations due to higher-than-expected ADRs and the better-than-expected leverage on our variable expenses. However, sequentially, EBITDA was down 67%, which is significantly more than the seasonal declines you saw pre-COVID and aligns with our commentary in February. 
+Non-GAAP net income of $161 million results in non-GAAP EPS of $3.90, which was down 65% versus Q1 2019. Our Q1 non-GAAP tax rate of 16% was lower than 90% in Q1 2019 due to a greater impact from a discrete tax benefit on a lower base of earnings. On a GAAP basis, we had operating income of $174 million in Q1. We recorded a GAAP net loss of $700 million in the quarter, which included an unrealized loss on our strategic investments of about $987 million and a $36 million loss on assets held for sale related to the Majorelle strategic partnership we discussed last quarter. 
+Now on to our cash and liquidity position. Our Q1 ending cash investment balance of about $12.8 billion was down versus our Q4 ending balance of $14.3 billion, primarily driven by the payments of $1.1 billion for a margin debt maturity, about $950 million in share repurchases in Q1 and the decline in value of our strategic investments. These factors, which reduced our cash investment balance, were partially offset by positive free cash flow of about $1.6 billion, which is driven almost entirely by change in working capital resulting from an increase in our deferred merchant bookings balance. 
+As we disclosed on last quarter, we started returning capital to shareholders in early January. And in addition to share purchases in Q1, we repurchased about $325 million of our shares in April, which brings our outstanding authorization to just over $9 billion. As we said before, we expect to complete our remaining authorization within the next 3 years. 
+Now moving on to our thoughts for the second quarter. April room nights increased about 10% versus 2019, an improvement from the 4% decline in March, driven primarily by Europe. Excluding Russia, Ukraine and Belarus, April room nights increased about 16% versus 2019. All regions showed improving room night growth in April. Europe was up high teens percent in April and up about 30%, excluding Russia, Belarus and Ukraine. Growth in the U.S. was very strong. Rest of world had double-digit growth, and Asia recovered to down high teens percent all versus 2019. 
+The international mix of our room nights in April was over 45%, an encouraging increase from the 40% in Q1. April international room nights were down slightly compared to 2019 levels, an improvement from down 30% in Q1. International demand, driven mainly by travel plans in Europe, accounted for most of the improvements in room nights in April versus Q1. Domestic room nights also improved in April to very strong growth versus 2019. 
+April gross bookings increased over 30% versus 2019 driven by growth in room nights, continued accommodation ADR strength as well as continued strength in flight bookings. April gross bookings increased to almost $11 billion, which was a new monthly record. April gross bookings typically decline from March pre-COVID. 
+Whilst it's encouraging to see continued improvements in trends into April, the environment is still uncertain and difficult to predict with confidence how room nights for the remainder of the quarter will develop. While many countries are lifting travel restrictions, COVID is still a factor which can impact travel. And of course, the war in Ukraine continues to create volatility and macro uncertainty. We do expect the recent strength of ADRs to continue for the remainder of the quarter. And as a result, we expect the difference between the level of room night growth and gross bookings growth for the full second quarter to be around 20 points, which is similar to what it was in April. 
+In April, the overall booking window of Booking.com continues to move back closer to 2019 levels. And we continue to see strength in our summer booking trends, and our gross bookings for summer are now more than 15% higher than they were at this time in 2019. And within Western Europe and North America, both up over 30%, albeit with a higher mix of canceled bookings. If the current trends continue, we could see a record summer travel season, and we're gearing up to prepare for that across all parts of our business. 
+Turning back to Q2. Given recent booking trends, combined with lengthening booking window, we expect Q2 revenue as a percentage of gross bookings to be about 200 basis points lower than it was in Q2 2019. This 200 basis points of difference in revenue as a percentage of gross bookings is mainly timing related, and the impact could be greater if booking transact -- sorry, from April, especially if a high percentage of these bookings will stay in future quarters. The timing impact on take rates in Q2 is driven by a combination of the acceleration in gross bookings from up 7% in Q1 to up over 30% so far in Q2, coupled with the lengthening booking window from Q1 to Q2. We expect our underlying accommodation take rates to remain stable. 
+We expect marketing expense as a percentage of gross bookings to be slightly higher than in Q2 2019, which is consistent with our prior commentary about the opportunities for us to lean into a recovering travel market in 2022. We expect Q2 sales and other expenses as a percentage of gross bookings to be about 60 basis points higher than it was in Q2 2021 due to higher merchant gross booking mix and higher third-party call center costs. We expect our more fixed expenses in aggregate to be about 15% higher than in Q2 2021, with personnel down slightly and both G&A and IT up meaningfully versus Q2 last year. The overall year-on-year increase -- the year-on-year increase in G&A is driven by higher digital sales taxes, which are tied to revenue, as well as increased office expenses due to return to hybrid work environments. We expect IT to increase year-over-year at similar rates to what we saw in Q1. 
+If we were to see similar top line growth rate for the rest of the quarter as we saw in April, we'd expect adjusted EBITDA to be over $900 million for the quarter. The expected timing difference between gross bookings and revenue, which is the primary driver of our expected 200 basis points lower take rate than Q1 2019, will have a significant negative impact on EBITDA in Q2 as our more variable expense lines are linked to bookings. If we normalize the timing impact on our take rates in Q2 2022 to be the same as it was in Q2 2019, adjusted EBITDA in Q2 2022 will be slightly higher than it was in Q2 2019. 
+Now turning to the enhanced strategic partnership with Majorelle we discussed last quarter. As a reminder, Majorelle, one of our most trusted long-term external customer support partners, will begin employing most of the customer service representatives that previously worked for Booking.com outside of the Netherlands and the U.K. We currently anticipate finalizing this partnership around the middle of the year. And following the anticipated closing on a quarterly basis in the second half of 2022, we expect that personnel expenses will be lower by about $25 million a quarter, but G&A expenses will be lower by $6 million a quarter. And our S&O expenses will increase to offset the lower personnel and G&A expenses. As we said last quarter, we do not anticipate much of an impact on adjusted EBITDA in 2022 from this initiative. Beyond 2022, we believe this partnership will help reduce further expense growth and enable a more efficient ramp-up of our customer service function. 
+Outside of the P&L geography changes to the personnel G&A and sales and other expense line from Majorelle, we are maintaining the full year P&L commentary we provided last quarter. As a reminder, the expected timing -- we expect timing to negatively impact take rates. The precise impact of timing on our take rates for the year is difficult to predict as it's impacted by the rate of recovery of bookings coming into and during the year and also by the length of booking windows during the year. We do note that relative to 2021, there was a negative impact on our take rates due to timing in Q1 2022. Our current best estimate of take rates in 2022 is just below 15%, which is lower than 2019 primarily due to timing. We expect that our underlying accommodation take rates will remain stable. 
+Timing also negatively impacts adjusted EBITDA and EBITDA margins for the year. If not for the impact of timing, our expectations for full year EBITDA margins would be a few points higher than our guidance for the year. 
+We're encouraged by our better-than-expected Q1 results and the strengthening trends we've seen in April, and we are confident that our focus on customer acquisition and expanding our product offerings is the right approach for 2022. 
+We'll now take your questions. Charlotte, over to you, please, for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from the line of Lloyd Walmsley with UBS.
+
+--------------------------------------------------------------------------------
+Lloyd Wharton Walmsley,  UBS Investment Bank, Research Division - Analyst    [2]
+--------------------------------------------------------------------------------
+All right. Two if I can. First, on the April trends in bookings and room nights, those sound nicely ahead of where Street estimates are for the whole quarter. So is there any reason to think that you won't continue to build from April in terms of kind of thinking about monthly comps or anything else we should keep in mind, pull forward or pent-up demand? 
+And then secondly, helpful color on the revenue take rates and the EBITDA impact from timing. I guess how do we think about that as we work into next year? Should take rates, at least kind of like-for-like accommodation, normalize to 2019 levels next year? And does that EBITDA headwind of a few points on timing, does all of that unwind, do you think, as we get into 2023? Any help you can give us on the kind of margins and how they progress further would be great.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [3]
+--------------------------------------------------------------------------------
+Lloyd, why don't I take that first one, and I'll let David go back over the timing issues that you just asked about. So your question really is trying to predict the future, which is always an interesting adventure, particularly over the last couple of years that we've all gone through. 
+As I've said and David was saying, we are very pleased with where we are and we're happy with what's happening. I think everybody around the world is happy about travel coming back. And we've mentioned how some of the trends that we like seeing in Asia where things are getting better, we know they're not as good as they are in Europe or in the U.S., that's a good positive sign. Hopefully, that will continue. 
+We're also pleased with the things that we've been seeing throughout in Europe and Western Europe and Eastern Europe coming back a bit. So we're all very happy where we are. But we never know. We never know what's going to happen. You know that we've done this. We had a call -- our last call, and then there was this terrible, terrible news shortly thereafter, what happened in Ukraine. And if you recall going back a quarter before that, COVID and Omicron came out of nowhere. 
+So we all know that the world is, let's say, volatile right now. But I will say, I am happy where we are, and I'm pleased with the incredible good job of execution our team has done. And David, I'm not sure you want to give any more color than that.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Glenn, just maybe a couple of extra points on the -- on what we're seeing in April and March. I mean we did see a steady progression from that first week in March where things were minus 10, up through March. And then April, on a fairly steady basis week on week. But as Glenn said, there's still a lot out there in the environment that's hard to predict. I would comment that Easter happened in April in both periods. So there's no Easter effect there relative to the growth rates versus 2019 or versus 2021 for that matter either. 
+Relative to longer-term take rates, as I explained on the call, take rates -- the impact of timing on take rates is a mathematical impact of the difference between the amount that you spill into the year from the prior year and the amount you spill out in the current year into the next year. And of course, that can be variable based upon effects. 
+We saw this year, we said that there was a hurting Q1 on timing effects on take rates because that's when Omicron basically came up at the end of Q4, and that resulted in less bookings still into Q1 than we would expect. So it's really going to be a function of how the recovery develops in total in terms of how rapidly things recover and also just the timing of that recovery. 
+So as gross rates start to normalize and get back to a kind of more normal level, you expect the impact upon the take rate -- the timing impact on take rates to come down. But then there could be some additional factors that could impact those specific things relative to what happens about the prior Q4 spilling into Q1 and the next Q4 spilling into the future Q1. 
+So normally and as the growth rates start to normalize and also revenue growth rates and booking growth rates start to align more, there will be less effect. But there could still be unusual effects that have -- like what we've seen before, that could impact the specific timing of Q1 and Q4 and the relative difference between those quarters across the years.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+Our next question comes from Brian Nowak with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Brian Thomas Nowak,  Morgan Stanley, Research Division - Research Analyst    [6]
+--------------------------------------------------------------------------------
+I have 2. First one, David, I think last quarter, you talked about some like shape of the year comments. You talked about marketing as a percentage of gross bookings to be a little higher than it was in '19, et cetera, and sales and other expenses and sort of thoughts about that as far as your bookings. I know there's a lot of pieces with ADRs moving around, et cetera, but can you just sort of maybe tell us your latest thoughts about some of those metrics on marketing spend for the year and sales and other for the year, however you want to kind of help us think about it a little bit? 
+And then, Glenn, good to hear about traction you're making on payments and flights, et cetera. I guess talk to us about on the connected trip front, which of the initiatives you think is most likely to really have a meaningful impact on the P&L as soon as maybe 2023 from an incremental dollar perspective?
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [7]
+--------------------------------------------------------------------------------
+So Dave, you want to do that first one?
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+Yes. Brian, let me go first. So with the exception of the mechanical movements, I'll talk about how they impact things a little bit, the mechanical movements relative to Majorelle, which are basically just P&L geography movements. We are not changing what we said last time. 
+We do expect some deleverage in marketing to gross bookings for the year. We said we expect in Q1 to be relatively flat. We were a little bit better than that. We were actually 50 bps of leverage in Q1 due to higher ROIs. But we did say we'd be leaning into the busy travel season more in Q2 and Q3. So we're still expecting to see some level of deleverage during the year and also increased spending on merchandising. 
+Sales and other, we still expect that to be up about 50 bps for the year tied to payments. The mechanics of the Majorelle adjustment with moving those additional expenses into sales and other would be less than 10 bps of further adjustment again that's to [TCV]. So essentially, with the exception of the mechanical movements, what we talked about for the last -- what we talked about a quarter ago for how we see the year shaping up, we still expect to see the year shaping up the same way. 
+And of course, I've given you some additional color on take rates we didn't provide last quarter. So that gives you a little bit more color than we gave you a quarter ago because we now know what happened in Q1, so we can give you a bit more guidance around that.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [9]
+--------------------------------------------------------------------------------
+And Brian, talking about connected trip. So connected trip is a long-term vision. And it's going to take some time before we get to where I believe we need to be in terms of a truly step functional change for the way people are currently buying, exploring, going through travel. I think we all know how difficult it is and we all know that it should be better. So that's the goal down the road. 
+In 2023, we're still going to be pretty early in this. I think -- I would think we're still in the base level of just getting great verticals up and running so that they, by themselves, are fantastic, good product for people to use and then just the basic cross-selling things that we think is a first step to get towards that connected trip. 
+And then you asked me one of the biggest things for 2023. Well, the things I just talked about right now, flights right now, I really like the fact, again, the new customers coming in. And they're coming in, they're buying a meaningful number of buyer combinations, and we haven't optimized this yet. That's something important. 
+Then on top of that, I mentioned in my prepared remarks about just beginning small experiments with other types of verticals and how putting these things together can give a better experience to a customer. The great thing about these things is trying to build a belief that coming to us, to Booking.com, is the best way to go. So getting more repeat business and getting them to do it on the app so that we don't pay for that person to come and increase that loyalty. 
+So there's a lot of ways trying to increase this flywheel, so people know the product is better and coming to us. And as we continue to do that, get more information to be able to provide a better proposal to them, a better offer to them, that they convert more easily, and it continues to go on its own. It's going to take time, though. And in 2023, I don't think you're going to see huge numbers from all the things I just talked about, but you will see incremental improvement.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Our next question comes from Kevin Kopelman from Cowen.
+
+--------------------------------------------------------------------------------
+Kevin Campbell Kopelman,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [11]
+--------------------------------------------------------------------------------
+I was hoping to just dig in a little bit more on the April trends. The improvement of nights there, the plus 10%, is obviously a big acceleration. Could you -- what exactly are you seeing there in terms of changes? And if we relate that back to your ad spend, you had some leverage versus GBV in Q1, but you're spending more in Q2. How much of that is a reaction to what you're seeing versus strategically pulling on a lever in the start of Q2?
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [12]
+--------------------------------------------------------------------------------
+So let me talk in general, and David, I'm not sure you want to talk in terms of any sort of numbers, leverage or whatever. But yes, we are very pleased with what we're seeing. But I believe there's a culmination of many things that we're working on. It really is a game of execution in the small details, means you're working with partners and getting the right price, the right inventory, and then it's making sure we're showing it to the customer at the right time in the right way. 
+And it means also, doing this, we're talking about with our alternative accommodations, bringing in a few -- bringing in some incremental more supply there, making sure we're working to come up with ways that works better so that the customer is having a better experience and the payments are more smooth, et cetera. I can go through a lot of little things that we're working on. And each one builds on its own and makes it a better experience. 
+Now yes, we have a brand effort in the U.S. as you hopefully remember back from our Super Bowl week, I believe, a very good ad and we're continuing. This is not just a one-and-done. It's a campaign. And we tied that with some efforts in social. And we're doing a lot of different things to try to increase our awareness, getting that top of mind awareness in the U.S., for example, helping build that. 
+But this is a global effort really in terms of trying to build our business by doing all the little things that make it a better product. Because in the long run, the better product is what's going to win. And Dave, I don't know if you want to speak anything specific in terms of ROIs or levers or anything of that nature.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [13]
+--------------------------------------------------------------------------------
+Actually, Glenn, I was going to go where you went, because this is just not one geography. We're seeing all geographies improve in April, which for us is very encouraging. So we mentioned that Europe is now in April back into high teens growth versus 2019. That is really encouraging and really the first time we've been able to talk about growth over 2019 in Europe. This is for room nights. 
+U.S. back to a very strong growth versus 2019, which we think is well ahead of the market, and Glenn mentioned some of the factors. The APAC recovering nicely, down -- still down, but down high teens. That's, again, the best result we've seen since the start of the pandemic. And the rest of the world back up to double digits. So all nice improvements from Q1, all nice improvements from March. So it's not just one region, we're seeing it across the world, which I think is a positive sign. 
+I mentioned that we would be leaning a little bit more -- expected to lean more in Q2 than in -- we did in Q1 relative to the amount of spend. And the ROI is, as we said, that is really in response to the opportunity to capture demand. When we see demand, and we see traffic on the site, that's when we can start increasing our marketing spend. 
+So we're really responding to the opportunity of recurring travel. And as we see travel, well, that's when we need to lead in -- sort of leaning in particularly in Q3 of last year. You saw us do that in prior quarters. So it's early during the quarter, but that's why we said we expect it to be a small level of delevering this quarter in marketing. But the impact we're seeing and the change we're seeing from March to April is pretty positive.
+
+--------------------------------------------------------------------------------
+Kevin Campbell Kopelman,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [14]
+--------------------------------------------------------------------------------
+Great. And could you touch on currency? With the 30% GBV figure for April, is that reported or constant currency? And the dollar has strengthened since the last call, so I wanted to ask about that.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [15]
+--------------------------------------------------------------------------------
+Yes, so that's a reported number. And currency is an impact. For what it's worth, when we did our guidance and we did our calculations here, we had [108] come down a little bit. It doesn't make a huge amount of difference. But the numbers we gave you are all reported. Unless we call something out specifically as constant currency, for example, we call out constant currency ADRs, for example. Everything else is reported.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+Our next question comes from Justin Post from Bank of America.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Securities, Research Division - MD    [17]
+--------------------------------------------------------------------------------
+I guess I'm just trying to think about market share. Can you give us any indication of how much share U.S. nights were back in '19 and what that looks like now? 
+And then one question on take rates. I know your merchant -- sorry, your payments platform is handling 34% versus 13%. I would think that would be increasing your overall take rates, but you said take rates about flat. So just talk -- maybe you can help us understand how the merchant business is affecting take rates.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [18]
+--------------------------------------------------------------------------------
+David, why don't you take that? And I want to turn '19 back (inaudible).
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Yes, I talked about -- so when we talked about the underlying take rates, we're talking about the basic take rate on the -- or the commission on the room. We're not factoring in payments to that at all or merchant mix. 
+As I said, the biggest impact on timing is -- sorry, the biggest impact on take rate is timing, and we've talked about it being very significant. But you are right. We are getting an increase in the overall take rate from our mix towards payments and from the fact that we get additional revenue from payments. 
+As I mentioned, in 2021 for example, that was somewhat offset by the merchandising that we can now do, because we couldn't merchandise and participate in pricing actually as ourselves until we have it on the payments platform. And in 2022, that again will be largely offset by the merchandising activities. Now bear in mind, merchandising is also like marketing, we can turn it up and churn turn it down. We think that this year, in a recovering travel marketplace, there's a potentially once in a generation opportunity to really lean into both marketing and merchandising. 
+But we are seeing improvements in take rates from the payments platform. And again, when I talk about the underlying accommodation take rate being very constant, that does not include the additions for things like payments or things we've done on top of payments, nor does it impact anything that we do on top of that, or does it include anything we do on top of that with our merchandising activity. So hopefully, that clarifies the movements there.
+
+--------------------------------------------------------------------------------
+Justin Post,  BofA Securities, Research Division - MD    [20]
+--------------------------------------------------------------------------------
+Great. And then on U.S. share of nights, any help there?
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [21]
+--------------------------------------------------------------------------------
+David, I think we don't reveal that granularity.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [22]
+--------------------------------------------------------------------------------
+I think our view, just as being that shared data is -- we should look at share over a medium-term basis. A single quarter, very difficult to predict. We certainly believe that last year with our growth in -- the U.S. being strong versus 2019, we certainly recovered a lot faster than the market did in 2021. 
+We were strong again in Q1 in the U.S. market versus 2019 and very strong in April. So difficult to give you an individual share points. But when we look at the overall accommodation market, which is the way to think about things, we know we picked up some share points in 2021, and we know we're continuing to stay above where the market is in 2022 from a recovery point of view.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [23]
+--------------------------------------------------------------------------------
+Well, I would just say, look, I am very pleased with what we've done over the last 2.5 years since this pandemic started, what we've been doing in building out our business in the U.S. And I made the point of how important it was, strategically, to do better in the U.S. because we have been under-indexed in the U.S. And we've been doing a lot of blocking and tackling on these 2.5 years in the midst of this pandemic, and we're beginning to see it come through. And I'm very pleased with the results up through Q1.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+Our next question comes from Mark Mahaney from Evercore.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Internet Research    [25]
+--------------------------------------------------------------------------------
+David, a question for you and then one for Glenn. David, you talked about take rates this year being, I think, just below 15% or something like that, and you said that'd be a few points higher, if not for timing. So what I want to ask you is, does that mean that once we get beyond these unusual timing issues for a variety of factors this year, that kind of the normalized take rate is a couple of points higher, like 17%? You haven't done that. Your booking has done that in the past, but that's going back 5, 6, 7 years. But is that the implication of that statement? 
+And then, Glenn, about the connected trip, I wondered if you think that there's something that's structurally changed that makes connected trip more attractive, more viable or more impactful than it has been historically. I think about the history of online travel and there was a connected trip company, but they never -- with a large package business, but they never generated as many room nights as you did, and you were solo lodging a company. Is there something that's changed now? Maybe it's a much greater use of mobile or mobile apps that just makes the connected trip a greater needle mover today than it was historically?
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [26]
+--------------------------------------------------------------------------------
+Glenn, why don't you go first?
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [27]
+--------------------------------------------------------------------------------
+Do you want me to go first? So Mark, here's the thing. I  have seen over 2 decades, people have been talking about a connected trip because travel in this problem since we started buying travel online, didn't have a human being do it for us. 
+Certainly, the technological landscape has changed significantly since we first started doing this when I first joined this company in 2000. And now we have so many new things that we can use to make this better, the idea of mobile, apps, but even more so, all the machines learning, AI, to be able to do better types of predictability of what's happening and what could be better for a person, how we can see, is there a potential problem in the future we can fix it before it happens. So many things. 
+I believe this can be done, will be done. I believe we're the ones who are going to do it, okay? But we're not there yet. So to say it hasn't happened, it hasn't happened yet because we haven't built all this yet. I believe it will happen. And I do believe it's necessary because I don't believe that people should have to suffer the way they do right now in trying to do a simple family trip. 
+That being said though, it's going to take time. We're going to get there, but we're not going to show up next quarter or next year and say here's the incredible increase in our business. It is going to be incremental, it's going to take time, but I absolutely believe this is where it's going to be. And David, I'll let you take yours.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [28]
+--------------------------------------------------------------------------------
+Yes, right. Thank you, Mark. So yes, let's not confuse the difference between impacts on EBITDA margin and actual take rate percentages. What we talked about is the fact that -- let's go back to numbers. So in 2019, the take rate blended across the year was 15.6%. In 2021, we said it was 14.3%. We said last quarter, we're somewhere between those 2. This quarter, we gave you a bit more guidance because we know more about the timing impact in Q1. So we said just below 15%. 
+We said that, that impacts on -- the timing impact on take rates was causing a few points of EBITDA margin compression. So take a few -- so we said last quarter, and we still maintain, that our EBITDA margin rate for the year will be a few points higher than it was in 2021. And what we said after last call, we're clarifying again today, is if it wasn't for the impacts of timing, the EBITDA margin will be a few points higher again on a normalized basis. 
+So the fact that take rates are being hurt for the full year is causing us to have a few points of compression on our EBITDA margin this year, which is timing related. We did not say the take rates back in 17%, we said that they would be below 15%. And if you normalize from just below 15% back to 15.6%, something like that, then that will give you those few points of EBITDA margin that we talked about.
+
+--------------------------------------------------------------------------------
+Mark Stephen F. Mahaney,  Evercore ISI Institutional Equities, Research Division - Senior MD & Head of Internet Research    [29]
+--------------------------------------------------------------------------------
+Okay. Yes. Sorry, that was my mistake and a confusing question.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+We will now take our next question comes from Eric Sheridan of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [31]
+--------------------------------------------------------------------------------
+I want to come back to the comment you made in the prepared remarks on investing in supply as we go deeper into 2022. Can we talk about what kind of investments you feel you need to make? And also, as you look at the base of gross bookings and the booking window you have now deeper into the year,  where do you find yourself with elements of supply-demand imbalance on either the shared accommodation side or the hotel side that you're trying to sort of unlock or think about not only just for summer of '22, but beyond into 2023?
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [32]
+--------------------------------------------------------------------------------
+Sure. So let me talk a little bit about trying to build our supply in areas where we think we need it. And I've talked about this in the past in the alternative accommodations area where we think we are not as well positioned as some of our competitors, stating the fact, particularly in the U.S. So we absolutely need to go out and, first, make sure we got a product that people who own properties want to put on our platform. That's kind of the new things I talked about in terms of the liability insurance, in terms of payment system that is actually workable and works well, things like that. But then we have to make people aware of this. 
+And that's going out. We mentioned we have a new campaign out. We're spending money. And it's more than just marketing out. There's actually individuals talking with the big owners of multiple, multiple properties to make sure they understand what we can bring to them. That's how we start to bring in more of that. Because if you don't have the supply, you never -- you can't get in the business. So we do that, and then we obviously have the second -- the other side of this 2-sided marketplace to make sure consumers are aware of this, too, and make sure they're coming to it. That's how we're going to do this over time. 
+And it's obviously something that I've been talking about for a long time. I'm sure people are getting a little tired of me saying it, but it's -- this is where we're going. I mentioned how we are -- we didn't have a net increase in alternative accommodations, very pleased about that. And we are going to keep on building this, and it builds on itself. This is, again, one of those things where it was like a snowball, you need to get it rolling and then it will build more and more, faster and faster. It's going to take some time. I'm pleased with where it is. In terms of the window,  repeat that part of the question.
+
+--------------------------------------------------------------------------------
+Eric James Sheridan,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [33]
+--------------------------------------------------------------------------------
+I'm just kind of curious like where you do see supply-demand imbalances based on what you've seen in the forward booking window going into the summer and other elements of this, where maybe there are disconnects in supply versus demand by product type, looking out deeper into the year.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [34]
+--------------------------------------------------------------------------------
+Yes. So right now, we're not seeing any shortage of supply from demand, people come in and it's not -- so they're not -- they can't find (inaudible) right now. That doesn't mean in peak summer that there won't be some shortages of inventory. In fact, that happens every normal year when there's peak summer travel in the northern hemisphere, the most popular places will fill up and the most popular -- and most properties in the most popular locations are going to fill up. 
+One of the great things that we've been doing for some time is being very flexible and offering customers when they come in, we're not having enough inventory, we think, because things are filled up there, we're offering an alternative place where they can go and stay or different locations, different properties, all different ways. We are doing -- and working more in different experiments to do that. 
+But we're not the only ones who do that. That's important. You have a customer in your store. You want to sell to them. You don't have enough of what they want. You show them something else that probably is just like it. That's what we're doing. Clearly, over time, what I want to do though is not have to have this conversation about in the U.S., that we don't have enough of the single properties on the beach and XYZ, and that's something that really what we're working on. But right now, I don't see an issue right now. We're having insufficient supply.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+And now we will now take our last question comes from Doug Anmuth from JPMorgan.
+
+--------------------------------------------------------------------------------
+Douglas Till Anmuth,  JPMorgan Chase & Co, Research Division - MD    [36]
+--------------------------------------------------------------------------------
+I just wanted to ask about international recovery. It seems like you're suggesting it's coming more from short haul. Just curious what you're seeing in terms of long haul and how you're thinking about that coming back.
+
+--------------------------------------------------------------------------------
+David I. Goulden,  Booking Holdings Inc. - Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+I'll start. So yes, so you're right. International recovery in total, international bookings in total cross-border, as we define it in April, down a little bit. Short haul, you (inaudible) or within Europe, actually up decently. But long haul, still down, not too surprisingly. I mean in total, to see the international booking number close to flat for April, I think, is a great step forward. Not surprisingly, interregion is going to recover fast, fastest. Most European countries are now -- relaxed all restrictions for travels within Europe, which is great. And long haul, still down but also rapidly improving. We see strong growth from travels from the U.S., for example. Obviously, travel into and from Asia is still down. And that's an important destination for both U.S. and European people when you look at a lot more routes.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [38]
+--------------------------------------------------------------------------------
+And David, you basically said what I was going to say. Basically, we have a situation that's very tied somewhat to restrictions, and its countries that are typical long-haul destinations, some of them in Asia, for example. As they will begin to lighten up and people feel more confident they can go without having to do a lot of different things, don't have to quarantine before, don't have to go to get a test there, don't test before, as these things go away, then people will travel more and more on these long-haul trips. So I definitely am positive on the continued trend in this area. 
+Okay. Was that the final question?
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Yes, that is our final question. So I will now turn the call back to Glenn Fogel for the closing remarks. Please go ahead.
+
+--------------------------------------------------------------------------------
+Glenn D. Fogel,  Booking Holdings Inc. - President, CEO & Director    [40]
+--------------------------------------------------------------------------------
+Thank you. As always, I want to thank our partners, but I really want to thank all of our partners who have generously contributed to our refugee platform. I also, of course, want to thank the customers, our dedicated employees and our shareholders. We appreciate your support as we continue to build on the long-term vision for our company. Thank you, all, and good night.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+Thank you. And that concludes today's conference call. Thank you, everyone, for participating. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

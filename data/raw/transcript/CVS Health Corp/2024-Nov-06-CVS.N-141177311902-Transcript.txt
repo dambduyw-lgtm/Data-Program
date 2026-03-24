@@ -1,0 +1,476 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2024 CVS Health Corp Earnings Call
+NOVEMBER 06, 2024 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Thomas Cowhey
+   CVS Health Corp - Chief Financial Officer, Executive Vice President
+ * Larry Mcgrath
+   CVS Health Corp - Executive Vice President and Chief Strategy Officer
+ * David Joyner
+   CVS Health Corp - President and Chief Executive Officer
+ * Prem Shah
+   CVS Health Corp - Group President, CVS Health
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Andrew Mok
+   Barclays - Analyst
+ * John Ransom
+   Raymond James & Associates, Inc. - Analyst
+ * Elizabeth Anderson
+   Evercore ISI Institutional Equities - Analyst
+ * Justin Lake
+   Wolfe Research, LLC - Analyst
+ * Michael Cherny
+   Leerink Partners LLC - Analyst
+ * Brian Tanquilut
+   Jefferies LLC - Analyst
+ * Lisa Gill
+   JPMorgan Chase & Co - Analyst
+ * Stephen Baxter
+   Wells Fargo Securities, LLC - Analyst
+ * Josh Raskin
+   Nephron Research LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and thank you all for attending the CVS Health third quarter 2024 earnings call and webcast. My name is Brika, and I will be your moderator for today. (Operator Instructions) I would now like to pass the conference over to your host, Larry McGrath at CVS Health. Thank you. You may proceed, Larry.
+
+--------------------------------------------------------------------------------
+Larry Mcgrath,  CVS Health Corp - Executive Vice President and Chief Strategy Officer    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and welcome to the CVS Health third quarter 2024 earnings call and webcast. I'm Larry McGrath, Chief Strategy Officer. I'm joined this morning by David Joyner, President and Chief Executive Officer; and Tom Cowhey, Chief Financial Officer.
+Following our prepared remarks, we'll host a question-and-answer session that will include additional members of the leadership team. Our press release and slide presentation have been posted to our website, along with our Form 10-Q filed this morning with the SEC.
+Today's call is also being broadcast on our website, where it will be archived for one year. During this call, we'll make certain forward-looking statements. Our forward-looking statements are subject to significant risks and uncertainties that could cause actual results to differ materially from currently projected results.
+We strongly encourage you to review the reports we file with the SEC regarding these risks and uncertainties, in particular, those that are described in the cautionary statement concerning forward-looking statements and risk factors in our most recent annual report filed on Form 10-K, our quarterly reports on Form 10-Q filed this morning and our recent filings on Form 8-K, including this morning's earnings press release.
+During this call, we'll use non-GAAP measures when talking about the company's financial performance and financial condition, and you can find a reconciliation of these non-GAAP measures in this morning's press release and in the reconciliation document posted to the Investor Relations portion of our website.
+With that, I'd like to turn the call over to David. David?
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Larry, and good morning, everyone. Before I begin, I would like to thank Karen Lynch for her years of leadership, dedication and strategic vision. Karen is a friend to me and many others across the CVS Health organization, and we wish her all the best.
+I am incredibly honored to lead CVS Health during this critical time. My entire career is deeply connected with this enterprise. When I returned to CVS Health in 2023, it was because of my strong belief in our purpose and strategy. Today, CVS Health serves 185 million people across the US, and we are uniquely positioned to help them navigate their health care journey.
+In the past few weeks since I took on this role, I have seen firsthand the dedication, pride and commitment of our employees to CVS Health and our vision to deliver lower cost better experiences and better health outcomes for our members, clients and patients.
+I began my career at Aetna and have spent the last 37 years managing health care services teams with the focus on driving innovation, strong execution and consistent financial performance. Our career has been defined by navigating through change and evolving markets. As the leader of Caremark, I engage with health plans, employers, pharmacies and the broader health care delivery system in our country.
+These experiences gave me a diverse set of perspectives on the challenges and opportunities inherent to our system. I've mobilized teams who have helped reshape the pharmacy benefit landscape by lowering cost, increasing transparency and driving greater accessibility. Many of those innovations have been made possible by integrating the assets across this enterprise.
+At CVS Health, each of our businesses is formidable in its own right. We have the leading PBM, the best-run pharmacy in this country, a storied franchise through Aetna and industry-leading health care delivery assets. Our collection of businesses and omnichannel capabilities allow us to lead the industry forward with innovative and market-moving solutions.
+We were pioneers in advancing the biosimilar adoption by establishing a co-manufacturing capacity through court office. Making the necessary formulary changes with Caremark and executing through our CVS specialty operations. Through our leadership and innovation, we were able to drive down commercial specialty trend for clients that use our integrated biosimilar approach to 1.3%, the lowest level in recent history.
+We continue to expand our product offering and drive innovation for Aetna's self-insured customers. Last month, we introduced Simple Pay a differentiated offering for our commercial customers that provides greater price certainty before a visit or treatment. Instead of bills and benefit details, members received just one simple monthly statement that summarizes all of their medical and pharmacy claims. This offering provides a simpler end-to-end member experience and access to affordable, quality innovative health care for members and plan sponsors.
+In addition, this product has been shown to drive a 60% increase in the use of top quality providers and a 12% total cost of care savings for employers and members. Last month, BMS released its 2025 star ratings. CVS Health's integrated teams helped Aetna deliver an exceptional result. We built upon our strong momentum from last year with 88% of our Medicare Advantage members in 4-star plans or higher and more than 2 out of every 3 Aetna MA members and a planned rated 4.5 stars.
+Our commitment to outstanding service resulted in our highest ever member experience score since CMS launched the quality bonus or program in 2012. This was an impressive result particularly as CMS continues to raise the bar on what it takes to achieve a 4-star rating. Our success in this crucial area was achieved by enhancing our cross-enterprise processes and driving focused and deliberate execution, strengthening our position for the future. This framework and approach are critical elements as I look to lead this organization through the opportunities and challenges ahead. It will also require the right leadership team.
+Today, we announced two leadership appointments that will help us drive better performance across the enterprise and at Aetna specifically. First, Prem Shaw, who has been running our pharmacy and consumer wellness business is elevated to Group President and will now also be responsible for the Health Services segment.
+Second, we appointed Steve Nelson as President of Aetna. Steve is an industry veteran who has successfully led diverse managed care companies and driven innovation and growth throughout his career. Steve was a former CEO of United Healthcare and held several leadership roles with a proven track record of delivering growth, profitability, improved employee engagement and customer satisfaction.
+I am confident both Prem and Steve will help us advance our strategy and enable us to realize opportunities across our businesses. Shifting now to the results in the third quarter. We delivered adjusted earnings per share of $1.09, with total revenues for the company of more than $95 billion.
+CVS Health has made up of three attractive operating segments, which are all critical to the health care system. Two of those segments continue to perform consistent with our expectations. Our Health Services segment had another strong quarter, while delivering on our commitments to lower drug costs to our clients and members.
+Our pharmacy and consumer wellness business continues to be the best run national pharmacy in the country, increasing its share of scripts filled and delivering important community health access across the nation.
+Results in our Health Care Benefits business remained challenged as a result of continued elevated levels of utilization. While we are clearly underperforming at HCB today, this business has incredible earnings potential and is an essential element to our strategy. We expect the elevated levels utilization will continue to pressure our 2024 performance. And as a result, we are not providing a formal outlook today.
+Although Tom will provide some comments on what we may expect directionally. I appreciate and understand your desire for us to provide guidance at this stage, establishing credibility and earning your trust is one of my top priorities as the new leader of CVS Health.
+I recognize that in order to achieve that, any guidance we provide should be achievable with clear opportunities for outperformance. This must be a core principle in order to deliver on that commitment to you, I want to spend more time understanding the complexities and challenges facing our Aetna business, and we'll provide an update when appropriate.
+There are clearly both macro and company-specific factors driving the challenges within our Aetna business. The entire industry has seen pressure, including elevated utilization coming out of the COVID-19 pandemic, and higher acuity as a result of the Medicaid redeterminations. However, I recognize that we have been more acutely impacted than others in the industry.
+As a result of our disappointing star ratings for 2024, we began the year with a known and temporary reimbursement challenge. When we priced our Medicare Advantage business for 2024, we clearly underestimated the medical cost.
+In this rising trend environment, we offered rich benefits, which exacerbated our utilization pressures and grew membership rapidly. Our individual exchange business, another area where we had a large increase in membership has seen pockets of higher utilization and several disappointing risk adjustment updates. These miscalculations during the 2023 bid processes have significantly burdened Aetna's current results. This performance is unacceptable. However, I am confident in the long-term prospects of Aetna. We will make the hard choices and take the necessary actions to drive a multiyear earnings recovery at Aetna.
+Our benefit design and price changes in Medicare Advantage and the individual exchange are down payments on this enduring commitment. We are making marked progress to realign the Aetna organization and enhance management processes. We have taken meaningful steps to ensure the stability of the Aetna business and strengthen the leadership team.
+In addition to the appointment of Steve Nelson, we also recently added Andrea [tangelo], a seasoned Managed Care CFO to the Aetna organization. Who has also been working closely with me, Tom and our Chief Operating Officer, Katrina Gerez, to help drive operational enhancements, improved forecasting and greater accountability.
+Our risk management processes have been restructured to pull underwriting and pricing authority out of the business units and into the financial chain. This realignment will help improve transparency and accountability as we execute our margin recovery and drive profitable growth. Of course, Tom and I will work closely with Steve, Katrina and [Andriana] to scrutinize and support the underwriting and pricing decisions going forward. We've also been making operational changes, identifying and prioritizing those gaps and inefficiencies that create the most significant impacts to performance.
+Our teams have been addressing the challenge of strained clinical operations by improving staffing and training. We are utilizing technology to automate and streamline processes. For example, through the power of AI, we have simplified clinical case preparation and meaningfully reduce the amount of time our care managers spend on case Prep.
+We are improving our services and claim operations, increasing our accuracy and reducing abrasion for members and providers. By utilizing technologies, we are driving greater insights across Aetna, including expanded integration with the Caremark team to understand and manage pharmacy spend and enhance data insights to improve our ability to rapidly identify emerging utilization trends. The work in Aetna is underway, and we are confident we are taking the right steps to address the underlying issues and drive improved performance with Aetna.
+Turning to our pharmacy and consumer wellness business we continue to effectively navigate a challenging and dynamic consumer backdrop. Our performance reflects strong execution and the benefit of strategic investments in our workflows and our colleagues.
+This quarter, we achieved another record high retail pharmacy script share at 27.3%, an impressive accomplishment as we continue to optimize our store footprint. By the end of November, we will have completed our previously announced 3-year store optimization initiative targeting 900 stores and expect to close approximately 270 stores in 2025.
+We recognize the importance of retail pharmacy and the communities we serve and will continue to be thoughtful and deliberate as we execute on our footprint optimization efforts. We are progressing our transition to the CVS cost manage model and have reached agreements covering more than half of our total commercial scripts.
+The ongoing discussions with our large PBM partners remain active and constructive as we move forward with the full commercial contract implementation on January '25. We have also been deliberate in enhancing the durability and strength of our store operations to ensure we consistently serve our role as a community health destination.
+This was clear on the aftermath of the recent hurricanes. Our colleagues were instrumental in ensuring our operations were back online quickly with most stores open within 48 hours. We utilized our dynamic approach to workload sharing capability used across most of our fleet, allowing us to rapidly recover impacted stores, ensure patient access to critical medications and provide continuity of care for our customers.
+In our Pharmacy Services business, we had another very strong quarter, delivering on our commitments to our clients and customers. In spite of the intense scrutiny and rhetoric at Caremark and the PBM industry base, we continue to play a crucial role in managing drug costs in this country.
+I've highlighted the progress we made on the biosimilar space and our customers continue to see the value that we're delivering with our capabilities. We are once again positioned to close out a robust selling season, achieving a retention rate in the high 90s. We continue to offer our clients choice and innovation and our true cost offering is resonating in the market.
+For 2025, clients representing 70% of our commercial lives have chosen to implement multiple elements of the TruCost model into their benefit design options. And finally, our health care delivery business, we continue to progress our strategy of delivering superior care to the patients we serve. Signify delivered another strong quarter. Aetna members served by Signify have nearly doubled compared to last year, supported by our ability to utilize touch points across CVS Health.
+Our enterprise connections also continued to accelerate patient growth at Oak Street our at-risk membership is up 32% from the same quarter last year, and the number of Aetna members enrolled at Oak Street has approximately quadrupled since the close of the acquisition. Through thoughtful benefit design, we continue to introduce Aetna members to high-quality providers like Oak Street Health, allowing us to improve member experiences and deliver better health outcomes.
+As we look ahead to 2025 and beyond, there are reasons to be optimistic, and I'm excited about our path forward. We have implemented a disciplined approach to Medicare Advantage benefit design. We continue to accelerate progress on our innovative pharmacy models and biosimilar strategy.
+We've delivered wins in both Caremark and at the selling season and we are rapidly advancing the integration of our health care delivery assets. We are making the necessary changes to return our business to profitable growth in 2025.
+We are committed to a disciplined financial policy and with improved profitability, we expect to strengthen our balance sheet. We have strong leadership across the country. We have a powerful collection of businesses operating in some of the most critical areas of health care, which provide us with a unique opportunity to deliver value for our customers, colleagues and shareholders.
+I also want to extend our appreciation to our over 300,000 colleagues. I'm grateful for your continued dedication, for our collaboration to drive continuous improvement, and for all that you do every single day for the millions of customers and members we serve.
+With that, I'll pass the call over to Tom. Tom?
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, David, and thanks to everyone for joining us this morning. I'll start with a few highlights on total company performance. Third quarter revenues were approximately $95.4 billion, an increase of approximately 6% over the prior year quarter, primarily reflecting growth in our health care benefits and pharmacy and consumer wellness segments. We delivered adjusted operating income of approximately $2.5 billion, and adjusted EPS of $1.09.
+Year-to-date cash flow from operations were approximately $7.2 billion, a lower result as compared to the same period last year, primarily due to the timing of CMS receipts and the impact of higher utilization on HCV earnings.
+Let's look at the performance in each of our segments. In our Health Care Benefits segment, we grew revenues to approximately $33 billion, an increase of over 25% year-over-year, reflecting growth in all lines of business. Medical membership grew to approximately $27.1 million, an increase of 178,000 members sequentially, primarily reflecting growth in Medicare and individual exchange.
+During the quarter, the segment generated an adjusted operating loss of $924 million. This result includes the impact of premium deficiency reserves of approximately $1.1 billion recorded primarily in our Medicare and individual exchange businesses.
+As a reminder, PDRs generally measure variable losses in a product and do not contemplate fixed expenses. The aggregate of the PDRs was comprised of approximately $670 million of health care costs. and $394 million of operating expenses, specifically related to the write-off of unamortized deferred acquisition costs.
+Substantially, all of the charges were associated with the 2024 policy, shifting the earnings cadence between the third and fourth quarters. Our medical benefit ratio of 95.2% increased 950 basis points from the prior year quarter including a 220 basis points impact from the PDRs. This increase was primarily driven by higher utilization, higher acuity in Medicaid, the premium impact of lower Stars ratings for payment year 2024 and an update to our 2024 individual exchange risk adjustment accrual.
+Medical costs remain elevated in our Medicare book and at levels above what was contemplated in our previous guidance. Pressure is largely attributable to the same categories we discussed last quarter, including inpatient, outpatient, supplemental benefits and pharmacy.
+During the third quarter, we also saw unfavorable development of 2024 medical costs, primarily related to second quarter dates of service, which has adversely impacted our trend outlook for the remainder of the year.
+Medical costs in our individual exchange business also accelerated during the quarter with broad levels of higher utilization above our prior expectations. The pressure we've experienced thus far has been primarily driven by certain high-cost geographies where the combination of our growth and [metal] tier mix have led to higher medical costs.
+During the third quarter, we also received updated risk adjustment data for our individual exchange business. As a result, we increased our risk adjustment accrual for the 2024 plan year by approximately $275 million in the quarter. We will continue to evaluate our revenue accruals for potential additional pressure as we receive updated data on our risk scores later this year and into early 2025.
+In our Medicaid business, consistent with others in the industry, we continue to experience higher acuity related to the impact of redeterminations. We believe the level of dislocation between acuity and rates stabilized towards the end of the third quarter. We continue to work closely with our state partners to align the rates with changes in acuity.
+Although the engagement with our state partners has been constructive, we have seen some rate updates in the second half of 2024, they remain inadequate to cover current levels of elevated acuity. In light of the utilization pressures we have seen across the Health Care Benefits segment in 2024, we continue to closely watch our group commercial business.
+To date, pressures in this business have largely been manageable. We have proactively pushed rate to cover emerging medical cost trends. This will result in lower commercial risk membership in 2025, hindering our ability to grow earnings in this business.
+Days claims payable at the end of the quarter was 44.6 days, up 1.5 days sequentially, primarily driven by the impact of the premium deficiency reserves. [DCP] was down 5.7 days from the prior year quarter, primarily driven by growth in our Medicare business and the impact of increased pharmacy trends. We remain confident in the adequacy of our reserves.
+Our Health Services segment delivered another strong quarter. We generated revenue of $44.1 billion during the quarter, a decrease of approximately 6% year-over-year, primarily driven by the previously announced loss of a large client and continued pharmacy client price improvements.
+These decreases were partially offset by pharmacy drug mix, increased contributions from our health care delivery assets and growth in specialty pharmacy. Adjusted operating income of approximately $2.2 billion increased 17% from the prior year quarter, reflecting improved purchasing economics, partially offset by continued pharmacy client price improvements and the previously announced loss of a large client. Total pharmacy claims processed in the quarter were approximately $484 million in total Pharmacy Services membership as of the end of the quarter was approximately $90 million.
+We continue to be encouraged by the growth of our health care delivery assets. As David mentioned, Signify continued its strong performance in the quarter, generating revenue growth of approximately 37% over the prior year quarter.
+Oak Street revenue increased significantly in the quarter, growing approximately 36%, driven by strong membership growth. At risk members increased by approximately 32% compared to the same quarter last year, supported by our ability to use touch points across CVS Health. We are encouraged by Oak Street's performance in this challenging environment.
+During the quarter, our Pharmacy and Consumer Wellness segment generated revenue of approximately $32.4 billion, an increase of over 12% versus the prior year and over 15% on a same-store basis. Adjusted operating income of nearly $1.6 billion increased approximately 15% versus the prior year, driven by increased prescription volume, including increased contributions from vaccines and improved drug purchasing partially offset by continued pharmacy reimbursement pressure and lower front store volumes.
+Same-store pharmacy sales in the quarter increased by nearly 20% versus the prior year and same-store prescription volumes increased by approximately 9%. As David mentioned, we continue to grow our retail pharmacy script share position, achieving a share of approximately 27.3%. Same-store, front store sales were down approximately 1% versus the same quarter last year.
+One other item I would like to highlight for investors is that we took a restructuring charge of nearly $1.2 billion in the quarter. This amount reflects several components, including impairment charges for approximately 270 stores we expect to close in 2025, costs related to the discontinuation of non-core businesses and costs associated with workforce optimization.
+Shifting now to cash flow and the balance sheet. For our third quarter, we generated year-to-date cash flow from operations of approximately $7.2 billion. During the quarter, we returned $837 million to shareholders through our quarterly dividend, and we ended the quarter with approximately $1.2 billion of cash at the parent and unrestricted subsidiaries.
+Our leverage ratio at the end of the quarter was approximately 4.6 times, which is above our long-term target. We remain committed to maintaining our current investment-grade ratings and expect our leverage to return to more normalized levels as we execute on margin recovery in the Aetna business.
+As David mentioned, we are not providing a formal outlook for 2024 at this stage. However, we would like to provide some directional commentary to help you better understand how we see the moving parts. Starting with our health services and pharmacy and consumer wellness segments. As we have previously highlighted, those businesses continue to deliver strong results.
+In PCW, while the immunization season got off to a stronger start than we expected, shifting demand into the third quarter, strong script growth continues to give us confidence in the previous outlook we shared with investors.
+In the Health Services segment, Caremark's earnings progression in 2024 started slow, but steadily built momentum over the second and third quarters. While we maintain a cautious outlook on our health care delivery business as we evaluate the potential for additional Medicare trend-related risks, we remain confident in our ability to deliver on the Health Services segment earnings outlook we shared with investors on our second quarter call.
+Within health care benefits, we continue to grapple with both environmental and company-specific challenges as you have seen with our third quarter results. Similar to others within the industry, Medicare Advantage utilization continues to be elevated. We have also grown membership very rapidly with a very rich benefit offering, which has resulted in benefit induced utilization.
+Medicaid continues to be pressured by the dislocation between acuity and rates as well as seeing some pockets of higher utilization. We have also seen rapid growth in our individual exchange business, which has led to several disappointing updates on risk-adjusted revenue and in some states, higher-than-expected utilization.
+To date, the combination of these factors has challenged our visibility and our 2024 outlook. While we are not providing formal guidance today, let me walk you through one potential scenario. If trends develop unfavorably and persist that the significant levels we have experienced in recent months, our fourth quarter reported MBR could increase by over 700 basis points as compared to the fourth quarter of 2023.
+Additionally, in this scenario, we would likely need to take a PDR in our group Medicare Advantage business related to 2025 dates of service, which would further pressure 2024 results. Despite challenges in 2024, we have taken deliberate actions that position us for growth in 2025 and beyond. While we will not give formal 2025 guidance until next year when we have better visibility on our 2024 medical cost baseline and our changing membership, I want to provide an update on some of the key headwinds and tailwinds.
+Starting first with the headwinds. In our PCW segment, we expect earnings to decline in line with our long-term guidance framework. As David mentioned, we are encouraged by the adoption of CVS cost vintage and the shift of commercial scripts to this model on January 1.
+We expect 2025 to be a transition year that positions us for outperformance of our long-term growth target in future years. We also remain cautious in our outlook for front store sales, which have been pressured in recent quarters, consistent with the broader macroeconomic backdrop.
+As we previously discussed, we expect the return of certain variable corporate expenses. We also expect higher interest as we annualize the expense from our May 2024 financing, a decline in net investment income and modest dilution from the increase in our share count.
+Shifting now to the tailwinds. We expect improvement in contributions from our Health Care Benefits segment. We believe our deliberate approach to our 2025 Medicare Advantage bids and our focused changes to our footprint, which we expect to result in membership disenrollment of 5% to 10% when combined with our improved Star ratings, will result in margin recovery.
+This is a significant first step on our journey back to target margins of 3% to 5%. We continue to view the dislocation between Acuity and rates in Medicaid as temporary and expect this to be resolved over subsequent pricing cycles. However, we do not expect the dislocation to be fully resolved before the end of 2025.
+We expect improvement in our individual exchange business as a result of our pricing actions and deliberate product repositioning, which we project will decrease membership in this block of business in 2025. We will continue to refine our product offerings for long-term sustainability.
+We also expect underlying growth in our Health Services business, including growth in pharmacy services as we continue to drive value for our clients and incremental improvement in our health care delivery businesses.
+We expect our initial outlook for this segment will be below our long-term growth framework, but will prudently provide opportunities for upside over the course of the year. Finally, we have executed the first step of our multiyear cost savings initiative that we expect will generate over $500 million next year, helping to offset the return of variable expense in 2025.
+Taking a step back, 2024 has been a disappointing year for performance in our Health Care Benefits segment. We could experience mid-single-digit percentage losses in our Medicare business. Our foray into the individual exchange business could result in negative margins that approach double digits. We are also projecting modest negative margins in our Medicaid business.
+It is possible that our health care benefits business could show operating losses in 2024 after generating over $5.5 billion of adjusted operating income in 2023. Conversely, this means that there are well over $3 of embedded adjusted EPS and if we could return Aetna profitability to 2023 levels.
+Open enrollment for both Medicare Advantage and individual exchange has demonstrated that we took meaningful action in curtailing benefits, adjusting products and where appropriate, raising prices. While we are confident we have taken the right initial actions, the road to recovery will take time. We look forward to providing more details on our 2025 outlook and those first steps on our journey we have more clarity on the moving parts in our Health Care Benefits business next year.
+With that, we will now open the call to your questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Lisa Gill, JPMorgan.
+
+--------------------------------------------------------------------------------
+Lisa Gill,  JPMorgan Chase & Co - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Great. Thanks very much. And thanks for the detail. Tom, I just wanted to make sure that I understand a couple of things. One, when I think about the MA bids that you put in for 2025, you talked about, and we also on the plan finder, the cuts. Can you maybe just talk about -- I know we're only one month in, but you seeing the disenrollment that you expected? And two, just given the size of the surprise that we've seen here in the back half of the year, the level of confidence that you have around the bids that you did put in for 2025, if I can understand that.
+And then just secondly, you talked about pharmacy. We've heard others talk about pharmacy trends here in the back half of the year, really shifting and changing because of the inflation Reduction Act and changes around catastrophic coverage.
+Just curious, one, did you see that as well specific to those changes? And is it benefiting perhaps some of the other sides of your business? I know obviously, you have a really big specialty business, and you talked about the strength in the pharmacy business.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Let me start with your first question. So -- we're early in the open enrollment season, but I did reiterate the guidance that we've been giving for a couple of months now. Our early indicators would suggest that we would be down in that 5% to 10% range on the total book.
+We'll have more stability on the group book, so that's a higher percentage is think about the individual and the dual eligible populations that we'll see declines on. But we feel reasonably good about how the membership is coming in and that it would be within that range that we've been guiding investors to.
+As you think about ability and confidence in the bids, the bids are clearly designed to improve results next year. And maybe there's a couple of things I can talk you through at a high level, just to give you a framework to think about that.
+The first is improvement in [stars]. And so because of the contracts that we have that are now going to be 4 stars or better for 2025 payment year, that's going to be about an $800 million headwind no matter what the baseline is -- tailwind I keep doing that. It used to be a headwind, and now it's going to be a tailwind next year.
+The -- on the individual blocks of business, we have made deliberate benefit design changes to supplemental benefits which will fundamentally change how these benefits function in 2025, which will also improve margins.
+Finally, we've both exited underperforming counties and we pulled underperforming products that will impact nearly 0.5 million members. Those changes should also improve profitability in '25 as many of those members will choose newly designed products that will have an improved margin profile.
+We expect that those changes are going to drive margin expansion. And when we have a better understanding of what that membership mix looks like for 2025 as well as our '24 baseline, we'll be able to better provide specifics on the level of anticipated improvement next year.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [4]
+--------------------------------------------------------------------------------
+
+          Yes. Lisa, this is David. Maybe just one additional follow-on here. I think one is we are feeling very good about the improvements that we've made going into '25. So the recognizing, obviously, the challenge in '24, we had -- we believe we made the appropriate course correction.
+And then as it relates to pharmacy, which was your last question, I think this is the unique opportunity of this enterprise. We -- the goal here is not to be surprised especially as it relates to pharmacy costs. We think we've anticipated and contemplated the changes both at ROA as well as the broader macro trends that we see within pharmacy.
+And the goal here, especially now with the addition of both Steve and Prem we're going to see further integration of not just the pharmacy benefit integration, but more importantly, the medical pharmacy, which is a piece that obviously, I think, is driving some of the increased costs in the back of the year.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Justin Lake, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Justin Lake,  Wolfe Research, LLC - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning. First, just wanted to clarify the 4Q commentary, Tom, that you said is potentially up 700 basis points or I'm getting to about 95.5% [similar]. Does that include the 3Q PDR and the potential Medicare Advantage PDR you mentioned?
+And then more importantly, how should we think about framing 2024 run rate earnings into 2025. Trying to understand your MLR looks like it's obviously a lot higher in the third quarter and going to be a lot higher in the fourth quarter. do we need to run rate that back into the first half? So let's just say, $0.75 of earnings kind of decline? Just trying to understand the run rate versus -- you're going to report a number for 2024, but what's the real run rate that we jump off of into 2025? Is there a framework to think about that? Thanks.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          Yes, just let me touch on some of your other questions first. But I think part of the question that we need to answer and that I think you need to ask yourself is how much of this benefit and with this trend that we're seeing is because of the benefits that we put out into the market and what kind of utilization is being induced because of that? What kind of membership did we attract -- and how much will that profile change with the changing benefits next year. And that's part of the open question to your -- the opening question in answering your question that I think we want to take a little bit more time to understand.
+But -- on your MLR specific comments, that is inclusive of the release of the PDR that you could see that 700 basis points increase, but not necessarily inclusive of a PDR and group, which will depend on a variety of factors. .
+But let me walk you through -- give you a little bit more commentary and color on what we outlined here. First, I think it's important to just continue to reiterate we feel very good about our ability to achieve the guidance we gave last quarter on both the PCW and the Health Services segments. So the open question here is health care benefits.
+For our larger lines of business, second quarter trend appears to be the high point, but the third quarter dates of service are still immature. So there are three components to the scenario that we laid out. First, across all of our major business lines, we assume that third quarter trends would develop unfavorably, moving them to the highest levels we've seen over the last few months and then assuming that they persisted at those levels throughout the fourth quarter.
+Second, we assume we saw further deterioration in our risk adjustment accruals on our individual exchange business in the fourth quarter, call it an additional point on gross revenue. Third, we made a provision that there could be some modest induced utilization, particularly in Medicare as individuals looked at their changing benefits in '25 and seek to utilize benefits that will no longer be available next year.
+And then finally, we noted the group Medicare trend levels that if they persisted at that level, I just referenced that could cause us to take an additional PDR in the fourth quarter, but that will really depend on what we think the baseline is for '24 and how it is that that's going to persist into '25. So more to come on that. I would note, finally, our reserve balances through October. They have been modestly positive, but we've continued to see pressure in the more recent dates of service, for example, in the third quarter.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Stephen Baxter, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Stephen Baxter,  Wells Fargo Securities, LLC - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Yeah, hi. Thanks. Just a couple of quick ones. So you did mention that in response to that question, it's important to differentiate the incremental trend that's coming out of benefits that have already been restructured for 2025 versus more potentially core areas of utilization. So maybe could you help us understand better what you saw in the third quarter?
+And then just on the PDR commentary for 2025, you're citing you potentially need one for group me, but you're not saying you need one for individual MA or potentially the exchanges. Just wondering why or when not that would be the case. Thank you.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [10]
+--------------------------------------------------------------------------------
+
+          Let me answer the second part first. So the way the PDRs are calculated is partially based on how those products are sold and so are individual Medicare products are differently grouped than how our group Medicare products are.
+And as you can imagine, the nature of the contracts in the group business tends to be multiyear and so there's less ability to make improvement year-over-year. And so that business has a different profile going into '25 than the individual business in Medicare does or the individual exchange business does. We haven't really talked a lot about the exchange business, but that's a $10 billion block of revenue in 2024 with over 1.9 million members.
+As David noted, we unfortunately grew that business too fast. We're suffering significant losses in '24, mostly led by our SEP members. This pressure was compounded by unfavorable metal product mix, which skewed to certain geographies. We have taken, as I believe we previously discussed, double-digit rate increases across this book for next year and as a deliberate consequence of that rate action. We expect we could shrink that book by as much as 20% to 25% next year.
+So those actions, combined with some of the operational improvements that the teams are making on the ground should also help to improve performance next year, which is part of the reason that at this point, we don't anticipate that we would need a PDR in that individual business.
+As it relates to trend, we have continued to see supplemental benefit trends be elevated throughout all of 2024 and that persisted into the third quarter, where we've also seen trend pressure, as I noted in the prepared remarks, has been in all the usual suspects this year.
+It's been inpatient. It's been in outpatient, although the types of procedures that we've seen have shifted somewhat. -- we continue to see pressure on things like medical pharmacy, particularly on some of the oncology drugs. And so it's a lot of the same things that we have been talking about throughout the whole year.
+The piece that I was mentioning in terms of the bridge is -- there is a large portion of that trend increase that is a function of some of the supplemental benefits that we have offered, and those have been fundamentally restructured next year for individual Medicare products. And we'll give you better insight as to what that was worth when we have a better sense as to how the mix has come out and what the baseline is for '24.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [11]
+--------------------------------------------------------------------------------
+
+          Stephen, this is David. Maybe just a quick follow-on here. This is the third question on the Q4 jump up. And I think it's important to recognize that we know what the problems are. Clearly, we've stated them in the prepared remarks. We understand kind of the broader issues that are challenging the '24 performance.
+The good news is we're proactively addressing those as we -- as you've seen in terms of how we structured the product design and the benefits. You've seen changes in how we've structured our leadership teams, seen changes in terms of how we structured our risk management and pricing controls, so we believe that we're on the path of actually getting to an improved performance. And so quickly, we can move past '24 and into '25, I think the better will continue to be for the collective group.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Michael Cherny, Leerink Partners.
+
+--------------------------------------------------------------------------------
+Michael Cherny,  Leerink Partners LLC - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Good morning, and thanks for all the color. Maybe I'll try and take this a different direction and talk about pharmacy services. You talked about Tom next year being a bit below long-term plan. Can you break that down within the Health Services segment between core services versus the health delivery assets and specifically tied to pharmacy services how are you thinking about both specialty utilization as well as the continued contribution of [code as always]. As you sit here today, taking through where the jump-off point of fiscal '25 again for the Health Services segment can go.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [14]
+--------------------------------------------------------------------------------
+
+          Thanks, Mike. As you think about the Health Services segment, we got a little bit of a slow start in 2024. But that business -- that team has done an exceptional job of really driving momentum and we've seen that momentum accelerate into the second and into the third quarter, which is really given us a lot of confidence in the outlook as we think about this year.
+As we think about next year, I'd say given that slow start, we don't want to get ahead of ourselves. And so while we're not providing formal guidance today, we want to make sure that we appropriately set expectations given how that was a little bit choppy out of the gate last year.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [15]
+--------------------------------------------------------------------------------
+
+          And this is David, obviously, now division, I know much better in terms of the performance. And I will say we're going to finish '24 strong. And if you look at the 25-year, -- we're actually heading into a really strong selling season. (inaudible) momentum as it relates to the success we've had on the biosimilar launch, changing and disrupting the market as it relates to pricing models, the client satisfaction and member NPS scores are as high as they've been. So I believe just collectively, this business is running really well and still feel very strong about its continued performance into '25.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Josh Raskin, Nephron Research.z
+
+--------------------------------------------------------------------------------
+Josh Raskin,  Nephron Research LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Hi. Thanks. Good morning. Just a clarification on the PDR time. So I want to make sure I understood what you said that no PDRs havebeen contemplated for 2025. So MA and [hicks] lost money in totality in '24 and will be positive in 2025. I just want to make sure we got that right.
+And then more importantly, can you speak to your updated Medicare, both MA and PDP distribution strategy? And I'm specifically interested in your commission strategy with external brokers and feedback you guys are getting on that.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [18]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh. On the PDR, the PDR is a pretty [esoteric] accounting rule. And so it looks at the business and looks at it on a variable cost basis. And as we look at and think about our projections for next year, with the improvements that we are expecting in -- across those books. The only one that we think might be close to the line is the group Medicare business, which is why we highlighted that for investors. But I wouldn't take that to mean that we are necessarily going to be profitable because you have to allocate out those fixed costs, which are fairly substantial as you think about the fixed costs associated with those two large businesses. .
+As you think about our strategy for both MA and PDP, we are going to shrink membership in PDP. We do use a lot of broker channels. Only about 15% of what we do is actually from internal channels. The rest of it is from external channels where we have large, long and established relationships.
+We're generally very pleased with where it is that our early sales are coming out. We are obviously, throughout this process of open enrollment, we make tweaks to that as we look at where geographies are coming in and think about where we want to grow and where we might want -- might not want to grow as quickly. But overall, where AEP is coming out as of the end of last week, is very consistent with where we had mapped it, maybe a little bit of mix difference, but generally in line with -- in the aggregate with where we had thought about it. And so we were pretty pleased with the performance today.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Elizabeth Anderson, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Elizabeth Anderson,  Evercore ISI Institutional Equities - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Hi, guys. Thank you so much for the question this morning. Maybe just one question about the PDR OpEx mechanics that you guys talked about in the third quarter, people , the third quarter PDR. Does that from an OpEx perspective, does that become a positive to your numbers in the fourth quarter? That would be my first question.
+And then secondarily, can you just maybe dig in a little bit more on the PCW strength? How do we expect sort of that cadence to change as we think about the pull forward from COVID and then any kind of seasonality you guys are thinking about for the fourth quarter? Thank you.
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          Maybe I'll take the PDR mechanic, and then Prem, you can talk a little bit about the PCW strength. On the PDR mechanic, the way that this works is that you look at what the potential losses might be on a variable basis. You record the PDR and really how you record it is that one of the first places you have to look is you have to look at any deferred acquisition costs that you have hung up on the balance sheet.
+And so you recruit for that, you take those down first -- that means that while you're not really reversing a reserve, you don't have expense that you otherwise would have anticipated happening in the fourth quarter. So it is an expense benefit and an MLR benefit. So the vast majority of that $1.1 billion will come back in the fourth quarter. .
+
+--------------------------------------------------------------------------------
+Prem Shah,  CVS Health Corp - Group President, CVS Health    [22]
+--------------------------------------------------------------------------------
+
+          And on the PCW strength, I'd say a few things. First and foremost, we had a really strong quarter. Part of that was driven by immunization season coming sooner than we expected, started in mid-August versus later in that month or early September. And we had a first market mover there. We were ready for that. Our teams are prepared we've been preparing for that season for the most part of the year.
+The second piece, I would say, is around our core service levels continue to remain very strong. We've continued to improve our NPS levels are up hundreds of basis points year-over-year. And that's turning into, what I would say, strong script growth as it relates to our pharmacy business, now around 27.3%, up 70-plus basis points year-over-year. So another great example of a strong service driving script growth in our Pharmacy segment of that business.
+And on the front store, as Tom alluded to, there was some front store pressure, but our front store business continues to improve in a difficult market -- in a difficult market environment, and we continue to do the right things around focusing on gaining customers and increasing foot traffic on that business as we go into it and really kind of mitigating some of the challenges we had earlier in the year. So the PCW segment, really proud of our results, really proud of the leadership team and all the results that we've driven in that area, and it's continued to be a strength of our business.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [23]
+--------------------------------------------------------------------------------
+
+          This is David. Maybe just to reinforce Prem's point here. Obviously, the retail sector has pressured lots of headwinds in this market. And if you look at what Prem and the team have been able to deliver and execute is really incredibly impressive. Share growth, while you're contracting a footprint service levels are up, and this is kind of all despite, obviously, pressures around this sector. So I'm incredibly excited about Prem's expansion of his role and responsibility to take that same focus on execution and operational excellence and to the broader business.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Andrew Mok, Barclays.
+
+--------------------------------------------------------------------------------
+Andrew Mok,  Barclays - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning. Wanted to follow up on Medicare Advantage margins. With the lower margin level that you're seeing today, I was hoping you can give us an update on how you're thinking around the pace of MA margin improvement over the next few years.
+And in your prepared remarks, you noted the journey back to target MA margins of 3% to 5%. That's a slight change from your previous target of 4% to 5%. So just curious what drove that change and why 3% to 5% is the appropriate margin level. Thanks.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [26]
+--------------------------------------------------------------------------------
+
+          Let me answer the second part first because the answer to that question is really primarily mathematical, right? So as you think about the IR at changes to the Part D program, significant dollars that were previously recorded as reinsurance, are now going to get recorded as premium, which increases the denominator of the calculation. So at constant dollars of margin, that change alone is significant to drive a 4% margin down into the [3s].
+As you think about the longer term, it's a challenging question to answer. We understand and we made deliberate changes to benefits to be able to drive improvement in margin next year. We anticipate that we'll be able to continue to do that into 2026. And our Star scores will help there, right?
+We had great [stars] performance. 2/3 of our members will be in 4.5-star plans that will provide a little bit of additional tailwind as well. But we really need to understand what the rate environment looks like to be able to answer that question. But our goal would be to increase margins again in 2026 in that business.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          Yes. Just as it relates to the focus, obviously, my near-term focus is driving and accelerating the performance of that business. So as Tom mentioned, the star tailwind will be very positive for both '25 and into '26. There will be a very strong focus on total cost of care. So as we know what the pricing and the benefits are for the risk that we're managing to make sure we have the underlying clinical resources and total cost of care models to manage the risk appropriately.
+And then lastly, you'll see an acceleration of how we integrate the assets within this business to help us drive down the cost and improve the overall experience for the members that we're serving. So again, just reinforcing the fact that this is a really important product for our business. and one that we're going to have the collective enterprise focused on execution.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          John Ranson, RJF.
+
+--------------------------------------------------------------------------------
+John Ransom,  Raymond James & Associates, Inc. - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. Signify and Oak are they tracking in line with your expectations and you think that will -- that trend will change in any way next year?
+
+--------------------------------------------------------------------------------
+Thomas Cowhey,  CVS Health Corp - Chief Financial Officer, Executive Vice President    [30]
+--------------------------------------------------------------------------------
+
+          Signify has had a great year. As we noted, the volume was up, I think, 37% year-over-year inside the third quarter. That business has continued to perform very well. Oak Street overall has performed in line with the guidance that we gave at the earlier part of the year.
+They are a Medicare focused business. And so they're not immune to some of the pressures that others have seen in that marketplace because of the nature of that membership. But we've been very pleased with how they performed. They've maintained a risk adjustment headwind that's plus or minus a little bit below 3%, which we feel is a great first step given the first year of the implementation of the ['28].
+And we think that there could be some nice tailwinds in that business next year as we think about some of the changes that our competitors and ourselves have need as we continue to grow our share of Aetna members inside those clinics.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+
+          And just to reinforce the importance of both of those acquisitions. Oak Street, obviously, is managing the cost part better than the rest of our book. So the fact is the model works and it works in an underserved market, specifically for a population that's important to this business. And the integration between Aetna and Oak Street are improving. So we've had a 4x increase in the members since the acquisition. So proving out the fact that when we put the collective efforts of the business, we can actually see performance. Same thing on Signify. We've seen a 2x increase and the members served within Aetna.
+The goal here is obviously to use Signify as a platform, the sophistication and the technology that they've invested around the logistics and reaching members in their homes, it is a platform which we can certainly build beyond just the in-home assessment. So that will be the message and the focus of the business to continue to serve people, both in the care delivery setting as well as in the home, and we believe we have the appropriate assets to be able to execute that.
+
+--------------------------------------------------------------------------------
+John Ransom,  Raymond James & Associates, Inc. - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Brian Tanquilut, Jeffries.
+
+--------------------------------------------------------------------------------
+Brian Tanquilut,  Jefferies LLC - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Hey, good morning. Thanks for the update on the cost advantage program. So just curious what those discussions have been like? And how did the contracts shake out in terms of what you expected pricing structures to look like versus what the -- that 50% of the book looks like? And -- how are you thinking about the opportunity or the ability to increase that number before we get to January 1? Thanks.
+
+--------------------------------------------------------------------------------
+Prem Shah,  CVS Health Corp - Group President, CVS Health    [35]
+--------------------------------------------------------------------------------
+
+          Yes. So first and foremost, as you recall, last year, we launched Cost Vantage with the very intentional reason to solve one of the biggest industry challenges we had around reimbursement pressure. And so -- we've made really good progress, as David and Tom alluded to in the prepared remarks. We have over 50% of our clients in the program. We expect to have our commercial book, 100% of our commercial book signed by the end of this year.
+I'm really excited about what it brings to the marketplace and how we -- and some of the cross subsidization that exist in pharmacy as it relates to this. So we continue to make really good progress. As it relates to the financial outlook from cost management, we'll come back to early next year with what we're seeing. But we continue to see really strong performance, as I mentioned earlier, in our retail pharmacy business.
+We're really excited about what cost [manage] will bring to the marketplace and how it's going to transform the way we price pharmaceuticals in this country. And lastly, the benefits that it brings to consumers as well. So more to come. But at this point, I would say we continue to make really great progress here. across the board of moving the industry.
+
+--------------------------------------------------------------------------------
+David Joyner,  CVS Health Corp - President and Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          So I'd just follow on to Prem's comment about Cost Vantage. And we -- if you look at the complexity of pharmaceutical pricing in this country. This is obviously one of the paths in which to address the confusion and the complexity of how drugs actually are priced at the consumer level.
+So prems move in the retail setting, combined with the true cost drive within the PBM, we believe it's a concerted effort to address what we know is a headline around the confusion, the complexity of the pricing. So -- this elimination across subsidation, the ability to get to a more stable and less variable pricing strategy will help us solve what we know is a headline risk and more importantly, allow us to serve our members and our clients more effectively.
+So with that, we -- this ends the call. And I -- before closing here, I just want to thank for you for all joining the call today. I'm incredibly excited and humbled by the opportunity and the potential of this combined enterprise.
+We have clear line of sight into the issues and the plan is in place to address them. We look forward to providing updates on our progress going forward. And I also just want to thank again the 300,000 colleagues to help us serve our customers and our patients day in and day out. So thank you for that support.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Thank you all for joining today's conference call with CVS Health. I can confirm today's call has now concluded. Please enjoy the rest of your day, and you may now disconnect from the call.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

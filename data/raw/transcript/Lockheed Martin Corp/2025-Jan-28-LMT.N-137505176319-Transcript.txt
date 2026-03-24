@@ -1,0 +1,581 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2024 Lockheed Martin Corp Earnings Call
+JANUARY 28, 2025 / 4:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Taiclet
+   Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer
+ * Maria Ricciardone
+   Lockheed Martin Corp - Vice President of Investor Relations, Treasurer
+ * Jay Malave
+   Lockheed Martin Corp - Chief Financial Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Michael Ciarmoli
+   Truist Securities - Analyst
+ * Matthew Akers
+   Wells Fargo Securities - Analyst
+ * Gautam Khanna
+   TD Cowen - Analyst
+ * Pete Skibitski
+   Alembic Global Advisors - Analyst
+ * Scott Deuschle
+   Deutsche Bank - Analyst
+ * Gavin Parsons
+   UBS Equities Research - Analyst
+ * Myles Walton
+   Wolfe Research - Analyst
+ * Ken Herbert
+   RBC Capital Markets - Analyst
+ * Seth Seifman
+   JP Morgan - Analyst
+ * Richard Safran
+   Seaport Global Securities - Analyst
+ * Douglas Harned
+   Bernstein - Analyst
+ * Peter Arment
+   Baird - Analyst
+ * Ronald Epstein
+   BofA Global Research - Analyst
+ * Rob Stallard
+   Vertical Research Partners - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day and welcome, everyone, to the Lockheed Martin fourth-quarter and full-year 2024 earnings results conference call. Today's call is being recorded. (Operator Instructions)
+At this time, for opening remarks and introductions, I would like to turn the call over to Maria Ricciardone, Vice President, Treasurer, and Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Maria Ricciardone,  Lockheed Martin Corp - Vice President of Investor Relations, Treasurer    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sarah, and good morning, everyone. I'd like to welcome everyone to our fourth-quarter and full-year 2024 earnings conference call. Joining me today on the call are Jim Taiclet, our Chairman, President, and Chief Executive Officer; Jay Malave, our Chief Financial Officer.
+Statements made in today's call that are not historical facts are considered forward-looking statements and are made pursuant to the Safe Harbor provisions of federal securities' law. Actual results may differ materially from those projected in the forward-looking statements. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to differ materially from those in the forward-looking statements.
+We have posted charts on our website today that we plan to address during the call to supplement our comments. These charts also include information regarding non-GAAP measures that may be used in today's call. Please access our website at www.lockheedmartin.com and click on the Investor Relations link to view and follow the charts.
+With that, I'd like to turn the call over to Jim.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Maria. Good morning, everyone, and thank you for joining us on our fourth-quarter and full-year 2024 earnings call.
+As you saw in the press release this morning, our return-to-growth strategy that we implemented three years ago is well on its way and remains on a strong trajectory. In 2024, sales grew 5% year over year, and our backlog of $176 billion reached yet another record, demonstrating the enduring global demand for our superior, scalable, and reliable products and systems.
+Each and every one of our four business areas saw backlog growth and ended the year with a book-to-bill ratio of greater than 1. We fully expect these trends to continue in our 2025 outlook with mid-single-digit growth in sales, segment operating profit returning to 11%, and double-digit growth in free cash flow per share.
+Jay and Maria will cover the financials in more detail, but I'd like to briefly comment on the earnings impact in the fourth quarter of two classified programs at MFC and aeronautics, prospectively. Recording charges in Q4 on these two programs enabled us to derisk the financial profile of both these critical national security programs going forward as we move into their next phases.
+While these particular contracts were struck a number of years ago, there are no longer any must-win competitions. Under today's Lockheed Martin-wide bid process, every proposal adheres to a stringent risk-adjusted ROI regime. This process is designed to compete aggressively for key opportunities while also being very committed to achieving positive results, both in the short and long term for our shareholders.
+At the same time, we are committed to ongoing investment in the business to further enhance our company's growth trajectory, having successfully executed our return-to-growth initiative over the past few years. In 2024, we invested $3.3 billion in research and development and capital to support advanced scalable technology solutions for our customers.
+Equally important looking forward, our investments to enhance the attractiveness and performance of our key programs and initiatives such as America's preeminent fifth-generation fighter, the F-35, and our internal digital transformation, 1LMX, are inspected to growth.
+Our financial focus remains on free cash flow and free cash flow per share. Our company continued to deploy significant free cash flow in 2024, and we return greater than 100% of that free cash flow to you, the shareholders. In addition to our consistent and healthy dividend, we maintain a robust share repurchase program with 3.7 billion of shares repurchased in 2024.
+Turning to the F-35. We delivered 62 aircrafts in the quarter, bringing our total deliveries for 2024 to 110, the high end of our expected range. These deliveries included aircraft that were previously part and new jets have rolled off the production line. We continue to expect deliveries will exceed the production rate over the next few years and estimate 170 to 190 F-35 aircraft deliveries in 2025.
+TR3 capabilities continue to progress in flight testing. We completed qualification testing on a set of key TR3 capabilities in 2024, and we're making solid progress on system performance and remaining TR3 deliverables. We expect to release additional capability this year was for further upgrades to follow.
+In addition, the undefinitized contract for Lot 18 F-35 production was awarded in December, bringing our backlog to 408 aircrafts. We expect this contract will be definitized during the first half of 2025.
+We welcomed our 20th global customer, Romania, into the F-35 enterprise in November for this Letter of Offer and Acceptance to procure our 32 aircraft. The Romanian Air Force's F-35 will integrate with their existing F-16 fleets as well as other allied F-35s, highlighting the importance of the superior capabilities of this aircraft.
+Moreover, the F-35's seamless interoperability using our 5G.mill architecture will be crucial in establishing and maintaining command of the air, especially in the end of Pacific, European, and Middle Eastern [theaters]. Lockheed Martin's system of integration expertise across land, air, sea, space, and cyber are essential to continually improving many important national security missions such as protection from air and missile attacks.
+In this example, our Defense of Guam flight experimentation mission in December successfully demonstrated the integration of multiple Lockheed Martin and other OEM products into a single combined weapons system. Our Aegis Guam system was successful in acquiring and tracking targets using our TPY-6 radar planning and conducting the missile engagement using our Aegis combat system. Then we fired the interceptor from one of our vertical launching systems and ultimately destroyed the incoming weapons.Equally important was the accelerated pace from contact award to successful completion of this flight test mission in under two years. It was a direct result of leveraging prior investments and all these proven technologies. Building on our production-ready Air-Launched Rapid Response Weapon or ARRW, America's hypersonics technology made another important milestone in the development of one of our most important and advanced weapon systems in December.
+The US Army and US Navy completed a successful end-to-end flight test of the common hypersonic (inaudible), the first live-fire event for the long-range hypersonic weapons system.
+I'd like to shift gears now to the current discourse about the defense industry landscape. Much has been said about defense primes, emerging startups, traditional and nontraditional companies. I see us all working together, and I think that it's industry's role to help marshal the talent and expertise in our country to provide the best possible deterrent capabilities with both physical products at the ships, aircraft, and satellites as well as digital, advanced technologies.
+We need to access the best talent, financial resources, and technologies from both the aerospace and defense and commercial sectors to get ahead and stay ahead. To that end on the commercial front, I've long been an advocate of deepening partnerships across industries, and we have done so with companies such as NVIDIA for artificial intelligence; Meta and IBM for large language models to more efficiently generate code, analyze data, and enhance business processes; Verizon for 5G networks; Microsoft for classified cloud modeling and simulation; and Intel and GlobalFoundries for advanced military hardened shifts.
+We're also investing heavily on internal development, autonomy, AI, and other enabling digital technologies to provide the best solutions for our customers. [Skunk Works] continues to drive the cutting edge, theater-level security solutions, and real-time live flight demonstrations. We had an F-35 flying from our facility in North Fort Worth, Texas sharing classified data by a Skunk Works open-system gateway through a commercial satellite communications and all the way over into a Royal Air Force lab in Farnborough, UK. It was integrated into their command-and-control system.
+This achievement marks a significant step towards a future-integrated defense, enhancing our F-35 interoperability in real time within an allied C2 system using our 5G dominant architecture.
+In another first, our Lockheed Martin Skunk Works team, along with the US Navy and General Atomics, completed a live controlled flight demonstration of an uncrewed system by the Unmanned Carrier Aviation Mission Control Station, which is powered by our autonomy platform. This demonstrates us a pathfinder that helps advance the complex technology necessary to enable human-machine teaming as envisioned for autonomous systems. We're doing it right now.
+Turning to the budget, the current continuing resolution funds US government operations through March. We look forward to working with the returning administration to continue pursuing a more agile and streamlined acquisition process that encourages speed, technology innovation, and broader participation.
+We see those as an opportunity to make great progress in all these areas, and we will continue to share ideas and do our part to support efforts to eliminate unnecessary regulatory hurdles while working to increase efficiency in our own internal operations through our 1LMX digital transformation.
+Now, I'll turn it over to Jay.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Jim, and good morning, everyone.
+Today, I'll provide an overview of our consolidated financial results for the fourth quarter and full year, then hand off to Maria, who will cover business area financials, and I'll come back at the end to discuss our initial 2025 outlook.
+2024 was a solid year. Our growth strategies are paying off with 5% top line growth while also growing backlog 10% to $176 billion, another year-end record. Our balanced portfolio enabled us to generate solid free cash flow and meet our deployment commitments exceeding 100%.
+Finally, we took prudent derisking actions on key programs that paved the way for a solid outlook in 2025 and beyond. Before I get into the results in more detail, I'll walk you through these de-risking actions. Chart 4 provides two different reconciliations that detailed a full impact of these items on our full-year results and their partial impact to our prior expectations. We've also included a fourth-quarter version of the same chart in the appendix on slide 20.
+For purposes of understanding the total impact on our full-year results, I'll direct your attention to the middle section of the chart. We recorded net charges of $1.8 billion as follows, $1.4 billion related to the remaining expected future losses on the MFC classified program, and $555 million associated with the aeronautics classified program, with these amounts partially offset by $155 million benefit associated with our C-5 claim resolution.
+Moving over to the right side of the chart, you may recall that our last outlook in October had assumed some of these net charges. So let me walk you through that as well. Relative to our prior outlook, we recorded $1.4 billion of unplanned net charges, consisting of $410 million for the aeronautics classified program, $1.1 billion from the MFC classified program, with these amounts partially offset by $70 million of unplanned and benefit from the C-5 claim resolution.
+Both reconciliations provide adjusted results to exclude the impact of these items for comparison purposes. For the remainder of my prepared remarks, I will refer to the reported and adjusted amounts as shown on the left side of the chart, unless otherwise noted.
+Okay, moving to chart five with fourth-quarter results. Sales of $18.6 billion were down slightly year over year. Sales in the quarter were unfavorably impacted by having one [fewer week] in Q4 '24 compared to Q4 of '23, partially offset by the F-35 Lot 18 deferred revenue carryover from the third quarter. Segment operating profit, segment margins, and earnings per share were all adversely impacted by the classified program charges at aeronautics and missiles and fire control.
+On an adjusted basis, segment operating profit would have grown 5% year over year to $2.1 billion, resulting in segment margins of 11.1%. Shifting to new business, we recorded over $29 billion of orders in the fourth quarter for a book-to-bill ratio for approximately 1.6. Aeronautics led the way with almost $20 billion in orders driven by the F-35 Lot 18 and fiscal year '25 air vehicle sustainment contract awards.
+Both contracts will help secure the wide-reaching F-35 US production enterprise and ensure America's military is equipped with the most advanced fighter aircraft in the world. Free cash flow was $440 million in the quarter, including $990 million of pension prefunding to extinguish the 2025 required contributions.
+Continuing with capital deployment, we further advanced strategic and technical and operational capabilities by investing over $1.1 billion in the quarter towards independent research and development and capital expenditure projects, bringing full-year internal investment of $3.3 billion.
+We continue to provide an unmatched combination of new technology advancement that can be also fielded with speed. So investing to deliver critical capabilities while maintaining our commitment to shareholders by returning $1.1 billion of free cash flow via share repurchases and dividends.
+Turning to chart 6 and our full-year 2024 results. Sales of $71 billion grew 5%, driven by improved backlog conversion, reflecting stronger throughput across the entire value chain. Similar to the fourth quarter, segment operating profit segment margins and earnings per share were impacted by the net program charges on slide 4.
+On an adjusted basis, segment operating profit grew 7% year over year and adjusted segment margins were 11.1%. Book-to-bill for the year was greater than 1. In the third consecutive year, we've increased backlog. We generated $5.3 billion of free cash flow, including the pension prefunding. And finally, our consistent capital deployment continued in 2024 as we returned $6.8 billion to shareholders through repurchases and dividends.
+Now, I'll turn it over to Maria to discuss business area results.
+
+--------------------------------------------------------------------------------
+Maria Ricciardone,  Lockheed Martin Corp - Vice President of Investor Relations, Treasurer    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Jay. Today, I'll discuss fourth-quarter and full-year results for the business areas.
+As Jay mentioned, you'll notice that we've included both reported GAAP and adjusted results for each business area in order to provide meaningful comparisons and a more realistic expectation of recurring operational performance.
+Starting with aeronautics on chart 7. Fourth-quarter sales at aero increased 5% year over year, primarily driven by higher F-35 volume on production and sustainment contracts due to contract awards in the quarter, including the awards for the Lot 18 undefinitized contract action and air vehicle sustainment contract.
+Partially offsetting this was lower volume at (inaudible), driven by the unfavorable sales impact associated with the classified program charge. Adjusting for the impacts of the classified programs charge and the C-5 contract resolution, the adjusted sales growth at aero was approximately 7% year over year in Q4 2024. Both reported and adjusted sales in the fourth quarter benefited from $700 million of F-35 sales differed from the third quarter.
+Segment operating profit decreased 43% compared to Q4 2023. Lower profit booking rate adjustments due to the $410 million classified program charge in the quarter were partially offset by higher sales volume and the benefit related to the C-5 claim resolution. On an adjusted basis, operating profit year over year in the quarter increased slightly.
+For the full year, sales increased 4% driven by higher volume across the F-35 program and the production ramp on the F-16 program, partially offset by lower volume at Skunk Works due to the sales impact related to the classified program change. Full-year segment operating profit decreased 11%, driven by the same items we saw in the fourth quarter. Lower profit rate adjustments, partially offset by sales volume and the C-5 claim resolution benefit. On an adjusted basis, aeronautics' full-year operating profit grew by 3%, equating to 10.2% margin for the year.
+Turning to Missiles and Fire Control in chart 8, MFC sales increased 8% year over year, driven by production ramp on Joint Air-to-Surface Standoff Missile, JASSM; Long Range Anti-Ship Missile, LRASM; Guided Multiple Launch Rocket System, GMLRS; and PAC-3.
+Normalizing for the extra week in the fourth quarter of 2023, MFC sales grew 16% year over year. Segment operating profit decreased significantly year over year in the quarter due to lower profit booking rate adjustments driven by the recognition of reach-forward losses on the classified program. Adjusting for that item, segment margins were a strong 14.8% in the quarter.
+For the full year, MFC sales increased double digits, up 13%, again due to production ramps on GMLRS, LRASM, JASSM, and PAC-3 programs. Full-year segment operating profit declined $1.1 billion year over year due to $1.4 billion of classified program charges, which were partially offset by higher volume from the production ramp. Excluding the classified program charges, MFC's segment operating margin for the full year was a solid 14.4%.
+Shifting to Rotary and Mission Systems on chart 9, sales decreased 10% in the quarter to approximately $4.3 billion, primarily driven by lower volume on Seahawk, CRH, AEGIS, and various C6ISR programs. Normalizing for the week difference in Q4 2023, our net sales were down 3% year over year in the quarter.
+Similar to sales, operating profit was down 11% year over year due to lower profit booking rate adjustments in sales volume, partially offset by favorable contract mix. For the full year, sales increased 6% in RMS, primarily driven by higher volume on the Canadian Surface Combatant and Lasers programs within the integrated warfare systems and sensors business, as well as various C6ISR programs and the CH-53K ramp at Sikorsky. Operating profit was up 3% for the year due to the higher sales volume and favorable contract mix, partially offset by lower profit booking rate adjustments.
+Finally with space on chart 10. Sales decreased 13% year over year in the fourth quarter. The reduction was driven by lower volume on n NextGen OPIR, Orion, and classified primarily due to program lifecycle. Normalized for the number of weeks in the quarter year over year, sales were down 6%. Operating profit decreased 8% compared to Q4 2023, driven by lower volume and lower profit booking rate adjustments, partially offset by higher equity earnings from the United Launch Alliance.
+Turning to the full year, sales decreased slightly, driven by lower volume on the same programs within the fourth quarter, partially offset by higher volume on the Fleet Ballistic Missile and reentry program. Meanwhile, operating profit increased 6% in 2024 due to favorable contract mix and higher ULA equity earnings, partially offset by lower profit booking rate adjustments.
+I'd like to note the photo on page 10. In December, Lockheed Martin supported the successful launch of the GPS III SV07, which we designed and built. This accelerated launch require a complex integration and was the first to demonstrate operational agility for critical national security missions.
+With that, I will turn it back over to Jay to wrap up our prepared remarks.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Maria. Turning to chart 11 in our forward expectations. Our outlook for 2025 has improved since October, along with our rising value chain performance expectations. In addition to the benefit from the de-risking actions we took in 2024, we anticipate sales growth of 4% to 5% on top of the 5% we delivered in 2024. We expect MFC to again lead the way with 8% growth at the midpoint as we continue to ramp production across several programs to support the strong demand for our combat-proven munitions and integrated air and missile defense systems.
+As previously discussed, operating margins return to 11% and free cash flow growth 9% at the midpoint from 2024 adjusted results, setting up double digit growth in free cash flow per share in spite of non-cash FAS pension headwind, lowering EPS. I'll sit through segment operating profit and EPS bridges in more detail on the following charts.
+Chart 12 bridges 2024 reported segment operating profit of $6.1 billion to the 2025 guidance midpoint of $8.15 billion. After accounting for the 2024 net charges, we expect operating profit growth from the adjusted 2024 position. The growth is primarily due to the volume dropthrough and partially offset by other items, mainly lower expected net profit rate adjustments. Importantly, segment margins are expected to return to 11% in 2025 earlier than planned.
+Next on chart 13, we have a similar walk for earnings per share. Here, we expect EPS to decline slightly from a 2024 adjusted position, mainly due to non-operational items, notably the FAS/CAS pension adjustment as well as higher interest expense. Bringing it all together, we expect solid sales growth in 2025 of the higher 2024 base, operating margin at the 11% target and solid cash flow generation that enables consistent shareholder returns.
+So in summary on chart 14, in 2024, we delivered stronger top line growth than initially expected, reflecting an improving operating cadence. We also expanded our backlog to a new record, demonstrating the strength of our unmatched capability to deliver security solutions at speed while increasing investment to expand this capability. And we prudently de-risked programs, all the while dependably generating free cash flow and deploying it as committed.
+Taken together, these actions give us confidence to deliver a strong financial outlook for 2025. At the same time, we will continue to propel this industry forward with innovative solutions that integrate the best that commercial and military industries can offer. And of course, we remain focused on operational execution to deliver on our commitments and create long-term value for our customers and shareholders.
+With that, Sarah, let's open up the call for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Seth Seifman, JP Morgan.
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JP Morgan - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks very much and good morning, everyone. I wanted to ask -- Jay, you emphasized kind of the de-risking nature of the charges in Q4. And I know maybe it's difficult to discuss because it's classified. But within Aeronautics, all of the filing language has sort of emphasized continued risk there. Should we think that within -- following this charge, the potential for future charges there has really come down considerably. And is there anything you can say about where we might be in the lifecycle of that program and when it might be able to provide some positive returns?
+And then thinking maybe that the answer there might have to be a little bit circumspect, if you could just comment on the multiyear targets that you gave on the last call and how to think about those now.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [3]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Seth. There's about 16 questions in that one question, but I'll take a shot at all of them.
+Just as far as the risk specifically, I would say we significantly reduced the risk. I can't really get into the lifecycle of the program, given the classified nature of it. But let me walk you through why I believe that we've significantly reduced the risk.
+As you know, we have realized this risk earlier in the year, causing us to perform a more comprehensive review of current performance versus our key assumptions included in the estimate to complete. We evaluated the risks and opportunities and made the determination that a cost reset was warranted.
+The amount that we recorded in the quarter is the most conservative assessment we've made to date. We've also made a number of process changes. Aeronautics, along with our corporate staff, have implemented a more continuous monitoring progress, a process of the progress of this program in terms of technical milestones and added technical resources from the outside of the program.
+This will enable both teams to work together to institute support measures as needed faster than before. We've also added technical resources and experts with experience in the risk areas to help bolster the team and mitigate risks as they arise. We've added automated testing procedures as well to accelerate test results and issue resolution should they occur.
+So all those things taken together give us confidence that we have significantly de-risked this program and significantly reduce the risk of future charges on this. As far as maybe the multiyear outlook, you look at 2025 and certainly, the 2025 outlook is better than what we had projected in October. If you recall, we have said our baseline was low-single digit with an opportunity to get to a mid-single digit.
+Here, we believe the opportunity was realized for 2025, which gave us confidence to increase our growth outlook to 4% to 5%, and that's the same type of process that we'll continue to look at in '26 and beyond. And again, it's based on our ability to really drive throughput through the entire value chain.
+As I mentioned before in my prepared remarks that we've continued to have rising expectations there and rising confidence that not only our supply chain, but our internal operations can move in a quicker pace, enabling the unlocking of this revenue growth. So our confidence is growing there.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Rob Stallard, Vertical Research Partners.
+
+--------------------------------------------------------------------------------
+Rob Stallard,  Vertical Research Partners - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Thanks so much. Good morning. Question for Jim. At the same time as you're taking these charges on these classified programs, it looks like the new administration and the Department of Defense is actually getting more [pro] fixed price contracts and commercial terms. Are you worried that the defense industry could be taking on more risk and opening yourself up for more charges in the future?
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+
+          Not necessarily, Rob, because we're going to apply this disciplined bid process to fixed price and cost-plus contracts. And if the proportion is moving and potentially towards fixed price, we're going to use the same discipline. And there's no trend in this industry to be much more deliberate about how each company bids, each company has its own strategy.
+Ours is something I brought over from my last business experience, which is risk-adjusted return on investment. It is the key criteria and be honest about the risks upfront and price them in. And if that price, it doesn't meet the competition, so be it. We'll move on to other things.
+So I'm not concerned about that. As I said, I look at those as an opportunity because as far back as 2021, I have been advocating for systemic change in the way that the defense enterprise operates. And that's meaning Congress, executive branch, Pentagon, aerospace and defense industry, commercial tech, startups. We need to expand our ability as a country to get everybody involved and I welcomed (inaudible)'s effort and the administration's efforts to reduce the bureaucracy limit that the administrative burdens that the Pentagon now puts on all companies, big and small, that want to work with it.
+Again, I look at all this as an opportunity to move a little bit more towards fixed price proportions, so be it.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [7]
+--------------------------------------------------------------------------------
+
+          Rob, the only thing I would say is we've seen really a bunch more over the last probably a year to 18 months, a more of a contracting regime that's more commensurate with the risk associated with the programs. So those that have lower technical maturity, higher risk, the customer has actually been much more receptive and cognizant. Those probably are not going to be best delivered under fixed price type of contracting regime.
+And so you may be hearing words on the one hand, but I think there has been a recognition more to make sure that the risk profiles commensurate with the right level of contracting and that's shared both by the customer as well as the industry. And so it's a different approach. We'll see. We've got a change in administration and where that goes forward, but I would say there's been a recognition over the last 12 months to fixed price contracts for immature technology, really doesn't help anyone.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Richard Safran, Seaport Global Securities.
+
+--------------------------------------------------------------------------------
+Richard Safran,  Seaport Global Securities - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Good morning. What I'd like to ask is, starting with your 2025 guidance for 8% growth, I'd like to know if you could give us maybe a long-term look at MFC in terms of growth and margins and what the potential for the business is. Just kind of wondering, you have the GD rocket motor deal and how that factors into your growth and margin outlook given the volume limitations you've had thus far? Thanks.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [10]
+--------------------------------------------------------------------------------
+
+          From what I see for 2025, it's really more of the same. We continue to see growth on programs like GMLRS, HIMARS, PAC-3, JASSM, and LRASM. And many of the same growth factors and drivers in 2024 are also the growth drivers in 2025. That demand continues.
+We have projected on orders growth in 2025, things like a multi-year definitization on JASSM and LRASM, which is pretty sizable, multiyear contract and so the demand cycle there, both domestically and international was quite strong. And as we've said before, that will be the growth driver for Lockheed Martin for years to come beyond 2025.
+And so again, when you couple the backlog with the ongoing demand, we feel pretty solid again in these programs, just as a solid back pinning of the underlying demand for those.
+On the margins we've talked about when you strip out the impact of the classified program, we've talked about 14%. If you look at our -- at the midpoint of our guide in that ballpark we're right around 14%, not necessarily as high as Maria reported on an adjusted basis for 2024. But that's because right now, we're expecting some lower net profit adjustments, but their underlying margins are generally in line with what our longer-term expectations are and that's the way we should think about MFC, around 14%.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Ken Herbert, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Ken Herbert,  RBC Capital Markets - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. Hey, Jay, in the past, you've talked about working capital and specifically the opportunity there to improve the free cash flow. Can you provide a little bit more on what's implied in the '25 guide for working capital improvement?
+And has anything structurally changed now as you look at the portfolio in the opportunity as you've talked about taking days out of the ability to eventually -- or continue to drive towards sort of pre-pandemic levels over time?
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [13]
+--------------------------------------------------------------------------------
+
+          Sure, I'll start with maybe 2024. We had a good year in 2024 in spite of some of the headwinds that we've faced. We reduced our working capital days by a couple, and we're in the mid-30s, as far as cash conversion cycle. For our outlook in 2025, what's implied in there is about one day, which essentially offsets the growth. Then we're going to see from -- we would otherwise see in working capital.
+So what we're trying to do here is prevent it from being a use of cash and have it be neutral. The opportunity set obviously would be to drive beyond one day. And there's still opportunity I talked about before, particularly in our contract assets, our unbilled receivable. There's some opportunity there as we work through on the F-35, both in production as well as sustainment, but there's really opportunities across the portfolio.
+Sikorsky has a number of opportunities there on their programs as well as other segments, Space and MFC, those are outstanding working capital businesses on a stand-alone basis. But even so, there's opportunity in the contract assets there. So I would expect in the years to come that we still have opportunity to continue to drive asset productivity there and that's going to be part of our [forward motto] going forward as it was in '24 and our outlook for '25.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Gavin Parsons, UBS.
+
+--------------------------------------------------------------------------------
+Gavin Parsons,  UBS Equities Research - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Thanks, good morning. Could I just dig in a little further on the free cash flow bridges, the [EBIT] and EPS bridges as we're super helpful in the deck. But just given a lot of moving pieces and cash flow like the F-35 inventory unwind, pension contribution recovery, Lot 18, cash timing, maybe I missed that one.
+But if we could just kind of do a bridge walk on cash flow, that would be great.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [16]
+--------------------------------------------------------------------------------
+
+          If you just start from this year in adjusted cash flow of $6.1 billion. So adjusted for the pension contribution in 2024. As we mentioned, that we expected anywhere around close to $1 billion of benefit on F-35 with the delivery of -- with higher deliveries as well as progress on the withholds. We also, though -- as you remember, in 2024, we got the benefit of significant international advances to the tune of $600 million.
+So partially offsetting that, as you know, it's the net impact of those two things, about $400 million in that ballpark. We do expect a benefit from taxes with lower R&D capitalization as that's coming down, and we expect a little bit of benefit from, I'll call it, cash-based net income. All that taken together takes us from $6.1 billion to $6.7 billion midpoint. So those are the key drivers of free cash flow for 2025.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Scott Deuschle, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Scott Deuschle,  Deutsche Bank - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Hey, thanks. Jay, it looks like if you're guiding -- looks like you're guiding aeronautics margins down about 20 basis points year over year in '25, if I add back those unplanned charges from the 2024 base. Can you talk about what drives that underlying margin decline, particularly given that you are on these newer contracts for F-35?
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [19]
+--------------------------------------------------------------------------------
+
+          So for F-35, we do have -- I'm sorry, for aeronautics in total, right now the outlook for their margins does assume lower net profit adjustments, and that's on -- I'll call it an apples-to-apples basis. So excluding the impact of the $555 million in the C-5 adjustment in 2024. Profit adjustments there are declining. There is a mix benefit. But right now, the net profit adjustments offset that and that's what drives the margins down from 10.2 to around 10.
+We also have classified growth, which is just a mix headwind there. But we've got some benefits from F-16 margins as well. But bottom line again, it comes back to the net profit just being lower.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Matthew Akers, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Matthew Akers,  Wells Fargo Securities - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Hey, guys, good morning and thanks for the question. I guess a couple on F-35. You talked a little bit about the progress towards (inaudible). What exactly is left to get kind of the final withhold? How big is that? And are you assuming get that within 2025? And then wondering if you could touch on Lot 19 and kind of how the discussions are going there.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [22]
+--------------------------------------------------------------------------------
+
+          On the TR3 capability, we continue to make excellent progress there. There's a number of things that we still have to complete, the subsystem integration work as well as improving system stability overall. We expect that will continue throughout the year. We will meet -- we'd expect to meet some milestones this year.
+Our targeting as much as possible this year, but I think for purposes of financial modeling, we would expect this to bleed into 2026. Ultimately, the declaration of full combat capabilities, that is left with our customer. And so we'll be coordinating with them and working with them on that. But what I can tell you is that they were pleased with the progress we've made thus far. And the team is working at a pretty good pace here with our supplier partners on improving: A, mission system capability; and as well as improving overall system stability.
+On the second part of the question was on Lot 19, so that has been negotiated some really in parallel with the Lot 18 negotiation. Just for clarity, Lot 18 is under undefinitized contract actions. So we still have to definitize that. As Jim mentioned, we expect that to be done in the first half of this year and then shortly thereafter in the second half of this year, we would also expect to close out on the Lot 19 contract, which would be an order and a range of about $10 billion.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          Myles Walton, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Myles Walton,  Wolfe Research - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Thanks. Good morning. I was curious on the charges that were unplanned. Jay, how should we think about the cash effect of those and obviously, the MFC part of the unplanned charges planning in the future? So I'm going to guess there's nothing really to think about there.
+But on the aero side, the $400 million of cash charges taken in the quarter, is that $400 million headwind being observed mostly in 2025? And then as we look to '26, do you still have the pension funding requirement coming back at about $1 billion?
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [25]
+--------------------------------------------------------------------------------
+
+          Yes, just starting with the aero classified program, that will be certainly a cash flow drag over the next few years. It's not all borne in 2025, but it's something that we expect over the next two to three years that we will have to liquidate that and from a cash perspective. As far as pension in 2026, we've talked about ongoing cash contribution requirements. The formula to deal with that is similar to what we saw here in what we've been talking about.
+We had the prior discussion here and one of the questions related to working capital going, we're going to continue to see what we can do to drive working capital down, improve our asset productivity to offset as much as possible in the pension. And then as you know, we've got a very strong balance sheet that gives us a lot of optionality and flexibility. So we can expect to continue to deal with pension with the options that we have before us.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Gautam Khanna, TD Cowen.
+
+--------------------------------------------------------------------------------
+Gautam Khanna,  TD Cowen - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Yes, good morning. I was wondering at the MFC program that had the charge, is there an opportunity on that program as we scale it to improve the profitability dramatically? I'm just curious over the option period, I imagine demand is pretty strong for that product, and I don't know if the pricing may adjust favorably at some point. If you could speak to that.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [28]
+--------------------------------------------------------------------------------
+
+          Again, it's a classified program, Gautam. So there's really not much -- what I can tell you is outside of the fixed pricing related to this next phase, the pricing would be open and we would expect to return to reasonable type margins over that period of time outside of where we have the fixed committed pricing. I wouldn't expect it to bounce back to MFC-like margins.
+And at that point in time, there still would be kind of ramp-ups that you got to deal with. But certainly, the margin profile will get substantially better.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [29]
+--------------------------------------------------------------------------------
+
+          And we expect this to be a long-life program based on the technology and the value to the US. As an ex airforce pilot, I can assure you that this is something they will want.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Peter Arment, Baird.
+
+--------------------------------------------------------------------------------
+Peter Arment,  Baird - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          (technical difficulty) opportunities maybe still grow your backlog? Your backlogs at record levels is up 10% for the year. Big drivers in MFC and space. But how are you thinking about the opportunities to grow backlog in '25 and any international and kind of awards that you're kind of our pursuits that you would highlight? Thanks.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          So Peter, it's Jim. And I'll start with the some of the public statements of the administration, which is reforming the Pentagon. The opportunity there is more long lead time orders, less fragility in the system. In addition to that multi-year contracting, which has been so far limited to munitions. Makes sense in a lot of other places in the Pentagon budget. So with some of those policy changes getting implemented, you might see backlog for a company like ours accelerate up due to multi years and longer lead time preorders.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [33]
+--------------------------------------------------------------------------------
+
+          The line of sight, we do have a line of sight to growth again in 2025. I wouldn't say that it's 10%, but we certainly have some level of growth that we're expecting in 2025 on the backlog. I talked about the $10 billion order on the F-35 or Lot 19. I talked also earlier about the JASSM, LRASM multiyear, that's in the range of multiple billions of dollars.
+There's others, there's the international opportunities as well. Turkeye on the F-16 aircraft. There's just a whole slew of opportunities. We also have just continued F-35 sustainment contract, which will be multiple billions of dollars as well. CH-53K, Lot 9 is another one will be negotiating this year, which is well above $1 billion. So there's still an excellent line of sight to continue to grow this backlog. But as you know, we're also focused on making sure that we can accelerate the speed of our throughput and drive that backlog conversion faster.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski, Alembic Global Advisors.
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Alembic Global Advisors - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys. Jim or Jay, just a follow up on M&FC, as you guys think about what DoD is signaling to you in terms of the peak production volumes on the key munitions on M&FC, do you guys need additional supplemental bills to kind of get to those levels and sustain those levels? Or do you already have kind of funding line of sight from the Ukraine supplemental and maybe what's in the '25 baseline budget, maybe '26 baseline?
+I just wanted to get a sense of budget risk there in terms of what your peak rates are assuming.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [36]
+--------------------------------------------------------------------------------
+
+          It's really not dependent on additional supplementals. A lot of this is some -- a lot of that capacity is going to committed and or contracted with our customer. We just run through a couple of programs. We had always been under contract to get to [550] in the PAC-3 program to 2025. We initially self-funded the investment associated with getting ourselves to [650] on PAC-3.
+We recently received a contract to work for incremental funding on that related to the facilitization. We are driving towards 14,000 on GMLRS. We've been driving, as Jim has mentioned in the past to 4,000 on Javelin, 96 on HIMARS. And again, the line of sight to those and the funding that's been allocated to those is quite strong one of which is under contract already. So we view that as fairly low risk at the moment.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Doug Harned, Bernstein.
+
+--------------------------------------------------------------------------------
+Douglas Harned,  Bernstein - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Good morning. Thank you. On the F-35, and there's been some noise and the new administration is coming in about the F-35. If I put all of that aside, during the first Trump administration each of the budgets, F-35 volumes were cut. There seem to be a view that we didn't need as many. Congress, of course, added some back. But when you look forward, you're looking at a 156 per year production rate for a while.
+How do you think about the interplay of budget decisions in the US with what has been some very strong export demand? In other words, if we should see some reductions in quantities in the US. Are you still very confident you're going to be able to continue with that more than 156 level?
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [39]
+--------------------------------------------------------------------------------
+
+          Doug, it's Jim. I'll start off and say, yes, I am confident of the 156, and I think it will come from strong demand from the US government and from our international partners. And what reason for that is basically, part of the tourist areas that you have to have the capability to make the adversary reconsider an adverse action against you.
+And China based on open-source reporting has increased production of J20, which I don't believe, just so personally it's equivalent to F-35 but it is the fifth-generation airplane to over 100 units a year. We're going to do about 156, we're ahead of them. I think if there was a dramatic change and even US, the US order book and production, that might be a signal that would be adverse to maintaining an effective deterrent to them.
+And similar munitions, right? I mean everybody thats watched a Dirty Harry movie or Clint Eastwood movie, knows when you run out of ammunition, you're highly, highly vulnerable and that supports some of the conversation Jay was just having. So my view is that there are some very capable people coming into the administration. They under standard the turn theory.
+The last thing I think President administration would want is to create a period of vulnerability with any of our major adversaries in the next few years. So I feel really confident about F-35 production. And the other thing I'll add is that we can already control F-35 out of eight autonomous drones. We've shown this to the Secretary of the Air Force a few months ago.
+It's public knowledge. There's some classified things that we're doing in the same arena, if you will, to be able to drive manned unmanned teaming off the F-35 and the F-22. And the reason we're starting with the 35 is because of TR3. TR3 gives the F-35 the three things that you need for an effective node of the 5G [IoT] system, which is what we're talking about. Those three capabilities, are data processing with our core processors, ten times from the prior, it's the storage.
+We have a large storage at larger storage unit and a multi-pack connection back to the cloud as you defined the cloud. Ours is DoD classified, but those are three technical elements you need to have to be able to drive 5G level connectivity among nodes in a network like this. And that's what we have to build up. F-35, and we're upgrading F-22 in the same way. We'll have at least one and often more orders of magnitude capability in those digital arenas than the fourth-generation fighter jets we have.
+So the capabilities alone that the F-35 can bring to an integrated fight with drones and manned aircraft is unique.
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [40]
+--------------------------------------------------------------------------------
+
+          Doug, I'll just also add that just maybe one data point here is that the age of the existing fleet is beyond 25 years. And so that is set necessitating a recapitalization with the F-35. And so this is a certain reality that is going to require the demand of the F-35 to bring the age of our existing fleet back down.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [41]
+--------------------------------------------------------------------------------
+
+          And then the last thing I'll say is that there's -- based on, again, open-source reporting, the experience of the Israeli Air Force against the Iranian air defense system, which they took out in one night was what they characterize this fifth-generation aircraft. And you can match up what's in their inventory of with no losses.
+That would clear the way for fourth-gen aircraft drones to come in and devastate that country if the Israelis decided to do. So that's the kind of impact that the high end of platforms have, especially if you can network satellite imagery, autonomous vehicle drone imagery and a command-and-control speed that no one else can muster.
+You can have that kind of lopsided victory. And that's another reason I think that F-35 is going to demonstrate its value here, through these experiences.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          Michael Ciarmoli, Truist Securities.
+
+--------------------------------------------------------------------------------
+Michael Ciarmoli,  Truist Securities - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys.
+Thanks for taking the questions.
+Tom, maybe a tumor.
+Jay, just a bit more color on on supply chain.
+I know you know, the general update had been, you know, the demand signals were pointing to mid single digit and any changes with that under the new administration?
+And then just given the supply chain and you do administration, should we think about that multiyear kind of framework now firmly in mid single digits for both revenue and cash flow?
+
+--------------------------------------------------------------------------------
+Jay Malave,  Lockheed Martin Corp - Chief Financial Officer    [44]
+--------------------------------------------------------------------------------
+
+          good question.
+We just to answer your question kind of supply chain operation.
+We have seen improvement.
+We saw improvement certainly in 2024 and were at levels where they have approached and in certain cases have exceeded, um, what they were pre-COVID.
+Having said that, there are still discrete on issues that we're dealing with the crop.
+The portfolio.
+I think I may have seen a good example.
+They've done an outstanding job of managing a number of supply chain issues, but yet they still are there.
+And so the way we have a group of a solid growth outlook there and a strong growth growth outlook, there are still being paced.
+A certain extent in that goes across much of the portfolio is, of course, gives another one C. 53 K. on has been hampered where we have seen improvement.
+It's still not to the level that where we need to be operating from a contractual standpoint.
+If we continue to see, though what we have seen since Sure, I would see it fuel a lot more confident in a multiyear outlook that is more in is 4% to 5% range like we are guiding for for 2025.
+I think that we need to just go do a little bit more the passage of time as we go through midway through this year, we get a better outlook on how 2025 is shaping up and how that in Forms 2026 would be able to give you a clear, clear view of a longer term.
+But at the moment, for encouraged by what we're seeing in surely, we've seen it here in 2025, and we're starting to gain confidence, as I mentioned before, that I can continue in 26.
+Clearly, if you take one more question, I think we're approaching it after the hour.
+And after this question will hand off to Jim for closing comments.
+And one more question, please here.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Ron Epstein, Bank of America.
+
+--------------------------------------------------------------------------------
+Ronald Epstein,  BofA Global Research - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Hey, guys, for the question.
+And maybe just kind of a two-parter, the first party, I think maybe when when they discuss this Iron Dome over the USMATNGI., their contract that you guys already first or am I thinking about that wrong?
+Because this is that what engineering, Ron Jim here, it would be an integral part of us have a more comprehensive solution to homeland defense.
+And what the administration has laid out is a defense homeland against some a multiple set of attack options for any adversary.
+one of them is, as you say, Intercontinental ballistic missile attack, that is something that the NGI. is specifically designed to accomplish.
+But then there's also hypersonic attack.
+We have a Hyper, counter hypersonics effort in this company, knowing that we're going to need to be able to do that by the way to do it.
+You're going to need a I and you're going to be High Speed Data Tree missions and you're going to have to multiply centers and multi-domain to do it.
+So that's the second one.
+A third one is cruise missiles, right?
+We've shown that we, for example, we can shoot down cruise missiles lasers now and that could be part of the solution.
+And then maybe the lowest level of adversary would be a cheap in-country new, a UAV attack, a drone attack on on a public place or an Air Force base or some other you at our assets.
+And that's another set of technologies, which is counter UAS.
+And though we haven't heard back from this administration yet on this topic, but we offered the prior administration at the sector level to organize the national team on counter-UAS because I think we have some pretty good technologies.
+We want to add a lot more from some mid and large companies that do have the relevant technologies as well.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [47]
+--------------------------------------------------------------------------------
+
+          So I ran out of time on your second part of your first question, but that's what I think of what I consider what Iron Dome would have to look like.
+I got it was a broader thing and just sort of call it missile defense that yes, there's a public statement by the U.S. government and outlines a lot.
+And if I can squeeze in one last 1 and then I've got to go and how you're thinking about.
+I mean, Denmark is an important F-35 international customer, and there's a lot of rhetoric in the press around the U.S. market and cream.
+And how do you think about that?
+And now you're mixing that up with them being an important customer and what message that might send other customers.
+But these are policy issues by the US government are completely out of our for a review of.
+So I'll just leave that there.
+The demand for the aircraft is we've talked about keeps building, especially in international customers.
+And really, that's all I'd like to comment on on a policy matter synthesis.
+All right.
+Thank you, Maria, for managing all the questions.
+Before we close, I want to thank the Lockheed Martin workforce for constantly pushing the boundaries of innovation to help our country and our allies accomplish their missions and maintain our ability to provide a strong return to armed conflict.
+And if we must do the feed animals that have taxes in the Air Force to call that fly fight and win as we did first term, we look forward a very productive working relationship with President Trump and his team and the new Congress to strengthen our national defense.
+We share our commitment to achieving piece through strength, and we're focused on delivering the best critical defense technology in the world and the greatest value to the American taxpayer.
+So that will wrap up the call.
+Thank you.
+Everybody has the joint today, and we'll see in April and our first quarter call.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          This concludes today's conference call. Thank you for joining. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

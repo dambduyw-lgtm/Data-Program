@@ -1,0 +1,729 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2023 Pfizer Inc Earnings Call
+OCTOBER 31, 2023 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Albert Bourla
+   Pfizer Inc. - Chairman of the Board & CEO
+ * Aamir Malik
+   Pfizer Inc. - Executive VP & Chief Business Innovation Officer
+ * Mikael Dolsten
+   Pfizer Inc. - Chief Scientific Officer and President of Research & Development
+ * David M. Denton
+   Pfizer Inc. - CFO & Executive VP
+ * Angela Hwang
+   Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business
+ * Francesca M. DeMartino
+   Pfizer Inc. - Chief IR Officer & SVP
+ * Douglas M. Lankler
+   Pfizer Inc. - Executive VP & General Counsel
+ * Chris Boshoff
+   Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   TD Cowen, Research Division - MD & Senior Research Analyst
+ * Robyn Kay Shelton Karnauskas
+   Truist Securities, Inc., Research Division - Research Analyst
+ * Carter Lewis Gould
+   Barclays Bank PLC, Research Division - Senior Analyst
+ * Timothy Minton Anderson
+   Wolfe Research, LLC - MD of Equity Research
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * Terence C. Flynn
+   Morgan Stanley, Research Division - Equity Analyst
+ * Kerry Ann Holford
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Christopher Thomas Schott
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Siyue Wang
+   Jefferies LLC, Research Division - Equity Associate
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - MD & Senior Research Analyst
+ * Geoffrey Christopher Meacham
+   BofA Securities, Research Division - MD
+ * Chris Shibutani
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * David Reed Risinger
+   Leerink Partners LLC, Research Division - Senior MD
+ * Mohit Bansal
+   Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst
+ * Trung Chuong Huynh
+   UBS Investment Bank, Research Division - Analyst
+ * Andrew Simon Baum
+   Citigroup Inc., Research Division - Global Head of Healthcare Research and MD
+ * Evan David Seigerman
+   BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good day, everyone, and welcome to Pfizer's Third Quarter 2023 Earnings Conference Call. Today's call is being recorded. At this time, I would like to turn the call over to Francesca DeMartino, Chief Investor Relations Officer and Senior Vice President. Please go ahead, ma'am.
+
+--------------------------------------------------------------------------------
+Francesca M. DeMartino,  Pfizer Inc. - Chief IR Officer & SVP    [2]
+--------------------------------------------------------------------------------
+Good morning, and welcome to Pfizer's earnings call. I'm Francesco DeMartino, Chief Investor Relations Officer. On behalf of the Pfizer team, thank you for joining us. This call is being made available via audio webcast at pfizer.com. Earlier this morning, we released our results for the third quarter of 2023. Our earnings materials can be accessed on the IR website at investors.pfizer.com.
+I'm joined today by Dr. Albert Bourla, our Chairman and CEO; Dave Denton, our CFO; and Dr. Mikael Dolsten, President, Pfizer Research and Development. Joining for the Q&A session, we will also have Angela Hwang, Chief Commercial Officer and President, Global Pharmaceuticals Business; Aamir Malik, our Chief Business Innovation Officer; Dr. Chris Boshoff, our Chief Oncology Research and Development Officer; and Doug Lankler, our General Counsel.
+Before we get started, I want to remind you that we will be making forward-looking statements. I encourage you to read the disclaimer on Slide 3. Additional information regarding these statements and our non-GAAP financial measures is available in our earnings release and in our SEC Forms 10-K and 10-Q under Risk Factors and Forward-Looking Information and factors that may affect future results. Forward-looking statements on the call are subject to substantial risks and uncertainties, speak only as of the call's original date, and we undertake no obligation to update or revise any of these statements.
+With that, I will turn the call over to Albert.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Francesca. Hello, everyone, and thank you for joining us today. Pfizer continues to have a far-reaching and positive impact on human health. Through the first 9 months of the year, more than 457 million patients around the world were treated with our medicines and vaccines. Compared with the first 9 months of 2022, we have reached more patients in several key therapeutic areas, including oncology, cardiovascular disease and anti-infectives. Patients will always be our North Star, and these figures serve as a testament to our leadership in innovation and our commitment to understanding and serving patients' needs.
+During the third quarter, we were encouraged by the continued strong performance of Pfizer's non-COVID products, with revenue from these products growing 10% operationally compared with the year ago quarter. We saw significant contribution from new launches and the robust year-over-year growth for several key in-line brands.
+Our recently launched respiratory syncytial virus, the RSV vaccine, which is called Abrysvo contributed $375 million in U.S. revenue. With the recent approval of the maternal indication, Pfizer is the only company an RSV vaccine approved for preventing RSV in older adults and in infant's maternal immunization.
+We believe Abrysvo will be a significant and growing contributor to revenues as many customers have indicated to us that protecting both populations with one vaccine is desirable and a competitive advantage for Abrysvo. In the U.S. alone, there are approximately 80 million adults over age 60 who are eligible for RSV vaccination and an estimated 1.5 million pregnant women are eligible for maternal immunization with RSV vaccine between September '23 and January '24.
+Nurtec/Vydura and Oxbryta, which were acquired in the fourth quarter of 2022 contributed $233 million and $85 million in global revenues, respectively. For Nurtec in the U.S., oral CGRPs represent about 17% of the migraine market, and the unmet need is high. We believe oral CGRPs can ultimately be the first-line therapy for migraine and could eventually account for as much as 40% of the overall migraine market.
+Primary care is a clear source of potential growth in the migraine marketplace. Year-to-date, primary care healthcare providers wrote more than 6.1 million prescriptions for Triptans compared with approximately 1 million for oral CGRPs, which highlights a significant potential opportunity for growth.
+Regarding Oxbryta, there is significant burden of illness and unmet need for patients suffering from sickle cell disease. An estimated 12 million people around the world have SCD, sickle cell disease, with the highest prevalence in countries with the lowest resources. While in the U.S., 95% of children survive to adulthood, 99% of children in other regions will die before they reach their fifth birthday, many without even being ever diagnosed.
+Our Vyndaqel products, including Vyndaqel, Vyndamax Vynmac, recorded 47% operational growth globally compared to the third quarter of 2022. This growth was driven largely by continued strong uptake of transthyretin amyloid cardiomyopathy indication, primarily in the U.S. and developed Europe. We estimate that are between 120,000 and 150,000 people suffering from ATTR cardiomyopathy with the majority still not yet diagnosed.
+The largest unmet need continues to be the lack of general understanding and ability to diagnose this deadly disease, which is why we are focused on educational activities to expand the diagnosis and get appropriate patients on the treatment with the products as the proven standard of care.
+Such efforts significantly contributed to this quarter's revenue increase in the U.S. And our Prevnar family of products, Prevnar 13 and Prevnar 20 saw global revenue rise 15% operationally compared with the year ago quarter. This increase was driven primarily by strong patient demand for Prevnar 20 adult in the U.S., the U.S. approval of Prevnar 20 pediatric and associated stocking and growth of Prevnar 13 pediatric in certain emerging markets.
+These were partially offset by anticipated lower market share in the U.S. for Prevnar pediatric due to competitive entry. Of note, Prevnar 20 adult remains the category-leading pneumococcal vaccine for adults in the U.S. with a 95% market share in the third quarter. Year-to-date, revenues for our non-COVID products have grown 7% operationally, and we remain on track to deliver 6% to 8% operational revenue growth for these products for the full year.
+We continue to progress towards our goal of executing an unprecedented number of launches of new products or indications. Recent milestones include: U.S. and EU approvals and the launch of Abrysvo in pregnant individuals; U.S. approval and launch of Elrexfio in relapsed refractory multiple myeloma; U.S. approval of our Braftovi and Mektovi combination in BRAF-mutated metastatic non-small cell lung cancer; U.S. approval of Velsipity for moderate to severe ulcerative colitis; EC approval of Litfulo for severe alopecia areata; and U.S. approval of Penbraya, the first and only pentavalent vaccine that provides coverage against the 5 most common serogroups causing meningococcal disease in adolescents and young adults 10 through 25 years of age.
+Today, we have now executed 13 of the 19 originally identified potential launches with 4 other products approved and preparations being made for their launch. In fact, 5 of the 6 remaining potential launches have been largely derisked from a technical perspective. The only one remaining would be our mRNA flu candidate.
+Given our recent positive results from our next-generation mRNA flu/COVID combination candidate and pending results for our 65 and older first generation, first 3 stand-alone mRNA flu study, timing of our stand-alone mRNA flu is now expected after 2024. If successful, our next-generation mRNA flu/COVID combination candidate is expected to market in 2025. Mikael will share more about these programs shortly.
+We remain excited about our proposed acquisition of Seagen and the dramatic impact we think this combination can have on human health. One in three people will be diagnosed with cancer in their lifetime. So conquering cancer would have an almost unimaginable impact on humanity. We recently gained unconditional antitrust clearance from the EC and we continue to expect the transaction to close in late 2023 or early 2024, subject to customary closing conditions, including clearance by the U.S. FTC.
+We have raised $31 billion in acquisition financing so far and continue to expect incremental 2030 risk-adjusted revenues in excess of $10 billion and expected cost efficiencies of $1 billion to be realized by the end of year 3 post close without impacting any R&D programs.
+With that, I'll turn it over to Dave. And after Dave, Mikael will provide an update on our R&D pipeline. So Dave?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [4]
+--------------------------------------------------------------------------------
+Thank you, Albert, and good morning. Before I review this quarter's results, I'll address a couple of topics that have been top of mind with investors since our announcement on October 13. These topics relate to our future U.S. government Paxlovid revenue forecast as well as our multiyear cost realignment program.
+With respect to revenue recognition associated with the amended agreement, the U.S. government is expected to return an estimated 7.9 million EUA-labeled treatment courses, and in return, we'll receive a volume-based credit at an approximate value of $4.2 billion at the end of 2023 for future treatment courses. Pfizer will also provide an additional 1 million treatment courses into the U.S. strategic national stockpile.
+As a result of all of that, Pfizer has an obligation to deliver an estimated 8.9 million treatment courses, for which we will record an approximately $4.2 billion of revenue beginning in 2024 as we deliver these treatment courses. It is important to note that there is no cash compensation for the estimated 8.9 million treatment courses delivered.
+Regarding our cost realignment program, I want to reiterate that we expect to achieve at least $3.5 billion in net cost savings by the end of 2024 versus the midpoint of our August 1, 2023 SI&A and R&D guidance. We expect $1 billion of targeted savings in 2023 and expect an additional savings of at least $2.5 billion in 2024. In a moment, when I review the components of our full year 2023 guidance, you will see that we have lowered the midpoints of both our SI&A and R&D guidance ranges by $500 million, respectively.
+Now turning to the quarter. Our Q3 results, both top and bottom line were significantly and negatively impacted by our COVID products. Revenues declined 41% operationally, the result of the decrease in both Paxlovid and Comirnaty sales, while Adjusted diluted loss per share was also significantly impacted by $5.6 billion of noncash inventory write-offs of COVID-related inventories.
+I want to emphasize as Albert stated previously that the operational revenue growth of our products in Q3, excluding both Paxlovid and Comirnaty were strong at 10%. Contributing to the strong performance was our newly approved RSV vaccine and the families of products associated with both Prevnar and Vyndaqel.
+Additionally, our recently acquired products, Nurtec and Oxbryta also contributed to this strong performance. Our Reported diluted loss per share of $0.42 and Adjusted diluted loss per share of $0.17 in the quarter are primarily the result of the decline in Paxlovid and Comirnaty sales and the noncash charge related to write-offs of COVID-related inventories.
+The inventory write-off of $4.7 billion for Paxlovid and $900 million for Comirnaty negatively affected Adjusted loss per share by $0.84. Foreign exchange movements had a de minimis unfavorable impact on third quarter revenues and increased Adjusted diluted loss per share by $0.04 or 2% compared to LY.
+Now let me briefly touch on our full year guidance. Given we updated our full year revenue and EPS guidance on October 13, I'm just going to hit a few of the highlights. Total company full year 2023 revenues are expected to be in the range of $58 million to $61 billion versus the previous range of $67 billion to $70 billion.
+Importantly, we continue to expect 6% to 8% full year operational revenue growth for non-COVID products year-over-year. And as anticipated, the majority of this growth is incurred in the second half of the year given the timing of new products and indicated launches.
+I want to remind you that beginning in Q4, we will overlap the acquisitions of both Biohaven and GBT and which will -- which were completed in October of 2022. Adjusted cost of sales and percentage of revenue is expected to be in the range of 41% to 43%, primarily the result of a $5.6 billion noncash charge related to inventory write-offs for our COVID products.
+Adjusted SI&A expenses are expected to be in the range of $13.3 billion to $14.3 billion and Adjusted R&D expenses to be within a range of $11.9 billion to $12.9 billion. The midpoints of both ranges are now $500 million lower than our original guidance. As a result of all these, the company now expects full year Adjusted diluted earnings per share to be in the range of $1.45 to $1.65 per share versus the original guidance range of $3.25 to $3.45.
+All additional components of our guidance are included in our press release that was issued earlier today. As discussed in prior quarters, our capital allocation strategy is based on 3 core pillars: first is reinvesting in our business; second is growing our dividends over time; and third is making value-enhancing share repurchases.
+In the first 9 months of 2023, we invested $7.9 billion in internal R&D, returned $6.9 billion to shareholders via our quarterly dividend and allocated approximately $43 billion towards the proposed Seagen acquisition. Lastly, in addition to completing a $31 billion unsecured debt offering in Q2 of this year, we are ready to execute the remaining short-term financing to complete the proposed Seagen acquisition upon fulfillment of the required closing conditions. We expect to delever our capital structure following the completion of this transaction. And as we delever, we anticipate returning to a more balanced capital allocation strategy, inclusive of share repurchases.
+In closing, I want to reiterate that our product portfolio remains very strong. We continue to be encouraged by the momentum of our non-COVID products in Q3 and are committed to the successful execution of our new product and indication launches. We expect the cost realignment program will improve our operating margin, enhancing long-term shareholder value.
+And with that, let me turn it over to Mikael.
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [5]
+--------------------------------------------------------------------------------
+Thank you, Dave. Today, I will share important updates from our robust respiratory vaccine portfolios. Our respiratory vaccines are built up on 3 cutting-edge platforms that enable us to bring the right science to the right pathogen. These include our mRNA platform in partnership with BioNTech targeting highly virulent viruses, our subunit platform targeting viruses that remain relatively consistent season to season and our conjugate vaccine platform designed to help prevent bacterial infections.
+We have achieved FDA approvals of vaccines derived from each platform within the last year and aim to further expand our leadership with additional vaccine candidates in development. Today, I will provide information on our stand-alone flu vaccine candidate, flu/COVID combination vaccine candidate and next-gen pneumococcal vaccine candidate.
+We are pleased to announce that we achieved both primary endpoints in the 18- to 64-year-old cohort of our ongoing Phase 3 flu trial. In the trial, our first-gen mRNA flu vaccine candidate demonstrated noninferiority and superiority to a licensed flu vaccine at the time of the primary analysis. This represents the first and only demonstration of efficacy and superiority for an mRNA-based flu vaccine candidate.
+In this age cohort, efficacy was maintained through the trial's end-of-season analysis, with our candidate remaining noninferior to the licensed comparator. Safety was similar to the standard flu vaccine. The primary and end-of-season efficacy analysis considered both in terms of A and B cases collectively.
+The vast majority of cases recorded in our trial and during the '22/'23 flu season overall were flu A cases. The immunogenicity data showed robust antibody responses against influenza A compared to licensed flu vaccine. Humoral responses against Influenza B were lower than those achieved with the comparator. Recall that our stand-alone flu vaccine Phase 3 study also include a 65-year and older cohort that we previously shared encouraging T cell data for all 4 strains from the Phase 2 study in this cohort.
+Our belief is that the ability of the vaccine candidates induce T cell responses may contribute to the improved efficacy of our current seasonal flu vaccines, particularly in those 65 and older. We expect a readout from this age group later this year. To address the lower B responses seen with our first-gen stand-alone flu candidate, Pfizer created next-generation reformulation. These were incorporated into our mRNA flu candidate in combination with the Pfizer BioNTech COVID-19 vaccine, which I will review now.
+In positive Phase 1/2 top line data announced last week, we observed that reformulation of the lead flu candidate resulted in improved BioNTech against Influenza B, allowing us to meet all criteria for advancement to Phase 3. In the trial, our lead candidate formulations induced robust immune responses with point estimates for geometric mean titer ratios that were consistently criteria applied to approved vaccines for all matched flu and SARS-CoV2 strains.
+Notably, a point estimate for geometric mean titer ratios with selected candidate formulations were greater than one relative to their licensed comparator for all matched flu vaccine strains. The safety profile of evaluated candidates were consistent with Pfizer's own COVID-19 vaccine. Following these positive immunogenicity data, we plan to initiate the Phase 3 study in the coming months.
+Successfully developing a broad seasonal vaccine franchise anchored around the modFlu mRNA vaccine is a key priority as it may allow us to tap into the nearly 50% annual flu vaccination rate in the U.S. adults.
+We are taking a differentiated approach in pursuit of this goal, leveraging both mRNA and protein subunit technologies. Our development program includes double and triple combination vaccines to potentially help protect against flu, COVID-19 and RSV.
+Now turning to Prevnar. I'll start by reminding you that this is the only PCV business with an FDA indication for pneumonia in adults. Providing protection specifically against pneumococcal pneumonia is critical. It's the most common form of pneumococcal disease in adults, leading to 150,000 U.S. hospitalizations each year. The prevalence of nonbacteremic pneumococcal pneumonia is more than 15-fold, greater than that of invasive pneumococcal disease in U.S. adults 50 and older.
+Prevnar's pneumonia indication is supported by the CAPiTA trial which was enabled by a pneumococcal vaccine population and proprietary assay. These innovative characteristics make it challenging for others to conduct a similar study given the high level of pneumococcal vaccine coverage that exists today.
+CAPiTA's innovative design and landmark results helped to establish our leading and differentiated position in the PCV space. To solidify this position, we are committed to pursuing continued innovation. Our goal is to potentially maximize valency and improving immunogenicity while maintaining coverage of the serotypes clinically demonstrated to protect against pneumonia.
+In line with this commitment, we have been developing in a fourth generation PCV candidate that builds on the Prevnar business' 20-year-plus years of innovation. Our next-generation technology leverages cutting-edge conjugation, chemistry, carriers and reformulations. Using these new proprietary vaccine technologies, we observed a several-fold improvement in select serotype immunogenicity in a monovalent Phase I study.
+Based on these data, we are confident that when we move these technologies into our multivalent fourth-gen candidate, we have the potential to achieve increased valency with improved serotyping immunogenicity. We are now advancing our fourth-generation candidate into our first human trial, which is expected to begin in the fourth quarter of '23.
+Finally, I will leave you with our list of milestones and call out the recent approval of Velsipity for ulcerative colitis and Penbraya, the first pentavalent meningococcal vaccine. Pfizer has delivered more than a dozen regulatory approvals this year alone. I'll also note the recent launches of Abrysvo for maternal immunization and Elrexfio in multiple myeloma.
+Thank you. Let me turn it back to Francesca to start the Q&A session.
+
+--------------------------------------------------------------------------------
+Francesca M. DeMartino,  Pfizer Inc. - Chief IR Officer & SVP    [6]
+--------------------------------------------------------------------------------
+Thanks, Mikael. With that, let's start the Q&A session. We will answer as many questions as time permits and IR will be available after the call to answer any follow-up questions. Operator, please assemble the queue.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) And our first question will come from Robyn Karnauskas with Truist Securities.
+
+--------------------------------------------------------------------------------
+Robyn Kay Shelton Karnauskas,  Truist Securities, Inc., Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+I think I have a big picture question on your new launches, which is extremely important for your growth. Are you seeing any impact given, I think, vaccine fatigue that we've seen with COVID impacting RSV and pneumococcal vaccines? And how do you think about that impact as you think about 2023 and 2024? Do you think that will dissipate?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you for your questions. First of all, I think it's good when you have a portfolio, and we have a quite strong portfolio because we have RSV, we have COVID, we have pneumococcal in the respiratory front.
+But I think the biggest impact will be when and if we have combination products. We think that combination products will -- because of their convenience, because of vaccines are preferred by payers with zero co-pay will increase basically the volumes and vaccination rates of all vaccines because of the convenience of one injection. And I think this is why you saw from Mikael, all our efforts right now are in development in multiple combinations, so that consumers and physicians will have choice, which ones to administer always with the same convenience.
+I think we can go to the next question. Thank you very much, Robyn.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+Our next question will come from Huynh Trung with UBS.
+
+--------------------------------------------------------------------------------
+Trung Chuong Huynh,  UBS Investment Bank, Research Division - Analyst    [5]
+--------------------------------------------------------------------------------
+I have one on flu and then just one on danu. So on flu, can you confirm the comparator in the 18 to 64 and also the 64 age groups was the low dose flu vaccines? Is there a risk FDA is going to need data against high-dose flu vaccines? And from a commercial perspective, do you think you still need high dose flu data, the comparator against high-dose flu data, given that's what's recommended by CDC in the older population?
+And then on danu, should we just -- just on the data that we expect before year-end, what do you need to show in that in order to move it into Phase 3 trials? Is something similar to the Phase 2 we saw earlier this year enough to move it to Phase 3?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [6]
+--------------------------------------------------------------------------------
+Thank you. On the flu comparator, I can confirm that it is the low dose on the younger population because that's the only one that's allowed. So on the older population, we are having studies now with the low dose, but we will do also with the higher dose. So we have both.
+On danu, there's not much to say. We need to wait to see the data. There is clearly, when you are moving ahead with a program like that, you need to see the totality of the data. And we are working now intensively to be able to have this data presented before year-end.
+Let's move to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+Our next question will come from Umer Raffat with Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [8]
+--------------------------------------------------------------------------------
+I wanted to continue on the oral obesity theme for a second. I noticed there is a new molecule 522 that you moved into Phase 1. And my question is, is the chemical structure and the chemical series akin to the danu and lotiglipron programs? And also, Albert, you mentioned you want to wait to see the danuglipron Phase 2 data, but I realized the trial has been wrapped up for a few weeks. Now have you not seen it yet?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [9]
+--------------------------------------------------------------------------------
+Yes. Mikael, would you like to take the question about the new molecule and the danu?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [10]
+--------------------------------------------------------------------------------
+Yes. We are building a platform around the GLP area and also obesity in general with multiple different mechanisms and compounds. We remain focused on the danuglipron readout, as Albert mentioned, as our main opportunity here for getting data to review for obesity in type 2 diabetes. But there are many indications where GLP might play a role outside of typical metabolic. So this one gives us just more option to explore and have interesting data. And you will see more new mechanisms also coming from Pfizer. We have a pretty strong effort here. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Next, we have Terence Flynn with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Morgan Stanley, Research Division - Equity Analyst    [12]
+--------------------------------------------------------------------------------
+Maybe 2 for me. I was just wondering on your RSV launch, how we should think about potential for revaccination in 2024. And then on your DMD gene therapy program, I think you previously talked about having interim data by year-end. Is that still the case? And does the recent competitor data make you more or less optimistic in your program?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [13]
+--------------------------------------------------------------------------------
+Thank you very much. First of all, let me make a comment on the recent data that we saw about the DMD failure. It's very, very bad news for patients. We are really -- at least the patient population that doesn't have solutions, I hope there will be a solution for them with the discussion of the FDA but I can't comment.
+Now on our DMD program, I will ask Mikael to comment on that. And then on the RSV, Angela. Mikael, why don't you start with the DMD and then, Angela, go to RSV.
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [14]
+--------------------------------------------------------------------------------
+Yes, I echo Albert's comment that we are always sad when -- someone fails a study. We are very encouraged about getting to the readout. You are right, there is an opportunity for an interim analysis around year-end with final analysis second half of next year. And overall, I think our gene therapy for DMD have shown a very consistent effect across biomarkers and functional endpoints.
+And what has differentiated it so far is that when you look at the functional data we have reported, it has been given encouraging signals in both the younger and the slightly older boys, and that has not been seen with the other company you referred to. So in a way, I remain as earlier, very positive about looking forward to the readout and let the data tell you the story. But of course, this makes our gene therapy, in a way, the main game in town.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [15]
+--------------------------------------------------------------------------------
+Then there was a question, Angela, on the RSV.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business    [16]
+--------------------------------------------------------------------------------
+Well, as you heard during the ACIP discussions, our recommendation for Abrysvo today is really one around clinical -- shared clinical decision-making. But we also were -- we were asked to bring additional data when they are ready. And so just to confirm that we will have additional data in vaccine effectiveness in broader populations. We will have safety data also in broader populations. We will also have immunogenicity data in younger populations.
+All of this will be, I think, available in the next year when we plan to bring this back to the CDC. In addition to that, actually I needed to mention that we'll also have second season efficacy data. So we'll able to bring this totality of data together to determine whether the recommendations will change, but also what the vaccination schedule will be. So that's to come in 2024.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Next, we have Steve Scala with TD Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  TD Cowen, Research Division - MD & Senior Research Analyst    [18]
+--------------------------------------------------------------------------------
+As was just noted a couple of minutes ago, the danu data has reached its primary completion. It was a while ago. Albert, when you were asked, you stressed the words, totality of the data, implying that you could have seen some part of the data. Mikael, when you were asked, you talked about different indications.
+These are not confidence-building statements. So I'm curious what have you seen. And Mikael, you've said in the past, you are absolutely encouraged and confident in the profile of danu. Are you still absolutely encouraged and confident? So that's the first question.
+Secondly, a competitor spoke to potentially COVID-derived decrease in diagnosis of inflammatory diseases such as UC. And I'm wondering if you've seen any of that.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [19]
+--------------------------------------------------------------------------------
+Steve, I think you likely misunderstood my comments on the totality. It has nothing to do with any data that I have seen because I haven't, right? So the data have not been presented to -- I don't think that the study has been completed yet. So I will ask also Mikael to comment on that. But don't read, please, anything on the totality of the data.
+What I meant is that we are doing this, we are doing the release formulation so -- which will make it once a day, there are multiple things. But we need to wait and see, we see how competitors are doing before deciding what we will do. But the most important thing is to see what is the efficacy and safety of the study that will read out. So nothing to read in my comment on the totality of the data.
+So Mikael, do you want to add?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [20]
+--------------------------------------------------------------------------------
+Yes, I think I'll echo what you said so well there, Albert. We and I remain very enthusiastic to look forward to see the data. We have not seen the final top line report coming yet. So today, the study is still ongoing, but will be available before year-end. Danuglipron -- has shown, as you know, some really interesting profile as a full agonist.
+And it's our main opportunity and effort for obesity in type 2 diabetes. We got earlier today a question about new molecules that come in, and that's when I mentioned that our additional indications to pursue for such new molecules. And we also have new mechanisms that are validated that's coming in, in oral version. So we just punctuate our big effort we have around both this class and obesity and other disorders.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [21]
+--------------------------------------------------------------------------------
+So in essence, he's still excited. Thank you very much, Mikael. Let's go to the next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+Next, we have Louise Chen with Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - MD & Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+So I wanted to ask you on the fourth-generation PCV, how much additional serotype coverage will you have? And then also on Abrysvo, will that be available to pregnant women in the pharmacy? Or do they have to go to their OB/GYN? And then lastly, just on danuglipron again here, will you also have the modified release data before year-end?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [24]
+--------------------------------------------------------------------------------
+Mikael, you will take the PCV question and the danu. But also, Angela, very quickly, Abrysvo is available also in pharmacy...
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business    [25]
+--------------------------------------------------------------------------------
+Yes. It's going to be available in pharmacists, in doctors' offices, in OB/GYN offices. I think we have a real stocking advantage here, Louise, because anyone who just needs to stock one product for two indications for both populations. So I think the uptake is to come. And certainly, the next few months being that it's the winter is when we begin to believe we'll see some good uptake.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [26]
+--------------------------------------------------------------------------------
+And then Mikael?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [27]
+--------------------------------------------------------------------------------
+On the PCV fourth generation, I hope you looked at today's data. And what you could see is that we are really the first company that has been able to put in place a whole set of new technology that can bring immune responses to a higher level than has been seen and that allow us to go with even more comprehensive coverage than the current 20. I'm not going to give your curiosity an answer, how many serotypes. I can just tell you, it's considerably more than the 20.
+On danu, we look upon danuglipron as a once-a-day QD molecule because of the reformulation technologies that we have put in place and already generated some clinical data on and are now concluding. So that's really how we look upon danuglipron. And we'll have final data on the best formulation option early next year. But as Albert said, we're enthusiastic to look forward to the efficacy data later this year. So very exciting time.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [28]
+--------------------------------------------------------------------------------
+Thank you very much, Mikael. Let's go to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Next, we have David Risinger with Leerink Partners.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Leerink Partners LLC, Research Division - Senior MD    [30]
+--------------------------------------------------------------------------------
+So I have another question on danuglipron since it appears to be the company's #1 pipeline candidate based upon your forecasts. So regarding the Phase 2b results that are expected soon, how should we expect Pfizer to share those results?
+And then with regard to the once-daily formulation that you just mentioned, Mikael, will that be ready for the Phase 3 start assuming that the company moves to start Phase 3 shortly after the Phase 2b results are generated?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [31]
+--------------------------------------------------------------------------------
+I mean the first question, given the importance of the market, we would start with a press release, maybe call or not, I don't -- but with a press release, we would make them publicly available. Now Mikael, do you want to take the second part of the question?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [32]
+--------------------------------------------------------------------------------
+Yes. I can first echo what Albert and I said, we look forward with, as we said, to get the danuglipron obesity data later this year. And of course, as Albert said, pending totality of reviewing everything we have, we have made a lot of progress and been able to accelerate with the QD danu. Now we're waiting for some more clinical data early next year, but I think it's within our reach. If we decide to do -- to start the pivotal study next year, to do it with a once-a-day molecule.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [33]
+--------------------------------------------------------------------------------
+Thank you very much, Mikael. Let's go to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Next, we have Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JPMorgan Chase & Co, Research Division - Senior Analyst    [35]
+--------------------------------------------------------------------------------
+Just two for me here. First, can you just comment a little bit more on what we're seeing with Nurtec and the ramp relative to your expectations? And maybe just as part of that, just any color on pricing we're seeing within the market today and how we should think about that going forward.
+And then my second question was on 2024. I know you're not giving guidance today. But as you look at where consensus has kind of shaken out post the COVID and cost restructuring updates, I think the earnings are in kind of the low $3 range at this point, I guess just are there any directional kind of pushes or pulls in the numbers that you feel the Street isn't capturing properly and should be kind of thinking about before we get your kind of formal guidance as we look to early next year?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [36]
+--------------------------------------------------------------------------------
+Thank you. David, he's asking about '24 guidance, that you are not going to tell us?
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [37]
+--------------------------------------------------------------------------------
+Right. So obviously, it's a little early to 2024. I would just say that clearly, we had a clearing event as it relates to our COVID expectations for this year. So a lot of that risk is behind us as we think about the balance of this year. I do expect that the balance of this year will be very informative, particularly in the U.S. as we think about utilization trends, both for vaccination rates and importantly, Paxlovid here in the U.S., that will allow us to have a better clarity cycling 2024 of the utilization around those specific products, which will still be meaningful to us at an enterprise level.
+Clearly, when we get to providing guidance, we'll give you a lot of information beneath that, so you can get a good sense of our -- importantly, our non-COVID products, which continue to trend very favorably and very well. And we can layer on, I'll say, the optionality associated with our COVID franchise as we cycle into next year. So obviously, a lot more to come. We're looking forward to sharing those very specific details after the first of the year.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [38]
+--------------------------------------------------------------------------------
+Thank you, David. And then Angela, about the Nurtec launch -- about the Nurtec performance in the marketplace, including the price.
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business    [39]
+--------------------------------------------------------------------------------
+Yes. So thanks for the question, Chris, because it's a great opportunity for us to share that we are seeing Nurtec perform just as we expected, in fact, with some really strong performance indicators that I'd like to share with you.
+First of all, from a TRx perspective, we grew 28% compared to last year this time. And sequentially, we grew 6% versus last quarter. In fact, on October 20, we saw the highest peak of TRxs and NRxs to date. That growth is also seen in the number of prescribers. Just this quarter alone, we had 73,000 prescribers writing Nurtec. And we are now moving at a clip of about 23,000 writers a week, which is 30% more than Ubrelvy and double that of Qulipta.
+Another good place to look is also in new-to-brand starts, right, NBRxs. And when you look at that, NBRx growth for Nurtec is higher than Ubrelvy and Qulipta in all the deciles of physicians, but particularly in the decile 8 to 10, which, as you know, is where the highest prescribers are -- or who are the highest prescribers.
+And then when you look at pill count, we see something interesting there, too. We have been very intensely or intently driving our pill pack towards the larger co-pack size, which is the 16-pack because of our prevention indication. And so when you look at the totality of all the pills or the total volume of pills, we have a leading market share there, more than 50%.
+And so I think when you look at all these indicators, at least on the way that we're looking at it, it's a very positive story. It's exactly how we see it. The expansion into primary care, as you heard in Albert's comments, is what it is that we're after. And today, only 17% of the entire market is oral CGRPs, which tells you that most of the market is still an opportunity for us and represents growth that we're really looking forward to. And I think that we put the right investments in the right places to generate this growth in the future.
+From a pricing perspective, obviously, this is -- it's a product that is rebated. And so I think the way to think about it is that from a patient perspective, which is where we really put a lot of focus, we want to make sure that our patients are able to get these groups are able to get access for Nurtec, especially as you consider that we're trying to mobilize people away from Topiramate and away from Triptans onto our CGRPs. So the gross to net effects here are significant, and you see that quarter-over-quarter because we are making sure that we are able to provide access to patients who deserve and are eligible for Nurtec.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+Next, we have Mohit Bansal with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Mohit Bansal,  Wells Fargo Securities, LLC, Research Division - Senior Equity Analyst    [41]
+--------------------------------------------------------------------------------
+Great. And I have a question regarding your S1P, etrasimod. Would love to get your thoughts on the label. It seems like -- I mean, you could avoid a lot of cardiac monitoring, but at the same time, there's this new requirement of like eye exam as well as skin exam. How do you think about uptake considering these examinations before the start of the treatment, given that these doctors are not used to it?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [42]
+--------------------------------------------------------------------------------
+All right. Mikael, quite medical questions, would you like to answer it, please?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [43]
+--------------------------------------------------------------------------------
+I'm happy to start on it. I think we have a very robust label for etrasimod. It's only S1P in this drug class for ulcerative colitis that have a simple flat dosing and immediate start without any prior need for, let's say, cardiac rhythms exams like the other drugs in this class, all S1Ps have various eye exams to monitor. And I think our label similarly has a recommendation to do that.
+So it's really nothing new. And our efficacy data in UC has been very favorable. So we are very optimistic that this can be a true best-in-class in ulcerative colitis. Angela, do you want to add? Yes.
+[Pfizer has a clarification on the above comment by the Pfizer spokesperson regarding pre-treatment exams for VELSIPITY. The VELSIPITY label does not require cardiac rhythm exams following treatment initiation. However, as for other S1Ps, an electrocardiogram should be obtained to assess for preexisting cardiac conduction abnormalities before starting treatment with VELSIPITY. See USPI for additional safety information.] (added by company after the call)
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business    [44]
+--------------------------------------------------------------------------------
+Sure. I was just going to add to that, that -- I mean, competitively, we believe that we have an excellent efficacy and safety profile. We don't have a need to titrate up, as Mikael said, but also our assessments of standards versus our competitors at the initiation of therapy. So I think that this is a level playing field that we're in.
+Certainly, patient support is an area of focus for us, right, to ensure that patients are getting the assessments that they need. But we feel that we're -- this is pretty standard practice and we'll be able to launch this product as planned.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [45]
+--------------------------------------------------------------------------------
+Thank you very much, Angela. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Next, we have Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Securities, Research Division - MD    [47]
+--------------------------------------------------------------------------------
+Just have a couple of quick ones. First, I noticed Seagen obviously hasn't closed yet, but does all the emphasis on ADCs from ESMO, does it affect how you guys prioritize the pipeline or maybe investments you could make today commercially?
+And the second question on danu. Mikael, I know a lot has been asked on the upcoming data. But from a commercial perspective, like where do you see the bigger opportunities for differentiation and metabolic? Is that really just oral administration in obesity? Or do you guys look more aggressively at related indications like cardio, renal, et cetera?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [48]
+--------------------------------------------------------------------------------
+Chris, do you want to take the question about the Seagen and the pipeline.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer    [49]
+--------------------------------------------------------------------------------
+Thank you very much. Obviously, we remain very confident that we will close Seagen towards the end of this year, beginning next year. As you pointed out, there's a significant interest now in ADCs because of the potential that they could replace most of the chemotherapeutics in the future for most cancer types.
+Seagen, obviously, has a significant track record with 4 of the current approved ADCs from their laboratories. And as you've seen, 3 potential registration trials just read out and Padcev, Tukysa and -- sorry, with Padcev and with Tivdak -- but also with the small molecule Tukysa.
+And they recently started 2 Phase 3 studies. One was the tisotumab vedotin in with -- in combination with pembrolizumab in advanced metastatic HER2 positive or HER2 bladder cancer. This is a program that we're very excited about, already tisotumab to seek previously processed (inaudible) in the U.S. And they're also just about to start another Phase 3 program in non-small cell lung cancer, with the B6 -- integrin beta 6 antibody. So we remain very confident in their portfolio and the depth of expertise they're bringing to the development and discovery of ADCs.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [50]
+--------------------------------------------------------------------------------
+Thank you. And then Mikael?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [51]
+--------------------------------------------------------------------------------
+Yes, I think you asked about how could a new oral GLP in obesity be positioned for maximum attractiveness and using danu as one example, pending, of course, our excitement to see the data. Well, clearly, as obesity and type 2 diabetes with overweight are moving from being treated from endocrinologists and metabolic physicians increasingly now to primary care, particularly with impressive effects of this drug class on obesity in body weight, oral agents in general are preferred.
+So I think a once-a-day drug such as the new reformulated potential danuglipron would have an interesting role there. I think there is also a growing discussion among opinion leaders in the field that the patients regain weight when they stop injectables. And in general, they are only available for maybe a year. So an oral agent that could be taken for a longer period could also play a really interesting role to maintain body weight at the low level.
+And finally, you're absolutely right, the new data for this drug class suggests that patients could benefit from both cardiac and renal detection. And oral agents allow you to build combination with drugs that already used in this population such as to protect the heart, et cetera. So I think that's why there is such a big interest in drugs in this class. So thank you for the question.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [52]
+--------------------------------------------------------------------------------
+Thank you. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+Next, we have Tim Anderson with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Timothy Minton Anderson,  Wolfe Research, LLC - MD of Equity Research    [54]
+--------------------------------------------------------------------------------
+I have a couple of questions. On danuglipron, the early data set showed a QTC signal. Do you think that was a red herring that won't show up in later data? To me, when I just think about drug classes and seeing QTC signals, it seems like it often persists in later data sets.
+And then second question on mRNA flu. You mentioned that safety is the same as licensed vaccines. Does that mean tolerability was as well? I usually think of safety and tolerability as technically being different from each other.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [55]
+--------------------------------------------------------------------------------
+Very good. Thank you very much for the question. Mikael, both questions for you. QTC for danu and then tolerability on...
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [56]
+--------------------------------------------------------------------------------
+Yes, I mean we have, I think, more than 1,400 patients on danuglipron and it's a very safe drug, it's a very safe drug, and we look forward to the readout and efficacy as we have said before year-end. So that's very straightforward.
+mRNA flu, you had a very good comment. Particularly in initial studies, tolerability is really what we focus on. And tolerability was similar to standard of care available vaccines or the other mRNA vaccines experienced from Pfizer, and we haven't really had any concerns about safety. So on both tolerability and safety, the statement stands that it looks like previous versions of our vaccines.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [57]
+--------------------------------------------------------------------------------
+Thank you, Mikael, and let's go to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+Next, we have Chris Shibutani with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Chris Shibutani,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [59]
+--------------------------------------------------------------------------------
+Two questions, if I may. On the cost savings program, you've been outlining what the plan is for 2024. But if we look at the pattern of the spending for R&D and SI&A in the quarter you just reported, I would observe that the magnitude of reduction in the R&D spend was greater than expected relative to SI&A. How should we be interpreting those numbers? Is there anything to read across in terms of the relative amount of cost reductions coming from SI&A versus R&D on the forward?
+And then a question on Abrysvo. First quarter sales were solid. Can you just elaborate how much may have been attributable to, for instance, inventory stocking versus actual demand? And if we look at prescription data, it looks like from the retail setting, there's about 30% market share. Is this similar to what you're observing in the broader market? And how is this comparing with your expectations?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [60]
+--------------------------------------------------------------------------------
+Let me ask David to answer the question about R&D and SI&A expenses. And then Angela will take the Abrysvo.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [61]
+--------------------------------------------------------------------------------
+Yes. Chris, on the cost program, I would not read into the allocation of savings in '23 as it relates to '24. Obviously, we have a fairly robust program up and running today. We're working aggressively on those programs and beginning to implement those programs. As we cycle into 2024, we'll give you and the market some specific color on how to think about those cost savings as we wrap into next year.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [62]
+--------------------------------------------------------------------------------
+Okay. Angela?
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business    [63]
+--------------------------------------------------------------------------------
+Sure. So we are really pleased with our performance on Abrysvo. It has exceeded our expectations. You first asked whether this is all about stocking and I can say that it isn't. Of course, there were stocking effects in the beginning because this was a new vaccine, but we're also closely tracking vaccination rates and uptake. And what you see is that there is a very fast uptake.
+We were -- that really benefited from the fact that this was approved and in market prior to the vaccination season actually happening. So it was able to ride off of the coattails of flu vaccinations, which you know are very high, right, September, October. We have about a 70% co-administration rate. So these -- the performance we're seeing on Abrysvo is truly driven by vaccinations.
+To your comment about market share, yes, we are seeing a similar market share to what you have just said. That is because right now, the retail setting is driving a lot of the vaccinations. But don't forget, that, that's not where all vaccinations are taking place. We also have non-retail settings such as health systems, doctor's offices. Those are also being engaged and those particular settings, Pfizer actually has a leading preference. They are smaller in proportion but still, so I think we have to look at all channels of the market.
+Finally, I think that just from a momentum perspective, we expect things to continue. The vaccinations really are happening throughout this time now, October, November, December are big vaccination months. From where we are right now, RSV is only 5% of the entire vaccination rate of the eligible population. So I think that the conclusion is we're very early in the innings of this launch, doing better than we thought. But where we are going to be, I think, is a place where there's tremendous opportunity for driving uptake in older adults, but also maternal, which, as you know, we just got the approval for.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [64]
+--------------------------------------------------------------------------------
+Thank you. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+Next, we have Carter Gould with Barclays.
+
+--------------------------------------------------------------------------------
+Carter Lewis Gould,  Barclays Bank PLC, Research Division - Senior Analyst    [66]
+--------------------------------------------------------------------------------
+Maybe to go back to oral danu. When we do get the Phase 2 data, what should our expectation be around communicating plans for Phase 3, which I guess is just a quicker way of saying, what's a reasonable expectation for how quickly you could turn around the Phase 2 and start a Phase 3, and how much work Pfizer has already done on that front?
+And then maybe just coming out of ESMO, on the back of the EV-302 data and the response, would Pfizer say that reaffirms their expectations or represents upside to their expectations when the deal was originally announced?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [67]
+--------------------------------------------------------------------------------
+Thank you very much. On danu, let me take that so I can spare a little bit of Mikael's time. We are expecting the data to show up before the end of the year. And of course, it's an important event, so we will have to make it publicly known when we know the date. And of course, when we are ready with our Phase 3, we hope that the data are good so that we can move into Phase 3. And I hope that we are going to do it in an expedited manner because speed is of essence in this battle between competing molecules.
+But we will announce our plans for Phase 3. I know the interest is very high right now, but I won't be very prudent in not saying things without the data. The data are the key, and the data we haven't seen it yet. Now let me move to Chris so that we can discuss about the ESMO.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer    [68]
+--------------------------------------------------------------------------------
+Thank you for raising 301. These were truly monumental data for the field of bladder cancer and urothelial cancer. And as you pointed out, the overall survival and median progression free survival nearly doubled, moving median overall survival for this population now towards -- nearly towards 3 years. We expect the final number to be above, longer than 1.5 months. So this just reaffirms our beliefs that antibody drug conjugates could become a standard of care across the treatment paradigm for many, many different tumor types.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [69]
+--------------------------------------------------------------------------------
+Thank you very much. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+Next we have Akash Tewari with Jefferies.
+
+--------------------------------------------------------------------------------
+Siyue Wang,  Jefferies LLC, Research Division - Equity Associate    [71]
+--------------------------------------------------------------------------------
+This is Ivy on for Akash. Our question is also on danuglipron. So starting once-daily modified release version, is there any possibility to do a bridging study for QD formulation?
+And also for danu, I think as we've heard a lot of times on the call that the trial was marked as completed in October, I know you haven't seen the top line data. So at this point, are we waiting for data from this lower 4-week titration cohort? Also, would it be fair to say that you will have discontinued the program already if there were any clinically significant serious issues withstanding?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [72]
+--------------------------------------------------------------------------------
+Mikael?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [73]
+--------------------------------------------------------------------------------
+Yes. On the once-a-day reformulated danu, we have initially tested a standard swellable-core technology and could show that it worked very well with danu. And now to be able also to incorporate a more sophisticated technology, we worked on a matrix technology and all data suggests it's going to be a really intriguing alternative.
+Because, as you know, in diabetes for oral drugs in obesity, you will, over time, end up with incorporating different drugs to prevent different downstream effects. And that's the beautiful of having this type of novel technology, that you have a potential in the future to go to fix those combinations. And we are really masters in developing sophisticated formulations, and we will have this available in 2024. And there was a second part, I think. Or not? There was a -- okay.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [74]
+--------------------------------------------------------------------------------
+Let's move to the next question, please. Thank you, Akash (sic), for your question.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+Next, we have Kerry Holford with Berenberg.
+
+--------------------------------------------------------------------------------
+Kerry Ann Holford,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [76]
+--------------------------------------------------------------------------------
+Two questions on vaccines, please. Turning to RSV, in August, GSK filed a lawsuit against Pfizer alleging patent infringement. So I wonder if you could just talk to the next steps here, perhaps a time line that you anticipate for this. And should we think that this could ultimately result in some form of royalty payments from PFE to GSK?
+And then on Penbraya, how does the recent ACIP recommendation sit against your expectations for the sales ramp and peak potential for this vaccine? If the vaccine is effectively only used for dose 2 of 3, does that significantly reduce the commercial opportunity you had anticipated for the vaccine?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [77]
+--------------------------------------------------------------------------------
+Yes. Doug, can you please answer the question about this legal situation with GSK.
+
+--------------------------------------------------------------------------------
+Douglas M. Lankler,  Pfizer Inc. - Executive VP & General Counsel    [78]
+--------------------------------------------------------------------------------
+Yes. So it's very, very early stages with respect to the RSV litigation. We have patents. We feel strongly about our own intellectual property, and it's certainly too early to say whether one party or the other will be required to pay any royalties or otherwise, very early stages in that regard.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [79]
+--------------------------------------------------------------------------------
+Thank you. And Angela, about Penbraya and how do you feel about it?
+
+--------------------------------------------------------------------------------
+Angela Hwang,  Pfizer Inc. - Chief Commercial Officer & President of Global Biopharmaceuticals Business    [80]
+--------------------------------------------------------------------------------
+Sure. We continue to feel confident about the peak sales. The reason is that right now, we have the first set of recommendations. But ACIP has also told us that we will have the opportunity again to come back next year when we have additional data, which is when we'll have the opportunity to look at the schedule for how quads and these are being -- the schedule that they're being delivered today. And we'll have an opportunity again to take a look at the benefit of Penbraya in this population. So I feel like it's great that we have an opportunity to get out now and to begin vaccinating our teenagers. We'll have a second bite of the apple, which will allow us to achieve our peak sales.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [81]
+--------------------------------------------------------------------------------
+Thank you. Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+Next, we have Andrew Baum with Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc., Research Division - Global Head of Healthcare Research and MD    [83]
+--------------------------------------------------------------------------------
+Couple of questions. Would you comment on your stake in RVT-3101, the TL1A pending the approval of the licensing of the asset to Roche. Will you hang on to it? Or is that subject to divestment?
+And then second question for Chris. Just looking at the recent EV-302 data and with -- you seem to have the Seagen portfolio. When you think about the combination of ADCs with pembro or with a PD-1, do you believe the efficacy that you're seeing is associated with the hedging? Or do you think it's true synergy through (inaudible) or increased cell death?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [84]
+--------------------------------------------------------------------------------
+Aamir, do you want to speak a little bit about the Roche acquisition of TL1A?
+
+--------------------------------------------------------------------------------
+Aamir Malik,  Pfizer Inc. - Executive VP & Chief Business Innovation Officer    [85]
+--------------------------------------------------------------------------------
+Yes. So thanks for the question, Andrew. I think we're very pleased with the outcome of the TL1A program. When we created Televant, we did this as an R&D prioritization decision. Just as a reminder, this is a Phase 2 program that required significant Phase 3 investment. And so we held on to a 25% stake. We also had rights to royalties on U.S. sales as well as the full ex U.S. and ex Japan rights.
+And we did that all without any R&D spend. So Roche's proposed acquisition of Televant will give us access to about $1.75 billion of pretax cash, which is the translation of our stake. And we still retain all the other rights. So we're looking forward to having Roche as a partner. We're looking forward to the investments that they're going to make in advancing the clinical stage programs on TL1A and benefiting from the outcome of those.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [86]
+--------------------------------------------------------------------------------
+And Chris, about the synergies.
+
+--------------------------------------------------------------------------------
+Chris Boshoff,  Pfizer Inc. - Executive VP and Chief Oncology Research & Development Officer    [87]
+--------------------------------------------------------------------------------
+Yes. Thanks, Andrew. That's a very good question. As you know, Seagen pioneered the MMAE or statin-based payloads. And we see the potential synergy in combination with the PD-1 with ADCETRIS, with Tivdak and recently as you've seen with Padcev. Although Seagen does have the next generation of ADCs with topo 1 that will enter the clinic this year, next year, we don't know yet if the topo 1s are going to show similar types of immunogenicity as what appears to happen with the MMAE or auristatin-based payloads. So I think we're very confident that, that Seagen has both topa 1 as well auristatin-based payloads in case the topo 1s, we do not what appears to be the correct type of...
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [88]
+--------------------------------------------------------------------------------
+Thank you very much, Chris. And let's go to the last question, please.
+
+--------------------------------------------------------------------------------
+Operator    [89]
+--------------------------------------------------------------------------------
+Our last question comes from Evan Seigerman with BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Evan David Seigerman,  BMO Capital Markets Equity Research - MD & Senior BioPharma Research Analyst    [90]
+--------------------------------------------------------------------------------
+So I have one on danu and then a bigger picture one. So a point of clarification on danuglipron. Mikael, is the ultimate goal to develop the fixed dose combination with, say, an SGLT2 or other anti-diabetes drugs? You kind of mentioned that in your commentary. And taking a big step back, how should we think about how you risk adjusted your long-term revenue guidance? Do you plan on updating these figures so you have clinical or regulatory successes or failures for example, with the approval of etrasimod?
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [91]
+--------------------------------------------------------------------------------
+Mikael, can you please take the question?
+
+--------------------------------------------------------------------------------
+Mikael Dolsten,  Pfizer Inc. - Chief Scientific Officer and President of Research & Development    [92]
+--------------------------------------------------------------------------------
+Yes. I mean the near-term goal is really look at the data, we've said both Albert and myself. And pending review, of course, that's an option with a once-a-day danu to move forward in obesity in diabetes. I think we have commented that the upside with oral drugs, our main in this sector, and that's why it has been such a big interest and that includes fixed dose combination, which aren't available with injectable. But we will keep it simple and clear. We'll review the data and take a decision about potential in obesity and diabetes once-a-day danu. That's the near-term.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [93]
+--------------------------------------------------------------------------------
+Thank you very much. And also about your question, if we are going to change the $20 billion or the $25 billion that we have declared. First of all, the $25 billion is billions that we are going to acquire in 2030. According to our estimates, we have acquired -- pending Seagen acquisition, $20 billion so far. If you see the analyst expectations for these acquisitions, at the end of 2030 are very, very close to what we have right now.
+And I think there is -- this is trending very much. When you see internal pipeline of launches that we are having from our internal pipeline, which we declared at $20 billion, there is a gap between what we believe and what the analysts believe. And this is where we are focusing our attention. So right now, it's very early with the launches. Some of them are doing better than what we thought, some of them are doing worse than what we thought. And if we realize that the totality of $20 billion is not anymore what we think, of course, we will update.
+
+--------------------------------------------------------------------------------
+David M. Denton,  Pfizer Inc. - CFO & Executive VP    [94]
+--------------------------------------------------------------------------------
+But I think what is important to that is if you look at our business, our core business is performing nicely. We continue to make traction. We have obviously a lot of launches that we completed and still several ahead of us. We're excited about what Seagen could potentially bring to the company as we think about our focus now in oncology.
+And then importantly, I think we've rebaselined, if you will, the COVID franchise. Think about utilization in the back half of this year and cycle into next year, we will then take a step back and look at what would be prudent as we think about the revenue in totality of this company as we cycle into '24 and beyond. So I think look forward to, as we begin going into 2024, those expectations, laying those out specifically.
+
+--------------------------------------------------------------------------------
+Albert Bourla,  Pfizer Inc. - Chairman of the Board & CEO    [95]
+--------------------------------------------------------------------------------
+Okay. Thank you very much. So thank you. I would like just to say that if you walk away from today's call with just one take away, it should be that I think Pfizer's future remains bright. We have rebased our COVID expectations and now I think it's very easy for everyone to be able to model what I think will be stable COVID revenues going forward and with the recent -- particularly, the recent amended PAXLOVID supply agreement.
+And of course, we are having a very strong performance of our new in-line and new products, the portfolio, excluding COVID, has 10% growth this quarter. And that positions us to be able to have growth going forward. So I will now bring this call to an end. Thank you for joining us, and have a great rest of your day.
+
+--------------------------------------------------------------------------------
+Operator    [96]
+--------------------------------------------------------------------------------
+Thank you, ladies and gentlemen. This concludes today's Pfizer Third Quarter 2023 Earnings Conference Call. We appreciate your participation, and you may disconnect at any time. Thanks.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

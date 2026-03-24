@@ -1,0 +1,635 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2022 Southern Co Earnings Call
+APRIL 28, 2022 / 5:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Daniel S. Tucker
+   The Southern Company - Executive VP & CFO
+ * Scott Gammill
+   The Southern Company - Director of IR
+ * Thomas A. Fanning
+   The Southern Company - Chairman, President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Agnieszka Anna Storozynski
+   Seaport Research Partners - Research Analyst
+ * Paul Basch Michael Fremont
+   Mizuho Securities USA LLC, Research Division - MD of Americas Research
+ * Jeremy Bryan Tonet
+   JPMorgan Chase & Co, Research Division - Senior Analyst
+ * Michael Jay Lapides
+   Goldman Sachs Group, Inc., Research Division - VP
+ * Shahriar Pourreza
+   Guggenheim Securities, LLC, Research Division - MD and Head of North American Power
+ * Julien Patrick Dumoulin-Smith
+   BofA Securities, Research Division - Director and Head of the US Power, Utilities & Alternative Energy Equity Research
+ * Nicholas Joseph Campanella
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Srinjoy Banerjee
+   Barclays Bank PLC, Research Division - Research Analyst
+ * Steven Isaac Fleishman
+   Wolfe Research, LLC - MD & Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good afternoon. My name is Kelly, and I will be your conference operator today. At this time, I would like to welcome everyone to The Southern Company First Quarter 2022 Earnings Call. (Operator Instructions) 
+I would now like to turn the conference over to Mr. Scott Gammill, Investor Relations Director. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Scott Gammill,  The Southern Company - Director of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, Kelly. Good afternoon, and welcome to Southern Company's First Quarter 2022 Earnings Call. Joining me today are Tom Fanning, Chairman, President and Chief Executive Officer of Southern Company; and Dan Tucker, Chief Financial Officer.
+Let me remind you, we'll be making forward-looking statements today in addition to providing historical information. Various important factors could cause actual results to differ materially from those indicated in the forward-looking statements, including those discussed in our Form 10-K, Form 10-Qs and subsequent filings. 
+In addition, we will present non-GAAP financial information on this call. Reconciliations to the applicable GAAP measure are included in the financial information we released this morning as well as the slides for this conference call, which are both available on our Investor Relations website at investor.southerncompany.com. 
+At this time, I'll turn the call over to Tom Fanning.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Scott. Good afternoon, and thank you for joining us today. As you can see from the materials we released this morning, we've reported strong adjusted earnings results for the first quarter ahead of our estimates. The economies within our Southeast service territories are among the best in the United States, and we believe we are well positioned to achieve our financial objectives for 2022.
+Before turning the call over to Dan for a more detailed look at our financial performance, I will first provide an update on recent progress at Plant Vogtle units 3 and 4. Importantly, the projected completion timeline and capital cost forecast for both units are unchanged from the updates that we provided last quarter. Since that time, we've seen sustained progress consistent with our expectations for each unit. 
+The NRC completed its follow-up inspection last week and issued its final supplemental report. The inspection verified that Southern Nuclear effectively implemented the corrective actions and remediation efforts at the site. No additional findings were identified during the follow-up inspection and the findings identified last year have been closed. With this step complete, the Vogtle site returns to the baseline inspection program.
+Let's focus now on Unit 3. We continue to progress towards receipt of the NRC's 103G letter. All necessary systems have been turned over from construction to testing, and nearly all the inspection records necessary for submission of the remaining ITAAC are now complete. Associated with this progress, 70 ITAAC were submitted to the NRC since our last earnings call and 53 ITAAC remain. Of these remaining ITAAC, the last 30 to 40 are expected to be completed just prior to submitting the all ITAAC complete letter to the NRC in support of the 103G letter. Considering our progress over the last 2 months, we have provided an updated ITAAC completion schedule. 
+Following receipt of the 103G letter from the NRC and as Unit 3 continues its transformation from construction to operations, our efforts will be focused on completing the remaining inspection records, system turnovers and the necessary preoperational and component test required to load fuel later this year.
+Turning to Unit 4. Direct construction is now approximately 94% complete. Unit 4 continues to make progress in advance of cold hydro testing and hot functional testing. We believe we have the resources we need on site for Unit 4 and have a clear plan for transitioning additional personnel from Unit 3 as we continue our focus on increasing productivity and ensuring first-time quality. Overall, construction completion has averaged 0.9% per month since the start of the year, supportive of a September 2023 in-service and ahead of the 0.4% average projected to be needed through the year-end to achieve a December 2023 in-service dates. For electrical production specifically, progress on the Unit 4 is meeting our current expectations. However, electrical production will need to increase to support our projected in-service dates. 
+The schedule changes announced last year required Vogtle 3 and 4 owners to affirmatively vote to proceed with the project, which, in late February, they unanimously voted to do. This decision underscores the importance of the 2,200 megawatts of baseload carbon-free energy, which will be vital to increasing the availability of net-0 resources for customers across the state. We value our partners on Vogtle 3 and 4 and the relationships that we have had with them across multiple endeavors for decades. We look forward to our continued partnership as we work to bring Vogtle units 3 and 4 safely online, providing Georgia with a reliable, carbon-free energy resource for the next 60 to 80 years. 
+We are pleased with the progress at the site over the past few months and incredibly proud of the entire team at Vogtle units 3 and 4 for their relentless commitment to completing this important project safely and with the utmost quality. 
+Dan, I'll now turn the call over to you.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Thanks, Tom, and good afternoon, everyone. As Tom mentioned, we had a very strong start to the year. Our adjusted EPS for the first quarter of 2022 was $0.97, $0.01 lower than last year and $0.07 above our estimate. The primary driver for the variance to last year was higher nonfuel O&M, which reflects a trend towards more normal operating conditions relative to significantly reduced levels during the first quarter of 2021, and then largely offset by constructive state regulatory actions and robust customer growth at our state-regulated utilities. 
+When looking at adjusted EPS compared to our estimate for the quarter, the main drivers were continued strong customer growth and cost control. A detailed reconciliation of our reported and adjusted quarterly results as compared to 2021 is included in today's release and earnings package. 
+Turning now to retail sales in the economy. In the first quarter, weather-normal retail sales were approximately 1% higher than first quarter 2021. This increase reflects stronger commercial and industrial sales from the continued economic recovery in our service territories, somewhat offset by lower residential sales as schools and businesses continued to transition from remote environments to hybrid or in-person modes throughout the quarter. 
+We also continue to see robust customer growth with the addition of nearly 11,000 residential electric customers and over 7,000 residential gas customers during the quarter. This level of customer growth is driven by a strong labor market recovery and our Southeast service territories are expected to reach pre-pandemic levels of employment later this year. 
+Additionally, the Port of Savannah, which is the fourth largest port in the nation and a major contributor to jobs and economic growth in Georgia, experienced a 3% year-over-year increase in container volumes in the first quarter of 2022, ahead of 2021's record pace as elevated U.S. consumer demand continues to drive record cargo levels. Recent figures from the Georgia Port Authority also signaled that congestion is easing with only a handful of ships currently at anchor outside of the Port of Savannah, down from a peak of around 30 in mid-September of last year. Additionally, the recent approval of the Garden City Terminal West expansion is expected to increase the Port of Savannah's annual capacity by more than 15% by the end of 2024. 
+The economic development pipeline in our service territories remains robust. In the first quarter of 2022 compared to the first quarter last year, economic development announcements in our regulated electric service territory saw a 168% increase in payroll additions and a 66% increase in business investment, respectively. The first quarter closed with 230 active projects in the pipeline for the State of Georgia alone, which is well above historical averages; and new job additions in Georgia exceeded 7,000, an all-time high for the first quarter of the year. We remain encouraged by the economic trends that we are seeing as we continue to monitor the implications of supply chain constraints, labor force participation and inflationary pressures on our outlook. 
+I have 2 final topics before turning the call back over to Tom. First, for the second quarter, our adjusted EPS estimate is $0.80 per share; and second, I'd like to highlight our recent dividend increase announcement. Earlier this month, The Southern Company Board of Directors approved an $0.08 per share increase in our common dividend, raising our annualized rate to $2.72 per share. This action marks the 21st consecutive annual increase and for 3 quarters of the century dating back to 1948, Southern Company has paid a dividend that was equal to or greater than the previous year. This remarkable track record reinforces Southern Company as a premier sustainable investment. 
+And as we mentioned on our last call, we believe once Vogtle 3 and 4 are completed, our Board will have the opportunity to consider accelerating the rate of dividend growth, further supporting our objective of providing superior risk-adjusted total shareholder return to investors. 
+Tom, I'll now turn the call back over to you.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+Thanks, Dan. Sustainability has always been a top priority for Southern Company. In recent years, our plans and progress have received heightened interest from our investors, customers, communities, employees and other stakeholders. We have a long, strong history of constructive engagement with all stakeholders and we are excited about the recent release of a dedicated sustainability website, which provides additional transparency on core environmental, social and governance topics. This new site highlights the tremendous work underway across our company to help us reach our sustainability and business objectives as we seek to build the future of energy. 
+Additionally, just this week, we published a report outlining our just transition principles and look to continue enhancing our disclosures. We know that stakeholders are increasingly interested in information related to our sustainability efforts, and we remain committed to open and transparent communication. 
+In closing, I'd like to take a moment to recognize the great job that employees throughout Southern Company do each and every day. National Lineman Appreciation Day, which was observed this month, specifically recognizes the important contribution of line workers and those supporting them to our country. From extreme heat to bitter cold to answering the call of those that need thousands of miles away for days and weeks at a time, the hard work and unwavering dedication that these men and women display day in and day out is truly inspirational.
+Moreover, last month, the Edison Electric Institute and the International Brotherhood of Electrical Workers presented the prestigious Edwin D. Hill Award to Alabama Power and the IBEW System Council U-19. Through the National Utility Industry Training Fund and the Electrical Training Alliance, Alabama Power and the IBEW are providing current and prospective employees with the appropriate training necessary to install and maintain the fiber infrastructure that enables grid automation and resiliency and improves community access to broadband. It is an honor to receive this award, and we remain committed to continued support and investment in our workforce to ensure that our employees have the skills and training needed to successfully meet the ever-evolving needs of the customers that we have the privilege to serve. 
+Thank you in joining us this afternoon. Operator, we are now ready to take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question comes from Shahriar Pourreza with Guggenheim Partners.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [2]
+--------------------------------------------------------------------------------
+Shar, are you there? Are you on mute? If you do, you owe us $20. Operator, I don't hear Shar. You want to go to the next question?
+
+--------------------------------------------------------------------------------
+Operator    [3]
+--------------------------------------------------------------------------------
+Our next question comes from Julien Dumoulin-Smith from Bank of America.
+
+--------------------------------------------------------------------------------
+Julien Patrick Dumoulin-Smith,  BofA Securities, Research Division - Director and Head of the US Power, Utilities & Alternative Energy Equity Research    [4]
+--------------------------------------------------------------------------------
+So just on Unit 4, I just wanted to talk a little bit about productivity here. How is that trending versus historical and your own expectations? And then more specifically, if you can, just given all the comments about inflation and specifically the labor environment, what exactly are you seeing there? And just both on the availability like literally being related to people and then probably more relevant is the cost of those individuals?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+Yes. I think simply, Dan can fill in some blanks here. But Unit 4 remains on track with our expectations. We are consistent with our expected timeframes and budgets. All good in that regard. I think we gave you the data that suggests that the 0.9% kind of average monthly increase in construction is consistent with a September timeframe and is in advance of better than the 0.4% that we need to hit the year-end. So that's your 3- to 6-month stuff. 
+Importantly, as we said in the script, I just want to make sure you know, all of our production for Unit 4 is consistent with our expectations. We are moving people from 3 to 4. And so we expect their productivity and their production to increase over time. So consistent with our estimates we need to increase. We have plans to move people over to effectuate that increase. With respect to the inflation in pay, we frankly went over that here getting ready for this call. We believe we're still top decile pay for the Southeast, and we feel like most of that risk is behind us. 
+Dan, do you want to add anything else?
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+Julien, the only thing I'd add -- you hit on this briefly, but we do have a very detailed plan for transitioning, particularly the electric craft from Unit 3 to Unit 4 as we go through this process. And then as you'd expect us to do, we're certainly applying every lesson learned from Unit 3 to Unit 4, and that will also factor into our ability to increase productivity.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [7]
+--------------------------------------------------------------------------------
+One last point there. Attrition is at normal levels. So it's progressing as we expected.
+
+--------------------------------------------------------------------------------
+Julien Patrick Dumoulin-Smith,  BofA Securities, Research Division - Director and Head of the US Power, Utilities & Alternative Energy Equity Research    [8]
+--------------------------------------------------------------------------------
+Excellent. And then just if you can comment here on the tender timeline with the co-owners, that looks like it's coming up here in mid-June and mid-August. How should we think about the timing for resolution of the disagreements around the baseline costs, COVID costs, before that window opens in the middle? How will that resolution be communicated? And what are your expectations today?
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [9]
+--------------------------------------------------------------------------------
+Julien, I don't want to dive too deep into this. That's a conversation that frankly just needs to take place in the right form with us and our co-owners. As Tom mentioned in our prepared remarks, these are partners that go back with us decades and we have a track record of resolving any sort of disagreements constructively. We'll let this play out over the course of the year. The timeline you referenced it was a 120- to 180-day clock that started back in March just to kind of formalize that. That's certainly a backdrop to these discussions. But let's let that play out on its own throughout the rest of the year.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [10]
+--------------------------------------------------------------------------------
+Yes. And you should know that this is not a discrete kind of engagement we have with our co-owners. I was with them last week at the site. You should view us as having a real-time conversation here. Anything else, Julien?
+
+--------------------------------------------------------------------------------
+Julien Patrick Dumoulin-Smith,  BofA Securities, Research Division - Director and Head of the US Power, Utilities & Alternative Energy Equity Research    [11]
+--------------------------------------------------------------------------------
+I got more, but I'll let other folks jump in here.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [12]
+--------------------------------------------------------------------------------
+All right. Feel free to jump back in, if you like.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+Our next question comes from Steve Fleishman with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [14]
+--------------------------------------------------------------------------------
+Let me -- before you get to your call, I just want to complement you on your call to action here. I thought that was really well done. Good job. I'll share that with our folks as well.
+
+--------------------------------------------------------------------------------
+Steven Isaac Fleishman,  Wolfe Research, LLC - MD & Senior Analyst    [15]
+--------------------------------------------------------------------------------
+So now that you brought that up, I'm curious if anybody is actually -- if you're hearing anything out of D.C. that would suggest that anybody actually might listen and act on, I guess, BBB, slim down or other, just energy policy.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [16]
+--------------------------------------------------------------------------------
+Well, I'm sure you didn't see my little comment on Squat Box this morning. But I think one of the headlines out of the media was essentially unleashing -- let me just make sure I get it here. The United States needs to unleash the American energy economy. We have been having conversations with people like Gene McCarthy and Secretary of Energy, Jennifer Granholm and others. Listen, this is a constant conversation. Senator Manchin, I think, has lots of good ideas. I think the challenge that we see in D.C. right now is essentially deal physics. How do we get the right number of people to agree on the right number of issues and get it done in a timeframe? That is enough in advance of the November elections to be constructive. Listen, I think people get the issue and Steve, now more than ever. When we see Russia weaponized its energy policy, it's time for the United States to take action.
+
+--------------------------------------------------------------------------------
+Steven Isaac Fleishman,  Wolfe Research, LLC - MD & Senior Analyst    [17]
+--------------------------------------------------------------------------------
+Okay. I hope they do. So second question, just maybe related, you're one of the companies that still has a pretty good mix of gas, still some coal, renewables, nuclear and just -- I know you have that data set that you put in your slide deck on just showing the mix and you had pretty consistent metrics a little more renewables, even though gas has moved up a lot in price. So maybe you could just give some color on just why not seeing more switching away from gas? (inaudible) receive more coal.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [18]
+--------------------------------------------------------------------------------
+Yes. This may be -- I don't know the full data set for our industry. But we've always had this constructive relationship with our state regulators. And a long time ago, we put in a place -- put in place hedging programs. And so in effect, I'm going to say about -- and Dan correct me, about 30% of our natural gas consumption was hedged at about $3 per million Btu. So when you think about the dispatch curves, they're probably better than what you might have expected because of that hedging program. And of course, as we pointed out, lots of times over decades, all of these benefits accrue to our customers. We make no profit percentage off of any of this. 
+Dan, anything else?
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Yes, a couple of things. So one thing that is occurring, Steve, is we are being a little conservative might be the right word in terms of looking towards our peak season in the summer in our electric business and just making sure that we're holding on to enough coal there as well. So there are times when we're we might have otherwise switched the coal but because we're looking ahead. And what's behind that, and I think you may have touched on a little bit of this in your report, transportation of energy is one of the things that is certainly a hot topic. And frankly, we don't have enough of. People talk a lot about natural gas pipes on coal, it's obviously with the rails. And with the kind of lack of available personnel and other things, rails are having to reprioritize their own train sets and personnel and frankly, coal is not at the top of their list right now. And so we're just having to be thoughtful about how we do that.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [20]
+--------------------------------------------------------------------------------
+The good news there is that the flagship, if you will, of our coal units is Plant Miller in Alabama. It is the cheapest best-controlled plant. It has plenty of coal for the summer. So that one is in good shape. The other thing that I just want to make sure to people here loud and clear. In no way does this negatively impact our long-term objective of achieving net-0 by 2050. You have to understand that long-term strategy should be robust and be able to manage the exogenous factors that change our plan day-to-day. Mike Tyson, "you have a plan until you get hit in the face and then what happens." Certainly, the tactics will vary depending upon what's happening in the worldwide energy market. But our long-term strategy remains intact.
+
+--------------------------------------------------------------------------------
+Steven Isaac Fleishman,  Wolfe Research, LLC - MD & Senior Analyst    [21]
+--------------------------------------------------------------------------------
+Great. One last question separately on Vogtle. And so when you made the update at year-end to the schedules, it mainly seem to be related to the paperwork issues with the electrical contracting, which seems to be kind of getting resolved. So other than that issue, is there anything else that we should be most focused on in terms of getting to the goal line of fuel load?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [22]
+--------------------------------------------------------------------------------
+Yes, you bet. So if you -- if I could change your question, but it's a similar question. What am I most worried about right now on Vogtle 3 in particular? I would say that the ITAAC situation looks pretty manageable if you just do the math that we gave you, 53 remaining ITAAC and you think about needing 30 to 40 to finish, that effort that will occur in a fairly lumpy fashion right as we file the request for the 103G letter. It looks pretty manageable. And so my sense is the ITAAC situation getting to 103G always hard. We take nothing for granted. Certainly, there's a variable in time and how we're going to do those things. But I think that looks like it's in pretty good shape. 
+I am more worried now about the work that has to happen between today and fuel load. Now that covers a lot of different things they're not nearly as kind of nuclear safety related as the 103G obviously are. But it would include things like -- and I'm just giving you example, but the fuel transfer system, aligning the electric buses throughout the plant, general demobilization efforts, things like removing temporary lighting and putting in permanent lighting, removing scaffolding, closing the rooms, cleaning them and closing them, getting ready for a pristine operating condition. So that's a lot of stuff that still has to happen. 
+There's, I think, a few system turnovers for that. I think 2 left. There's just more work to be done. I think that is more of the critical path right now than probably 103G. And then the next thing that I would say I worry about will be from fuel load to operation, just thinking about fully operating the kind of follow-on steam cycle and making sure that the digital controls are integrated together as well as they can be. Those are the big things in my mind right now. 
+Dan, do you want to say something?
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [23]
+--------------------------------------------------------------------------------
+Yes. I think it's important to understand, as you hear Tom describe what's necessary to get the fuel loads and the things we're focused on there, that is largely concurrent work with the work we're doing to get to 103G. It's not sequential. It's not get to one first and then to the other. We're doing those things on parallel paths.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [24]
+--------------------------------------------------------------------------------
+Yes. And that's what I tried to be pointing and say now to fuel load. And the other thing that we have done, we brought a guy to the site, Pete Sena, who is our Chief Nuclear Officer, he runs our fleet. And so we've added another senior member to the team as we think about moving from a construction environment to an operating environment.
+
+--------------------------------------------------------------------------------
+Steven Isaac Fleishman,  Wolfe Research, LLC - MD & Senior Analyst    [25]
+--------------------------------------------------------------------------------
+Great. I remember him from TSENG.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [26]
+--------------------------------------------------------------------------------
+Thanks, Steve. He is terrific.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Our next question comes from Angie Storozynski with Seaport Global.
+
+--------------------------------------------------------------------------------
+Agnieszka Anna Storozynski,  Seaport Research Partners - Research Analyst    [28]
+--------------------------------------------------------------------------------
+So I'm just wondering if you could give us any sense of what to expect from the upcoming rate case in Georgia and also how this new commodity price environment might have changed the perception of your nuclear plant under construction, both for the regulators, politicians in Georgia and the co-owners of the project?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [29]
+--------------------------------------------------------------------------------
+Yes, Angie, you know, having followed us for many years, that we're not going to get in front of anything to do with the regulator. So we'll make our filing and when we make our filing right at the end of June, we'll certainly reveal all of the issues, I think, in the rate case. So I think it's fair to say, though, that the issues in the triennial rate cases as they have been in past really since, gosh, I don't know, boy, what was it about -- 1995, I think is when we first filed our triennial rate cases. Especially in this case, it will cover issues separate from Vogtle.
+And so I think they are more of what I would call meat and potato issues about how system is running. And I would say we've always been treated fairly. We have a constructive relationship. And whenever there's a sticky issue that arises, we work it out. I think you should just expect that same kind of process to continue.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [30]
+--------------------------------------------------------------------------------
+Yes. I would think about it, to a large extent, a lot of the capital items, in particular, are a continuation of programs introduced in the 2019 rate case, things like grid investment and Ash Pond programs. So you'll see those carried forward just updated.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [31]
+--------------------------------------------------------------------------------
+Yes, but you won't expect any curve policy here. This is normal stuff for us.
+
+--------------------------------------------------------------------------------
+Agnieszka Anna Storozynski,  Seaport Research Partners - Research Analyst    [32]
+--------------------------------------------------------------------------------
+Okay. And then on the appeal of Vogtle now that's -- there's this global recognition that there has to be more of a diversification of power sources and that gas might not be the answer for everything.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [33]
+--------------------------------------------------------------------------------
+Absolutely. Angie, look, when you think about the energy dispatch price of Vogtle, it's going to be at about $1 per million Btu as compared to, say, a $7 dispatch price or even higher potentially of the gas fleet. Look, this thing from a dispatch standpoint is going to look like a champion. And by the way, it's carbon-free. And by the way, it's going to be probably the most reliable and safest plant. I don't want to be hyperbolic here, but it's going to be a really good asset for this state, for the Southeast and for the nation. Look, I think we are all feeling very good about its positioning in the future transition of the fleet for the Southeast.
+
+--------------------------------------------------------------------------------
+Agnieszka Anna Storozynski,  Seaport Research Partners - Research Analyst    [34]
+--------------------------------------------------------------------------------
+Okay. And then just 1 last question. I saw some comments in your 10-K about it, but can you talk about the sourcing of uranium and nuclear -- well, nuclear fuel in general, so processing enrichment and how it's dependent or not dependent on any director or indirect sourcing from Russia?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [35]
+--------------------------------------------------------------------------------
+Well, you answered your own question. I think our -- we moved away from Russia as a system some time ago. And we're so glad we did. We have no exposure to Russia.
+
+--------------------------------------------------------------------------------
+Agnieszka Anna Storozynski,  Seaport Research Partners - Research Analyst    [36]
+--------------------------------------------------------------------------------
+Not even through like indirect exposure to 10x?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [37]
+--------------------------------------------------------------------------------
+No, not -- no. I've pushed on that question with our folks many times now. And we think we're well insulated from any Russia problems.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Our next question comes from Shahriar Pourreza with Guggenheim Partners.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [39]
+--------------------------------------------------------------------------------
+Shar, you are back.
+
+--------------------------------------------------------------------------------
+Shahriar Pourreza,  Guggenheim Securities, LLC, Research Division - MD and Head of North American Power    [40]
+--------------------------------------------------------------------------------
+I am sorry about that. I got all excited that I hung up. My apologies.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [41]
+--------------------------------------------------------------------------------
+Not nearly as excited as we are.
+
+--------------------------------------------------------------------------------
+Shahriar Pourreza,  Guggenheim Securities, LLC, Research Division - MD and Head of North American Power    [42]
+--------------------------------------------------------------------------------
+There you go. There you go. Thanks for getting me back on. So Tom, I am just curious, when you're looking at the Georgia IRP, there's obviously a fairly healthy mix between gas, solar and storage. And essentially, all the coal has gone besides the plant. We're supposed to get a PD with the circumvention tariffs, I think, in August and it goes through a period of rule making, which is about a month after the PSC decision with the IRP. So I guess, how are conversations going with stakeholders in light of this tail risk, which could cause some pricing uncertainty for some time? I mean, could we see the IRP maybe shift out pending visibility with the circumvention tariffs, investigations?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [43]
+--------------------------------------------------------------------------------
+That's a fascinating question. The IRP is on its own schedule, and I think it's supposed to be resolved somewhere in July-August timeframe. I have not heard anything. This recent news about the circumvention investigation is really interesting. And I know some of my peers have had a lot to say about it. My only comment on that, Shar, is given a lot of my experience in national security issues, it's my firm belief that if somebody is circumventing tariffs illegally that they should be held to account. The United States needs to protect itself from an economic standpoint in this global economy. So let the investigation run and let's see what happens. I think here, again, it's a conversation between tactics and strategy. In the Southeast, it is clear to me that solar is a dominant renewable strategy in the long run despite any perturbation that we may see from this investigation. I think we stay the course there.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [44]
+--------------------------------------------------------------------------------
+Yes. And Shar, you asked the question in the context of the current IRP. I wouldn't overlay anything into this one. The nature of the IRP process in Georgia is very long dated. It's really if you go back to the 2019 IRP, there are RFPs being executed today. And there are -- as a matter of fact, last week brought forward to the Georgia Commission was seeking approval to defer some of the PPAs in the last IRP out a year, and that was approved. And it's tied in to not directly to the circumvention issue, but the general supply chain constraints in the solar space.
+
+--------------------------------------------------------------------------------
+Shahriar Pourreza,  Guggenheim Securities, LLC, Research Division - MD and Head of North American Power    [45]
+--------------------------------------------------------------------------------
+Got it. Got it. And then obviously, there's -- we're still waiting for the Alabama IRP as well. But you put the Georgia opportunities plus Alabama and Southern Power. It's a lot of capital that we're going to be potentially thinking about even post Vogtle generating an electron and the cash flows that come with that. Tom, maybe just highlight how you're sort of thinking about financing that incremental CapEx that can come from the IRPs and opportunities with Southern Power? You already kind of optimized an asset. But I guess, I'm curious as we're thinking about the next leg of CapEx especially post Vogtle, how you're thinking about sort of the regional footprint, the mix? Is there opportunities beyond just straight equity or equity-like instruments?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [46]
+--------------------------------------------------------------------------------
+Well, so let's first baseline what is CapEx? I feel like I'm on Jeopardy here all of a sudden. But I guess our official 5-year budget assumes $41 billion round numbers. I personally think it's higher than that because I think Dan, you demonstrated this in the last call, we typically understate our forward capital requirement because we're conservative by nature because we don't account for anything in our budget that we don't know about. In other words, we don't do placeholders. When I think about what that number may be, I could easily see something like $45 billion. Who knows, $9 billion a year round numbers.
+And some of that may come from new generation or things that may start to occur in the kind of late 20s that may start showing up maybe '25, maybe '26 timeframe. So those would be the years that I would think you would see additional capital. I'll let Dan argue with me here, but I don't see the need to issue any equity during this timeframe.
+Last point I will make. You have seen -- in the world of M&A, you have seen us not only do acquisitions, we also do divestitures and asset sales. It is important for us to always put our assets in the hands of the best owner. If that means we create -- if we do that well, we create the maximum amount of value to shareholders. If we see opportunities in the future to do stuff like that, we will do it, buying and selling, but we have no plans at present.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [47]
+--------------------------------------------------------------------------------
+I have no argument with anything Tom said. I would just reiterate, we don't foresee any equity needs at the top of your outlook, even with the upside on the tailwind.
+
+--------------------------------------------------------------------------------
+Shahriar Pourreza,  Guggenheim Securities, LLC, Research Division - MD and Head of North American Power    [48]
+--------------------------------------------------------------------------------
+Perfect. Congrats on the execution. Sorry about that technical glitch earlier.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+Our next question comes from Michael Lapides with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Michael Jay Lapides,  Goldman Sachs Group, Inc., Research Division - VP    [50]
+--------------------------------------------------------------------------------
+Tom, this one is more of a macro one. It's an industry one. It's probably even a heck of a lot bigger than just our industry here. Given all that's going on in the world, given some of the stuff that came out a few months ago regarding a nuclear plant in Kansas, just curious how you and how industry leadership and how the Board thinks about cybersecurity and managing and investing around the cybersecurity risk that exists today?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [51]
+--------------------------------------------------------------------------------
+Well, we think is enormous, and we are so lucky to have people on our Board that are well steeped in it. I mean we have former Secretary of Energy, Ernie Moniz; we have Dale Klein, former Chairman of the NRC; Kristine Svinicki, former Chairman of the NRC. All these people have classification status to be able to play in this information in an unfiltered way. You all obviously know my role. I've led the utility industry for 8 years and turn that over to my good friend at Berkshire Hathaway, Bill Fehrman, and now I chair the CISA Advisory Board.
+Listen, this is an enormous issue. I was the only CEO private citizen on the Cyberspace Solarium Commission. As I walk the halls of Congress, which I do as frequently as anybody, I guess, it's clear to me that there is bipartisan recognition of the importance of this issue and what we need to do about it. Unfortunately, there was no playbook. When the Cyberspace Solarium Commission came out with its report, I think it's been universally adopted in Congress. Of course, not every chapter was agreed to, but 70% of that commission's recommendations are now in law. And I'm so glad now that I get to help in operationalizing primarily now with CISA and elsewhere with our own industry. But making this stuff come to fruition.
+The United States is making enormous strides and making ourselves safer. We will only do that as we reimagine the role of the private sector in preserving our national security. I think we're making terrific progress with that. And I want to give 2 shout-outs. First one is Jen Easterly, she's the Director of CISA. She does just a terrific job operationalizing the nation's cybersecurity agency. And then our National Cyber Director in the White House, Chris Inglis, just a brilliant guy in my wandering around before the Solarium Commission became to fruition, he and I got together, and I found a real thought partner in how to advance the nation.
+Look, we have talent on our Board. We have talent inside the company. And I think the nation is operationalizing a real plan to make our national security better than it ever has been. A whole lot more to go, but man o man, as a nation we're better off than we were 5 years ago.
+
+--------------------------------------------------------------------------------
+Michael Jay Lapides,  Goldman Sachs Group, Inc., Research Division - VP    [52]
+--------------------------------------------------------------------------------
+Got it. And then a regulatory question, Tom, and thank you for that insight because over time, that's probably going to be -- I can almost guarantee it's going to be an issue that's discussed more and more frequently as generations past. I got a regulatory question. I'm trying to think about the bill and the changes in the bill in Georgia. So you'll file the GRC in the next couple of months, new rates probably early next year. And then a few months after that, the Vogtle Unit 3, if it goes in service as planned, those rates will kick in. And then fast forward to the fall of '23 beginning of '24 timeframe, the Unit 4 rates will kick in. Am I thinking about that right as kind of a progression of events of changes to the customer bill, irrespective to any changes in the fuel cost?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [53]
+--------------------------------------------------------------------------------
+Yes. I'm going to let Dan hit kind of the specifics of that, but let me just say too. We still are committed to bringing the Vogtle units in at or cheaper than what was originally discussed when we received the order on those units. So I think we're still in at less than 10%, which is a big deal.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [54]
+--------------------------------------------------------------------------------
+Yes. Michael, you described the cadence of those increases exactly correct.
+
+--------------------------------------------------------------------------------
+Michael Jay Lapides,  Goldman Sachs Group, Inc., Research Division - VP    [55]
+--------------------------------------------------------------------------------
+Got it. Okay. And then finally, can you just remind us the changes in the fuel cost? I'm just trying to think about the -- what's happening in the customer bill. How do you look at what's going on across the Southern companies, meaning Georgia, Alabama, et cetera. What's happening in the customer bill relative to what you're seeing elsewhere in the country?
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [56]
+--------------------------------------------------------------------------------
+Look, first of all, we're starting from a great spot. I mean overall, our rates relative to the national average bounce around anywhere from 10% to 15% below national averages. So we're starting from a good place. We've got incredibly constructive mechanisms that help not only capture what's coming, so it's all forward-looking mechanisms that are also very kind of -- the cadence of them is thought out very well.
+
+--------------------------------------------------------------------------------
+Michael Jay Lapides,  Goldman Sachs Group, Inc., Research Division - VP    [57]
+--------------------------------------------------------------------------------
+No, go ahead, I didn't mean to cut you off, sorry.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [58]
+--------------------------------------------------------------------------------
+That's right. I was just going to say more broadly. Look, we are working every day internally to keep cost down. And we've got coal plant retirements coming up that will help keep O&M down and customer bills down. We're working to be more efficient in lots of different ways, turning capital into O&M savings, whether that's enterprise systems or whether that's the things we're doing the grid investment plans. And so it's not 1 or 2 things. It's being very comprehensive in how we approach not only operations, our regulatory plan.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [59]
+--------------------------------------------------------------------------------
+Let me also just weigh in on the market structure issue. I know there are some with parochial interest in my opinion, that are arguing for increased deregulation disaggregating the make move in sales structure that we find integrated in the Southeast to be so valuable. When you think about winter storm Uri, when you think about resilience, value is a function of risk and return, I'm afraid some of these so-called organized markets have structured around preserving somehow the lowest price. Well, yes, they get low prices from time to time, but they also get a tremendous amount of volatility and no regard for reliability and resilience.
+In the Southeast in our integrated regulated market, there was 1 throat to choke, and it is ours. Make move or sell, we are accountable to the commission and the customers and the markets we serve. In our opinion, advancing to net-0, providing resilience, providing the lowest price to customers irrespective of where commodity prices go, Recall, we don't have a profit motive in rising and falling energy prices. We pass those along to customers at cost. This is the right market structure to pursue. And anybody that says different is misguided.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+Our next question comes from Jeremy Tonet with JPMorgan.
+
+--------------------------------------------------------------------------------
+Jeremy Bryan Tonet,  JPMorgan Chase & Co, Research Division - Senior Analyst    [61]
+--------------------------------------------------------------------------------
+Just wanted to go back to Vogtle, real quick, if I could, and maybe better understand the ITAAC. A lot was completed in the last few months. And I just want to better see, I guess, what the drivers were, with the cadence where it's less in May and then kind of steps up into July, as you said a lot right before the end. Is there like a degree of difficulty difference in these versus the others? Or just any other drivers, I guess, for the lumpiness and the outlook there?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [62]
+--------------------------------------------------------------------------------
+No, it's really the nature of the work to perform. And I wouldn't say it's difficulty per se. It certainly has different time requirements. And like I say, the lumpiness is driven by the systems that will be completed right before we ask for the 103G letter. If I had to characterize those, I would say, of the 30 to 40, roughly half of that deals with our final electrical work, a 1/4 of it deals with ventilation systems and 1/4 of it deals with, as you would expect, the final primary controls and monitoring systems. Once you finish that work, then you file your letter. It's just that as you do that work, it's just a big slug of ITAAC that go out with it. Again, it's not a matter of degree of difficulty. It's more a matter of timing.
+
+--------------------------------------------------------------------------------
+Jeremy Bryan Tonet,  JPMorgan Chase & Co, Research Division - Senior Analyst    [63]
+--------------------------------------------------------------------------------
+Got it. That's helpful there. And then I just want to pivot towards the Georgia economy. You had a lot of good commentary there as far as what's happening. You talk about the record cargo levels and strong economic activity getting back to pre-COVID levels in the near term. I'm just wondering, if you think about, I guess, the economic activity in your footprint going forward, maybe thinking more later dated, has it changed? I mean do you think that the growth is stronger now than maybe pre-COVID? Or just from a big picture point of view, how do you think about the growth trends longer term in your area?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [64]
+--------------------------------------------------------------------------------
+Yes. And you should also, I think, CNBC put my interview out on their website, so you can go look at it. What we have seen is a migration of people into the Southeast, particularly Georgia. I think Georgia has the fifth highest growing population in the United States. And there's this question of, well, are we going to have a recession? You may have a different way to ask the question, and that would be regional recessions. We don't see any data that supports recession in the Southeast at this point.
+Let me give you some other data it's just interesting. If you look at our industrial sales year-over-year, it was up 1.7%. I mean you guys know that's a good number, okay? But within that number, we're 2 of our 3 biggest single-site plants closed, 1 was a chlor-alkali plant and 1 was a newsprint plant. If you remove the effect of those plants from the numerator new brander and denominator, our industrial sales were up over 4.5%. I mean, that's amazing stuff. 
+So I think, especially as Dan suggested with the ports, you see the unwinding of supply chain, you see the migration of people in, you see the low unemployment rate. I think the chemicals are in the sea for something to crawl up on the beach that will be sustainable and positive for years to come. And certainly, if there is a global downturn, and if there is a widespread recession. As we have seen in the past, the Southeast will be more resilient. The downturn will be less severe and the emergence from that downturn probably will be quicker. So I can't predict the future. All I can say is, relative to the United States, I love the organic economic growth in our area.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+Our next question comes from Paul Fremont with Mizuho.
+
+--------------------------------------------------------------------------------
+Paul Basch Michael Fremont,  Mizuho Securities USA LLC, Research Division - MD of Americas Research    [66]
+--------------------------------------------------------------------------------
+A couple of quick questions. One would be the cable separation remediation work that you were doing on Unit 3, is that fully completed? And is that work required as part of the ITAAC process? Or is that separate from the ITAAC process?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [67]
+--------------------------------------------------------------------------------
+Yes, it is part of that process. And yes, it's still underway, but it certainly is winding down.
+
+--------------------------------------------------------------------------------
+Paul Basch Michael Fremont,  Mizuho Securities USA LLC, Research Division - MD of Americas Research    [68]
+--------------------------------------------------------------------------------
+So your expectation based on the timeline that you put out would be that, that work will be completed before July, right?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [69]
+--------------------------------------------------------------------------------
+Yes. everything that we're putting out is consistent with the timeframes. We're in good shape there, I think. Is that your dog in the background?
+
+--------------------------------------------------------------------------------
+Paul Basch Michael Fremont,  Mizuho Securities USA LLC, Research Division - MD of Americas Research    [70]
+--------------------------------------------------------------------------------
+That is a Weimaraner, yes.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [71]
+--------------------------------------------------------------------------------
+All right. Nice dog.
+
+--------------------------------------------------------------------------------
+Paul Basch Michael Fremont,  Mizuho Securities USA LLC, Research Division - MD of Americas Research    [72]
+--------------------------------------------------------------------------------
+Second question, you had talked about thousands of documents potentially that you needed to locate. And this was around the time of the fourth quarter call, you said you had located 30%. Did I hear you right on this call that those documents are now either found or replaced?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [73]
+--------------------------------------------------------------------------------
+It's not so much found. Sometimes it was incomplete. Sometimes it was absent. We've basically wound down that work. There may be a few left to go but nearly all are done for 103G. And for those that are required to load fuel, I think we're 75% of the way there. So there's still some work to be done, but it's not associated largely with 103G. It's more associated with the work I described for fuel load.
+
+--------------------------------------------------------------------------------
+Paul Basch Michael Fremont,  Mizuho Securities USA LLC, Research Division - MD of Americas Research    [74]
+--------------------------------------------------------------------------------
+Great. I think that's it in terms of questions for me. And congrats on the NRC. When is the final section report due out?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [75]
+--------------------------------------------------------------------------------
+Next week, I think. They've already posted some stuff on their website. So -- and we've already had our debrief with the NRC.
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+Our next question comes from Nicholas Campanella with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Nicholas Joseph Campanella,  Crédit Suisse AG, Research Division - Research Analyst    [77]
+--------------------------------------------------------------------------------
+I guess I just -- I wanted to go back to Steve's question on just the comments on kind of running parallel paths with some of the remediation work and I know we're kind of waiting on the 103G. But as you get that 103G, like is the expectation at this point that you can move right to fuel load? Is there just really no more remediation that can be done? And it sounds like you're ahead of schedule on that front. So if that's the case, is there any reason why we shouldn't be kind of targeting the midpoint for COD on Unit 3?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [78]
+--------------------------------------------------------------------------------
+Yes, yes, Nick, there's more work to be done. You should not expect us to get 103G and load fuel immediately. There is more work to be done. So there will be some space in between. Yes, I know we have this chart that shows 103G letter received and start fuel load almost immediately. I would expect if I were you. If we got the 103G letter sooner, there would still be a gap of time to get to fuel load.
+
+--------------------------------------------------------------------------------
+Nicholas Joseph Campanella,  Crédit Suisse AG, Research Division - Research Analyst    [79]
+--------------------------------------------------------------------------------
+Okay. That's helpful. And then I guess you talked about moving folks from Unit 3 to Unit 4 and broadly, are you starting to see lessons learned from Unit 3 to Unit 4 start to translate and bear fruit. Maybe you can kind of talk to that and that would just be helpful.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [80]
+--------------------------------------------------------------------------------
+Yes, sure. We absolutely are. In fact, we've resequenced some work. Some stuff we mentioned in the past was energization of the control room and things like that. We moved that out. We've really been focused. Early on, and I think it was really smart. The site wanted to fail fast, if you will. And complete testing as soon as we were able in order to learn from whatever problems that arose and then be able to apply them critically. Now that we have a set of learnings at Unit 3, I think we have a better sense as to how to proceed on Unit 4 incorporating those learnings. And so you will see that in the Unit 4 progression.
+
+--------------------------------------------------------------------------------
+Nicholas Joseph Campanella,  Crédit Suisse AG, Research Division - Research Analyst    [81]
+--------------------------------------------------------------------------------
+Got it. Got it. Okay. And then if I could just sneak 1 more in. The asset sales to the best owner commentary. You've been a large acquirer of kind of LDCs in the past. There's clear interest from private markets. I know that there's no asset sales on the table today, but just how are you kind of thinking about how the gas business fits into the overall Southern portfolio and your wider decarbonization goals at this point? Any comments there would be helpful.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [82]
+--------------------------------------------------------------------------------
+Well, actually, I think our gas business fits in well with the decarbonization. When you think about the whole effort of energy policy in America, we have to make sure that we balance all of the clean, safe, reliable and may be resilient and affordable objectives, okay? So you could say, "Oh, well, we should eliminate all natural gas appliances in a home, eliminate gas heating." Well, in Illinois, that makes no sense at all. Who could afford to do that? And the electricity substitution effects in places like Illinois make no sense compared to the economies that our customers get through gas heat and other approaches like cooking and others.
+So what we have to do is take into account the full range of impacts to customers, clean, safe, reliable, affordable. And we've got to come up with a global solution on how to achieve those objectives and achieve net-0. I think we're doing that. I think the idea somehow that gas should go away in America is really foolish. Don't undersell the capability of American technology innovation in solving the problems of the future. And when I talk about a new relationship, where we want the Department of Energy broadly, the United States government to get in the boat with us to achieve this net-0 goal. Some of that may be funding more important net-0 technologies, whether that's storage, whether that is carbon removal, whether it's new nuclear, you name it. We are, by far, I think, the biggest proprietary research and development shop in America. We're 1 of the biggest funders of (inaudible) former Vice Chair. We've had several chairs. I think [Stan Collin] is now starting his second chairmanship of that effort. I think we're by far the biggest energy partner in technology development with DOE.
+Look, what we need to do with the nation is invest in technology innovation and solve these problems. Saying that, given today's state of nature, we can't do gas in the future is foolish given the amount of gas, the plentiful supply and the geopolitical national security interest we have in providing that. And now that geopolitical interest is not just parochial for the United States, now that Russia has weaponized their gas apply to Europe, how can Europe ever feel secure and having them as a trading partner. We need to step up to the plate and help solve the global problem here. 
+The old idea was that Thomas Friedman, the world is flat or whatever that is, the world is not flat. It's full of perturbation and we may see a new global economy emerge where there are countries that are aligned with our national interest and perhaps those that aren't. And we'll see how that evolves. But boy o boy, it's clear to me from a supply chain standpoint, commodity development standpoint, energy can be 1 of the most important economic development activities the United States can do not only to keep things cheap and plentiful here but provide us national security around the globe.
+
+--------------------------------------------------------------------------------
+Operator    [83]
+--------------------------------------------------------------------------------
+Our next question comes from Srinjoy Banerjee with Barclays.
+
+--------------------------------------------------------------------------------
+Srinjoy Banerjee,  Barclays Bank PLC, Research Division - Research Analyst    [84]
+--------------------------------------------------------------------------------
+So a couple of questions just on the debt issuance side. For Southern Power, no debt issuance needs there, but some maturities coming up, so indicating deleveraging there. Could you remind us what the credit metric targets are? And then just thinking about the future for Southern Power, would we consider that a core part of Southern's broader decarbonization strategy.
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [85]
+--------------------------------------------------------------------------------
+So on the debt, I wouldn't think about it as deleveraging per se, Srinjoy. I mean we're maintaining kind of continuous metrics there. And so that was related to the second part of your question. We're targeting about a 22% FFO to debt over time. And so we're simply as we're getting the cash flow, we're retiring that debt and recapitalizing the business to support that.
+And then on the second part, look, the Southern Power has been and continues to be an important part of the family here. We've always kind of considered it a core business, and we'll continue to operate it that way.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [86]
+--------------------------------------------------------------------------------
+And its risk profile and its earnings profile is all consistent with what we think we have here, long-term contracts, creditworthy counterparties, bilateral, minimal to no fuel or transmission risk, those kinds of things.
+
+--------------------------------------------------------------------------------
+Srinjoy Banerjee,  Barclays Bank PLC, Research Division - Research Analyst    [87]
+--------------------------------------------------------------------------------
+Perfect. And...
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [88]
+--------------------------------------------------------------------------------
+Go ahead.
+
+--------------------------------------------------------------------------------
+Srinjoy Banerjee,  Barclays Bank PLC, Research Division - Research Analyst    [89]
+--------------------------------------------------------------------------------
+Got it. And just one last one, just on Georgia Power issuance needs, I think that's still slated at $1.5 billion, just given some of the credit market conditions so far. Any thoughts on whether you would look at long-dated or more front-end maturities there?
+
+--------------------------------------------------------------------------------
+Daniel S. Tucker,  The Southern Company - Executive VP & CFO    [90]
+--------------------------------------------------------------------------------
+Yes, we don't want to front run anything that we might do in the markets there, Srinjoy. I mean we're always looking across the curve, trying to figure out what fits best and we'll just -- let's wait until we come to market with that to see what we end up doing.
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [91]
+--------------------------------------------------------------------------------
+And I'll just complement Dan's team. You look at our portfolio, I think we have it in the background material, but 18-year average life, 3.5 kind of average coupon. This is one of the more valuable debt portfolios in the United States. It is a real asset to us.
+
+--------------------------------------------------------------------------------
+Operator    [92]
+--------------------------------------------------------------------------------
+And that will conclude today's question-and-answer session. Sir, are there any closing remarks?
+
+--------------------------------------------------------------------------------
+Thomas A. Fanning,  The Southern Company - Chairman, President & CEO    [93]
+--------------------------------------------------------------------------------
+Well, my only closing remark will be thank you all for joining us. We're off to an awfully good start this year, certainly in our financials, in our base business, but also with Plant Vogtle units 3 and 4. We continue to work very hard to execute happy so far this year. We'll continue to work hard for the rest of the year and bring this thing home. Thanks, everyone, for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [94]
+--------------------------------------------------------------------------------
+Thank you, sir. Ladies and gentlemen, this concludes The Southern Company First Quarter 2022 Earnings Call. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2022 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

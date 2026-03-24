@@ -1,0 +1,500 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2025 American Express Co Earnings Call
+JULY 18, 2025 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kartik Ramachandran
+   American Express Co - SVP, Head of Investor Relations
+ * Christophe Le Caillec
+   American Express Co - Chief Financial Officer
+ * Stephen Squeri
+   American Express Co - Chairman of the Board, Chief Executive Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mark DeVries
+   Deutsche Bank AG - Analyst
+ * Brian Foran
+   Truist Securities - Analyst
+ * Erika Najarian
+   UBS Equities - Analyst
+ * Donald Fandetti
+   Wells Fargo Securities LLC - Analyst
+ * Jeffrey Adelson
+   Morgan Stanley - Analyst
+ * Craig Maurer
+   FT Partners - Analyst
+ * Richard Shane
+   JPMorgan Chase & Co - Analyst
+ * Moshe Orenbuch
+   TD Cowen - Analyst
+ * Cris Kennedy
+   William Blair & Company - Analyst
+ * Sanjay Sakhrani
+   Keefe Bruyette & Woods Inc - Analyst
+ * Terry Ma
+   Barclays Services Corp - Analyst
+ * Ryan M. Nash
+   Goldman Sachs Group Inc - Analyst
+ * Mihir Bhatia
+   Bank of America - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the American Express Q2 2025 earnings call. (Operator Instructions) As a reminder, today's call is being recorded.
+I would now like to turn the conference over to our host, Head of Investor Relations, Mr. Kartik Ramachandran. Thank you. Please go ahead.
+
+--------------------------------------------------------------------------------
+Kartik Ramachandran,  American Express Co - SVP, Head of Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Donna, and thank you all for joining today's call. As a reminder before we begin, today's discussion contains forward-looking statements about the company's future business and financial performance. These are based on management's current expectations and are subject to risks and uncertainties.
+Factors that could cause actual results to differ materially from these statements are included in today's presentation slides and in our reports on file with the SEC. The discussion today also contains non-GAAP financial measures. The comparable GAAP financial measures are included in this quarter's earnings materials, as well as the earnings materials for the prior periods we discuss. All of these are posted on our website at ir.americanexpress.com.
+We'll begin today with Steve Squeri, Chairman and CEO, who will start with some remarks about the company's progress and results. And then Christophe Le Caillec, Chief Financial Officer, will provide a more detailed review of our financial performance. After that, we'll move to a Q&A session on the results with both Steve and Christophe.
+With that, let me turn it over to Steve.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Kartik, and good morning, everybody, and thanks for joining us on a beautiful Friday morning here in the summer. So, thank you. We had another strong quarter. Revenues reached a record $17.9 billion, up 9% year over year, earnings per share $4.08, up 17%, excluding last year's gain from the sale of Accertify.
+Total Card Member spending was up 7%, which was consistent with the pattern we've seen this year, while spend in some of the travel categories like airlines and lodging was softer, overall spending was a quarterly record. Based on our strong performance year-to-date, we are reaffirming our full year revenue growth and EPS guidance that we provided in January.
+Last month, we received the results of the Fed's annual CCAR process which set our preliminary stress capital buffer requirement at the lowest permissible level of 2.5%. The results once again demonstrated that we had the lowest projected credit card loss and highest profitability rates under the Fed stress test among all banks subject to CCAR.
+These results are a testament to the earnings power of our resilient business model and our strong capital position. Looking ahead, we're very excited about the upcoming refresh of our US Consumer and Business Platinum Cards this fall.
+The competition for premium customers, while always intense, has been especially heated for over a decade, and it's been a very good thing for our customers, for the category and for us. In fact, the past decade has been one of the very best in terms of growing our premium card portfolios and scaling our Card Member base.
+As the industry leader in premium cards, we benefit from a strong interest in the category. The total addressable market is growing at a healthy rate globally, driven by several factors, including our own value proposition innovations, the investments of competitors, and generational shifts in the appeal of premium products.
+As a result, the basis of competition has shifted, especially among affluent consumers, away from cashback and no-fee products and towards partner-added value, access, experiences, and superior customer service, where we do excel. We believe we can continue to lead in this space as the category and competitive interests continue to grow, but let me tell you why.
+To start with, we've led the premium card category for over 40 years. We achieved that position by creating a multi-faceted Membership-focused business model, which includes a wide range of assets that set us apart and, when taken together, are very difficult to replicate.
+To build on our success, we've increased our focus on the premium space over the last several years, strategically investing in refreshing our products regularly, all around the world. Our refresh strategy focuses on enriching our value propositions with more benefits and offerings in areas that our customers value most, at a price point that delivers outstanding value.
+A key element of this strategy is our ability to attract a growing number of premier partners who fund offerings to gain access to our large-scale, high-spending customer base. Beyond the individual product value propositions, we're also constantly evolving our suite of experiences and benefits that set the competitive standard, giving our Card Members access to over 27,000 of the most sought after restaurants, wineries and other venues through Resy and Tock, the largest airport lounge network in the industry, which includes 30 proprietary Centurion Lounges today with more on the way, as well as access to all Delta Lounges, exclusive experiences across sports, fashion, and entertainment, and a wide range of benefits at over 2,600 premium hotels and resorts worldwide.
+This strategy has worked especially well for us. For example, in each of the recent refreshes we've done for our US Consumer Gold, Delta and Hilton cards over the last two years, customer demand has increased, driving double-digit account growth., revenue growth in each of the three portfolios is up over 30%, with card fee revenues up at least 60%, and spend retention remains very high at 98%, and we've seen no meaningful change after the refreshes.
+Additionally, the high credit quality of the new customers we're bringing in has helped us widen the gap between our credit metrics and the rest of the industry. As we look ahead to our US Platinum launches, you can expect to see the same formula, providing the best premium experience to Card Members with more differentiated benefits and more world-class partners joining us to offer Card Members more value that substantially exceeds the annual fee.
+Longer term, when you combine our proven product refresh strategy with our global, premium customer base at scale, our network of world-class partners, our lifestyle-oriented, Membership-defined brand, and an addressable market that is growing at a healthy annual rate globally, especially in key areas we're focused on the premium sector and younger consumers. These are all the reasons why we believe we have a long runway for growth and can sustain our momentum and our leadership in the premium space going forward.
+I'll now turn it over to Christophe to provide more detail on the second quarter results.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Steve, and good morning, everyone. Let me start with the highlights for the quarter on slide 2. As Steve noted, we reported revenue growth of 9% and earnings per share of $4.08, up 17%, excluding the gain from Accertify last year.
+On slide 2, you'll see a list of several notable developments in the quarter. We've selected these highlights because they are great indicators of the progress we're making towards our long-term strategy across key areas of the business, like technology, partnerships, or products.
+Before we get into the details of this quarter's results, let me step back for a moment to reflect on what the trends from this quarter indicate. When you look at our performance across spend, transactions, demand for new cards, retention, and credit, in the context of the significant macroeconomic and geopolitical developments of the past few months, what you see is remarkable resilience across our customer base.
+And while there may be a bit of prudence around the edges, this performance indicates the strength of our business model and strategy.
+Turning to Billed Business trends. At the overall level, spend was consistent with Q1, up 7% for the quarter. Goods and Services spending, which accounts for over 70% of our business, continued to grow at a similar pace to Q1. T&E growth was down a bit versus Q1, driven by softer airline and lodging spend, while restaurant spending continued to be very strong, up 8% FX adjusted. Our fastest growing cohorts kept up their momentum.
+In the US Consumer business, Millennial spend was up 10%, and Gen-Z spend was growing around 40%, though starting from a smaller base. And our International business continued to grow in double digits, up 12%, FX-adjusted in the quarter. Transaction growth, up 9%, is another indicator of strong customer engagement and is largely consistent with what we've been seeing over the past few quarters. We acquired 3.1 million new cards in Q2, within the range of recent quarters. We sometimes get asked how we can sustain this space. Starting this quarter, we're breaking out the number of cars we acquired by segment. As you can see, we've acquired about 1.5 million new cards per quarter in the US Consumer business over the past few quarters.
+When you compare that to industry-wide new account originations, even among customers with FICO scores above 660, it's a relatively small share, indicating continued runway for growth.
+Turning to balance growth and credit. Loans and Card Member Receivables increased 6% year-over-year FX-adjusted, growing at a similar pace to Billed Business. This quarter's results had about a 1 percentage point impact from the held-for-sale portfolios that we previously disclosed.
+Our premium products continue to be the primary driver of that growth, with our Pay-Over-Time and Cobrand portfolios driving around 80% of growth in Card Member Revolving Loans in the quarter. Our growth in premium products over the past few years has further strengthened the credit quality of our portfolio, resulting in very strong credit performance.
+Q2 delinquency and write-off rates remained low, with delinquency rates flat to Q1, while write-offs rates declined. Our strong credit performance is remarkable across all age groups. In fact, the delinquency rate for our US Millennial and Gen-Z customers are not only better than the industry average for those age groups, but they are also nearly 40% better than the industry average for older age groups.
+The strength of our premium model also holds in a stressed environment, as demonstrated by the Fed CCAR results, which show that we have the highest ROA and lowest credit card loss rate across all banks subject to the stress test.
+Total provision expense was $1.4 billion for the quarter, which includes a reserve build of $222 million, reflecting growth in loan volume and a worse macroeconomic outlook. As a reminder, the scenarios used in the reserve model at the end of Q1 did not incorporate the changes in the outlook that we started to see in early April.
+Turning to revenue on slide 14. I'll hit on a few of the key points. FX-adjusted revenue growth was 9%, both for the quarter as well as for the first six months of the year. We continued to see strong momentum in net card fees, which reached record levels and were up 20% FX-adjusted again this quarter.
+The exceptional growth we've seen in card fees over the past several years, averaging 17% per year since 2019, really speaks to our strategy as we've increased our focus on the premium space. This is the result of first, acquiring new customers onto fee-based products, then driving strong retention of our customer base and finally, consistently increasing value through product refreshes and pricing accordingly. The result is a net card fee line that has more than doubled since 2019.
+Taking a look next at our premium lending business, net interest income grew at a double-digit pace again this quarter. One question we sometimes get is around the drivers of our strong growth in NII over the past several years. Starting this quarter, we've aimed to give you a picture of how both volume and margin have led to this growth.
+The takeaway here is that since 2019, a bit more than half of the increase in NII has come from balance sheet growth. This volume growth has been about the same as growth in Card Member spending. The reason that NII has grown faster than volumes is because we've increased the margin generated on these balances.
+We have achieved that margin expansion by improving pricing for risk, by rolling out more lending features, especially across our historically pay-in-full charge card products, and by growing our deposit business.
+Most importantly, we've achieved this growth while maintaining very low credit risk, in fact, widening the gap to peers. And looking ahead, we believe we have a long runway for growth in our premium lending business. To sum up our revenue performance, we feel good about the momentum we have halfway through the year with the overall revenue growth tracking in line with our full year guidance.
+Let's turn to expense performance on slide 18. If you think about the way we manage the expense base, we generally expect VCE to grow a bit faster than revenue as a result of the mix shift towards premium products and the investment we make in products to drive acquisition, engagement, and strong credit outcomes.
+At the same time, we look to drive leverage from marketing and OpEx over time as we generate efficiencies and economy of scale. That continues to be how you should think about our expense base for the full year.
+In Q2, VCE expenses grew a bit faster than revenue, and marketing grew in the mid-single digits. OpEx, excluding Accertify, was up 9% in the quarter, a bit higher than our expectation coming into the year. The year-over-year growth is predominantly driven by investment in our enterprise risk management capabilities and technology as the company scales.
+Looking ahead, for the full year, we expect OpEx growth to be in the mid-single digits versus last year, ex Accertify, predominantly driven by the weaker dollar. As you think about the ability of our business model to drive expense leverage, I’d note that since 2023, we've driven 4 points of operating leverage, with operating expenses as a percentage of revenue down from 25% in 2023 to 21% this quarter.
+Moving on to capital. Our CET1 ratio was 10.6%, within our 10% to 11% target range. We returned $2 billion of capital to our shareholders, including $0.6 billion of dividends and $1.4 billion of share repurchases. In Q1, we increased our dividend by 17%.
+Based on the CCAR results, our preliminary stress capital buffer requirement remains at 2.5%, the lowest prescribed level, allowing us to continue executing our disciplined capital management strategy while returning excess capital to our shareholders. Our business continues to generate very strong returns, with an ROE of 36% in the quarter, providing us with capital flexibility.
+That brings me to our 2025 guidance. We're now halfway through the year, having delivered 9% FX-adjusted revenue growth and EPS of $7.71. Trends across the business have been largely stable. While there continues to be uncertainty in how the coming quarters will play out, we have increased confidence in our path forward. As a result, we are re-affirming our full year guidance of revenue growth of 8% to 10% and earnings per share between $15 and $15.50.
+With that, I'll turned the call back over to Kartik, and we'll take your questions.
+
+--------------------------------------------------------------------------------
+Kartik Ramachandran,  American Express Co - SVP, Head of Investor Relations    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Christophe. Before we open up the lines for Q&A, I will ask those in the queue to please limit yourself to just one question. Thank you for your cooperation, and with that, the operator will now open up the line for questions. Operator?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Sanjay Sakhrani, KBW.
+
+--------------------------------------------------------------------------------
+Sanjay Sakhrani,  Keefe Bruyette & Woods Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. Steve, Christophe, I know Billed Business trends have been pretty resilient in the face of this uncertainty on the macro side. I'm just curious how you guys are planning for maybe just the intermediate term on spending trends.
+I assume it's stable, but what gets things going? I know SMB's been sort of the hardest hit, airlines spend as well. And if I could just ask on that same vein on SMB, maybe you could just address that Amazon portfolio loss and how we should think about how that plays into SMB. Thanks.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          So, look, I think we're just planning for it to continue to be consistent as it is, and I don't know what gets it going. I'm not sure anybody really knows what gets it going. We live in uncertain times, but I think people are continuing to live their lives, and what we're seeing right now is very consistent spending.
+You're seeing a little bit of a slowdown in airline, not necessarily front of the cabin, you're seeing a little bit of a slowdown in lodging, but again, not necessarily on the high transactions, which are up, but Goods and Services continue to be resilient and our Gen-Zs and our Millennials continue to be consistent.
+And obviously, we've said all along, it really had nothing to do with the stock market when the stock market was all the way down. People continue to spend what they're spending now. The stock market is high. People are continuing to spend what they are now. So, we're just going to ride this out as it is, and I think it's going to continue to be very consistent.
+And look, in terms of the Amazon portfolio and other portfolios that happened -- Amazon, and Lowe's as well. They're both good card accepting merchants and we're going to continue to do business with them, but sometimes things just don't work out economically, and I think one of the things that we've seen in this space, unlike in the T&E space, is you've seen portfolios move in retail.
+I mean, it's not an unusual thing to see portfolios move in retail. And for us it just, it really just wasn't working out and that's just the way it is. I don't think it really is going to have much of an impact from an SMB perspective for us, either one of those portfolios.
+I think from SMB, I think SMBs are a little bit more circumspect, I think, than the consumers are right now. And so, not buying maybe as much inventory and maybe not spending as much. And so, I think they're going to need probably a little bit more assurance from an economic perspective longer term for that to get going.
+But having said all that, I think from an SMB perspective while Billings are probably not where we want them to be, our revenue from this segment continues to be strong, our credit metrics continue to be strong, and our lending book is strong, and our fee-based business here is strong. So overall, we're happy with SMB. We'd like to see more Billings though.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Hey, Sanjay. Just that one thing in terms of the Billing and the outlook. One of the things that provides support to our Billing growth is the strength of our new account origination. And you certainly saw that we added a little bit more disclosures and details on our new cards acquired -- and 3.1 million new cards this quarter and 1.5 million in the US Consumer.
+So, we see a lot of stability there and with the upcoming launch of the Platinum Card, that gives us confidence in our ability to originate new cards in the balance of year and that will certainly support the Billing growth.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          Ryan Nash, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Ryan M. Nash,  Goldman Sachs Group Inc - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone. So, Steve, you spent a decent amount of time talking about the refresh of the US Platinum that's coming in the fall. We obviously had a refresh from Chase, Citi is coming out with the new card, obviously, COF coming out after that part of the market.
+Now I know that it's always competitive, but how do you think about the risk of too many players going after the same customer? Many of them are copying your value proposition and inevitably what do you think this means for pricing power over time? Thank you.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          May the best company win. That's what I think. Look, I think that it really hasn't -- it's not all that different. I mean, remember Citi took a hiatus for a while. I mean, when you think about this space over the last 10 years, it's been extremely competitive. And you saw that Chase came out, it was like 10, 11 years ago, and since that time we've done three refreshes, and Citi was in the market and then they popped out, now, they're back in. And you have Capital One.
+But, I think what's happened is, this focus by the banks in general and us on this premium space has been good for customers. I think it's been good overall for the industry and if you look at the track record, it's been really good for us. I think since our last refresh, we've pretty much doubled our base.
+I think what the industry has proven is that consumers will pay for value and as long as you're delivering value, I think you still have that pricing power. I mean, I think it's all about -- I think when you look at who we're all acquiring here, and we're acquiring lots of Gen-Zs and lots of Millennials with these cards, they're very value-conscious and they look at this and they basically say, look, for whatever the fee may be, I'm getting the value. And if they don't feel they're getting the value from the Platinum Card, they can look at the Gold Card and they get that.
+So, I think it's good for the industry. I think pricing power is much more tied to the value that you provide, and I think as I said before, as long as we continue to do what we're doing, which is, I believe, offer the best product in the industry and leverage the assets that we do have, which some of them, I'm obviously not going to go through again, but I mentioned them in my opening remarks.
+I think we're going to continue to be in good shape. I think for anybody in this space, complacency is a death nail and you can't be complacent, which is why we're on a very regular cycle of refreshing these products and anybody that thinks that we're refreshing the product in response to what our competitors are doing is crazy. We have our own schedule, and I think we'll see what we see in the fall, but we feel really good about what we're going to launch on both products, Consumer and Small Business.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Mark DeVries, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Mark DeVries,  Deutsche Bank AG - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks. I had a related question on the upcoming Platinum refresh. I know you're not going to preview it now, but I was just wondering if you could just comment qualitatively. Should we expect the same type of meaningful step up in added value relative to the fee that we've seen in past refreshes?
+And then also, how do you just think about the risk that as you do that, you're asking more of the customer -- to both track what all those incremental sources of value and engage more deeply to justify the added step up in fee.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          Well, I'll tell you what, if you don't tell anybody, I'll give you a preview. Look, I think that -- yeah, look, I'm not going to get into ratios here, but what I would say is our strategy has always been -- if we do raise the fee, it has always been to add incrementally a lot more value in terms of -- so yeah, that's the same playbook.
+In terms of -- as you think about the consumer, years ago when we used to do these things, we used to try and figure out how the consumer couldn't use the products and services. But what we find is we make these things really easy for consumers to use now and we make it such that it's a wide range of value.
+And so, while not every consumer will use 100% of the value, getting back to your second point, we have enough disparity in the price and the value that you don't need to use all the value to get the value out of the product, and that's a lot of value words there.
+And that's what we'll continue to do, and I think that one of the things that we've done here is we really have expanded, over our last refresh, the set of services and benefits and premium partners that are in the product. And not every card member uses every benefit, but that's okay because it gives people the opportunity to pick and choose, but they do use enough of the services and the benefits that it more than outweighs whatever fee they're going to pay.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [11]
+--------------------------------------------------------------------------------
+
+          And maybe just to build on how this is going to play out in the financials, the way to think about it, Mark, is that as we launch the new value proposition, you should expect to see a step up in the cost of card member services. And as you know, what we do is just like we wait until the renewal anniversary of the Card Member to increase -- to move the Card Member to the new price point, and then we amortize it over 12 months.
+So, the cost of card member services moves kind of like immediately and it takes like maximum two years for the card fee benefit to flow through the P&L, but all of that was like built in our guidance, in our planning and expectations since the very beginning.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Donald Fandetti, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Donald Fandetti,  Wells Fargo Securities LLC - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Yes. Steve, can you talk a little bit about International in terms of your acceptance, growth and how you're tracking versus your targets and maybe a bit on the competitive dynamics. I think you generally felt like it's less competitive internationally.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          Well, I don't know about less competitive. I think International has its own set of challenges and own set of regulations. I think sometimes the regulations can make it maybe a little less interesting for certain players to get into the market. But overall, we feel really good about International.
+I mean, look, it's been double-digit growth. I don't know how many -- it takes a couple of years after COVID, it's been double-digit growth since International really opened up again. And for us, we've been focusing on a small set of those. We talk about the five big markets that we focus on, and we've been doing really well there.
+We talk about our city strategy and that's on track from a coverage perspective and we continue to add millions and millions of merchants internationally and we will continue to do that. So, I think our acceptance gets better day by day. And we feel good about the progress that we've made, and we'll talk about a lot of that, I think, when we have our next Investor Day, but International continues to make great strides.
+And I think it's ultimately a huge source of growth for us because when you look at the international markets, premium plays really well in a lot of cases, just about every market actually, our premium products are priced higher than they are in the US, and I think when you look at our share internationally, it's very, very low.
+And the other part about it, when you look at Small Business, which I think there's a big opportunity for us in Small Business, it really is a market that's really nascent at this point. So, we're very excited about International and we're getting those growths with coverage that is still improving.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Erika Najarian, UBS.
+
+--------------------------------------------------------------------------------
+Erika Najarian,  UBS Equities - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning. I thought I'd ask the question that I've been getting and it's almost that you’ve become a victim of your success a little bit. Given your premium valuation and your previous performance, it feels like there's a bearish case out there, building on the stock. Meaning like you've raised the bar on yourself. So, what's next? And I guess the question that I have here is, how do you address that? You talked a little bit, Steve, about the spend, a little bit of slowdown in airline spend, a little bit of slowdown in lodging.
+But obviously, you also have this Platinum refresh. So, as you think about maybe spend not accelerating, how does American Express continue to deliver this 8% to 10% revenue growth, continued consistency in Billed Businesses perhaps in an environment where the macro -- the underlying spend is not necessarily accelerating, and like Ryan said, all of a sudden, we have fierce competition, even fiercer competition among your peers for your natural client base.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [17]
+--------------------------------------------------------------------------------
+
+          Well, I think, we've been getting this question for a number of years now, and we've been continuing to deliver against that. And again, I've been around this business a long, long time, and I'm not so sure it's much fiercer the competition than it was. I think, there may be a little bit more noise around it. People may talk about it, but when you're in the trenches, the competition is there.
+And I think, look, for us, we continue to deliver the EPS we need to deliver, and we continue to deliver within that revenue range, and we're a hell of a lot bigger company than we were when we set these targets out. I mean, when you look at this, the numbers that we're putting up year-over-year continue to be, if I may say, quite impressive.
+But I think for us it all starts with the customer, and I think what people lose sight of is customers are not widgets. Customers are people that you really need to focus on, what their true needs are. You need to provide phenomenal service, and you need to be there for them. And to us, customers -- we treat every customer as if it's the only customer we have.
+And if you ever call into our servicing center, there is quite a difference between how American Express treats their customers and how a lot of our competitors treat their customers. It is a huge difference. I think the other thing that I would say is when you think about what we're doing with this product refresh strategy, it's not just Platinum, we've refreshed hundreds of products over the course of the last few years, and we'll continue to refresh hundreds of products around the world.
+And so, look, the bearish case can continue to develop, but we will continue to do what we do best, which is focus on our customers, continue to create innovative products and services, and continue to make investments that are providing returns to our shareholders.
+So, look, I mean, as I said, I've been around a long time. I think the competitive environment to me hasn't been all that much different than it's been for the last 10 years. I think there's probably a lot more press about it, but we feel it every single day and I think it makes us a lot better.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Rick Shane, JPMorgan.
+
+--------------------------------------------------------------------------------
+Richard Shane,  JPMorgan Chase & Co - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my questions this morning. I just want to follow up on Christophe's point about the timing of revenues and expenses associated with the refresh. The revenue explanation was very helpful. Can you talk about the timing of expenses associated with it? Have you pulled some of that forward in anticipation or should we see a step function over the next year or two consistent with what you're describing on the revenue side?
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [20]
+--------------------------------------------------------------------------------
+
+          So, we haven't pulled anything - from the very beginning, this was our plan and we planned accordingly and guided accordingly. So, maybe let me like reiterate what I just said previously, right? So, what you should expect is an increase in our cost of card member services after the launch of the Platinum Card. So most likely, say in Q4. And the card fee increases will take a little bit more time to filter through the P&L. And all in all, this will be value accretive for us and for our shareholders.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+
+          Yeah. I mean, just to say it really simplistically, the expenses come before the revenues here, right? Because what happens is once we relaunch, the Card Members have the ability to take advantage of those benefits on day one. They don't get billed if there's an increase in the fee until they come up to their cycle.
+And those fees are recognized over a 12-month period. They're not recognized in the month that you get billed, but yet the benefits -- and that's a huge benefit to our cardholders, and it's something that we plan for and it's something that we've always done.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Jeff Adelson, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Jeffrey Adelson,  Morgan Stanley - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, Steve and Christophe. Just wanted to focus on the airline lounges. Obviously, that's a really important part of the Amex offering, but I guess longer term as you continue to put up this really robust growth in Card Members, how do you navigate some of the concerns about lounge access and overcrowding? Is that something you'll maybe to look to address in the next round of refresh?
+And we've continued seemingly to see a step up in competition from the likes of Chase and Capital One with their own build out, and I think there's been more of a focus from the airlines lately to build their own offering or enhance their own offering. So, I guess how do you think about navigating that competition longer term and just maybe addressing the concern of overcrowding? Thanks.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [24]
+--------------------------------------------------------------------------------
+
+          Yeah. I think, look, what we try to do is a couple of things. Number one, we've tried -- like a lot of the airlines have done and a lot of the other cards have done. We did this probably before people did it, but provide some priority. The other thing is we're trying to make the lounges bigger. I think this whole lounge game has been a boom for airport authorities in terms of how many lounges they can put in.
+And the other thing we get innovative. Look, in Vegas, we just did what we call Sidecar, which is a more of a small kind of, I don't know, maybe call it a speakeasy lounge where if you just want to go in for a quick drink or grab something quickly, you can do that.
+And I think we work really closely with our partner Delta in those airports where we have -- either we don't have a lounge or we do have lounges together to try and move traffic around a little bit, but I think you'll continue to see more innovation here. You'll look at more expansion of existing lounges where we can get space, and you'll look at a strategy that looks at satellite locations, so that we can handle the demand that we get.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Brian Foran, Truist Securities.
+
+--------------------------------------------------------------------------------
+Brian Foran,  Truist Securities - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Hey. Good morning, guys. So, I want to ask about one other pushback I keep getting on the stock lately, and before I do, these slides you're adding, like slide 12 and 9, I think 16, addressing the investor issues head on and getting that next level of detail, I really appreciate it. They're great. So, I want to give that context to that I think you guys have been really open and kind of sharing your thought process on these key pushbacks.
+So, the other one I get is if you do this walk, spend volumes plus 7%, but then discount is a little lower plus 5%, and then if you back out rewards to do discount -- with rewards as a contrast, it's like plus 1% to 2%, and then some people are even backing out new account contribution and saying like, well, discount net of rewards, net of new accounts is actually slight negative.
+And I know that's like net of eight things and your actual revenue is growing. But maybe you could just speak to any part of that dynamic for investors who are focused on the discount revenue being a little lower, the discount revenue net of rewards being a little lower still, how would you think about that? Is that a valid concern or is that a wrong path to go down?
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          Well, Christophe will answer, but the one thing I would say is thinking about only one component of revenue associated with rewards is not really how we think about it. We think about overall revenue associated with it, but I’ll let Christophe sort of go.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [28]
+--------------------------------------------------------------------------------
+
+          Hey, Brian. So, the way we think about this and this type of decision and relationships between the expenses and the revenue, and we've been very transparent on it, probably more so than many competitors, is the VCE ratio to revenue, variable customer engagement expenses as a ratio to revenue, and we've provided a lot of details and transparency on the makeup of this VCE ratio, and that has been like pretty stable over the years.
+And as we've said, this is not an objective function for us, this is an outcome. We make decisions product by product by product and here's what you should not do. You should not equate a low VCE ratio to something positive because the higher VCE ratios that we have are on our more premium, more attractive, more value accretive products because we get a lot of that investment back in the form of efficiencies on the marketing line in the form, importantly, of credit and positive selection on the credit line. So, the overall balance to your point is a complicated one.
+We think we're really good at managing that balance and finding the optimum point to generate value, to generate growth, and sustainable value for our shareholders. So, I don't quite follow your math, but I think we've got a good control over that expense to revenue ratio component.
+We are managing it thoughtfully and every time there's a product refreshed, that's where we spend a lot of our time in finance to find the right balance. So, I think you shouldn't worry too much about where this is going and where it's trending, we feel that we're in a good place there.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Moshe Orenbuch, TD Cowen.
+
+--------------------------------------------------------------------------------
+Moshe Orenbuch,  TD Cowen - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, and apologies for going back to the competition kind of issue, but if you put together, the questions from a couple of people and Steve your answers to them. I guess what strikes me is that this may be the first time that you're doing this US Platinum refresh kind of into the teeth of a competitive environment, and you've got crosscurrents. Obviously, you have in the past benefited from some of the advertising and marketing of your competitors and at the same time there is this idea of competing for a limited number of people. So, is there a way to just talk about how you think it's going to play out this time versus others, in terms of what you are expecting? Any things that you're thinking about that would differentiate your set of product refreshes from what you've seen from those competitors. Thanks.
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+
+          Well, I would disagree with the characterization that it's the first time we're playing into the teeth of it. Actually, we did the first Platinum refresh -- well, one of the Platinum refreshes we did 10 years ago, Chase had just launched Sapphire with a huge, huge bang. I mean, the amount of money and the amount of press that they got with that and with the intensity they went after our book, we played right into it. And the second one we were around the same time.
+So, I don't think it's that much different. And really if you think about it right now, Citi hasn't said when, and they're coming off of not really having a product and Chase is refreshing their products. So, actually, if I look at it, it's probably less intense this time than it was 10 years ago because I think there was so much hype around Chase coming out with this new card versus this just being an upgrade. That's just my opinion.
+Having said that, I'll just go back to what I said. I think we've learned a lot and we believe that what we're going to come out with will be more than hold its own, be very, very competitive, and we'll continue to be innovative and we're just going to have to wait and see, and you guys are going to have to wait and see because I can't really go into more detail than that. Contrasting the two, all I can do is basically say every time we've done this, it's worked out pretty well for us. And I think it's worked out pretty well for consumers and it's worked out well for the industry, but the characterization of this is different, I don't think that's the case at all.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Mihir Bhatia, Bank of America.
+
+--------------------------------------------------------------------------------
+Mihir Bhatia,  Bank of America - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Hi. Thank you for taking my question. So, it is another question on this competition and premium card space. But really what I would like to focus maybe a little bit on is you've talked about how the customer value propositions have changed and evolved. But how has this impacted the acquisition strategies? Is it becoming more expensive to attract these fee-paying customers? Is the acquisition mix changing?
+And really putting it all together at the end of the day, are returns in the premium card space stable? Increasing? Decreasing? Because like yes, value propositions are increasing, but fees are increasing, usage is increasing. So, I'm just trying to get a sense of that. Thank you.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [34]
+--------------------------------------------------------------------------------
+
+          So, I can help you a little bit with that. The way this competition is materializing is that it's expanding the demand for premium products. So, it's definitely giving us the opportunity to deploy more marketing dollars at very, very attractive returns. That's the way it's materializing because there are a lot more considerations now among the prospect population for premium products than there was 10 years ago, where we were the only player in that space.
+And every time Card Members look at or consider, you know, a Platinum Card -- or premium Card, they consider the Platinum card. It's almost inevitable. And so, that opens up an opportunity for us to put an offer in front of them. So, the biggest benefit for us here -- like it's really hard to compare the ROI 10 years ago to the ROI today, but the level of marketing dollars, the quantity of marketing dollars we're deploying today is much bigger than what we were doing, say, 10 years ago. And I attribute a lot of that to activity in the marketplace, a lot more competition.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Terry Ma, Barclays.
+
+--------------------------------------------------------------------------------
+Terry Ma,  Barclays Services Corp - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Hi. Thank you. Good morning. I just wanted to ask about net card fee growth. It continues to be strong, coming in at 20% year-over-year this quarter. As we think about the go forward, should the Platinum refresh be kind of additive to that growth or just kind of sustain it as you lap some of the refreshes from last year. Thank you.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [37]
+--------------------------------------------------------------------------------
+
+          Yeah. So, it's a complicated dynamic, Terry. But you might remember at the beginning of the year, we said that you should expect the card fee growth rate to like moderate in the balance of the year. We still believe that's going to happen. So, you should expect to see that in Q3 and Q4.
+And given the previous conversations that we had about the timing of the platinum fee increase, it's only some time in the new year, in 2026, that you should see that inflection point and a bit more acceleration. But you should still expect some moderation in the back of this year in terms of that card fee growth rates.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Craig Maurer, FT Partners.
+
+--------------------------------------------------------------------------------
+Craig Maurer,  FT Partners - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Yeah. Hi. Thanks. I wanted to -- competition aside and Amex’s right to win aside, I wanted to ask about how perhaps the mix of new acquisition is changing. And the reason why I'm asking is does the slowdown in travel spend put at risk the fantastic new acquisition channels you have with your co-brand partners like Marriott and Delta? Do we have to think about that at all when it comes to net new card growth?
+And just secondly, just quickly on the EPS guide. You had nice outperformance in EPS. But am I just reading it correctly that the projected increase in VCE spend as a percentage of revenue in the back half of the year, which seems to be related at least in part to the Platinum refresh is what's keeping you from raising the range? Thanks.
+
+--------------------------------------------------------------------------------
+Christophe Le Caillec,  American Express Co - Chief Financial Officer    [40]
+--------------------------------------------------------------------------------
+
+          Hi, Craig. On the acquisition mix, there's not been like a big change in terms of our mix over the past few quarters and like almost I should say, over the past few years, right? And one way we're trying to characterize it for you is just by calling out the percentage of these new cards that are coming on a fee-paying product and has been in that 70% range for with few quarters now. And I don't really expect to see a change there.
+To your second question about the earnings per share and the VCE in the balance of the year. So, listen, we're not giving guidance specifically let alone quarter-by-quarter on the VCE ratio. There's like so many moving parts here, and we're also lapping some product refreshes from the past.
+So, the way I think about that VCE ratio over time, it's not new. It's just you should expect that VCE ratio to slightly tick up over time as more and more -- as the mix, not only in terms of acquisition, but in terms of engagement of the portfolio is trending a lot more towards premium product and fee-paying product. So, that's going to put a little bit of upward pressure on the VCE ratio. But that's as far as we would go in terms of commenting on where this is going to go in the balance of the year.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Cris Kennedy, William Blair.
+
+--------------------------------------------------------------------------------
+Cris Kennedy,  William Blair & Company - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking the question. Just wanted to change the topic a little bit. You have the announcement with Coinbase and Amex Ventures, there's a lot of investing in the space. Can you just give your latest views on stablecoin and implementing blockchain technology into your tech stack?
+
+--------------------------------------------------------------------------------
+Stephen Squeri,  American Express Co - Chairman of the Board, Chief Executive Officer    [43]
+--------------------------------------------------------------------------------
+
+          Yeah. Well, let me just talk about sort of stablecoin. I think it's been a lot of conversation around stablecoin and cryptocurrencies and what have you. And I think when you start to look at digital currencies, we've got the crypto currencies, XRP, Bitcoin, Ethereum and things like that. I think that has sort of proven out that is not really going to take the place of any fiat currency.
+It's more of a sort of an investment vehicle at this point. And I think as we've said for a long time now that when you think about digital currencies, you need to think about the stablecoins, and you need to think about government digital currencies. And it looks like now, while there hasn't really been a lot of progress on government digital currencies, there has been a lot of activity, at least a lot of noise, around stablecoins.
+And I think there is a role in the payment systems for stablecoins. There is a role in the value system for cryptocurrencies. And I think when you look at what we did with Coinbase as we see stablecoins, stablecoins, we believe, will be used for lots of cross-border transactions, small businesses, things like that.
+But remember, with stablecoins you are trapping that liquidity and you do need off-ramps. And I think the partnership that we have with Coinbase does two things. Number one, it does provide that off-ramp. But number two, what they've decided to do from a rewards perspective is to allow you to earn digital currency. And obviously, they're one of the largest keepers of digital currencies.
+And so, I think that's a really interesting thing. As we think about stablecoins a little bit into the future here, you could see this as a way for SMBs, large corporations to do cross-border transactions, especially when you are doing lots of cross-border transactions with the same group of people. You avoid all the currency conversion -- makes it a lot easier to do business, I think, potentially cross-border, that's not a big sort of revenue driver for us, foreign currency exchange and currency revenue for us.
+But it is an opportunity, and it's one that we are seriously looking at and potentially to figure out how we think about either partnering or how we think about our own foray into stablecoins, especially for small businesses where we do have a large share. So, I think there's a lot more to come here. I think the bill will be signed today in terms of overall regulation, and there's more to play out.
+But I think what you will see is companies like American Express, Visa and Mastercard being off-ramps for digital currencies. And I think that's an important part that we play. Will they replace the existing payment rails? No, they are not going to replace the existing payer rails.
+Are they a good proxy and a good change and a good alternative to ACH and Swift payments and wires and things like that, I think so. And the reason I don't believe they're going to replace what we have today is what we have today is not broken. It provides lots of other benefits such as rewards. It provides contingent liability in terms of lending, and it also provides lots of dispute resolution, and things like that, and tremendous acceptance.
+And it's just easy to use. So, that's probably all I have to say on that, but it is something that we are working with, and we'll continue to monitor and just figure out what's the right entry point for us. But we felt -- and we're very happy about our partnership with Coinbase and I think we're going to be able to do some good things with them.
+
+--------------------------------------------------------------------------------
+Kartik Ramachandran,  American Express Co - SVP, Head of Investor Relations    [44]
+--------------------------------------------------------------------------------
+
+          With that, we will bring the call to an end. Thank you again for joining today's call and for your continued interest in American Express. The IR team will be available for any follow-up questions.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Thank you, ladies and gentlemen. The webcast replay will be available on our Investor Relations website at ir.americanexpress.com shortly after the call. You can also access a digital replay of the call at 877-660-6853 or 201-612-7415. Access code 13754529 after 1:00 PM Eastern Time on July 18 through July 25.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,429 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2025 Lockheed Martin Corp Earnings Call
+APRIL 22, 2025 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Taiclet
+   Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer
+ * Maria A. Ricciardone
+   Lockheed Martin Corp - VP, Treasurer & Investor Relations
+ * Evan Scott
+   Lockheed Martin Corp - Chief Financial Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Michael Ciarmoli
+   Truist Securities Inc. - Analyst
+ * David Strauss
+   Barclays Capital Inc. - Analyst
+ * Kristine Liwag
+   Morgan Stanley & Co. LLC - Analyst
+ * Peter Skibitski
+   Alembic Global Advisors - Analyst
+ * Jason Gursky
+   Citi Investment Research (US) - Analyst
+ * Gautam Khanna
+   TD Cowen (Research) - Analyst
+ * Richard Safran
+   Seaport Global Securities LLC - Analyst
+ * Scott Deuschle
+   Deutsche Bank Securities Inc. - Analyst
+ * Douglas Harned
+   Bernstein Institutional Services LLC - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome, everyone, to the Lockheed Martin First Quarter 2025 Earnings Results Conference Call. Today's call is being recorded.
+At this time, for opening remarks and introductions, I would like to turn the call over to Maria Ricciardone, Vice President, Treasurer and Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Maria A. Ricciardone,  Lockheed Martin Corp - VP, Treasurer & Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Sarah, and good morning. I'd like to welcome everyone to our first quarter 2025 earnings conference call. Joining me today on the call are James Taiclet, our Chairman, President and Chief Executive Officer; and Evan Scott, our Chief Financial Officer.
+Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the safe harbor provisions of federal securities law. Actual results may differ materially from those projected in the forward-looking statements. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to differ materially from those in the forward-looking statements. We have posted charts on our website today that we plan to address during the call to supplement our comments. These charts also include information regarding non-GAAP measures that may be used in today's call. Please access our website at www.lockheedmartin.com and click on the Investor Relations link to view and follow the charts.
+With that, I will turn the call over to Jim.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Maria. Good morning, everyone, and thank you for joining us on our first quarter 2025 earnings call. As you saw in the press release this morning, Lockheed Martin delivered strong all-around performance in the first quarter, continuing the growth momentum we've seen over the last two years. We increased our year-over-year sales 4% in the quarter and generated solid cash and enabled investment of $850 million in independent research and development and capital expenditures. Moreover, we provided a robust shareholder return of $1.5 billion through dividends and share repurchases during the quarter.
+As Evan will discuss in a moment, these results reinforce our confidence in our full year guidance of mid-single-digit growth in sales, 11% segment operating margin and double-digit growth in free cash flow per share. Our strong start in Q1 enables us to mitigate or absorb currently known tariff headwinds as well as the direct program impacts of the next-generation air dominance program decision, and we maintain our original guidance for the full year.
+With respect to the US defense budget, we continue to operate under a full year continuing resolution that allows for new awards and the transfer of funds across programs and we are actively engaged with our customers to provide best value solutions for them in this process. We're applying this best value approach also to our customer interactions regarding the 2026 presidential budget request as well. This is especially applicable to the President's high-priority launch of the Golden Dome for America, where we are describing how current Lockheed Martin programs that are already at scale production can contribute immediately to the solution.
+Our 21st century security strategy where we integrate existing and new satellites, aircraft, ships, missile launchers and command and control systems with constantly upgradable digital technologies was tailor-made for Golden Dome. In addition to the significant opportunities presented by this project, our advanced air and missile systems have recently won several large missile program awards in the first quarter already, comprising up to $10 billion in future work. These include substantial contracts for precision strike missiles or PrSM, terminal high-altitude area defense or THAAD and joint air-to-surface standoff missiles and long-range anti-ship missiles, these are among the most sophisticated and effective guided missile systems in the world and are continuously proving themselves in actual combat operations.
+Lockheed Martin Space also received a modification to their existing contract for next generation of US deterrents at sea. The upgraded missile often referred to as the fleet ballistic missile is called the Trident 2 D5 life extension. Lockheed Martin has provided this critical proven deterrence capability for 70 years, and this award launches the technology refresh that will continue this franchise for decades into the future. Beyond Missiles, our Space team recently won a contract on a classified program in which we will demonstrate highly advanced capabilities and the latest cutting-edge technologies available.
+We've proven these new capabilities on orbit and are ready to produce these vehicles at scale right now. This is another example of our ability to apply the latest technology at a level of reliability that can quickly improve the ability to deter our conflict and win it if need be. We also received a contract to integrate a system of next-generation infrared sensors on the F-22 Raptor to enhance the aircraft survivability and lethality. As a former Air Force pilot, I can provide strong assurance that this new capability will further enable the fifth-generation F-22 to shoot down enemy aircraft before they even know that we're there.
+Equally notable in the quarter and another example of developing on the leading edge of evolving requirements, was our demonstration of cost-effective countermeasures against drone warfare, complementing our existing systems for integrated air and missile defense by leveraging sophisticated electronic warfare techniques to find and destroy storms of drones. Our team conducted the first in a series of innovative demos featuring a system design to detect, track, identify and defeat a mix of small drones cost effectively driving another value-based solution for our customers.
+And in another first-of-its-kind real-world demonstration, our Skunk Works team joined with the Royal Netherlands Air Force to showcase the first-ever live classified data share outside the United States between an F-35 in flight and a Dutch command control system during a multinational military exercise. This is a first and a significant step forward in using digital technology for the integration of ground air and naval forces with the F-35 serving as the quarter back between several allied nations in real time.
+Speaking of next-generation technologies, I think it's important to highlight that over the past few years, we've pivoted our long-term strategy to transcend any individual program and provide cost-effective solutions by combining our installed base of highly capable hardware with AI and 5G distributed cloud and the like. For example, the air superiority mission is being done today with a host of aircraft and other systems, many of which you all know are made by Lockheed Martin. And a combination needed to defeat even more aggressive and sophisticated adversaries, thereby deterring them from initiating a hostile action.
+This mission solution orientation that we call 21st century security is designed to extend the life and capabilities of our existing platforms like the F-16, F-35 and F-22 and in an ever-increasing threat environment in a manner that's affordable to the US and its allies while integrating new platforms such as NGAD into the mission fabric over time. Lockheed Martin's broad and deep portfolio is exclusively positioned to make this a reality.
+Our next-generation air dominance efforts advance many classified technologies that were aligned to this strategy and we plan on applying those technologies to our current systems, making our already proven products even more relevant to the future as well as enhancing the capabilities we provide in ongoing and future development. For example, the knowledge and technology development gained from our investments in the NGAD competition strengthened our conviction to enhance the F-35 to a fifth generation plus capability.
+And I challenged the team to deliver 80% of sixth-gen capability at 50% of the cost. In support of this vision, we're also committing to drive disruptive innovation, and building upon our recent established internal capabilities in AI, autonomy, crewed-uncrewed teaming and command and control systems across the whole company. We've aligned these technology investments with our customer priorities and demonstrating meaningful increases in capabilities at relatively low cost. We've already shown the networking and teaming ability of the F-35 and the F-22 to control uncrewed vehicle systems like drone wingmen through onboard deployments of our autonomy solutions on real aircraft.
+Our Skunk Works team has also invented a ground and sea-based drone command station, powered by our operational autonomy platform, which is currently in production today for the Navy. As a central data aggregator, processing and distribution node in this architecture, the F-35 can execute its air combat quarterback role. The global F-35 fleet today stands at more than 1,100 aircraft with a total fleet expected to be greater than 3,500, enabling the US and its allies to remain command of the skies far into the future.
+To further our strategic vision, my immediate focus and that of my entire management team is on operational execution, driving cost competitiveness, quality and schedule every day. With $173 billion of backlog, more than two years of sales, we're focused on delivering on time and on budget. We're continuing to execute our 1LMX end-to-end business process transformation, which has been underway since 2022. Through this, we've driven increased production of high-demand systems like HIMARS, we accelerated software deployment to our software factory and enabled model-based engineering with digital twins of many of our products.
+And going forward, we have a deep bench of talent needed to continue the success. And a prime example of that is our new CFO, Evan Scott, joining us today for his first quarterly earnings call in his new role. As a 26-year veteran of Lockheed Martin, Evan knows this business inside out, and he has a deep appreciation for our customers and their missions. I'm confident that he will be a great asset to our executive leadership team.
+And now I'll turn it over to Evan to share more about his background and our financial results.
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Jim, and good morning, everyone. It's a privilege to be speaking with you all this morning. As Jim mentioned, I've been at Lockheed Martin for my entire career. The depth and breadth of the work we do to help American and outlying service members complete their mission successfully and return home safely is truly unmatched. Over the course of my career here, I've had the opportunity to work across a range of functions, including as Treasurer and the CFO of two business areas: Space and MFC.
+I've been fortunate to see firsthand how this company operates and evolves to deliver value across every part of the business for both our customers and our shareholders. Even before accepting this role, I worked hand-in-hand with leaders from across the company on our business strategy and priorities, helping to ensure continued financial discipline and execution of our capital allocation strategy while driving growth and advancing our mission solution-focused 21st century security strategy.
+I have great respect for the path that's been charted and recognize the company's solid foundation for continued growth. My intention is to carry this momentum forward, staying true to the strategic vision that has positioned us for long-term success and working closely with Jim, Frank and the rest of the executive team to deliver on our operational and financial targets. As we continue this journey, you have my commitment to maintaining transparency, consistency and open dialogue with the investment community, just as we always have. And on that note, let's turn to our performance for the quarter, starting with key financial highlights on Chart 4.
+Our strong financial results in the first quarter position us well for the remainder of the year, highlighted by 4% sales growth and 11.6% segment margins, with all four business areas, generating double-digit returns, boosted by better-than-expected performance on contract completions at Aeronautics, RMS and Space. GAAP earnings per share of $7.28 increased 14% with benefits from higher volume, higher profit adjustments and lower share count more than offsetting higher interest expense, and lower FAS/CAS pension adjustment.
+Shifting to new business. While our book-to-bill was less than 1 in the quarter, backlog remains healthy at approximately $173 billion. Our largest awards in Q1 came from MFC and RMS, as Jim noted, within MFC, we recorded approximately $2 billion in orders for the JASSM LRASM, Large Lot Procurement UCA, and facilitization contracts, supporting the production ramp to 1,100 units in 2027. At RMS, we booked six years of future work supporting the implementation phase of the Canadian Service Combatant River Class Destroyer program continuing our partnership with Irving shipbuilding to upgrade the Canadian fleet.
+Moving to free cash flow. We generated $955 million in the quarter, after investing nearly $850 million into R&D and capital expenditures in the maturation of innovative technologies, digital transformation and operational efficiencies. With an overarching goal of improving performance, providing the most complete multi-domain solutions for our customers. In addition to investing in next-generation capabilities, we maintained our commitment to shareholders by returning over $1.5 billion through dividends and share repurchases.
+Now I'll hand it to Maria to discuss the business area results in more detail.
+
+--------------------------------------------------------------------------------
+Maria A. Ricciardone,  Lockheed Martin Corp - VP, Treasurer & Investor Relations    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Evan. Before I transition into the business area details, one reminder, there are no calendarization differences between 2024 and 2025. All four quarters have 13 weeks in both periods.
+Okay. Starting with Aeronautics on Chart 5. First quarter sales at Aero increased 3% year-over-year to $7.1 billion. The increase was primarily due to higher volumes on F-35, mainly on production contracts. Segment operating profit increased 6% year-over-year due to the higher volume as well as higher profit booking rate adjustments, including the benefit from favorable performance at-completion on a classified contract. In February, Singapore signed the letter of offer and acceptance for eight F-35 As. This milestone expands Singapore's program of record to 20 jets and demonstrates continued international interest in the F-35 and the advanced capabilities it provides.
+Turning to Missiles and Fire Control on Chart 6. Sales at MFC increased 13% from the prior year, driven by higher volume on multiple tactical and strike missile programs, including JASSM/LRASM, GMLRS and HIMARS. Segment operating profit improved 50% year-over-year, driven by higher volume and higher profit rate adjustments. The higher profit rate adjustments were primarily due to the absence of the $100 million loss on a classified program we recognized in last year's first quarter. Normalizing for the loss, MFC's profit in Q1 2025 improved in line with sales at 13%, with margins up 10 basis points year-over-year.
+This quarter, we debuted the common multi-mission truck family of air vehicles that can be produced rapidly and affordably for domestic and international customers, known as CMMT, this affordable mass missile has an all-digital design and modularity that offers mission flexibility. CMMT demonstrates 1LMX at work. It is the result of model-based engineering, which maximizes component reuse and commonality across programs to radically accelerate development. For example, for CMMT, we reduced the time required to get to a preliminary design review, a major milestone by 50%.
+Shifting to Rotary and Mission Systems on Chart 7. Sales at RMS increased 6% in the quarter to $4.3 billion, driven by higher volume on the Canadian Surface Combatant and Radar programs within the integrated warfare systems and sensors portfolio, and higher volume on Black Hawk at Sikorsky. Operating profit was up 21% year-over-year due to the higher volume as well as higher profit rate adjustments and favorable contract mix including a benefit related to an intellectual property licensing arrangement. The picture to the right shows drones used by the Lockheed Martin Counter-UAS team in the recent field event that Jim mentioned in his remarks.
+And on Chart 8, we'll wrap up the business area discussion with space. Space sales decreased 2% year-over-year due to lower volume at National Security Space, primarily related to the overhead persistent infrared radar program, OPIR, partially offset by higher volume at commercial civil space due to LUNAR program life cycle. Despite the lower sales volume, base operating profit increased 17% compared to Q1 2024. This increase was driven by higher profit rate adjustments, primarily due to favorable performance at-completion on certain commercial civil space programs. Lower equity earnings from United Launch Alliance partially offset this benefit, as ULA had fewer launches year-over-year as well as higher initial costs associated with Vulcan profitability.
+The picture to the right is an LM400 technology demonstration satellite that recently completed its prelaunch processing and is waiting the next available launch window at Vandenberg Space Force base. The technology demonstrator is the latest in a series of self-funded missions to demonstrate the maturity of new technology on orbit and reduce risk for our customers. The LM400 is capable of serving military commercial or civil customers it can be customized to host a variety of missions and can operate in any orbit.
+Now I'll turn it back over to Evan.
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Maria. Shifting gears, I'll walk through guidance on Chart 9. Our expectations for Lockheed Martin's 2025 financial outlook remain unchanged from what we laid out in January. With the strong first quarter results, positioning us well to achieve the consolidated full year outlook of mid-single-digit sales growth, solid 11% margins and high single-digit free cash flow growth of $6.7 billion at the midpoint. In addition, there is opportunity to increase backlog in 2025, providing a solid foundation for sustained growth.
+As I mentioned earlier, the strong profit we realized in the first quarter provides an increased confidence in our ability to absorb currently estimated 2025 profit impacts from tariffs and the NGAD announcement. While it will take more time to complete a thorough business assessment of these dynamics, we're optimistic about achieving our profit targets for the year. I look forward to partnering with Frank and the rest of the leadership team on the operational excellence initiatives to unlock company-wide efficiencies. Now given the dynamic backdrop, I'd like to note several key assumptions within our guidance.
+First, on F-35, we continue to expect between 170 to 190 deliveries for the year from the world's premier fighter jet production operation, with a backlog of approximately 360 jets at the end of Q1. And we anticipate definitizing the Lot 18 contract in the second quarter which we expect will unlock cash currently tied up in working capital on the balance sheet. At the same time, we're making good progress on TR3 stability and incremental capability releases.
+Second, the outlook assumes a certain level of tariff impact as we expect to mitigate potential cost increases and offset cash timing pressures. We continue to work closely with our customers on this and we'll provide updates during the course of the year if we see further impacts to our business despite those efforts.
+Third, our guide accommodates the direct program impacts of the NGAD announcement on 2025 and orders, sales, profit and cash flow. As you would expect, we are currently evaluating the broader business implications and we'll have more to share when we report on our second quarter results.
+Lastly, we assume our programs are funded in a timely manner to support operational needs, and the outlook does not include a pension contribution for this year. Looking beyond our strong 2025 guide. The current backdrop supports sustained backlog strength with improved US and international budget opportunities. This provides a line of sight to stronger sales growth rates through 2027 than previously expected. This steady top line growth, combined with operational improvements, are expected to provide a solid foundation for consistent free cash flow generation that enables our capital deployment priorities over the next three years, namely to invest over $10 billion in R&D and capital expenditures and return at least $18 billion to shareholders via dividends and repurchases, all while continuing to fund required pension contributions.
+In summary, on Chart 10, we're off to a solid start in 2025 and have a strong focus on operational excellence to ensure we deliver on our customer and programmatic requirements while also building momentum towards delivering our full year guidance. In parallel, we remain committed to investing for the future and creating long-term value for our customers and shareholders.
+With that, Sarah, let's open up the call for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) David Strauss, Barclays.
+
+--------------------------------------------------------------------------------
+David Strauss,  Barclays Capital Inc. - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Evan, welcome to the call. Jim, I wanted to ask you about the NGAD decision. At this point, have you received a debrief from the Air Force and gotten some feedback there? And how are you thinking about the way forward in terms of potentially protesting the award?
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Yes, David. We did get a classified debrief from the US Air Force on their NGAD decision. And we are taking that feedback internally. And looking at all the aspects that we were briefed on, which we can't speak to because of the classification level. But we are addressing those. On a strategic basis, we are going with this decision is not to protest it. We are not going to protest the NGAD decision of the US government. We are moving forward and moving out on applying all the technologies that we developed for our NGAD bid on to our embedded base of F-35 and F-22.
+I feel that we can have, again, 80% of the capability potentially at 50% of the cost per unit aircraft, by taking the F-35 chassis and applying numerous advanced technologies, some of which are already in process and Block 4 and F-35, but others that we can apply and we are going to offer fairly rapidly to the Department of Defense to really take that chassis and supercharge it for the future. And that's kind of a fifth generation plus concept for F-35. And that investment in NGAD technologies that we made over the last few years are going to be applied directly to that chassis. And like I said, eventually, there'll be 3,500 of those chassis out there at various stages of technology and capability. We think we can get most of the way to sixth gen at half the cost.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Jason Gursky, Citi.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citi Investment Research (US) - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          And Evan, welcome to the call, my sentiments as well to you. Jim, I was wondering if you could just comment a little and maybe reflect on some of the executive orders that have been coming out of the White House since the new administration came in office back in January. We've seen quite a bit come out. Some of it related to FMS and speeding up the process there.
+But I think as recently as last week that we've got an executive order that points to the potential rewriting of federal acquisition regulations. And I'm wondering if you guys have some perspective on what the administration is up to here, what they're trying to accomplish, whether this is just strictly reducing red tape and speeding the process up if there are going to be some longer-term structural consequences for the industrial base and the way that you interact with the building.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+
+          Yes, Jason, not only do we welcome these. We applaud these executive orders and have been advocating for them since I joined from the telecom industry, the management of this company about four or five years ago. So we are involved in advocating and making recommendations along all of these lines. One of the biggest issues where there's limitations on the speed at which digital technology and even the most advanced physical technologies can be introduced into the National Defense enterprise, is the red tape.
+And so the statutes, regulations constraints, audits that have evolved through the DoD bureaucracy over decades, have never reversed themselves. This is a chance for those to be really scrutinized and reduced. We will be speeding up not only our FMS opportunities around the world by what the administration is pressing for here. But we'll be able to get faster acquisition paths for both physical and digital technologies. So I think reducing the bureaucratic red tape that's built up in this industry over the past few decades is going to be a boon to our industry.
+And when I say our industry, I mean broadly, right? And that includes the traditional as we are sometimes called aerospace and defense prime contractors. It includes major technology companies such as Verizon and NVIDIA and Microsoft that are our partners, it includes midsize and new entrants. We want the best of US industry and technology development applied to the national security space. And we wanted to be part of that, and we applaud all of these changes that are coming down through the executive orders.
+The one thing I want to make sure that we get a chance to do, it's a chance to compete on every dimension. I used to be captain of Air Force rugby team. And all I want to do is get my team on the field and get in the game. I don't care if it's a small contract, a big one. If it sounds like a tech approach or a traditional approach we can compete on every playing field, and we just want to have that level playing field to compete on. So a long way of saying I'm really encouraged and energized by what the administration is doing here.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Kristine Liwag, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Kristine Liwag,  Morgan Stanley & Co. LLC - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Evan, welcome to the call. So maybe starting off, the tariff situation is fast moving, but there's a general sense that defense companies like Lockheed are more insulated than other industrial companies. And I guess, to the extent that they do exist, what are the underappreciated risks of tariffs in your business? And Evan, as a CFO, what are your priorities as you navigate this environment?
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [9]
+--------------------------------------------------------------------------------
+
+          Sure. Yes. Thanks, Kristine. So from a tariff perspective, I do agree that we have certain protections in our industry. And after reviewing with each of the four BAs, I feel comfortable we've got an approach to mitigate the impacts. And that's what gave us confidence to reaffirm guidance. I'd say, in a lot of cases, we're going to have just direct protection in our supply chain, not in all cases, but in many cases, to avoid tariffs altogether. And then for the vast majority of our external contracts, we've got mechanisms to recover impacts.
+So I think for us, we see it less as a function of recovery, although we certainly work to do there, but it's probably more about timing. And so specifically, is there going to be a lag between incurring a tariff cost and recovering those costs. So we'll -- it's going to stay fluid, but we feel like we've got a good path now, and we'll just keep updated as that progresses throughout the year.
+
+--------------------------------------------------------------------------------
+Maria A. Ricciardone,  Lockheed Martin Corp - VP, Treasurer & Investor Relations    [10]
+--------------------------------------------------------------------------------
+
+          And just as a reminder, Kristine, 40% of our contracts are cost type. And so what Evan is referring to mainly is the 60% that are fixed price, where we have those contractual clauses, both far based and especially negotiated that enable that recovery through different equitable adjustments means. So I just wanted to make sure I added that as well.
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [11]
+--------------------------------------------------------------------------------
+
+          Yes. And to the question of priorities, yes, thank you for that. So I plan to lean on prior experiences of this company of moving to high-impact roles. And so number 1 goal for me typically is just to make sure momentum is maintained, right? We move too fast to allow for any gaps and priorities. And so always make sure there's no slowdown in any initiatives my predecessor was driving. And so you really shouldn't expect to see any near-term changes, particularly with our consistent focus on delivering shareholder value, right? That's just so baked into our culture and is not in question.
+So as Jim said, fortunately, I'm very familiar with our programs and strategies, and I've got well-established relationships with the ELT from my career here. So specifically, I look forward to meeting with stakeholders and spending significant time listening to the priorities of the investment community. And in those meetings, I'll certainly be prepared to answer questions, but I was going to have several of my own to ask. And so definitely look forward to quickly partnering with ELT and my team move with urgency, and we'll focus on performance, speed and value-enhancing growth. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Gautam Khanna, TD Cowen.
+
+--------------------------------------------------------------------------------
+Gautam Khanna,  TD Cowen (Research) - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Welcome, Evan. I was wondering if you could comment on F-35 Lot 19 timing? And also, if -- given there's a lot of international demand for the aircraft, how ready are some foreign customers to take delivery earlier if the US cuts back the buy? I'm just wondering like how much of a US cutback could you absorb and still keep the production rate at around 156?
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [14]
+--------------------------------------------------------------------------------
+
+          Okay. Right. So thank you. So starting with Lot 19, we are looking at the second half of the year for this, and that's baked into our guidance.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [15]
+--------------------------------------------------------------------------------
+
+          And then on the international demand, Gautam, it's really strong. There's been a number of announcements over the past few months on plus-ups to program orders from the international customers. And as over the Munich Security Conference, the main topic in the private meetings with each of the defense ministers and Prime Ministers is how fast can I get my aircraft? So I feel that our Aeronautics team feels that if there's some moderation, which we do not expect, by the way, in US. F-35 production that we can make up for that in the international opportunities we have and maintain our 150-plus per year production rate. So we're comfortable that, that can be maintained.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Rich Safran, Seaport.
+
+--------------------------------------------------------------------------------
+Richard Safran,  Seaport Global Securities LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Evan, welcome. So Jim, could you talk a bit more about your opening remarks on Golden Dome? I thought maybe you could discuss funding opportunities, timing and specifically, maybe address how you think that might affect the production ramp at MFC, just generally how that might be impacted.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+
+          Yes. So there -- it's forming up in sort of three segments, if you will. The government is going to make these policies and define these clearly and specifically. But the way we're viewing it is there's a ground segment, which will be radar sensors, command and control systems for existing defensive systems, right, ground-based defensive systems. And some of the programs that I already spoke to earlier today, and you're kind of alluding to them as well. Our THAAD, we have the NGI contract. All of these are going to be-PAC-3 are going to be in higher demand. And so we will be in excellent position to address those -- literally right out of the gate, right?
+And so even on that ground segment, there are ways to network these systems and redeploy them from existing generally army bases or naval bases in the Konas already. These systems are out there. They're operational. They're ready to be deployed to foreign operations, but we could actually it's up to the government again, this is policy and not our purview, but we can be supportive and actually fielding those systems from existing bases to whether it's population centers or other high-value areas where we want to really defend the homeland, so to speak. And then we can network and we've shown this, for example, PAC-3 and THAAD systems and radars. And that's just one example of this interconnectivity that we can create with existing platforms using new digital technology.
+And that's why 5G and AI and distributed cloud are so important because we will have to create a web of defenses, a web of layered defenses even in this ground segment to start really being effective in Golden Dome. And we can literally do that once the starting gun goes off. The second phase of it will be space-based and that's another place where, by the way, Lockheed Martin has a lot of existing assets. What we're going to want to help do is network those existing space-based assets down to those more tactical systems on the ground so that we have early warning, we've got target tracking on launch in mid-course from space so that we can have more accurate fire control over those missile systems in the United States.
+So the space layer will be complex. Eventually, there may be kinetic or non-kinetic action from space, that's going to take a little more time to scale, but that's the second arena. And then thirdly, another place where this sort of 21st Century Security strategy will really intersect the third dimension here is an overarching command and control system, an open architecture standards based where we can have, whether it's Northrop Grumman, Raytheon, Lockheed Martin, other systems, new entrants will be tied into this fabric and really complete the Golden Dome, so to speak, by doing that, that may be a little bit further out. But we can do these tactical ground-based system deployments very quickly, and we can scale production. We've already got investments to do that.
+So I think we're in excellent shape for Golden Dome, as I suggested in the prepared remarks, our strategy was built for something like Golden Dome, and we're out in front of it with our customers. Budgeting, timing, congressional funding, all those kinds of things, are government policies that will be implemented on their side, but we are literally ready to go when the starting gun goes off.
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [19]
+--------------------------------------------------------------------------------
+
+          Yes. And if I could just add, given -- I've got a lot of passion on Golden Dome having worked at MFC. And as Jim said, we just really felt prepared for this. And it was -- this is an early sign our customer tends to move rapidly and with purpose. So just a little bit of a stage where it is kind of from the proposal side the customer issued an RFI or request for information, seeking ideas from industry that would inform possible RFPs. And so what was remarkable about this one from my perspective, the RFI had a 30-day turn, which is super fast for something that's significant and complicated.
+And Lockheed Martin provided, as Jim said, just a series of capabilities, really over 100 different capabilities through pricing that cross all four BAs with a focus on cross-domain architecture. So clearly, not all those RFI responses will turn to requirements. We've given our customers a significant amount of go fast ready capability to consider, and we look forward to partnering with customers and suppliers on next steps as Jim said. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski, Alembic.
+
+--------------------------------------------------------------------------------
+Peter Skibitski,  Alembic Global Advisors - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Jim, one aspect of the new tariff regime, if we go back to that is not necessarily the cost aspect, but I understand China is putting new export controls on rare earth metals. And I don't know necessarily the inventory levels at the US or the Lockheed Martin typically has of these commodities. But I know it's been a topic in DC in terms of the reliance there for a number of years. So I was just wondering if you could give us your thoughts on just availability impact that the new tariff regime could have because I do understand the rarest are used across a wide variety of defense products. So I was interested in your thoughts.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [22]
+--------------------------------------------------------------------------------
+
+          Yes. First of all, by law, we're constrained from using Chinese inputs of any kind from any source into our products and services. And so is our supply chain. So there are ultimate sources for our segment of the aerospace industry, I'll call it, which is the defense -- US defense segment. And secondly, there are stockpiles that are available and will be utilized. This is, I think, a larger issue for non-defense industries that require these kinds of materials because our supply chain contracts, again, have specified non-Chinese sources for the materials over the decades actually.
+So I think we're in pretty good shape on that. And I would, again, applaud the US government and seeking to continue to develop US sources for these raw materials all the way through semiconductors, et cetera, that we've been, again, advocating for, for about four or five years, which is our antifragility aspect of our strategy, which is we need US sources for even basic materials like titanium for example, certainly non-adversary sources, and we've been pushing for that with the US government and doing it internally for four or five years based on that sort of antifragility concept that we seem to love. So we're -- I think we're well positioned here to work through these rare earth and other material issues.
+
+--------------------------------------------------------------------------------
+Maria A. Ricciardone,  Lockheed Martin Corp - VP, Treasurer & Investor Relations    [23]
+--------------------------------------------------------------------------------
+
+          And Pete, I would just add to that in terms of our guide for the year. We're pretty confident that a disruption in the material supply for rare earth would not impact our ability to meet our current delivery commitments for the remainder of this calendar year. We have sufficient quantity that's already integrated into our value chain. So it provides a bit of a buffer from potential supply chain disruption in the near term, and we'll obviously continue to assess as we go on.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Doug Harned, Bernstein.
+
+--------------------------------------------------------------------------------
+Douglas Harned,  Bernstein Institutional Services LLC - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          On Missiles and Fire Control, you've had some big increases in backlog. You've got $2 billion, nearly a $2 billion increase this quarter. And so can you talk about what some of the production increase plans you have in your major programs? And then is this a business that we could foresee having an extended high single-digit growth rate over the next few years, given that backlog?
+
+--------------------------------------------------------------------------------
+Evan Scott,  Lockheed Martin Corp - Chief Financial Officer    [26]
+--------------------------------------------------------------------------------
+
+          Sure thing. Thanks, Doug. Yes. So you're right. We've definitely seen strong budget demands here of both domestic and international for the MFC products. And so several of the products are ramping currently. And we talked about earlier the JASSM/LRASM award that gives us a path to ramp to 1,100 in 2027. PAC-3 continues to ramp. GMLRS -- so we're seeing good demand and very strong backlog.
+And so some of these products will continue to ramp and to Jim's point about Golden Dome, I mean, these are always also areas for opportunity on the IAMD side to be a major part of the Golden Dome architecture. So that could very likely be a source of demand as well. But the reality is, with these products, we have a lot of confidence that will just continue to be in demand all the way across. So can certainly talk more specifics on individual product lines. But I think across those are the we're going to see the real growth with JASSM LRASM, PAC-3 and GMLRS ramping.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [27]
+--------------------------------------------------------------------------------
+
+          Yes. And Doug, it's Jim. So just to complement what Evan is saying here. So we map out for the -- until the end of the decade, sort of our high-growth product lines. And you heard us about some of them, but adding in there, in addition to GMLRS, PrSM, which is got the $5 billion IDIQ order just awarded is in that category, fleet ballistic missile actually. So it's sort of a quiet program, but it's -- we think it could be a double-digit growth CAGR over the kind of the course of the rest of this decade, et cetera.
+And as you said, JASSM/LRASM is in that kind of category of the high single-digit growth over a fairly long period of time to get to your specific question. So there's a number of others, NGIs in there, too. So the missile systems that the company has developed over again, 70 years when it comes to FBM, that is hard to duplicate. These are the best systems in the world.
+Again, you go to Munich or Singapore, some place like that, customers just readily admit that around the world is this company has some of the best systems in the world that's got the best and most sophisticated fighter aircraft in production in the world and will for at least the next five years or so and does it at scale. And it's the only way we can kind of compete, we, meaning the royal we of our allies and us, with China, who's building 100-plus J-20z a year and now J-35 is on top of that. So our international customers recognize the capabilities of the company.
+As to our US customers, and again, we're very well positioned for the future here, especially in that missile segment where this stuff is really hard to do. It takes decades of experience is on the edge of known science and it's not easy to duplicate and just kind of show up at the party and try to compete here. So we're in really good shape in those missile programs.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Scott Deuschle, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Scott Deuschle,  Deutsche Bank Securities Inc. - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Jim, you spoke earlier about enhancing the F-35 with technologies you developed for NGAD. I guess can you clarify, number one, if that effort would be self-funded or customer funded?
+And then number two, can you walk through what's driving your confidence in integrating those technologies into F-35, particularly given some of the recent challenges with technology insertion.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [30]
+--------------------------------------------------------------------------------
+
+          Sure, Scott. So look, this is a baseline. We have 70,000 engineers and scientists in the company working on really interesting stuff all the time. And some of the fifth-gen solution set is already being funded by the US government and the F-35 program itself. There are components, some of which are classified, so I can't really specify them. But key techniques, I'll say, and approaches that a fighter pilot needs to have to be competitive and win.
+I'll just kind of talk to those in general, and you can be assured that we are investing and the government is investing together in these things. Some of these elements are again, through the F-35 program as it stands today. Some of it was our government-funded investment in R&D for NGAD, right, just the competitive process was funded for both Lockheed Martin and Boeing over a period of years by the government. And we made independent investments along the way to in both of those programs.
+So it's not a clean percentage, but there's co-investment between the US government, our allies and Lockheed Martin in the technologies I'm speaking to. And having done this myself when I was younger, these things are really important. So one is sensing the enemy at a distance greater than they can send you. And so those kind of categories are radar. They're passive infrared and passive infrared is really important because if I'm transmitting radar, that means somebody else's electronic warfare receiver can see me, and then they can maybe shoot me. So the better I have infrared is passive, we can sense that. And the best radar on top of that, those kind of sensors are really, really critical because I explained this in a meeting at the White House – the Presidents’ like- dog fights are not what we want anymore in air-to-air combat, we want to shoot the other guys as I said before, even those we're there.
+And you do that, first of all, with the critical sensors to find them then you make sure they can't find you. And that's the stealth technology, and there's some techniques with that we've used for our NGAD offering that can be applied, whether they're materials, their geometries their countermeasures for stealth, so I can't be seen. That's the first part of the equation. The second part of the equation is you want to have a tracking system and a weapon that can go further and hit the enemy plane before they can ever even reach you with their weapon, right? And so there are techniques and capabilities we delivered with our NGAD bid that were developed for that, that we can now apply here. So it's F-35.
+So we're basically going to take the chassis and turn it into a Ferrari, right? It's like a NASCAR upgrade, so to speak, where we could take the F-35, apply some of those co-funded technologies, both from NGAD and the F-35 program. And you're going to have, again, my challenge to my Aeronautics team is let's get 80% of sixth-gen capability at half the price. And that's something that -- and these are engineers, they wouldn't have agreed to this if they didn't think there was a path to get there. That's something we're going to go out and do.
+And this is this best value approach that we've been kind of working our way towards that at Lockheed Martin over the last four or five years. How do we get best value to the customer who has a limited budget and an increasing threat? We use these digital technologies, we apply something from one system or one BA to another and we actually try to create that best value equation. It's a little kind of not uncomfortable, but novel for our industry to think that way, but we are thinking that way. And value is important and maybe as or more important than the highest technology available. It's got to be scalable. It's got to be affordable. It's got to work every time. And so that's what we're after.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Michael Ciarmoli, Truist.
+
+--------------------------------------------------------------------------------
+Michael Ciarmoli,  Truist Securities Inc. - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Jim, maybe just one point of clarification and to stay on that topic. It really sounds like with the NGAD loss, you reaffirmed your multiyear growth and got stronger from a lot of the missile commentary. I just didn't know if that also took into account maybe weaker domestic F-35 volumes going forward?
+And then just on your prior comments, I mean, it sounds like you're going to directly compete for NGAD dollars; converting this chassis to a Ferrari. And any restrictions on what you can do with that technology? Can it be sold to international customers? And has there been any direct discussions about funding or timing from the Air Force?
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+
+          That will be an element by element exportability decision by the US government. But what we try to do is build exportability into each of these components. And so we will offer -- of course, the US government gets first view of these things. They'll get to adjudicate whether it's exportable and to whom. But our goal is to make as much of this capability, this value capability that we can for fifth gen to have our allies and get access to it. But that's the US government decision, but we try to design in a way that it's a relatively -- or hopefully, an easier decision for exportability rather than a harder one.
+
+--------------------------------------------------------------------------------
+Maria A. Ricciardone,  Lockheed Martin Corp - VP, Treasurer & Investor Relations    [34]
+--------------------------------------------------------------------------------
+
+          And on the long-term growth, yes, I do think we see a path to a little bit better than we laid out prior, at least at the lower end of the low single-digit growth. And that's fueled by a few things. As you point out, the strong missile orders in Q1. There's also -- since we had talked about that outlook international budgets around the world have -- there's been a pressure to increase those as well.
+And then I'd also say seeing another quarter at 4% sales growth shows that the supply chain does continue to perform. And as we've talked about, it hasn't really been a question of demand. It's been more a question of being able to execute on the supply side, and we are seeing that continue as well. So even with the NGAD loss, that was probably more impactful further out in the future. And over the next few years, more than offset by some of these other opportunities that we're seeing now.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [35]
+--------------------------------------------------------------------------------
+
+          Yes. And for example, like F-35 sustainment contributing to these long-term growth trajectories, the aircraft numbers are going to go from 1,100 to -- we expect over time, 3,500. So that growth rate of sustainment on F-35 and this modernization will continue on a much larger number of airplanes as time goes on. So that's a big driver. CH-53K helicopter is really getting towards full rate production, the fleet ballistic missile programs. As I said, that's a very important and a very large piece of our long-term growth rate and NGI, et cetera, and Golden Dome.
+So there are multiple long-term growth opportunities from -- through all of our business areas. We're pivoting , by the way, in space, we'll continue to do the big geosynchronous orbit highly sophisticated satellite units. But this LM400 is mid orbit plane. And it's more capable than a small sat, but not as expensive as a geosynchronous orbit satellite.
+And there's more proliferation of them, not 3,000, but maybe there's 300. So you get a lot of the benefits of both in the mid course the mid or bit, if you will. And it's a good compromise for certain missions because you've got a bigger bus with more capability and more life small sat for the last three to five years, but mid orbit satellite like the LM400, could last call it, 10 and then the geosynchronous can be much longer than that. So we're trying to make sure that there's a best value solution for the mission for our customer at every level of the orbits in space or the level of sophistication and cost of the airplane versus the mission.
+Again, can we get 80% of the value for 50% of the cost that's a new way for our industry, maybe to think up from 20 or 30 years ago, but that's how we're thinking about it. So we have some really solid long-term growth trajectory. We think we can strengthen the embedded base make that embedded base live longer, and that's a stay material go farther, whether it's Black Hawk, F-35, F-22, F-16 is now again popular.
+Why? Because we can put fifth-generation electronics on a fourth generation chassis. And that's why it's popular. It's more affordable and you get most of -- not most, because you don't have stealth, but you get a lot of fifth-gen capability on an F-16 now. And that's why these franchises are not finite necessarily. FBM, 70 years. I mean these chassis are so hard to make. They're so sophisticated it's hard to replicate the hardware, but you can make it a lot better with software and with hardware upgrades as you go.
+
+--------------------------------------------------------------------------------
+Maria A. Ricciardone,  Lockheed Martin Corp - VP, Treasurer & Investor Relations    [36]
+--------------------------------------------------------------------------------
+
+          Great. Well, Sarah, I think we're coming to the top of the hour here. So why don't I turn it back over to Jim for the closing remarks.
+
+--------------------------------------------------------------------------------
+James Taiclet,  Lockheed Martin Corp - Chairman of the Board, President, Chief Executive Officer    [37]
+--------------------------------------------------------------------------------
+
+          Thanks, Maria. So look, in closing, based on our substantial backlog and this best value strategy we've been talking about today, this company is really well positioned in a very dynamic environment. Let's -- we can all admit that we're in a dynamic environment. But we're continuing to innovate and deliver these advanced and reliable technologies and executing against that long-term strategy while we do the hardware and upgrade it, we really are trying to get out in front of how do we use digital technology like AI to make our platforms work together in a way that provides a high value, relatively low-cost mission capability and having so many of these great legacy platforms and the ones that we'll build for the future puts us in a really good position for this.
+So that ends the call today. Thank you for joining us. We look forward to seeing you all virtually again in July on our second quarter earnings call. So thanks, everybody. Sarah, we're all concluded for the day.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Great. Thank you very much. This concludes today's conference call. Thank you for joining. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

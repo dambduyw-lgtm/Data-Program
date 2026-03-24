@@ -1,0 +1,752 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2025 Norfolk Southern Corp Earnings Call and America’s First Transcontinental Railroad with Union Pacific Corp
+JULY 29, 2025 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jennifer Hamann
+   Union Pacific Corp - Chief Financial Officer, Executive Vice President of the Company and Railroad
+ * Vincenzo Vena
+   Union Pacific Corp - Chief Executive Officer, Director
+ * Mark George
+   Norfolk Southern Corp - Chief Financial Officer, Executive Vice President
+ * Luke Nichols
+   Norfolk Southern Corp - Senior Director - Investor Relations
+ * Jason Zampi
+   Norfolk Southern Corp - Chief Financial Officer, Executive Vice President, Treasurer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Thomas Wadewitz
+   UBS AG - Equity Analyst
+ * Walter Spracklin
+   RBC Capital Markets Inc - Analyst
+ * Fadi Chamoun
+   Bank of Montreal - Equity Analyst
+ * Brian Ossenbeck
+   JPMorgan Chase & Co - Analyst
+ * Bascome Majors
+   Susquehanna Financial Group LLLP - Analyst
+ * Scott Group
+   Wolfe Research LLC - Analyst
+ * Jonathan Chappell
+   Evercore Inc - Analyst
+ * Stephanie Moore
+   SBG Securities (Pty) Ltd - Analyst
+ * Jason Seidl
+   Cowen and Company LLC - Analyst
+ * David Vernon
+   Sanford C Bernstein & Co LLC - Analyst
+ * Brandon Oglenski
+   Barclays Services Corp - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen, and welcome to the call to discuss America's First Transcontinental Railroad. (Operator Instructions) And I would like to turn the conference over to Luke Nichols. Please go ahead.
+
+--------------------------------------------------------------------------------
+Luke Nichols,  Norfolk Southern Corp - Senior Director - Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Good morning. Please note that during today's call, we will make certain forward-looking statements within the meaning of the safe harbor provision of the Private Securities Litigation Reform Act of 1995. These statements relate to future events or future performance, which are subject to risks and uncertainties and may differ materially from actual results. Please refer to both Norfolk Southern Corporation's and Union Pacific Corporation's annual and quarterly reports filed with the SEC for a discussion of those risks and uncertainties we view as most important.
+Our presentation slides are available at norfolksouthern.com in the Investors section, along with our reconciliation of any non-GAAP measures used today to the comparable GAAP measures, including adjusted or non-GAAP operating ratio. Please note that all references to our prospective operating ratio to date will be provided on an adjusted basis. A brief question-and-answer session will follow the formal presentation. Starting the presentation on Slide 3, I'll now pass the call over to Norfolk Southern President and Chief Executive Officer, Mark George.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Well, good morning, and thank you for joining us on today's call. As you saw from this morning's announcement, the focus of today's NS earnings call has changed. Today is a historic day for America with the announcement of our country's first transcontinental railroad. I'm actually in Omaha, Nebraska this morning, and I'm pleased to be joined by Jim Vena, Union Pacific's Chief Executive Officer; Jennifer Hamann, the CFO; Jason Zante, Norfolk Southern Chief Financial Officer. So let me ask Jim to start the call by laying out our vision.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Mark. On behalf of Union Pacific Board and leadership team, I am honored to be with you today to discuss our agreement to combine Union Pacific and Norfolk Southern and a combination valued at over $250 billion. This is a historic transformative moment for our companies, our customers and our great nation. Together, we will create America's first transcontinental railroad. With this transaction, we will generate significant value for our stakeholders and for all Americans. It builds upon President Abraham Lincoln's vision of a transcontinental railroad from nearly 165 years ago, and will usher in a new era of American innovation.
+Union Pacific and Norfolk Southern are two of the strongest operating railroads in the US with a combined 360 years of franchise history. Generations of railroaders at both of our companies have helped build America into what it is today. And today's railroaders will demonstrate that there is no better combined team to deliver America's first transcontinental railroad. Ask you to turn to Slide 4. Lays out how this new seamless single-line service supports US growth. Railroads are the backbone of the US economy. We power industries connect communities and deliver the materials that build homes, grocery stores, factories, and cities. You name it and the railroad likely moved it.
+Moving freight safely, efficiently, and affordably keeps American manufacturing competitive and neighborhoods growing. To that end, the United States has the best freight transportation system in the world, and this transaction will make it even stronger. The transcontinental railroad is the right next step toward achieving that goal. Combining Union Pacific and Norfolk Southern to unite the nation from East to West transforms the US supply chain and transportation landscape. Our single-line service will create new routes and increased access across this nation, making freight rail transportation a cost-effective option for more American shippers.
+By eliminating interchanges, customers' products will reach their destination faster, increased speed and reliability, combined with lower freight costs per mile makes rail a more attractive option than truck. And with improved service reliability, we will lower our customers' inventory and equipment costs with reduced cycle times. The impacts of this transaction for American communities can't be overstated. Our merger will reduce highway congestion and road maintenance burdens on American taxpayers. One intermodal train removes more than 550 trucks from the highway and is 75% more fuel efficient than truck. We pay to maintain our networks with focused infrastructure investment to support long-term growth and the safety of our operations.
+Together, this will enhance supply chain reliability, support the industrial renaissance and make US manufacturing more competitive and accessible. Rail investments have a broad impact on economic development and job creation. Importantly, Union Pacific and Norfolk Southern are aligned. All of our Union employees who have a job today will have jobs tomorrow in our merged company, and a company that is growing its business and spurring economic development creates even more jobs. The ultimate impact of investment in our combined company infrastructure, talent, and technology will be immense for American communities and businesses nationwide. Union Pacific and Norfolk Southern are committed to finding new ways to drive growth benefit customers and enhance real safety and competitors. I could go on and on, but I'll pause and ask Mark for his perspective on this historic transaction. Mark?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Jim. It is a historic day, not just for our companies, but for our industry, our country, and all of our stakeholders. This combination brings together two teams with a shared commitment to advancing our nation's economy connecting people, strengthening our communities, and building a stronger, more competitive America. Both Norfolk Southern and Union Pacific have been an integral part of our country's growth for generations. With this transaction, we will extend Norfolk Southern's rich nearly 200-year history alongside Union Pacific, unlocking new opportunities for our customers in our next chapter. We've strengthened our operations and have been disciplined in the execution of our strategy, running an efficient network, improving processes and driving excellence.
+We're championing safety and continuous improvement at every level and have fostered the discipline to continue delivering a service product that's not only competitive, it's compelling for our customers. And with the leaders we have and processes we're instilling, we are now demonstrating network resilience in the face of challenges. In these efforts, they have led us to today a turning point for the industry that's only possible because of the thoroughbreds team commitment, strength and belief in our mission. I'm so proud of everything we've accomplished, and I want to commend our dedicated leadership team and our whole organization for they've all done wonderful things to deliver results.
+By joining together with Union Pacific, this transaction will allow us to build on the momentum that we've created and to really create America's true first transcontinental railroad. Delivering more for our customers, our shareholders, our people and the communities we call home. The ability to deliver for all our stakeholders simultaneously was central to my initial conversations with Jim, we share a vision for the rail industry where traffic grows, customers have faster, more reliable shipping. Our nation's economy expands with less emissions and importantly, our people continue to be central to our business. Not only is this an opportunity to strengthen the supply chain, but one where we can deliver something no one else can, a freight railroad that unites our nation.
+Joining our over 19,000 mile network and powerful franchise with those of Union Pacific will allow us to deliver a more effective and competitive roll road, creating compelling benefits for the iconic American industry and our workers. We will create opportunities for our employees as we grow by delivering reliable and timely service for our customers. We will build value for shareholders who will benefit from both the opportunity to participate in significant upside as holders of the combined organization. Which we believe will be a must-own large-cap stock and should trade at a robust multiple. We will unlock potential for the American economy today and well into the future. And we look forward to all that we will accomplish together. Jim?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          Thank you, Mark. Combining our two great companies creates an impressive rail network as laid out on Slide 5. The Union Pacific Norfolk Southern combined network supported by over 52,000 railroaders will spend 50,000-plus miles across 43 states, reaching nearly every corner of the United States. It connects major manufacturing centers, agricultural region and population center. It also unlocks rail options for shippers in markets where today's real network is currently inefficient, such as gateway operations and connecting short-distance markets on both sides of the Mississippi River.
+Our combined network will connect 10 gateways with Mexico and Canada as well as over 100 ports, opening strong international trade routes and supporting local and cross-border economic growth. Importantly, single-line service reduces interchange points and creates increased fluidity and optionality. It reduces strain at our gateways and interchange points, optimizes handoffs, and eliminates rubber tire interchanges. Today, around 1 million carloads interchange between our two companies. In the future, those million carloads will immediately see a 24- to 48-hour improvement in their transit time. That combination of faster service and greater market reach is powerful making our transcontinental railroad an attractive choice for both current and future customers.
+Our network will be strengthened by continued capital investment. In 2025, that combined investment will total around $5.6 billion. These investments are critical to support safety, service and operational efficiency improvements. And we're committed to continue those investments to support US economic growth going forward. Now turning to Slide 6. Ultimately, we believe this new combined network enhances competition and increases growth opportunities that are in the public interest, benefiting all stakeholders. For us, this isn't just about winning versus the other rails, which we will. But it's also competing against other modes of transportation, whether that's barge, truck or pipeline to name a few.
+It's providing the transportation product to compete for broader industrial development that supports reshoring manufacturing growth in the US. Our unified transcontinental offering will allow us to compete more effectively with Canadian transcontinental rails, making US ports more competitive and winning back US freight volume in American jobs. With route optionality that creates direct routes East and West will help our customers win in their marketplaces. Single-line service opens up more customer options to and from underserved areas in the Ohio Valley and the Mississippi River watershed.
+By connecting around 100 ports and 10 international gateways, we enable more efficient and cost-effective supply chains. Stepping back, the combined network will capitalize on the strength of Union Pacific's West Coast ports and Norfolk Southern East Coast ports. Merging the strength of both companies' intermodal network facilitates the capture of international trade volumes and domestic truck conversion. The beauty of US ports is the population centers around the ports as well as the inland reach, thus making our ports a more natural destination when paired with excellent service and a wide portfolio of destinations. Slide 7 summarizes a lot of what you've heard so far and why we see this combination as a win for our customers. A couple of things I'd add. First is a question of enhancing competition. One way we're considering addressing this is through a proven framework we've employed in the past. It's a framework used by Union Pacific for select traffic in the Pacific Northwest.
+The results have demonstrated that it has enhanced competition while supporting carload growth that has outpaced the market. While more details will come through the STB application process, we believe it will be a win for our customers. A significant note, with this combination, fewer than 20 customers will go from having two rail providers to just one, and we intend to provide a competitive alternative. Second, the deployment of state-of-the-art technology like Union Pacific's NetControl and CADX systems, along with Norfolk Southern's advanced algorithms that drive digital train inspection will create a safer, more efficient overall network while enhancing customer experience through shipment visibility and tracking. Now imagine steel moving from Pittsburgh, Pennsylvania, The Colton, California seamlessly. -- and then copper moving from Arizona to the east with fewer touch points, increased speed and better customer tracking capability. The possibilities are endless and only increases my excitement about what's possible. I'll now hand it over to Jason to transition the conversation to the financial aspects of the deal. Jason?
+
+--------------------------------------------------------------------------------
+Jason Zampi,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President, Treasurer    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Jim. This proposed combination creates both scale and balance as laid out on Slide 8. Based on 2024 pro forma results, our combined company has revenue of $36.4 billion, EBITDA of roughly $18 billion, and an operating ratio of 62.1%. This scale, combined with operational discipline, positions us to capture greater value as rail demand continues to grow. And specifically, with the combined operating ratio, there is clearly room for continued improvement.
+Together, UP and NS handled more than 14 million carloads a year across numerous business lines within our industrial, bulk, intermodal, and automotive segments. You've heard both companies talk separately about how this diversity helps us navigate the ups and downs of economic cycles. This merger only increases our combined company's ability to weather any storm. Importantly, this isn't just about being a bigger railroad.
+It's about being a better railroad, one that is more efficient and creates more value for our customers. Now, I'll turn it over to Jennifer to walk through the financial opportunity our proposed combination creates. Jennifer?
+
+--------------------------------------------------------------------------------
+Jennifer Hamann,  Union Pacific Corp - Chief Financial Officer, Executive Vice President of the Company and Railroad    [8]
+--------------------------------------------------------------------------------
+
+          Thank you, Jason, and good morning. Slide 9 provides a one-stop shop for the transaction details. Jim has already touched on a few of these points, but let me highlight that under the proposed terms, Norfolk Southern shareholders will receive share of Union Pacific stock and $88.82 cash for each Norfolk Southern common share. This represents an $85 billion headline value based on Union Pacific's July 16 unaffected closing price and a 25% premium to Norfolk Southern's 30-trading day volume weighted average price. In terms of the roughly $20 billion cash portion required for the transaction, I should point out that there will be no voting trust, so no funding will occur until the transaction closes.
+At close, we will fund that through a combination of cash we generate between now and closing as well as issuance of debt. As part of that, both Union Pacific and Norfolk Southern have suspended share repurchases and but will maintain their respective dividends. For that premium, we are creating a transcontinental railroad that unlocks $2.75 billion in synergies, as illustrated on Slide 10. We see a clear path to achieving these annualized synergies in the third year post close, represented by both revenue growth and productivity. On the revenue side, synergies of $1.75 billion will be heavily driven by modal conversion as single-line service makes rail more competitive versus truck. As Jim laid out, lanes such as the Pacific Northwest to the watershed and Southern California to the Ohio Valley provide great opportunities to win new business.
+Beyond intermodal, we see opportunities such as finished vehicles moving nationwide. Food and beverage shipments traveling west to east, industrial chemicals, moving from the Gulf to Eastern markets and tires and steel rod moving east to west. As you saw on Slide 8, both companies bring a diverse business mix to this transaction which gives us a wide aperture to pursue growth opportunities. Cost synergies of $1 billion will result from improved safety and efficiency through shared best practices, reduction of material costs, enhanced asset utilization, routing efficiencies, and rationalization of back office costs. For example, through just the optionality of single-line service will increase locomotive productivity and generate fuel savings through less idle time and gateways.
+We'll gain workforce productivity through fewer car touches as well as driving the culture of operational excellence across an expanded footprint. To support these cost synergies, we expect to spend roughly $2 billion in incremental capital to integrate the networks. Finally, the deployment of state-of-the-art technology from both rails will create a safer, more efficient overall network. Looking then to Slide 11. This transaction yields a very compelling financial profile for the combined company as the $2.75 billion in synergies achieved by year three represents more than $30 billion of value creation. We expect adjusted EPS to be accretive early in the second year post close with high single-digit accretion thereafter as the synergies are realized. Annual free cash flow will grow from a 2024 pro forma combined $7 billion to an estimated $12 billion by 2029 with synergies, reflecting 10% annual growth.
+With this strong cash generation, we will rapidly delever our balance sheet. In fact, we expect to close the transaction with a debt-to-EBITDA of around 3.3 times and be back to around 2.8 times by 2028, and less than two years post close. With our commitment to prioritizing the balance sheet and discussions with the rating agencies, we would expect to maintain our current A-rated status. The more than 60% increase in run rate free cash flow supports our balanced capital allocation policy, reinvesting in our combined network rewarding our shareholders with a competitive dividend, and resuming share repurchases in 2028. By year three, we expect to be repurchasing more than $10 billion in shares annually. Bottom line, we are very pleased with what this deal represents for both Union Pacific and Norfolk Southern shareholders. We see it as a win today and a win for the future. I'll now turn it back to Jim to discuss the next steps and wrap up.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [9]
+--------------------------------------------------------------------------------
+
+          Thank you, Jennifer. Obviously, this is a first major step in this process. I'm on Slide 12. In terms of the timing and path to completion, the transaction is subject to review and approval by the Surface Transportation Board with its statutory time frame. We at Union Pacific do not take steps lightly. We think them through. We make sure we have a strong case. We make sure that the team is ready to move ahead, and we're very comfortable with where we are as we move ahead. As I mentioned earlier, our robust plans not only preserve but also enhance competition and will be filed with the Surface Transportation Board in due course. For all the reasons you've heard today, we're confident that transportation -- the transaction serves the public interest and meets relevant requirements.
+The transaction is also subject to approval by both Union Pacific and Norfolk Southern shareholders, I want to be very clear here. We are both deeply committed to making this a seamless an integration process as possible. We understand that we need to avoid distracting our organizations during this approval process in a way that impacts our customers. And once the transaction is complete, we need to move as quickly as possible to deliver the benefits our stakeholders expect. Now turning to Slide 13. The transaction of this size and scope won't be easy to execute.
+We understand that. Key is having the right strategy and the right team to execute it. At Union Pacific, our safety, service and operational excellence strategy has propelled our company to industry best. We've made significant safety improvements taken service to all-time best levels and the operational efficiency and financial performance speaks for itself as we reported just a short time ago. A big part of our strategy's success has been maintained a buffer of resources to handle the fluctuations of railroading. As we implement this transcontinental railroad, that buffer strategy will remain imperative.
+At Norfolk Southern, their thoroughbred culture has driven significant improvements over the past year plus. They have great momentum across those same key elements of safety, service and efficiency. It demonstrates that our companies are aligned on the fundamentals of running a great railroad. With the collective talent of both organizations combined with a winning strategy, I'm confident that we'll deliver for our stakeholders. Mark, I appreciate your thoughts on the cultural alignment before we wrap it up.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [10]
+--------------------------------------------------------------------------------
+
+          Sure, Jim. However, you label the strategy, it comes down to the core fundamentals. And from the start of the transaction, it was evident that the DNA of our companies were very similar. We have our core NS spirit values, which represent safety, performance, integrity, respect, innovation, and teamwork and those are very closely aligned with Union Pacific's. And we expect to combine the best of both companies' programs and technology to set a new bar for rail safety and performance advancing our shared commitment to keeping rail the safest way to move freight over land.
+And I just want to reiterate a point that Jim made earlier. Both companies are committed to a seamless integration. We understand that we need to continue to provide our customers with a high level of service throughout this process, avoiding distraction and disruptions. We'll have plenty of time to do thorough integration planning while the transaction is under review and post closing. And we commit, we're going to put the appropriate resources and time in place to assure that we do this the right way.
+Both companies have an immense amount of pride in their histories and how they've shaped our great nation. And if we use that as a foundation, while focusing on what we can control, I'm confident that these groups of real rotors will come together to win for our customers, our communities, our nation, and each other. Jim?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [11]
+--------------------------------------------------------------------------------
+
+          Thanks, Mark. Now wrapping up on Slide 14, it summarizes the unprecedented benefits of this merger. This is a historic milestone for the entire rail industry and for America. This transaction will unite the nation connecting businesses, consumers, and communities. It will accelerate growth, enhance competition, spur economic development unemployment and unleash economic innovation.
+Built on our safety, service and operational excellence strategy, we will accelerate improvements in the safety, service and efficiency of our combined network and through significant synergies and free cash flow generation, we will deliver enhanced shareholder value. Our great companies have deep roots and spur in the industrial revolution of the past. With this combination, we take the next step in driving economic growth and prosperity of the future. That concludes our prepared remarks. We will now open the lines to answer your questions. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Scott Group, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, Scott, how are you this morning, I get to talk to you twice in a week.
+
+--------------------------------------------------------------------------------
+Scott Group,  Wolfe Research LLC - Analyst    [3]
+--------------------------------------------------------------------------------
+
+          Hey, thanks. Pretty historic day. I have a question on deal mechanics and then maybe just a bigger picture question. Why no voting trust? And then can you give us the break fee if there is a superior offer that sort of mechanic stuff. And then Jim, just bigger picture. I know you don't have a operating ratio target. But when you think about UP standalone and now this combination, in your mind, as the combined railroad is this a better margin railroad? And as you think about like $2.75 billion of synergies. Is that inclusive of any potential regulatory concessions?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [4]
+--------------------------------------------------------------------------------
+
+          Well, Scott, listen, thank you very much. I'll answer the second question in a minute, but I'll pass it over to Jennifer. You can talk about the breakup fee and why no voting trust.
+
+--------------------------------------------------------------------------------
+Jennifer Hamann,  Union Pacific Corp - Chief Financial Officer, Executive Vice President of the Company and Railroad    [5]
+--------------------------------------------------------------------------------
+
+          Yes. So I'll start with the voting trust, Scott. We actually believe that a voting trust would complicate and potentially delay the transaction. So we want to go to the STB with a fully developed merger application that allows us to really lay out the fundamentals of this merger and provide all the necessary detail that supports our position that this will not only enhance competition, but it's absolutely in the public interest. And so again, with the time frame relative to regulatory approval, we also think it's in the best interest to not fund it fully two years before we would have to, which would obviously be required as part of the voting trust. In terms of the deal and the breakup fee, it is $2.5 billion is what's set for that. Certainly, we don't expect to be invoking that. We're very confident in this transaction.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [6]
+--------------------------------------------------------------------------------
+
+          So Scott, listen, I'm going to broaden a little bit the question that you've asked, okay, because I think this is really important to understand, and I've sort of said it a little bit in the prepared remarks. So when I came back to work at Union Pacific, after I was away for a sabbatical for a short time. I came back with a list of things. I carry around a block folder that -- I put my thoughts in on the back of it. And before I showed up, I said to myself, there's something missing in the United States of America, and that is truly a transcontinental railroad. And we limit the capability of customers and manufacturing and supply chains in the US because of the handoffs and what we do.
+The difficulty was always, could you ever get the deal and have a partner. And I'd tell you, it's a partner with Mark and his entire team. We spent all of yesterday together, just crossing T's and dotting I's. But at the end of the day, it was one of my goals. But of course, time and place is important, is do you have the right fundamentals? And what I like is I like the fundamentals and what Norfolk Southern is doing. And I trust that they are going to deliver as we go through this time frame to get to the STB, and the STB, if they look at it, which I think they will, in a very systematic, is it better for customers? Is it better for the country? Is it better to help people win in the marketplace, they'll approve this. We're very confident of that or we wouldn't have taken the step. So Mark and I had a little discussion.
+I always had it on the list of things to do, and we started the ball rolling. And when I look at how we got here, you need to make sure that the fundamentals of both railroads are in the right place. And I'm telling you, the fundamentals I know and I spoke about for, at Norfolk Southern are in the right place. The fundamentals for Union Pacific are also in a great place. We have a strong team right across the board. And you need that and make sure that you have it.
+I'm very comfortable with Jennifer who's sitting next to me with Eric, with Kenny, and Mark is absolutely, and I'm going to ask him to jump in and give his view of this in a minute. So we have the right team. Then at the end of it is where are we, time in place? Does this make sense? And we are absolutely sure that when everybody stops and thinks about this in a logical fundamental pattern, it is compelling. It's a case that's compelling for us to move ahead.
+Now you asked me about the or. I don't give or. All I'll tell you is my goal has always been the best in the industry, and you can go back to when I was at Canadian National, okay? As the Chief Operating Officer, and we had great operations, and we've continued that at Union Pacific. We expect to be the best in the industry. And that's what we're going to drive towards and make sure that we're still the best and be able to return the best service to our customers.
+In the last quarter, Union Pacific service level was close to 100% on both the Manifest and Intermodal and that is service that we measure what we deliver -- what we agreed to with our customers. So high service, great efficiency, build on that for these combined companies, I'm telling you I'm very comfortable. I do not make decisions lightly, and I gave it a lot of thought and the entire team did. And I'm absolutely, Mark, you did the same thing. Mark, any comments to add to what I just said?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [7]
+--------------------------------------------------------------------------------
+
+          No. I mean we've spent quite a while talking about this. And I think the most important part was fit and whether the fit was there. And I do believe, like I mentioned in the prepared remarks, culture was very much aligned I think our joint mission and vision for our country is 100% aligned. This is good for America to try to link our networks, independent networks.
+We can only go so far independently. And let's face it, this industry has faced contraction in deck over the last couple of decades in terms of volume growth. We've been losing share to truck, and this is one way to reverse that trend. So I'm supremely confident that we've got the right partnership that we're culturally aligned and that we're going to execute brilliantly on integration to ensure that there's no disruption.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Scott. Appreciate it. Sorry for the long answer.
+
+--------------------------------------------------------------------------------
+Scott Group,  Wolfe Research LLC - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Alright. I appreciate that. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+
+          Jonathan Chappell, Evercore ISI.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [11]
+--------------------------------------------------------------------------------
+
+          Good morning, Jonathan.
+
+--------------------------------------------------------------------------------
+Jonathan Chappell,  Evercore Inc - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Good morning, Jim, thank you. Good morning, Mark. Jim, you're going to get a lot of questions that you had on Thursday that you couldn't answer. So let's start with the DC environment. You've said very clearly you're not going to take steps lightly, you thought this through. I assume you've had some conversations with the administration, with the Department of Justice, with the STB. What can you tell us about the feedback you received from those initial conversations? What have you heard about adding the fifth member to the STB? And how does that fit into the time line that you've laid out?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [13]
+--------------------------------------------------------------------------------
+
+          Well, as the largest railroad in the United States of America, we have continuous discussion and dialogue with all facets of government and regulatory agencies in Washington. We continue to do that. So we would not have taken the step if we don't feel comfortable that we can deal with any of the issues that come forward. And that's the best way to describe any discussions we've had, and we'll continue to make sure that everybody understands what we're doing and how we move ahead.
+
+--------------------------------------------------------------------------------
+Jonathan Chappell,  Evercore Inc - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Do you know anything about the fifth member, the timing there?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [15]
+--------------------------------------------------------------------------------
+
+          No, you probably know more than me on that. So if you know something, let me know. I think there's quite a backlog nominee. So it may take a little bit of time. That's kind of what we're hearing. But – thank you very much.
+
+--------------------------------------------------------------------------------
+Jonathan Chappell,  Evercore Inc - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Brian Ossenbeck, JPMorgan.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [18]
+--------------------------------------------------------------------------------
+
+          Morning, Brian.
+
+--------------------------------------------------------------------------------
+Brian Ossenbeck,  JPMorgan Chase & Co - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Good morning, guys. Jim, for Jason as well. Thanks for taking my questions, congrats on the announcement today. I wanted to ask a little bit more about the strategy to grow and enhance competition. So I guess, two parts. First one, if you have a view on intermodal service, combining these two networks? Is it still something where you need IMCs? Will you provide more on your rail-owned boxes? And then the second one, I guess, is really thinking through the approval process, how are you going to be able to come up and improve and quantify that these benefits are achievable through the merger and not through some other means? Thank you.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [20]
+--------------------------------------------------------------------------------
+
+          Well, listen, you know what, Mark, why don't you start on the intermodal. You guys do a spectacular job of that. And you guys -- I'm always envious when I look at how well you guys have done on that. So why don't you talk about the intermodal piece?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          Look, here's an interesting thing. With our interchange with UP today, 95% of our interchange is over 2,000 miles, meaning only 5% is under 2,000 miles. We see an enormous opportunity to grow in lanes where we would be in that 1,000 mile or 1,500-mile range. So that's just one example and that kind of touches upon the entire watershed story. So again, you've got this interference in the center of the country with these interchanges that creates friction -- and you've got 500-mile moves, 1,000-mile moves on each side of the Mississippi. And when you're going from west of it to east or east to west, rail has never even contemplated because it's just too much hassle too much extended time and frankly, too much cost. So these are the areas where we see tremendous growth. And that's part of what you see in the revenue synergy number. So we're supremely confident as we look at the growth, and I think, Jim would tell you the revenue synergies here were supremely confident in.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [22]
+--------------------------------------------------------------------------------
+
+          You bet. What I could add, [Scott], if you had a case where we was not thought through and was not compelling, you'd have a hard time being able to get anything done. When we look at what this combination delivers, it delivers truly better service for our customers. Think about this you've been following us, Brian, for a long time, and I could go on -- this is one of those white board exercises that we could be at for two hours. But just to give you a little snippet, when a railcar moves non intermodal and it meets the goal from east to west or west to east, we can get across the country.
+We get across all the way from LA to Dallas in less than two days with an intermodal train. It's a little longer with a freight train. We will remove touch points. And every time there's a touch point, you add 24 to 36 hours even at the best while you're switching the railcar. That's gone. On top of that, at the interchange points where we used to stop and hand off, those are removed. So every customer that today when we are finally approved. And that's what the STB is going to look at is what's the advantage? How is service? Is it better for America? And what they'll look at is we're going to cut a day or two off of every transit time. That means less cost for our customers.
+They'll have to have less cars, less leases less -- the congestion on the railroad will be less because there will be less railcars that are needed to move the same amount of business. That's something we've done at UP already within our own network. The amount of carloads, okay? Cars per carload that we operate is improved by 20%. The velocity has improved and this combination moves it. So given all that, I trust what the STB Chair has said that he wants to live up to commitments and time line and make sure that the process of anything that they look at is clean, and that's why we're very confident that we'll be in the timeline, unless we make a mistake in what the information that they require to look at our transaction, but I'm very confident that we've done the homework and we're in the right place.
+
+--------------------------------------------------------------------------------
+Brian Ossenbeck,  JPMorgan Chase & Co - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Brandon Oglenski, Barclays.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [25]
+--------------------------------------------------------------------------------
+
+          Good morning, Brandon.
+
+--------------------------------------------------------------------------------
+Brandon Oglenski,  Barclays Services Corp - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Hi, good morning, everyone. Congrats on the deal, Jim and Mark. Jim or Mark, I mean, if we go back in the history of STB merger approval or unapproval, I think integration service risks come up quite a bit, especially with integrations that happened decades ago. You guys talk about some of your strategies to maybe mitigate those integration risks and what the service plan would be in the first year or two of the integration of the two networks? Thank you.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [27]
+--------------------------------------------------------------------------------
+
+          Mark, do you want to start?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [28]
+--------------------------------------------------------------------------------
+
+          Yes. I think like I mentioned in my prepared remarks, Brandon, we're very aware of what led to the merger moratorium back in 2000, 2001 time frame, and it was just a bunch of bad integrations. And we are committed to make sure that, that doesn't happen in this case. And we're going to use this two years of review process to start getting our teams together to talk and think and learn about the way our systems communicate, what platforms we want to be on to ensure that we have a running start when we close on this deal in two years' time. And we're not going to turn any switches on unless we're 100% confident that we're going to be disruption free. So we're -- we've learned -- we're learning from the lessons of the past, and you have our commitments there.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [29]
+--------------------------------------------------------------------------------
+
+          So I agree with Mark 100%. We're going to be very prudent in how we do things. But you know what words are easy, and people can talk about things and what -- and say this is what they're going to do. I'm not into talking about things. I am at the showing and then being able to replicate that. So shutdown, everybody remembers, and we talked lots about our implementation of NetControl. That change -- that was -- that is the fundamental system that runs our railroad, keeps track of every railcar movement, sets up for billing, and we shut it down, replaced the old one with NetControl, and it was a nonevent. It was like nobody knew it actually happened. I was hoping I'd get more questions and give us a little pat on the back for Rahul and his entire IT team about how well Union Pacific did, but I never got any positive remarks from anybody. Rahul is still waiting for some.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [30]
+--------------------------------------------------------------------------------
+
+          Welcome to the world. (laughter)
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [31]
+--------------------------------------------------------------------------------
+
+          Yeah. Exactly. So at the end of it, I could go on the things. But fundamentally, the fundamental strategy that we are going to partake in this is having a buffer of resources so that we do not get ourselves in a place where we can handle because you're always -- it's an outdoor sport. You're always going to be confronted with something. And you need to make sure that you have a buffer of locomotives and a buffer of assets and a buffer of people at the right level so that you can win. So I'm very confident.
+I really am that we will take it, like Mark said, take the right steps, don't get too carried away. Don't think -- I don't know Norfolk Southern like I know Union Pacific. And if anybody thinks first day, we're going to go out there and start slashing and burning, that's not going to happen. We need to learn and get the team together to build the right plan that wins. I'm being very verbose this morning. I think we're going to have to cut off some of these I'm going to try to do three word answers from now on.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [32]
+--------------------------------------------------------------------------------
+
+          Thank you, Brandon.
+
+--------------------------------------------------------------------------------
+Brandon Oglenski,  Barclays Services Corp - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Thank you, both. Congrats.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Fadi Chamoun, BMO Capital Markets.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [35]
+--------------------------------------------------------------------------------
+
+          Hey, Fadi. How is everything in Canada this morning, Fadi?
+
+--------------------------------------------------------------------------------
+Fadi Chamoun,  Bank of Montreal - Equity Analyst    [36]
+--------------------------------------------------------------------------------
+
+          It's great up here, Jim. We miss you. So I want to say congrats on the deal first. And just a follow-up on an earlier question. Does the synergy numbers and the cash flow numbers that you've outlined in any way, accounts for any potential concession in the -- My main question, though, is there's two ways this could have gone kind of transcontinentally. And I understand what you outlined in terms of team alignment and culture but are there other network synergy consideration and mix, commodity mix or kind of business mix consideration then went into why would NS and UP make the best transcontinental combination versus potentially another one? And lastly, Jennifer can give us what's the gross revenue number underlying the $1.75 billion.
+
+--------------------------------------------------------------------------------
+Jennifer Hamann,  Union Pacific Corp - Chief Financial Officer, Executive Vice President of the Company and Railroad    [37]
+--------------------------------------------------------------------------------
+
+          So I'm probably not going to give you that gross number, Fadi, but I will tell you that the synergy numbers themselves are growth synergies. So $1.75 billion is what we're looking at for revenue. And as you heard Mark say and you hearing the enthusiasm from the group, we think that there's more opportunity there and then $1 billion on the cost side. So that's that part. In terms of the returns and the cash flows that we talked about, we have taken into account the fact that there will likely need to be some concessions made. We're not going to size that. So when you hear us talk about the economics of the deal, know that that's taken that into consideration, but the synergies that we're talking about are on a gross basis.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [38]
+--------------------------------------------------------------------------------
+
+          Fadi, you said why NS, I think they're a great company. Mark, why Union Pacific?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [39]
+--------------------------------------------------------------------------------
+
+          I think we've got the largest interchange only.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [40]
+--------------------------------------------------------------------------------
+
+          We do.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [41]
+--------------------------------------------------------------------------------
+
+          Million carloads of interchange -- you bet. We've got a really strong cultural alignment. So it's a beautiful complementary fit.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [42]
+--------------------------------------------------------------------------------
+
+          You bet. Thanks, Fadi.
+
+--------------------------------------------------------------------------------
+Fadi Chamoun,  Bank of Montreal - Equity Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Tom Wadewitz, UBS.
+
+--------------------------------------------------------------------------------
+Thomas Wadewitz,  UBS AG - Equity Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Hi, guys, good morning. Jim and Mark, yes, congratulations on the deal. Let's see. Wanted to ask if you could help frame a little bit more on the revenue synergies? And then I don't know if you think like there's more likely to be upside on cost to revenue synergies. But I think you mentioned Canadian opportunities and taking business from Canadian ports. You mentioned the watershed markets. Can you give any more perspective like how large are those pieces of the $1.75 billion -- is it -- is Watershed, the biggest piece? Is intermodal biggest piece? How much is Canadian ports. Just any maybe high-level perspective on how you think about the bigger opportunities within that $1.75 billion number? Thank you.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [46]
+--------------------------------------------------------------------------------
+
+          You know what, you did a great job of sort of framing the opportunity. You really did. You covered it all. So let me just say this is -- at Union Pacific, we have always been very prudent about what we put out for goals, okay? And Jennifer is not sitting close enough. She's worried that I'm going to say blow by. So I'm not going to say blow by, but what I will say is we're prudent on what we see for revenue synergies and we've done a detailed study, and I'm very comfortable that we're going to deliver what we said because we're prudent people. Mark, anything you want to add?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [47]
+--------------------------------------------------------------------------------
+
+          Yes. I think, again, we talked about the watershed opportunities, you've got markets like we can really attack in the watershed like Houston to Charlotte, for example. Dallas to Columbus, Laredo, Denver to Columbus. There's an awful lot of opportunity here where there's virtually no rail moves -- it's all truck moves. And those are big markets we can start to exchange. So there's -- I think there's opportunity well, well, well in excess of the numbers there. But we've made estimates and approximations that get us to the $1.75 billion. But frankly, like Jim is saying, and I'm saying there's a lot of confidence in that number and most likely a lot of upside. And on the Canadian side --
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [48]
+--------------------------------------------------------------------------------
+
+          Just a detail, a little bit about the competition and why this is great for America, and great for the industry, and great for customers. Intermodal comes in at Halifax, comes in at Montreal, comes in at Vancouver, comes in at Prince Rupert and single-line haul they have, the Canadians to be able to come into the US, deep into the US, and deliver, and we're going to be competitive on that. We're going to be able to come out of the East Coast ports and the West Coast ports and compete.
+That's what we want to do. All we care about is let's get -- whoever has the best service, best price, best model to win, and I think it's wonderful for us moving ahead. And then you have to look at the fact that you just can't really -- our opportunity to take share against long-haul truck is really amplified here when you start to eliminate the friction of interchanges. So eliminating a lot of those friction points and being able to build blocks and move traffic without an interchange is going to help us take share from truck on the long-haul side. Thank you very much.
+
+--------------------------------------------------------------------------------
+Thomas Wadewitz,  UBS AG - Equity Analyst    [49]
+--------------------------------------------------------------------------------
+
+          One component within that. Is it primarily intermodal that we're talking about? Or is it a big mix of carload as well?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [50]
+--------------------------------------------------------------------------------
+
+          It's carload as well.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [51]
+--------------------------------------------------------------------------------
+
+          Yes, it's carload as well. Absolutely.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [52]
+--------------------------------------------------------------------------------
+
+          Absolutely. We described the touch points. Yes.
+
+--------------------------------------------------------------------------------
+Thomas Wadewitz,  UBS AG - Equity Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+
+          Jason Seidl, TD Cowen.
+
+--------------------------------------------------------------------------------
+Jason Seidl,  Cowen and Company LLC - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          Jim, Mark, and team, congratulations I wanted to dive a little bit more into the synergy side of things and talk about the conversions. Clearly, the rail industry has lost share to the truck market over the last couple of years. How much has been lost at least in your estimation in the longer length haul lanes. And then when you look at the synergy numbers that you've given us, does that assume that there's no reaction by the other two to create another transcontinental railroad to compete with you? Or is that on a combined basis as well?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [56]
+--------------------------------------------------------------------------------
+
+          Listen, the truck market is huge. And we're not saying that we have the capability to take trucks out of everywhere. There's certain length of haul where the truck has an advantage. There are certain types of business that need a truck. And I think, were mutually we can work together to win even more business and help with the transformation that's happening on the industrial side in the United States of America right now. So the way we look at it is the opportunity is there for us to be able to sell that model and end-to-end closer to what the customers have, extend the reach and not have that hand off. I give the example for people that aren't railroaders.
+I know I've read a lot of your articles lately. So you're a railroader, just like I am, okay? And at the end of the day is -- I would like to have in the United States of America that if you cross the Mississippi and you were flying from one end of the country to the other, you'd have to get on the plane in New York, get up in Chicago at O'hare, change plans change carrier and go to another airline to go to LA. And that's what we do.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [57]
+--------------------------------------------------------------------------------
+
+          And book two tickets to do it.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [58]
+--------------------------------------------------------------------------------
+
+          Book two tickets to do that.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [59]
+--------------------------------------------------------------------------------
+
+          With two different companies.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [60]
+--------------------------------------------------------------------------------
+
+          Exactly. So but that's how we treat freight in our country.
+
+--------------------------------------------------------------------------------
+Jason Seidl,  Cowen and Company LLC - Analyst    [61]
+--------------------------------------------------------------------------------
+
+          My interchange is Newark. So it's pretty bad. (laughter)
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [62]
+--------------------------------------------------------------------------------
+
+          Sorry about how I apologize. (laughter) Mines Omaha, it's very simple to get to. Thank you very much for the question.
+
+--------------------------------------------------------------------------------
+Jason Seidl,  Cowen and Company LLC - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Thanks, guys.
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+
+          David Vernon, Bernstein.
+
+--------------------------------------------------------------------------------
+David Vernon,  Sanford C Bernstein & Co LLC - Analyst    [65]
+--------------------------------------------------------------------------------
+
+          Hey, guys. Thanks for taking my questions. First of all, congratulations and Jim, for what it's worth, I'm a big fan of NetControl. So good job on that. (laughter) So with the revenue synergy number of $1.75 billion, I know Jennifer, you said it's a mix of carload and intermodal. Van you kind of put a finer point on what percentage is carload versus intermodal? And should we be thinking about this as all sort of incremental industry -- incremental revenue to the railroad industry? Or is there also some diversion contemplated in the revenue synergy number?
+
+--------------------------------------------------------------------------------
+Jennifer Hamann,  Union Pacific Corp - Chief Financial Officer, Executive Vice President of the Company and Railroad    [66]
+--------------------------------------------------------------------------------
+
+          Yeah, I appreciate the question, but you know that I'm not going to give you that level of specificity. But you heard in Jim's remarks, I mean, we're expecting to convert traffic, certainly bring new business onto the rail. That's a very big part of this transaction. But we also think it will position us very well competitively against our peers as well.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [67]
+--------------------------------------------------------------------------------
+
+          Jason, anything to add? Like we kept you out of this discussion, anything else?
+
+--------------------------------------------------------------------------------
+Jason Zampi,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President, Treasurer    [68]
+--------------------------------------------------------------------------------
+
+          No. I think Jennifer hit it really well. A lot of opportunities on the revenue side. And I think -- we haven't talked much about the cost side, but there's great opportunities there. I think two of the biggest areas in our purchasing strategies as well as our technology and how we combine that.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [69]
+--------------------------------------------------------------------------------
+
+          Thank you very much for the question.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+
+          Stephanie Moore, Jefferies.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [71]
+--------------------------------------------------------------------------------
+
+          Good morning, Stephanie.
+
+--------------------------------------------------------------------------------
+Stephanie Moore,  SBG Securities (Pty) Ltd - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks, everybody. Maybe just continuing on the conversation in terms of the revenue synergies. If you could talk a little bit about any conversations that you've had with customers either leading into this deal? Or do you plan to have coming out of this deal and how your -- maybe looking to just address any potential concerns around network issues post close, but also to really come after and kind of take this incremental share from truck as well.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [73]
+--------------------------------------------------------------------------------
+
+          Let me just start by saying, I think we're both coming from a wonderful position of strength right now when it comes to our service product. I know on the NS side, our Net Promoter Score is as high as it's ever been. Our customers are quite pleased, and I know we hear the same thing on the UP side with regard to customer satisfaction. So I think that customers generally are going to feel as though this is going to provide them more opportunity to leverage that good service product that they've been receiving. And give us more share going forward. Jim?
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [74]
+--------------------------------------------------------------------------------
+
+          Mark, you know what, I think you've done a great job of summarizing that the way we're moving forward. So thank you very much for the question.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+
+          Bascome Majors, Susquehanna.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [76]
+--------------------------------------------------------------------------------
+
+          Good morning, Bascome.
+
+--------------------------------------------------------------------------------
+Bascome Majors,  Susquehanna Financial Group LLLP - Analyst    [77]
+--------------------------------------------------------------------------------
+
+          Good morning. Good morning, Jim; good morning, Mark. Can we go back to an earlier question, I know we'll get the detail from the lawyers on the origin story here when you file the proxy for the shareholder votes. But how long have you been talking beyond the sketches in your notebook, Jim, more seriously here? And did you speak to the other Eastern rail and what ultimately pushed you into this one being the right one, the biggest one or two reasons? Thank you.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [78]
+--------------------------------------------------------------------------------
+
+          Well, I tried to clear this up at the very start about how this -- all this started. But Bascome we have been talking and our Board, and I'm absolutely sure and Mark can jump in here. Our Board, when we started to talk about this internally and what we saw the benefits for customers, benefits on service and benefits for America, my Board really went through it in detail to make sure that we were doing the right thing for Union Pacific. And we wanted to also make sure that whoever our partner was, was the best partner for us that we saw the best capability moving forward. And that's what we've done. And it took months not years, but it took months from when we first talked.
+And I give Mark credit he came in for a top-to-top and he said, growth, and what do you think? And that sort of spurred something that we already had. So we're talking months away. And when we start to work through, I'm not going to get into any detail about any other conversations with anybody. That's just not the way business should be handled. But we worked through this, Mark and I, hand-in-hand and their boards and our Board, and we've had a lot of discussions about this to get it to the finish line. It's amazing how much -- even with a small team well, I guess, maybe a little larger team than I thought originally that we had on it, that it didn't matter as soon as we said something in the last couple of weeks, something would come out. So we needed to move fast, which we did. Mark, anything you want to add?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [79]
+--------------------------------------------------------------------------------
+
+          No, that's -- you nailed it.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [80]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [81]
+--------------------------------------------------------------------------------
+
+          Thank you, Bascome.
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+
+          Walter Spracklin, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Walter Spracklin,  RBC Capital Markets Inc - Analyst    [83]
+--------------------------------------------------------------------------------
+
+          Thanks very much. Hey, good morning, everyone. congrats on the deal. I want to start with the CapEx question. I know you mentioned your run rate for free cash flow. Can you give your implied annual CapEx run rate that drives that free cash flow? And Jennifer, did you say $2 billion in one-time CapEx to achieve the $2.75 million in synergy I guess my question there is where are the pass-through points here? And how much investment has to be made for you to avoid Chicago or push through within Chicago or not Chicago at all -- is there short lines that you are contemplating to make that more fluid? Just curious as to the level of project investment that would be required to increase the connectivity between the two companies.
+
+--------------------------------------------------------------------------------
+Jennifer Hamann,  Union Pacific Corp - Chief Financial Officer, Executive Vice President of the Company and Railroad    [84]
+--------------------------------------------------------------------------------
+
+          Well, thank you for that question. So first of all, we're spending about $5.6 billion this year. That's the combined between the two companies. I think, you've seen us both be very disciplined in terms of our CapEx approach. We're going to invest for growth. We're going to invest for safety and service. And we will stick to those principles throughout the next 22 months or so that it takes to have this transaction approved, and then going forward.
+That's always our first use of capital dollars, cash dollars is to invest it back into the business. That's our best investment, as I think you know. In terms of the $2 billion, we see that largely around tech integration because that will be extremely, extremely important to connect this NetControl system that we've just been talking about with NS system, leverage some of their systems with ours. Think about our progressive gate technology that you've heard us talk about. NS, I think, has 50-plus intermodal ramps.
+That's a huge opportunity for us to deploy that system and gain productivity through that deployment. And then, of course, you think about siding extensions, I think when you think about the length of the trains that we run and how we want to seamlessly interchange and run those intermodal trains and manifest trains, East, West, that will be an important part of that. Obviously, there's still a lot of details to work out there. But at a high level, that's really how we're thinking about it.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [85]
+--------------------------------------------------------------------------------
+
+          I think sometimes people are mistaken about the discussion about Chicago, and Memphis, and New Orleans and interchange points. So Chicago works for us, it really does. But you're interchanging and you're sitting there with railcars having to sit. What we're talking about is, Walter, is you take a train and you run it between our combined network, and it's just a crew change and you keep on going. That's the big benefit.
+We don't see a huge amount of business changing from Chicago to go to Memphis, or go to New Orleans because the outer route miles just don't add up, don't make a particle of sense. But if we can be smoother, cleaner the way we interchange, Walter, that's what is the real important piece of it. And on capital, everybody always thinks about capital and they think about it on what are we doing with locomotives, what are we doing with this?
+We have developed systems at Union Pacific and so has Norfolk Southern, some really good systems that improve productivity and how we handle ties, how we give track work time, how we replace rail and do that. So those are the things that you combine and put together. And we've identified $2 billion that from technology and everything else that we think to be able to combine these two companies and make sure that it's truly operate seamlessly as one railroad when we're moving our products is -- in the best way possible. So we've done, again, a lot of work to get to that number. I'm hoping we can do it for $1.7 billion. Thank you very much.
+
+--------------------------------------------------------------------------------
+Walter Spracklin,  RBC Capital Markets Inc - Analyst    [86]
+--------------------------------------------------------------------------------
+
+          I appreciate the time.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+          At this time, I would like to turn the call back over to Jim.
+
+--------------------------------------------------------------------------------
+Vincenzo Vena,  Union Pacific Corp - Chief Executive Officer, Director    [88]
+--------------------------------------------------------------------------------
+
+          Okay. Well, listen, everyone, thank you very much. We appreciate you all taking the time this morning to come in and join Mark and I. Mark, sorry for jumping on your quarterly call. But at the end of the day, Mark, I'm very pleased with this combination, this merger. I'm really pleased to get through this in the next 22 months and get it done. And we will deliver railroad that is like none other in North America that provides the best service for customers, best cost-effective way to move products across the country. and I'm very excited. Mark, any last words?
+
+--------------------------------------------------------------------------------
+Mark George,  Norfolk Southern Corp - Chief Financial Officer, Executive Vice President    [89]
+--------------------------------------------------------------------------------
+
+          Yeah. Look, we're really excited to be combining two great railroads, the two greatest in the country to create the first Intercon Transcontinental railroad, I should say. And I'm extremely proud of where we've come just in these past few months to arrive at a deal. And I think we're going to transform industry. So we were making history together here, and thanks for joining us on the call. Thank you very much, everyone. Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [90]
+--------------------------------------------------------------------------------
+
+          Thank you. Ladies and gentlemen, this does indeed conclude your conference call for today. Once again, thank you for attending. And at this time, we ask that you please disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
