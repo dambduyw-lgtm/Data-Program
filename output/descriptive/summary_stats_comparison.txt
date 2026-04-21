@@ -1,0 +1,40 @@
+Table 1c: Summary Statistics — Full Sample vs. Ex-Semiconductor
+Full sample: N = 98 firms, 1547 obs
+Ex-semi:     N = 92 firms, 1452 obs  (excl. NVDA, AMD, INTC, QCOM, AVGO, TXN)
+
+                  Variable Full_N  Full_Mean   Full_SD ExSemi_N ExSemi_Mean ExSemi_SD
+               CAR [-1,+3]   1547     0.0034    0.0723     1452      0.0035    0.0705
+            Long-run ABret   1547     0.0041    0.1271     1452      0.0019    0.1216
+ AI core (per 1000, total)   1547     1.3470    3.0014     1452      1.0719    2.5202
+  AI core (per 1000, pres)   1547     1.8300    4.1996     1452      1.4142    3.4321
+   AI core (per 1000, Q&A)   1547     1.0540    2.4909     1452      0.8409    2.0587
+  AI adj (per 1000, total)   1547     0.3518    0.5860     1452      0.3317    0.5685
+   AI adj (per 1000, pres)   1547     0.4972    0.9183     1452      0.4519    0.8658
+    AI adj (per 1000, Q&A)   1547     0.2686    0.5119     1452      0.2602    0.5001
+           LM Tone (total)   1547     0.3180    0.1919     1452      0.3214    0.1882
+    LM Uncertainty (total)   1547     0.0096    0.0021     1452      0.0097    0.0021
+            LM Tone (pres)   1547     0.5014    0.2510     1452      0.4978    0.2513
+     LM Uncertainty (pres)   1547     0.0084    0.0043     1452      0.0085    0.0044
+             LM Tone (Q&A)   1547     0.1862    0.2110     1452      0.1896    0.2098
+      LM Uncertainty (Q&A)   1547     0.0109    0.0023     1452      0.0109    0.0023
+               Total words   1547 10034.0537 1835.3327     1452  10131.3685 1814.4653
+        Presentation words   1547  3501.2456 1452.9004     1452   3557.0937 1460.6541
+                 Q&A words   1547  6365.2269 1572.5538     1452   6406.0978 1599.1503
+ Diff_Mean
+   -0.0001
+    0.0022
+    0.2751
+    0.4158
+    0.2131
+    0.0201
+    0.0453
+    0.0085
+   -0.0034
+    0.0000
+    0.0036
+   -0.0001
+   -0.0034
+    0.0000
+  -97.3148
+  -55.8480
+  -40.8709

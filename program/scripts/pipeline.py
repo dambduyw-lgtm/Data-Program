@@ -189,7 +189,7 @@ def run_corpus(input_root: str, out_csv: str, out_xlsx: str, lm_dict_path: str) 
     df["adj_per_1000_pres"] = [per_1000(n, w) for n, w in zip(df["adj_hits_pres"], df["pres_words"])]
     df["adj_per_1000_qa"] = [per_1000(n, w) for n, w in zip(df["adj_hits_qa"], df["qa_words"])]
 
-    df.to_csv(out_csv, index=False, sep=";", decimal=",")
+    df.to_csv(out_csv, index=False)
     df.to_excel(out_xlsx, index=False)
 
     return df

@@ -20,12 +20,27 @@ def extract_call_date(text: str) -> Optional[str]:
 
 FISCAL_Q_RE = re.compile(r"\bQ([1-4])\s*(20\d{2})\b", flags=re.IGNORECASE)
 
+# Matches "full year 2022", "full-year 2022", "full year fiscal 2022",
+# "fiscal year 2022", "annual 2022", "FY 2022" — all map to Q4.
+FULL_YEAR_RE = re.compile(
+    r"\b(?:full[\s\-]year|fiscal\s+year|annual|FY)\s*(?:fiscal\s+)?(20\d{2})\b",
+    flags=re.IGNORECASE
+)
+
 def extract_fiscal_quarter_year(text: str) -> Tuple[Optional[int], Optional[int], Optional[str]]:
     head = "\n".join(text.splitlines()[:120])
-    m = FISCAL_Q_RE.search(head)
-    if not m:
-        return None, None, None
 
-    q = int(m.group(1))
-    y = int(m.group(2))
-    return q, y, f"Q{q} {y}"
+    # Primary pass: standard "Q3 2023" format
+    m = FISCAL_Q_RE.search(head)
+    if m:
+        q = int(m.group(1))
+        y = int(m.group(2))
+        return q, y, f"Q{q} {y}"
+
+    # Second pass: "full year" / "fiscal year" / "annual" → treat as Q4
+    m = FULL_YEAR_RE.search(head)
+    if m:
+        y = int(m.group(1))
+        return 4, y, f"Q4 {y}"
+
+    return None, None, None
