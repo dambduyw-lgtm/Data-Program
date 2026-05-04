@@ -1,0 +1,58 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Fri, May 01, 2026 - 15:35:58
+\begin{table}[!htbp] \centering 
+  \caption{Semi-Only [Core AI Intensity]: CAR [+2, +30]  |  Presentation only} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{3}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-4} 
+\\[-1.8ex] & \multicolumn{3}{c}{CAR [+2, +30]} \\ 
+ & (1) Two-way FE & (2) Firm FE & (3) Pooled OLS \\ 
+\\[-1.8ex] & (1) & (2) & (3)\\ 
+\hline \\[-1.8ex] 
+ AI core / 1,000 (pres.) & 0.0031$^{***}$ & 0.0056$^{***}$ & 0.0040$^{***}$ \\ 
+  & (0.0011) & (0.0009) & (0.0012) \\ 
+  & & & \\ 
+ LM tone (pres.) & $-$0.0224 & $-$0.0227 & $-$0.0492 \\ 
+  & (0.0264) & (0.0447) & (0.0425) \\ 
+  & & & \\ 
+ LM uncertainty (pres.) & 3.3740 & 1.8855 & 1.6395 \\ 
+  & (6.2638) & (5.6819) & (7.0487) \\ 
+  & & & \\ 
+ SUE score & 0.0039$^{***}$ & 0.0032 & 0.0012 \\ 
+  & (0.0014) & (0.0020) & (0.0010) \\ 
+  & & & \\ 
+ Analyst coverage & 0.0019 & 0.0013 & $-$0.0005 \\ 
+  & (0.0028) & (0.0031) & (0.0028) \\ 
+  & & & \\ 
+ Return on assets & 0.3205 & 0.2565 & 0.1474 \\ 
+  & (0.2273) & (0.2931) & (0.2500) \\ 
+  & & & \\ 
+ Book-to-market & 0.1585$^{*}$ & 0.2036$^{***}$ & 0.0097 \\ 
+  & (0.0871) & (0.0768) & (0.0427) \\ 
+  & & & \\ 
+ Firm size (ln MktCap) & $-$0.0136 & $-$0.0202 & $-$0.0172 \\ 
+  & (0.0421) & (0.0276) & (0.0158) \\ 
+  & & & \\ 
+ Leverage & $-$0.1075 & $-$0.0663 & $-$0.0085 \\ 
+  & (0.3467) & (0.2455) & (0.0992) \\ 
+  & & & \\ 
+ Constant &  &  & 0.2268 \\ 
+  &  &  & (0.1671) \\ 
+  & & & \\ 
+\hline \\[-1.8ex] 
+Sample & NVDA/AMD/INTC/QCOM/AVGO/TXN & NVDA/AMD/INTC/QCOM/AVGO/TXN & NVDA/AMD/INTC/QCOM/AVGO/TXN \\ 
+Firm FE & Yes & Yes & No \\ 
+Time FE & Yes & No & No \\ 
+Cluster SE & Firm & Firm & Firm \\ 
+Observations & 95 & 95 & 95 \\ 
+R$^{2}$ & 0.0750 & 0.1132 & 0.0497 \\ 
+Adjusted R$^{2}$ & $-$0.3377 & $-$0.0420 & $-$0.0510 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{3}{r}{Sample restricted to semiconductor / AI-hardware firms: NVDA, AMD, INTC, QCOM, AVGO, TXN. Core AI intensity index (core_per_1000) used as primary AI regressor. Firm-clustered standard errors in parentheses (HC1). Outcomes and control variables winsorised at 1st/99th percentile. Two-way FE absorbs firm and calendar-quarter fixed effects. *** p<0.01, ** p<0.05, * p<0.1.} \\ 
+\end{tabular} 
+\end{table} 

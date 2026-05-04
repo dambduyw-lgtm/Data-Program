@@ -1,0 +1,74 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Fri, May 01, 2026 - 15:36:00
+\begin{table}[!htbp] \centering 
+  \caption{Semi-Only [Core AI Intensity] — Short-run CAR [-1,+1]: Two-Way FE by Transcript Segment} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{3}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-4} 
+\\[-1.8ex] & \multicolumn{3}{c}{Short-run CAR [-1,+1]} \\ 
+ & (1) Total & (2) Presentation & (3) Q\&A \\ 
+\\[-1.8ex] & (1) & (2) & (3)\\ 
+\hline \\[-1.8ex] 
+ core\_per\_1000\_total & $-$0.0055$^{*}$ &  &  \\ 
+  & (0.0031) &  &  \\ 
+  & & & \\ 
+ lm\_tone\_total & 0.0437 &  &  \\ 
+  & (0.0578) &  &  \\ 
+  & & & \\ 
+ lm\_uncertainty\_total & $-$26.1144$^{***}$ &  &  \\ 
+  & (5.4149) &  &  \\ 
+  & & & \\ 
+ core\_per\_1000\_pres &  & 0.0009 &  \\ 
+  &  & (0.0020) &  \\ 
+  & & & \\ 
+ lm\_tone\_pres &  & $-$0.0250 &  \\ 
+  &  & (0.0461) &  \\ 
+  & & & \\ 
+ lm\_uncertainty\_pres &  & $-$4.7662 &  \\ 
+  &  & (3.5041) &  \\ 
+  & & & \\ 
+ core\_per\_1000\_qa &  &  & $-$0.0068$^{***}$ \\ 
+  &  &  & (0.0019) \\ 
+  & & & \\ 
+ lm\_tone\_qa &  &  & 0.0543 \\ 
+  &  &  & (0.0430) \\ 
+  & & & \\ 
+ lm\_uncertainty\_qa &  &  & $-$21.0420$^{***}$ \\ 
+  &  &  & (3.9980) \\ 
+  & & & \\ 
+ suescore\_w & 0.0084$^{***}$ & 0.0097$^{***}$ & 0.0084$^{***}$ \\ 
+  & (0.0014) & (0.0015) & (0.0011) \\ 
+  & & & \\ 
+ analyst\_coverage\_w & $-$0.0006 & $-$0.0022 & 0.0002 \\ 
+  & (0.0008) & (0.0017) & (0.0010) \\ 
+  & & & \\ 
+ roa\_w & $-$0.4336 & $-$0.3418 & $-$0.3647 \\ 
+  & (0.3821) & (0.3423) & (0.2800) \\ 
+  & & & \\ 
+ book\_to\_market\_w & 0.0854 & 0.1066 & 0.0286 \\ 
+  & (0.0621) & (0.0745) & (0.0417) \\ 
+  & & & \\ 
+ firm\_size\_w & $-$0.0015 & 0.0198 & $-$0.0283 \\ 
+  & (0.0281) & (0.0327) & (0.0228) \\ 
+  & & & \\ 
+ leverage\_w & $-$0.1220 & 0.0712 & $-$0.3068$^{*}$ \\ 
+  & (0.2042) & (0.1440) & (0.1589) \\ 
+  & & & \\ 
+\hline \\[-1.8ex] 
+Sample & NVDA/AMD/INTC/QCOM/AVGO/TXN & NVDA/AMD/INTC/QCOM/AVGO/TXN & NVDA/AMD/INTC/QCOM/AVGO/TXN \\ 
+Segment & Total & Presentation & Q\&A \\ 
+Firm FE & Yes & Yes & Yes \\ 
+Time FE & Yes & Yes & Yes \\ 
+Cluster SE & Firm & Firm & Firm \\ 
+Observations & 95 & 95 & 95 \\ 
+R$^{2}$ & 0.4251 & 0.2475 & 0.4383 \\ 
+Adjusted R$^{2}$ & 0.1686 & $-$0.0883 & 0.1877 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{3}{r}{Sample restricted to semiconductor / AI-hardware firms: NVDA, AMD, INTC, QCOM, AVGO, TXN. Core AI intensity index (core_per_1000) used as primary AI regressor. Firm-clustered standard errors in parentheses (HC1). Outcomes and control variables winsorised at 1st/99th percentile. Two-way FE absorbs firm and calendar-quarter fixed effects. *** p<0.01, ** p<0.05, * p<0.1.} \\ 
+\end{tabular} 
+\end{table} 
