@@ -1,0 +1,45 @@
+
+<table style="text-align:center"><caption><strong>Panel Regression [Main Findings (Core AI Intensity Index)]: CAR [+2, +30] | Q&A only</strong></caption>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="3"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="3" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="3">CAR [+2, +30]</td></tr>
+<tr><td style="text-align:left"></td><td>(1) Two-way FE</td><td>(2) Firm FE</td><td>(3) Pooled OLS</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">AI core / 1,000 (Q&A)</td><td>0.0040<sup>***</sup></td><td>0.0032<sup>**</sup></td><td>0.0030<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0013)</td><td>(0.0012)</td><td>(0.0008)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">LM tone (Q&A)</td><td>-0.0057</td><td>0.0066</td><td>-0.0220<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(0.0137)</td><td>(0.0124)</td><td>(0.0090)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">LM uncertainty (Q&A)</td><td>-0.0310</td><td>0.2328</td><td>-0.6534</td></tr>
+<tr><td style="text-align:left"></td><td>(1.2125)</td><td>(1.2314)</td><td>(0.9263)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">SUE score</td><td>0.0004</td><td>0.0004</td><td>0.0002</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0008)</td><td>(0.0008)</td><td>(0.0007)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Analyst coverage</td><td>-0.0008</td><td>-0.0009</td><td>-0.0003</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0009)</td><td>(0.0009)</td><td>(0.0003)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Return on assets</td><td>0.3749<sup>**</sup></td><td>0.3855<sup>**</sup></td><td>0.1445</td></tr>
+<tr><td style="text-align:left"></td><td>(0.1769)</td><td>(0.1770)</td><td>(0.1026)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Book-to-market</td><td>0.0023</td><td>0.0041</td><td>0.0050</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0270)</td><td>(0.0262)</td><td>(0.0062)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Firm size (ln MktCap)</td><td>-0.0584<sup>***</sup></td><td>-0.0483<sup>***</sup></td><td>-0.0035</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0134)</td><td>(0.0110)</td><td>(0.0024)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Leverage</td><td>-0.0904</td><td>-0.0854</td><td>-0.0091</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0786)</td><td>(0.0736)</td><td>(0.0087)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td></td><td></td><td>0.0578<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.0342)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Firm FE</td><td>Yes</td><td>Yes</td><td>No</td></tr>
+<tr><td style="text-align:left">Time FE</td><td>Yes</td><td>No</td><td>No</td></tr>
+<tr><td style="text-align:left">Cluster SE</td><td>Firm</td><td>Firm</td><td>Firm</td></tr>
+<tr><td style="text-align:left">Observations</td><td>1,492</td><td>1,492</td><td>1,492</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.0357</td><td>0.0295</td><td>0.0126</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>-0.0464</td><td>-0.0418</td><td>0.0066</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="3" style="text-align:right">Firm-clustered standard errors in parentheses (HC1). Outcomes and control variables winsorised at 1st/99th percentile. Controls: SUE score, analyst coverage, ROA, book-to-market, firm size (ln MktCap), leverage. Two-way FE absorbs firm and calendar-quarter fixed effects. *** p<0.01, ** p<0.05, * p<0.1.</td></tr>
+</table>

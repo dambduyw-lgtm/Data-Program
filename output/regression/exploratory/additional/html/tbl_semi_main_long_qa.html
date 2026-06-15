@@ -1,0 +1,46 @@
+
+<table style="text-align:center"><caption><strong>Semi-Only [Core AI Intensity]: CAR [+2, +30] | Q&A only</strong></caption>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="3"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="3" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td colspan="3">CAR [+2, +30]</td></tr>
+<tr><td style="text-align:left"></td><td>(1) Two-way FE</td><td>(2) Firm FE</td><td>(3) Pooled OLS</td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">AI core / 1,000 (Q&A)</td><td>-0.0029</td><td>0.0057</td><td>0.0049</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0034)</td><td>(0.0053)</td><td>(0.0058)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">LM tone (Q&A)</td><td>0.0293</td><td>0.0031</td><td>-0.0439</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0693)</td><td>(0.0696)</td><td>(0.0639)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">LM uncertainty (Q&A)</td><td>2.6039</td><td>8.0601</td><td>10.2398<sup>**</sup></td></tr>
+<tr><td style="text-align:left"></td><td>(5.2178)</td><td>(5.4247)</td><td>(4.2286)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">SUE score</td><td>0.0041<sup>***</sup></td><td>0.0034</td><td>0.0026</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0013)</td><td>(0.0021)</td><td>(0.0022)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Analyst coverage</td><td>0.0004</td><td>-0.0004</td><td>-0.0011</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0012)</td><td>(0.0014)</td><td>(0.0019)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Return on assets</td><td>0.1581</td><td>0.1503</td><td>0.3368</td></tr>
+<tr><td style="text-align:left"></td><td>(0.3228)</td><td>(0.4987)</td><td>(0.3659)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Book-to-market</td><td>0.1544<sup>*</sup></td><td>0.2380<sup>***</sup></td><td>0.0571</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0784)</td><td>(0.0798)</td><td>(0.0431)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Firm size (ln MktCap)</td><td>-0.0180</td><td>0.0140</td><td>-0.0120</td></tr>
+<tr><td style="text-align:left"></td><td>(0.0404)</td><td>(0.0499)</td><td>(0.0318)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Leverage</td><td>-0.4005</td><td>-0.0698</td><td>-0.1272</td></tr>
+<tr><td style="text-align:left"></td><td>(0.3729)</td><td>(0.3818)</td><td>(0.0930)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td></td><td></td><td>0.0747</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td>(0.3514)</td></tr>
+<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Sample</td><td>NVDA/AMD/INTC/QCOM/AVGO/TXN</td><td>NVDA/AMD/INTC/QCOM/AVGO/TXN</td><td>NVDA/AMD/INTC/QCOM/AVGO/TXN</td></tr>
+<tr><td style="text-align:left">Firm FE</td><td>Yes</td><td>Yes</td><td>No</td></tr>
+<tr><td style="text-align:left">Time FE</td><td>Yes</td><td>No</td><td>No</td></tr>
+<tr><td style="text-align:left">Cluster SE</td><td>Firm</td><td>Firm</td><td>Firm</td></tr>
+<tr><td style="text-align:left">Observations</td><td>80</td><td>80</td><td>80</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.1148</td><td>0.1072</td><td>0.0692</td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>-0.3711</td><td>-0.0686</td><td>-0.0505</td></tr>
+<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="3" style="text-align:right">Sample restricted to semiconductor / AI-hardware firms: NVDA, AMD, INTC, QCOM, AVGO, TXN. Core AI intensity index (coreused as primary AI regressor. Firm-clustered standard errors in parentheses (HC1). Outcomes and control variables winsorised at 1st/99th percentile. Two-way FE absorbs firm and calendar-quarter fixed effects. *** p<0.01, ** p<0.05, * p<0.1.</td></tr>
+</table>

@@ -1,0 +1,32 @@
+\begin{table}[!htbp] \centering
+  \caption{AI-Core $\times$ Sentiment Interaction --- Interaction Terms by Transcript Segment}
+  \label{tab:int_summary}
+\begin{tabular}{@{\extracolsep{5pt}}lccc}
+\\[-1.8ex]\hline
+\hline \\[-1.8ex]
+ & (1) Total & (2) Presentation & (3) Q\&A \\
+\hline \\[-1.8ex]
+ \multicolumn{4}{l}{\textit{Panel A. Short-run CAR [-1,+1]}} \\[2pt]
+ AI-core $\\times$ LM tone & $-$0.0016 & $-$0.0037 & 0.0001 \\
+  & (0.0066) & (0.0046) & (0.0075) \\
+  & & & \\
+ AI-core $\\times$ LM uncertainty & $-$0.1480 & 0.1233 & $-$0.1474 \\
+  & (0.5883) & (0.3657) & (0.5003) \\
+  & & & \\
+ \multicolumn{4}{l}{\textit{Panel B. Long-run CAR [+2,+30]}} \\[2pt]
+ AI-core $\\times$ LM tone & $-$0.0062 & 0.0013 & $-$0.0084 \\
+  & (0.0072) & (0.0038) & (0.0063) \\
+  & & & \\
+ AI-core $\\times$ LM uncertainty & 0.9859 & $-$0.0379 & 0.8126 \\
+  & (0.6056) & (0.3936) & (0.5024) \\
+  & & & \\
+\hline \\[-1.8ex]
+ Firm FE & Yes & Yes & Yes \\
+ Time FE & Yes & Yes & Yes \\
+ Cluster SE & Firm & Firm & Firm \\
+ Observations & 1,492 & 1,492 & 1,492 \\
+\hline
+\hline \\[-1.8ex]
+\textit{Note:}  & \multicolumn{3}{r}{Each cell reports the interaction coefficient with its firm-clustered HC1 standard error in parentheses. Each interaction is estimated in its own two-way FE model (firm + calendar-quarter) including AI-core, both LM sentiment controls, and the six firm-level controls; only the interaction row is shown. Outcomes and controls winsorised at 1st/99th percentile. *** p<0.01, ** p<0.05, * p<0.1.} \\
+\end{tabular}
+\end{table}

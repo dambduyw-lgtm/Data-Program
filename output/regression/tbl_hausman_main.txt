@@ -7,12 +7,12 @@
 
   Model (Outcome_Segment)      Chi-sq    df   p-value  Decision
 ------------------------------------------------------------------------ 
-  Short_total                  93.913     9   < 0.001  FE preferred ***
-  Short_pres                   79.173     9   < 0.001  FE preferred ***
-  Short_qa                     82.492     9   < 0.001  FE preferred ***
-  Long_total                   40.448     9   < 0.001  FE preferred ***
-  Long_pres                    41.738     9   < 0.001  FE preferred ***
-  Long_qa                      40.597     9   < 0.001  FE preferred ***
+  Short_total                  90.723     9   < 0.001  FE preferred ***
+  Short_pres                   77.884     9   < 0.001  FE preferred ***
+  Short_qa                     79.275     9   < 0.001  FE preferred ***
+  Long_total                   42.425     9   < 0.001  FE preferred ***
+  Long_pres                    42.583     9   < 0.001  FE preferred ***
+  Long_qa                      42.391     9   < 0.001  FE preferred ***
 ------------------------------------------------------------------------ 
 
 Note: *** = reject H0 at 5%; FE preferred when firm effects are

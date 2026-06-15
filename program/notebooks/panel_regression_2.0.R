@@ -2,6 +2,11 @@
 # Panel Linear Regression — AI Semantic Features and Abnormal Returns
 # Thesis: AI Language in Earnings Calls and Stock Returns
 #
+# Sample: BALANCED PANEL. Only firms with the modal number of earnings calls
+# (full coverage across all sample quarters) are retained. Identical
+# restriction to descriptive_statistics_2.0.R; ensures the same firm set
+# underlies all reported tables and figures.
+#
 # Models are split into two sections with clearly separated outputs:
 #
 #   MAIN FINDINGS  (core AI intensity index)
@@ -32,14 +37,25 @@
 #   (2) Firm FE    : firm fixed effects only
 #   (3) Pooled OLS : no fixed effects, clustered SEs
 #
+# Script structure:
+#   1-3   Packages, data prep (balanced panel, winsorising), regression helpers
+#   4     Fit all 36 controlled models                          -> results
+#   4.5   Diagnostics (Breusch-Pagan, VIF, correlations)        -> tbl_diagnostics_*.txt
+#   6     Hausman tests (FE vs RE)                               -> tbl_hausman_*.txt
+#   9     Robustness: full / semi-only / ex-semiconductor       -> robust_results
+#   10    Temporal stability: AI intensity x time interaction   -> temporal_results
+#   11    AI core x sentiment interactions                       -> sentiment_results
+#   12    Temporal label helpers (corrected, label-by-name)
+#   13    CONSOLIDATED thesis tables (HTML + LaTeX, Overleaf-ready)
+#
 # Outputs (saved under output/regression/):
-#   main/txt|html|latex/          — main findings tables (core AI intensity)
-#   additional/txt|html|latex/    — additional findings tables (AI-adjacent)
+#   consolidated/html|latex/   — every thesis table, both formats (Section 13)
 #   tbl_diagnostics_{main|additional}.txt
 #   tbl_hausman_{main|additional}.txt
-#   fig_coef_plot_{main|additional}.png
-#   fig_coef_plot_full_{main|additional}.png
-#   fig_cv_comparison_{main|additional}.png
+#
+# Note: model objects from Sections 4-11 are held in memory and re-rendered once,
+# in Section 13, into the single consolidated/ folder. There are no per-section
+# table or figure exports.
 # =============================================================================
 
 
@@ -47,43 +63,24 @@
 # 1. PACKAGES
 # -----------------------------------------------------------------------------
 required_packages <- c(
-  "dplyr", "tidyr", "lubridate", "ggplot2", "scales",
+  "dplyr",     # data manipulation
   "zoo",       # yearqtr class — proper numeric quarterly time index for plm
   "plm",       # panel data models (within, random, pooling)
   "lmtest",    # coeftest + bptest (Breusch-Pagan heteroskedasticity test)
   "sandwich",  # clustered standard errors via vcovHC
   "car",       # vif() for multicollinearity diagnostics
-  "stargazer", # formatted regression tables
-  "patchwork"  # combine ggplot panels
+  "stargazer"  # formatted regression tables
 )
 new_packages <- required_packages[!(required_packages %in% installed.packages()[,"Package"])]
 if (length(new_packages) > 0) install.packages(new_packages, repos = "https://cloud.r-project.org")
 
 library(dplyr)
-library(tidyr)
-library(lubridate)
 library(zoo)
-library(ggplot2)
-library(scales)
 library(plm)
 library(lmtest)
 library(sandwich)
 library(stargazer)
 library(car)
-library(patchwork)
-
-# Consistent plot theme (mirrors descriptive_statistics.R)
-theme_thesis <- function() {
-  theme_minimal(base_size = 12) +
-    theme(
-      plot.title       = element_text(face = "bold", size = 13),
-      plot.subtitle    = element_text(color = "grey40", size = 10),
-      plot.caption     = element_text(color = "grey50", size = 8),
-      axis.title       = element_text(size = 10),
-      panel.grid.minor = element_blank(),
-      legend.position  = "bottom"
-    )
-}
 
 
 # -----------------------------------------------------------------------------
@@ -98,8 +95,33 @@ data_path  <- file.path(root_dir, "data", "processed", "financial_event_dataset_
 output_dir <- file.path(root_dir, "output", "regression")
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
-df <- read.csv(data_path, stringsAsFactors = FALSE)
-df$date <- as.Date(df$date)
+# Safe placeholder for "Q&A"; replaced with the format-correct string by
+# export_consol() in Section 13 (avoids breaking stargazer HTML/LaTeX headers).
+QANDA_TOKEN <- "QANDA"
+
+df_raw <- read.csv(data_path, stringsAsFactors = FALSE)
+df_raw$date <- as.Date(df_raw$date)
+
+# ---- Balanced panel restriction ----
+# Identify firms with the modal number of earnings calls in the sample
+# period and drop the rest. This produces a balanced panel so that the
+# descriptive statistics, regressions, and robustness checks all share
+# an identical firm set across the thesis.
+obs_per_firm_raw <- df_raw %>% count(ticker)
+modal_n_raw      <- as.integer(names(which.max(table(obs_per_firm_raw$n))))
+balanced_tickers <- obs_per_firm_raw %>% filter(n == modal_n_raw) %>% pull(ticker)
+
+df <- df_raw %>% filter(ticker %in% balanced_tickers)
+
+cat("=== Balanced Panel Restriction ===\n")
+cat(sprintf("  Raw       : %d firms, %d observations\n",
+            nrow(obs_per_firm_raw), nrow(df_raw)))
+cat(sprintf("  Balanced  : %d firms, %d observations (modal n = %d calls)\n",
+            length(balanced_tickers), nrow(df), modal_n_raw))
+cat(sprintf("  Dropped   : %d firms, %d observations (%.1f%% of raw)\n\n",
+            nrow(obs_per_firm_raw) - length(balanced_tickers),
+            nrow(df_raw) - nrow(df),
+            (nrow(df_raw) - nrow(df)) / nrow(df_raw) * 100))
 
 # ---- Calendar quarter index for the time dimension ----
 # Use actual call date rather than fiscal_period: fiscal quarters are firm-specific
@@ -193,6 +215,18 @@ pdata_semi <- pdata.frame(
   index = c("ticker", "yrq")
 )
 
+# Semi tickers ACTUALLY PRESENT after the balanced-panel restriction.
+# SEMI_TICKERS lists the six firms of interest, but any firm lacking the modal
+# number of calls (e.g. AVGO) is dropped by the balanced panel and never enters
+# pdata_semi. Use this data-driven vector — NOT SEMI_TICKERS — for table
+# "Sample" labels so the labels match the estimation sample exactly.
+semi_present_tickers <- sort(unique(as.character(df_panel$ticker[df_panel$is_semi])))
+semi_absent_tickers  <- setdiff(SEMI_TICKERS, semi_present_tickers)
+if (length(semi_absent_tickers) > 0) {
+  cat(sprintf("  NOTE: semi tickers dropped by balanced restriction: %s\n",
+              paste(semi_absent_tickers, collapse = ", ")))
+}
+
 cat("=== Panel Setup ===\n")
 cat("Unique firms (N)          :", length(unique(df_panel$ticker)), "\n")
 cat("Unique time periods (T)   :", length(unique(df_panel$yrq)),    "\n")
@@ -285,36 +319,6 @@ run_panel <- function(formula, pdata,
   )
 }
 
-# --- Human-readable covariate labels for stargazer ---
-# include_controls should match the corresponding make_formula() call so that
-# the number of labels equals the number of model coefficients.
-make_cov_labels <- function(suffix,
-                            section = c("main", "additional"),
-                            include_controls = TRUE) {
-  section  <- match.arg(section)
-  seg_full <- switch(suffix,
-    total = "total",
-    pres  = "pres.",
-    qa    = "Q&A"
-  )
-
-  ai_labels <- if (section == "main") {
-    c(
-      paste0("AI core / 1,000 (", seg_full, ")"),
-      paste0("LM tone (", seg_full, ")"),
-      paste0("LM uncertainty (", seg_full, ")")
-    )
-  } else {
-    c(
-      paste0("AI adjacent / 1,000 (", seg_full, ")"),
-      paste0("LM tone (", seg_full, ")"),
-      paste0("LM uncertainty (", seg_full, ")")
-    )
-  }
-
-  if (include_controls) c(ai_labels, ctrl_labels) else ai_labels
-}
-
 
 # =============================================================================
 # 4. RUN ALL MODELS  (with control variables)
@@ -351,8 +355,8 @@ cat("\nAll 36 models fitted.\n\n")
 
 
 # -----------------------------------------------------------------------------
-# Shared labels — defined here so they are available to both the diagnostics
-# section (4.5) and the table export section (5) that follows.
+# Shared labels — used by the diagnostics section (4.5) and the consolidated
+# table export (Section 13).
 # -----------------------------------------------------------------------------
 outcome_labels <- c(
   car_m1_p1_w      = "Short-run CAR [-1,+1]",
@@ -364,14 +368,6 @@ seg_labels <- c(
   qa    = "Q&A only"
 )
 spec_labels <- c("(1) Two-way FE", "(2) Firm FE", "(3) Pooled OLS")
-
-note_base <- paste0(
-  "Firm-clustered standard errors in parentheses (HC1). ",
-  "Outcomes and control variables winsorised at 1st/99th percentile. ",
-  "Controls: SUE score, analyst coverage, ROA, book-to-market, firm size (ln MktCap), leverage. ",
-  "Two-way FE absorbs firm and calendar-quarter fixed effects. ",
-  "*** p<0.01, ** p<0.05, * p<0.1."
-)
 
 
 # =============================================================================
@@ -506,128 +502,6 @@ for (sec in sections) {
   cat(sprintf("  Diagnostics saved: tbl_diagnostics_%s.txt\n", sec))
 }
 cat("\n")
-
-
-# =============================================================================
-# 5. REGRESSION TABLES
-# =============================================================================
-# Output directory structure:
-#   output/regression/main/txt|html|latex/        — main findings
-#   output/regression/additional/txt|html|latex/  — additional findings
-
-# ---- Create section-specific output subdirectories ----
-section_dirs <- list()
-for (sec in sections) {
-  sec_root <- file.path(output_dir, sec)
-  section_dirs[[sec]] <- list(
-    html  = file.path(sec_root, "html"),
-    latex = file.path(sec_root, "latex")
-  )
-  for (d in section_dirs[[sec]]) dir.create(d, showWarnings = FALSE, recursive = TRUE)
-}
-
-# ---- export_table(): write one table in all three formats for a given section ----
-export_table <- function(fits, ses, pvals, base_name, section, ...) {
-  dirs <- section_dirs[[section]]
-  formats <- list(
-    list(type = "html",  dir = dirs$html,  ext = ".html"),
-    list(type = "latex", dir = dirs$latex, ext = ".tex")
-  )
-  for (fmt in formats) {
-    stargazer(
-      fits,
-      type         = fmt$type,
-      se           = ses,
-      p            = pvals,
-      out          = file.path(fmt$dir, paste0(base_name, fmt$ext)),
-      ...
-    )
-  }
-  cat(sprintf("  [%-11s] Saved: %s  (.html / .tex)\n", section, base_name))
-}
-
-
-# ---- 5a. Per-outcome × per-segment tables (columns = 3 specs) ----
-# 2 sections × 6 outcome-segment combos = 12 tables total.
-# Each table has 3 columns (Two-way FE / Firm FE / Pooled OLS) for
-# one outcome × segment combination. These are the detailed appendix tables.
-
-cat("=== Exporting per-segment tables ===\n")
-for (sec in sections) {
-  cat(sprintf("\n  Section: %s\n", section_labels[[sec]]))
-  for (outcome in outcomes) {
-    for (seg in segments) {
-      base <- sprintf("tbl_%s_%s",
-                      ifelse(outcome == "car_m1_p1_w", "short", "long"), seg)
-
-      fits_list  <- lapply(specs, function(s) results[[sec]][[outcome]][[seg]][[s]]$fit)
-      ses_list   <- lapply(specs, function(s) results[[sec]][[outcome]][[seg]][[s]]$se)
-      pvals_list <- lapply(specs, function(s) results[[sec]][[outcome]][[seg]][[s]]$pval)
-
-      export_table(
-        fits_list, ses_list, pvals_list, base,
-        section          = sec,
-        title            = sprintf("Panel Regression [%s]: %s  |  %s",
-                                   section_labels[[sec]],
-                                   outcome_labels[[outcome]], seg_labels[[seg]]),
-        column.labels    = spec_labels,
-        dep.var.labels   = outcome_labels[[outcome]],
-        covariate.labels = make_cov_labels(seg, section = sec),
-        omit.stat        = c("f", "ser"),
-        add.lines        = list(
-          c("Firm FE",    "Yes",  "Yes", "No"),
-          c("Time FE",    "Yes",  "No",  "No"),
-          c("Cluster SE", "Firm", "Firm","Firm")
-        ),
-        notes        = note_base,
-        notes.append = FALSE,
-        digits       = 4
-      )
-    }
-  }
-}
-
-
-# ---- 5b. Main tables: two-way FE, one table per outcome (columns = segments) ----
-# Standard thesis format: one dependent variable per table, segments as columns.
-# Short-run and long-run are presented separately so each table fits on one page.
-
-cat("\n=== Exporting main two-way FE tables ===\n")
-for (sec in sections) {
-  cat(sprintf("\n  Section: %s\n", section_labels[[sec]]))
-  for (outcome in outcomes) {
-    base <- sprintf("tbl_main_%s",
-                    ifelse(outcome == "car_m1_p1_w", "short", "long"))
-
-    fits_m  <- lapply(segments, function(s) results[[sec]][[outcome]][[s]][["twoway"]]$fit)
-    ses_m   <- lapply(segments, function(s) results[[sec]][[outcome]][[s]][["twoway"]]$se)
-    pvals_m <- lapply(segments, function(s) results[[sec]][[outcome]][[s]][["twoway"]]$pval)
-
-    export_table(
-      fits_m, ses_m, pvals_m, base,
-      section        = sec,
-      title          = sprintf(
-        "%s — %s: Two-Way FE by Transcript Segment",
-        section_labels[[sec]], outcome_labels[[outcome]]
-      ),
-      column.labels  = c("(1) Total", "(2) Presentation", "(3) Q\\&A"),
-      dep.var.labels = outcome_labels[[outcome]],
-      omit.stat      = c("f", "ser"),
-      add.lines      = list(
-        c("Segment",    "Total", "Presentation", "Q\\&A"),
-        c("Firm FE",    rep("Yes",  3)),
-        c("Time FE",    rep("Yes",  3)),
-        c("Cluster SE", rep("Firm", 3))
-      ),
-      notes        = note_base,
-      notes.append = FALSE,
-      digits       = 4
-    )
-  }
-}
-cat("\n")
-
-
 # =============================================================================
 # 6. HAUSMAN TEST: Fixed Effects vs. Random Effects
 # =============================================================================
@@ -683,353 +557,6 @@ for (sec in sections) {
   cat(sprintf("  Hausman table saved: tbl_hausman_%s.txt\n", sec))
 }
 cat("\n")
-
-
-# =============================================================================
-# 7. COEFFICIENT PLOT — Two-Way FE, All Segments
-# =============================================================================
-# Generated separately per section. Visual summary of point estimates and 95%
-# CIs for the main specification. Faceted by segment (rows) × outcome (columns).
-
-cat("=== Building coefficient plots ===\n")
-
-# Map raw variable names to human-readable labels.
-# Segment qualifier is intentionally dropped for AI vars — the plot is already
-# faceted by segment, so repeating "(pres.)" / "(Q&A)" is redundant.
-var_label_map <- c(
-  # AI language regressors — core
-  core_per_1000_total  = "AI core",
-  core_per_1000_pres   = "AI core",
-  core_per_1000_qa     = "AI core",
-  # AI language regressors — adjacent
-  adj_per_1000_total   = "AI adjacent",
-  adj_per_1000_pres    = "AI adjacent",
-  adj_per_1000_qa      = "AI adjacent",
-  # Tone / uncertainty
-  lm_tone_total        = "LM tone",
-  lm_tone_pres         = "LM tone",
-  lm_tone_qa           = "LM tone",
-  lm_uncertainty_total = "LM uncertainty",
-  lm_uncertainty_pres  = "LM uncertainty",
-  lm_uncertainty_qa    = "LM uncertainty",
-  # Control variables (same name in all segments)
-  suescore_w           = "SUE score",
-  analyst_coverage_w   = "Analyst coverage",
-  roa_w                = "ROA",
-  book_to_market_w     = "Book-to-market",
-  firm_size_w          = "Firm size",
-  leverage_w           = "Leverage"
-)
-
-# Type map — used to colour/shape AI regressors vs. control variables in the plot.
-var_type_map <- c(
-  core_per_1000_total  = "AI language", core_per_1000_pres  = "AI language",
-  core_per_1000_qa     = "AI language",
-  adj_per_1000_total   = "AI language", adj_per_1000_pres   = "AI language",
-  adj_per_1000_qa      = "AI language",
-  lm_tone_total        = "AI language", lm_tone_pres        = "AI language",
-  lm_tone_qa           = "AI language",
-  lm_uncertainty_total = "AI language", lm_uncertainty_pres = "AI language",
-  lm_uncertainty_qa    = "AI language",
-  suescore_w           = "Control", analyst_coverage_w = "Control",
-  roa_w                = "Control", book_to_market_w   = "Control",
-  firm_size_w          = "Control", leverage_w         = "Control"
-)
-
-# Extract coefficient data for all outcomes × segments (two-way FE) per section.
-extract_coefs <- function(sec, outcome, seg) {
-  ct <- results[[sec]][[outcome]][[seg]][["twoway"]]$ct
-  data.frame(
-    var_raw  = rownames(ct),
-    estimate = ct[, "Estimate"],
-    se       = ct[, "Std. Error"],
-    p        = ct[, "Pr(>|t|)"],
-    lo95     = ct[, "Estimate"] - 1.96 * ct[, "Std. Error"],
-    hi95     = ct[, "Estimate"] + 1.96 * ct[, "Std. Error"],
-    outcome  = outcome,
-    segment  = seg,
-    stringsAsFactors = FALSE
-  )
-}
-
-for (sec in sections) {
-  cat(sprintf("\n--- Coefficient plots: %s ---\n", section_labels[[sec]]))
-
-  coef_df <- bind_rows(lapply(outcomes, function(o)
-    bind_rows(lapply(segments, function(s) extract_coefs(sec, o, s)))
-  )) %>%
-    mutate(
-      term     = dplyr::recode(var_raw, !!!var_label_map),
-      var_type = dplyr::recode(var_raw, !!!var_type_map, .default = "Other"),
-      sig      = case_when(
-        p < 0.01 ~ "p < 0.01",
-        p < 0.05 ~ "p < 0.05",
-        p < 0.10 ~ "p < 0.10",
-        TRUE     ~ "n.s."
-      ),
-      sig     = factor(sig, levels = c("p < 0.01", "p < 0.05", "p < 0.10", "n.s.")),
-      outcome = dplyr::recode(outcome,
-        car_m1_p1_w      = "Short-run CAR [-1,+1]",
-        long_run_abret_w = "CAR [+2, +30]"
-      ),
-      segment = dplyr::recode(segment,
-        total = "Total transcript",
-        pres  = "Presentation",
-        qa    = "Q&A"
-      ),
-      segment = factor(segment, levels = c("Total transcript", "Presentation", "Q&A"))
-    )
-
-  # Shared variable ordering for the y-axis — derived from the total-segment
-  # short-run model. Covers all regressors (AI primary + LM + controls).
-  var_order_full <- coef_df %>%
-    filter(outcome == "Short-run CAR [-1,+1]", segment == "Total transcript") %>%
-    arrange(var_type, estimate) %>%
-    pull(term) %>%
-    unique()
-  coef_df$term <- factor(coef_df$term, levels = var_order_full)
-
-  # ── Figure: AI-language regressors only (clean main figure) ──────────────
-  coef_ai <- coef_df %>% filter(var_type == "AI language")
-
-  var_order_ai <- coef_ai %>%
-    filter(outcome == "Short-run CAR [-1,+1]", segment == "Total transcript") %>%
-    arrange(estimate) %>% pull(term) %>% unique()
-  coef_ai$term <- factor(coef_ai$term, levels = var_order_ai)
-
-  sec_title <- if (sec == "main") {
-    "Main Findings — AI Core Intensity"
-  } else {
-    "Additional Findings — AI-Adjacent Dictionary"
-  }
-
-  fig_coef <- ggplot(coef_ai, aes(x = estimate, y = term, color = sig)) +
-    geom_vline(xintercept = 0, linetype = "dashed", color = "grey55", linewidth = 0.6) +
-    geom_errorbar(aes(xmin = lo95, xmax = hi95),
-                  width = 0.25, linewidth = 0.6, alpha = 0.7,
-                  orientation = "y") +
-    geom_point(size = 2.5) +
-    scale_color_manual(
-      values = c("p < 0.01" = "#C0392B", "p < 0.05" = "#E07B39",
-                 "p < 0.10" = "#F0C030", "n.s." = "grey60"),
-      name = "Significance"
-    ) +
-    facet_grid(segment ~ outcome, scales = "free_x") +
-    labs(
-      title    = sprintf("Figure: AI Language Coefficients [%s] — Two-Way FE (with Controls)", sec_title),
-      subtitle = paste0(
-        "AI regressors only; models also include SUE score, analyst coverage, ROA, ",
-        "book-to-market, firm size, leverage\n",
-        "Horizontal bars = 95% CI; standard errors clustered by firm"
-      ),
-      x       = "Coefficient estimate",
-      y       = NULL,
-      caption = "Outcomes and controls winsorised at 1st/99th percentile. S&P 100 earnings calls. Two-way FE: firm + calendar-quarter."
-    ) +
-    theme_thesis() +
-    theme(strip.text = element_text(face = "bold", size = 9),
-          axis.text.y = element_text(size = 8.5), legend.position = "bottom")
-
-  ggsave(file.path(output_dir, sprintf("fig_coef_plot_%s.png", sec)),
-         fig_coef, width = 13, height = 9, dpi = 150)
-  cat(sprintf("  Coefficient plot saved: fig_coef_plot_%s.png\n", sec))
-
-  # ── Full coefficient plot including controls ──────────────────────────────
-  fig_coef_full <- ggplot(coef_df,
-                          aes(x = estimate, y = term, color = sig, shape = var_type)) +
-    geom_vline(xintercept = 0, linetype = "dashed", color = "grey55", linewidth = 0.6) +
-    geom_errorbar(aes(xmin = lo95, xmax = hi95),
-                  width = 0.25, linewidth = 0.55, alpha = 0.65,
-                  orientation = "y") +
-    geom_point(size = 2.2) +
-    scale_color_manual(
-      values = c("p < 0.01" = "#C0392B", "p < 0.05" = "#E07B39",
-                 "p < 0.10" = "#F0C030", "n.s." = "grey60"),
-      name = "Significance"
-    ) +
-    scale_shape_manual(values = c("AI language" = 16, "Control" = 17),
-                       name = "Variable type") +
-    facet_grid(segment ~ outcome, scales = "free_x") +
-    labs(
-      title    = sprintf("Full Coefficient Plot [%s] — Two-Way FE", sec_title),
-      subtitle = "All regressors: AI language + control variables  |  Horizontal bars = 95% CI  |  SEs clustered by firm",
-      x        = "Coefficient estimate",
-      y        = NULL,
-      caption  = "Circles = AI language regressors; Triangles = controls. Outcomes/controls winsorised at 1st/99th pct."
-    ) +
-    theme_thesis() +
-    theme(strip.text = element_text(face = "bold", size = 9),
-          axis.text.y = element_text(size = 7.5), legend.position = "bottom")
-
-  ggsave(file.path(output_dir, sprintf("fig_coef_plot_full_%s.png", sec)),
-         fig_coef_full, width = 13, height = 12, dpi = 150)
-  cat(sprintf("  Full coefficient plot saved: fig_coef_plot_full_%s.png\n", sec))
-}
-
-
-# =============================================================================
-# 8. BASELINE VS. CONTROLLED COMPARISON
-# =============================================================================
-# Shows how point estimates change when the six control variables are added.
-# Run separately per section (formula differs between main and additional).
-#
-# Both specifications per section use:
-#   - Two-way FE (firm + calendar-quarter)
-#   - Total transcript segment
-#   - The same complete-case sample (observations with all controls observed)
-#
-# Table layout per outcome:
-#   Column (1) Baseline  : AI primary + LM vars, no controls
-#   Column (2) Controlled: AI primary + LM vars + 6 controls
-# =============================================================================
-
-cat("\n=== Section 8: Baseline vs. Controlled comparison ===\n")
-
-note_comparison <- paste0(
-  "Both specifications use two-way FE (firm + calendar-quarter) and the total transcript segment. ",
-  "Sample restricted to observations with complete data on all control variables ",
-  "(suescore, analyst coverage, ROA, book-to-market, firm size, leverage). ",
-  "Firm-clustered HC1 standard errors in parentheses. ",
-  "*** p<0.01, ** p<0.05, * p<0.1."
-)
-
-# Helper to extract AI-only rows from a coeftest object
-extract_coefs_named <- function(outcome, res_obj, spec_label) {
-  ct <- res_obj$ct
-  ai_rows <- grepl("core_per_1000|adj_per_1000|lm_tone|lm_uncertainty", rownames(ct))
-  ct <- ct[ai_rows, , drop = FALSE]
-  data.frame(
-    var_raw  = rownames(ct),
-    estimate = ct[, "Estimate"],
-    se       = ct[, "Std. Error"],
-    p        = ct[, "Pr(>|t|)"],
-    lo95     = ct[, "Estimate"] - 1.96 * ct[, "Std. Error"],
-    hi95     = ct[, "Estimate"] + 1.96 * ct[, "Std. Error"],
-    outcome  = outcome,
-    spec     = spec_label,
-    stringsAsFactors = FALSE
-  )
-}
-
-baseline_results <- list()
-
-for (sec in sections) {
-  cat(sprintf("\n--- Baseline comparison: %s ---\n", section_labels[[sec]]))
-  baseline_results[[sec]] <- list()
-
-  for (outcome in outcomes) {
-    fml_base <- make_formula(outcome, "total", section = sec, include_controls = FALSE)
-    baseline_results[[sec]][[outcome]] <- run_panel(fml_base, pdata, "twoway")
-    cat(sprintf("  Baseline  %s [%s] — N = %d obs\n",
-                ifelse(outcome == "car_m1_p1_w", "Short", "Long"),
-                sec,
-                nobs(baseline_results[[sec]][[outcome]]$fit)))
-  }
-
-  for (outcome in outcomes) {
-    base_comp <- sprintf("tbl_cv_comparison_%s",
-                         ifelse(outcome == "car_m1_p1_w", "short", "long"))
-
-    fits_comp  <- list(baseline_results[[sec]][[outcome]]$fit,
-                       results[[sec]][[outcome]][["total"]][["twoway"]]$fit)
-    ses_comp   <- list(baseline_results[[sec]][[outcome]]$se,
-                       results[[sec]][[outcome]][["total"]][["twoway"]]$se)
-    pvals_comp <- list(baseline_results[[sec]][[outcome]]$pval,
-                       results[[sec]][[outcome]][["total"]][["twoway"]]$pval)
-
-    # covariate.labels must cover all unique variables across both models.
-    all_labels <- c(make_cov_labels("total", section = sec, include_controls = FALSE),
-                    ctrl_labels)
-
-    export_table(
-      fits_comp, ses_comp, pvals_comp, base_comp,
-      section          = sec,
-      title            = sprintf(
-        "Baseline vs. Controlled [%s]: %s — Total Segment, Two-Way FE",
-        section_labels[[sec]], outcome_labels[[outcome]]
-      ),
-      column.labels    = c("(1) Baseline (no CVs)", "(2) With controls"),
-      dep.var.labels   = outcome_labels[[outcome]],
-      covariate.labels = all_labels,
-      omit.stat        = c("f", "ser"),
-      add.lines        = list(
-        c("Controls",   "No",   "Yes"),
-        c("Firm FE",    "Yes",  "Yes"),
-        c("Time FE",    "Yes",  "Yes"),
-        c("Cluster SE", "Firm", "Firm")
-      ),
-      notes        = note_comparison,
-      notes.append = FALSE,
-      digits       = 4
-    )
-  }
-
-  # ── Coefficient comparison plot: AI vars only, baseline vs. controlled ────
-  comp_df <- bind_rows(lapply(outcomes, function(o) bind_rows(
-    extract_coefs_named(o, baseline_results[[sec]][[o]], "Baseline (no CVs)"),
-    extract_coefs_named(o, results[[sec]][[o]][["total"]][["twoway"]], "With controls")
-  ))) %>%
-    mutate(
-      term = dplyr::recode(var_raw, !!!var_label_map),
-      sig  = case_when(
-        p < 0.01 ~ "p < 0.01", p < 0.05 ~ "p < 0.05",
-        p < 0.10 ~ "p < 0.10", TRUE ~ "n.s."
-      ),
-      sig     = factor(sig, levels = c("p < 0.01", "p < 0.05", "p < 0.10", "n.s.")),
-      outcome = dplyr::recode(outcome,
-        car_m1_p1_w      = "Short-run CAR [-1,+1]",
-        long_run_abret_w = "CAR [+2, +30]"
-      ),
-      spec = factor(spec, levels = c("Baseline (no CVs)", "With controls"))
-    )
-
-  comp_var_order <- comp_df %>%
-    filter(outcome == "Short-run CAR [-1,+1]", spec == "With controls") %>%
-    arrange(estimate) %>% pull(term) %>% unique()
-  comp_df$term <- factor(comp_df$term, levels = comp_var_order)
-
-  sec_title_comp <- if (sec == "main") {
-    "Main — Core AI Intensity"
-  } else {
-    "Additional — AI-Adjacent Dictionary"
-  }
-
-  fig_comp <- ggplot(comp_df, aes(x = estimate, y = term, color = spec, shape = sig)) +
-    geom_vline(xintercept = 0, linetype = "dashed", color = "grey55", linewidth = 0.6) +
-    geom_errorbar(aes(xmin = lo95, xmax = hi95),
-                  width = 0.3, linewidth = 0.6, alpha = 0.6,
-                  position = position_dodge(width = 0.55),
-                  orientation = "y") +
-    geom_point(size = 2.5, position = position_dodge(width = 0.55)) +
-    scale_color_manual(
-      values = c("Baseline (no CVs)" = "#2C5F8A", "With controls" = "#C0392B"),
-      name = "Specification"
-    ) +
-    scale_shape_manual(
-      values = c("p < 0.01" = 16, "p < 0.05" = 17, "p < 0.10" = 15, "n.s." = 1),
-      name = "Significance"
-    ) +
-    facet_wrap(~ outcome, scales = "free_x") +
-    labs(
-      title    = sprintf(
-        "AI Coefficients — Baseline vs. With Controls [%s]\n(Total Segment, Two-Way FE)",
-        sec_title_comp
-      ),
-      subtitle = "Blue = no controls | Red = with controls  |  Dodge shows both estimates side by side  |  SEs clustered by firm",
-      x        = "Coefficient estimate",
-      y        = NULL,
-      caption  = "Same complete-case sample used for both specifications."
-    ) +
-    theme_thesis() +
-    theme(strip.text = element_text(face = "bold", size = 10),
-          axis.text.y = element_text(size = 9), legend.position = "bottom")
-
-  ggsave(file.path(output_dir, sprintf("fig_cv_comparison_%s.png", sec)),
-         fig_comp, width = 12, height = 6, dpi = 150)
-  cat(sprintf("  Comparison plot saved: fig_cv_comparison_%s.png\n", sec))
-}
-
-
 # =============================================================================
 # 9. ROBUSTNESS: Sample Segmentation — Full / Semi-Only / Ex-Semiconductor
 # =============================================================================
@@ -1059,312 +586,714 @@ for (sec in sections) {
                 nobs(robust_results[[sec]][[outcome]]$semi$fit),
                 nobs(robust_results[[sec]][[outcome]]$exsemi$fit)))
   }
-
-  for (outcome in outcomes) {
-    base_r <- sprintf("tbl_robustness_%s",
-                      ifelse(outcome == "car_m1_p1_w", "short", "long"))
-
-    fits_r  <- list(robust_results[[sec]][[outcome]]$full$fit,
-                    robust_results[[sec]][[outcome]]$semi$fit,
-                    robust_results[[sec]][[outcome]]$exsemi$fit)
-    ses_r   <- list(robust_results[[sec]][[outcome]]$full$se,
-                    robust_results[[sec]][[outcome]]$semi$se,
-                    robust_results[[sec]][[outcome]]$exsemi$se)
-    pvals_r <- list(robust_results[[sec]][[outcome]]$full$pval,
-                    robust_results[[sec]][[outcome]]$semi$pval,
-                    robust_results[[sec]][[outcome]]$exsemi$pval)
-
-    semi_note <- paste(SEMI_TICKERS, collapse = ", ")
-
-    export_table(
-      fits_r, ses_r, pvals_r, base_r,
-      section          = sec,
-      title            = sprintf(
-        "Sample Segmentation [%s]: %s — Full / Semi-Only / Ex-Semiconductor (Two-way FE, Total Segment)",
-        section_labels[[sec]], outcome_labels[[outcome]]
-      ),
-      column.labels    = c("(1) Full sample", "(2) Semi-only", "(3) Ex-semiconductor"),
-      dep.var.labels   = outcome_labels[[outcome]],
-      covariate.labels = make_cov_labels("total", section = sec),
-      omit.stat        = c("f", "ser"),
-      add.lines        = list(
-        c("Firm FE",    "Yes",  "Yes",       "Yes"),
-        c("Time FE",    "Yes",  "Yes",       "Yes"),
-        c("Cluster SE", "Firm", "Firm",      "Firm"),
-        c("Sample",     "All",  semi_note,   paste0("Excl. ", semi_note))
-      ),
-      notes        = note_base,
-      notes.append = FALSE,
-      digits       = 4
-    )
-  }
 }
-
-
 # =============================================================================
-# 9b. ADDITIONAL: Semi-Only Analysis — Main Dictionary (Core AI Intensity)
+# 10. ROBUSTNESS: TEMPORAL STABILITY — AI INTENSITY × TIME INTERACTION
 # =============================================================================
-# Dedicated analysis of the six semiconductor / AI-hardware firms
-# (NVDA, AMD, INTC, QCOM, AVGO, TXN) using the core AI intensity index.
-# Placed in the additional findings section because it provides supplementary
-# insight into how AI-core language behaves for firms where AI is central to
-# operations (not just narrative signalling), in contrast to the broad sample.
+# Tests whether the long-run pricing of AI-core intensity is stable across the
+# sample period (2022–2025) or attenuates as AI disclosure becomes increasingly
+# widespread and potentially more opportunistic over time.
 #
-# 2 outcomes × 3 segments × 3 specs = 18 models on pdata_semi.
-# Tables exported to: output/regression/additional/{txt|html|latex}/
-# Coefficient plot saved to: output/regression/fig_coef_plot_semi_main.png
+# Specification note:
+#   The main models use two-way FE (firm + calendar-quarter). Adding a linear
+#   time trend as a standalone regressor would be collinear with the quarter
+#   dummies, making it inestimable. This section therefore uses FIRM FE ONLY
+#   and explicitly models the time dimension via a mean-centred time index.
+#   The two-way FE results from prior sections serve as the baseline for
+#   comparison; this section is purely additive and does not alter them.
+#
+# time_index: sequential quarter counter, mean-centred.
+#   Raw:      Q1 2022 = 1, Q2 2022 = 2, ..., Q4 2025 = 16
+#   Centred:  mean subtracted (~8.5), so the AI intensity main coefficient is
+#             interpreted at the sample midpoint (~Q1-Q2 2024) rather than Q1 2022.
+#
+# Models run:
+#   - Long-run CAR [+2,+30]  × 3 segments × 2 samples (full + ex-semi) = 6 models
+#   - Short-run CAR [-1,+1]  × 3 segments × 2 samples                  = 6 models
+#     (short-run included for completeness; focus of discussion is long-run)
+#
+# Key interpretation:
+#   β_AI          : marginal effect of AI intensity at the mean sample period
+#   β_interaction : change in AI intensity effect per additional quarter
+#   β_interaction < 0, significant  =>  signal fading (opportunistic crowding-out)
+#   β_interaction ≈ 0, n.s.         =>  channel is temporally stable
+#
+# Models are fitted here and held in `temporal_results`; they are rendered into
+# the consolidated AI x Time table (Section 13, Table 4) using labels built by
+# coefficient name (Section 12).
 # =============================================================================
 
-cat("\n=== Section 9b: Semi-Only Analysis — Main Dictionary (Core AI Intensity) ===\n")
+cat("\n\n")
+cat("=================================================================\n")
+cat("  SECTION 10: TEMPORAL STABILITY — AI Intensity x Time\n")
+cat("=================================================================\n\n")
 
-semi_main_results <- list()
+# -----------------------------------------------------------------------------
+# 10.1  Build time-indexed panel data frames
+# -----------------------------------------------------------------------------
+# Constructed from df_panel (already complete-case filtered) without modifying
+# any objects used in Sections 3–9. All new objects are prefixed "temporal_"
+# or suffixed "_time" to avoid name collisions.
 
+df_panel_time <- df_panel %>%
+  mutate(
+    time_raw   = round(as.numeric((yrq - min(yrq)) * 4)) + 1L,  # 1, 2, ..., 16
+    time_index = time_raw - mean(time_raw, na.rm = TRUE)         # mean-centred
+  )
+
+cat(sprintf("  time_index range : %.2f to %.2f  (raw quarters 1 to %d)\n",
+            min(df_panel_time$time_index),
+            max(df_panel_time$time_index),
+            max(df_panel_time$time_raw)))
+cat(sprintf("  Sample period    : %s  to  %s\n",
+            as.character(min(df_panel_time$yrq)),
+            as.character(max(df_panel_time$yrq))))
+cat(sprintf("  Full sample N    : %d obs  |  Ex-semi N: %d obs\n\n",
+            nrow(df_panel_time),
+            nrow(df_panel_time[!df_panel_time$is_semi, ])))
+
+
+# -----------------------------------------------------------------------------
+# 10.2  Canonical formula and per-segment pdata builder
+# -----------------------------------------------------------------------------
+# The interaction formula always uses fixed canonical column names so that
+# stargazer sees identical variable names across all three segment models and
+# aligns them into the same rows. Canonical names are created by adding new
+# columns to a copy of df_panel_time before building the pdata frame — this
+# means the fit object, its vcov() method, and all downstream objects use the
+# canonical names natively, with no post-hoc renaming required.
+#
+# Canonical column names:
+#   ai_core_intensity   ←  core_per_1000_{seg}
+#   lm_tone             ←  lm_tone_{seg}
+#   lm_uncertainty      ←  lm_uncertainty_{seg}
+#
+# R expands  ai_core_intensity * time_index  =>
+#   ai_core_intensity + time_index + ai_core_intensity:time_index
+
+fml_temporal <- function(outcome) {
+  as.formula(paste(
+    outcome, "~",
+    "ai_core_intensity * time_index +",
+    "lm_tone + lm_uncertainty +",
+    paste(ctrl_vars_w, collapse = " + ")
+  ))
+}
+
+make_temporal_pdata <- function(base_df, seg, exclude_semi = FALSE) {
+  df_seg <- base_df %>%
+    mutate(
+      ai_core_intensity = !!sym(paste0("core_per_1000_", seg)),
+      lm_tone           = !!sym(paste0("lm_tone_",        seg)),
+      lm_uncertainty    = !!sym(paste0("lm_uncertainty_", seg))
+    )
+  if (exclude_semi) {
+    df_seg <- df_seg %>%
+      filter(!is_semi) %>%
+      distinct(ticker, yrq, .keep_all = TRUE)
+  }
+  pdata.frame(df_seg, index = c("ticker", "yrq"))
+}
+
+
+# -----------------------------------------------------------------------------
+# 10.3  Run all interaction models
+# -----------------------------------------------------------------------------
+# 2 outcomes × 3 segments × 2 samples = 12 models.
+# Each segment gets its own pdata with canonical column names (10.2 above),
+# so all models share identical coefficient names from the outset.
+# All models use firm FE only (model_type = "within") via the existing run_panel().
+
+temporal_results <- list()
+
+cat("=== Fitting temporal interaction models ===\n")
 for (outcome in outcomes) {
-  semi_main_results[[outcome]] <- list()
+  temporal_results[[outcome]] <- list()
   for (seg in segments) {
-    semi_main_results[[outcome]][[seg]] <- list()
-    fml <- make_formula(outcome, seg, section = "main")
-    for (spec in specs) {
-      cat(sprintf("  [semi_main] %-22s | segment: %-6s | spec: %s\n", outcome, seg, spec))
-      semi_main_results[[outcome]][[seg]][[spec]] <- run_panel(fml, pdata_semi, model_type = spec)
-    }
+    pdata_seg      <- make_temporal_pdata(df_panel_time, seg, exclude_semi = FALSE)
+    pdata_seg_exs  <- make_temporal_pdata(df_panel_time, seg, exclude_semi = TRUE)
+    fml            <- fml_temporal(outcome)
+    temporal_results[[outcome]][[seg]] <- list(
+      full  = run_panel(fml, pdata_seg,     model_type = "within"),
+      exsem = run_panel(fml, pdata_seg_exs, model_type = "within")
+    )
+    cat(sprintf("  [temporal] %-22s | %-6s | full: %d obs | ex-semi: %d obs\n",
+                outcome, seg,
+                nobs(temporal_results[[outcome]][[seg]]$full$fit),
+                nobs(temporal_results[[outcome]][[seg]]$exsem$fit)))
   }
 }
-cat(sprintf("\n  Firms: %s  (N = %d obs)\n\n",
-            paste(SEMI_TICKERS, collapse = ", "),
-            nrow(df_panel[df_panel$is_semi, ])))
+cat("All 12 temporal models fitted.\n\n")
+# =============================================================================
+# 11. AI CORE x SENTIMENT INTERACTIONS  (per AM feedback comment #44)
+# =============================================================================
+# Tests whether the per-unit return effect of AI-core intensity depends on the
+# managerial sentiment (LM tone, LM uncertainty) in which the AI language is
+# delivered. Motivation:
+#   - Short-run main spec shows LM tone is the dominant driver and AI-core is
+#     silent. The interaction asks: does AI-core actually matter once we
+#     condition on tone (e.g. AI talk delivered confidently)?
+#   - LM uncertainty interaction tests whether hedged framing dampens any
+#     AI signal.
+#
+# Three models per outcome (short-run is the primary focus per AM; long-run
+# included for symmetry):
+#   (A) y ~ ai_core * tone   + uncert + controls
+#   (B) y ~ ai_core * uncert + tone   + controls
+#   (C) y ~ ai_core * tone + ai_core * uncert + controls       [both]
+#
+# All models use two-way FE (firm + calendar-quarter) with firm-clustered
+# HC1 SEs, matching the main specification.
+#
+# Coefficients are extracted by name (not by position) so labels always align.
+#
+# Models are fitted here and held in `sentiment_results`; the interaction terms
+# are rendered into the consolidated summary table (Section 13, Table 8).
+# =============================================================================
 
-note_semi_main <- paste0(
-  "Sample restricted to semiconductor / AI-hardware firms: ",
-  paste(SEMI_TICKERS, collapse = ", "), ". ",
-  "Core AI intensity index (core_per_1000) used as primary AI regressor. ",
+cat("\n\n")
+cat("=================================================================\n")
+cat("  SECTION 11: AI CORE x SENTIMENT INTERACTIONS\n")
+cat("  AM feedback comment #44 — AI core x LM tone / LM uncertainty\n")
+cat("=================================================================\n\n")
+
+# -----------------------------------------------------------------------------
+# 11.1  Canonical pdata builder (canonical names => safe stargazer ordering)
+# -----------------------------------------------------------------------------
+# Creates canonical columns ai_core, tone, uncert for a given segment so the
+# same formula works across all three segments and all coefficients are
+# referenceable by stable names.
+
+make_sentiment_pdata <- function(base_df, seg) {
+  base_df %>%
+    mutate(
+      ai_core = !!sym(paste0("core_per_1000_",   seg)),
+      tone    = !!sym(paste0("lm_tone_",          seg)),
+      uncert  = !!sym(paste0("lm_uncertainty_",  seg))
+    ) %>%
+    pdata.frame(index = c("ticker", "yrq"))
+}
+
+# Three formulas, one per model
+fml_int_tone   <- function(outcome) as.formula(paste(
+  outcome, "~ ai_core * tone + uncert +", paste(ctrl_vars_w, collapse = " + ")
+))
+fml_int_uncert <- function(outcome) as.formula(paste(
+  outcome, "~ ai_core * uncert + tone +", paste(ctrl_vars_w, collapse = " + ")
+))
+fml_int_both   <- function(outcome) as.formula(paste(
+  outcome, "~ ai_core * tone + ai_core * uncert +", paste(ctrl_vars_w, collapse = " + ")
+))
+
+
+# -----------------------------------------------------------------------------
+# 11.2  Run all models
+# -----------------------------------------------------------------------------
+# 2 outcomes x 3 segments x 3 models = 18 fits, each two-way FE.
+
+sentiment_results <- list()
+
+cat("=== Fitting sentiment interaction models ===\n")
+for (outcome in outcomes) {
+  sentiment_results[[outcome]] <- list()
+  for (seg in segments) {
+    pdata_seg <- make_sentiment_pdata(df_panel, seg)
+    sentiment_results[[outcome]][[seg]] <- list(
+      tone_int   = run_panel(fml_int_tone(outcome),   pdata_seg, "twoway"),
+      uncert_int = run_panel(fml_int_uncert(outcome), pdata_seg, "twoway"),
+      both_int   = run_panel(fml_int_both(outcome),   pdata_seg, "twoway")
+    )
+    cat(sprintf("  [int] %-18s | %-6s | tone: N=%d  uncert: N=%d  both: N=%d\n",
+                outcome, seg,
+                nobs(sentiment_results[[outcome]][[seg]]$tone_int$fit),
+                nobs(sentiment_results[[outcome]][[seg]]$uncert_int$fit),
+                nobs(sentiment_results[[outcome]][[seg]]$both_int$fit)))
+  }
+}
+cat("All 18 sentiment-interaction models fitted.\n\n")
+# =============================================================================
+# 12. TEMPORAL LABEL HELPERS  (for the consolidated AI x Time table)
+# =============================================================================
+# build_temporal_labels() maps each coefficient NAME in a fitted temporal model
+# to its display label, guaranteeing row alignment in stargazer regardless of
+# coefficient order. This is the corrected, label-by-name logic retained for
+# consolidated Table 4; the earlier positional-label version (and its
+# mislabeled output) has been removed.
+
+temporal_label_map <- c(
+  "ai_core_intensity"             = "AI core / 1,000",
+  "time_index"                    = "Time index (centred)",
+  "ai_core_intensity:time_index"  = "AI core x Time  [KEY]",
+  "lm_tone"                       = "LM tone",
+  "lm_uncertainty"                = "LM uncertainty",
+  "suescore_w"                    = "SUE score",
+  "analyst_coverage_w"            = "Analyst coverage",
+  "roa_w"                         = "ROA",
+  "book_to_market_w"              = "Book-to-market",
+  "firm_size_w"                   = "Firm size (ln MktCap)",
+  "leverage_w"                    = "Leverage"
+)
+
+build_temporal_labels <- function(ct) {
+  nms <- rownames(ct)
+  out <- temporal_label_map[nms]
+  if (any(is.na(out))) {
+    missing_nms <- nms[is.na(out)]
+    stop(sprintf("build_temporal_labels: no display label for: %s",
+                 paste(missing_nms, collapse = ", ")))
+  }
+  unname(out)
+}
+
+note_temporal_adj <- paste0(
+  "Adjusted re-export: covariate labels constructed by coefficient name to ",
+  "guarantee row alignment. Firm fixed effects only (firm FE replaces two-way ",
+  "FE to allow estimation of the linear time trend). time_index is mean-centred ",
+  "(Q1 2022 = 1 to Q4 2025 = 16, centred at sample mean ~8.5); AI intensity main ",
+  "effect is interpreted at the sample midpoint. AI core x Time captures whether ",
+  "the return-predictive content of AI disclosure attenuates over the sample period. ",
+  "Firm-clustered HC1 standard errors in parentheses. ",
+  "Outcomes and controls winsorised at 1st/99th percentile. ",
+  "*** p<0.01, ** p<0.05, * p<0.1."
+)
+# =============================================================================
+# 13. CONSOLIDATED THESIS TABLES  (single standalone folder)
+# =============================================================================
+# Re-exports every regression table referenced in the thesis "Consolidated
+# results table request" into ONE folder, output/regression/consolidated/,
+# in both HTML and LaTeX (LaTeX is for direct paste into Overleaf).
+#
+# All model objects (results, robust_results, temporal_results) are already in
+# memory from Sections 4-12; this section only re-renders them with the
+# requested presentation. NOTHING upstream is modified, so the original
+# per-section outputs are left untouched.
+#
+# Request -> file mapping (see "Consolidated results table request"):
+#   (2) Short-run main .......... tbl_2_short_run
+#   (3) Long-run main ........... tbl_3_long_run
+#   (4) AI x Time interaction ... tbl_4_ai_time_interaction_{short,long}
+#   (5) Robustness: semi seg. ... tbl_5_robustness_semi_{short,long}
+#   (6) AI-adjacent main ........ tbl_6_ai_adjacent_{short,long}
+#   (7) FE comparison (TWFE /
+#       Firm FE / Pooled OLS) ... tbl_7_fe_comparison_{total,pres,qa}_{short,long}
+#   (8) AI-core x sentiment .... tbl_8_int_summary  (compact, interaction rows)
+#   (1) Descriptive stats Table 1a is produced by descriptive_statistics_2.0.R;
+#       if that script has been run, its table is copied in below.
+# =============================================================================
+
+cat("\n=================================================================\n")
+cat("  SECTION 13: CONSOLIDATED THESIS TABLES\n")
+cat("=================================================================\n\n")
+
+# ---- 13.0  Output directory: one standalone 'consolidated' folder ----
+consol_dir <- file.path(output_dir, "consolidated")
+for (fmt in c("html", "latex")) {
+  dir.create(file.path(consol_dir, fmt), showWarnings = FALSE, recursive = TRUE)
+}
+
+# Canonical, human-readable AI-intensity row labels (single row across segments).
+# Kept short ("AI-core / 1,000") so the first column does not balloon in width.
+AI_CORE_LABEL <- "AI-core / 1,000"
+AI_ADJ_LABEL  <- "AI-adjacent / 1,000"
+
+# ---- 13.1  Helper: REFIT a segment model on canonically-named columns ----
+# In the per-segment two-way FE models, each segment column uses a different
+# regressor name (e.g. core_per_1000_total vs core_per_1000_qa). stargazer
+# aligns coefficients BY NAME, which staggers the AI / LM rows across columns.
+#
+# We re-estimate each segment model on a panel whose AI / LM columns are copied
+# to shared canonical names (ai_intensity, lm_tone, lm_uncertainty). This is the
+# same "rename the data, then fit" pattern used by make_sentiment_pdata() in
+# Section 11, so the coefficient, vcov, and SE names stay perfectly consistent
+# (renaming only the fitted-object names breaks stargazer's vcov lookup).
+# Estimates are identical to the original per-segment two-way FE models — only
+# the regressor labels differ — so the three segments collapse onto one aligned
+# row per variable for a clean side-by-side comparison.
+refit_canon_seg <- function(outcome, suffix, section) {
+  ai_src <- if (section == "main")
+              paste0("core_per_1000_", suffix)
+            else
+              paste0("adj_per_1000_",  suffix)
+
+  pd <- df_panel %>%
+    mutate(
+      ai_intensity   = !!sym(ai_src),
+      lm_tone        = !!sym(paste0("lm_tone_",        suffix)),
+      lm_uncertainty = !!sym(paste0("lm_uncertainty_", suffix))
+    ) %>%
+    pdata.frame(index = c("ticker", "yrq"))
+
+  fml <- as.formula(paste(
+    outcome, "~ ai_intensity + lm_tone + lm_uncertainty +",
+    paste(ctrl_vars_w, collapse = " + ")
+  ))
+
+  run_panel(fml, pd, "twoway")
+}
+
+# ---- 13.2  Helper: export one table to BOTH html and latex in consolidated/ ----
+# Q&A handling: a raw "&" makes stargazer's HTML truncate the header to "Q",
+# and an unescaped "&" breaks LaTeX. So callers pass the safe token QANDA_TOKEN
+# wherever "Q&A" should appear; stargazer passes the token through untouched,
+# and we replace it in the written file with the correct per-format string
+# ("Q\&A" for LaTeX, "Q&amp;A" for HTML). This keeps the stargazer call simple
+# and identical to the other sections (no do.call, no ampersand inside).
+QANDA_TOKEN <- "QANDA"
+
+export_consol <- function(fits, ses, pvals, base_name, ...) {
+  for (fmt in c("html", "latex")) {
+    ext      <- ifelse(fmt == "html", ".html", ".tex")
+    out_path <- file.path(consol_dir, fmt, paste0(base_name, ext))
+    stargazer(fits, type = fmt, se = ses, p = pvals, out = out_path, ...)
+
+    # substitute the Q&A token with the format-appropriate representation
+    repl <- if (fmt == "latex") "Q\\&A" else "Q&amp;A"
+    txt  <- readLines(out_path, warn = FALSE)
+    txt  <- gsub(QANDA_TOKEN, repl, txt, fixed = TRUE)
+    writeLines(txt, out_path)
+  }
+  cat(sprintf("  [consolidated] Saved: %-34s (.html / .tex)\n", base_name))
+}
+
+note_consol <- paste0(
   "Firm-clustered standard errors in parentheses (HC1). ",
   "Outcomes and control variables winsorised at 1st/99th percentile. ",
-  "Two-way FE absorbs firm and calendar-quarter fixed effects. ",
+  "AI intensity is normalized per segment word count (per 1,000 words). ",
   "*** p<0.01, ** p<0.05, * p<0.1."
 )
 
-# ---- 9b-i. Per-segment tables (columns = 3 specs) ----
-cat("  Exporting semi-only per-segment tables...\n")
+# segment-column header used for the side-by-side main tables
+# (QANDA_TOKEN is replaced with the proper "Q&A" per format by export_consol())
+seg_cols <- c("(1) Total", "(2) Presentation", paste0("(3) ", QANDA_TOKEN))
+
+# -----------------------------------------------------------------------------
+# (2)+(3)  Short-run & long-run MAIN tables (AI-core), single AI row
+# -----------------------------------------------------------------------------
+cat("\n  -- (2)/(3) Main AI-core tables --\n")
 for (outcome in outcomes) {
-  for (seg in segments) {
-    base <- sprintf("tbl_semi_main_%s_%s",
-                    ifelse(outcome == "car_m1_p1_w", "short", "long"), seg)
+  out_label <- ifelse(outcome == "car_m1_p1_w", "short", "long")
+  base      <- ifelse(outcome == "car_m1_p1_w", "tbl_2_short_run", "tbl_3_long_run")
 
-    fits_list  <- lapply(specs, function(s) semi_main_results[[outcome]][[seg]][[s]]$fit)
-    ses_list   <- lapply(specs, function(s) semi_main_results[[outcome]][[seg]][[s]]$se)
-    pvals_list <- lapply(specs, function(s) semi_main_results[[outcome]][[seg]][[s]]$pval)
+  relab <- lapply(segments, function(s)
+    refit_canon_seg(outcome, s, "main"))
 
-    export_table(
-      fits_list, ses_list, pvals_list, base,
-      section          = "additional",
-      title            = sprintf(
-        "Semi-Only [Core AI Intensity]: %s  |  %s",
-        outcome_labels[[outcome]], seg_labels[[seg]]
-      ),
-      column.labels    = spec_labels,
-      dep.var.labels   = outcome_labels[[outcome]],
-      covariate.labels = make_cov_labels(seg, section = "main"),
-      omit.stat        = c("f", "ser"),
-      add.lines        = list(
-        c("Sample",     rep(paste(SEMI_TICKERS, collapse = "/"), 3)),
-        c("Firm FE",    "Yes",  "Yes", "No"),
-        c("Time FE",    "Yes",  "No",  "No"),
-        c("Cluster SE", "Firm", "Firm","Firm")
-      ),
-      notes        = note_semi_main,
-      notes.append = FALSE,
-      digits       = 4
-    )
-  }
-}
-
-# ---- 9b-ii. Main two-way FE table (columns = segments) ----
-cat("\n  Exporting semi-only main two-way FE tables...\n")
-for (outcome in outcomes) {
-  base <- sprintf("tbl_semi_main_%s",
-                  ifelse(outcome == "car_m1_p1_w", "short", "long"))
-
-  fits_m  <- lapply(segments, function(s) semi_main_results[[outcome]][[s]][["twoway"]]$fit)
-  ses_m   <- lapply(segments, function(s) semi_main_results[[outcome]][[s]][["twoway"]]$se)
-  pvals_m <- lapply(segments, function(s) semi_main_results[[outcome]][[s]][["twoway"]]$pval)
-
-  export_table(
-    fits_m, ses_m, pvals_m, base,
-    section        = "additional",
-    title          = sprintf(
-      "Semi-Only [Core AI Intensity] — %s: Two-Way FE by Transcript Segment",
-      outcome_labels[[outcome]]
-    ),
-    column.labels  = c("(1) Total", "(2) Presentation", "(3) Q\\&A"),
-    dep.var.labels = outcome_labels[[outcome]],
-    omit.stat      = c("f", "ser"),
-    add.lines      = list(
-      c("Sample",     rep(paste(SEMI_TICKERS, collapse = "/"), 3)),
-      c("Segment",    "Total", "Presentation", "Q\\&A"),
+  export_consol(
+    lapply(relab, `[[`, "fit"),
+    lapply(relab, `[[`, "se"),
+    lapply(relab, `[[`, "pval"),
+    base,
+    title            = sprintf("%s - Two-Way FE by Transcript Segment",
+                               outcome_labels[[outcome]]),
+    column.labels    = seg_cols,
+    dep.var.labels   = outcome_labels[[outcome]],
+    covariate.labels = c(AI_CORE_LABEL, "LM tone", "LM uncertainty", ctrl_labels),
+    omit.stat        = c("f", "ser"),
+    add.lines        = list(
+      c("Segment",    "Total", "Presentation", QANDA_TOKEN),
       c("Firm FE",    rep("Yes",  3)),
       c("Time FE",    rep("Yes",  3)),
       c("Cluster SE", rep("Firm", 3))
     ),
-    notes        = note_semi_main,
-    notes.append = FALSE,
-    digits       = 4
+    notes = note_consol, notes.append = FALSE, digits = 4
   )
 }
 
-# ---- 9b-iii. Coefficient plot: semi-only, main dictionary ----
-cat("\n  Building semi-only coefficient plot...\n")
+# -----------------------------------------------------------------------------
+# (6)  AI-adjacent MAIN tables (additional section), single AI row
+# -----------------------------------------------------------------------------
+cat("\n  -- (6) AI-adjacent tables --\n")
+for (outcome in outcomes) {
+  out_label <- ifelse(outcome == "car_m1_p1_w", "short", "long")
+  base      <- sprintf("tbl_6_ai_adjacent_%s", out_label)
 
-extract_coefs_semi <- function(outcome, seg) {
-  ct <- semi_main_results[[outcome]][[seg]][["twoway"]]$ct
-  data.frame(
-    var_raw  = rownames(ct),
-    estimate = ct[, "Estimate"],
-    se       = ct[, "Std. Error"],
-    p        = ct[, "Pr(>|t|)"],
-    lo95     = ct[, "Estimate"] - 1.96 * ct[, "Std. Error"],
-    hi95     = ct[, "Estimate"] + 1.96 * ct[, "Std. Error"],
-    outcome  = outcome,
-    segment  = seg,
-    stringsAsFactors = FALSE
+  relab <- lapply(segments, function(s)
+    refit_canon_seg(outcome, s, "additional"))
+
+  export_consol(
+    lapply(relab, `[[`, "fit"),
+    lapply(relab, `[[`, "se"),
+    lapply(relab, `[[`, "pval"),
+    base,
+    title            = sprintf("AI-Adjacent: %s - Two-Way FE by Transcript Segment",
+                               outcome_labels[[outcome]]),
+    column.labels    = seg_cols,
+    dep.var.labels   = outcome_labels[[outcome]],
+    covariate.labels = c(AI_ADJ_LABEL, "LM tone", "LM uncertainty", ctrl_labels),
+    omit.stat        = c("f", "ser"),
+    add.lines        = list(
+      c("Segment",    "Total", "Presentation", QANDA_TOKEN),
+      c("Firm FE",    rep("Yes",  3)),
+      c("Time FE",    rep("Yes",  3)),
+      c("Cluster SE", rep("Firm", 3))
+    ),
+    notes = note_consol, notes.append = FALSE, digits = 4
   )
 }
 
-coef_semi <- bind_rows(lapply(outcomes, function(o)
-  bind_rows(lapply(segments, function(s) extract_coefs_semi(o, s)))
-)) %>%
-  mutate(
-    term     = dplyr::recode(var_raw, !!!var_label_map),
-    var_type = dplyr::recode(var_raw, !!!var_type_map, .default = "Other"),
-    sig      = case_when(
-      p < 0.01 ~ "p < 0.01",
-      p < 0.05 ~ "p < 0.05",
-      p < 0.10 ~ "p < 0.10",
-      TRUE     ~ "n.s."
+# -----------------------------------------------------------------------------
+# (5)  Robustness: Full / Semi-only / Ex-semiconductor (total segment)
+# -----------------------------------------------------------------------------
+cat("\n  -- (5) Semiconductor-segmentation robustness --\n")
+semi_note <- paste(semi_present_tickers, collapse = ", ")
+for (outcome in outcomes) {
+  out_label <- ifelse(outcome == "car_m1_p1_w", "short", "long")
+  base      <- sprintf("tbl_5_robustness_semi_%s", out_label)
+
+  export_consol(
+    list(robust_results[["main"]][[outcome]]$full$fit,
+         robust_results[["main"]][[outcome]]$semi$fit,
+         robust_results[["main"]][[outcome]]$exsemi$fit),
+    list(robust_results[["main"]][[outcome]]$full$se,
+         robust_results[["main"]][[outcome]]$semi$se,
+         robust_results[["main"]][[outcome]]$exsemi$se),
+    list(robust_results[["main"]][[outcome]]$full$pval,
+         robust_results[["main"]][[outcome]]$semi$pval,
+         robust_results[["main"]][[outcome]]$exsemi$pval),
+    base,
+    title            = sprintf(
+      "Sample Segmentation: %s - Full / Semi-Only / Ex-Semiconductor (Two-Way FE, Total Segment)",
+      outcome_labels[[outcome]]),
+    column.labels    = c("(1) Full sample", "(2) Semi-only", "(3) Ex-semiconductor"),
+    dep.var.labels   = outcome_labels[[outcome]],
+    covariate.labels = c(AI_CORE_LABEL, "LM tone", "LM uncertainty", ctrl_labels),
+    omit.stat        = c("f", "ser"),
+    add.lines        = list(
+      c("Firm FE",    "Yes",  "Yes",      "Yes"),
+      c("Time FE",    "Yes",  "Yes",      "Yes"),
+      c("Cluster SE", "Firm", "Firm",     "Firm"),
+      c("Sample",     "All",  semi_note,  paste0("Excl. ", semi_note))
     ),
-    sig     = factor(sig, levels = c("p < 0.01", "p < 0.05", "p < 0.10", "n.s.")),
-    outcome = dplyr::recode(outcome,
-      car_m1_p1_w      = "Short-run CAR [-1,+1]",
-      long_run_abret_w = "CAR [+2, +30]"
-    ),
-    segment = dplyr::recode(segment,
-      total = "Total transcript",
-      pres  = "Presentation",
-      qa    = "Q&A"
-    ),
-    segment = factor(segment, levels = c("Total transcript", "Presentation", "Q&A"))
+    notes = note_consol, notes.append = FALSE, digits = 4
   )
+}
 
-coef_semi_ai <- coef_semi %>% filter(var_type == "AI language")
+# -----------------------------------------------------------------------------
+# (4)  AI x Time interaction (adjusted / correctly-labeled, from Section 12)
+# -----------------------------------------------------------------------------
+cat("\n  -- (4) AI x Time interaction (adjusted) --\n")
+for (outcome in outcomes) {
+  out_label <- ifelse(outcome == "car_m1_p1_w", "short", "long")
+  base      <- sprintf("tbl_4_ai_time_interaction_%s", out_label)
 
-var_order_semi <- coef_semi_ai %>%
-  filter(outcome == "Short-run CAR [-1,+1]", segment == "Total transcript") %>%
-  arrange(estimate) %>% pull(term) %>% unique()
-coef_semi_ai$term <- factor(coef_semi_ai$term, levels = var_order_semi)
+  # temporal models already carry canonical names; build labels by name (Sec 12)
+  labels_t <- build_temporal_labels(temporal_results[[outcome]][[segments[1]]]$full$ct)
+  # drop the "[KEY]" annotation from the interaction-term label
+  labels_t <- trimws(gsub("\\[KEY\\]", "", labels_t))
 
-fig_semi <- ggplot(coef_semi_ai, aes(x = estimate, y = term, color = sig)) +
-  geom_vline(xintercept = 0, linetype = "dashed", color = "grey55", linewidth = 0.6) +
-  geom_errorbar(aes(xmin = lo95, xmax = hi95),
-                width = 0.25, linewidth = 0.6, alpha = 0.7,
-                orientation = "y") +
-  geom_point(size = 2.5) +
-  scale_color_manual(
-    values = c("p < 0.01" = "#C0392B", "p < 0.05" = "#E07B39",
-               "p < 0.10" = "#F0C030", "n.s." = "grey60"),
-    name = "Significance"
-  ) +
-  facet_grid(segment ~ outcome, scales = "free_x") +
-  labs(
-    title    = sprintf(
-      "Semi-Only: Core AI Intensity Coefficients — Two-Way FE (with Controls)\nFirms: %s",
-      paste(SEMI_TICKERS, collapse = ", ")
+  export_consol(
+    lapply(segments, function(s) temporal_results[[outcome]][[s]]$full$fit),
+    lapply(segments, function(s) temporal_results[[outcome]][[s]]$full$se),
+    lapply(segments, function(s) temporal_results[[outcome]][[s]]$full$pval),
+    base,
+    title            = sprintf(
+      "Temporal Stability - AI-Core x Time Interaction: %s (Firm FE, Three Segments)",
+      outcome_labels[[outcome]]),
+    column.labels    = seg_cols,
+    dep.var.labels   = outcome_labels[[outcome]],
+    covariate.labels = labels_t,
+    omit.stat        = c("f", "ser"),
+    add.lines        = list(
+      c("Firm FE",    rep("Yes",  3)),
+      c("Time FE",    rep("No",   3)),
+      c("Time trend", rep("Yes",  3)),
+      c("Cluster SE", rep("Firm", 3))
     ),
-    subtitle = paste0(
-      "AI regressors only; models also include SUE score, analyst coverage, ROA, ",
-      "book-to-market, firm size, leverage\n",
-      "Horizontal bars = 95% CI; standard errors clustered by firm"
-    ),
-    x       = "Coefficient estimate",
-    y       = NULL,
-    caption = sprintf(
-      "Semiconductor / AI-hardware firms only: %s. Two-way FE: firm + calendar-quarter.",
-      paste(SEMI_TICKERS, collapse = ", ")
+    notes = note_temporal_adj, notes.append = FALSE, digits = 4
+  )
+}
+
+# -----------------------------------------------------------------------------
+# (7)  FE comparison: Two-Way FE / Firm FE / Pooled OLS
+#      One table per segment x horizon = 3 segments x 2 horizons = 6 tables.
+# -----------------------------------------------------------------------------
+cat("\n  -- (7) FE comparison (TWFE / Firm FE / Pooled OLS), per segment --\n")
+seg_pretty <- c(total = "Total", pres = "Presentation", qa = QANDA_TOKEN)
+for (outcome in outcomes) {
+  out_label <- ifelse(outcome == "car_m1_p1_w", "short", "long")
+  for (seg in segments) {
+    base <- sprintf("tbl_7_fe_comparison_%s_%s", seg, out_label)
+
+    export_consol(
+      lapply(specs, function(sp) results[["main"]][[outcome]][[seg]][[sp]]$fit),
+      lapply(specs, function(sp) results[["main"]][[outcome]][[seg]][[sp]]$se),
+      lapply(specs, function(sp) results[["main"]][[outcome]][[seg]][[sp]]$pval),
+      base,
+      title            = sprintf(
+        "Specification Comparison: %s - Two-Way FE / Firm FE / Pooled OLS (%s Segment)",
+        outcome_labels[[outcome]], seg_pretty[[seg]]),
+      column.labels    = spec_labels,
+      dep.var.labels   = outcome_labels[[outcome]],
+      covariate.labels = c(AI_CORE_LABEL, "LM tone", "LM uncertainty", ctrl_labels),
+      omit.stat        = c("f", "ser"),
+      add.lines        = list(
+        c("Segment",    rep(seg_pretty[[seg]], 3)),
+        c("Firm FE",    "Yes",  "Yes", "No"),
+        c("Time FE",    "Yes",  "No",  "No"),
+        c("Cluster SE", "Firm", "Firm","Firm")
+      ),
+      notes = note_consol, notes.append = FALSE, digits = 4
     )
-  ) +
-  theme_thesis() +
-  theme(strip.text = element_text(face = "bold", size = 9),
-        axis.text.y = element_text(size = 8.5), legend.position = "bottom")
+  }
+}
 
-ggsave(file.path(output_dir, "fig_coef_plot_semi_main.png"),
-       fig_semi, width = 13, height = 9, dpi = 150)
-cat("  Semi-only coefficient plot saved: fig_coef_plot_semi_main.png\n\n")
+# -----------------------------------------------------------------------------
+# (8)  COMPACT single-table summary of the AI-core x sentiment interaction terms
+#       One table, both horizons as panels, three segment columns. Reports only
+#       the key interaction coefficients (the decision-relevant rows): AI-core x
+#       LM tone (from Model A) and AI-core x LM uncertainty (from Model B), each
+#       from its own pairwise model. Each cell = coefficient (SE) with stars.
+#       Written as tbl_8_int_summary.{html,tex}.
+# -----------------------------------------------------------------------------
+cat("\n  -- (8) AI-core x sentiment interaction summary table --\n")
 
+# Pull one coefficient (est, se, p) from a model by exact term name.
+get_int <- function(outcome, seg, model_key, term) {
+  ct <- sentiment_results[[outcome]][[seg]][[model_key]]$ct
+  if (!term %in% rownames(ct)) return(c(est = NA, se = NA, p = NA))
+  c(est = ct[term, "Estimate"], se = ct[term, "Std. Error"],
+    p   = ct[term, "Pr(>|t|)"])
+}
+nobs_int <- function(outcome, seg, model_key)
+  nobs(sentiment_results[[outcome]][[seg]][[model_key]]$fit)
 
-# =============================================================================
-# 10. CONSOLE SUMMARY — Quick-read for thesis meetings
-# =============================================================================
-cat("\n")
-cat("=================================================================\n")
-cat("  REGRESSION SUMMARY — Two-Way FE, Total Segment\n")
-cat("=================================================================\n")
+stars_of <- function(p) ifelse(is.na(p), "",
+  ifelse(p < 0.01, "***", ifelse(p < 0.05, "**", ifelse(p < 0.10, "*", ""))))
 
-for (sec in sections) {
-  cat(sprintf("\n\n  *** %s ***\n", section_labels[[sec]]))
-  cat(paste(rep("-", 64), collapse = ""), "\n")
+# Rows: label, model_key, interaction term name
+int_rows <- list(
+  c("AI-core x LM tone",        "tone_int",   "ai_core:tone"),
+  c("AI-core x LM uncertainty", "uncert_int", "ai_core:uncert")
+)
+panels <- list(
+  c("Panel A. Short-run CAR [-1,+1]", "car_m1_p1_w"),
+  c("Panel B. Long-run CAR [+2,+30]", "long_run_abret_w")
+)
 
-  for (outcome in outcomes) {
-    ct <- results[[sec]][[outcome]][["total"]][["twoway"]]$ct
-    cat(sprintf("\n  Outcome: %s\n", outcome_labels[[outcome]]))
-    cat(sprintf("  N = %d obs, %d firms\n",
-                nobs(results[[sec]][[outcome]][["total"]][["twoway"]]$fit),
-                length(unique(df_panel$ticker))))
-    cat(sprintf("  %-28s  %9s  %9s  %7s\n",
-                "Variable", "Coef.", "Std. Err.", "p-val"))
-    cat(paste(rep("-", 62), collapse = ""), "\n")
-    for (i in seq_len(nrow(ct))) {
-      stars <- ifelse(ct[i, "Pr(>|t|)"] < 0.01, "***",
-                ifelse(ct[i, "Pr(>|t|)"] < 0.05, "**",
-                 ifelse(ct[i, "Pr(>|t|)"] < 0.10, "*", "")))
-      cat(sprintf("  %-28s  %9.4f  %9.4f  %7.4f  %s\n",
-                  rownames(ct)[i],
-                  ct[i, "Estimate"],
-                  ct[i, "Std. Error"],
-                  ct[i, "Pr(>|t|)"],
-                  stars))
+int_summary_note <- paste0(
+  "Each cell reports the interaction coefficient with its firm-clustered HC1 ",
+  "standard error in parentheses. Each interaction is estimated in its own ",
+  "two-way FE model (firm + calendar-quarter) including AI-core, both LM ",
+  "sentiment controls, and the six firm-level controls; only the interaction ",
+  "row is shown. Outcomes and controls winsorised at 1st/99th percentile. ",
+  "*** p<0.01, ** p<0.05, * p<0.1."
+)
+
+int_title <- "AI-Core &times; Sentiment Interaction &mdash; Interaction Terms by Transcript Segment"
+# Observations are identical across panels (same estimation sample); report once.
+obs_seg <- sapply(segments, function(s) nobs_int(panels[[1]][2], s, "tone_int"))
+obs_fmt <- formatC(obs_seg, format = "d", big.mark = ",")
+
+# ---- HTML (mirrors stargazer markup: centered, rules, coef-over-SE, sup stars) ----
+lab_html <- function(x) gsub(" x ", " &times; ", x, fixed = TRUE)
+h <- c(
+  sprintf('<table style="text-align:center"><caption><strong>%s</strong></caption>', int_title),
+  '<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr>',
+  '<tr><td style="text-align:left"></td><td>(1) Total</td><td>(2) Presentation</td><td>(3) Q&amp;A</td></tr>',
+  '<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr>')
+for (pn in panels) {
+  h <- c(h, sprintf('<tr><td style="text-align:left"><em>%s</em></td><td></td><td></td><td></td></tr>', pn[1]))
+  for (r in int_rows) {
+    vv <- lapply(segments, function(s) get_int(pn[2], s, r[2], r[3]))
+    coefs <- sapply(vv, function(v) sprintf("%.4f%s", v["est"],
+                    ifelse(stars_of(v["p"]) == "", "", sprintf("<sup>%s</sup>", stars_of(v["p"])))))
+    ses   <- sapply(vv, function(v) sprintf("(%.4f)", v["se"]))
+    h <- c(h,
+      sprintf('<tr><td style="text-align:left">%s</td><td>%s</td><td>%s</td><td>%s</td></tr>',
+              lab_html(r[1]), coefs[1], coefs[2], coefs[3]),
+      sprintf('<tr><td style="text-align:left"></td><td>%s</td><td>%s</td><td>%s</td></tr>',
+              ses[1], ses[2], ses[3]),
+      '<tr><td style="text-align:left"></td><td></td><td></td><td></td></tr>')
+  }
+}
+h <- c(h,
+  '<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr>',
+  '<tr><td style="text-align:left">Firm FE</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>',
+  '<tr><td style="text-align:left">Time FE</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>',
+  '<tr><td style="text-align:left">Cluster SE</td><td>Firm</td><td>Firm</td><td>Firm</td></tr>',
+  sprintf('<tr><td style="text-align:left">Observations</td><td>%s</td><td>%s</td><td>%s</td></tr>',
+          obs_fmt[1], obs_fmt[2], obs_fmt[3]),
+  '<tr><td colspan="4" style="border-bottom: 1px solid black"></td></tr>',
+  sprintf('<tr><td style="text-align:left"><em>Note:</em></td><td colspan="3" style="text-align:right">%s</td></tr>',
+          int_summary_note),
+  '</table>')
+writeLines(h, file.path(consol_dir, "html", "tbl_8_int_summary.html"))
+
+# ---- LaTeX (mirrors stargazer: \extracolsep, \hline rules, $-$, $^{***}$) ----
+lab_tex   <- function(x) gsub(" x ", " $\\\\times$ ", x, fixed = TRUE)
+stars_tex <- function(p) { s <- stars_of(p); ifelse(s == "", "", sprintf("$^{%s}$", s)) }
+neg_tex   <- function(num) sub("^-", "$-$", num)
+coef_tex  <- function(v) paste0(neg_tex(sprintf("%.4f", v["est"])), stars_tex(v["p"]))
+se_tex    <- function(v) sprintf("(%.4f)", v["se"])
+L <- c("\\begin{table}[!htbp] \\centering",
+  sprintf("  \\caption{AI-Core $\\times$ Sentiment Interaction --- Interaction Terms by Transcript Segment}"),
+  "  \\label{tab:int_summary}",
+  "\\begin{tabular}{@{\\extracolsep{5pt}}lccc}",
+  "\\\\[-1.8ex]\\hline",
+  "\\hline \\\\[-1.8ex]",
+  " & (1) Total & (2) Presentation & (3) Q\\&A \\\\",
+  "\\hline \\\\[-1.8ex]")
+for (pn in panels) {
+  L <- c(L, sprintf(" \\multicolumn{4}{l}{\\textit{%s}} \\\\[2pt]", pn[1]))
+  for (r in int_rows) {
+    vv <- lapply(segments, function(s) get_int(pn[2], s, r[2], r[3]))
+    L <- c(L,
+      sprintf(" %s & %s & %s & %s \\\\", lab_tex(r[1]),
+              coef_tex(vv[[1]]), coef_tex(vv[[2]]), coef_tex(vv[[3]])),
+      sprintf("  & %s & %s & %s \\\\", se_tex(vv[[1]]), se_tex(vv[[2]]), se_tex(vv[[3]])),
+      "  & & & \\\\")
+  }
+}
+L <- c(L, "\\hline \\\\[-1.8ex]",
+  " Firm FE & Yes & Yes & Yes \\\\",
+  " Time FE & Yes & Yes & Yes \\\\",
+  " Cluster SE & Firm & Firm & Firm \\\\",
+  sprintf(" Observations & %s & %s & %s \\\\", obs_fmt[1], obs_fmt[2], obs_fmt[3]),
+  "\\hline",
+  "\\hline \\\\[-1.8ex]",
+  sprintf("\\textit{Note:}  & \\multicolumn{3}{r}{%s} \\\\",
+          gsub("&", "\\\\&", int_summary_note)),
+  "\\end{tabular}",
+  "\\end{table}")
+writeLines(L, file.path(consol_dir, "latex", "tbl_8_int_summary.tex"))
+cat("  [consolidated] Saved: tbl_8_int_summary             (.html / .tex)\n")
+
+# -----------------------------------------------------------------------------
+# (1)  Descriptive statistics Table 1a - copy from descriptive script output
+# -----------------------------------------------------------------------------
+# Table 1a is generated by descriptive_statistics_2.0.R. If that script has
+# already been run, copy any descriptive table files into consolidated/ so the
+# whole set lives in one place. (No error if not yet generated.)
+cat("\n  -- (1) Descriptive statistics Table 1a --\n")
+desc_candidates <- c(
+  file.path(root_dir, "output", "descriptive"),
+  file.path(root_dir, "output", "descriptives"),
+  file.path(output_dir, "..", "descriptive")
+)
+desc_copied <- FALSE
+for (dcand in desc_candidates) {
+  if (dir.exists(dcand)) {
+    for (ext in c("html", "tex")) {
+      hits <- list.files(dcand, pattern = sprintf("(?i)(table.?1a|desc).*\\.%s$", ext),
+                         full.names = TRUE, recursive = TRUE)
+      dest_sub <- ifelse(ext == "html", "html", "latex")
+      for (h in hits) {
+        file.copy(h, file.path(consol_dir, dest_sub,
+                               paste0("tbl_1_descriptive_", basename(h))),
+                  overwrite = TRUE)
+        desc_copied <- TRUE
+      }
     }
   }
 }
-
-cat("\n\n  *** Semi-Only [Core AI Intensity — Additional Section] ***\n")
-cat(sprintf("  Firms: %s\n", paste(SEMI_TICKERS, collapse = ", ")))
-cat(paste(rep("-", 64), collapse = ""), "\n")
-
-for (outcome in outcomes) {
-  ct <- semi_main_results[[outcome]][["total"]][["twoway"]]$ct
-  cat(sprintf("\n  Outcome: %s\n", outcome_labels[[outcome]]))
-  cat(sprintf("  N = %d obs, %d firms\n",
-              nobs(semi_main_results[[outcome]][["total"]][["twoway"]]$fit),
-              length(unique(df_panel$ticker[df_panel$is_semi]))))
-  cat(sprintf("  %-28s  %9s  %9s  %7s\n",
-              "Variable", "Coef.", "Std. Err.", "p-val"))
-  cat(paste(rep("-", 62), collapse = ""), "\n")
-  for (i in seq_len(nrow(ct))) {
-    stars <- ifelse(ct[i, "Pr(>|t|)"] < 0.01, "***",
-              ifelse(ct[i, "Pr(>|t|)"] < 0.05, "**",
-               ifelse(ct[i, "Pr(>|t|)"] < 0.10, "*", "")))
-    cat(sprintf("  %-28s  %9.4f  %9.4f  %7.4f  %s\n",
-                rownames(ct)[i],
-                ct[i, "Estimate"],
-                ct[i, "Std. Error"],
-                ct[i, "Pr(>|t|)"],
-                stars))
-  }
+if (desc_copied) {
+  cat("  [consolidated] Descriptive Table 1a copied in.\n")
+} else {
+  cat("  [consolidated] NOTE: descriptive Table 1a not found. Run\n")
+  cat("                 descriptive_statistics_2.0.R first, then re-run this\n")
+  cat("                 section to pull Table 1a into consolidated/.\n")
 }
 
 cat("\n=================================================================\n")
-cat(sprintf("  All outputs saved to:\n  %s\n", output_dir))
-cat("=================================================================\n")
-cat("\n  Files written:\n")
-all_files <- list.files(output_dir, recursive = TRUE)
-for (f in all_files) cat(sprintf("    - %s\n", f))
-cat("\n=== Done ===\n")
+cat(sprintf("  All consolidated tables saved to:\n  %s\n", consol_dir))
+cat("  Each table is written as BOTH .html and .tex (Overleaf-ready).\n")
+cat("=================================================================\n\n")

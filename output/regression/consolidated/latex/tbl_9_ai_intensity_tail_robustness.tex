@@ -1,0 +1,32 @@
+
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Wed, Jun 10, 2026 - 01:23:50
+\begin{table}[!htbp] \centering 
+  \caption{AI-Core Intensity - Tail Sensitivity of the Long-Run Effect} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lccc} 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{3}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-4} 
+\\[-1.8ex] & \multicolumn{3}{c}{Long-run CAR [+2,+30]} \\ 
+ & (1) Raw linear & (2) log(1+x) & (3) Drop top 10% \\ 
+\\[-1.8ex] & (1) & (2) & (3)\\ 
+\hline \\[-1.8ex] 
+ AI-core intensity & 0.0043$^{***}$ & 0.0222$^{***}$ & 0.0117$^{***}$ \\ 
+  & (0.0015) & (0.0060) & (0.0033) \\ 
+  & & & \\ 
+\hline \\[-1.8ex] 
+AI-core transform & raw & log(1+x) & raw \\ 
+Sample & Full & Full & Drop top 10% \\ 
+Firm FE & Yes & Yes & Yes \\ 
+Time FE & Yes & Yes & Yes \\ 
+Cluster SE & Firm & Firm & Firm \\ 
+Observations & 1,493 & 1,493 & 1,343 \\ 
+R$^{2}$ & 0.0372 & 0.0401 & 0.0443 \\ 
+Adjusted R$^{2}$ & $-$0.0447 & $-$0.0416 & $-$0.0470 \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{3}{r}{Each column re-estimates the long-run [+2,+30] specification (two-way FE, firm-clustered HC1 SE, all controls and LM sentiment terms included; only the AI-intensity row is shown). (1) uses raw AI-core intensity; (2) uses log(1 + intensity); (3) drops the top decile of intensity. Outcomes and controls winsorised at 1st/99th percentile. *** p<0.01, ** p<0.05, * p<0.1.} \\ 
+\end{tabular} 
+\end{table} 

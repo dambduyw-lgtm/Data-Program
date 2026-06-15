@@ -1,0 +1,70 @@
+Copyright (c) 2026 Duy Dam. All rights reserved.
+
+================================================================================
+1. CODE AND PROGRAMS
+================================================================================
+
+All source code, scripts, and notebooks in this repository (the "Software") —
+including, without limitation, the contents of program/notebooks/ and
+program/scripts/ — are the original work of Duy Dam and are protected by
+copyright.
+
+All rights are reserved. No part of the Software may be reproduced, copied,
+modified, distributed, published, sublicensed, or used to create derivative
+works, in whole or in part, by any means, without the prior written permission
+of the copyright holder, except as follows:
+
+  - Examiners, supervisors, and academic staff of the institution to which the
+    associated Master's thesis is submitted may access, read, and execute the
+    Software solely for the purpose of evaluating, reviewing, and verifying the
+    thesis and its results.
+
+The Software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and non-infringement. In no event shall the
+author be liable for any claim, damages, or other liability arising from, out
+of, or in connection with the Software or its use.
+
+================================================================================
+2. DATA — PROPRIETARY THIRD-PARTY SOURCES (NOT COVERED BY THIS LICENSE)
+================================================================================
+
+This research relies on commercial datasets that are the property of their
+respective providers and are licensed for academic use through Wharton Research
+Data Services (WRDS). These datasets are NOT owned by the author, are NOT
+licensed to third parties under this file, and are NOT redistributed in this
+repository. No raw vendor data is included here; only derived, aggregated
+research outputs sufficient to document the analysis are retained.
+
+The data providers and their materials include:
+
+  - LSEG (London Stock Exchange Group) — earnings call transcripts.
+    © LSEG. All rights reserved.
+
+  - I/B/E/S (Institutional Brokers' Estimate System), provided via LSEG —
+    analyst estimates and standardized unexpected earnings (SUE).
+    © LSEG / I/B/E/S. All rights reserved.
+
+  - CRSP (Center for Research in Security Prices, LLC) — daily stock returns
+    and security identifiers.
+    © CRSP, an affiliate of the University of Chicago Booth School of Business.
+    All rights reserved.
+
+  - Compustat, provided via S&P Global Market Intelligence — quarterly
+    fundamentals.
+    © S&P Global Market Intelligence. All rights reserved.
+
+Use of each dataset is governed by the terms of the applicable WRDS
+subscription and the data provider's own license agreement. Any person wishing
+to reproduce this research must obtain independent, valid licenses to these
+datasets directly from the providers or through WRDS. Nothing in this
+repository grants, transfers, or implies any right to use the underlying
+proprietary data.
+
+The Loughran-McDonald Master Dictionary is used under the terms made available
+by its authors (Loughran & McDonald, 2011) and remains the property of its
+authors.
+
+================================================================================
+
+For permission requests regarding the code, contact: dambduy.w@gmail.com

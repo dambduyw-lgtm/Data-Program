@@ -2,16 +2,30 @@
 # Descriptive Statistics — Intermediate Progress Report
 # Thesis: AI Language in Earnings Calls and Stock Returns
 #
+# Data source: data/processed/financial_event_dataset_with_cv.csv
+#   (includes firm-level control variables: SUE, analyst coverage, ROA,
+#    book-to-market, firm size, leverage)
+#
+# Sample: BALANCED PANEL. Only firms with the modal number of earnings calls
+# (full coverage across all sample quarters) are retained. Drops a small
+# handful of firms with incomplete coverage to maintain a consistent firm
+# set across the descriptive and regression analyses. The raw (unbalanced)
+# data is preserved as df_raw and used only to generate fig7 — the panel
+# balance figure that justifies the restriction.
+#
 # Outputs (saved to /output/descriptive/):
-#   - summary_stats.txt          : Summary statistics table (all key variables)
+#   - summary_stats_full.txt     : Summary statistics — full sample (all variables incl. controls)
+#   - summary_stats_exsemi.txt   : Summary statistics — ex-semiconductor sample
+#   - summary_stats_comparison.txt : Side-by-side mean comparison (full vs ex-semi)
 #   - fig1_ai_trend.png          : AI mention intensity over time
 #   - fig2_ai_adoption.png       : % of calls with any AI mentions per quarter
 #   - fig3_car_distributions.png : Distribution of short- and long-run CARs
-#   - fig4_correlation.png       : Correlation matrix heatmap
+#   - fig4_correlation.png       : Correlation matrix heatmap (incl. control variables)
 #   - fig5_ai_vs_car.png         : AI intensity vs CAR scatter (binned)
 #   - fig6_pres_vs_qa.png        : Presentation vs Q&A AI intensity over time
 #   - fig7_panel_balance.png     : Panel balance — frequency distribution + per-firm bars
 #   - fig8_semi_exclusion.png    : AI trend: full sample vs. ex-semiconductor firms
+#   - fig9_controls.png          : Control variable distributions (histograms)
 # =============================================================================
 
 
@@ -59,18 +73,46 @@ script_dir  <- tryCatch(
   error = function(e) getwd()
 )
 root_dir    <- dirname(dirname(script_dir))   # two levels up from notebooks/
-data_path   <- file.path(root_dir, "data", "processed", "financial_event_dataset.csv")
+data_path   <- file.path(root_dir, "data", "processed", "financial_event_dataset_with_cv.csv")
 output_dir  <- file.path(root_dir, "output", "descriptive")
 
 # Fallback: uncomment and set manually if path resolution fails
 # root_dir   <- "C:/path/to/your/project"
-# data_path  <- file.path(root_dir, "data", "processed", "financial_event_dataset.csv")
+# data_path  <- file.path(root_dir, "data", "processed", "financial_event_dataset_with_cv.csv")
 # output_dir <- file.path(root_dir, "output", "descriptive")
 
 dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
 
-df <- read.csv(data_path, stringsAsFactors = FALSE)
-df$date <- as.Date(df$date)
+df_raw <- read.csv(data_path, stringsAsFactors = FALSE)
+df_raw$date <- as.Date(df_raw$date)
+
+# -----------------------------------------------------------------------------
+# BALANCED PANEL RESTRICTION
+#
+# Identify firms with the modal number of earnings calls in the sample
+# period — i.e. those with continuous coverage across all quarters — and
+# drop the rest. This produces a balanced panel so that the descriptive
+# statistics, regressions, and robustness checks all share an identical
+# firm set, addressing concerns about compositional changes.
+#
+# df_raw : original unbalanced data (used only to draw fig7)
+# df     : balanced subsample used for every other table and figure
+# -----------------------------------------------------------------------------
+obs_per_firm_raw <- df_raw %>% count(ticker)
+modal_n_raw      <- as.integer(names(which.max(table(obs_per_firm_raw$n))))
+balanced_tickers <- obs_per_firm_raw %>% filter(n == modal_n_raw) %>% pull(ticker)
+
+df <- df_raw %>% filter(ticker %in% balanced_tickers)
+
+cat("=== Balanced Panel Restriction ===\n")
+cat(sprintf("  Raw       : %d firms, %d observations\n",
+            nrow(obs_per_firm_raw), nrow(df_raw)))
+cat(sprintf("  Balanced  : %d firms, %d observations (modal n = %d calls)\n",
+            length(balanced_tickers), nrow(df), modal_n_raw))
+cat(sprintf("  Dropped   : %d firms, %d observations (%.1f%% of raw)\n\n",
+            nrow(obs_per_firm_raw) - length(balanced_tickers),
+            nrow(df_raw) - nrow(df),
+            (nrow(df_raw) - nrow(df)) / nrow(df_raw) * 100))
 
 # -----------------------------------------------------------------------------
 # Derive CALENDAR quarter/year from the actual call date.
@@ -133,19 +175,23 @@ select_vars <- function(data) {
       lm_tone_total, lm_uncertainty_total,
       lm_tone_pres,  lm_uncertainty_pres,
       lm_tone_qa,    lm_uncertainty_qa,
-      total_words, pres_words, qa_words
+      total_words, pres_words, qa_words,
+      # Firm-level control variables
+      suescore, analyst_coverage, roa, book_to_market, firm_size, leverage
     ) %>%
     as.data.frame()
 }
 
 var_labels <- c(
-  "CAR [-1,+1]", "Long-run ABret",
+  "CAR [-1,+1]", "CAR [+2, +30]",
   "AI core (per 1000, total)", "AI core (per 1000, pres)", "AI core (per 1000, Q&A)",
   "AI adj (per 1000, total)",  "AI adj (per 1000, pres)",  "AI adj (per 1000, Q&A)",
   "LM Tone (total)", "LM Uncertainty (total)",
   "LM Tone (pres)",  "LM Uncertainty (pres)",
   "LM Tone (Q&A)",   "LM Uncertainty (Q&A)",
-  "Total words", "Presentation words", "Q&A words"
+  "Total words", "Presentation words", "Q&A words",
+  # Control variable labels
+  "SUE Score", "Analyst Coverage", "ROA", "Book-to-Market", "Firm Size (ln MktCap)", "Leverage"
 )
 
 # Table 1a: Full sample
@@ -214,7 +260,6 @@ fig1 <- ggplot(ai_trend, aes(x = period_label, y = intensity,
   geom_point(size = 2) +
   scale_color_manual(values = c("Total" = "#2C5F8A", "Presentation" = "#E07B39", "Q&A" = "#4DAF6E")) +
   labs(
-    title    = "Figure 1: AI Mention Intensity Over Time",
     subtitle = "Mean core AI keyword frequency per 1,000 words — by transcript segment",
     x = NULL, y = "Core AI mentions per 1,000 words",
     color = "Segment",
@@ -247,7 +292,6 @@ fig2 <- ggplot(ai_adoption, aes(x = period_label, y = pct, fill = dict)) +
   scale_fill_manual(values = c("Core AI" = "#2C5F8A", "Adj. AI" = "#E07B39")) +
   scale_y_continuous(labels = label_percent(scale = 1), limits = c(0, 100)) +
   labs(
-    title    = "Figure 2: AI Adoption Rate per Quarter",
     subtitle = "% of earnings calls containing at least one AI keyword mention",
     x = NULL, y = "% of calls with AI mentions",
     fill = "Dictionary",
@@ -275,7 +319,7 @@ make_car_long <- function(data, sample_label) {
     mutate(
       window = recode(window,
         car_m1_p1      = "Short-run CAR [-1, +1]",
-        long_run_abret = "Long-run Abnormal Return"
+        long_run_abret = "CAR [+2, +30]"
       ),
       sample = sample_label
     ) %>%
@@ -300,11 +344,10 @@ fig3 <- ggplot(car_long, aes(x = return, fill = window)) +
   geom_histogram(bins = 50, color = "white", alpha = 0.85) +
   geom_vline(xintercept = 0, linetype = "dashed", color = "grey30") +
   scale_fill_manual(values = c("Short-run CAR [-1, +1]" = "#2C5F8A",
-                                "Long-run Abnormal Return" = "#E07B39")) +
+                                "CAR [+2, +30]" = "#E07B39")) +
   scale_x_continuous(labels = label_percent()) +
   facet_grid(sample ~ window, scales = "free") +
   labs(
-    title    = "Figure 3: Distribution of Abnormal Returns",
     subtitle = "Rows: full sample vs. ex-semiconductor  |  Winsorised at 1st/99th percentile",
     x = "Abnormal Return", y = "Count",
     caption = sprintf("Full sample N = %d  |  Ex-semiconductor N = %d", nrow(df), nrow(df_ex_semi))
@@ -331,7 +374,14 @@ cor_vars <- df %>%
     `AI core (Q&A)`    = core_per_1000_qa,
     `LM tone`          = lm_tone_total,
     `LM uncertainty`   = lm_uncertainty_total,
-    `Total words`      = total_words
+    `Total words`      = total_words,
+    # Control variables
+    `SUE score`        = suescore,
+    `Analyst cov.`     = analyst_coverage,
+    `ROA`              = roa,
+    `Book-to-Market`   = book_to_market,
+    `Firm size`        = firm_size,
+    `Leverage`         = leverage
   ) %>%
   filter(complete.cases(.))
 
@@ -345,7 +395,6 @@ fig4 <- ggcorrplot(
   lab_size  = 3,
   colors    = c("#C0392B", "white", "#2C5F8A"),
   outline.color = "white",
-  title     = "Figure 4: Correlation Matrix",
   legend.title = "Pearson r"
 ) +
   labs(caption = paste0("N = ", nrow(cor_vars), " complete observations")) +
@@ -391,14 +440,14 @@ quintile_plot <- function(data, ai_var, car_var, ai_label, car_label, sample_lab
 bins <- bind_rows(
   # Full sample
   quintile_plot(df, "core_per_1000_total", "car_m1_p1",      "Core AI (total)", "Short-run CAR", "Full sample"),
-  quintile_plot(df, "core_per_1000_total", "long_run_abret", "Core AI (total)", "Long-run ABret","Full sample"),
+  quintile_plot(df, "core_per_1000_total", "long_run_abret", "Core AI (total)", "CAR [+2, +30]","Full sample"),
   quintile_plot(df, "adj_per_1000_total",  "car_m1_p1",      "Adj. AI (total)", "Short-run CAR", "Full sample"),
-  quintile_plot(df, "adj_per_1000_total",  "long_run_abret", "Adj. AI (total)", "Long-run ABret","Full sample"),
+  quintile_plot(df, "adj_per_1000_total",  "long_run_abret", "Adj. AI (total)", "CAR [+2, +30]","Full sample"),
   # Ex-semiconductor
   quintile_plot(df_ex_semi, "core_per_1000_total", "car_m1_p1",      "Core AI (total)", "Short-run CAR", "Ex-semiconductor"),
-  quintile_plot(df_ex_semi, "core_per_1000_total", "long_run_abret", "Core AI (total)", "Long-run ABret","Ex-semiconductor"),
+  quintile_plot(df_ex_semi, "core_per_1000_total", "long_run_abret", "Core AI (total)", "CAR [+2, +30]","Ex-semiconductor"),
   quintile_plot(df_ex_semi, "adj_per_1000_total",  "car_m1_p1",      "Adj. AI (total)", "Short-run CAR", "Ex-semiconductor"),
-  quintile_plot(df_ex_semi, "adj_per_1000_total",  "long_run_abret", "Adj. AI (total)", "Long-run ABret","Ex-semiconductor")
+  quintile_plot(df_ex_semi, "adj_per_1000_total",  "long_run_abret", "Adj. AI (total)", "CAR [+2, +30]","Ex-semiconductor")
 ) %>%
   mutate(sample_label = factor(sample_label, levels = c("Full sample", "Ex-semiconductor")))
 
@@ -408,11 +457,10 @@ fig5 <- ggplot(bins, aes(x = factor(ai_quintile), y = mean_car,
   geom_errorbar(aes(ymin = lo, ymax = hi), width = 0.15, alpha = 0.5) +
   geom_line(linewidth = 0.9) +
   geom_point(size = 2.5) +
-  scale_color_manual(values = c("Short-run CAR" = "#2C5F8A", "Long-run ABret" = "#E07B39")) +
+  scale_color_manual(values = c("Short-run CAR [-1, +1]" = "#2C5F8A", "CAR [+2, +30]" = "#E07B39")) +
   scale_y_continuous(labels = label_percent()) +
   facet_grid(sample_label ~ ai_label) +
   labs(
-    title    = "Figure 5: Mean Abnormal Return by AI Intensity Quintile",
     subtitle = "Rows: full sample vs. ex-semiconductor  |  Q1 = lowest AI; Q5 = highest  |  Error bars = 95% CI",
     x = "AI Intensity Quintile", y = "Mean Abnormal Return",
     color = "Return window"
@@ -444,7 +492,6 @@ fig6 <- ggplot(pres_qa_trend, aes(x = period_label, y = intensity,
   geom_point(size = 2.5) +
   scale_color_manual(values = c("Presentation" = "#E07B39", "Q&A" = "#4DAF6E")) +
   labs(
-    title    = "Figure 6: Presentation vs Q&A — AI Intensity Over Time",
     subtitle = "Core AI mentions per 1,000 words, by transcript segment",
     x = NULL, y = "Core AI per 1,000 words",
     color = "Segment",
@@ -460,8 +507,12 @@ cat("Fig 6 saved.\n")
 
 # -----------------------------------------------------------------------------
 # 10. FIGURE 7: Panel Balance — frequency distribution of observations per firm
+#
+# Uses the RAW (pre-balancing) data so the figure documents why the balanced
+# sample was chosen: the modal bar shows firms retained, the smaller bars
+# show firms dropped to balance the panel.
 # -----------------------------------------------------------------------------
-obs_per_firm <- df %>% count(ticker, company)
+obs_per_firm <- df_raw %>% count(ticker, company)
 modal_n      <- as.integer(names(which.max(table(obs_per_firm$n))))
 n_firms      <- nrow(obs_per_firm)
 n_balance    <- sum(obs_per_firm$n == modal_n)
@@ -473,12 +524,11 @@ fig7 <- ggplot(freq_data, aes(x = factor(n), y = n_firms)) +
   geom_text(aes(label = n_firms), vjust = -0.4, size = 3.5, fontface = "bold") +
   scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
   labs(
-    title    = "Figure 7: Panel Balance — Distribution of Earnings Calls per Firm",
-    subtitle = sprintf("%d of %d firms have exactly %d calls (%.0f%% balanced)",
+    subtitle = sprintf("%d of %d firms have exactly %d calls (%.0f%% balanced) — retained for analysis",
                        n_balance, n_firms, modal_n, n_balance / n_firms * 100),
     x = "Number of earnings calls", y = "Number of firms",
-    caption = sprintf("N = %d total observations across %d firms. Sample: S&P 100 earnings calls.",
-                      nrow(df), n_firms)
+    caption = sprintf("Raw sample N = %d obs across %d firms; balanced sample N = %d obs across %d firms.",
+                      nrow(df_raw), n_firms, nrow(df), n_balance)
   ) +
   theme_thesis()
 
@@ -537,7 +587,6 @@ fig8 <- ggplot(trend_comparison,
   geom_point(size = 2) +
   scale_color_manual(values = c("Full sample" = "#2C5F8A", "Ex-semiconductor" = "#E07B39")) +
   labs(
-    title    = "Figure 8: AI Intensity — Full Sample vs. Ex-Semiconductor",
     subtitle = "Excluding NVDA, AMD, INTC, QCOM, AVGO, TXN",
     x = NULL, y = "Core AI mentions per 1,000 words",
     color = "Sample",
@@ -549,6 +598,88 @@ fig8 <- ggplot(trend_comparison,
 ggsave(file.path(output_dir, "fig8_semi_exclusion.png"), fig8,
        width = 10, height = 5, dpi = 150)
 cat("\nFig 8 saved.\n")
+
+
+# -----------------------------------------------------------------------------
+# 12. FIGURE 9: Control Variable Distributions
+#
+#   Six histograms arranged in a 2×3 grid, one per regression control.
+#   Useful for detecting skewness, outliers, and coverage gaps before
+#   inclusion in the panel regression. Vertical dashed lines mark medians.
+# -----------------------------------------------------------------------------
+ctrl_long <- df %>%
+  select(
+    `SUE Score`            = suescore,
+    `Analyst Coverage`     = analyst_coverage,
+    `ROA`                  = roa,
+    `Book-to-Market`       = book_to_market,
+    `Firm Size (ln MktCap)`= firm_size,
+    `Leverage`             = leverage
+  ) %>%
+  pivot_longer(everything(), names_to = "variable", values_to = "value") %>%
+  filter(!is.na(value))
+
+# Winsorise each control at 1st/99th percentile for display clarity
+ctrl_long <- ctrl_long %>%
+  group_by(variable) %>%
+  mutate(
+    lo    = quantile(value, 0.01),
+    hi    = quantile(value, 0.99),
+    value = pmax(pmin(value, hi), lo)
+  ) %>%
+  ungroup()
+
+medians <- ctrl_long %>%
+  group_by(variable) %>%
+  summarise(med = median(value, na.rm = TRUE), .groups = "drop")
+
+n_obs <- df %>%
+  select(suescore, analyst_coverage, roa, book_to_market, firm_size, leverage) %>%
+  summarise(across(everything(), ~sum(!is.na(.)))) %>%
+  pivot_longer(everything(), names_to = "col", values_to = "n") %>%
+  mutate(variable = c("SUE Score", "Analyst Coverage", "ROA",
+                       "Book-to-Market", "Firm Size (ln MktCap)", "Leverage"))
+
+ctrl_long <- ctrl_long %>%
+  left_join(n_obs %>% select(variable, n), by = "variable")
+
+fig9 <- ggplot(ctrl_long, aes(x = value)) +
+  geom_histogram(bins = 40, fill = "#2C5F8A", color = "white", alpha = 0.85) +
+  geom_vline(data = medians, aes(xintercept = med),
+             linetype = "dashed", color = "#E07B39", linewidth = 0.8) +
+  facet_wrap(~variable, scales = "free", ncol = 3) +
+  labs(
+    subtitle = "Winsorised at 1st/99th percentile for display  |  Dashed line = median",
+    x = NULL, y = "Count",
+    caption  = paste0(sprintf("N = %s observations  |  ", format(nrow(df), big.mark = ",")),
+                      "Controls: SUE score (IBES), analyst coverage (IBES), ",
+                      "ROA, book-to-market, firm size, leverage (Compustat)")
+  ) +
+  theme_thesis() +
+  theme(strip.text = element_text(size = 9, face = "bold"))
+
+ggsave(file.path(output_dir, "fig9_controls.png"), fig9,
+       width = 10, height = 7, dpi = 150)
+cat("Fig 9 saved.\n")
+
+
+# -----------------------------------------------------------------------------
+# 13. CONTROL VARIABLE SUMMARY — missingness and coverage
+# -----------------------------------------------------------------------------
+cat("\n=== Control Variable Coverage ===\n")
+cv_cols <- c("suescore", "analyst_coverage", "roa", "book_to_market", "firm_size", "leverage")
+cv_labels <- c("SUE Score", "Analyst Coverage", "ROA", "Book-to-Market", "Firm Size", "Leverage")
+
+for (i in seq_along(cv_cols)) {
+  v   <- cv_cols[i]
+  lbl <- cv_labels[i]
+  n_present <- sum(!is.na(df[[v]]))
+  pct       <- n_present / nrow(df) * 100
+  cat(sprintf("  %-22s  N = %4d / %d  (%.1f%% coverage)  mean = %.4f  sd = %.4f\n",
+              lbl, n_present, nrow(df), pct,
+              mean(df[[v]], na.rm = TRUE), sd(df[[v]], na.rm = TRUE)))
+}
+cat("\n")
 
 
 # -----------------------------------------------------------------------------
