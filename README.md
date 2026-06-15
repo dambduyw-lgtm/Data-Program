@@ -4,7 +4,7 @@ editor_options:
     wrap: 72
 ---
 
-# AI-Washing in Earnings Calls
+# AI Narratives in Earnings calls: Dual Channel Market Pricing and Cross-Horizon Evidence
 
 This repository contains the code and data pipeline used for my Master's
 thesis analyzing AI disclosure in earnings calls transcripts and its
