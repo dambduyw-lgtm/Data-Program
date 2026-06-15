@@ -1,6 +1,6 @@
 # =============================================================================
 # Panel Linear Regression — AI Semantic Features and Abnormal Returns
-# Thesis: AI Language in Earnings Calls and Stock Returns
+# Thesis: AI Narratives in Earnings Calls — Dual Channel Market Pricing and Cross-Horizon Evidence
 #
 # Sample: BALANCED PANEL. Only firms with the modal number of earnings calls
 # (full coverage across all sample quarters) are retained. Identical

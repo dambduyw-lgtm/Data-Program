@@ -1,6 +1,6 @@
 # =============================================================================
 # Descriptive Statistics — Intermediate Progress Report
-# Thesis: AI Language in Earnings Calls and Stock Returns
+# Thesis: AI Narratives in Earnings Calls — Dual Channel Market Pricing and Cross-Horizon Evidence
 #
 # Data source: data/processed/financial_event_dataset_with_cv.csv
 #   (includes firm-level control variables: SUE, analyst coverage, ROA,
